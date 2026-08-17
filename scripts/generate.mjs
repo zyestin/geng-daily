@@ -195,7 +195,15 @@ ${categoryList}
  *  调用 OpenRouter API
  * ================================================================ */
 
-async function callOpenRouter(systemPrompt, userPrompt) {
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+/**
+ * 生成内容：循环尝试主模型 + 备用模型，每次成功则解析验证；
+ * 解析/验证失败也视为该模型失败，自动切换到下一个，直到全部耗尽。
+ */
+async function generateContent(systemPrompt, userPrompt) {
   const apiKey = process.env.OPENROUTER_API_KEY;
   if (!apiKey) {
     console.error('[ERROR] 环境变量 OPENROUTER_API_KEY 未设置');
@@ -210,77 +218,88 @@ async function callOpenRouter(systemPrompt, userPrompt) {
     : ['nvidia/nemotron-3-super-120b-a12b:free', 'openai/gpt-oss-20b:free'];
   const models = [mainModel, ...fallbackModels];
 
-  const MAX_ATTEMPTS_PER_MODEL = 2;
-  const messages = [
-    { role: 'system', content: systemPrompt },
-    { role: 'user', content: userPrompt },
-  ];
-
   let lastErr = '';
   for (const model of models) {
-    for (let attempt = 1; attempt <= MAX_ATTEMPTS_PER_MODEL; attempt++) {
-      console.log(`[INFO] 调用 OpenRouter... 模型: ${model} (第${attempt}次)`);
-      try {
-        const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
-          method: 'POST',
-          headers: {
-            'Authorization': `Bearer ${apiKey}`,
-            'Content-Type': 'application/json',
-            'HTTP-Referer': 'https://github.com/geng-daily',
-            'X-Title': 'geng-daily',
-          },
-          body: JSON.stringify({
-            model,
-            messages,
-            temperature: 0.85,
-            max_tokens: 4000,
-          }),
-        });
-
-        if (!response.ok) {
-          lastErr = `HTTP ${response.status} ${response.statusText}`;
-          console.warn(`[WARN] ${lastErr}`);
-          // 5xx/429 可重试；其他 4xx 换模型
-          if (response.status >= 500 || response.status === 429) {
-            await sleep(8000 * attempt);
-            continue;
-          }
-          break;
-        }
-
-        const data = await response.json();
-        if (data.error) {
-          lastErr = JSON.stringify(data.error).substring(0, 200);
-          console.warn(`[WARN] API 错误对象: ${lastErr}`);
-          await sleep(8000 * attempt);
-          continue;
-        }
-
-        const content = data.choices?.[0]?.message?.content;
-        if (!content) {
-          lastErr = 'API 返回空内容';
-          console.warn(`[WARN] ${lastErr}`);
-          await sleep(5000);
-          continue;
-        }
-
-        console.log(`[OK] 成功（模型 ${model}），响应 ${content.length} 字符`);
-        return content;
-      } catch (e) {
-        lastErr = e.message;
-        console.warn(`[WARN] 请求异常: ${e.message}`);
-        await sleep(8000 * attempt);
-      }
+    try {
+      const content = await callModel(model, systemPrompt, userPrompt);
+      const parsed = parseContent(content);
+      validateContent(parsed); // 解析失败/字段缺失会抛错 → 换下一个模型
+      console.log(`[OK] 生成成功（模型 ${model}）`);
+      return parsed;
+    } catch (e) {
+      lastErr = e.message;
+      console.warn(`[WARN] 模型 ${model} 生成失败: ${e.message}`);
+      await sleep(3000);
     }
-    console.warn(`[WARN] 模型 ${model} 不可用，尝试下一个...`);
   }
 
   console.error(`[ERROR] 所有模型均失败。最后错误: ${lastErr}`);
   process.exit(1);
 }
 
-function sleep(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
+async function callModel(model, systemPrompt, userPrompt) {
+  const apiKey = process.env.OPENROUTER_API_KEY;
+  const MAX_ATTEMPTS = 2;
+  const messages = [
+    { role: 'system', content: systemPrompt },
+    { role: 'user', content: userPrompt },
+  ];
+
+  let lastErr = '';
+  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+    console.log(`[INFO] 调用 OpenRouter... 模型: ${model} (第${attempt}次)`);
+    try {
+      const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${apiKey}`,
+          'Content-Type': 'application/json',
+          'HTTP-Referer': 'https://github.com/geng-daily',
+          'X-Title': 'geng-daily',
+        },
+        body: JSON.stringify({
+          model,
+          messages,
+          temperature: 0.85,
+          max_tokens: 4000,
+        }),
+      });
+
+      if (!response.ok) {
+        lastErr = `HTTP ${response.status} ${response.statusText}`;
+        console.warn(`[WARN] ${lastErr}`);
+        // 5xx/429 可重试；其他 4xx 换模型
+        if (response.status >= 500 || response.status === 429) {
+          await sleep(8000 * attempt);
+          continue;
+        }
+        break;
+      }
+
+      const data = await response.json();
+      if (data.error) {
+        lastErr = JSON.stringify(data.error).substring(0, 200);
+        console.warn(`[WARN] API 错误对象: ${lastErr}`);
+        await sleep(8000 * attempt);
+        continue;
+      }
+
+      const content = data.choices?.[0]?.message?.content;
+      if (!content) {
+        lastErr = 'API 返回空内容';
+        console.warn(`[WARN] ${lastErr}`);
+        await sleep(5000);
+        continue;
+      }
+
+      return content;
+    } catch (e) {
+      lastErr = e.message;
+      console.warn(`[WARN] 请求异常: ${e.message}`);
+      await sleep(8000 * attempt);
+    }
+  }
+  throw new Error(lastErr || '请求失败');
 }
 
 /* ================================================================
@@ -307,26 +326,23 @@ function parseContent(text) {
     console.error('[ERROR] 无法解析 JSON');
     console.error('清理后文本前500字符:', cleaned.substring(0, 500));
     console.error('错误信息:', e.message);
-    process.exit(1);
+    throw new Error('JSON 解析失败: ' + e.message);
   }
 }
 
 function validateContent(content) {
   if (!content.categories || !Array.isArray(content.categories)) {
-    console.error('[ERROR] 内容缺少 categories 数组');
-    process.exit(1);
+    throw new Error('内容缺少 categories 数组');
   }
   let total = 0;
   for (const cat of content.categories) {
     if (!cat.name || !cat.items || !Array.isArray(cat.items)) {
-      console.error('[ERROR] 分类结构无效:', JSON.stringify(cat).substring(0, 100));
-      process.exit(1);
+      throw new Error('分类结构无效: ' + JSON.stringify(cat).substring(0, 100));
     }
     total += cat.items.length;
     for (const item of cat.items) {
       if (!item.title || !item.summary || !item.detail || !item.usage) {
-        console.error(`[ERROR] 话题缺少必填字段 (${cat.name}):`, JSON.stringify(item).substring(0, 100));
-        process.exit(1);
+        throw new Error(`话题缺少必填字段 (${cat.name}): ` + JSON.stringify(item).substring(0, 100));
       }
     }
   }
@@ -351,9 +367,7 @@ async function main() {
   console.log('');
 
   const { systemPrompt, userPrompt } = buildPrompt(slotKey);
-  const responseText = await callOpenRouter(systemPrompt, userPrompt);
-  const content = parseContent(responseText);
-
+  const content = await generateContent(systemPrompt, userPrompt);
   const total = validateContent(content);
 
   // 补充元数据
