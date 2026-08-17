@@ -1,0 +1,14 @@
+{
+  "name": "geng-daily",
+  "version": "1.0.0",
+  "description": "梗日报 — 每天给你好聊的，AI 自动生成工作生活聊天话题",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate.mjs",
+    "serve": "python3 -m http.server 8080"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}

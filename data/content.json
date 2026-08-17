@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-08-17T09:30:00+08:00",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资（演示数据）",
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "React 19 正式稳定",
+          "summary": "Actions、use() hook、Server Components 全部稳定",
+          "detail": "React 19 正式版已发布，最重要的变化：Actions API 简化表单和异步操作、use() hook 可以在条件语句中读取 Promise、Server Components 从实验阶段进入稳定。React Compiler 自动处理 memoization，useMemo/useCallback 不再是性能首选。",
+          "usage": "「你们看 React 19 没？现在表单直接用 action 属性就行了，不用手动写 onSubmit + preventDefault。而且 React Compiler 挺香的，以后不用满屏写 useMemo 了。」",
+          "tags": ["React", "新版本"]
+        },
+        {
+          "title": "Vue 3.5 的 useTemplateRef",
+          "summary": "新 API 替代 ref 拿模板引用，类型更安全",
+          "detail": "Vue 3.5 引入 useTemplateRef()，替代 ref() + template ref 模式。类型推导更好，在 setup 语法糖下写起来更直觉。配合 3.5 的响应式系统优化，依赖追踪更精确。",
+          "usage": "「Vue 3.5 那个 useTemplateRef 你们试了没？比之前 ref 挂模板方便多了，类型也好推导。」",
+          "tags": ["Vue", "新特性"]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN 新架构全面默认",
+          "summary": "Fabric 渲染器 + TurboModules 成为默认选项",
+          "detail": "React Native 新架构（Fabric 渲染器 + TurboModules）已在 0.76 成为默认。Fabric 实现并发渲染，TurboModules 替代旧 Bridge 通信，JS 与原生调用从异步变同步可选。动画和手势场景性能提升明显。",
+          "usage": "「我们项目升到 0.76 了，新架构确实快了不少，列表滚动卡顿好多了。迁移成本不算高，主要是第三方库适配。」",
+          "tags": ["RN", "新架构", "性能"]
+        },
+        {
+          "title": "Expo SDK 52 发布",
+          "summary": "支持 RN 0.76 新架构，EAS Update 更丝滑",
+          "detail": "Expo SDK 52 跟随 RN 0.76 发布，默认开启新架构。EAS Update 支持 OTA 热更新，可在不走应用商店审核的情况下修 bug 和推小功能。Expo Router 文件路由体验接近 Next.js。",
+          "usage": "「用 Expo 52 做新项目，新架构默认开，Expo Router 文件路由挺方便的，不用再手搓导航了。」",
+          "tags": ["Expo", "RN"]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "Cursor 自定义规则",
+          "summary": ".cursorrules 让 AI 理解你的项目规范",
+          "detail": "Cursor 编辑器支持 .cursorrules 文件，定义项目编码规范、架构约定、命名风格。AI 参考这些规则生成代码，减少手动修正。配合 @codebase 功能，AI 能理解整个项目上下文。",
+          "usage": "「你们 Cursor 配 .cursorrules 没？写上项目规范后，AI 生成的代码风格统一多了，不用每次改一堆。」",
+          "tags": ["Cursor", "AI", "效率"]
+        },
+        {
+          "title": "Copilot 支持多模型",
+          "summary": "Claude、Gemiumi 都可选，不再只靠 GPT",
+          "detail": "GitHub Copilot 现在支持多种模型：Claude 3.5 Sonnet、Gemini 2.0 Flash 等。Claude 擅长复杂逻辑和重构，Gemini 响应快适合补全。可在设置里按需切换。",
+          "usage": "「Copilot 现在能选模型了，写复杂逻辑我切 Claude，写模板代码用 Gemini，各有所长。」",
+          "tags": ["Copilot", "AI"]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "TS 装饰器稳定",
+          "summary": "原生装饰器语法终于稳定",
+          "detail": "TypeScript 将装饰器（Decorators）标记为稳定，等了好几年的特性。原生装饰器不需要 Babel 转译，直接被 TS 编译器支持。对 Angular 和 NestJS 开发者是好消息，写法更简洁。",
+          "usage": "「TS 装饰器终于稳定了，Angular 那帮人要笑醒了。以后写 NestJS 依赖注入也更优雅。」",
+          "tags": ["TypeScript", "装饰器"]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "Bun 持续发力",
+          "summary": "JS 运行时性能继续碾压 Node",
+          "detail": "Bun 在性能上持续发力，HTTP 服务器性能是 Node 的 2-3 倍。新增更多 Node API 兼容，npm install 速度仍同级最快。内置测试运行器和打包器也越来越成熟。",
+          "usage": "「Bun 又更新了，install 速度真的快，HTTP 性能也猛。不过生产环境还在观望，生态兼容是个问题。」",
+          "tags": ["Bun", "运行时"]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "\"能跑就行\" 哲学",
+          "summary": "程序员经久不衰的名言：It works on my machine",
+          "detail": "「能跑就行」是程序员圈子里经久不衰的梗。来源于对代码质量的妥协——能跑就不敢动，动了可能就跑不了。配套名言还有「在我电脑上是好的」「别碰，会出 bug」。反映的是对遗留代码和测试不足的无奈。",
+          "usage": "「这段代码能跑就行，别重构了，一碰就碎。在我电脑上是好的（笑）」",
+          "tags": ["程序员梗", "文化"]
+        }
+      ]
+    }
+  ]
+}

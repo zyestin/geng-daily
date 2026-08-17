@@ -1,0 +1,73 @@
+name: Generate Daily Content
+
+# 触发条件：定时 + 手动
+on:
+  schedule:
+    # 所有时间为 UTC，已按 GMT+8 换算
+    # 工作日 09:30 AM (GMT+8) = 01:30 UTC
+    - cron: '30 1 * * 1-5'
+    # 工作日 06:00 PM (GMT+8) = 10:00 UTC
+    - cron: '0 10 * * 1-5'
+    # 周末 09:00 AM (GMT+8) = 01:00 UTC
+    - cron: '0 1 * * 6,0'
+    # 周末 06:00 PM (GMT+8) = 10:00 UTC
+    - cron: '0 10 * * 6,0'
+  # 手动触发
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: '时间段（auto = 自动判断）'
+        type: choice
+        options:
+          - auto
+          - weekday-morning
+          - weekday-evening
+          - weekend-morning
+          - weekend-evening
+        default: auto
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Determine slot
+        id: slot
+        run: |
+          if [ -n "${{ inputs.slot }}" ]; then
+            echo "slot=${{ inputs.slot }}" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.schedule }}" = "30 1 * * 1-5" ]; then
+            echo "slot=weekday-morning" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.schedule }}" = "0 10 * * 1-5" ]; then
+            echo "slot=weekday-evening" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.schedule }}" = "0 1 * * 6,0" ]; then
+            echo "slot=weekend-morning" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.schedule }}" = "0 10 * * 6,0" ]; then
+            echo "slot=weekend-evening" >> $GITHUB_OUTPUT
+          else
+            echo "slot=auto" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Generate content
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
+          SLOT: ${{ steps.slot.outputs.slot }}
+        run: node scripts/generate.mjs
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/
+          git diff --staged --quiet || git commit -m "🤖 更新梗日报内容 [${{ steps.slot.outputs.slot }}]"
+          git push

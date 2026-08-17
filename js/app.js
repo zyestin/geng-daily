@@ -1,0 +1,152 @@
+(function () {
+  'use strict';
+
+  /* ===== Theme ===== */
+  var html = document.documentElement;
+  var savedTheme = localStorage.getItem('theme') || 'light';
+  html.setAttribute('data-theme', savedTheme);
+
+  document.getElementById('themeToggle').addEventListener('click', function () {
+    var current = html.getAttribute('data-theme');
+    var next = current === 'light' ? 'dark' : 'light';
+    html.setAttribute('data-theme', next);
+    localStorage.setItem('theme', next);
+  });
+
+  /* ===== Elements ===== */
+  var loading = document.getElementById('loading');
+  var errorBox = document.getElementById('error');
+  var grid = document.getElementById('contentGrid');
+  var slotBadge = document.getElementById('slotBadge');
+  var metaDate = document.getElementById('metaDate');
+  var metaCount = document.getElementById('metaCount');
+  var filterBar = document.getElementById('filterBar');
+  var footerInfo = document.getElementById('footerInfo');
+
+  /* ===== Fetch & Render ===== */
+  fetch('data/content.json?t=' + Date.now())
+    .then(function (res) {
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      return res.json();
+    })
+    .then(function (data) {
+      loading.style.display = 'none';
+      grid.style.display = 'grid';
+      render(data);
+    })
+    .catch(function (err) {
+      loading.style.display = 'none';
+      errorBox.style.display = 'flex';
+      console.error('Load error:', err);
+    });
+
+  function render(data) {
+    /* Slot badge */
+    if (data.slot_label) slotBadge.textContent = data.slot_label;
+
+    /* Meta */
+    if (data.generated_at) {
+      var d = new Date(data.generated_at);
+      var weekdays = ['日','一','二','三','四','五','六'];
+      var dateStr = d.getFullYear() + '年' + (d.getMonth()+1) + '月' + d.getDate() + '日';
+      var weekday = '星期' + weekdays[d.getDay()];
+      var hh = String(d.getHours()).padStart(2,'0');
+      var mm = String(d.getMinutes()).padStart(2,'0');
+      metaDate.textContent = dateStr + ' ' + weekday;
+      var total = (data.categories || []).reduce(function (s, c) {
+        return s + (c.items ? c.items.length : 0);
+      }, 0);
+      metaCount.textContent = total + ' 个话题';
+      footerInfo.textContent = '生成于 ' + dateStr + ' ' + weekday + ' ' + hh + ':' + mm;
+    }
+
+    /* Filter bar */
+    var categories = data.categories || [];
+    filterBar.innerHTML = '';
+    var allChip = mkChip('全部', null);
+    allChip.classList.add('active');
+    filterBar.appendChild(allChip);
+    categories.forEach(function (cat) {
+      var chip = mkChip((cat.icon || '') + ' ' + cat.name, cat.name);
+      filterBar.appendChild(chip);
+    });
+
+    /* Cards */
+    grid.innerHTML = '';
+    var delay = 0;
+    categories.forEach(function (cat) {
+      (cat.items || []).forEach(function (item) {
+        var card = createCard(cat, item, delay);
+        grid.appendChild(card);
+        delay += 0.04;
+      });
+    });
+  }
+
+  function mkChip(label, catName) {
+    var chip = document.createElement('button');
+    chip.className = 'filter-chip';
+    chip.textContent = label;
+    chip.addEventListener('click', function () {
+      document.querySelectorAll('.filter-chip').forEach(function (c) {
+        c.classList.remove('active');
+      });
+      chip.classList.add('active');
+      document.querySelectorAll('.card').forEach(function (card) {
+        if (!catName || card.dataset.category === catName) {
+          card.style.display = '';
+        } else {
+          card.style.display = 'none';
+        }
+      });
+    });
+    return chip;
+  }
+
+  function createCard(cat, item, delay) {
+    var card = document.createElement('div');
+    card.className = 'card';
+    card.dataset.category = cat.name;
+    card.style.animationDelay = delay + 's';
+
+    var tagsHtml = '';
+    if (item.tags && item.tags.length) {
+      tagsHtml = '<div class="card-tags">' +
+        item.tags.map(function (t) {
+          return '<span class="tag">' + esc(t) + '</span>';
+        }).join('') + '</div>';
+    }
+
+    card.innerHTML =
+      '<span class="card-category">' + esc(cat.icon || '') + ' ' + esc(cat.name) + '</span>' +
+      '<h3 class="card-title">' + esc(item.title) + '</h3>' +
+      '<p class="card-summary">' + esc(item.summary) + '</p>' +
+      '<div class="card-detail">' +
+        '<div class="detail-section">' +
+          '<p class="detail-label">📖 详细</p>' +
+          '<p class="detail-text">' + esc(item.detail) + '</p>' +
+        '</div>' +
+        '<div class="usage-box">' +
+          '<p class="usage-label">💬 怎么聊</p>' +
+          '<p class="usage-text">' + esc(item.usage) + '</p>' +
+        '</div>' +
+        tagsHtml +
+      '</div>' +
+      '<button class="card-expand-btn"><span class="card-expand-btn-text">展开详情</span></button>';
+
+    card.addEventListener('click', function (e) {
+      card.classList.toggle('expanded');
+      var btn = card.querySelector('.card-expand-btn-text');
+      btn.textContent = card.classList.contains('expanded') ? '收起' : '展开详情';
+    });
+
+    return card;
+  }
+
+  function esc(str) {
+    if (!str) return '';
+    var div = document.createElement('div');
+    div.textContent = str;
+    return div.innerHTML;
+  }
+})();
