@@ -306,6 +306,13 @@ async function callModel(model, systemPrompt, userPrompt) {
  *  解析 & 验证
  * ================================================================ */
 
+/**
+ * 解析 AI 返回内容为 JSON，带容错修复链：
+ * 1. 直接解析
+ * 2. 去掉尾逗号（,} / ,]）
+ * 3. 从右往左截断到每个 }（处理输出被截断/尾部多余说明文字）
+ * 4. 给未加引号的键补引号 + 单引号转双引号（最后手段）
+ */
 function parseContent(text) {
   let cleaned = text.trim();
 
@@ -314,20 +321,62 @@ function parseContent(text) {
     cleaned = cleaned.replace(/^```(?:json)?\s*\n?/, '').replace(/\n?\s*```$/, '');
   }
 
-  // 尝试提取 JSON 对象
+  // 提取 JSON 对象主体
   const jsonMatch = cleaned.match(/\{[\s\S]*\}/);
-  if (jsonMatch) {
-    cleaned = jsonMatch[0];
+  if (jsonMatch) cleaned = jsonMatch[0];
+
+  const strategies = [
+    s => JSON.parse(s),
+    // 尾逗号：{ "a": 1, } / ["a", ]
+    s => JSON.parse(s.replace(/,\s*([}\]])/g, '$1')),
+    // 截断修复：取最后一个完整 token（} 或 ]），丢弃后面的残段，
+    // 扫描括号深度自动补全缺失的 ] }（处理输出被截断的情况）
+    s => {
+      let cut = -1;
+      for (let i = s.length - 1; i >= 0; i--) {
+        if (s[i] === '}' || s[i] === ']') { cut = i + 1; break; }
+      }
+      if (cut < 0) throw new Error('无可截断点');
+      const head = s.slice(0, cut);
+      const stack = [];
+      let inStr = false, escaped = false;
+      for (let i = 0; i < head.length; i++) {
+        const ch = head[i];
+        if (inStr) {
+          if (escaped) escaped = false;
+          else if (ch === '\\') escaped = true;
+          else if (ch === '"') inStr = false;
+          continue;
+        }
+        if (ch === '"') inStr = true;
+        else if (ch === '{' || ch === '[') stack.push(ch);
+        else if (ch === '}' || ch === ']') stack.pop();
+      }
+      let tail = '';
+      while (stack.length) tail += stack.pop() === '{' ? '}' : ']';
+      return JSON.parse(head + tail);
+    },
+    // 键补引号 + 单引号转双引号：{ name: 'x' } → { "name": "x" }
+    s => {
+      const fixed = s
+        .replace(/([{,]\s*)([A-Za-z_][A-Za-z0-9_]*)\s*:/g, '$1"$2":')
+        .replace(/'/g, '"');
+      return JSON.parse(fixed);
+    },
+  ];
+
+  let lastErr = '';
+  for (const fn of strategies) {
+    try {
+      return fn(cleaned);
+    } catch (e) {
+      lastErr = e.message;
+    }
   }
 
-  try {
-    return JSON.parse(cleaned);
-  } catch (e) {
-    console.error('[ERROR] 无法解析 JSON');
-    console.error('清理后文本前500字符:', cleaned.substring(0, 500));
-    console.error('错误信息:', e.message);
-    throw new Error('JSON 解析失败: ' + e.message);
-  }
+  console.error('[ERROR] 无法解析 JSON');
+  console.error('清理后文本前500字符:', cleaned.substring(0, 500));
+  throw new Error('JSON 解析失败: ' + lastErr);
 }
 
 function validateContent(content) {
