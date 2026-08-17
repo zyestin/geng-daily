@@ -195,7 +195,7 @@ ${categoryList}
 
 async function callOpenRouter(systemPrompt, userPrompt) {
   const apiKey = process.env.OPENROUTER_API_KEY;
-  const model = process.env.OPENROUTER_MODEL || 'google/gemini-2.0-flash-exp:free';
+  const model = process.env.OPENROUTER_MODEL || 'z-ai/glm-5.2:free';
 
   if (!apiKey) {
     console.error('[ERROR] 环境变量 OPENROUTER_API_KEY 未设置');
