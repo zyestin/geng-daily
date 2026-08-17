@@ -23,7 +23,7 @@
       "date": "2026-08-17",
       "slot": "weekday-evening",
       "slot_label": "工作日傍晚 · 工作生活各半",
-      "generated_at": "2026-08-17T05:39:31.044Z",
+      "generated_at": "2026-08-17T06:24:19.403Z",
       "weekday": "星期一",
       "file": "archive/2026-08-17-weekday-evening.json",
       "topic_count": 12,
@@ -37,5 +37,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-17T05:39:31.046Z"
+  "updated_at": "2026-08-17T06:24:19.404Z"
 }
