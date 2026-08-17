@@ -159,6 +159,23 @@
     return chip;
   }
 
+  /* ===== 原文链接：有真实 source 用之，否则降级为搜索 ===== */
+  function buildSourceLink(item) {
+    var src = item.source || '';
+    var isUrl = /^https?:\/\/\S+$/i.test(src.trim());
+    var url, label;
+    if (isUrl) {
+      url = src.trim();
+      label = '👉 原文';
+    } else {
+      var q = ((item.title || '') + ' ' + (item.summary || '')).trim();
+      url = 'https://www.bing.com/search?q=' + encodeURIComponent(q);
+      label = '👉 搜索原文';
+    }
+    return '<a class="detail-link" href="' + esc(url) + '" target="_blank" rel="noopener noreferrer">' +
+           esc(label) + '</a>';
+  }
+
   function createCard(cat, item, delay) {
     var card = document.createElement('div');
     card.className = 'card';
@@ -181,6 +198,7 @@
         '<div class="detail-section">' +
           '<p class="detail-label">📖 详细</p>' +
           '<p class="detail-text">' + esc(item.detail) + '</p>' +
+          buildSourceLink(item) +
         '</div>' +
         '<div class="usage-box">' +
           '<p class="usage-label">💬 怎么聊</p>' +
@@ -195,6 +213,14 @@
       var btn = card.querySelector('.card-expand-btn-text');
       btn.textContent = card.classList.contains('expanded') ? '收起' : '展开详情';
     });
+
+    /* 点击原文链接不触发卡片折叠 */
+    var link = card.querySelector('.detail-link');
+    if (link) {
+      link.addEventListener('click', function (e) {
+        e.stopPropagation();
+      });
+    }
 
     return card;
   }

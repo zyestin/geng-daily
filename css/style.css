@@ -320,6 +320,18 @@ body {
 
 .detail-text { font-size: 0.85rem; color: var(--text); line-height: 1.65; }
 
+.detail-link {
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--primary);
+  text-decoration: none;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+.detail-link:hover { text-decoration: underline; opacity: 0.85; }
+
 .usage-box {
   background: var(--accent-light);
   border: 1px solid var(--accent-border);
