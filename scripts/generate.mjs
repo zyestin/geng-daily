@@ -212,7 +212,7 @@ async function callOpenRouter(systemPrompt, userPrompt) {
       'Authorization': `Bearer ${apiKey}`,
       'Content-Type': 'application/json',
       'HTTP-Referer': 'https://github.com/geng-daily',
-      'X-Title': '梗日报',
+      'X-Title': 'geng-daily',
     },
     body: JSON.stringify({
       model,
