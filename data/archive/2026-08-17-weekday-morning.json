@@ -5,25 +5,25 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "React 19.2 Actions",
-          "summary": "异步状态处理更丝滑了",
-          "detail": "React 19 全面普及后，19.2 版本对 Actions 和 useActionState 做了进一步优化，终于解决了之前表单提交时的状态闪烁问题，而且内置了更完善的乐观更新支持，不用再装一堆第三方库了。",
-          "usage": "昨天试着把项目里的表单逻辑全换成 Actions，写起来真的爽，少写了一半的 useState 和 loading 状态。同事你升级到 19.2 了没？那个 useActionState 配合 useFormStatus 简直是表单救星。",
+          "title": "React 20 预热",
+          "summary": "React 20 RFC 泄露，编译器成标配",
+          "detail": "最近社区流出了 React 20 的早期 RFC 草案，最大的亮点是 React Compiler 将从选配变成默认开启，并且 Server Components 的心智模型有了重大简化，不再需要手动区分 'use client' 和 'use server'。",
+          "usage": "早上好！你们看到 React 20 的那个 RFC 了吗？说是编译器要默认开启了，以后不用再为了 useMemo 和 useCallback 折腾了。感觉这波更新后，我们项目里的旧代码能少写一半的模板代码，就是不知道升级的时候会不会又是一场血雨腥风。",
           "tags": [
             "React",
-            "Actions",
-            "表单"
+            "前端框架",
+            "React Compiler"
           ]
         },
         {
-          "title": "Next.js 缓存大改",
-          "summary": "告别玄学缓存调试",
-          "detail": "Next.js 15/16 时代终于把 App Router 的缓存机制理顺了，默认不再缓存所有 fetch 请求，改成了更符合直觉的按需缓存。以前那种改了数据但页面不更新的玄学问题大幅减少。",
-          "usage": "以前用 Next.js App Router 调缓存简直像做法，现在终于像正常人写的代码了。你们项目迁到最新版了吗？感觉现在 fetch 的缓存行为终于符合人类直觉了。",
+          "title": "Vue 4 路线图",
+          "summary": "Vapor Mode 稳定，Vue 4 提上日程",
+          "detail": "Vue 官方最近发布了 Vapor Mode 的稳定版，性能几乎媲美原生 JS，并且暗示 Vue 4 的开发工作已经启动。Vapor 模式下不再需要虚拟 DOM，打包体积也大幅缩小，让 Svelte 压力倍增。",
+          "usage": "说真的，Vue 这波 Vapor Mode 有点猛啊。我试了一下，编译出来的包体积小了一大截，性能甚至比 Svelte 还快。尤雨溪这是要在大框架里卷出新高度啊。你们最近的项目有考虑切过去试试吗？",
           "tags": [
-            "Next.js",
-            "AppRouter",
-            "缓存"
+            "Vue",
+            "Vapor Mode",
+            "性能优化"
           ]
         }
       ]
@@ -33,25 +33,25 @@
       "icon": "📱",
       "items": [
         {
-          "title": "RN 0.79 全量新架构",
-          "summary": "New Architecture 终于默认了",
-          "detail": "React Native 0.79 版本正式将新架构（Fabric 渲染器、TurboModules、JSI）设为完全默认，且不再提供回退到旧架构的选项。性能提升显著，特别是启动速度和列表滚动流畅度。",
-          "usage": "RN 0.79 终于把旧架构的后路断了，新架构全面强制。我们 App 升级后冷启动快了将近 200ms。你那边升级踩坑没？听说有些老库没适配直接挂了。",
+          "title": "RN 0.85 全面拥抱新架构",
+          "summary": "RN 0.85 彻底移除旧架构支持",
+          "detail": "React Native 0.85 版本正式发布，最大的变化是彻底移除了对旧架构（Bridge）的兼容代码，全面拥抱 Fabric 和 TurboModules。这意味着所有第三方库必须迁移到新架构才能使用，虽然短期阵痛，但性能提升显著。",
+          "usage": "兄弟们，RN 0.85 你们升了吗？这次是真的把旧架构的老底给掀了，我们项目里好几个老库直接挂了。不过升级完之后首屏加载确实快了不少，滑动也不卡了。现在只能硬着头皮帮那些不维护的库提 PR 了，简直是给开源社区打工。",
           "tags": [
-            "RN",
-            "新架构",
-            "Fabric"
+            "React Native",
+            "Fabric",
+            "新架构"
           ]
         },
         {
-          "title": "Expo SDK 54",
-          "summary": "EAS Build 越来越香",
-          "detail": "Expo SDK 54 带来了更强大的 EAS Build 配置，现在原生配置的覆盖更加灵活，配合 React Native 0.79，几乎可以实现纯 JS 项目无缝接入原生模块，CNG (Continuous Native Generation) 成为主流。",
-          "usage": "现在用 Expo 做开发真的不想再碰原生 iOS 工程了，EAS Build 顺手得很。咱们是不是可以考虑下个版本全面转 Expo CNG？维护成本能降不少。",
+          "title": "Expo SDK 54 终极形态",
+          "summary": "Expo 终于支持原生模块无缝混编",
+          "detail": "Expo SDK 54 发布，最大的杀手锏是实现了与原生 iOS/Android 代码的无缝混编，几乎不再需要 eject。结合 EAS Build 的更新，现在完全可以把 Expo 当作一个全能的 RN 脚手架来用，开发体验拉满。",
+          "usage": "最近用 Expo SDK 54 跑了个新项目，发现居然可以直接在项目里写原生代码混编了，再也不用纠结要不要 eject 了。感觉现在纯 RN 开发和 Expo 开发的界限越来越模糊了，以后新项目我绝对首选 Expo。",
           "tags": [
             "Expo",
-            "EAS",
-            "跨端"
+            "跨端开发",
+            "EAS"
           ]
         }
       ]
@@ -61,25 +61,25 @@
       "icon": "🤖",
       "items": [
         {
-          "title": "Cursor 背景理解",
-          "summary": "AI 终于懂全局上下文了",
-          "detail": "Cursor 最新版本增强了对整个项目代码库的后台索引和理解能力。现在不用手动 @codebase，它也能根据当前业务逻辑准确推断出跨文件的改动，而且生成代码的风格越来越贴合现有项目规范。",
-          "usage": "最近用 Cursor 感觉它变聪明了，不用每次都 @一大堆文件，它自己就能把上下游逻辑串起来。感觉过两年咱们连业务逻辑都不用记了，全靠 AI 检索。",
+          "title": "Cursor Agent 2.0 自动打工",
+          "summary": "Cursor 更新 Agent 模式，全栈自动生成",
+          "detail": "Cursor 推出了 Agent 2.0 模式，现在不仅能补全代码，还能根据需求描述自动分析项目结构、修改文件、跑测试甚至自动提交 PR。虽然偶尔会抽风，但大部分时间像个不知疲倦的初级工程师。",
+          "usage": "你们试了 Cursor 的新 Agent 模式没？我昨天直接跟它说'帮我加个登录页面'，它自己找路由、写组件、改接口，最后还自己跑了下 lint。虽然中间改错了一个文件，但这效率太恐怖了。感觉以后我们就是 AI 的代码审查员了。",
           "tags": [
             "Cursor",
             "AI编程",
-            "上下文"
+            "Copilot"
           ]
         },
         {
-          "title": "AI 生成 E2E 测试",
-          "summary": "再也不用自己写测试用例了",
-          "detail": "结合 Playwright 和最新的 AI Agent，现在可以通过给 AI 一个自然语言描述，让它直接看着 UI 操作并生成可维护的 E2E 测试代码。甚至能在 UI 改动后自动修复测试用例。",
-          "usage": "我刚试了用 AI 跑 E2E 测试，给它一句话它自己点页面就把测试代码生成了，太省事了。以后前端写测试的阻力应该能小点吧？",
+          "title": "v0 全栈化生成",
+          "summary": "v0.dev 现在能直接生成后端逻辑",
+          "detail": "Vercel 的 v0.dev 更新了，不再局限于生成 UI 组件，现在可以通过自然语言直接生成包含数据库 Schema 和 API 路由的全栈功能模块，并且可以直接部署到 Vercel 上，前端开发者的全栈门槛降到了冰点。",
+          "usage": "昨天我用 v0 直接生成了一个带增删改查的列表页，连 API 和数据库表都给我建好了，一键部署直接能用。这要是放在三年前，起码得搞两三天。现在前端门槛真是越来越低了，卷不动了啊。",
           "tags": [
-            "AI",
-            "E2E",
-            "测试"
+            "v0",
+            "AI生成UI",
+            "全栈"
           ]
         }
       ]
@@ -89,25 +89,25 @@
       "icon": "📘",
       "items": [
         {
-          "title": "Node 23 原生跑 TS",
-          "summary": "无需编译直接执行 TS",
-          "detail": "Node.js 23 终于稳定了内置的 TypeScript 支持（通过 --experimental-strip-types 或直接运行），虽然还不做类型检查，但移除了对 ts-node 或 tsx 的依赖，本地跑脚本方便太多。",
-          "usage": "Node 23 可以直接跑 .ts 文件了，不用再配一堆 ts-node 环境。以后写脚本爽多了，你更新 Node 版本没？再也不用纠结编译配置了。",
+          "title": "Bun 2.0 颠覆 Node",
+          "summary": "Bun 2.0 发布，全面兼容 Node API",
+          "detail": "Bun 正式发布了 2.0 版本，不仅启动速度和包安装速度比 Node 快了数倍，而且宣布 100% 兼容 Node.js API。同时内置了测试运行器、打包器和 SQLite 客户端，很多团队开始将生产环境从 Node 迁移到 Bun。",
+          "usage": "你们服务端有用 Bun 跑过吗？我们最近把一个边缘计算的小服务切到 Bun 2.0 了，冷启动速度简直快得离谱，而且不用再装一堆乱七八糟的依赖。不过生产环境我还是不太敢直接上，再观望观望，怕有坑。",
           "tags": [
-            "Node",
-            "TypeScript",
-            "原生"
+            "Bun",
+            "Node.js",
+            "运行时"
           ]
         },
         {
-          "title": "Bun 1.2 生态扩张",
-          "summary": "Bun 终于稳定可用",
-          "detail": "Bun 1.2 进一步完善了 API 兼容性和稳定性，不仅包安装速度依然是天花板级别，而且 Windows 端的 IO 性能终于追上来了。很多边缘项目开始用 Bun 替代 Node 作为生产运行时。",
-          "usage": "Bun 1.2 装包速度还是那么离谱，Windows 版本终于不卡了。我在考虑咱们的一些内部工具脚本能不能切到 Bun，那速度提升是真的肉眼可见。",
+          "title": "TS 6.0 装饰器大统",
+          "summary": "TypeScript 6.0 原生支持装饰器",
+          "detail": "TypeScript 6.0 Beta 发布，终于将 Stage 3 的 ECMAScript 装饰器设为默认，不再需要实验性标志。同时引入了更强大的类型推断，减少了对泛型显式注解的依赖。",
+          "usage": "TS 6.0 Beta 出了，装饰器终于转正了。以前用 Nest.js 或者一些 ORM 框架还要开实验性选项，现在终于清爽了。不过现在前端框架都在搞编译器，TS 这种在类型上做文章的更新，感觉热度没以前那么高了。",
           "tags": [
-            "Bun",
-            "运行时",
-            "性能"
+            "TypeScript",
+            "TS6",
+            "装饰器"
           ]
         }
       ]
@@ -117,25 +117,25 @@
       "icon": "🌟",
       "items": [
         {
-          "title": "Tauri 2.0 移动端",
-          "summary": "桌面端框架进军手机端",
-          "detail": "Tauri 2.0 正式发布并支持 iOS 和 Android，它用各平台原生 WebView 替代了捆绑庞大的浏览器内核。相比 Electron 包体积极小，现在也加入了跨端竞争，很多轻量级 App 开始采用。",
-          "usage": "Tauri 2.0 现在能直接打包手机 App 了，体积比 RN 和 Electron 小太多了。不过我还是觉得写 RN 更顺手，你看过它的 API 设计没？感觉前端转过去成本挺低。",
+          "title": "LocalLM 本地大模型部署",
+          "summary": "一键在 Mac/PC 上跑百亿参数大模型",
+          "detail": "GitHub 上一个叫 LocalLM 的开源项目突然爆火，它通过极致的量化和推理优化，让你能在普通的 M系列 Mac 甚至带显卡的 Windows 笔记本上流畅跑百亿参数的大模型，而且 API 完全兼容 OpenAI。",
+          "usage": "最近 GitHub 上那个 LocalLM 项目你们看了吗？我在我的 M2 MBP 上试了一下，跑个 14B 的模型居然一点都不卡。以后写代码用 AI，连网都不用连了，隐私性和速度都有了，这项目这周 star 涨了快一万了。",
           "tags": [
-            "Tauri",
-            "移动端",
-            "开源"
+            "GitHub",
+            "开源",
+            "本地大模型"
           ]
         },
         {
-          "title": "Vercel AI SDK 4.0",
-          "summary": "前端接入 AI 的标配",
-          "detail": "Vercel AI SDK 4.0 发布，新增了对更多模型流式输出的支持，并简化了 React Server Components 中的 AI 状态管理。现在前端做个 ChatGPT 包装器或者 AI 功能几乎都在用它。",
-          "usage": "现在做个 AI 功能不用自己手撸 SSE 了，Vercel AI SDK 4.0 把状态管理和流式输出封装得特别优雅。咱们 App 后续要加 AI 的话，可以直接上这个。",
+          "title": "Shadcn UI 的变体引擎",
+          "summary": "Shadcn 推出自动主题生成工具",
+          "detail": "Shadcn UI 推出了一个基于 AI 的变体引擎，可以根据一张设计稿或者一段描述，直接生成符合 Shadcn 规范的完整组件代码和 Tailwind 配置。这使得原本就火爆的 Shadcn 再次统治了前端 UI 圈。",
+          "usage": "Shadcn 又整活儿了，现在可以直接传个设计稿给它，它能自动吐出对应的组件代码。我们设计组昨天还在跟我扯设计还原度的事，我直接把这个工具甩给他们，说以后你们自己生成去得了，哈哈。",
           "tags": [
-            "Vercel",
-            "AI SDK",
-            "流式"
+            "Shadcn",
+            "Tailwind",
+            "UI组件"
           ]
         }
       ]
@@ -145,31 +145,31 @@
       "icon": "😄",
       "items": [
         {
-          "title": "AI 写的锅我不背",
-          "summary": "Cursor/Copilot 背锅指南",
-          "detail": "随着 AI 写代码比例越来越高，现在 Code Review 时经常看到不知所云的代码。开发者的新借口变成了“这是 AI 生成的”，但往往 AI 写的 Bug 比手写的还难找，于是大家开始互相甩锅给 AI。",
-          "usage": "刚才看代码有个巨离谱的 bug，我去问那个同事，他说这是 Cursor 自动补全的……现在甩锅都有新理由了是吧？这锅 AI 不背，还得是你背。",
+          "title": "AI 焦虑症候群",
+          "summary": "程序员怕被 AI 替代，结果成了 AI 饲养员",
+          "detail": "最近技术社区流行一个梗：大家原本担心 AI 会取代程序员，结果发现现在的状态是每天都在给 AI 修 Bug、调 Prompt、纠正幻觉，程序员变成了名副其实的 'AI 饲养员' 或者 '赛博铲屎官'。",
+          "usage": "以前天天担心 AI 抢饭碗，现在发现根本抢不了，因为它写的代码全是坑，我还得天天跟在屁股后面擦屁股。我现在觉得自己不像个高级开发，倒像个赛博铲屎官，每天的工作就是给 AI 投喂报错日志。",
           "tags": [
-            "AI",
-            "甩锅",
-            "CodeReview"
+            "AI梗",
+            "程序员日常",
+            "赛博铲屎官"
           ]
         },
         {
-          "title": "给丈母娘装个AI",
-          "summary": "用 AI 教育与看球",
-          "detail": "最近流行给家里长辈装 AI 助手。比如教丈母娘用 AI 查乒乓球比赛解说，或者用 AI 分析孙女的作业。长辈们对能聊天的 AI 接受度出奇的高，甚至开始用 AI 语音指挥女婿干活。",
-          "usage": "昨天我给我丈母娘装了个 AI 语音助手，教她用 AI 问乒乓球赛程和分析我闺女的数学题。结果今天早上她用 AI 查了怎么让我多干点家务……这技术发展对我是真不利啊。",
+          "title": "带娃与 Debug 的共性",
+          "summary": "带7岁娃写作业和调代码一样崩溃",
+          "detail": "技术论坛上有个热帖，讨论带娃和写代码的相似之处。比如：7岁孩子辅导作业时的随机崩溃，就像生产环境偶发的内存泄漏；你跟她讲逻辑，她跟你讲感情；你以为修好了这个 Bug，结果引发了另外三个 Bug。",
+          "usage": "昨晚辅导我家闺女写数学作业，那感觉简直跟排查线上并发 Bug 一模一样。你跟她讲逻辑，她跟你讲感觉；好不容易算对了一道题，结果下一道题又错了，就跟改完一个 Bug 引发三个新 Bug 一样，太心累了。还是回去写代码吧，至少代码不会顶嘴。",
           "tags": [
-            "丈母娘",
-            "AI生活",
-            "乒乓球"
+            "带娃梗",
+            "Debug",
+            "程序员生活"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-08-17T02:54:21.464Z",
+  "generated_at": "2026-08-17T03:16:54.835Z",
   "slot": "weekday-morning",
   "slot_label": "工作日早晨 · 同事聊资"
 }
