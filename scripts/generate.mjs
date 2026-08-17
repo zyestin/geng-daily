@@ -18,7 +18,7 @@
  * 零依赖：仅使用 Node.js 内置模块（fs/path/url）和全局 fetch（Node 18+）。
  */
 
-import { writeFileSync, mkdirSync, existsSync } from 'fs';
+import { writeFileSync, readFileSync, readdirSync, mkdirSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
@@ -354,9 +354,72 @@ async function main() {
   writeFileSync(archivePath, JSON.stringify(content, null, 2));
   console.log(`[OK] 已归档: ${archivePath}`);
 
+  // 重建历史索引
+  const history = rebuildHistory(dataDir);
+  const historyPath = join(dataDir, 'history.json');
+  writeFileSync(historyPath, JSON.stringify(history, null, 2));
+  console.log(`[OK] 已更新历史索引: ${historyPath}（${history.items.length} 条记录）`);
+
   console.log(`\n====================================`);
   console.log(`  完成! 共 ${total} 个话题`);
   console.log(`====================================`);
+}
+
+/* ================================================================
+ *  历史索引：扫描 data/archive/ 重建 data/history.json
+ *  每条记录含 date/slot/label/generated_at/file/topic_count 等，
+ *  供前端列出"前几日"内容并按需加载对应归档文件。
+ * ================================================================ */
+
+function rebuildHistory(dataDir) {
+  const archiveDir = join(dataDir, 'archive');
+  const weekdays = ['日', '一', '二', '三', '四', '五', '六'];
+  if (!existsSync(archiveDir)) {
+    return { items: [], updated_at: new Date().toISOString() };
+  }
+
+  const files = readdirSync(archiveDir)
+    .filter(f => f.endsWith('.json'))
+    .sort()
+    .reverse(); // 最新的在前
+
+  const items = [];
+  const seen = new Set();
+
+  for (const f of files) {
+    let c;
+    try {
+      c = JSON.parse(readFileSync(join(archiveDir, f), 'utf-8'));
+    } catch {
+      continue;
+    }
+    const m = f.match(/^(\d{4})-(\d{2})-(\d{2})-(.+)\.json$/);
+    const dateStr = m ? `${m[1]}-${m[2]}-${m[3]}` : '';
+    const slotKey = m ? m[4] : (c.slot || 'unknown');
+    const key = `${dateStr}-${slotKey}`;
+    if (seen.has(key)) continue; // 同日同时段只保留一份
+    seen.add(key);
+
+    const d = c.generated_at ? new Date(c.generated_at) : null;
+    const weekday = d ? '星期' + weekdays[d.getDay()] : '';
+    const topicCount = (c.categories || []).reduce(
+      (s, cat) => s + (cat.items ? cat.items.length : 0), 0
+    );
+
+    items.push({
+      key,
+      date: dateStr,
+      slot: slotKey,
+      slot_label: c.slot_label || slotKey,
+      generated_at: c.generated_at || '',
+      weekday,
+      file: `archive/${f}`,
+      topic_count: topicCount,
+      category_names: (c.categories || []).map(cat => cat.name),
+    });
+  }
+
+  return { items, updated_at: new Date().toISOString() };
 }
 
 main().catch(err => {

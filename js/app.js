@@ -22,23 +22,79 @@
   var metaCount = document.getElementById('metaCount');
   var filterBar = document.getElementById('filterBar');
   var footerInfo = document.getElementById('footerInfo');
+  var historyNav = document.getElementById('historyNav');
+  var historyScroll = document.getElementById('historyScroll');
 
-  /* ===== Fetch & Render ===== */
-  fetch('data/content.json?t=' + Date.now())
-    .then(function (res) {
-      if (!res.ok) throw new Error('HTTP ' + res.status);
-      return res.json();
-    })
-    .then(function (data) {
-      loading.style.display = 'none';
-      grid.style.display = 'grid';
-      render(data);
-    })
-    .catch(function (err) {
-      loading.style.display = 'none';
-      errorBox.style.display = 'flex';
-      console.error('Load error:', err);
+  /* ===== Slot 简短标签 ===== */
+  function slotShort(key, label) {
+    var map = {
+      'weekday-morning': '早·同事',
+      'weekday-evening': '晚·工作生活',
+      'weekend-morning': '早·家庭',
+      'weekend-evening': '晚·家庭',
+    };
+    return map[key] || (label ? label.slice(0, 6) : key);
+  }
+
+  /* ===== 加载内容（最新或历史归档） ===== */
+  function loadContent(url) {
+    loading.style.display = 'flex';
+    grid.style.display = 'none';
+    errorBox.style.display = 'none';
+    return fetch(url + '?t=' + Date.now())
+      .then(function (res) {
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        return res.json();
+      })
+      .then(function (data) {
+        loading.style.display = 'none';
+        grid.style.display = 'grid';
+        render(data);
+      })
+      .catch(function (err) {
+        loading.style.display = 'none';
+        errorBox.style.display = 'flex';
+        console.error('Load error:', err);
+      });
+  }
+
+  /* ===== 渲染历史导航 ===== */
+  function renderHistory(items) {
+    if (!items || !items.length) return;
+    historyNav.style.display = 'flex';
+    historyScroll.innerHTML = '';
+    items.forEach(function (it, i) {
+      var chip = document.createElement('button');
+      chip.className = 'history-chip';
+      if (i === 0) chip.classList.add('active');
+      var dateParts = (it.date || '').split('-');
+      var dateStr = (dateParts[1] || '') + '/' + (dateParts[2] || '');
+      var html = '';
+      if (i === 0) html += '<span class="latest-badge">最新</span>';
+      html += '<span class="chip-date">' + esc(dateStr) + '</span>' +
+              '<span class="chip-slot">' + esc(slotShort(it.slot, it.slot_label)) + '</span>';
+      chip.innerHTML = html;
+      chip.addEventListener('click', function () {
+        if (chip.classList.contains('active')) return;
+        document.querySelectorAll('.history-chip').forEach(function (c) {
+          c.classList.remove('active');
+        });
+        chip.classList.add('active');
+        loadContent('data/' + it.file);
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+      historyScroll.appendChild(chip);
     });
+  }
+
+  /* ===== 启动：加载最新内容 + 历史索引 ===== */
+  loadContent('data/content.json');
+  fetch('data/history.json?t=' + Date.now())
+    .then(function (res) { return res.ok ? res.json() : null; })
+    .then(function (hist) {
+      if (hist && hist.items) renderHistory(hist.items);
+    })
+    .catch(function () { /* 历史索引加载失败不影响主内容展示 */ });
 
   function render(data) {
     /* Slot badge */
