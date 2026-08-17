@@ -197,59 +197,90 @@ ${categoryList}
 
 async function callOpenRouter(systemPrompt, userPrompt) {
   const apiKey = process.env.OPENROUTER_API_KEY;
-  const model = process.env.OPENROUTER_MODEL || 'z-ai/glm-5.2:free';
-
   if (!apiKey) {
     console.error('[ERROR] 环境变量 OPENROUTER_API_KEY 未设置');
     console.error('请在 GitHub Secrets 或本地 .env 中配置');
     process.exit(1);
   }
 
-  console.log('[INFO] 调用 OpenRouter API...');
-  console.log('  模型:', model);
+  // 主模型 + 备用模型：主模型连续失败时自动降级，提高定时任务成功率
+  const mainModel = process.env.OPENROUTER_MODEL || 'z-ai/glm-5.2:free';
+  const fallbackModels = process.env.OPENROUTER_FALLBACK_MODELS
+    ? process.env.OPENROUTER_FALLBACK_MODELS.split(',').map(s => s.trim()).filter(Boolean)
+    : ['nvidia/nemotron-3-super-120b-a12b:free', 'openai/gpt-oss-20b:free'];
+  const models = [mainModel, ...fallbackModels];
 
-  const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
-    method: 'POST',
-    headers: {
-      'Authorization': `Bearer ${apiKey}`,
-      'Content-Type': 'application/json',
-      'HTTP-Referer': 'https://github.com/geng-daily',
-      'X-Title': 'geng-daily',
-    },
-    body: JSON.stringify({
-      model,
-      messages: [
-        { role: 'system', content: systemPrompt },
-        { role: 'user', content: userPrompt },
-      ],
-      temperature: 0.85,
-      max_tokens: 4000,
-    }),
-  });
+  const MAX_ATTEMPTS_PER_MODEL = 2;
+  const messages = [
+    { role: 'system', content: systemPrompt },
+    { role: 'user', content: userPrompt },
+  ];
 
-  if (!response.ok) {
-    const errorText = await response.text();
-    console.error(`[ERROR] API 返回错误: ${response.status} ${response.statusText}`);
-    console.error('响应内容:', errorText);
-    process.exit(1);
+  let lastErr = '';
+  for (const model of models) {
+    for (let attempt = 1; attempt <= MAX_ATTEMPTS_PER_MODEL; attempt++) {
+      console.log(`[INFO] 调用 OpenRouter... 模型: ${model} (第${attempt}次)`);
+      try {
+        const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
+          method: 'POST',
+          headers: {
+            'Authorization': `Bearer ${apiKey}`,
+            'Content-Type': 'application/json',
+            'HTTP-Referer': 'https://github.com/geng-daily',
+            'X-Title': 'geng-daily',
+          },
+          body: JSON.stringify({
+            model,
+            messages,
+            temperature: 0.85,
+            max_tokens: 4000,
+          }),
+        });
+
+        if (!response.ok) {
+          lastErr = `HTTP ${response.status} ${response.statusText}`;
+          console.warn(`[WARN] ${lastErr}`);
+          // 5xx/429 可重试；其他 4xx 换模型
+          if (response.status >= 500 || response.status === 429) {
+            await sleep(8000 * attempt);
+            continue;
+          }
+          break;
+        }
+
+        const data = await response.json();
+        if (data.error) {
+          lastErr = JSON.stringify(data.error).substring(0, 200);
+          console.warn(`[WARN] API 错误对象: ${lastErr}`);
+          await sleep(8000 * attempt);
+          continue;
+        }
+
+        const content = data.choices?.[0]?.message?.content;
+        if (!content) {
+          lastErr = 'API 返回空内容';
+          console.warn(`[WARN] ${lastErr}`);
+          await sleep(5000);
+          continue;
+        }
+
+        console.log(`[OK] 成功（模型 ${model}），响应 ${content.length} 字符`);
+        return content;
+      } catch (e) {
+        lastErr = e.message;
+        console.warn(`[WARN] 请求异常: ${e.message}`);
+        await sleep(8000 * attempt);
+      }
+    }
+    console.warn(`[WARN] 模型 ${model} 不可用，尝试下一个...`);
   }
 
-  const data = await response.json();
+  console.error(`[ERROR] 所有模型均失败。最后错误: ${lastErr}`);
+  process.exit(1);
+}
 
-  if (data.error) {
-    console.error('[ERROR] API 返回错误对象:', JSON.stringify(data.error, null, 2));
-    process.exit(1);
-  }
-
-  const content = data.choices?.[0]?.message?.content;
-  if (!content) {
-    console.error('[ERROR] API 返回空内容');
-    console.error('完整响应:', JSON.stringify(data, null, 2).substring(0, 500));
-    process.exit(1);
-  }
-
-  console.log('[INFO] API 调用成功，响应长度:', content.length, '字符');
-  return content;
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
 }
 
 /* ================================================================
