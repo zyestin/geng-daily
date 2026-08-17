@@ -5,7 +5,7 @@
       "date": "2026-08-17",
       "slot": "weekday-morning",
       "slot_label": "工作日早晨 · 同事聊资",
-      "generated_at": "2026-08-17T02:54:21.464Z",
+      "generated_at": "2026-08-17T03:16:54.835Z",
       "weekday": "星期一",
       "file": "archive/2026-08-17-weekday-morning.json",
       "topic_count": 12,
@@ -17,7 +17,25 @@
         "开源热门",
         "开发者梗"
       ]
+    },
+    {
+      "key": "2026-08-17-weekday-evening",
+      "date": "2026-08-17",
+      "slot": "weekday-evening",
+      "slot_label": "工作日傍晚 · 工作生活各半",
+      "generated_at": "2026-08-17T05:06:53.716Z",
+      "weekday": "星期一",
+      "file": "archive/2026-08-17-weekday-evening.json",
+      "topic_count": 12,
+      "category_names": [
+        "AI编程",
+        "工程化",
+        "时事热点",
+        "亲子时光",
+        "热门影视",
+        "生活妙招"
+      ]
     }
   ],
-  "updated_at": "2026-08-17T05:04:04.254096+00:00"
+  "updated_at": "2026-08-17T05:06:53.718Z"
 }
