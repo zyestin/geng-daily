@@ -84,6 +84,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # 关键：checkout 检出的是"触发时的 commit"，而 generate 在运行中才提交新内容。
+      # 这里拉取最新 main，确保部署的 content.json / 前端代码都是本轮生成后的版本。
+      - name: Sync to latest main
+        run: git pull --ff-only origin main
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
