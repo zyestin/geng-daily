@@ -51,7 +51,7 @@ git push -u origin main
 2. 进入 Keys 页面创建 API Key
 3. 复制 Key（格式 `sk-or-v1-...`）
 
-> OpenRouter 提供免费模型（如 `google/gemini-2.0-flash-exp:free`），注册即用，无需绑卡。
+> OpenRouter 提供免费模型（如 `z-ai/glm-5.2:free`），注册即用，无需绑卡。
 
 ### 第 3 步：配置 GitHub Secrets
 
@@ -66,7 +66,7 @@ git push -u origin main
 - Name: `OPENROUTER_MODEL`
 - Value: 如 `anthropic/claude-3.5-haiku`、`openai/gpt-4o-mini` 等
 
-> 默认使用 `google/gemini-2.0-flash-exp:free`（免费），可选模型列表见 [openrouter.ai/models](https://openrouter.ai/models)
+> 默认使用 `z-ai/glm-5.2:free`（免费，中文能力强），可选模型列表见 [openrouter.ai/models](https://openrouter.ai/models)
 
 ### 第 5 步：部署到 Vercel
 
@@ -152,7 +152,7 @@ geng-daily/
 ## ❓ 常见问题
 
 **Q: 免费模型够用吗？**
-A: `google/gemini-2.0-flash-exp:free` 每天有免费额度，足以覆盖每天 4 次生成。如需更稳定可换 `openai/gpt-4o-mini`（极便宜，约 $0.001/次）。
+A: `z-ai/glm-5.2:free` 中文生成质量高，足以覆盖每天 4 次生成。如需更稳定可换付费模型如 `openai/gpt-4o-mini`（极便宜，约 $0.001/次）。免费模型列表会变动，可在 [openrouter.ai/models](https://openrouter.ai/models) 查看最新可用模型。
 
 **Q: GitHub Actions 免费额度够吗？**
 A: 公开仓库无限免费；私有仓库每月 2000 分钟，本项目每次约 1 分钟，绰绰有余。
