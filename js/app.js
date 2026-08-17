@@ -22,6 +22,7 @@
   var metaCount = document.getElementById('metaCount');
   var filterBar = document.getElementById('filterBar');
   var footerInfo = document.getElementById('footerInfo');
+  var costInfo = document.getElementById('costInfo');
   var historyNav = document.getElementById('historyNav');
   var historyScroll = document.getElementById('historyScroll');
 
@@ -114,6 +115,29 @@
       }, 0);
       metaCount.textContent = total + ' 个话题';
       footerInfo.textContent = '生成于 ' + dateStr + ' ' + weekday + ' ' + hh + ':' + mm;
+    }
+
+    /* Cost / token 统计（本次生成用了什么模型、消耗多少 token、花多少钱） */
+    if (data.meta) {
+      var m = data.meta;
+      var modelName = m.actual_model || m.model || '';
+      var tokens = m.total_tokens != null ? m.total_tokens : 0;
+      var isFree = m.free === true || m.cost_usd === 0;
+      var text;
+      costInfo.classList.remove('free', 'costly');
+      if (isFree) {
+        text = '🎉 本次生成使用 ' + modelName + ' · 消耗 ' + tokens + ' tokens · 花费 $0 —— 免费模型，没花钱！';
+        costInfo.classList.add('free');
+      } else if (m.cost_usd != null) {
+        text = '本次生成使用 ' + modelName + ' · 消耗 ' + tokens + ' tokens · 花费 $' + m.cost_usd.toFixed(6);
+        costInfo.classList.add('costly');
+      } else {
+        text = '本次生成使用 ' + modelName + ' · 消耗 ' + tokens + ' tokens';
+      }
+      costInfo.textContent = text;
+    } else {
+      costInfo.textContent = '';
+      costInfo.classList.remove('free', 'costly');
     }
 
     /* Filter bar */

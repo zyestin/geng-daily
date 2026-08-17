@@ -377,6 +377,10 @@ body {
   margin-top: 8px;
 }
 .app-footer p { font-size: 0.8rem; color: var(--text-tertiary); }
+.cost-info { margin-top: 6px; font-size: 0.78rem; }
+.cost-info.free { color: #16a34a; font-weight: 600; }
+.cost-info.costly { color: var(--text-secondary); }
+[data-theme="dark"] .cost-info.free { color: #4ade80; }
 .footer-sub { margin-top: 4px; }
 
 /* ===== Responsive ===== */

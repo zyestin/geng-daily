@@ -11,9 +11,19 @@
  *   OPENROUTER_API_KEY=xxx SLOT=weekday-morning node scripts/generate.mjs
  *
  * 环境变量：
- *   OPENROUTER_API_KEY  — OpenRouter API 密钥（必需）
- *   OPENROUTER_MODEL    — 模型名称（默认 google/gemini-2.0-flash-exp:free）
- *   SLOT                — 时间段，可选值见下方 SLOTS
+ *   OPENROUTER_API_KEY          — OpenRouter API 密钥（必需）
+ *   OPENROUTER_MODEL            — 可选。指定主模型；不设置时自动从免费模型中挑选
+ *   OPENROUTER_FALLBACK_MODELS  — 可选。逗号分隔的备用模型，自动免费模型会补足队列
+ *   SLOT                        — 时间段，可选值见下方 SLOTS
+ *
+ * 模型策略（默认）：
+ *   每次运行时调用 GET /api/v1/models 拉取一次免费模型列表（pricing 全为 0），
+ *   按"质量白名单 + 上下文长度"排序，取性能最好的 3 个作为 主模型 + 2 个备用；
+ *   拉取失败则回退到内置兜底模型（均为长期在线的免费模型）。
+ *
+ * 成本统计：
+ *   每次成功生成后，把实际使用的模型、token 消耗、费用（$）写入 content.json 的
+ *   meta 字段，供网页末尾小字展示。免费模型费用恒为 $0。
  *
  * 零依赖：仅使用 Node.js 内置模块（fs/path/url）和全局 fetch（Node 18+）。
  */
@@ -192,6 +202,152 @@ ${categoryList}
 }
 
 /* ================================================================
+ *  免费模型发现
+ *  每次运行先拉取一次 OpenRouter 模型列表，筛选免费模型（pricing 全为 0），
+ *  按"质量白名单 + 上下文长度"排序，取性能最好的几个作为本次主备模型。
+ * ================================================================ */
+
+const FREE_MODEL_TOP_N = 3; // 自动挑选的模型数量（1 主 + 2 备）
+
+// 明显不适合文本话题生成的任务型模型，直接排除
+const EXCLUDE_KEYWORDS = [
+  'lyria', 'music', 'audio', 'image', 'video', 'art', 'embed',
+  'rerank', 'content-safety', 'moderation', 'ocr', '-vl', 'search',
+];
+
+// 质量白名单（按偏好排序；中文聊天话题生成优先选中文能力强的模型，
+// 兼顾速度与稳定性 —— 输出慢/易截断的巨型模型放后面）
+const QUALITY_PRIORITY = [
+  'z-ai/glm-5.2:free',
+  'google/gemma-4-31b-it:free',
+  'nvidia/nemotron-3.5-lightning:free',
+  'nvidia/nemotron-3-super-120b-a12b:free',
+  'openai/gpt-oss-20b:free',
+  'google/gemma-4-26b-a4b-it:free',
+  'nvidia/nemotron-3-ultra-550b-a55b:free',
+  'cohere/north-mini-code:free',
+  'poolside/laguna-s-2.1:free',
+  'dots-studio/dots-3-note-preview:free',
+];
+
+// 拉取失败时的内置兜底（均为长期在线的免费模型）
+const DEFAULT_MODELS = [
+  'z-ai/glm-5.2:free',
+  'nvidia/nemotron-3-super-120b-a12b:free',
+  'openai/gpt-oss-20b:free',
+];
+
+/**
+ * 拉取免费模型列表，返回 {
+ *   ids: 按质量排序的免费模型 id[],
+ *   pricingMap: id → pricing,
+ *   maxTokensMap: id → 最大输出 token 数（用于动态设置 max_tokens）
+ * }
+ * 失败返回 null（调用方回退到内置兜底模型）。
+ */
+async function fetchFreeModels(apiKey) {
+  try {
+    const res = await fetch('https://openrouter.ai/api/v1/models', {
+      headers: apiKey ? { 'Authorization': `Bearer ${apiKey}` } : {},
+    });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    const all = data.data || [];
+    const pricingMap = {};
+    const maxTokensMap = {};
+    for (const m of all) {
+      pricingMap[m.id] = m.pricing || {};
+      maxTokensMap[m.id] = m.top_provider?.max_completion_tokens || null;
+    }
+
+    const free = all.filter(m => {
+      const p = parseFloat(m.pricing?.prompt);
+      const c = parseFloat(m.pricing?.completion);
+      return p === 0 && c === 0;
+    });
+
+    const pool = free.filter(m =>
+      !EXCLUDE_KEYWORDS.some(k => m.id.toLowerCase().includes(k))
+    );
+
+    const prio = {};
+    QUALITY_PRIORITY.forEach((id, i) => { prio[id] = i; });
+    pool.sort((a, b) => {
+      const pa = prio[a.id], pb = prio[b.id];
+      if (pa !== undefined && pb !== undefined) return pa - pb;
+      if (pa !== undefined) return -1;
+      if (pb !== undefined) return 1;
+      return (b.context_length || 0) - (a.context_length || 0);
+    });
+
+    console.log(`[INFO] 免费模型发现: 免费 ${free.length} 个 / 可用 ${pool.length} 个`);
+    console.log('[INFO] 免费候选(按优先级): ' + pool.slice(0, 6).map(m => m.id).join(', '));
+    return { ids: pool.map(m => m.id), pricingMap, maxTokensMap };
+  } catch (e) {
+    console.warn('[WARN] 获取免费模型列表失败，回退内置兜底: ' + e.message);
+    return null;
+  }
+}
+
+/**
+ * 组装本次模型队列：显式配置优先，其次自动免费模型，最后内置兜底。
+ * 返回 { models: 去重后的 [主, 备1, 备2], maxTokensMap }。
+ */
+function pickModels(freeInfo) {
+  const explicitMain = (process.env.OPENROUTER_MODEL || '').trim();
+  const explicitFallbacks = (process.env.OPENROUTER_FALLBACK_MODELS || '')
+    .split(',').map(s => s.trim()).filter(Boolean);
+  const auto = freeInfo ? freeInfo.ids : [];
+
+  const models = [];
+  if (explicitMain) models.push(explicitMain);
+  for (const id of explicitFallbacks) if (!models.includes(id)) models.push(id);
+  for (const id of auto) {
+    if (models.length >= FREE_MODEL_TOP_N) break;
+    if (!models.includes(id)) models.push(id);
+  }
+  for (const id of DEFAULT_MODELS) {
+    if (models.length >= FREE_MODEL_TOP_N) break;
+    if (!models.includes(id)) models.push(id);
+  }
+  if (models.length === 0) models.push(...DEFAULT_MODELS);
+
+  console.log('[INFO] 本次模型队列: ' + models.join(' → '));
+  return {
+    models: models.slice(0, FREE_MODEL_TOP_N),
+    maxTokensMap: freeInfo ? freeInfo.maxTokensMap : {},
+  };
+}
+
+/** 根据响应 usage 与模型定价计算费用（$）。免费模型返回 0。 */
+function buildMeta(requestedModel, result, pricingMap) {
+  const usage = result.usage || {};
+  const model = result.actualModel || requestedModel;
+  const price = pricingMap[requestedModel] || pricingMap[model];
+  let cost = null;
+  let free = false;
+  if (price) {
+    const pp = parseFloat(price.prompt);
+    const cp = parseFloat(price.completion);
+    if (pp === 0 && cp === 0) {
+      cost = 0;
+      free = true;
+    } else if (!isNaN(pp) && !isNaN(cp)) {
+      cost = (usage.prompt_tokens || 0) * pp + (usage.completion_tokens || 0) * cp;
+    }
+  }
+  return {
+    model: requestedModel,
+    actual_model: model,
+    prompt_tokens: usage.prompt_tokens || 0,
+    completion_tokens: usage.completion_tokens || 0,
+    total_tokens: usage.total_tokens || 0,
+    cost_usd: cost,
+    free,
+  };
+}
+
+/* ================================================================
  *  调用 OpenRouter API
  * ================================================================ */
 
@@ -200,10 +356,12 @@ function sleep(ms) {
 }
 
 /**
- * 生成内容：循环尝试主模型 + 备用模型，每次成功则解析验证；
- * 解析/验证失败也视为该模型失败，自动切换到下一个，直到全部耗尽。
+ * 生成内容：每次运行先自动发现免费模型，组成 [主模型, 备用×2] 队列；
+ * 循环尝试，每次成功则解析验证（要求分类齐全）；解析/验证失败也视为
+ * 该模型失败，自动切换到下一个，直到全部耗尽。返回 { content, meta }。
+ * @param {number} expectedCategories 本次 prompt 要求的方向数，输出必须齐全
  */
-async function generateContent(systemPrompt, userPrompt) {
+async function generateContent(systemPrompt, userPrompt, expectedCategories) {
   const apiKey = process.env.OPENROUTER_API_KEY;
   if (!apiKey) {
     console.error('[ERROR] 环境变量 OPENROUTER_API_KEY 未设置');
@@ -211,21 +369,23 @@ async function generateContent(systemPrompt, userPrompt) {
     process.exit(1);
   }
 
-  // 主模型 + 备用模型：主模型连续失败时自动降级，提高定时任务成功率
-  const mainModel = process.env.OPENROUTER_MODEL || 'z-ai/glm-5.2:free';
-  const fallbackModels = process.env.OPENROUTER_FALLBACK_MODELS
-    ? process.env.OPENROUTER_FALLBACK_MODELS.split(',').map(s => s.trim()).filter(Boolean)
-    : ['nvidia/nemotron-3-super-120b-a12b:free', 'openai/gpt-oss-20b:free'];
-  const models = [mainModel, ...fallbackModels];
+  // 每次运行拉取 1 次免费模型列表，选性能最好的 3 个作为主备模型
+  const freeInfo = await fetchFreeModels(apiKey);
+  const { models, maxTokensMap } = pickModels(freeInfo);
+  const pricingMap = freeInfo ? freeInfo.pricingMap : {};
 
   let lastErr = '';
   for (const model of models) {
     try {
-      const content = await callModel(model, systemPrompt, userPrompt);
-      const parsed = parseContent(content);
-      validateContent(parsed); // 解析失败/字段缺失会抛错 → 换下一个模型
-      console.log(`[OK] 生成成功（模型 ${model}）`);
-      return parsed;
+      const result = await callModel(model, systemPrompt, userPrompt, maxTokensMap[model]);
+      const parsed = parseContent(result.content);
+      validateContent(parsed, expectedCategories); // 残缺/字段缺失会抛错 → 换下一个模型
+      const meta = buildMeta(model, result, pricingMap);
+      const shownModel = result.actualModel && result.actualModel !== model
+        ? `${model} → ${result.actualModel}` : model;
+      const costStr = meta.cost_usd === null ? 'N/A' : `$${meta.cost_usd.toFixed(6)}`;
+      console.log(`[OK] 生成成功（模型 ${shownModel}，tokens=${meta.total_tokens}，花费 ${costStr}${meta.free ? ' 🎉' : ''}）`);
+      return { content: parsed, meta };
     } catch (e) {
       lastErr = e.message;
       console.warn(`[WARN] 模型 ${model} 生成失败: ${e.message}`);
@@ -237,13 +397,20 @@ async function generateContent(systemPrompt, userPrompt) {
   process.exit(1);
 }
 
-async function callModel(model, systemPrompt, userPrompt) {
+/**
+ * 调用单个模型，返回 { content, usage, actualModel }。
+ * usage = OpenRouter 返回的 token 消耗；actualModel = 实际执行模型 id。
+ * @param {number|null} maxOutTokens 该模型的最大输出 token 限额（未知时用默认）
+ */
+async function callModel(model, systemPrompt, userPrompt, maxOutTokens) {
   const apiKey = process.env.OPENROUTER_API_KEY;
   const MAX_ATTEMPTS = 2;
   const messages = [
     { role: 'system', content: systemPrompt },
     { role: 'user', content: userPrompt },
   ];
+  // 中文 6 分类完整输出约需 6000+ token；按模型限额取 min，避免超限被截断
+  const maxTokens = Math.min(10000, maxOutTokens && maxOutTokens > 0 ? maxOutTokens : 10000);
 
   let lastErr = '';
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
@@ -261,7 +428,7 @@ async function callModel(model, systemPrompt, userPrompt) {
           model,
           messages,
           temperature: 0.85,
-          max_tokens: 4000,
+          max_tokens: maxTokens,
         }),
       });
 
@@ -292,7 +459,11 @@ async function callModel(model, systemPrompt, userPrompt) {
         continue;
       }
 
-      return content;
+      return {
+        content,
+        usage: data.usage || null,
+        actualModel: data.model || model,
+      };
     } catch (e) {
       lastErr = e.message;
       console.warn(`[WARN] 请求异常: ${e.message}`);
@@ -379,13 +550,16 @@ function parseContent(text) {
   throw new Error('JSON 解析失败: ' + lastErr);
 }
 
-function validateContent(content) {
+function validateContent(content, expectedCategories) {
   if (!content.categories || !Array.isArray(content.categories)) {
     throw new Error('内容缺少 categories 数组');
   }
+  if (expectedCategories && content.categories.length < expectedCategories) {
+    throw new Error(`分类不齐全: 期望 ${expectedCategories} 个，实际 ${content.categories.length} 个（模型输出被截断或漏写）`);
+  }
   let total = 0;
   for (const cat of content.categories) {
-    if (!cat.name || !cat.items || !Array.isArray(cat.items)) {
+    if (!cat.name || !cat.items || !Array.isArray(cat.items) || cat.items.length === 0) {
       throw new Error('分类结构无效: ' + JSON.stringify(cat).substring(0, 100));
     }
     total += cat.items.length;
@@ -416,13 +590,14 @@ async function main() {
   console.log('');
 
   const { systemPrompt, userPrompt } = buildPrompt(slotKey);
-  const content = await generateContent(systemPrompt, userPrompt);
+  const { content, meta } = await generateContent(systemPrompt, userPrompt, slot.categories.length);
   const total = validateContent(content);
 
   // 补充元数据
   content.generated_at = new Date().toISOString();
   content.slot = slotKey;
   content.slot_label = slot.label;
+  content.meta = meta; // 模型 / token / 费用统计（网页末尾展示）
 
   // 确保 icon 字段存在
   for (const cat of content.categories) {
