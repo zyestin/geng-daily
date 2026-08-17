@@ -68,21 +68,23 @@ git push -u origin main
 
 > 默认使用 `z-ai/glm-5.2:free`（免费，中文能力强），可选模型列表见 [openrouter.ai/models](https://openrouter.ai/models)
 
-### 第 5 步：部署到 Vercel
+### 第 5 步：部署到 GitHub Pages（已自动配置 ✅）
 
-1. 访问 [vercel.com](https://vercel.com/) 用 GitHub 登录
-2. **Add New Project** → 选择你的 `geng-daily` 仓库
-3. Framework 选 **Other**，Root Directory 不填，点 **Deploy**
-4. 完成！Vercel 会在每次 push 后自动部署
+本项目已配置 **GitHub Pages 自动部署**（`.github/workflows/generate.yml` 内置 deploy job）：
 
-> 或者用 **GitHub Pages**（也免费）：Settings → Pages → Source 选 `main` 分支 → 保存即可。
+- 每次内容生成后自动部署，无需任何手动操作
+- 免费、无限流量、全球 CDN，所有人可访问
+- 线上地址：`https://<用户名>.github.io/geng-daily/`
+
+> 若仓库初始是私有，需先在 Settings → General → Danger Zone → **Change visibility** 改为 Public（Pages 免费版要求）。
+> 也可以用 **Vercel**（支持私有仓库）：[vercel.com](https://vercel.com) 用 GitHub 登录 → Add New Project → 选择 `geng-daily` → Framework 选 Other → Deploy。
 
 ### 第 6 步：验证
 
 1. 在 GitHub 仓库 → **Actions** 页面，找到 `Generate Daily Content`
 2. 点击 **Run workflow** → 选 `auto` → **Run**
 3. 等待执行完成（约 1-2 分钟），检查 `data/content.json` 是否更新
-4. Vercel 自动重新部署，打开网站即可看到内容
+4. GitHub Pages 自动重新部署，打开网站即可看到内容
 
 ## ⏰ 定时任务说明
 
