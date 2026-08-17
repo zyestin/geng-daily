@@ -71,3 +71,27 @@ jobs:
           git add data/
           git diff --staged --quiet || git commit -m "🤖 更新梗日报内容 [${{ steps.slot.outputs.slot }}]"
           git push
+
+  # 部署到 GitHub Pages（免费、无限流量、全球 CDN）
+  deploy:
+    needs: generate
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
