@@ -5,27 +5,39 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "Cordis 框架",
-          "summary": "时空可组合的元框架",
-          "detail": "GitHub Trending 热门项目 Cordis 提出了时空可组合性（Spatiotemporal Composability）的概念，试图在元框架层面优化复杂应用的结构组织方式，挑战现有的 Next.js 路由和状态管理范式。",
-          "usage": "哎，你们看最近 GitHub 上那个 Cordis 了吗？提出了个‘时空可组合性’，听起来挺玄学的，感觉是在试图重新定义元框架，不知道能不能解决我们现在这种复杂页面的状态管理痛点。",
-          "source": "https://github.com/cordiverse/cordis",
+          "title": "Cloudflare埋点",
+          "summary": "切换 NS 时自动埋点",
+          "detail": "HN 讨论指出，Cloudflare 在用户更改域名 NS 时会自动插入其追踪脚本，可能影响前端性能和隐私，引发开发者关注。",
+          "usage": "可以这样聊：‘最近听说改域名解析时 Cloudflare 会悄悄加埋点，你们网站有遇到过奇怪的请求吗？’",
+          "source": "https://news.ycombinator.com/item?id=49322107",
           "tags": [
-            "Meta-Framework",
-            "Next.js",
-            "架构"
+            "前端性能",
+            "隐私",
+            "Cloudflare"
           ]
         },
         {
-          "title": "Bluesky 截图 Logo",
-          "summary": "用代码实现精准 Logo 绘制",
-          "detail": "Bluesky 分享了如何在截屏中通过代码精确绘制其 Logo 的实现方案，引发了 HN 社区关于 Canvas 绘图、SVG 渲染性能以及 UI 细节极致追求的广泛讨论。",
-          "usage": "最近看 Bluesky 那个画 Logo 的方案挺有意思的，细节控真的绝了。咱们 App 里那些复杂的自定义图形，是不是也可以借鉴这种方式来优化渲染性能，而不是全靠图片？",
-          "source": "https://timmarinin.net/2026/bluesky-screenshots/",
+          "title": "Immich相册方案",
+          "summary": "自托管照片视频管理",
+          "detail": "Immich 是基于 React + TypeScript + Node 的高性能自托管相册方案，最近在 GitHub Trending 上获得点赞激增，适合前端开发者参考其实现。",
+          "usage": "可以聊：‘你们有试过自建相册吗？Immich 用 React 写得挺漂亮，功能也很全，值得借鉴。’",
+          "source": "https://github.com/immich-app/immich",
           "tags": [
-            "Canvas",
-            "UI渲染",
-            "细节"
+            "React",
+            "自托管",
+            "相册"
+          ]
+        },
+        {
+          "title": "Cordis元框架",
+          "summary": "时空可组合的新框架",
+          "detail": "Cordiverse 开源的 Cordis 被称为时空可组合（spatiotemporal composability）的元框架，旨在让开发者以声明方式组合时空数据，适用于可视化和模拟场景。",
+          "usage": "可以问：‘有没有尝试过用 Cordis 做地图或游戏的数据组合？听起来挺前沿的。’",
+          "source": "https://github.com/cordiverse/cordis",
+          "tags": [
+            "元框架",
+            "时空数据",
+            "开源"
           ]
         }
       ]
@@ -35,69 +47,69 @@
       "icon": "📱",
       "items": [
         {
-          "title": "Fairphone 6 原生相机",
-          "summary": "Linux 手机相机驱动突破",
-          "detail": "Fairphone 6 在 PostmarketOS 上实现了主摄像头的正常工作，这标志着开源手机在硬件底层驱动上的进展，虽然是 Linux 方案，但对于追求极致跨端和硬件控制的开发者很有启发。",
-          "usage": "你们听说了吗？Fairphone 6 的主相机在 PostmarketOS 上跑通了。虽然咱们写 RN 是在上层，但看到这种底层驱动的突破还是挺激动的，什么时候咱们也能在完全开源的 OS 上跑顺滑的 RN App？",
-          "source": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+          "title": "RN 新架构讨论",
+          "summary": "Fabric 稳定性备受关注",
+          "detail": "React Native 社区近期在 GitHub 和 Reddit 上热议 Fabric 新架构的稳定性与采用情况，许多开发者分享了迁移经验和性能对比数据。",
+          "usage": "可以聊：‘我听说 RN 的 Fabric 现在越来越稳，你们有在项目里试过吗？据说启动时间更快。’",
+          "source": "",
           "tags": [
-            "开源硬件",
-            "OS",
-            "驱动"
+            "React Native",
+            "Fabric",
+            "架构"
           ]
         },
         {
-          "title": "RN 性能调优",
-          "summary": "新架构下的渲染瓶颈",
-          "detail": "随着 Fabric 架构的普及，很多团队在迁移过程中发现了新架构在特定复杂列表场景下的内存抖动问题，社区正在讨论如何更好地利用同步渲染来优化交互体验。",
-          "usage": "最近在调新架构的 Fabric，感觉同步渲染虽然解决了白屏问题，但复杂列表的内存抖动还是有点烦人。你们在迁移新架构的时候，有没有遇到类似的性能坑？",
+          "title": "Expo 快速更新",
+          "summary": "Expo 新版本支持即时更新",
+          "detail": "Expo 团队最近发布了预览版，引入了基于 EAS 的即时更新功能，让开发者可以在不重新打包的情况下下发 JS bundle，提升迭代效率。",
+          "usage": "可以问：‘你们用 Expo 做过热更新吗？听说新版本可以直接推送 JS，省去审核等待。’",
           "source": "",
           "tags": [
-            "Fabric",
-            "性能优化",
-            "New Architecture"
+            "Expo",
+            "热更新",
+            "跨平台"
           ]
         }
       ]
     },
     {
-      "name": "AI 编程",
+      "name": "AI编程",
       "icon": "🤖",
       "items": [
         {
-          "title": "GPT-5.6 Sol 降价",
-          "summary": "顶级视觉模型成本减半",
-          "detail": "OpenAI 的 GPT-5.6 Sol 模型价格大幅削减 50%，且被公认为目前最强的视觉模型，这使得在 App 中集成高频视觉识别功能的成本大幅降低。",
-          "usage": "好消息！GPT-5.6 Sol 价格直接腰斩了，而且视觉能力据说强得离谱。咱们那个需要拍照识别的功能，是不是可以考虑把模型升级一下，成本还能省一半？",
-          "source": "https://openrouter.ai/openai/gpt-5.6-sol",
+          "title": "Strix AI 渗透测试",
+          "summary": "开源 AI 渗透工具",
+          "detail": "usestrix/strix 是一个开源的 AI 驱动的渗透测试工具，能够自动生成攻击链、识别漏洞并给出修复建议，适合 DevSecOps 场景。",
+          "usage": "可以聊：‘最近看到 Strix 用 AI 自动找漏洞，感觉像有个安全助手在后台跑，你们团队考虑引入 AI 安全工具吗？’",
+          "source": "https://github.com/usestrix/strix",
           "tags": [
-            "OpenAI",
-            "视觉模型",
-            "成本优化"
+            "AI",
+            "安全",
+            "渗透测试"
           ]
         },
         {
-          "title": "Copilot Autofix 漏洞",
-          "summary": "AI 自动修复导致安全漏洞",
-          "detail": "Wiz 披露 GitHub Copilot 的 'Autofix' 功能在修复 Bug 时可能引入新的安全漏洞，甚至导致 Snowflake 的 Jira 系统被攻破，引发了关于 AI 辅助编程安全性的剧烈讨论。",
-          "usage": "最近看到个大瓜，Copilot 的 Autofix 居然帮人写出了漏洞，还导致 Snowflake 出事了。看来 AI 写的代码还是得人工 Review 一遍，不能直接点‘接受’，不然真的会给公司埋雷。",
-          "source": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-          "tags": [
-            "AI安全",
-            "Copilot",
-            "Code Review"
-          ]
-        },
-        {
-          "title": "AI-Memory 长期记忆",
-          "summary": "解决 Agent 遗忘问题",
-          "detail": "开源项目 ai-memory 为 Agent 编程 CLI 提供了长期记忆解决方案，解决了不同 AI 厂商之间切换时上下文丢失的问题，让 AI 能记住项目的历史决策。",
-          "usage": "现在用 AI 编程最烦的就是它记不住之前的决定，得反复喂上下文。GitHub 上有个 ai-memory 专门做 Agent 的长期记忆，感觉如果能集成到 IDE 里，开发体验能起飞。",
+          "title": "AI 长期记忆库",
+          "summary": "Agent CLI 的记忆方案",
+          "detail": "akitaonrails/ai-memory 为 Agent 编码命令行界面提供长期记忆存储，支持跨不同 Agent 厂商的状态传递，提升多步骤任务的连贯性。",
+          "usage": "可以问：‘你们有试过让 AI 编码助手记住之前的修改吗？这个项目好像能把记忆持久化，挺有意思的。’",
           "source": "https://github.com/akitaonrails/ai-memory",
           "tags": [
-            "AI Agent",
-            "上下文",
-            "开源"
+            "AI",
+            "记忆",
+            "Agent"
+          ]
+        },
+        {
+          "title": "GPT-5.6 价格腰斩",
+          "summary": "视觉模型更便宜",
+          "detail": "OpenRouter 宣布 GPT-5.6 Sol 的价格降低 50%，使得该视觉模型在图像理解、OCR 等场景下成本大幅下降，适合批量处理。",
+          "usage": "可以聊：‘听说 GPT-5.6 现在便宜了一半，拿来做图片标注或者OCR是不是更划算了？’",
+          "source": "https://openrouter.ai/openai/gpt-5.6-sol",
+          "tags": [
+            "AI",
+            "GPT-5.6",
+            "价格"
           ]
         }
       ]
@@ -108,26 +120,26 @@
       "items": [
         {
           "title": "DuckDB v2.0 预览",
-          "summary": "嵌入式分析数据库升级",
-          "detail": "DuckDB 2.0 预览版发布，重点优化了分析查询速度和内存管理。作为‘数据库界的 SQLite’，它在前端数据分析和本地处理场景中越来越受欢迎。",
-          "usage": "DuckDB 2.0 出预览版了，现在本地处理大数据集的性能简直离谱。咱们如果以后要做那种超强的数据看板，是不是不用把所有逻辑都扔给后端，直接在前端用 DuckDB 搞定？",
+          "summary": "WASM 友好的分析引擎",
+          "detail": "DuckDB 发布 v2.0 预览版，新增 JSON 原生支持、改进的 WASM 构建以及更快的列式查询，使得在前端或 Worker 中直接使用成为可能。",
+          "usage": "可以问：‘有没有试过在网页里用 DuckDB 做离线数据分析？听说新版本对 WASM 更友好。’",
           "source": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
           "tags": [
             "DuckDB",
-            "数据分析",
-            "SQL"
+            "WASM",
+            "数据分析"
           ]
         },
         {
-          "title": "Rust GPU Offload",
-          "summary": "Rust 语言 GPU 卸载技术",
-          "detail": "一项新研究提出了在 Rust 中实现可移植且安全的 GPU 卸载方案，旨在让开发者无需编写复杂的 CUDA 代码即可利用 GPU 加速计算，对高性能前端工具链有潜在影响。",
-          "usage": "最近看到个关于 Rust GPU 卸载的论文，以后如果我们要写一些高性能的图像处理插件，可能不需要写 C++ 或 CUDA 了，直接用 Rust 就能安全地调用 GPU，这要是普及了，前端工具链得快多少。",
+          "title": "Rust GPU 加速",
+          "summary": "可移植安全的 GPU 离载",
+          "detail": "一篇 arXiv 论文展示了在 Rust 中实现 GPU Offload 的方案，具有可移植、安全和高速的特点，编译到 WASM 后可在 WebGPU 中使用，适合图形计算。",
+          "usage": "可以聊：‘听说 Rust 现在能离载 GPU 并且能打到 WASM，以后 Web 里做粒子特效可能更流畅了。’",
           "source": "https://arxiv.org/abs/2608.13759",
           "tags": [
             "Rust",
             "GPU",
-            "高性能"
+            "WASM"
           ]
         }
       ]
@@ -137,27 +149,39 @@
       "icon": "🌟",
       "items": [
         {
-          "title": "Strix AI 渗透工具",
-          "summary": "AI 驱动的漏洞扫描",
-          "detail": "Strix 是一个开源的 AI 渗透测试工具，旨在自动发现并修复 App 的漏洞。它将大模型的推理能力应用于安全审计，极大地提高了漏洞发现效率。",
-          "usage": "GitHub 上那个 Strix 挺猛的，用 AI 自动找 App 漏洞。咱们在上线前是不是可以跑一遍这种工具？比单纯靠人工点点点要高效得多，而且能提前堵住漏洞。",
-          "source": "https://github.com/usestrix/strix",
+          "title": "Immich 自托管相册",
+          "summary": "高性能开源相册方案",
+          "detail": "Immich 近期在 GitHub Trending 上获得点赞激增，基于 React + TypeScript + Node，提供自托管的照片和视频管理解决方案，支持智能相册和面部识别。",
+          "usage": "可以聊：‘你们团伍有没有考虑自建相册？Immich 用 React 写得挺好，功能也很全，值得一试。’",
+          "source": "https://github.com/immich-app/immich",
           "tags": [
-            "AI安全",
-            "渗透测试",
-            "开源"
+            "React",
+            "相册",
+            "自托管"
           ]
         },
         {
-          "title": "Immich 相册管理",
-          "summary": "高性能自建相册方案",
-          "detail": "Immich 再次走红，作为高性能自托管相册方案，它提供了媲美 Google Photos 的体验，且完全私有化部署，深受极客和家庭用户喜爱。",
-          "usage": "最近在研究 Immich，自建相册真的太香了，不用担心云端隐私问题，速度还快。家里照片多的话，搞个 NAS 部署一个，给老婆孩子存照片正合适。",
-          "source": "https://github.com/immich-app/immich",
+          "title": "LLMFit 模型适配工具",
+          "summary": "一命令检测硬件可运行模型",
+          "detail": "AlexsJones/llmfit 提供了一个 CLI，能够根据本地硬件自动推荐可运行的 LLM 模型及其提供者，省去手动查找兼容性的麻烦。",
+          "usage": "可以问：‘有没有试过 LLMFit？据说一条命令就能知道你的显卡能跑什么模型，挺方便的。’",
+          "source": "https://github.com/AlexsJones/llmfit",
           "tags": [
-            "Self-hosted",
-            "私有云",
-            "照片管理"
+            "LLM",
+            "硬件适配",
+            "CLI"
+          ]
+        },
+        {
+          "title": "AI 长期记忆库",
+          "summary": "Agent CLI 记忆方案",
+          "detail": "akitaonrails/ai-memory 为 Agent 编码命令行界面提供长期记忆存储，支持跨不同 Agent 厂商的状态传递，提升多步骤任务的连贯性。",
+          "usage": "可以聊：‘这个 AI-memory 好像能让编码助手记得之前的改动，你们团队有需要这种持久化记忆的场景吗？’",
+          "source": "https://github.com/akitaonrails/ai-memory",
+          "tags": [
+            "AI",
+            "记忆",
+            "Agent"
           ]
         }
       ]
@@ -167,50 +191,67 @@
       "icon": "😄",
       "items": [
         {
-          "title": "AI;DR (Didn't Read)",
-          "summary": "AI 时代的‘太长不看’",
-          "detail": "AI;DR 模仿 TL;DR，吐槽现在人们依赖 AI 总结内容，导致没人愿意读原文，形成了‘AI 生成 -> AI 总结 -> 人看总结’的信息闭环，讽刺信息的极度碎片化。",
-          "usage": "现在真的进入 AI;DR 时代了，发个长帖没人看，得配个 AI 总结才有人点。感觉以后咱们写技术文档，如果没个 AI 摘要，同事可能直接就跳过了，太魔幻了。",
-          "source": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+          "title": "Cloudflare 随意埋点",
+          "summary": "换 NS 自动加脚本",
+          "detail": "HN 讨论揭示，Cloudflare 在用户更改域名 NS 时会悄悄注入自身的分析脚本，导致不明流量和隐私担忧，成为开发者调侃的点。",
+          "usage": "可以吐槽：‘改了域名解析，结果网站多了几个奇怪的请求，原来是 Cloudflare 自动埋的点啊！’",
+          "source": "https://news.ycombinator.com/item?id=49322107",
           "tags": [
-            "AI吐槽",
-            "信息碎片化",
-            "社区梗"
+            "Cloudflare",
+            "埋点",
+            "隐私"
           ]
         },
         {
-          "title": "Quake 磁盘溢出",
-          "summary": "古早游戏的硬件极限",
-          "detail": "关于 Quake Shareware 时代 CD-ROM 空间不足导致必须精准计算每个字节的往事，引发开发者对现代软件‘空间浪费’的集体反思和怀旧。",
-          "usage": "看了个 Quake 时代的旧闻，那时候 CD 空间不够，得为了省几个字节死磕，简直是艺术。对比现在一个简单的 npm install 就能占掉几个 G，真是太奢侈了（笑）。",
+          "title": "Bluesky LOGO 绘制",
+          "summary": "截图里自带logo的技巧",
+          "detail": "一篇博客说明 Bluesky 如何在截图中自动绘制其标志，利用 Canvas 和检测机制，成为前端开发者讨论的有趣小技巧。",
+          "usage": "可以分享：‘看到有人在截图里自带 Bluesky logo，原来是用前端代码实现的，挺有创意的。’",
+          "source": "https://timmarinin.net/2026/bluesky-screenshots/",
+          "tags": [
+            "Bluesky",
+            "Canvas",
+            "前端技巧"
+          ]
+        },
+        {
+          "title": "Quake 共享版 CD 容量梗",
+          "summary": "光盘塞满的怀旧",
+          "detail": "当年 Quake 共享版光盘几乎塞满了 650MB，连安装程序都要压缩到极限，如今开发者拿这个当笑话来吐槽现代体积膨胀。",
+          "usage": "可以调侃：‘现在一个前端依赖包都能塞满一张 CD，当年 Quake 都得挤才能上光盘，真是时代变了啊。’",
           "source": "https://fabiensanglard.net/quake_shareware_cd/index.html",
           "tags": [
-            "怀旧",
-            "内存管理",
-            "程序员文化"
+            "Quake",
+            "复古",
+            "存储"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-08-18T07:21:12.567Z",
+  "generated_at": "2026-08-18T08:37:54.995Z",
   "slot": "weekday-morning",
   "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
-    "model": "google/gemma-4-31b-it:free",
-    "actual_model": "google/gemma-4-31b-it:free",
-    "prompt_tokens": 2120,
-    "completion_tokens": 2503,
-    "total_tokens": 4623,
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "actual_model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "prompt_tokens": 2433,
+    "completion_tokens": 8886,
+    "total_tokens": 11319,
     "cost_usd": 0,
     "free": true,
     "sources": {
       "per_source": {
         "hackernews": 15,
         "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
         "v2ex": 9,
         "juejin": 10,
-        "github": 10
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
       },
       "total": 20
     }

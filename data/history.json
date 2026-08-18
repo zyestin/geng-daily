@@ -5,14 +5,14 @@
       "date": "2026-08-18",
       "slot": "weekday-morning",
       "slot_label": "工作日早晨 · 同事聊资",
-      "generated_at": "2026-08-18T07:21:12.567Z",
+      "generated_at": "2026-08-18T08:37:54.995Z",
       "weekday": "星期二",
       "file": "archive/2026-08-18-weekday-morning.json",
-      "topic_count": 13,
+      "topic_count": 16,
       "category_names": [
         "前端框架",
         "React Native",
-        "AI 编程",
+        "AI编程",
         "TS & JS",
         "开源热门",
         "开发者梗"
@@ -55,5 +55,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-18T07:21:12.569Z"
+  "updated_at": "2026-08-18T08:37:54.998Z"
 }
