@@ -395,6 +395,58 @@ async function fetchJuejin() {
   });
 }
 
+/** 简易 RSS 2.0 解析（零依赖）：提取 title/link/description，先解 CDATA/实体再 strip 标签 */
+function parseRss(xml, sourceName, limit = 10) {
+  const clean = (raw = '') => raw
+    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')   // 先解 CDATA
+    .replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+    .replace(/&amp;/g, '&').replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'").replace(/&nbsp;/g, ' ')
+    .replace(/<[^>]+>/g, ' ')                       // 再 strip 标签
+    .replace(/\s+/g, ' ').trim();
+  const items = [];
+  const re = /<item>([\s\S]*?)<\/item>/g;
+  let m;
+  while ((m = re.exec(xml)) !== null && items.length < limit) {
+    const b = m[1];
+    const title = clean(b.match(/<title>([\s\S]*?)<\/title>/)?.[1]);
+    const link = clean(b.match(/<link>([\s\S]*?)<\/link>/)?.[1]);
+    let desc = clean(b.match(/<description>([\s\S]*?)<\/description>/)?.[1]);
+    if (!title || !link) continue;
+    if (!desc || /点击查看原文|^.{0,12}$/.test(desc)) desc = ''; // 丢弃无信息量的摘要
+    items.push({
+      source: sourceName,
+      title: desc ? `${title} — ${desc.slice(0, 100)}` : title,
+      url: link,
+      score: 0,
+      comments: 0,
+      // 编辑部精选权重：参与排序但不在 prompt 中显示假分数
+      rankScore: sourceName === '量子位' ? 60 : 55,
+    });
+  }
+  return items;
+}
+
+/** 抓取量子位（中文 AI 圈头条 RSS，编辑部精选，天然带梗） */
+async function fetchQbitai() {
+  const res = await fetch('https://www.qbitai.com/feed', {
+    headers: { 'User-Agent': SOURCE_UA, 'Accept': 'application/rss+xml, application/xml, text/xml, */*' },
+    signal: AbortSignal.timeout(15000),
+  });
+  if (!res.ok) throw new Error('HTTP ' + res.status);
+  return parseRss(await res.text(), '量子位', 8);
+}
+
+/** 抓取 InfoQ 中国（软件工程深度报道 RSS，偏技术向） */
+async function fetchInfoq() {
+  const res = await fetch('https://www.infoq.cn/feed', {
+    headers: { 'User-Agent': SOURCE_UA, 'Accept': 'application/rss+xml, application/xml, text/xml, */*' },
+    signal: AbortSignal.timeout(15000),
+  });
+  if (!res.ok) throw new Error('HTTP ' + res.status);
+  return parseRss(await res.text(), 'InfoQ', 8);
+}
+
 /** 抓取 GitHub Trending 今日热门仓库（无官方 API，解析 HTML） */
 async function fetchGithubTrending() {
   const res = await fetch('https://github.com/trending?since=daily', {
@@ -437,6 +489,8 @@ async function fetchHotItems() {
     v2ex: fetchV2ex,
     juejin: fetchJuejin,
     github: fetchGithubTrending,
+    qbitai: fetchQbitai,
+    infoq: fetchInfoq,
   };
   const results = await Promise.allSettled(
     Object.entries(fetchers).map(async ([name, fn]) => {
@@ -464,7 +518,7 @@ async function fetchHotItems() {
       seen.add(i.url);
       return true;
     })
-    .sort((a, b) => (b.score || 0) - (a.score || 0))
+    .sort((a, b) => (b.rankScore ?? b.score) - (a.rankScore ?? a.score))
     .slice(0, HOT_ITEMS_LIMIT);
   return { items, stats };
 }
@@ -475,7 +529,7 @@ function buildHotSection(items) {
   const lines = items.map((it, i) =>
     `${i + 1}. [${it.source}] ${it.title}（${it.score ? '↑' + it.score + ' 分' : ''}${it.comments ? ' · ' + it.comments + ' 评论' : ''}）→ ${it.url}`
   ).join('\n');
-  return `\n\n## 📡 今日实时素材（抓取自 Hacker News / HN Ask / Lobste.rs / dev.to / V2EX / 掘金 / GitHub Trending）\n\n以下是今天各技术社区的真实热门帖。规则：\n1. 优先从这些素材中挑选生成话题——能选到就尽量用素材，不要凭空编造\n2. 素材标题多为英文，请用中文总结成同事间能聊的话题，并把原帖的"梗点"（评论区高赞观点、槽点、亮点）带出来\n3. 凡基于素材生成的话题，source 字段必须填该素材的 url（用户会点开看原文和评论区）\n4. 若素材中没有合适的，再自由发挥；自由发挥的话题 source 留空 ""\n5. 素材中若有低质、引战、无关内容，直接跳过不用\n\n${lines}`;
+  return `\n\n## 📡 今日实时素材（抓取自 Hacker News / HN Ask / Lobste.rs / dev.to / V2EX / 掘金 / GitHub Trending / 量子位 / InfoQ）\n\n以下是今天各技术社区的真实热门帖。规则：\n1. 优先从这些素材中挑选生成话题——能选到就尽量用素材，不要凭空编造\n2. 素材标题多为英文，请用中文总结成同事间能聊的话题，并把原帖的"梗点"（评论区高赞观点、槽点、亮点）带出来\n3. 凡基于素材生成的话题，source 字段必须填该素材的 url（用户会点开看原文和评论区）\n4. 若素材中没有合适的，再自由发挥；自由发挥的话题 source 留空 ""\n5. 素材中若有低质、引战、无关内容，直接跳过不用\n\n${lines}`;
 }
 
 /* ================================================================
