@@ -4,10 +4,10 @@ name: Generate Daily Content
 on:
   schedule:
     # 所有时间为 UTC，已按 GMT+8 换算
-    # 工作日 09:30 AM (GMT+8) = 01:30 UTC
-    - cron: '30 1 * * 1-5'
-    # 工作日 06:00 PM (GMT+8) = 10:00 UTC
-    - cron: '0 10 * * 1-5'
+    # 工作日 07:30 AM (GMT+8) = 23:30 UTC 前一天（周日至周四触发 = 周一至周五早上）
+    - cron: '30 23 * * 0-4'
+    # 工作日 05:30 PM (GMT+8) = 09:30 UTC
+    - cron: '30 9 * * 1-5'
     # 周末 09:00 AM (GMT+8) = 01:00 UTC
     - cron: '0 1 * * 6,0'
     # 周末 06:00 PM (GMT+8) = 10:00 UTC
@@ -45,9 +45,9 @@ jobs:
         run: |
           if [ -n "${{ inputs.slot }}" ]; then
             echo "slot=${{ inputs.slot }}" >> $GITHUB_OUTPUT
-          elif [ "${{ github.event.schedule }}" = "30 1 * * 1-5" ]; then
+          elif [ "${{ github.event.schedule }}" = "30 23 * * 0-4" ]; then
             echo "slot=weekday-morning" >> $GITHUB_OUTPUT
-          elif [ "${{ github.event.schedule }}" = "0 10 * * 1-5" ]; then
+          elif [ "${{ github.event.schedule }}" = "30 9 * * 1-5" ]; then
             echo "slot=weekday-evening" >> $GITHUB_OUTPUT
           elif [ "${{ github.event.schedule }}" = "0 1 * * 6,0" ]; then
             echo "slot=weekend-morning" >> $GITHUB_OUTPUT

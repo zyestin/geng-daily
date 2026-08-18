@@ -68,17 +68,17 @@ const CATEGORIES = {
 const SLOTS = {
   'weekday-morning': {
     label: '工作日早晨 · 同事聊资',
-    time: '09:30',
-    cron: '30 1 * * 1-5',     // UTC 01:30 = GMT+8 09:30
+    time: '07:30',
+    cron: '30 23 * * 0-4',    // UTC 23:30(周日至周四) = GMT+8 07:30(周一至周五)
     categories: ['frontend', 'rn', 'aiDev', 'tsJs', 'opensource', 'devCulture'],
     scenario: '上班时和同事聊天、技术闲聊',
   },
   'weekday-evening': {
-    label: '工作日傍晚 · 工作生活各半',
-    time: '18:00',
-    cron: '0 10 * * 1-5',     // UTC 10:00 = GMT+8 18:00
-    categories: ['aiDev', 'build', 'news', 'parenting', 'entertainment', 'lifehacks'],
-    scenario: '下班后关心下工作动态，也和家人聊天',
+    label: '工作日傍晚 · 生活时光',
+    time: '17:30',
+    cron: '30 9 * * 1-5',     // UTC 09:30 = GMT+8 17:30
+    categories: ['news', 'parenting', 'entertainment', 'lifehacks', 'pingpong', 'health'],
+    scenario: '下班后和家人聊天、陪孩子、和丈母娘聊时事',
   },
   'weekend-morning': {
     label: '周末早晨 · 家庭时光',
@@ -157,6 +157,12 @@ function buildPrompt(slotKey) {
     `${i + 1}. ${c.icon} ${c.name}\n   ${c.desc}`
   ).join('\n\n');
 
+  // 周一早间特别提示：周末两天没推工作内容，今天要补上周末积累的技术梗
+  const isMonday = now.getUTCDay() === 1;
+  const weekendCatchup = (slotKey === 'weekday-morning' && isMonday)
+    ? `\n\n⚠️ 特别提示：今天是周一，上个周末（周六、周日）两天没有推送工作内容，但技术圈动态不会停。请重点覆盖这两天（上周六到今天）发生的工作/技术热点，帮用户补上周末的"技术梗"，不要遗漏周末的重要更新。`
+    : '';
+
   const userPrompt = `今天日期：${date}，${weekday}，时间约 ${time}
 时间段：${slot.label}
 社交场景：${slot.scenario}
@@ -169,6 +175,7 @@ function buildPrompt(slotKey) {
 请围绕以下 ${cats.length} 个方向，每个方向生成 2-3 个最新、最有料的可聊话题：
 
 ${categoryList}
+${weekendCatchup}
 
 每个话题包含以下字段：
 - title: 话题名/梗名（简洁有力，10字以内）
