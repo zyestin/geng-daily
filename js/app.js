@@ -154,6 +154,7 @@
       filterBar: document.getElementById(p + 'filterBar'),
       footerInfo: document.getElementById(p + 'footerInfo'),
       costInfo: document.getElementById(p + 'costInfo'),
+      sourcesInfo: document.getElementById(p + 'sourcesInfo'),
       historyNav: document.getElementById(p + 'historyNav'),
       historyScroll: document.getElementById(p + 'historyScroll'),
     };
@@ -237,6 +238,17 @@
       } else {
         els.costInfo.textContent = '';
         els.costInfo.classList.remove('free', 'costly');
+      }
+
+      /* 素材来源小字（工作时段生成时才有） */
+      if (data.meta && data.meta.sources && data.meta.sources.total > 0) {
+        var names = { hackernews: 'Hacker News', reddit: 'Reddit', v2ex: 'V2EX', juejin: '掘金', github: 'GitHub' };
+        var per = data.meta.sources.per_source || {};
+        var srcNames = Object.keys(per).filter(function (k) { return (per[k] || 0) > 0; })
+          .map(function (k) { return names[k] || k; });
+        els.sourcesInfo.textContent = '📡 素材来源：' + srcNames.join(' · ') + '（共 ' + data.meta.sources.total + ' 条热门帖）';
+      } else {
+        els.sourcesInfo.textContent = '';
       }
 
       /* Filter bar（加载新数据集时重置为「全部」） */

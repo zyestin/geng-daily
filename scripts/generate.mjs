@@ -72,6 +72,7 @@ const SLOTS = {
     cron: '30 23 * * 0-4',    // UTC 23:30(周日至周四) = GMT+8 07:30(周一至周五)
     categories: ['frontend', 'rn', 'aiDev', 'tsJs', 'opensource', 'devCulture'],
     scenario: '上班时和同事聊天、技术闲聊',
+    useHotSources: true,      // 工作时段：生成前抓取 Hacker News/Reddit/V2EX/掘金/GitHub Trending 热门帖作为素材
   },
   'weekday-evening': {
     label: '工作日傍晚 · 生活时光',
@@ -137,11 +138,12 @@ function determineSlot() {
  *  构建 Prompt
  * ================================================================ */
 
-function buildPrompt(slotKey) {
+function buildPrompt(slotKey, hotItems) {
   const slot = SLOTS[slotKey];
   const now = getBeijingNow();
   const { date, weekday, time } = formatDate(now);
   const cats = slot.categories.map(k => CATEGORIES[k]).filter(Boolean);
+  const hotSection = buildHotSection(hotItems || []);
 
   const systemPrompt = `你是一个专业的"梗库"内容策展人。你的任务是为用户生成当天可以用来聊天、破冰、社交的话题和梗。
 
@@ -151,7 +153,8 @@ function buildPrompt(slotKey) {
 3. "怎么聊"部分要给出可以直接说出口的话术，像朋友聊天一样自然口语化
 4. 适当加入幽默和趣味，但不要低俗
 5. 用中文输出，口语化表达
-6. 不要输出任何 markdown 代码块标记（不要写 \`\`\`json），直接输出纯 JSON`;
+6. 直接输出实际内容的 JSON 对象：字段名用英文双引号包裹，值全部替换为真实内容。严禁输出示例模板、严禁保留 "..." 或 [...] 占位符、严禁附带任何解释说明文字
+7. 不要输出任何 markdown 代码块标记（不要写 \`\`\`json），直接输出纯 JSON`;
 
   const categoryList = cats.map((c, i) =>
     `${i + 1}. ${c.icon} ${c.name}\n   ${c.desc}`
@@ -176,16 +179,17 @@ function buildPrompt(slotKey) {
 
 ${categoryList}
 ${weekendCatchup}
+${hotSection}
 
 每个话题包含以下字段：
 - title: 话题名/梗名（简洁有力，10字以内）
 - summary: 一句话概括（20字以内）
 - detail: 详细解释——为什么火/背景/关键信息（50-150字）
 - usage: 怎么聊——可以直接说出口的话术、关键观点、有趣切入点（50-150字）
-- source: 原文链接（可选）。仅当你非常确定该话题对应的真实官方网站/仓库/文档时才填完整 https:// 链接（如 https://github.com/xxx/xxx、官方文档地址）；不确定就填空字符串 ""。严禁编造或猜测链接！
+- source: 原文链接（可选）。基于上方"实时素材"生成的话题，必须填对应素材的 url；否则仅当你非常确定该话题对应的真实官方网站/仓库/文档时才填完整 https:// 链接；不确定就填空字符串 ""。严禁编造或猜测链接！
 - tags: 2-3个相关标签
 
-请严格按以下 JSON 格式输出（直接输出纯 JSON，不要 markdown 代码块）：
+请严格按以下 JSON 结构输出（这是结构示例，不是内容示例——必须把每个字段替换成实际生成的内容，严禁输出 "..." 占位符，直接输出可被 JSON.parse 的纯 JSON，前后不要有任何其他文字）：
 {
   "categories": [
     {
@@ -209,6 +213,202 @@ ${weekendCatchup}
 }
 
 /* ================================================================
+ *  实时素材采集
+ *  生成前并行抓取 Hacker News / Reddit / V2EX / 掘金 / GitHub Trending
+ *  的热门帖，作为 prompt 注入素材。任何源失败都静默跳过，不影响主流程。
+ *  素材带真实原文链接 → 生成的话题可直连原文（"👉原文"不再只是搜索兜底）。
+ * ================================================================ */
+
+const SOURCE_UA = 'Mozilla/5.0 (compatible; geng-daily-bot/1.0; +https://github.com/zyestin/geng-daily)';
+
+// 素材上限：注入 prompt 的条目数（控制 token 消耗）
+const HOT_ITEMS_LIMIT = 20;
+
+// 明显低质/引战标题，直接过滤（素材是给同事聊天的，要干净）
+const BAD_TITLE_WORDS = [
+  '出轨', '小三', '渣男', '绿茶', '彩礼', '相亲', '处女', '约炮', '嫖',
+  '傻逼', '草泥马', 'cnm', 'wcnm', '打炮', '裸聊',
+];
+
+function isBadTitle(t) {
+  const s = (t || '').toLowerCase();
+  if (s.length < 6 || s.length > 140) return true;
+  return BAD_TITLE_WORDS.some(w => s.includes(w));
+}
+
+/** 抓取 Hacker News 当日 top stories（官方 Firebase API，免费无 key） */
+async function fetchHackerNews() {
+  const res = await fetch('https://hacker-news.firebaseio.com/v0/topstories.json', {
+    headers: { 'Accept': 'application/json' },
+    signal: AbortSignal.timeout(15000),
+  });
+  if (!res.ok) throw new Error('HTTP ' + res.status);
+  const ids = (await res.json()).slice(0, 15);
+  const items = await Promise.all(ids.map(async id => {
+    try {
+      const s = await (await fetch(`https://hacker-news.firebaseio.com/v0/item/${id}.json`, {
+        signal: AbortSignal.timeout(12000),
+      })).json();
+      return {
+        source: 'Hacker News',
+        title: s.title,
+        url: s.url || `https://news.ycombinator.com/item?id=${s.id}`,
+        score: s.score || 0,
+        comments: s.descendants || 0,
+      };
+    } catch { return null; }
+  }));
+  return items.filter(Boolean);
+}
+
+/** 抓取 Reddit 多个技术子版块的当日 top 帖（官方 JSON；IP 被限时自动降级为空） */
+const REDDIT_SUBS = [
+  'programming', 'reactnative', 'webdev', 'javascript',
+  'MachineLearning', 'opensource', 'technology', 'ExperiencedDevs',
+];
+
+async function fetchReddit() {
+  const results = await Promise.allSettled(REDDIT_SUBS.map(async sub => {
+    const res = await fetch(`https://www.reddit.com/r/${sub}/top.json?t=day&limit=3`, {
+      headers: { 'User-Agent': SOURCE_UA, 'Accept': 'application/json' },
+      signal: AbortSignal.timeout(12000),
+    });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const d = await res.json();
+    return (d.data?.children || []).map(kid => {
+      const p = kid.data || {};
+      return {
+        source: 'Reddit r/' + sub,
+        title: p.title,
+        url: 'https://www.reddit.com' + (p.permalink || ''),
+        score: p.score || 0,
+        comments: p.num_comments || 0,
+      };
+    });
+  }));
+  return results.filter(r => r.status === 'fulfilled').flatMap(r => r.value);
+}
+
+/** 抓取 V2EX 热议（中文程序员社区，官方 API 免费无 key） */
+async function fetchV2ex() {
+  const res = await fetch('https://www.v2ex.com/api/topics/hot.json', {
+    headers: { 'User-Agent': SOURCE_UA, 'Accept': 'application/json' },
+    signal: AbortSignal.timeout(12000),
+  });
+  if (!res.ok) throw new Error('HTTP ' + res.status);
+  const d = await res.json();
+  return (d || []).slice(0, 10).map(t => ({
+    source: 'V2EX',
+    title: t.title,
+    url: `https://www.v2ex.com/t/${t.id}`,
+    score: t.replies || 0,
+    comments: t.replies || 0,
+  }));
+}
+
+/** 抓取掘金推荐热文（中文技术社区） */
+async function fetchJuejin() {
+  const res = await fetch('https://api.juejin.cn/recommend_api/v1/article/recommend_all_feed', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', 'User-Agent': SOURCE_UA },
+    body: JSON.stringify({ id_type: 2, sort_type: 3, cursor: '0', limit: 10 }),
+    signal: AbortSignal.timeout(15000),
+  });
+  if (!res.ok) throw new Error('HTTP ' + res.status);
+  const d = await res.json();
+  return (d.data || []).map(x => {
+    const info = x.item_info?.article_info || {};
+    return {
+      source: '掘金',
+      title: info.title,
+      url: info.link_url || `https://juejin.cn/post/${info.article_id}`,
+      score: info.digg_count || 0,
+      comments: info.comment_count || 0,
+    };
+  });
+}
+
+/** 抓取 GitHub Trending 今日热门仓库（无官方 API，解析 HTML） */
+async function fetchGithubTrending() {
+  const res = await fetch('https://github.com/trending?since=daily', {
+    headers: { 'User-Agent': SOURCE_UA },
+    signal: AbortSignal.timeout(15000),
+  });
+  if (!res.ok) throw new Error('HTTP ' + res.status);
+  const html = await res.text();
+  const blocks = [...html.matchAll(/<article class="Box-row">([\s\S]*?)<\/article>/g)];
+  const items = [];
+  for (const b of blocks.slice(0, 10)) {
+    const href = b[1].match(/<h2[^>]*>[\s\S]*?<a[^>]*href="\/([^"]+)"/)?.[1];
+    if (!href || href.includes('/stargazers') || href.includes('/forks')) continue;
+    const descRaw = b[1].match(/<p[^>]*class="col-9[^"]*"[^>]*>([\s\S]*?)<\/p>/)?.[1] || '';
+    const desc = descRaw.replace(/<[^>]+>/g, '').trim().slice(0, 120);
+    const starsRaw = b[1].match(/([\d.,]+)\s*<\/a>\s*<\/span>[\s\S]*?stars/)?.[1]
+      || b[1].match(/([\d.,]+)\s+stars/i)?.[1] || '';
+    items.push({
+      source: 'GitHub Trending',
+      title: `${href}${desc ? ' — ' + desc : ''}`,
+      url: 'https://github.com/' + href,
+      score: parseInt(starsRaw.replace(/[.,]/g, ''), 10) || 0,
+      comments: 0,
+    });
+  }
+  return items;
+}
+
+/**
+ * 并行抓取全部信息源，汇总去重、过滤低质标题、按热度排序。
+ * 返回 { items: 标准化素材数组, stats: {源: 条数} }；全部失败时 items 为空。
+ */
+async function fetchHotItems() {
+  const fetchers = {
+    hackernews: fetchHackerNews,
+    reddit: fetchReddit,
+    v2ex: fetchV2ex,
+    juejin: fetchJuejin,
+    github: fetchGithubTrending,
+  };
+  const results = await Promise.allSettled(
+    Object.entries(fetchers).map(async ([name, fn]) => {
+      const items = await fn();
+      console.log(`[INFO] 素材源 ${name}: ${items.length} 条`);
+      return { name, items };
+    })
+  );
+  const stats = {};
+  const all = [];
+  for (const r of results) {
+    if (r.status === 'fulfilled') {
+      stats[r.value.name] = r.value.items.length;
+      all.push(...r.value.items);
+    } else {
+      console.warn(`[WARN] 素材源抓取失败（跳过，不影响生成）: ${r.reason?.message || r.reason}`);
+    }
+  }
+  // 去重（按 url）+ 过滤低质标题 + 按热度排序
+  const seen = new Set();
+  const items = all
+    .filter(i => i.title && !isBadTitle(i.title))
+    .filter(i => {
+      if (seen.has(i.url)) return false;
+      seen.add(i.url);
+      return true;
+    })
+    .sort((a, b) => (b.score || 0) - (a.score || 0))
+    .slice(0, HOT_ITEMS_LIMIT);
+  return { items, stats };
+}
+
+/** 把素材列表拼成注入 prompt 的文本段 */
+function buildHotSection(items) {
+  if (!items.length) return '';
+  const lines = items.map((it, i) =>
+    `${i + 1}. [${it.source}] ${it.title}（${it.score ? '↑' + it.score + ' 分' : ''}${it.comments ? ' · ' + it.comments + ' 评论' : ''}）→ ${it.url}`
+  ).join('\n');
+  return `\n\n## 📡 今日实时素材（抓取自 Hacker News / Reddit / V2EX / 掘金 / GitHub Trending）\n\n以下是今天各技术社区的真实热门帖。规则：\n1. 优先从这些素材中挑选生成话题——能选到就尽量用素材，不要凭空编造\n2. 素材标题多为英文，请用中文总结成同事间能聊的话题，并把原帖的"梗点"（评论区高赞观点、槽点、亮点）带出来\n3. 凡基于素材生成的话题，source 字段必须填该素材的 url（用户会点开看原文和评论区）\n4. 若素材中没有合适的，再自由发挥；自由发挥的话题 source 留空 ""\n5. 素材中若有低质、引战、无关内容，直接跳过不用\n\n${lines}`;
+}
+
+/* ================================================================
  *  免费模型发现
  *  每次运行先拉取一次 OpenRouter 模型列表，筛选免费模型（pricing 全为 0），
  *  按"质量白名单 + 上下文长度"排序，取性能最好的几个作为本次主备模型。
@@ -227,10 +427,10 @@ const EXCLUDE_KEYWORDS = [
 const QUALITY_PRIORITY = [
   'z-ai/glm-5.2:free',
   'google/gemma-4-31b-it:free',
-  'nvidia/nemotron-3.5-lightning:free',
   'nvidia/nemotron-3-super-120b-a12b:free',
   'openai/gpt-oss-20b:free',
   'google/gemma-4-26b-a4b-it:free',
+  'nvidia/nemotron-3.5-lightning:free',
   'nvidia/nemotron-3-ultra-550b-a55b:free',
   'cohere/north-mini-code:free',
   'poolside/laguna-s-2.1:free',
@@ -396,7 +596,7 @@ async function generateContent(systemPrompt, userPrompt, expectedCategories) {
     } catch (e) {
       lastErr = e.message;
       console.warn(`[WARN] 模型 ${model} 生成失败: ${e.message}`);
-      await sleep(3000);
+      await sleep(15000); // 限流恢复期，等久一点再切下一个模型
     }
   }
 
@@ -442,9 +642,9 @@ async function callModel(model, systemPrompt, userPrompt, maxOutTokens) {
       if (!response.ok) {
         lastErr = `HTTP ${response.status} ${response.statusText}`;
         console.warn(`[WARN] ${lastErr}`);
-        // 5xx/429 可重试；其他 4xx 换模型
+        // 5xx/429 限流或服务抖动：等久一点重试（免费模型共享额度，429 常见）
         if (response.status >= 500 || response.status === 429) {
-          await sleep(8000 * attempt);
+          await sleep(15000 * attempt);
           continue;
         }
         break;
@@ -474,7 +674,7 @@ async function callModel(model, systemPrompt, userPrompt, maxOutTokens) {
     } catch (e) {
       lastErr = e.message;
       console.warn(`[WARN] 请求异常: ${e.message}`);
-      await sleep(8000 * attempt);
+      await sleep(15000 * attempt);
     }
   }
   throw new Error(lastErr || '请求失败');
@@ -507,32 +707,48 @@ function parseContent(text) {
     s => JSON.parse(s),
     // 尾逗号：{ "a": 1, } / ["a", ]
     s => JSON.parse(s.replace(/,\s*([}\]])/g, '$1')),
-    // 截断修复：取最后一个完整 token（} 或 ]），丢弃后面的残段，
-    // 扫描括号深度自动补全缺失的 ] }（处理输出被截断的情况）
+    // 提取 + 截断：输出可能混有思考文字/尾部残段。
+    // 从后往前尝试每个 "{" 起点，取括号平衡的完整对象；再从右往左截断到
+    // 最后一个 }/] 处理尾部残段，缺失括号自动补全。
     s => {
-      let cut = -1;
-      for (let i = s.length - 1; i >= 0; i--) {
-        if (s[i] === '}' || s[i] === ']') { cut = i + 1; break; }
+      const starts = [];
+      for (let i = 0; i < s.length; i++) if (s[i] === '{') starts.push(i);
+      let lastErr2 = '';
+      for (let i = starts.length - 1; i >= 0; i--) {
+        const head = s.slice(starts[i]);
+        try {
+          // 从该起点扫描括号平衡，遇到完整闭合或需要截断/补全
+          const stack = [];
+          let inStr = false, escaped = false, cut = -1;
+          for (let j = 0; j < head.length; j++) {
+            const ch = head[j];
+            if (inStr) {
+              if (escaped) escaped = false;
+              else if (ch === '\\') escaped = true;
+              else if (ch === '"') inStr = false;
+              continue;
+            }
+            if (ch === '"') inStr = true;
+            else if (ch === '{' || ch === '[') stack.push(ch);
+            else if (ch === '}' || ch === ']') {
+              if (!stack.length) { cut = -1; break; } // 括号不匹配，起点无效
+              stack.pop();
+              if (stack.length === 0) { cut = j + 1; break; }
+            }
+          }
+          if (cut < 0) { lastErr2 = '起点无效'; continue; }
+          // 截断到已闭合处；若提前耗尽，用堆栈补全
+          let cand = head.slice(0, cut);
+          if (stack.length) {
+            let tail = '';
+            while (stack.length) tail += stack.pop() === '{' ? '}' : ']';
+            cand += tail;
+          }
+          const parsed = JSON.parse(cand);
+          if (parsed && typeof parsed === 'object' && !Array.isArray(parsed)) return parsed;
+        } catch (e) { lastErr2 = e.message; }
       }
-      if (cut < 0) throw new Error('无可截断点');
-      const head = s.slice(0, cut);
-      const stack = [];
-      let inStr = false, escaped = false;
-      for (let i = 0; i < head.length; i++) {
-        const ch = head[i];
-        if (inStr) {
-          if (escaped) escaped = false;
-          else if (ch === '\\') escaped = true;
-          else if (ch === '"') inStr = false;
-          continue;
-        }
-        if (ch === '"') inStr = true;
-        else if (ch === '{' || ch === '[') stack.push(ch);
-        else if (ch === '}' || ch === ']') stack.pop();
-      }
-      let tail = '';
-      while (stack.length) tail += stack.pop() === '{' ? '}' : ']';
-      return JSON.parse(head + tail);
+      throw new Error('无法提取完整 JSON: ' + lastErr2);
     },
     // 键补引号 + 单引号转双引号：{ name: 'x' } → { "name": "x" }
     s => {
@@ -596,7 +812,20 @@ async function main() {
   console.log('方向:', slot.categories.map(k => CATEGORIES[k].name).join(', '));
   console.log('');
 
-  const { systemPrompt, userPrompt } = buildPrompt(slotKey);
+  // 工作时段：先抓一轮实时素材（Hacker News/Reddit/V2EX/掘金/GitHub Trending）
+  let hotItems = [];
+  let hotStats = {};
+  if (slot.useHotSources) {
+    console.log('\n[INFO] 抓取实时素材（Hacker News / Reddit / V2EX / 掘金 / GitHub Trending）...');
+    const hot = await fetchHotItems();
+    hotItems = hot.items;
+    hotStats = hot.stats;
+    console.log(`[INFO] 素材就绪: ${hotItems.length} 条（${Object.entries(hotStats).map(([k, v]) => k + ':' + v).join(', ') || '无'}）`);
+    console.log('[INFO] Top 5 素材:');
+    hotItems.slice(0, 5).forEach((it, i) => console.log(`       ${i + 1}. [${it.source}] ${it.title.slice(0, 60)}`));
+  }
+
+  const { systemPrompt, userPrompt } = buildPrompt(slotKey, hotItems);
   const { content, meta } = await generateContent(systemPrompt, userPrompt, slot.categories.length);
   const total = validateContent(content);
 
@@ -605,6 +834,9 @@ async function main() {
   content.slot = slotKey;
   content.slot_label = slot.label;
   content.meta = meta; // 模型 / token / 费用统计（网页末尾展示）
+  if (slot.useHotSources) {
+    content.meta.sources = { per_source: hotStats, total: hotItems.length }; // 素材统计
+  }
 
   // 确保 icon 字段存在
   for (const cat of content.categories) {
