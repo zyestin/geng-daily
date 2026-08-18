@@ -395,8 +395,10 @@ async function fetchJuejin() {
   });
 }
 
-/** 简易 RSS 2.0 解析（零依赖）：提取 title/link/description，先解 CDATA/实体再 strip 标签 */
-function parseRss(xml, sourceName, limit = 10) {
+/** 简易 RSS 2.0 解析（零依赖）：提取 title/link/description/pubDate，
+ *  先解 CDATA/实体再 strip 标签；按发布时间倒序并过滤超龄条目（默认 7 天）。
+ *  注意：部分站点的 feed 会混排历史旧文（如 InfoQ），必须按 pubDate 过滤。 */
+function parseRss(xml, sourceName, limit = 10, maxAgeDays = 7) {
   const clean = (raw = '') => raw
     .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')   // 先解 CDATA
     .replace(/&lt;/g, '<').replace(/&gt;/g, '>')
@@ -407,25 +409,29 @@ function parseRss(xml, sourceName, limit = 10) {
   const items = [];
   const re = /<item>([\s\S]*?)<\/item>/g;
   let m;
-  while ((m = re.exec(xml)) !== null && items.length < limit) {
+  while ((m = re.exec(xml)) !== null) {
     const b = m[1];
     const title = clean(b.match(/<title>([\s\S]*?)<\/title>/)?.[1]);
     const link = clean(b.match(/<link>([\s\S]*?)<\/link>/)?.[1]);
     let desc = clean(b.match(/<description>([\s\S]*?)<\/description>/)?.[1]);
     if (!title || !link) continue;
     if (!desc || /点击查看原文|^.{0,12}$/.test(desc)) desc = ''; // 丢弃无信息量的摘要
+    const ts = new Date(clean(b.match(/<pubDate>([\s\S]*?)<\/pubDate>/)?.[1])).getTime() || 0;
     items.push({
       source: sourceName,
       title: desc ? `${title} — ${desc.slice(0, 100)}` : title,
       url: link,
       score: 0,
       comments: 0,
-      // 编辑部精选权重：中文头条质量高、可直接用，给较高基准分确保进入 Top20
-      // （低于 HN 顶级帖 1000+ 分，但高于多数社区帖；仅参与排序，不在 prompt 显示假分数）
-      rankScore: sourceName === '量子位' ? 500 : 450,
+      ts,
+      // 编辑部精选权重：仅略高于普通社区帖，避免压过中高分帖；
+      // 中文头条靠下方保底配额兜底，不需要高基准分。
+      rankScore: sourceName === '量子位' ? 150 : 140,
     });
   }
-  return items;
+  items.sort((a, b) => b.ts - a.ts); // 按发布时间倒序（过滤混排旧文）
+  const cutoff = Date.now() - maxAgeDays * 864e5;
+  return items.filter(i => i.ts >= cutoff).slice(0, limit);
 }
 
 /** 抓取量子位（中文 AI 圈头条 RSS，编辑部精选，天然带梗） */
@@ -438,10 +444,14 @@ async function fetchQbitai() {
   return parseRss(await res.text(), '量子位', 8);
 }
 
-/** 抓取 InfoQ 中国（软件工程深度报道 RSS，偏技术向） */
+/** 抓取 InfoQ 中国（软件工程深度报道 RSS，偏技术向）
+ *  注意：InfoQ 对 bot UA 会返回 2019 年的缓存快照 feed，必须用浏览器 UA 才返回最新条目。 */
 async function fetchInfoq() {
   const res = await fetch('https://www.infoq.cn/feed', {
-    headers: { 'User-Agent': SOURCE_UA, 'Accept': 'application/rss+xml, application/xml, text/xml, */*' },
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36',
+      'Accept': 'application/rss+xml, application/xml, text/xml, */*',
+    },
     signal: AbortSignal.timeout(15000),
   });
   if (!res.ok) throw new Error('HTTP ' + res.status);
@@ -950,6 +960,23 @@ function validateContent(content, expectedCategories) {
 
 async function main() {
   const slotKey = determineSlot();
+
+  // --fetch-only 调试模式：只抓实时素材并打印素材池分布，不调用 AI（不消耗模型额度）
+  if (process.argv.includes('--fetch-only')) {
+    const slot = SLOTS[slotKey];
+    if (!slot.useHotSources) {
+      console.log(`[INFO] 时段 ${slotKey} 不使用实时素材，无需抓取`);
+      return;
+    }
+    const hot = await fetchHotItems();
+    const bySrc = {};
+    hot.items.forEach(i => { bySrc[i.source] = (bySrc[i.source] || 0) + 1; });
+    console.log(`\n[INFO] 素材池共 ${hot.items.length} 条（Top20）:`);
+    hot.items.forEach((it, i) => console.log(`  ${i + 1}. [${it.source}] ${it.title.slice(0, 60)}`));
+    console.log(`\n[INFO] 按源分布: ${JSON.stringify(bySrc)}`);
+    return;
+  }
+
   const slot = SLOTS[slotKey];
 
   console.log('====================================');
