@@ -5,27 +5,27 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "React 19 发布",
-          "summary": "核心特能全面开放",
-          "detail": "React 19在2026年初正式发布，引入了自动批处理、新的JSX转换以及更细粒度的状态管理，不再需要useId等辅助Hook，性能提升显著，生态兼容性逐步重构。",
-          "usage": "可以说：‘听说React 19发布了，自动批处理和新JSX转换是不是真的能省下不少渲染性能？我们项目能不能升级？’",
-          "source": "",
+          "title": "Cordis 框架",
+          "summary": "时空可组合的元框架",
+          "detail": "GitHub Trending 热门项目 Cordis 提出了时空可组合性（Spatiotemporal Composability）的概念，试图在元框架层面优化复杂应用的结构组织方式，挑战现有的 Next.js 路由和状态管理范式。",
+          "usage": "哎，你们看最近 GitHub 上那个 Cordis 了吗？提出了个‘时空可组合性’，听起来挺玄学的，感觉是在试图重新定义元框架，不知道能不能解决我们现在这种复杂页面的状态管理痛点。",
+          "source": "https://github.com/cordiverse/cordis",
           "tags": [
-            "React",
-            "前端框架",
-            "性能"
+            "Meta-Framework",
+            "Next.js",
+            "架构"
           ]
         },
         {
-          "title": "Vue 4.0 RC",
-          "summary": "Composition API升级",
-          "detail": "Vue 4.0 RC发布，Composition API获得更强类型支持，模板编译速度提升，并引入了新的指令语法，生态系统兼容性逐步过渡中，社区反响热烈。",
-          "usage": "可以说：‘Vue 4.0 RC出来了，Composition API的类型支持怎么样？我们组里还在纠结是否升级。’",
-          "source": "",
+          "title": "Bluesky 截图 Logo",
+          "summary": "用代码实现精准 Logo 绘制",
+          "detail": "Bluesky 分享了如何在截屏中通过代码精确绘制其 Logo 的实现方案，引发了 HN 社区关于 Canvas 绘图、SVG 渲染性能以及 UI 细节极致追求的广泛讨论。",
+          "usage": "最近看 Bluesky 那个画 Logo 的方案挺有意思的，细节控真的绝了。咱们 App 里那些复杂的自定义图形，是不是也可以借鉴这种方式来优化渲染性能，而不是全靠图片？",
+          "source": "https://timmarinin.net/2026/bluesky-screenshots/",
           "tags": [
-            "Vue",
-            "前端框架",
-            "生态"
+            "Canvas",
+            "UI渲染",
+            "细节"
           ]
         }
       ]
@@ -35,57 +35,69 @@
       "icon": "📱",
       "items": [
         {
-          "title": "RN 0.76发布",
-          "summary": "New Architecture稳定",
-          "detail": "React Native 0.76发布，New Architecture（Fabric和Hermes优化）正式默认开启，跨平台性能提升，且官方提供了更简化的升级指南，解决了以往的模块兼容性问题。",
-          "usage": "可以说：‘RN 0.76出来了，New Architecture默认开启了，我们的项目模块还兼容吗？是不是该考虑升级了？’",
-          "source": "",
+          "title": "Fairphone 6 原生相机",
+          "summary": "Linux 手机相机驱动突破",
+          "detail": "Fairphone 6 在 PostmarketOS 上实现了主摄像头的正常工作，这标志着开源手机在硬件底层驱动上的进展，虽然是 Linux 方案，但对于追求极致跨端和硬件控制的开发者很有启发。",
+          "usage": "你们听说了吗？Fairphone 6 的主相机在 PostmarketOS 上跑通了。虽然咱们写 RN 是在上层，但看到这种底层驱动的突破还是挺激动的，什么时候咱们也能在完全开源的 OS 上跑顺滑的 RN App？",
+          "source": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
           "tags": [
-            "React Native",
-            "新架构",
-            "性能"
+            "开源硬件",
+            "OS",
+            "驱动"
           ]
         },
         {
-          "title": "Expo Go升级",
-          "summary": "远程JS调试新功能",
-          "detail": "Expo更新至latest，引入了远程JS调试和实时日志溯源，开发者无需重新打包即可在设备上查看控告输出，效率大幅提升，特别适合快速迭代的项目。",
-          "usage": "可以说：‘Expo Go最新版支持远程调试了，以后改代码不需要频繁重新安装包了，太爽了。’",
+          "title": "RN 性能调优",
+          "summary": "新架构下的渲染瓶颈",
+          "detail": "随着 Fabric 架构的普及，很多团队在迁移过程中发现了新架构在特定复杂列表场景下的内存抖动问题，社区正在讨论如何更好地利用同步渲染来优化交互体验。",
+          "usage": "最近在调新架构的 Fabric，感觉同步渲染虽然解决了白屏问题，但复杂列表的内存抖动还是有点烦人。你们在迁移新架构的时候，有没有遇到类似的性能坑？",
           "source": "",
           "tags": [
-            "React Native",
-            "Expo",
-            "调试"
+            "Fabric",
+            "性能优化",
+            "New Architecture"
           ]
         }
       ]
     },
     {
-      "name": "AI编程",
+      "name": "AI 编程",
       "icon": "🤖",
       "items": [
         {
-          "title": "Cursor 1.5版本",
-          "summary": "多模态代码生成",
-          "detail": "Cursor 1.5发布，支持多模态输入（图片+文字生成代码），并优化了上下文窗口，对于复杂业务逻辑的代码生成准确率显著提升，成为不少前端团队的辅助工具。",
-          "usage": "可以说：‘Cursor最新版支持图片生成代码了，是不是可以把UI设计图直接转成组件？我们周末可以试试。’",
-          "source": "",
+          "title": "GPT-5.6 Sol 降价",
+          "summary": "顶级视觉模型成本减半",
+          "detail": "OpenAI 的 GPT-5.6 Sol 模型价格大幅削减 50%，且被公认为目前最强的视觉模型，这使得在 App 中集成高频视觉识别功能的成本大幅降低。",
+          "usage": "好消息！GPT-5.6 Sol 价格直接腰斩了，而且视觉能力据说强得离谱。咱们那个需要拍照识别的功能，是不是可以考虑把模型升级一下，成本还能省一半？",
+          "source": "https://openrouter.ai/openai/gpt-5.6-sol",
           "tags": [
-            "AI编程",
-            "Cursor",
-            "生产力"
+            "OpenAI",
+            "视觉模型",
+            "成本优化"
           ]
         },
         {
-          "title": "Copilot Enterprise",
-          "summary": "企业内知识集成",
-          "detail": "GitHub Copilot推出Enterprise版，允许接入公司内部代码库和文档，AI补全上下文更贴合项目规范，安全性也得到加强，成为大型团队的新宠，降低了知识壁垒。",
-          "usage": "可以说：‘Copilot Enterprise现在能接公司内部文档了，以后写代码是不是能避免违规模块？值得我们团队试一试。’",
-          "source": "",
+          "title": "Copilot Autofix 漏洞",
+          "summary": "AI 自动修复导致安全漏洞",
+          "detail": "Wiz 披露 GitHub Copilot 的 'Autofix' 功能在修复 Bug 时可能引入新的安全漏洞，甚至导致 Snowflake 的 Jira 系统被攻破，引发了关于 AI 辅助编程安全性的剧烈讨论。",
+          "usage": "最近看到个大瓜，Copilot 的 Autofix 居然帮人写出了漏洞，还导致 Snowflake 出事了。看来 AI 写的代码还是得人工 Review 一遍，不能直接点‘接受’，不然真的会给公司埋雷。",
+          "source": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
           "tags": [
-            "AI编程",
+            "AI安全",
             "Copilot",
-            "企业"
+            "Code Review"
+          ]
+        },
+        {
+          "title": "AI-Memory 长期记忆",
+          "summary": "解决 Agent 遗忘问题",
+          "detail": "开源项目 ai-memory 为 Agent 编程 CLI 提供了长期记忆解决方案，解决了不同 AI 厂商之间切换时上下文丢失的问题，让 AI 能记住项目的历史决策。",
+          "usage": "现在用 AI 编程最烦的就是它记不住之前的决定，得反复喂上下文。GitHub 上有个 ai-memory 专门做 Agent 的长期记忆，感觉如果能集成到 IDE 里，开发体验能起飞。",
+          "source": "https://github.com/akitaonrails/ai-memory",
+          "tags": [
+            "AI Agent",
+            "上下文",
+            "开源"
           ]
         }
       ]
@@ -95,27 +107,27 @@
       "icon": "📘",
       "items": [
         {
-          "title": "TS 5.5发布",
-          "summary": "新增工具类型",
-          "detail": "TypeScript 5.5正式发布，新增了诸如'OmitAll'、更精细的分布式条件类型以及运行时类型检查的新API，旨在减少类型声明的 boilerplate 代码，提升开发效率。",
-          "usage": "可以说：‘TS 5.5出来了，新的OmitAll工具类型是不是真的能少写很多类型定义？我们项目的类型定写能精简了。’",
-          "source": "",
+          "title": "DuckDB v2.0 预览",
+          "summary": "嵌入式分析数据库升级",
+          "detail": "DuckDB 2.0 预览版发布，重点优化了分析查询速度和内存管理。作为‘数据库界的 SQLite’，它在前端数据分析和本地处理场景中越来越受欢迎。",
+          "usage": "DuckDB 2.0 出预览版了，现在本地处理大数据集的性能简直离谱。咱们如果以后要做那种超强的数据看板，是不是不用把所有逻辑都扔给后端，直接在前端用 DuckDB 搞定？",
+          "source": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
           "tags": [
-            "TypeScript",
-            "前端类型",
-            "性能"
+            "DuckDB",
+            "数据分析",
+            "SQL"
           ]
         },
         {
-          "title": "Bun 1.2发布",
-          "summary": "更快的启动和HTTP",
-          "detail": "Bun 1.2发布，引入了原生HTTP/2支持和更低的内存开销，npm脚本执行速度比Node快显著，越来越多的团队开始尝试把Bun作为开发服务器的替代品。",
-          "usage": "可以说：‘Bun 1.2发布了，HTTP/2原生支持和更快的npm脚本执行，是不是该考虑把 vite 的开发服务器换成 Bun 了？’",
-          "source": "",
+          "title": "Rust GPU Offload",
+          "summary": "Rust 语言 GPU 卸载技术",
+          "detail": "一项新研究提出了在 Rust 中实现可移植且安全的 GPU 卸载方案，旨在让开发者无需编写复杂的 CUDA 代码即可利用 GPU 加速计算，对高性能前端工具链有潜在影响。",
+          "usage": "最近看到个关于 Rust GPU 卸载的论文，以后如果我们要写一些高性能的图像处理插件，可能不需要写 C++ 或 CUDA 了，直接用 Rust 就能安全地调用 GPU，这要是普及了，前端工具链得快多少。",
+          "source": "https://arxiv.org/abs/2608.13759",
           "tags": [
-            "Bun",
-            "JavaScript",
-            "运行时"
+            "Rust",
+            "GPU",
+            "高性能"
           ]
         }
       ]
@@ -125,27 +137,27 @@
       "icon": "🌟",
       "items": [
         {
-          "title": "tRPC 3.0发布",
-          "summary": "无API定义层",
-          "detail": "tRPC 3.0发布，支持React Server Components和更强的类型推断，让前后端无需写API层即可共享类型，成为全栈TypeScript项目的热门选择，效率显著提升。",
-          "usage": "可以说：‘tRPC 3.0出来了，真的可以做到前后端共享类型无API层吗？我们的微服务能不能改用它？’",
-          "source": "",
+          "title": "Strix AI 渗透工具",
+          "summary": "AI 驱动的漏洞扫描",
+          "detail": "Strix 是一个开源的 AI 渗透测试工具，旨在自动发现并修复 App 的漏洞。它将大模型的推理能力应用于安全审计，极大地提高了漏洞发现效率。",
+          "usage": "GitHub 上那个 Strix 挺猛的，用 AI 自动找 App 漏洞。咱们在上线前是不是可以跑一遍这种工具？比单纯靠人工点点点要高效得多，而且能提前堵住漏洞。",
+          "source": "https://github.com/usestrix/strix",
           "tags": [
-            "tRPC",
-            "后端",
-            "TypeScript"
+            "AI安全",
+            "渗透测试",
+            "开源"
           ]
         },
         {
-          "title": "shadcn-ui 进化",
-          "summary": "组件库升级",
-          "detail": "shadcn-ui更新至2.0，提供了更多深色模式适配、无障碍访问改进以及React 19的原生兼容性，成为Next.js 15项目的默认UI基础设施，社区使用率飙升。",
-          "usage": "可以说：‘shadcn-ui 2.0出来了，React 19原生兼容且无障碍更好，我们的Next.js项目是不是该更新组件库了？’",
-          "source": "",
+          "title": "Immich 相册管理",
+          "summary": "高性能自建相册方案",
+          "detail": "Immich 再次走红，作为高性能自托管相册方案，它提供了媲美 Google Photos 的体验，且完全私有化部署，深受极客和家庭用户喜爱。",
+          "usage": "最近在研究 Immich，自建相册真的太香了，不用担心云端隐私问题，速度还快。家里照片多的话，搞个 NAS 部署一个，给老婆孩子存照片正合适。",
+          "source": "https://github.com/immich-app/immich",
           "tags": [
-            "shadcn-ui",
-            "UI组件",
-            "Next.js"
+            "Self-hosted",
+            "私有云",
+            "照片管理"
           ]
         }
       ]
@@ -155,42 +167,52 @@
       "icon": "😄",
       "items": [
         {
-          "title": "“它在我机器上”",
-          "summary": "经典开发者借口",
-          "detail": "依然是程序员的永恒梗，尤其在跨平台、跨环境的移动端开发中，CI/CD通过但真机调试却屡次碰壁，成了团队内部调侃的源泉，既无奈又真实。",
-          "usage": "可以说：‘这个Bug在CI里跑没问题，果然是‘它在我机器上’的典型案例，真机还是得慢慢排。’",
-          "source": "",
+          "title": "AI;DR (Didn't Read)",
+          "summary": "AI 时代的‘太长不看’",
+          "detail": "AI;DR 模仿 TL;DR，吐槽现在人们依赖 AI 总结内容，导致没人愿意读原文，形成了‘AI 生成 -> AI 总结 -> 人看总结’的信息闭环，讽刺信息的极度碎片化。",
+          "usage": "现在真的进入 AI;DR 时代了，发个长帖没人看，得配个 AI 总结才有人点。感觉以后咱们写技术文档，如果没个 AI 摘要，同事可能直接就跳过了，太魔幻了。",
+          "source": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
           "tags": [
-            "梗",
-            "调试",
-            "团队"
+            "AI吐槽",
+            "信息碎片化",
+            "社区梗"
           ]
         },
         {
-          "title": "“又是一个JS框架”",
-          "summary": "圈内自嘲",
-          "detail": "每当新框架发布，社区总有人戏称‘又是一个JS框架’，如今React 19、Vue 4、Svelte 5轮番上阵，程序员既期待新功能，又对无尽的选择感到疲惫与好奇。",
-          "usage": "可以说：‘看React 19又冒头，社区是不是要开始‘又是一个JS框架’的自嘲模式了？我们是不是该稳住别动。’",
-          "source": "",
+          "title": "Quake 磁盘溢出",
+          "summary": "古早游戏的硬件极限",
+          "detail": "关于 Quake Shareware 时代 CD-ROM 空间不足导致必须精准计算每个字节的往事，引发开发者对现代软件‘空间浪费’的集体反思和怀旧。",
+          "usage": "看了个 Quake 时代的旧闻，那时候 CD 空间不够，得为了省几个字节死磕，简直是艺术。对比现在一个简单的 npm install 就能占掉几个 G，真是太奢侈了（笑）。",
+          "source": "https://fabiensanglard.net/quake_shareware_cd/index.html",
           "tags": [
-            "梗",
-            "社区",
-            "框架"
+            "怀旧",
+            "内存管理",
+            "程序员文化"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-08-18T02:37:48.414Z",
+  "generated_at": "2026-08-18T07:21:12.567Z",
   "slot": "weekday-morning",
   "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
-    "model": "nvidia/nemotron-3.5-lightning:free",
-    "actual_model": "nvidia/nemotron-3.5-lightning:free",
-    "prompt_tokens": 973,
-    "completion_tokens": 9236,
-    "total_tokens": 10209,
+    "model": "google/gemma-4-31b-it:free",
+    "actual_model": "google/gemma-4-31b-it:free",
+    "prompt_tokens": 2120,
+    "completion_tokens": 2503,
+    "total_tokens": 4623,
     "cost_usd": 0,
-    "free": true
+    "free": true,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "v2ex": 9,
+        "juejin": 10,
+        "github": 10
+      },
+      "total": 20
+    }
   }
 }
