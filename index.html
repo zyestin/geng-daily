@@ -17,7 +17,6 @@
           <p class="tagline">每天给你好聊的</p>
         </div>
         <div class="header-right">
-          <div class="slot-badge" id="slotBadge">加载中</div>
           <button class="theme-toggle" id="themeToggle" aria-label="切换主题">
             <span class="theme-icon-light">☀️</span>
             <span class="theme-icon-dark">🌙</span>
@@ -26,35 +25,82 @@
       </div>
     </header>
 
-    <div class="meta-bar" id="metaBar">
-      <span class="meta-date" id="metaDate"></span>
-      <span class="meta-sep">·</span>
-      <span class="meta-count" id="metaCount"></span>
-    </div>
+    <nav class="view-tabs" id="viewTabs" aria-label="内容视图切换">
+      <button class="view-tab" data-view="main">💼 工作·生活</button>
+      <button class="view-tab" data-view="parenting">👨‍👧 育儿</button>
+    </nav>
 
-    <div class="history-nav" id="historyNav" style="display:none">
-      <span class="history-label">📅 历史</span>
-      <div class="history-scroll" id="historyScroll"></div>
-    </div>
-
-    <div class="filter-bar" id="filterBar"></div>
-
-    <main class="content">
-      <div class="loading" id="loading">
-        <div class="loading-spinner"></div>
-        <p>正在加载今日梗...</p>
+    <!-- ========== 工作·生活 ========== -->
+    <section class="view" id="view-main">
+      <div class="meta-bar">
+        <span class="slot-badge" id="main-slotBadge">加载中</span>
+        <span class="meta-date" id="main-metaDate"></span>
+        <span class="meta-sep">·</span>
+        <span class="meta-count" id="main-metaCount"></span>
       </div>
-      <div class="error-box" id="error" style="display:none">
-        <p>😅 内容加载失败，请稍后刷新重试</p>
+      <div class="history-nav" id="main-historyNav" style="display:none">
+        <span class="history-label">📅 历史</span>
+        <div class="history-scroll" id="main-historyScroll"></div>
       </div>
-      <div class="content-grid" id="contentGrid" style="display:none"></div>
-    </main>
+      <div class="filter-bar" id="main-filterBar"></div>
+      <main class="content">
+        <div class="loading" id="main-loading">
+          <div class="loading-spinner"></div>
+          <p>正在加载今日梗...</p>
+        </div>
+        <div class="error-box" id="main-error" style="display:none">
+          <p>😅 内容加载失败，请稍后刷新重试</p>
+        </div>
+        <div class="content-grid" id="main-contentGrid" style="display:none"></div>
+        <div class="view-empty" id="main-empty" style="display:none">
+          <div class="view-empty-icon" id="main-emptyIcon">💼</div>
+          <h3 id="main-emptyTitle"></h3>
+          <p id="main-emptyText"></p>
+          <p class="view-empty-sub" id="main-emptySub"></p>
+        </div>
+      </main>
+      <footer class="app-footer">
+        <p id="main-footerInfo"></p>
+        <p class="cost-info" id="main-costInfo"></p>
+        <p class="footer-sub">内容由 AI 生成 · 仅供聊天参考 · 请以实际信息为准</p>
+      </footer>
+    </section>
 
-    <footer class="app-footer">
-      <p id="footerInfo"></p>
-      <p class="cost-info" id="costInfo"></p>
-      <p class="footer-sub">内容由 AI 生成 · 仅供聊天参考 · 请以实际信息为准</p>
-    </footer>
+    <!-- ========== 育儿 ========== -->
+    <section class="view" id="view-parenting">
+      <div class="meta-bar">
+        <span class="slot-badge" id="parenting-slotBadge">育儿</span>
+        <span class="meta-date" id="parenting-metaDate"></span>
+        <span class="meta-sep">·</span>
+        <span class="meta-count" id="parenting-metaCount"></span>
+      </div>
+      <div class="history-nav" id="parenting-historyNav" style="display:none">
+        <span class="history-label">📅 历史</span>
+        <div class="history-scroll" id="parenting-historyScroll"></div>
+      </div>
+      <div class="filter-bar" id="parenting-filterBar"></div>
+      <main class="content">
+        <div class="loading" id="parenting-loading">
+          <div class="loading-spinner"></div>
+          <p>正在加载育儿内容...</p>
+        </div>
+        <div class="error-box" id="parenting-error" style="display:none">
+          <p>😅 内容加载失败，请稍后刷新重试</p>
+        </div>
+        <div class="content-grid" id="parenting-contentGrid" style="display:none"></div>
+        <div class="view-empty" id="parenting-empty" style="display:none">
+          <div class="view-empty-icon" id="parenting-emptyIcon">👨‍👧</div>
+          <h3 id="parenting-emptyTitle"></h3>
+          <p id="parenting-emptyText"></p>
+          <p class="view-empty-sub" id="parenting-emptySub"></p>
+        </div>
+      </main>
+      <footer class="app-footer">
+        <p id="parenting-footerInfo"></p>
+        <p class="cost-info" id="parenting-costInfo"></p>
+        <p class="footer-sub">内容由 AI 生成 · 仅供聊天参考 · 请以实际信息为准</p>
+      </footer>
+    </section>
   </div>
   <script src="js/app.js"></script>
 </body>

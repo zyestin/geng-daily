@@ -25,9 +25,13 @@ on:
           - weekend-morning
           - weekend-evening
         default: auto
+  # 前端代码 push 时只部署、不生成（generate job 会跳过）
+  push:
+    branches: [main]
 
 jobs:
   generate:
+    if: github.event_name != 'push'
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -75,6 +79,8 @@ jobs:
   # 部署到 GitHub Pages（免费、无限流量、全球 CDN）
   deploy:
     needs: generate
+    # push 触发时 generate 被跳过（视为成功），仍要部署；generate 真失败则不部署
+    if: ${{ !cancelled() && (success() || github.event_name == 'push') }}
     runs-on: ubuntu-latest
     permissions:
       contents: read
