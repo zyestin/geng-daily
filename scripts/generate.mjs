@@ -420,8 +420,9 @@ function parseRss(xml, sourceName, limit = 10) {
       url: link,
       score: 0,
       comments: 0,
-      // 编辑部精选权重：参与排序但不在 prompt 中显示假分数
-      rankScore: sourceName === '量子位' ? 60 : 55,
+      // 编辑部精选权重：中文头条质量高、可直接用，给较高基准分确保进入 Top20
+      // （低于 HN 顶级帖 1000+ 分，但高于多数社区帖；仅参与排序，不在 prompt 显示假分数）
+      rankScore: sourceName === '量子位' ? 500 : 450,
     });
   }
   return items;
