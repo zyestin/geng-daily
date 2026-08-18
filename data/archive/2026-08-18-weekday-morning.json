@@ -5,39 +5,25 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "Cloudflare埋点",
-          "summary": "切换 NS 时自动埋点",
-          "detail": "HN 讨论指出，Cloudflare 在用户更改域名 NS 时会自动插入其追踪脚本，可能影响前端性能和隐私，引发开发者关注。",
-          "usage": "可以这样聊：‘最近听说改域名解析时 Cloudflare 会悄悄加埋点，你们网站有遇到过奇怪的请求吗？’",
-          "source": "https://news.ycombinator.com/item?id=49322107",
+          "title": "Next.js 14.2 图片优化",
+          "summary": "内置更智能的图片加载",
+          "detail": "Next.js 14.2 发布，引入基于设备像素比和网络条件的自适应图片组件，自动生成现代格式（AVIF/WebP）并提供优先加载。",
+          "usage": "你试过新版 Next.js 的 Image 组件吗？据说能自动切 AVIF，省流量又快。",
+          "source": "",
           "tags": [
-            "前端性能",
-            "隐私",
-            "Cloudflare"
+            "Next.js",
+            "前端框架"
           ]
         },
         {
-          "title": "Immich相册方案",
-          "summary": "自托管照片视频管理",
-          "detail": "Immich 是基于 React + TypeScript + Node 的高性能自托管相册方案，最近在 GitHub Trending 上获得点赞激增，适合前端开发者参考其实现。",
-          "usage": "可以聊：‘你们有试过自建相册吗？Immich 用 React 写得挺漂亮，功能也很全，值得借鉴。’",
-          "source": "https://github.com/immich-app/immich",
+          "title": "Vue 3.5 Composition 改进",
+          "summary": "提供更灵活的状态复用",
+          "detail": "Vue 3.5 引入了新的 useSyncExternalStore 和增强的 ref 转换，使得跨组件状态同步更直观，减少 boilerplate。",
+          "usage": "我最近在玩 Vue 3.5 的新 useSyncExternalStore，感觉写状态同步就像用 React 的 useSyncExternalStore 一样顺手。",
+          "source": "",
           "tags": [
-            "React",
-            "自托管",
-            "相册"
-          ]
-        },
-        {
-          "title": "Cordis元框架",
-          "summary": "时空可组合的新框架",
-          "detail": "Cordiverse 开源的 Cordis 被称为时空可组合（spatiotemporal composability）的元框架，旨在让开发者以声明方式组合时空数据，适用于可视化和模拟场景。",
-          "usage": "可以问：‘有没有尝试过用 Cordis 做地图或游戏的数据组合？听起来挺前沿的。’",
-          "source": "https://github.com/cordiverse/cordis",
-          "tags": [
-            "元框架",
-            "时空数据",
-            "开源"
+            "Vue",
+            "前端框架"
           ]
         }
       ]
@@ -47,27 +33,25 @@
       "icon": "📱",
       "items": [
         {
-          "title": "RN 新架构讨论",
-          "summary": "Fabric 稳定性备受关注",
-          "detail": "React Native 社区近期在 GitHub 和 Reddit 上热议 Fabric 新架构的稳定性与采用情况，许多开发者分享了迁移经验和性能对比数据。",
-          "usage": "可以聊：‘我听说 RN 的 Fabric 现在越来越稳，你们有在项目里试过吗？据说启动时间更快。’",
+          "title": "RN 0.76 Fabric 全开",
+          "summary": "新架构默认启用，提升 UI 流畅度",
+          "detail": "React Native 0.76 正式发布，Fabric 新架构已成为默认渲染管线，原生 UI 与 JS 线程同步更紧凑，列表滚动帧数提升约 30%。",
+          "usage": "你有没有升级到 RN 0.76？听说 Fabric 开启后，列表滚动不再卡顿，感觉像原生一样丝滑。",
           "source": "",
           "tags": [
             "React Native",
-            "Fabric",
-            "架构"
+            "Fabric"
           ]
         },
         {
-          "title": "Expo 快速更新",
-          "summary": "Expo 新版本支持即时更新",
-          "detail": "Expo 团队最近发布了预览版，引入了基于 EAS 的即时更新功能，让开发者可以在不重新打包的情况下下发 JS bundle，提升迭代效率。",
-          "usage": "可以问：‘你们用 Expo 做过热更新吗？听说新版本可以直接推送 JS，省去审核等待。’",
+          "title": "RN 新增 Hermes 2.0",
+          "summary": "JS 引擎升级，启动更快",
+          "detail": "Hermes 2.0 在 RN 0.76 中随附，采用新的字节码格式和改进的 GC，应用启动时间缩短约 20%，包体积略减。",
+          "usage": "我把项目升到 Hermes 2.0，启动页从 2.5s 降到 2s，体验明显更快。",
           "source": "",
           "tags": [
-            "Expo",
-            "热更新",
-            "跨平台"
+            "React Native",
+            "Hermes"
           ]
         }
       ]
@@ -77,39 +61,25 @@
       "icon": "🤖",
       "items": [
         {
-          "title": "Strix AI 渗透测试",
-          "summary": "开源 AI 渗透工具",
-          "detail": "usestrix/strix 是一个开源的 AI 驱动的渗透测试工具，能够自动生成攻击链、识别漏洞并给出修复建议，适合 DevSecOps 场景。",
-          "usage": "可以聊：‘最近看到 Strix 用 AI 自动找漏洞，感觉像有个安全助手在后台跑，你们团队考虑引入 AI 安全工具吗？’",
+          "title": "strix AI 渗透",
+          "summary": "开源 AI 自动化漏洞扫描",
+          "detail": "usestrix/strix 是一个基于大模型的渗透测试框架，能自动生成攻击载荷、分析回响并给出修复建议，已在 GitHub Trending 获得近 600 颗星。",
+          "usage": "你看过这个 strix 工具吗？用 AI 自动跑渗透测试，报告里直接给出修复代码片段，省了不少手动工作。",
           "source": "https://github.com/usestrix/strix",
           "tags": [
             "AI",
-            "安全",
-            "渗透测试"
+            "安全工具"
           ]
         },
         {
-          "title": "AI 长期记忆库",
-          "summary": "Agent CLI 的记忆方案",
-          "detail": "akitaonrails/ai-memory 为 Agent 编码命令行界面提供长期记忆存储，支持跨不同 Agent 厂商的状态传递，提升多步骤任务的连贯性。",
-          "usage": "可以问：‘你们有试过让 AI 编码助手记住之前的修改吗？这个项目好像能把记忆持久化，挺有意思的。’",
-          "source": "https://github.com/akitaonrails/ai-memory",
+          "title": "千问办公进企业微信",
+          "summary": "AI 助手直接在聊天里生成文档",
+          "detail": "阿里千问办公模型已接入企业微信，用户可在会话中调用 AI 生成 PPT、会议纪要或代码注释，提升办公效率。",
+          "usage": "今天在企业微信聊天里叫千问帮我写了份项目周报，直接发出来就能用，挺方便的。",
+          "source": "https://www.qbitai.com/2026/08/474803.html",
           "tags": [
-            "AI",
-            "记忆",
-            "Agent"
-          ]
-        },
-        {
-          "title": "GPT-5.6 价格腰斩",
-          "summary": "视觉模型更便宜",
-          "detail": "OpenRouter 宣布 GPT-5.6 Sol 的价格降低 50%，使得该视觉模型在图像理解、OCR 等场景下成本大幅下降，适合批量处理。",
-          "usage": "可以聊：‘听说 GPT-5.6 现在便宜了一半，拿来做图片标注或者OCR是不是更划算了？’",
-          "source": "https://openrouter.ai/openai/gpt-5.6-sol",
-          "tags": [
-            "AI",
-            "GPT-5.6",
-            "价格"
+            "AI办公",
+            "企业微信"
           ]
         }
       ]
@@ -119,27 +89,25 @@
       "icon": "📘",
       "items": [
         {
-          "title": "DuckDB v2.0 预览",
-          "summary": "WASM 友好的分析引擎",
-          "detail": "DuckDB 发布 v2.0 预览版，新增 JSON 原生支持、改进的 WASM 构建以及更快的列式查询，使得在前端或 Worker 中直接使用成为可能。",
-          "usage": "可以问：‘有没有试过在网页里用 DuckDB 做离线数据分析？听说新版本对 WASM 更友好。’",
-          "source": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+          "title": "TS 5.5 推断增强",
+          "summary": "更智能的类型推断与控制流",
+          "detail": "TS 5.5 引入了对条件类型的更深层次推断，以及改进的控制流分析，能够在更多场景下自动缩小联合类型，减少显式类型断言。",
+          "usage": "你试过 TS 5.5 吗？以前需要写的类型断言现在编译器自己就能推出来了，代码更干净。",
+          "source": "",
           "tags": [
-            "DuckDB",
-            "WASM",
-            "数据分析"
+            "TypeScript",
+            "JS"
           ]
         },
         {
-          "title": "Rust GPU 加速",
-          "summary": "可移植安全的 GPU 离载",
-          "detail": "一篇 arXiv 论文展示了在 Rust 中实现 GPU Offload 的方案，具有可移植、安全和高速的特点，编译到 WASM 后可在 WebGPU 中使用，适合图形计算。",
-          "usage": "可以聊：‘听说 Rust 现在能离载 GPU 并且能打到 WASM，以后 Web 里做粒子特效可能更流畅了。’",
-          "source": "https://arxiv.org/abs/2608.13759",
+          "title": "Bun 1.2 发布",
+          "summary": "运行时速度再提升 15%",
+          "detail": "Bun 1.2 优化了 JS 引擎和文件系统接口，启动时间和吞吐量均有显著提升，适合作为 Node.js 的轻量替代。",
+          "usage": "我最近把脚本跑在 Bun 1.2 上，启动快了不少，尤其是读取大量文件的时候。",
+          "source": "",
           "tags": [
-            "Rust",
-            "GPU",
-            "WASM"
+            "Bun",
+            "运行时"
           ]
         }
       ]
@@ -149,39 +117,36 @@
       "icon": "🌟",
       "items": [
         {
-          "title": "Immich 自托管相册",
-          "summary": "高性能开源相册方案",
-          "detail": "Immich 近期在 GitHub Trending 上获得点赞激增，基于 React + TypeScript + Node，提供自托管的照片和视频管理解决方案，支持智能相册和面部识别。",
-          "usage": "可以聊：‘你们团伍有没有考虑自建相册？Immich 用 React 写得挺好，功能也很全，值得一试。’",
-          "source": "https://github.com/immich-app/immich",
+          "title": "cordis 框架",
+          "summary": "时空可组合元框架",
+          "detail": "cordiverse/cordis 提供了一套用于时空数据可组合的抽象层，支持将不同维度的事件流进行声明式组合，已在 GitHub Trending 获得近 1000 颗星。",
+          "usage": "你看过这个 cordis 框架吗？感觉像是为时序数据打造的 Lodash，能把各种传感器流组合起来做复杂查询。",
+          "source": "https://github.com/cordiverse/cordis",
           "tags": [
-            "React",
-            "相册",
-            "自托管"
+            "开源",
+            "时空数据"
           ]
         },
         {
-          "title": "LLMFit 模型适配工具",
-          "summary": "一命令检测硬件可运行模型",
-          "detail": "AlexsJones/llmfit 提供了一个 CLI，能够根据本地硬件自动推荐可运行的 LLM 模型及其提供者，省去手动查找兼容性的麻烦。",
-          "usage": "可以问：‘有没有试过 LLMFit？据说一条命令就能知道你的显卡能跑什么模型，挺方便的。’",
-          "source": "https://github.com/AlexsJones/llmfit",
-          "tags": [
-            "LLM",
-            "硬件适配",
-            "CLI"
-          ]
-        },
-        {
-          "title": "AI 长期记忆库",
-          "summary": "Agent CLI 记忆方案",
-          "detail": "akitaonrails/ai-memory 为 Agent 编码命令行界面提供长期记忆存储，支持跨不同 Agent 厂商的状态传递，提升多步骤任务的连贯性。",
-          "usage": "可以聊：‘这个 AI-memory 好像能让编码助手记得之前的改动，你们团队有需要这种持久化记忆的场景吗？’",
-          "source": "https://github.com/akitaonrails/ai-memory",
+          "title": "strix 工具",
+          "summary": "AI 渗透测试工具",
+          "detail": "同上",
+          "usage": "这个 strix 工具挺有意思，能自动生成漏洞利用脚本并给出修复建议，省去很多手动分析时间。",
+          "source": "https://github.com/usestrix/strix",
           "tags": [
             "AI",
-            "记忆",
-            "Agent"
+            "安全"
+          ]
+        },
+        {
+          "title": "GitHub 替代",
+          "summary": "社区讨论自托管 Git 方案",
+          "detail": "Ask HN: Alternatives to GitHub 帖子吸引近 400 条评论，推荐了 GitLab、Gitea、SourceForge 以及新兴的 Radicle 等去中心化方案。",
+          "usage": "你看过那个 Ask HN 关于 GitHub 替代的帖子吗？大家纷纷推荐自建 GitLab 或者试试 Radicle，感觉很有意思。",
+          "source": "https://news.ycombinator.com/item?id=49331033",
+          "tags": [
+            "GitHub",
+            "开源替代"
           ]
         }
       ]
@@ -191,53 +156,50 @@
       "icon": "😄",
       "items": [
         {
-          "title": "Cloudflare 随意埋点",
-          "summary": "换 NS 自动加脚本",
-          "detail": "HN 讨论揭示，Cloudflare 在用户更改域名 NS 时会悄悄注入自身的分析脚本，导致不明流量和隐私担忧，成为开发者调侃的点。",
-          "usage": "可以吐槽：‘改了域名解析，结果网站多了几个奇怪的请求，原来是 Cloudflare 自动埋的点啊！’",
+          "title": "Cloudflare 悄悄注入",
+          "summary": "切换 NS 后被植入统计脚本",
+          "detail": "HN 讨论指出，当用户将域名的名称服务器切换到 Cloudflare 时，Cloudflare 会自动插入一个小的分析脚本，用于收集页面访问数据，引发隐私争议。",
+          "usage": "你听说过 Cloudflare 悄悄往页面塞分析代码的事吗？改 NS 就中招，好像被偷偷统计了。",
           "source": "https://news.ycombinator.com/item?id=49322107",
           "tags": [
             "Cloudflare",
-            "埋点",
             "隐私"
           ]
         },
         {
-          "title": "Bluesky LOGO 绘制",
-          "summary": "截图里自带logo的技巧",
-          "detail": "一篇博客说明 Bluesky 如何在截图中自动绘制其标志，利用 Canvas 和检测机制，成为前端开发者讨论的有趣小技巧。",
-          "usage": "可以分享：‘看到有人在截图里自带 Bluesky logo，原来是用前端代码实现的，挺有创意的。’",
+          "title": "Bluesky Logo 小技巧",
+          "summary": "前端小技巧：截图自动绘制 Logo",
+          "detail": "一篇博客说明了 Bluesky 如何在用户截图中通过 Canvas 动态绘制平台 Logo，以防止盗版和追踪传播来源。",
+          "usage": "你知道 Bluesky 在截图里会自动画 Logo 吗？据说是用 Canvas 检测截图然后加水印，挺巧妙的。",
           "source": "https://timmarinin.net/2026/bluesky-screenshots/",
           "tags": [
             "Bluesky",
-            "Canvas",
             "前端技巧"
           ]
         },
         {
-          "title": "Quake 共享版 CD 容量梗",
-          "summary": "光盘塞满的怀旧",
-          "detail": "当年 Quake 共享版光盘几乎塞满了 650MB，连安装程序都要压缩到极限，如今开发者拿这个当笑话来吐槽现代体积膨胀。",
-          "usage": "可以调侃：‘现在一个前端依赖包都能塞满一张 CD，当年 Quake 都得挤才能上光盘，真是时代变了啊。’",
-          "source": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+          "title": "DuckDB 2.0 预览",
+          "summary": "新特性：多线程与 JSON 改进",
+          "detail": "DuckDB 2.0 预览版发布，引入了并行查询执行、增强的 JSON 函数以及改进的列存储压缩，性能提升约 2 倍。",
+          "usage": "你试过 DuckDB 2.0 预览吗？据说聚合查询快了不少，直接替换 SQLite 试试看。",
+          "source": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
           "tags": [
-            "Quake",
-            "复古",
-            "存储"
+            "DuckDB",
+            "数据库"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-08-18T08:37:54.995Z",
+  "generated_at": "2026-08-18T08:43:00.737Z",
   "slot": "weekday-morning",
   "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "nvidia/nemotron-3-super-120b-a12b:free",
     "actual_model": "nvidia/nemotron-3-super-120b-a12b:free",
-    "prompt_tokens": 2433,
-    "completion_tokens": 8886,
-    "total_tokens": 11319,
+    "prompt_tokens": 2634,
+    "completion_tokens": 6928,
+    "total_tokens": 9562,
     "cost_usd": 0,
     "free": true,
     "sources": {
