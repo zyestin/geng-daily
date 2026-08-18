@@ -512,15 +512,38 @@ async function fetchHotItems() {
   }
   // 去重（按 url）+ 过滤低质标题 + 按热度排序
   const seen = new Set();
-  const items = all
+  const deduped = all
     .filter(i => i.title && !isBadTitle(i.title))
     .filter(i => {
       if (seen.has(i.url)) return false;
       seen.add(i.url);
       return true;
     })
-    .sort((a, b) => (b.rankScore ?? b.score) - (a.rankScore ?? a.score))
-    .slice(0, HOT_ITEMS_LIMIT);
+    .sort((a, b) => (b.rankScore ?? b.score) - (a.rankScore ?? a.score));
+
+  // 中文精选源保底：量子位 / InfoQ 各至少 3 条进池。
+  // 原因：它们没有社区热度分，纯分数竞争会被高分英文帖挤出 Top20；
+  // 但中文头条是编辑部精选、可直接用作聊天话题，价值值得保底配额。
+  // 注意：受保底的源之间互不挤占（挤掉池尾时只允许删非保底源）。
+  const CHINESE_MIN = 3;
+  const GUARDED_SOURCES = ['量子位', 'InfoQ'];
+  const top = deduped.slice(0, HOT_ITEMS_LIMIT);
+  for (const srcName of GUARDED_SOURCES) {
+    let inPool = top.filter(i => i.source === srcName).length;
+    if (inPool >= CHINESE_MIN) continue;
+    const candidates = deduped.filter(i => i.source === srcName && !top.includes(i));
+    for (const c of candidates) {
+      if (inPool >= CHINESE_MIN) break;
+      // 从池尾挤掉一条非保底源的最低分项
+      for (let k = top.length - 1; k >= 0; k--) {
+        if (!GUARDED_SOURCES.includes(top[k].source)) { top.splice(k, 1); break; }
+      }
+      top.push(c);
+      inPool++;
+    }
+  }
+  top.sort((a, b) => (b.rankScore ?? b.score) - (a.rankScore ?? a.score));
+  const items = top;
   return { items, stats };
 }
 
