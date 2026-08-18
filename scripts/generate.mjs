@@ -214,8 +214,9 @@ ${hotSection}
 
 /* ================================================================
  *  实时素材采集
- *  生成前并行抓取 Hacker News / Reddit / V2EX / 掘金 / GitHub Trending
- *  的热门帖，作为 prompt 注入素材。任何源失败都静默跳过，不影响主流程。
+ *  生成前并行抓取 Hacker News / HN Ask / Lobste.rs / dev.to / Reddit /
+ *  V2EX / 掘金 / GitHub Trending 的热门帖，作为 prompt 注入素材。
+ *  任何源失败都静默跳过，不影响主流程。
  *  素材带真实原文链接 → 生成的话题可直连原文（"👉原文"不再只是搜索兜底）。
  * ================================================================ */
 
@@ -261,7 +262,9 @@ async function fetchHackerNews() {
   return items.filter(Boolean);
 }
 
-/** 抓取 Reddit 多个技术子版块的当日 top 帖（官方 JSON；IP 被限时自动降级为空） */
+/** 抓取 Reddit 多个技术子版块的当日 top 帖。
+ *  注意：Reddit 官方 JSON 对数据中心 IP（GitHub Actions）常返回 403，
+ *  本函数失败会自动降级为空数组，由 Lobste.rs / dev.to / HN Ask 等源补位。 */
 const REDDIT_SUBS = [
   'programming', 'reactnative', 'webdev', 'javascript',
   'MachineLearning', 'opensource', 'technology', 'ExperiencedDevs',
@@ -286,7 +289,71 @@ async function fetchReddit() {
       };
     });
   }));
-  return results.filter(r => r.status === 'fulfilled').flatMap(r => r.value);
+  const fulfilled = results.filter(r => r.status === 'fulfilled');
+  const failed = results.length - fulfilled.length;
+  if (failed > 0) {
+    console.warn(`[WARN] Reddit ${failed}/${results.length} 个子版块被拒（数据中心 IP 常被 Reddit 封禁，忽略）`);
+  }
+  return fulfilled.flatMap(r => r.value);
+}
+
+/** 抓取 HN Ask 板块（程序员问答/吐槽，类似 Reddit 的讨论帖） */
+async function fetchHnAsk() {
+  const res = await fetch('https://hacker-news.firebaseio.com/v0/askstories.json', {
+    headers: { 'Accept': 'application/json' },
+    signal: AbortSignal.timeout(15000),
+  });
+  if (!res.ok) throw new Error('HTTP ' + res.status);
+  const ids = (await res.json()).slice(0, 8);
+  const items = await Promise.all(ids.map(async id => {
+    try {
+      const s = await (await fetch(`https://hacker-news.firebaseio.com/v0/item/${id}.json`, {
+        signal: AbortSignal.timeout(12000),
+      })).json();
+      return {
+        source: 'HN Ask',
+        title: s.title,
+        url: `https://news.ycombinator.com/item?id=${s.id}`,
+        score: s.score || 0,
+        comments: s.descendants || 0,
+      };
+    } catch { return null; }
+  }));
+  return items.filter(Boolean);
+}
+
+/** 抓取 Lobste.rs 热门（程序员技术社区，官方 JSON 免费无 key） */
+async function fetchLobsters() {
+  const res = await fetch('https://lobste.rs/hottest.json', {
+    headers: { 'Accept': 'application/json' },
+    signal: AbortSignal.timeout(12000),
+  });
+  if (!res.ok) throw new Error('HTTP ' + res.status);
+  const d = await res.json();
+  return (d || []).slice(0, 10).map(s => ({
+    source: 'Lobste.rs',
+    title: s.title,
+    url: s.url || `https://lobste.rs${s.short_id_url || ''}`,
+    score: s.score || 0,
+    comments: s.comment_count || 0,
+  }));
+}
+
+/** 抓取 dev.to 热门文章（开发者社区，官方 API 免费无 key） */
+async function fetchDevTo() {
+  const res = await fetch('https://dev.to/api/articles?per_page=10', {
+    headers: { 'Accept': 'application/json', 'User-Agent': SOURCE_UA },
+    signal: AbortSignal.timeout(12000),
+  });
+  if (!res.ok) throw new Error('HTTP ' + res.status);
+  const d = await res.json();
+  return (d || []).map(s => ({
+    source: 'dev.to',
+    title: s.title,
+    url: s.url || '',
+    score: s.positive_reactions_count || 0,
+    comments: s.comments_count || 0,
+  }));
 }
 
 /** 抓取 V2EX 热议（中文程序员社区，官方 API 免费无 key） */
@@ -364,6 +431,9 @@ async function fetchHotItems() {
   const fetchers = {
     hackernews: fetchHackerNews,
     reddit: fetchReddit,
+    askhn: fetchHnAsk,
+    lobsters: fetchLobsters,
+    devto: fetchDevTo,
     v2ex: fetchV2ex,
     juejin: fetchJuejin,
     github: fetchGithubTrending,
@@ -405,7 +475,7 @@ function buildHotSection(items) {
   const lines = items.map((it, i) =>
     `${i + 1}. [${it.source}] ${it.title}（${it.score ? '↑' + it.score + ' 分' : ''}${it.comments ? ' · ' + it.comments + ' 评论' : ''}）→ ${it.url}`
   ).join('\n');
-  return `\n\n## 📡 今日实时素材（抓取自 Hacker News / Reddit / V2EX / 掘金 / GitHub Trending）\n\n以下是今天各技术社区的真实热门帖。规则：\n1. 优先从这些素材中挑选生成话题——能选到就尽量用素材，不要凭空编造\n2. 素材标题多为英文，请用中文总结成同事间能聊的话题，并把原帖的"梗点"（评论区高赞观点、槽点、亮点）带出来\n3. 凡基于素材生成的话题，source 字段必须填该素材的 url（用户会点开看原文和评论区）\n4. 若素材中没有合适的，再自由发挥；自由发挥的话题 source 留空 ""\n5. 素材中若有低质、引战、无关内容，直接跳过不用\n\n${lines}`;
+  return `\n\n## 📡 今日实时素材（抓取自 Hacker News / HN Ask / Lobste.rs / dev.to / V2EX / 掘金 / GitHub Trending）\n\n以下是今天各技术社区的真实热门帖。规则：\n1. 优先从这些素材中挑选生成话题——能选到就尽量用素材，不要凭空编造\n2. 素材标题多为英文，请用中文总结成同事间能聊的话题，并把原帖的"梗点"（评论区高赞观点、槽点、亮点）带出来\n3. 凡基于素材生成的话题，source 字段必须填该素材的 url（用户会点开看原文和评论区）\n4. 若素材中没有合适的，再自由发挥；自由发挥的话题 source 留空 ""\n5. 素材中若有低质、引战、无关内容，直接跳过不用\n\n${lines}`;
 }
 
 /* ================================================================
