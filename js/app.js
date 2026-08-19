@@ -45,6 +45,50 @@
     return map[key] || (label ? label.slice(0, 6) : key);
   }
 
+  function fmtTime(ts) {
+    var d = new Date(ts);
+    var p = function (x) { return String(x).padStart(2, '0'); };
+    return (d.getMonth() + 1) + '/' + d.getDate() + ' ' + p(d.getHours()) + ':' + p(d.getMinutes());
+  }
+
+  /* ================================================================
+   * 我的笔记：点赞 + 想法碎片。
+   * 存 localStorage（key: 视图名|话题标题），刷新/重开浏览器不丢；
+   * 头部「📝 我的笔记」面板可汇总查看，并支持导出/导入 JSON 备份。
+   * ================================================================ */
+  var NOTES_KEY = 'geng-daily-notes-v1';
+  var notesStore = {
+    data: (function () {
+      try { return JSON.parse(localStorage.getItem(NOTES_KEY)) || {}; }
+      catch (e) { return {}; }
+    })(),
+    save: function () {
+      try { localStorage.setItem(NOTES_KEY, JSON.stringify(this.data)); } catch (e) {}
+      updateNotesBadge();
+    },
+    toggleLike: function (key, meta) {
+      var n = this.data[key] || (this.data[key] = { liked: false, comments: [] });
+      n.title = meta.title; n.view = meta.view;
+      n.liked = !n.liked;
+      if (!n.liked && !(n.comments && n.comments.length)) delete this.data[key];
+      this.save();
+      return n.liked;
+    },
+    addComment: function (key, meta, text) {
+      var n = this.data[key] || (this.data[key] = { liked: false, comments: [] });
+      n.title = meta.title; n.view = meta.view;
+      (n.comments = n.comments || []).push({ text: text, ts: Date.now() });
+      this.save();
+    },
+    removeComment: function (key, idx) {
+      var n = this.data[key];
+      if (!n || !n.comments) return;
+      n.comments.splice(idx, 1);
+      if (!n.liked && !n.comments.length) delete this.data[key];
+      this.save();
+    },
+  };
+
   /* ===== 原文链接：有真实 source 用之，否则降级为搜索 ===== */
   function buildSourceLink(item) {
     var src = item.source || '';
@@ -63,11 +107,16 @@
   }
 
   /* ===== 卡片 ===== */
-  function createCard(cat, item, delay) {
+  function createCard(cat, item, delay, viewName) {
     var card = document.createElement('div');
     card.className = 'card';
     card.dataset.category = cat.name;
     card.style.animationDelay = delay + 's';
+
+    var view = viewName || 'main';
+    var noteKey = view + '|' + item.title;
+    var note = notesStore.data[noteKey] || { liked: false, comments: [] };
+    var noteCount = (note.comments || []).length;
 
     var tagsHtml = '';
     if (item.tags && item.tags.length) {
@@ -93,6 +142,26 @@
         '</div>' +
         tagsHtml +
       '</div>' +
+      '<div class="card-actions">' +
+        '<button class="card-action-btn like-btn' + (note.liked ? ' liked' : '') + '">' +
+          '<span class="like-icon">' + (note.liked ? '❤️' : '🤍') + '</span>' +
+          '<span class="like-label">' + (note.liked ? '已赞' : '点赞') + '</span>' +
+        '</button>' +
+        '<button class="card-action-btn comment-btn">' +
+          '<span>💭</span><span>想法</span>' +
+          '<span class="comment-count' + (noteCount ? '' : ' zero') + '">' + noteCount + '</span>' +
+        '</button>' +
+      '</div>' +
+      '<div class="card-notes-area">' +
+        '<div class="note-input-row">' +
+          '<textarea class="note-input" placeholder="写点你联想到的思想碎片、聊天跟进、灵感…" rows="2"></textarea>' +
+          '<div class="note-input-actions">' +
+            '<span class="note-hint">⌘/Ctrl + Enter 保存</span>' +
+            '<button class="note-save-btn">保存</button>' +
+          '</div>' +
+        '</div>' +
+        '<div class="note-list"></div>' +
+      '</div>' +
       '<button class="card-expand-btn"><span class="card-expand-btn-text">展开详情</span></button>';
 
     card.addEventListener('click', function (e) {
@@ -108,6 +177,75 @@
         e.stopPropagation();
       });
     }
+
+    /* ===== 点赞（localStorage 持久化） ===== */
+    var likeBtn = card.querySelector('.like-btn');
+    likeBtn.addEventListener('click', function (e) {
+      e.stopPropagation();
+      var liked = notesStore.toggleLike(noteKey, { title: item.title, view: view });
+      likeBtn.classList.toggle('liked', liked);
+      likeBtn.querySelector('.like-icon').textContent = liked ? '❤️' : '🤍';
+      likeBtn.querySelector('.like-label').textContent = liked ? '已赞' : '点赞';
+    });
+
+    /* ===== 想法碎片（localStorage 持久化） ===== */
+    var commentBtn = card.querySelector('.comment-btn');
+    var notesArea = card.querySelector('.card-notes-area');
+    var noteInput = card.querySelector('.note-input');
+    var noteList = card.querySelector('.note-list');
+    var countEl = card.querySelector('.comment-count');
+
+    function renderNoteList() {
+      var n = notesStore.data[noteKey];
+      var cs = (n && n.comments) || [];
+      noteList.innerHTML = cs.map(function (c, i) {
+        return '<div class="note-item">' +
+          '<div class="note-item-text">' + esc(c.text) + '</div>' +
+          '<div class="note-item-meta">' +
+            '<span>' + fmtTime(c.ts) + '</span>' +
+            '<button class="note-del-btn" data-idx="' + i + '" title="删除这条">删除</button>' +
+          '</div>' +
+        '</div>';
+      }).join('');
+      countEl.textContent = cs.length;
+      countEl.classList.toggle('zero', !cs.length);
+    }
+
+    commentBtn.addEventListener('click', function (e) {
+      e.stopPropagation();
+      var hidden = notesArea.style.display !== 'block';
+      notesArea.style.display = hidden ? 'block' : 'none';
+      if (hidden) noteInput.focus();
+    });
+
+    /* 笔记区域内的一切点击都不触发卡片折叠 */
+    notesArea.addEventListener('click', function (e) { e.stopPropagation(); });
+
+    function saveNote() {
+      var text = (noteInput.value || '').trim();
+      if (!text) return;
+      notesStore.addComment(noteKey, { title: item.title, view: view }, text);
+      noteInput.value = '';
+      renderNoteList();
+    }
+
+    card.querySelector('.note-save-btn').addEventListener('click', saveNote);
+    noteInput.addEventListener('keydown', function (e) {
+      if ((e.metaKey || e.ctrlKey) && e.key === 'Enter') {
+        e.stopPropagation();
+        saveNote();
+      }
+    });
+
+    noteList.addEventListener('click', function (e) {
+      var del = e.target.closest('.note-del-btn');
+      if (!del) return;
+      e.stopPropagation();
+      notesStore.removeComment(noteKey, parseInt(del.dataset.idx, 10));
+      renderNoteList();
+    });
+
+    renderNoteList();
     return card;
   }
 
@@ -267,7 +405,7 @@
       var delay = 0;
       (data.categories || []).forEach(function (cat) {
         (cat.items || []).forEach(function (item) {
-          var card = createCard(cat, item, delay);
+          var card = createCard(cat, item, delay, name);
           els.grid.appendChild(card);
           delay += 0.04;
         });
@@ -371,4 +509,113 @@
   });
   currentView.els.root.classList.add('active');
   currentView.loadLatest();
+
+  /* ================================================================
+   * 我的笔记面板：汇总所有点赞与想法碎片，支持导出/导入备份。
+   * ================================================================ */
+  var notesBtn = document.getElementById('notesBtn');
+  var notesOverlay = document.getElementById('notesOverlay');
+  var notesListEl = document.getElementById('notesList');
+  var notesBadge = document.getElementById('notesBadge');
+
+  function updateNotesBadge() {
+    var count = Object.keys(notesStore.data).length;
+    if (!notesBadge) return;
+    notesBadge.style.display = count ? 'inline-flex' : 'none';
+    notesBadge.textContent = count > 99 ? '99+' : String(count);
+  }
+
+  function renderNotesPanel() {
+    var keys = Object.keys(notesStore.data);
+    if (!keys.length) {
+      notesListEl.innerHTML = '<div class="notes-empty">还没记录过自己的想法~<br>' +
+        '点击卡片上的 🤍 点赞，或 💬 想法 写下思想碎片</div>';
+      return;
+    }
+    var entries = keys.map(function (k) { return notesStore.data[k]; });
+    /* 按最近活动排序 */
+    entries.sort(function (a, b) {
+      var la = (a.comments && a.comments.length) ? a.comments[a.comments.length - 1].ts : 0;
+      var lb = (b.comments && b.comments.length) ? b.comments[b.comments.length - 1].ts : 0;
+      return lb - la;
+    });
+    notesListEl.innerHTML = entries.map(function (n) {
+      var viewLabel = n.view === 'parenting' ? '👨‍👧 育儿' : '💼 工作·生活';
+      var html = '<div class="notes-entry">' +
+        '<div class="notes-entry-head">' +
+          '<span class="notes-entry-view">' + viewLabel + '</span>' +
+          '<span class="notes-entry-title">' + esc(n.title || '') + '</span>' +
+          (n.liked ? '<span title="已点赞">❤️</span>' : '') +
+        '</div>';
+      if (n.comments && n.comments.length) {
+        html += n.comments.map(function (c) {
+          return '<div class="notes-entry-comment">' +
+            '<span class="c-ts">' + fmtTime(c.ts) + '</span>' + esc(c.text) +
+          '</div>';
+        }).join('');
+      }
+      return html + '</div>';
+    }).join('');
+  }
+
+  notesBtn.addEventListener('click', function () {
+    renderNotesPanel();
+    notesOverlay.classList.add('open');
+  });
+  document.getElementById('notesCloseBtn').addEventListener('click', function () {
+    notesOverlay.classList.remove('open');
+  });
+  notesOverlay.addEventListener('click', function (e) {
+    if (e.target === notesOverlay) notesOverlay.classList.remove('open');
+  });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') notesOverlay.classList.remove('open');
+  });
+
+  /* 导出备份（JSON 文件下载） */
+  document.getElementById('notesExportBtn').addEventListener('click', function () {
+    var blob = new Blob([JSON.stringify(notesStore.data, null, 2)], { type: 'application/json' });
+    var a = document.createElement('a');
+    var d = new Date();
+    var p = function (x) { return String(x).padStart(2, '0'); };
+    a.href = URL.createObjectURL(blob);
+    a.download = 'geng-notes-' + d.getFullYear() + p(d.getMonth() + 1) + p(d.getDate()) + '.json';
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    setTimeout(function () { URL.revokeObjectURL(a.href); }, 1000);
+  });
+
+  /* 导入备份（合并覆盖同名条目） */
+  document.getElementById('notesImportBtn').addEventListener('click', function () {
+    document.getElementById('notesImportInput').click();
+  });
+  document.getElementById('notesImportInput').addEventListener('change', function () {
+    var f = this.files && this.files[0];
+    if (!f) return;
+    var reader = new FileReader();
+    var inputEl = this;
+    reader.onload = function () {
+      try {
+        var imported = JSON.parse(reader.result);
+        var count = 0;
+        Object.keys(imported).forEach(function (k) {
+          var v = imported[k];
+          if (v && typeof v === 'object' && (v.liked || (v.comments && v.comments.length))) {
+            notesStore.data[k] = v;
+            count++;
+          }
+        });
+        notesStore.save();
+        renderNotesPanel();
+        alert(count ? '已导入 ' + count + ' 条笔记' : '文件里没有有效笔记');
+      } catch (err) {
+        alert('导入失败：不是有效的 JSON 备份文件');
+      }
+    };
+    reader.readAsText(f);
+    inputEl.value = '';
+  });
+
+  updateNotesBadge();
 })();
