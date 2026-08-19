@@ -54,7 +54,8 @@
   /* ================================================================
    * 我的笔记：点赞 + 想法碎片。
    * 存 localStorage（key: 视图名|话题标题），刷新/重开浏览器不丢；
-   * 头部「📝 我的笔记」面板可汇总查看，并支持导出/导入 JSON 备份。
+   * 头部「📝 我的笔记」面板可汇总查看，支持导出/导入 JSON 备份，
+   * 并可云同步到 GitHub 仓库（见下方 Sync 模块）。
    * ================================================================ */
   var NOTES_KEY = 'geng-daily-notes-v1';
   var notesStore = {
@@ -65,6 +66,7 @@
     save: function () {
       try { localStorage.setItem(NOTES_KEY, JSON.stringify(this.data)); } catch (e) {}
       updateNotesBadge();
+      scheduleAutoSync();
     },
     toggleLike: function (key, meta) {
       var n = this.data[key] || (this.data[key] = { liked: false, comments: [] });
@@ -83,13 +85,345 @@
     removeComment: function (key, idx) {
       var n = this.data[key];
       if (!n || !n.comments) return;
-      n.comments.splice(idx, 1);
+      var c = n.comments.splice(idx, 1)[0];
+      /* 墓碑：记录被删除评论的时间戳，云同步时让其他设备也删掉这条 */
+      if (c && c.ts != null) (n.deleted = n.deleted || []).push(c.ts);
       if (!n.liked && !n.comments.length) delete this.data[key];
       this.save();
     },
   };
 
-  /* ===== 原文链接：有真实 source 用之，否则降级为搜索 ===== */
+  /* ================================================================
+   * GitHub 云同步：把笔记（点赞+想法碎片）备份到仓库 data/notes.json。
+   * 原理：GitHub Contents API（https://api.github.com/repos/{repo}/contents/{path}）
+   *   - 拉取：GET → { content: base64, sha }（404 = 云端还没有）
+   *   - 推送：PUT { message, content: base64, sha? }
+   * 合并策略（mergeNotes）：
+   *   - 以 key（视图名|话题标题）为条目单位，取并集；
+   *   - liked 任一为 true 即 true（点赞不可逆，永不丢失）；
+   *   - comments 按 ts 去重合并，删除的评论记录墓碑 ts，合并且过滤掉，
+   *     让「删除」也能跨设备生效；
+   *   - 合并结果以本地为准覆盖 localStorage，再决定是否需要推送。
+   * 加密（可选）：口令 + PBKDF2 派生密钥 + AES-256-GCM，云端只存密文。
+   *   云端文件格式：未加密 { v:1, enc:false, notes:{...} }
+   *                加密   { v:1, enc:true, salt, iv, data }（data 为密文 base64）
+   * 自动：保存笔记后防抖 3s 自动同步；打开页面若有配置则静默拉取合并。
+   * ================================================================ */
+  var SYNC_KEY = 'geng-daily-sync-v1';
+  var NOTES_FILE = 'data/notes.json';
+  var GH_API = 'https://api.github.com';
+  var syncCfg = {
+    repo: '', token: '', pass: '',
+    load: function () {
+      try {
+        var c = JSON.parse(localStorage.getItem(SYNC_KEY)) || {};
+        this.repo = c.repo || '';
+        this.token = c.token || '';
+        this.pass = c.pass || '';
+      } catch (e) {}
+    },
+    save: function () {
+      try { localStorage.setItem(SYNC_KEY, JSON.stringify({ repo: this.repo, token: this.token, pass: this.pass })); } catch (e) {}
+    },
+    clear: function () {
+      this.repo = ''; this.token = ''; this.pass = '';
+      try { localStorage.removeItem(SYNC_KEY); } catch (e) {}
+    },
+    ready: function () { return !!(this.repo && this.token); },
+  };
+  syncCfg.load();
+
+  /* ---- base64 工具（内容可能含中文，需 UTF-8 安全） ---- */
+  function b64encode(str) {
+    var bytes = new TextEncoder().encode(str);
+    var bin = '';
+    for (var i = 0; i < bytes.length; i++) bin += String.fromCharCode(bytes[i]);
+    return btoa(bin);
+  }
+  function b64decode(b64) {
+    var bin = atob(b64);
+    var bytes = new Uint8Array(bin.length);
+    for (var i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i);
+    return new TextDecoder().decode(bytes);
+  }
+
+  /* ---- AES-256-GCM 加密（口令 → PBKDF2 派生密钥） ---- */
+  function deriveKey(pass, salt) {
+    return crypto.subtle.importKey('raw', new TextEncoder().encode(pass), 'PBKDF2', false, ['deriveKey'])
+      .then(function (base) {
+        return crypto.subtle.deriveKey(
+          { name: 'PBKDF2', salt: salt, iterations: 120000, hash: 'SHA-256' },
+          base,
+          { name: 'AES-GCM', length: 256 },
+          false,
+          ['encrypt', 'decrypt']
+        );
+      });
+  }
+  function bufToB64(buf) {
+    var bytes = new Uint8Array(buf), bin = '';
+    for (var i = 0; i < bytes.length; i++) bin += String.fromCharCode(bytes[i]);
+    return btoa(bin);
+  }
+  function b64ToBuf(b64) {
+    var bin = atob(b64), bytes = new Uint8Array(bin.length);
+    for (var i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i);
+    return bytes;
+  }
+  function encryptNotes(notes, pass) {
+    var salt = crypto.getRandomValues(new Uint8Array(16));
+    var iv = crypto.getRandomValues(new Uint8Array(12));
+    return deriveKey(pass, salt).then(function (key) {
+      return crypto.subtle.encrypt(
+        { name: 'AES-GCM', iv: iv },
+        key,
+        new TextEncoder().encode(JSON.stringify(notes))
+      );
+    }).then(function (ct) {
+      return JSON.stringify({
+        v: 1, enc: true,
+        salt: bufToB64(salt), iv: bufToB64(iv), data: bufToB64(ct),
+      });
+    });
+  }
+  function decryptNotes(raw, pass) {
+    var w;
+    try { w = JSON.parse(raw); } catch (e) { throw new Error('云端数据格式异常'); }
+    if (!w.enc) return Promise.resolve(w.notes || {});
+    if (!pass) return Promise.reject(new Error('云端已加密，请输入口令后再同步'));
+    return deriveKey(pass, b64ToBuf(w.salt)).then(function (key) {
+      return crypto.subtle.decrypt(
+        { name: 'AES-GCM', iv: b64ToBuf(w.iv) },
+        key,
+        b64ToBuf(w.data)
+      );
+    }).then(function (pt) {
+      return JSON.parse(new TextDecoder().decode(pt));
+    });
+  }
+
+  /* ---- 合并：本地 + 云端 = 并集，删除墓碑过滤 ---- */
+  function mergeNotes(local, remote) {
+    var out = {};
+    var keys = {};
+    Object.keys(local).forEach(function (k) { keys[k] = 1; });
+    Object.keys(remote).forEach(function (k) { keys[k] = 1; });
+    Object.keys(keys).forEach(function (k) {
+      var l = local[k] || { liked: false, comments: [], deleted: [] };
+      var r = remote[k] || { liked: false, comments: [], deleted: [] };
+      var tombstones = {};
+      (l.deleted || []).concat(r.deleted || []).forEach(function (t) { tombstones[t] = 1; });
+      var cmap = {};
+      (l.comments || []).concat(r.comments || []).forEach(function (c) {
+        if (c && c.ts != null && !tombstones[c.ts]) cmap[c.ts] = c;
+      });
+      var comments = Object.keys(cmap).map(function (t) { return cmap[t]; })
+        .sort(function (a, b) { return a.ts - b.ts; });
+      var merged = {
+        title: l.title || r.title || '',
+        view: l.view || r.view || '',
+        liked: !!(l.liked || r.liked),
+        comments: comments,
+      };
+      var del = Object.keys(tombstones).map(Number);
+      if (del.length) merged.deleted = del;
+      /* 条目完全空了（没赞没评论没墓碑）就不保留 */
+      if (merged.liked || merged.comments.length || del.length) out[k] = merged;
+    });
+    return out;
+  }
+
+  /* ---- GitHub Contents API ---- */
+  function ghUrl() {
+    return GH_API + '/repos/' + encodeURIComponent(syncCfg.repo) + '/contents/' + NOTES_FILE;
+  }
+  function ghHeaders() {
+    return {
+      'Authorization': 'Bearer ' + syncCfg.token,
+      'Accept': 'application/vnd.github+json',
+      'X-GitHub-Api-Version': '2022-11-28',
+    };
+  }
+  function fetchRemote() {
+    return fetch(ghUrl(), { headers: ghHeaders() })
+      .then(function (res) {
+        if (res.status === 404) return { sha: null, content: null };
+        if (!res.ok) return res.json().then(function (e) {
+          throw new Error(e.message || ('HTTP ' + res.status));
+        });
+        return res.json().then(function (j) {
+          /* content 是 base64，可能带换行 */
+          return { sha: j.sha, content: j.content.replace(/\s/g, '') };
+        });
+      });
+  }
+  function pushRemote(payload, sha) {
+    var body = {
+      message: '☁️ 同步笔记（来自梗日报网页）',
+      content: b64encode(payload),
+    };
+    if (sha) body.sha = sha;
+    return fetch(ghUrl(), {
+      method: 'PUT',
+      headers: ghHeaders(),
+      body: JSON.stringify(body),
+    }).then(function (res) {
+      if (!res.ok) return res.json().then(function (e) {
+        throw new Error(e.message || ('HTTP ' + res.status));
+      });
+      return res.json();
+    });
+  }
+
+  /* ---- 同步状态 UI ---- */
+  var syncBarEl = document.getElementById('notesSyncBar');
+  var syncIndicatorEl = document.getElementById('notesSyncIndicator');
+  var syncTextEl = document.getElementById('notesSyncText');
+  var syncNowBtnEl = document.getElementById('notesSyncNowBtn');
+  var lastSyncAt = 0;
+
+  function setSyncBar(kind, text) {
+    if (!syncBarEl) return;
+    syncBarEl.style.display = 'flex';
+    syncIndicatorEl.textContent = kind === 'ok' ? '✅' : kind === 'err' ? '⚠️' : '☁️';
+    syncIndicatorEl.className = 'sync-indicator ' + kind;
+    syncTextEl.textContent = text;
+    syncNowBtnEl.style.display = syncCfg.ready() && kind !== 'busy' ? 'inline-block' : 'none';
+  }
+  function syncStatusText() {
+    if (!syncCfg.ready()) return '未配置云同步（点击「☁️ 云同步」设置）';
+    if (lastSyncAt) return '上次同步 ' + fmtTime(lastSyncAt);
+    return '已配置，等待同步…';
+  }
+
+  /* ---- 同步主流程 ---- */
+  var syncing = false;
+  function syncNow() {
+    if (syncing) return Promise.resolve(false);
+    if (!syncCfg.ready()) return Promise.resolve(false);
+    syncing = true;
+    setSyncBar('busy', '同步中…');
+    var remote;
+    return fetchRemote()
+      .then(function (r) {
+        remote = r;
+        if (!r.content) return Promise.resolve({});
+        return decryptNotes(b64decode(r.content), syncCfg.pass);
+      })
+      .then(function (cloudNotes) {
+        var merged = mergeNotes(notesStore.data, cloudNotes);
+        var changed = JSON.stringify(merged) !== JSON.stringify(notesStore.data);
+        notesStore.data = merged;
+        notesStore.save(); /* 本地始终以合并结果为准 */
+        refreshAllCardsUI();
+        var needPush = JSON.stringify(merged) !== JSON.stringify(cloudNotes);
+        if (!needPush) {
+          lastSyncAt = Date.now();
+          setSyncBar('ok', '已同步 ' + fmtTime(lastSyncAt));
+          return false;
+        }
+        var payloadPromise = syncCfg.pass
+          ? encryptNotes(merged, syncCfg.pass)
+          : Promise.resolve(JSON.stringify({ v: 1, enc: false, notes: merged }));
+        return payloadPromise.then(function (payload) {
+          return pushRemote(payload, remote ? remote.sha : null).then(function () {
+            lastSyncAt = Date.now();
+            setSyncBar('ok', '已同步 ' + fmtTime(lastSyncAt));
+            return true;
+          });
+        });
+      })
+      .catch(function (err) {
+        console.error('[sync]', err);
+        setSyncBar('err', err.message || '同步失败');
+        return false;
+      })
+      .then(function (ok) {
+        syncing = false;
+        return ok;
+      });
+  }
+
+  var autoSyncTimer = null;
+  function scheduleAutoSync() {
+    if (!syncCfg.ready() || syncing) return;
+    clearTimeout(autoSyncTimer);
+    autoSyncTimer = setTimeout(function () { syncNow(); }, 3000);
+  }
+
+  /* 同步后刷新所有已渲染卡片的点赞/评论状态 */
+  function refreshAllCardsUI() {
+    document.querySelectorAll('.card').forEach(function (card) {
+      if (card._refreshNotes) card._refreshNotes();
+    });
+    updateNotesBadge();
+    if (notesOverlay.classList.contains('open')) renderNotesPanel();
+  }
+
+  /* ---- 云同步设置模态 ---- */
+  var syncOverlay = document.getElementById('syncOverlay');
+  var syncRepoEl = document.getElementById('syncRepo');
+  var syncTokenEl = document.getElementById('syncToken');
+  var syncPassEl = document.getElementById('syncPass');
+  var syncResultEl = document.getElementById('syncResult');
+
+  function fillSyncForm() {
+    syncRepoEl.value = syncCfg.repo;
+    syncTokenEl.value = syncCfg.token;
+    syncPassEl.value = syncCfg.pass;
+    syncResultEl.textContent = '';
+  }
+  document.getElementById('notesSyncBtn').addEventListener('click', function () {
+    fillSyncForm();
+    syncOverlay.classList.add('open');
+  });
+  document.getElementById('syncCloseBtn').addEventListener('click', function () {
+    syncOverlay.classList.remove('open');
+  });
+  syncOverlay.addEventListener('click', function (e) {
+    if (e.target === syncOverlay) syncOverlay.classList.remove('open');
+  });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') syncOverlay.classList.remove('open');
+  });
+
+  document.getElementById('syncSaveBtn').addEventListener('click', function () {
+    var repo = syncRepoEl.value.trim().replace(/^https?:\/\/github\.com\//, '').replace(/\/$/, '');
+    var token = syncTokenEl.value.trim();
+    var pass = syncPassEl.value;
+    if (!repo || !token) {
+      syncResultEl.textContent = '请填写仓库和 Token';
+      syncResultEl.className = 'sync-result err';
+      return;
+    }
+    syncCfg.repo = repo; syncCfg.token = token; syncCfg.pass = pass;
+    syncCfg.save();
+    syncResultEl.textContent = '保存成功，正在测试连接…';
+    syncResultEl.className = 'sync-result';
+    syncNow().then(function (ok) {
+      syncOverlay.classList.remove('open');
+      if (!ok) return;
+      setSyncBar('ok', lastSyncAt ? '已同步 ' + fmtTime(lastSyncAt) : '已连接');
+    });
+  });
+
+  document.getElementById('syncClearBtn').addEventListener('click', function () {
+    syncCfg.clear();
+    fillSyncForm();
+    syncResultEl.textContent = '已清除配置';
+    syncResultEl.className = 'sync-result';
+    setSyncBar('', '未配置云同步（点击「☁️ 云同步」设置）');
+  });
+
+  if (syncNowBtnEl) {
+    syncNowBtnEl.addEventListener('click', function () { syncNow(); });
+  }
+
+  /* 页面加载：已配置则静默拉取合并一次（不打扰阅读） */
+  if (syncCfg.ready()) {
+    setSyncBar('', '已配置，等待首次同步…');
+    setTimeout(function () { syncNow(); }, 1200);
+  }
   function buildSourceLink(item) {
     var src = item.source || '';
     var isUrl = /^https?:\/\/\S+$/i.test(src.trim());
@@ -246,6 +580,17 @@
     });
 
     renderNoteList();
+
+    /* 云同步合并后刷新本卡片状态（点赞按钮 + 评论列表） */
+    card._refreshNotes = function () {
+      var cur = notesStore.data[noteKey];
+      var liked = !!(cur && cur.liked);
+      likeBtn.classList.toggle('liked', liked);
+      likeBtn.querySelector('.like-icon').textContent = liked ? '❤️' : '🤍';
+      likeBtn.querySelector('.like-label').textContent = liked ? '已赞' : '点赞';
+      renderNoteList();
+    };
+
     return card;
   }
 

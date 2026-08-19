@@ -25,9 +25,12 @@ on:
           - weekend-morning
           - weekend-evening
         default: auto
-  # 前端代码 push 时只部署、不生成（generate job 会跳过）
+  # 前端代码 push 时只部署、不生成（generate job 会跳过）；
+  # 笔记云同步只改 data/notes.json，无需重新部署（网页不读取它）
   push:
     branches: [main]
+    paths-ignore:
+      - 'data/notes.json'
 
 jobs:
   generate:
