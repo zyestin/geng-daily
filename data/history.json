@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "key": "2026-08-22-weekend-evening",
+      "date": "2026-08-22",
+      "slot": "weekend-evening",
+      "slot_label": "周末傍晚 · 家庭闲聊",
+      "generated_at": "2026-08-22T10:16:59.009Z",
+      "weekday": "星期六",
+      "file": "archive/2026-08-22-weekend-evening.json",
+      "topic_count": 12,
+      "category_names": [
+        "时事热点",
+        "儿童教育",
+        "生活妙招",
+        "乒乓球",
+        "热门影视",
+        "健康养生"
+      ]
+    },
+    {
       "key": "2026-08-21-weekday-evening",
       "date": "2026-08-21",
       "slot": "weekday-evening",
@@ -145,5 +163,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-21T10:09:29.793Z"
+  "updated_at": "2026-08-22T10:16:59.011Z"
 }
