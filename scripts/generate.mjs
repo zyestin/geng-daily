@@ -60,6 +60,18 @@ const CATEGORIES = {
   health:        { name: '健康养生',   icon: '\u{1F957}', desc: '家庭健康知识、运动健身、饮食营养、养生小贴士' },
 };
 
+/* ---- 育儿方向（独立文件 data/parenting.json） ---- */
+const PARENTING_CATEGORIES = {
+  sciFigures:  { name: '科学奇人',   icon: '\u{1F52C}', desc: '科学家真实故事（牛顿/爱因斯坦/居里夫人等），突出人物性格细节和有趣轶事，让孩子觉得科学家是活生生的人' },
+  litFigures:  { name: '文人风骨',   icon: '\u{1F4DC}', desc: '历史文学家故事（苏轼/李白/鲁迅等），讲他们面对挫折时的态度、人生选择，传递价值观而非背诵知识点' },
+  interests:   { name: '兴趣深耕',   icon: '\u{1F3A8}', desc: '艺术/音乐/昆虫/自然等兴趣方向的真实人物故事，展示坚持和热爱的力量，给家长培养孩子兴趣的参考' },
+  thinking:    { name: '思维启蒙',   icon: '\u{1F9E0}', desc: '数学/逻辑/科学思维启蒙故事（高斯/费曼/图灵等），用具体事例讲思维方式而非知识灌输' },
+  actions:     { name: '亲子行动',   icon: '\u{1F91D}', desc: '适合7岁女孩的亲子活动方案：自然探索/手工实验/阅读计划等，给出具体操作步骤和对话引导技巧' },
+  mindset:     { name: '育儿心法',   icon: '\u{1F4A1}', desc: '育儿方法论：表扬技巧/情绪引导/习惯培养等，基于真实研究或教育案例，给家长可操作的沟通话术' },
+  foodEdu:     { name: '健康食育',   icon: '\u{1F957}', desc: '食物与营养的真实科学故事：维生素发现史/营养缺乏症案例/饮食与健康关系，用历史实验讲科学道理' },
+  sports:      { name: '运动启蒙',   icon: '\u{1F3C3}', desc: '羽毛球/乒乓球/跳绳/足球等适合女孩的运动项目：真实运动员故事+家长如何鼓励和沟通的技巧' },
+};
+
 /* ================================================================
  *  时间段配置
  *  cron 已按 GMT+8 换算为 UTC
@@ -202,6 +214,82 @@ ${hotSection}
           "detail": "详细解释",
           "usage": "怎么聊",
           "source": "https://确定的官方链接或空字符串",
+          "tags": ["标签1", "标签2"]
+        }
+      ]
+    }
+  ]
+}`;
+
+  return { systemPrompt, userPrompt };
+}
+
+/* ================================================================
+ *  育儿 Prompt 构建
+ *  独立于工作·生活内容，生成 data/parenting.json
+ *  核心：真实人物故事 + 科学原理 + 家长沟通话术
+ * ================================================================ */
+
+function buildParentingPrompt() {
+  const now = getBeijingNow();
+  const { date, weekday, time } = formatDate(now);
+  const cats = Object.values(PARENTING_CATEGORIES);
+
+  const systemPrompt = `你是一个专业的育儿内容策展人，擅长把真实历史人物故事、科学实验和教育研究转化为家长可以和孩子聊的话题。
+
+核心原则：
+1. **真实可溯源**——所有人物故事必须基于真实历史事件，不要编造。科学原理必须有据可查（可追溯到具体实验/研究/人物）
+2. **故事性优先**——用具体的人物经历、细节、轶事来讲道理，不要空泛说教。孩子记住的是故事，不是道理
+3. **家长视角**——每条给出"怎么和孩子聊"的具体话术，像朋友间分享故事一样自然口语化
+4. **适合7岁女孩**——内容难度、兴趣方向适配小学低年级女孩
+5. **每个分类 2-3 条**——精选有料的内容，不要凑数
+6. 用中文输出，口语化表达
+7. 直接输出实际内容的 JSON 对象：字段名用英文双引号包裹，值全部替换为真实内容。严禁输出示例模板、严禁保留 "..." 或 [...] 占位符、严禁附带任何解释说明文字
+8. 不要输出任何 markdown 代码块标记（不要写 \`\`\`json），直接输出纯 JSON`;
+
+  const categoryList = cats.map((c, i) =>
+    `${i + 1}. ${c.icon} ${c.name}\n   ${c.desc}`
+  ).join('\n\n');
+
+  const userPrompt = `今天日期：${date}，${weekday}，时间约 ${time}
+
+用户画像：
+- 丈夫，7岁女孩的父亲
+- 孩子兴趣：画画、昆虫、英语配音、音乐剧
+- 家庭运动：羽毛球、乒乓球、跳绳
+- 丈母娘也帮忙带孩子，喜欢聊时事和教育
+
+请围绕以下 ${cats.length} 个方向，每个方向生成 2-3 个最新、最有料的育儿话题：
+
+${categoryList}
+
+每个话题包含以下字段：
+- title: 话题名（简洁有力，10字以内，要有故事感）
+- summary: 一句话概括（20字以内）
+- detail: 详细内容——真实人物/事件/科学原理的背景和故事（80-200字）。必须基于真实历史，不要编造
+- usage: 怎么和孩子聊——家长可以直接说出口的话术、引导方式（50-150字）
+- source: 原文链接（可选）。仅当你非常确定对应的真实资料来源时才填完整 https:// 链接；不确定就填空字符串 ""。严禁编造链接！
+- tags: 2-3个相关标签
+
+⚠️ 特别要求：
+- 科学奇人/文人风骨/兴趣深耕/思维启蒙/运动启蒙：每条必须是一个**真实人物**的具体故事，不要泛泛而谈
+- 健康食育：每条必须包含**真实科学实验或发现史**（如林德柠檬实验、艾克曼发现维B1等），讲清营养原理
+- 亲子行动：给出**可执行的具体方案**（步骤、材料、对话引导词）
+- 育儿心法：基于**真实教育研究或案例**（如德韦克成长型思维实验），给可操作的沟通话术
+
+请严格按以下 JSON 结构输出（这是结构示例，不是内容示例——必须把每个字段替换成实际生成的内容，严禁输出 "..." 占位符，直接输出可被 JSON.parse 的纯 JSON，前后不要有任何其他文字）：
+{
+  "categories": [
+    {
+      "name": "方向名",
+      "icon": "emoji",
+      "items": [
+        {
+          "title": "标题",
+          "summary": "一句话概括",
+          "detail": "详细内容",
+          "usage": "怎么和孩子聊",
+          "source": "https://确定的链接或空字符串",
           "tags": ["标签1", "标签2"]
         }
       ]
@@ -602,6 +690,14 @@ const DEFAULT_MODELS = [
   'openai/gpt-oss-20b:free',
 ];
 
+// 付费模型兜底：免费模型全部 429/失败后，自动切到这些模型。
+// 选型标准：中文好 + JSON 输出可靠 + 价格极低（每次生成 ~8000 token，费用 < $0.01）
+// 顺序：先试最便宜最好的
+const PAID_FALLBACK_MODELS = [
+  'deepseek/deepseek-chat',     // DeepSeek V3 — 中文顶级，~$0.14/M input, $0.28/M output（每次约 $0.002）
+  'openai/gpt-4o-mini',         // GPT-4o mini — JSON 最可靠，~$0.15/M input, $0.60/M output（每次约 $0.004）
+];
+
 /**
  * 拉取免费模型列表，返回 {
  *   ids: 按质量排序的免费模型 id[],
@@ -655,8 +751,9 @@ async function fetchFreeModels(apiKey) {
 }
 
 /**
- * 组装本次模型队列：显式配置优先，其次自动免费模型，最后内置兜底。
- * 返回 { models: 去重后的 [主, 备1, 备2], maxTokensMap }。
+ * 组装本次模型队列：显式配置优先 → 自动免费模型 → 内置兜底免费模型 → 付费兜底。
+ * 队列结构：前 N 个为免费（先省额度），后 M 个为付费（免费全挂时兜底）。
+ * 返回 { models: 去重后的模型 id[], maxTokensMap }。
  */
 function pickModels(freeInfo) {
   const explicitMain = (process.env.OPENROUTER_MODEL || '').trim();
@@ -664,22 +761,32 @@ function pickModels(freeInfo) {
     .split(',').map(s => s.trim()).filter(Boolean);
   const auto = freeInfo ? freeInfo.ids : [];
 
-  const models = [];
-  if (explicitMain) models.push(explicitMain);
-  for (const id of explicitFallbacks) if (!models.includes(id)) models.push(id);
+  // ---- 免费层：最多 FREE_MODEL_TOP_N 个 ----
+  const freeQueue = [];
+  if (explicitMain) freeQueue.push(explicitMain);
+  for (const id of explicitFallbacks) if (!freeQueue.includes(id)) freeQueue.push(id);
   for (const id of auto) {
-    if (models.length >= FREE_MODEL_TOP_N) break;
-    if (!models.includes(id)) models.push(id);
+    if (freeQueue.length >= FREE_MODEL_TOP_N) break;
+    if (!freeQueue.includes(id)) freeQueue.push(id);
   }
   for (const id of DEFAULT_MODELS) {
-    if (models.length >= FREE_MODEL_TOP_N) break;
-    if (!models.includes(id)) models.push(id);
+    if (freeQueue.length >= FREE_MODEL_TOP_N) break;
+    if (!freeQueue.includes(id)) freeQueue.push(id);
   }
-  if (models.length === 0) models.push(...DEFAULT_MODELS);
+  if (freeQueue.length === 0) freeQueue.push(...DEFAULT_MODELS);
 
-  console.log('[INFO] 本次模型队列: ' + models.join(' → '));
+  // ---- 付费层：追加在免费之后 ----
+  const paidQueue = PAID_FALLBACK_MODELS.filter(id => !freeQueue.includes(id));
+
+  const models = [...freeQueue.slice(0, FREE_MODEL_TOP_N), ...paidQueue];
+
+  console.log(`[INFO] 模型队列 (${freeQueue.length} 免费 + ${paidQueue.length} 付费兜底):`);
+  console.log('  ' + models.map((m, i) =>
+    `${i + 1}. ${m}${i < freeQueue.slice(0, FREE_MODEL_TOP_N).length ? ' [免费]' : ' [付费兜底]'}`
+  ).join('\n  '));
+
   return {
-    models: models.slice(0, FREE_MODEL_TOP_N),
+    models,
     maxTokensMap: freeInfo ? freeInfo.maxTokensMap : {},
   };
 }
@@ -739,8 +846,15 @@ async function generateContent(systemPrompt, userPrompt, expectedCategories) {
   const { models, maxTokensMap } = pickModels(freeInfo);
   const pricingMap = freeInfo ? freeInfo.pricingMap : {};
 
+  // 区分免费层和付费层，切到付费时打 WARN 提醒
+  const freeCount = models.filter(m => !PAID_FALLBACK_MODELS.includes(m)).length;
+
   let lastErr = '';
-  for (const model of models) {
+  for (let i = 0; i < models.length; i++) {
+    const model = models[i];
+    if (i >= freeCount) {
+      console.warn(`[WARN] 免费模型全部失败，切换到付费兜底模型: ${model}`);
+    }
     try {
       const result = await callModel(model, systemPrompt, userPrompt, maxTokensMap[model]);
       const parsed = parseContent(result.content);
@@ -749,12 +863,14 @@ async function generateContent(systemPrompt, userPrompt, expectedCategories) {
       const shownModel = result.actualModel && result.actualModel !== model
         ? `${model} → ${result.actualModel}` : model;
       const costStr = meta.cost_usd === null ? 'N/A' : `$${meta.cost_usd.toFixed(6)}`;
-      console.log(`[OK] 生成成功（模型 ${shownModel}，tokens=${meta.total_tokens}，花费 ${costStr}${meta.free ? ' 🎉' : ''}）`);
+      const tag = meta.free ? '🎉 免费' : `💰 付费(${costStr})`;
+      console.log(`[OK] 生成成功（模型 ${shownModel}，tokens=${meta.total_tokens}，${tag}）`);
       return { content: parsed, meta };
     } catch (e) {
       lastErr = e.message;
       console.warn(`[WARN] 模型 ${model} 生成失败: ${e.message}`);
-      await sleep(15000); // 限流恢复期，等久一点再切下一个模型
+      // 免费模型限流等久一点；付费模型不用等那么久（通常不是限流问题）
+      await sleep(i < freeCount ? 15000 : 5000);
     }
   }
 
@@ -1044,6 +1160,49 @@ async function main() {
   const historyPath = join(dataDir, 'history.json');
   writeFileSync(historyPath, JSON.stringify(history, null, 2));
   console.log(`[OK] 已更新历史索引: ${historyPath}（${history.items.length} 条记录）`);
+
+  /* ---- 育儿内容生成（evening / weekend 时段） ---- */
+  // weekday-morning 是纯工作时段，不生成育儿内容
+  if (slotKey !== 'weekday-morning') {
+    console.log('\n====================================');
+    console.log('  育儿内容生成');
+    console.log('====================================');
+
+    const { systemPrompt: pSystem, userPrompt: pUser } = buildParentingPrompt();
+    const pCats = Object.keys(PARENTING_CATEGORIES).length;
+    const { content: pContent, meta: pMeta } = await generateContent(pSystem, pUser, pCats);
+    const pTotal = validateContent(pContent, pCats);
+
+    pContent.generated_at = new Date().toISOString();
+    pContent.slot = slotKey;
+    pContent.slot_label = slot.label;
+    pContent.meta = pMeta;
+
+    // 确保 icon 字段存在
+    const pCatMap = {};
+    for (const [k, v] of Object.entries(PARENTING_CATEGORIES)) pCatMap[v.name] = v.icon;
+    for (const cat of pContent.categories) {
+      if (!cat.icon) cat.icon = pCatMap[cat.name] || '';
+    }
+
+    const parentingPath = join(dataDir, 'parenting.json');
+    writeFileSync(parentingPath, JSON.stringify(pContent, null, 2));
+    console.log(`[OK] 已写入: ${parentingPath}`);
+
+    // 育儿归档
+    const pArchivePath = join(archiveDir, `${dateStr}-parenting-${slotKey}.json`);
+    writeFileSync(pArchivePath, JSON.stringify(pContent, null, 2));
+    console.log(`[OK] 已归档: ${pArchivePath}`);
+
+    // 重建历史索引（含育儿归档）
+    const history2 = rebuildHistory(dataDir);
+    writeFileSync(historyPath, JSON.stringify(history2, null, 2));
+    console.log(`[OK] 已更新历史索引（含育儿）: ${historyPath}（${history2.items.length} 条记录）`);
+
+    console.log(`\n====================================`);
+    console.log(`  育儿完成! 共 ${pTotal} 个话题`);
+    console.log(`====================================`);
+  }
 
   console.log(`\n====================================`);
   console.log(`  完成! 共 ${total} 个话题`);
