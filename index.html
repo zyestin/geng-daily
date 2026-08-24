@@ -31,6 +31,7 @@
     <nav class="view-tabs" id="viewTabs" aria-label="内容视图切换">
       <button class="view-tab" data-view="main">💼 工作·生活</button>
       <button class="view-tab" data-view="parenting">👨‍👧 育儿</button>
+      <button class="view-tab" data-view="wife">💞 媳妇</button>
     </nav>
 
     <!-- ========== 工作·生活 ========== -->
@@ -103,6 +104,43 @@
         <p id="parenting-footerInfo"></p>
         <p class="cost-info" id="parenting-costInfo"></p>
         <p class="sources-info" id="parenting-sourcesInfo"></p>
+        <p class="footer-sub">内容由 AI 生成 · 仅供聊天参考 · 请以实际信息为准</p>
+      </footer>
+    </section>
+
+    <!-- ========== 媳妇 ========== -->
+    <section class="view" id="view-wife">
+      <div class="meta-bar">
+        <span class="slot-badge" id="wife-slotBadge">媳妇</span>
+        <span class="meta-date" id="wife-metaDate"></span>
+        <span class="meta-sep">·</span>
+        <span class="meta-count" id="wife-metaCount"></span>
+      </div>
+      <div class="history-nav" id="wife-historyNav" style="display:none">
+        <span class="history-label">📅 历史</span>
+        <div class="history-scroll" id="wife-historyScroll"></div>
+      </div>
+      <div class="filter-bar" id="wife-filterBar"></div>
+      <main class="content">
+        <div class="loading" id="wife-loading">
+          <div class="loading-spinner"></div>
+          <p>正在加载媳妇频道...</p>
+        </div>
+        <div class="error-box" id="wife-error" style="display:none">
+          <p>😅 内容加载失败，请稍后刷新重试</p>
+        </div>
+        <div class="content-grid" id="wife-contentGrid" style="display:none"></div>
+        <div class="view-empty" id="wife-empty" style="display:none">
+          <div class="view-empty-icon" id="wife-emptyIcon">💞</div>
+          <h3 id="wife-emptyTitle"></h3>
+          <p id="wife-emptyText"></p>
+          <p class="view-empty-sub" id="wife-emptySub"></p>
+        </div>
+      </main>
+      <footer class="app-footer">
+        <p id="wife-footerInfo"></p>
+        <p class="cost-info" id="wife-costInfo"></p>
+        <p class="sources-info" id="wife-sourcesInfo"></p>
         <p class="footer-sub">内容由 AI 生成 · 仅供聊天参考 · 请以实际信息为准</p>
       </footer>
     </section>

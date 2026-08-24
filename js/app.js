@@ -14,7 +14,9 @@
 
   /* ================================================================
    * 默认视图规则：
-   *   - 周一 ~ 周五白天（周五 18 点前）→ 工作·生活
+   *   - 周一 ~ 周四白天 → 工作·生活
+   *   - 周一 ~ 周四晚间（17 点后）→ 媳妇
+   *   - 周五白天 → 工作·生活
    *   - 周五 18 点后 + 周六/周日 → 育儿
    * FRIDAY_DEFAULT_HOUR 可调（24 小时制），改这里即可调整切换时刻。
    * ================================================================ */
@@ -24,6 +26,7 @@
     var day = now.getDay(); // 0=周日 6=周六
     if (day === 0 || day === 6) return 'parenting';
     if (day === 5 && now.getHours() >= FRIDAY_DEFAULT_HOUR) return 'parenting';
+    if (now.getHours() >= 17) return 'wife'; // 工作日晚间 → 媳妇
     return 'main';
   }
 
@@ -613,9 +616,17 @@
       latest: 'data/parenting.json',
       history: 'data/parenting-history.json',
       emptyIcon: '👨‍👧',
-      emptyTitle: '育儿页 · 爸爸的每日“谈话弹药”',
+      emptyTitle: '育儿页 · 爸爸的每日"谈话弹药"',
       emptyText: '科学奇人 · 文人风骨 · 兴趣深耕 · 思维启蒙 · 亲子行动 · 育儿心法',
       emptySub: '内容方向已规划，即将每天定时生成推送，敬请期待 👶',
+    },
+    wife: {
+      latest: 'data/wife.json',
+      history: 'data/wife-history.json',
+      emptyIcon: '💞',
+      emptyTitle: '媳妇频道 · 老公情商训练营',
+      emptyText: '追剧指南 · 吃喝情报 · 话术急救 · 土味情话 · 她的世界 · 暖心行动 · 约会提案 · 情绪价值',
+      emptySub: '每天定时生成，帮你做个懂她、会聊、有情趣的老公 😎',
     },
   };
 
@@ -725,7 +736,7 @@
 
       /* 素材来源小字（工作时段生成时才有） */
       if (data.meta && data.meta.sources && data.meta.sources.total > 0) {
-        var names = { hackernews: 'Hacker News', askhn: 'HN Ask', reddit: 'Reddit', lobsters: 'Lobste.rs', devto: 'dev.to', v2ex: 'V2EX', juejin: '掘金', github: 'GitHub Trending', qbitai: '量子位', infoq: 'InfoQ' };
+        var names = { hackernews: 'Hacker News', askhn: 'HN Ask', reddit: 'Reddit', lobsters: 'Lobste.rs', devto: 'dev.to', v2ex: 'V2EX', juejin: '掘金', github: 'GitHub Trending', qbitai: '量子位', infoq: 'InfoQ', baidu: '百度热搜' };
         var per = data.meta.sources.per_source || {};
         var srcNames = Object.keys(per).filter(function (k) { return (per[k] || 0) > 0; })
           .map(function (k) { return names[k] || k; });
@@ -885,7 +896,7 @@
       return lb - la;
     });
     notesListEl.innerHTML = entries.map(function (n) {
-      var viewLabel = n.view === 'parenting' ? '👨‍👧 育儿' : '💼 工作·生活';
+      var viewLabel = n.view === 'parenting' ? '👨‍👧 育儿' : n.view === 'wife' ? '💞 媳妇' : '💼 工作·生活';
       var html = '<div class="notes-entry">' +
         '<div class="notes-entry-head">' +
           '<span class="notes-entry-view">' + viewLabel + '</span>' +

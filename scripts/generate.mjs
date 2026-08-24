@@ -72,6 +72,18 @@ const PARENTING_CATEGORIES = {
   sports:      { name: '运动启蒙',   icon: '\u{1F3C3}', desc: '羽毛球/乒乓球/跳绳/足球等适合女孩的运动项目：真实运动员故事+家长如何鼓励和沟通的技巧' },
 };
 
+/* ---- 媳妇方向（独立文件 data/wife.json） ---- */
+const WIFE_CATEGORIES = {
+  drama:     { name: '追剧指南',   icon: '\u{1F3AC}', desc: '最近火的剧/电影/短剧，她可能在追的或会感兴趣的。给出讨论切入点（剧情/演员/槽点），以及如何自然地和她聊起这部戏' },
+  food:      { name: '吃喝情报',   icon: '\u{1F35C}', desc: '发现好吃的东西（新店/网红美食/家常菜谱），给出足够细节（具体菜品、口味特点、为什么值得试），让她听了想去' },
+  scripts:   { name: '话术急救',   icon: '\u{1F4AC}', desc: '媳妇常见的"挖坑"场景（如"我要减肥了""你觉得那个女生好看吗"等），给出错误回答和正确回答及原因分析' },
+  sweet:     { name: '土味情话',   icon: '\u{1F618}', desc: '结合当下热门话题（明星/影视/社会热点）的创意情话，不要太老套，要让她忍不住笑' },
+  herWorld:  { name: '她的世界',   icon: '\u{1F31F}', desc: '媳妇关注的领域（美妆/护肤/时尚/明星动态），帮她聊起来时你如何展现同理心和兴趣，给出具体话术' },
+  warm:      { name: '暖心行动',   icon: '\u{2764}\uFE0F', desc: '肯定她的劳动成果（打扫/做饭/带娃/妙计），给出具体的感谢方式和行动建议' },
+  date:      { name: '约会提案',   icon: '\u{1F381}', desc: '用浪漫幽默的语言提出约会/看电影/活动的建议，给出可以直接发给她的话术' },
+  eq:        { name: '情绪价值',   icon: '\u{1F9E0}', desc: '如何倾听、共情、给情绪支持（而非讲道理/论对错），基于真实心理学/沟通技巧，给出具体场景和话术' },
+};
+
 /* ================================================================
  *  时间段配置
  *  cron 已按 GMT+8 换算为 UTC
@@ -289,6 +301,92 @@ ${categoryList}
           "summary": "一句话概括",
           "detail": "详细内容",
           "usage": "怎么和孩子聊",
+          "source": "https://确定的链接或空字符串",
+          "tags": ["标签1", "标签2"]
+        }
+      ]
+    }
+  ]
+}`;
+
+  return { systemPrompt, userPrompt };
+}
+
+/* ================================================================
+ *  媳妇 Prompt 构建
+ *  独立文件 data/wife.json — "老公情商教练"
+ *  核心：真实热点 + 话术急救 + 土味情话 + 情绪价值
+ * ================================================================ */
+
+function buildWifePrompt(trendItems) {
+  const now = getBeijingNow();
+  const { date, weekday, time } = formatDate(now);
+  const cats = Object.values(WIFE_CATEGORIES);
+  const trendSection = buildWifeTrendsSection(trendItems || []);
+
+  const systemPrompt = `你是一个"老公情商教练"，擅长帮助程序员老公提升与媳妇的沟通技巧和情感连接。你的内容要让媳妇觉得"这个老公懂我"。
+
+核心原则：
+1. 内容必须真实、新鲜——基于最近的真实热点、趋势和事件，不要编造不存在的剧/电影/明星动态
+2. "话术急救"要给出可以直接说出口的话术，标注错误示范和正确示范，解释为什么
+3. "土味情话"要有创意，结合当下真实热门话题（明星动态/影视剧/社会热点），不要老套
+4. "吃喝情报"要给出足够细节（具体菜品、口味、氛围），让老公能和媳妇聊起来，不要一句话带过
+5. "她的世界"要帮助老公理解媳妇的日常（化妆、护肤、追剧等），给出能展现同理心的具体话术
+6. "暖心行动"要具体、可执行——肯定她的劳动成果（打扫家务/做饭/出妙计），不要空泛说教
+7. 幽默优先，但要真诚——不是油嘴滑舌，是让媳妇觉得你用心了
+8. 绝对不要：讲道理、论对错、忽视她的感受、敷衍回复
+9. 必须要：给情绪价值、展现同理心、幽默化解、主动分享
+10. 用中文输出，口语化、生活化表达
+11. 直接输出实际内容的 JSON 对象：字段名用英文双引号包裹，值全部替换为真实内容。严禁输出示例模板、严禁保留 "..." 或 [...] 占位符、严禁附带任何解释说明文字
+12. 不要输出任何 markdown 代码块标记（不要写 \`\`\`json），直接输出纯 JSON`;
+
+  const categoryList = cats.map((c, i) =>
+    `${i + 1}. ${c.icon} ${c.name}\n   ${c.desc}`
+  ).join('\n\n');
+
+  const userPrompt = `今天日期：${date}，${weekday}，时间约 ${time}
+
+用户画像：
+- 职业：React Native / App / 前端开发工程师（理工男，容易讲逻辑）
+- 家庭：丈夫，7岁女孩的父亲
+- 媳妇日常：化妆、敷面膜、追剧、偶尔做饭、打扫家务、关心明星动态
+- 你的目标：做个懂她、会聊、有情趣的老公
+
+请围绕以下 ${cats.length} 个方向，每个方向生成 2-3 条内容：
+
+${categoryList}
+${trendSection}
+
+每个话题包含以下字段：
+- title: 标题（简洁有力，10字以内，要有吸引力）
+- summary: 一句话概括（20字以内）
+- detail: 详细内容——背景/关键信息/具体细节（80-200字）
+- usage: 可以直接说出口的话术或行动方案（50-150字）。要像微信聊天一样自然口语化
+- source: 相关链接（可选）。仅当你非常确定时才填完整 https:// 链接；不确定就填空字符串 ""
+- tags: 2-3个相关标签
+
+特别要求：
+- 话术急救：每条必须包含错误示范和正确示范，以及原因分析。场景要真实（如"我要减肥了""你觉得那个女生好看吗""你是不是不在乎我了"等）
+- 土味情话：每条必须结合一个当下真实热点（明星/影视剧/社会事件），纯创意的放 tags 标"原创"
+- 吃喝情报：每条必须给出具体细节（菜品名/口味/氛围），不是"这家好吃"就完事
+- 追剧指南：必须基于真实存在的剧/电影/短剧，给出剧名和讨论切入点
+- 她的世界：必须基于真实的美妆/护肤/时尚/明星趋势
+- 约会提案：用浪漫幽默的语言，给出可以直接发微信给她的话术
+- 情绪价值：基于真实心理学/沟通技巧（如非暴力沟通、积极倾听等），给出具体场景
+- 暖心行动：给出具体的感谢话术和行动建议（如"注意到她打扫了厨房后说什么做什么"）
+
+请严格按以下 JSON 结构输出（这是结构示例，不是内容示例——必须把每个字段替换成实际生成的内容，严禁输出 "..." 占位符，直接输出可被 JSON.parse 的纯 JSON，前后不要有任何其他文字）：
+{
+  "categories": [
+    {
+      "name": "方向名",
+      "icon": "emoji",
+      "items": [
+        {
+          "title": "标题",
+          "summary": "一句话概括",
+          "detail": "详细内容",
+          "usage": "话术或行动",
           "source": "https://确定的链接或空字符串",
           "tags": ["标签1", "标签2"]
         }
@@ -546,6 +644,32 @@ async function fetchInfoq() {
   return parseRss(await res.text(), 'InfoQ', 8);
 }
 
+/** 抓取百度热搜榜（JSON API，免费无 key）。
+ *  返回实时热搜词条，适合作为"她的世界"/"追剧指南"素材注入媳妇 prompt。
+ *  微博热搜 API 需要登录 cookie（403），百度热搜无需认证更可靠。
+ *  失败静默跳过——媳妇内容不依赖外部素材也能生成（AI 基于训练知识兜底）。 */
+async function fetchBaiduHot() {
+  const res = await fetch('https://top.baidu.com/api/board?platform=wise&tab=realtime', {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36',
+      'Accept': 'application/json',
+    },
+    signal: AbortSignal.timeout(15000),
+  });
+  if (!res.ok) throw new Error('HTTP ' + res.status);
+  const d = await res.json();
+  const raw = d.data?.cards?.[0]?.content?.[0]?.content || [];
+  const items = raw.filter(s => s.word).slice(0, 20).map(s => ({
+    source: '百度热搜',
+    title: s.word,
+    url: s.url || `https://www.baidu.com/s?wd=${encodeURIComponent(s.word)}`,
+    score: s.index || 0,
+    comments: 0,
+    rankScore: 200,
+  }));
+  return items;
+}
+
 /** 抓取 GitHub Trending 今日热门仓库（无官方 API，解析 HTML） */
 async function fetchGithubTrending() {
   const res = await fetch('https://github.com/trending?since=daily', {
@@ -652,6 +776,53 @@ function buildHotSection(items) {
     `${i + 1}. [${it.source}] ${it.title}（${it.score ? '↑' + it.score + ' 分' : ''}${it.comments ? ' · ' + it.comments + ' 评论' : ''}）→ ${it.url}`
   ).join('\n');
   return `\n\n## 📡 今日实时素材（抓取自 Hacker News / HN Ask / Lobste.rs / dev.to / V2EX / 掘金 / GitHub Trending / 量子位 / InfoQ）\n\n以下是今天各技术社区的真实热门帖。规则：\n1. 优先从这些素材中挑选生成话题——能选到就尽量用素材，不要凭空编造\n2. 素材标题多为英文，请用中文总结成同事间能聊的话题，并把原帖的"梗点"（评论区高赞观点、槽点、亮点）带出来\n3. 凡基于素材生成的话题，source 字段必须填该素材的 url（用户会点开看原文和评论区）\n4. 若素材中没有合适的，再自由发挥；自由发挥的话题 source 留空 ""\n5. 素材中若有低质、引战、无关内容，直接跳过不用\n\n${lines}`;
+}
+
+/* ================================================================
+ *  媳妇频道素材采集（微博热搜等女性关注趋势源）
+ *  独立于工作时段的技术素材池——媳妇频道需要的是娱乐/明星/生活趋势
+ * ================================================================ */
+
+async function fetchWifeTrends() {
+  const fetchers = {
+    baidu: fetchBaiduHot,
+  };
+  const results = await Promise.allSettled(
+    Object.entries(fetchers).map(async ([name, fn]) => {
+      const items = await fn();
+      console.log(`[INFO] 媳妇素材源 ${name}: ${items.length} 条`);
+      return { name, items };
+    })
+  );
+  const stats = {};
+  const all = [];
+  for (const r of results) {
+    if (r.status === 'fulfilled') {
+      stats[r.value.name] = r.value.items.length;
+      all.push(...r.value.items);
+    } else {
+      console.warn(`[WARN] 媳妇素材源抓取失败（跳过，不影响生成）: ${r.reason?.message || r.reason}`);
+    }
+  }
+  const seen = new Set();
+  const deduped = all
+    .filter(i => i.title && !isBadTitle(i.title))
+    .filter(i => {
+      if (seen.has(i.url)) return false;
+      seen.add(i.url);
+      return true;
+    })
+    .sort((a, b) => (b.rankScore ?? b.score) - (a.rankScore ?? a.score));
+  return { items: deduped.slice(0, 15), stats };
+}
+
+/** 把媳妇素材列表拼成注入 prompt 的文本段 */
+function buildWifeTrendsSection(items) {
+  if (!items.length) return '';
+  const lines = items.map((it, i) =>
+    `${i + 1}. [${it.source}] ${it.title}（${it.score ? '热度' + it.score : ''}）→ ${it.url}`
+  ).join('\n');
+  return `\n\n## 📡 今日热搜趋势（抓取自 百度热搜 等）\n\n以下是今天女性关注领域的热搜趋势。规则：\n1. 优先从这些素材中挑选生成话题——追剧指南/她的世界/土味情话等方向尽量结合这些热点\n2. 凡基于素材生成的话题，source 字段必须填该素材的 url\n3. 素材中若有无关内容，直接跳过不用\n\n${lines}`;
 }
 
 /* ================================================================
@@ -1093,6 +1264,15 @@ async function main() {
     return;
   }
 
+  // --wife-sources 调试模式：只抓媳妇频道素材（微博热搜等）
+  if (process.argv.includes('--wife-sources')) {
+    const trends = await fetchWifeTrends();
+    console.log(`\n[INFO] 媳妇素材池共 ${trends.items.length} 条:`);
+    trends.items.forEach((it, i) => console.log(`  ${i + 1}. [${it.source}] ${it.title.slice(0, 60)}`));
+    console.log(`\n[INFO] 按源分布: ${JSON.stringify(trends.stats)}`);
+    return;
+  }
+
   const slot = SLOTS[slotKey];
 
   console.log('====================================');
@@ -1155,8 +1335,8 @@ async function main() {
   writeFileSync(archivePath, JSON.stringify(content, null, 2));
   console.log(`[OK] 已归档: ${archivePath}`);
 
-  // 重建历史索引
-  const history = rebuildHistory(dataDir);
+  // 重建历史索引（主内容：排除育儿和媳妇归档）
+  const history = rebuildHistory(dataDir, null);
   const historyPath = join(dataDir, 'history.json');
   writeFileSync(historyPath, JSON.stringify(history, null, 2));
   console.log(`[OK] 已更新历史索引: ${historyPath}（${history.items.length} 条记录）`);
@@ -1194,13 +1374,70 @@ async function main() {
     writeFileSync(pArchivePath, JSON.stringify(pContent, null, 2));
     console.log(`[OK] 已归档: ${pArchivePath}`);
 
-    // 重建历史索引（含育儿归档）
-    const history2 = rebuildHistory(dataDir);
-    writeFileSync(historyPath, JSON.stringify(history2, null, 2));
-    console.log(`[OK] 已更新历史索引（含育儿）: ${historyPath}（${history2.items.length} 条记录）`);
+    // 重建育儿历史索引（独立文件 data/parenting-history.json）
+    const parentingHistory = rebuildHistory(dataDir, 'parenting');
+    const parentingHistoryPath = join(dataDir, 'parenting-history.json');
+    writeFileSync(parentingHistoryPath, JSON.stringify(parentingHistory, null, 2));
+    console.log(`[OK] 已更新育儿历史索引: ${parentingHistoryPath}（${parentingHistory.items.length} 条记录）`);
 
     console.log(`\n====================================`);
     console.log(`  育儿完成! 共 ${pTotal} 个话题`);
+    console.log(`====================================`);
+  }
+
+  /* ---- 媳妇内容生成（evening / weekend 时段） ---- */
+  // weekday-morning 是纯工作时段，不生成媳妇内容
+  if (slotKey !== 'weekday-morning') {
+    console.log('\n====================================');
+    console.log('  媳妇内容生成');
+    console.log('====================================');
+
+    // 抓取微博热搜等女性关注趋势素材
+    let trendItems = [];
+    let trendStats = {};
+    console.log('[INFO] 抓取媳妇素材（百度热搜 等）...');
+    const trends = await fetchWifeTrends();
+    trendItems = trends.items;
+    trendStats = trends.stats;
+    console.log(`[INFO] 媳妇素材就绪: ${trendItems.length} 条（${Object.entries(trendStats).map(([k, v]) => k + ':' + v).join(', ') || '无'}）`);
+
+    const { systemPrompt: wSystem, userPrompt: wUser } = buildWifePrompt(trendItems);
+    const wCats = Object.keys(WIFE_CATEGORIES).length;
+    const { content: wContent, meta: wMeta } = await generateContent(wSystem, wUser, wCats);
+    const wTotal = validateContent(wContent, wCats);
+
+    wContent.generated_at = new Date().toISOString();
+    wContent.slot = slotKey;
+    wContent.slot_label = slot.label;
+    wContent.meta = wMeta;
+    if (trendItems.length) {
+      wContent.meta.sources = { per_source: trendStats, total: trendItems.length };
+    }
+
+    // 确保 icon 字段存在
+    const wCatMap = {};
+    for (const [k, v] of Object.entries(WIFE_CATEGORIES)) wCatMap[v.name] = v.icon;
+    for (const cat of wContent.categories) {
+      if (!cat.icon) cat.icon = wCatMap[cat.name] || '';
+    }
+
+    const wifePath = join(dataDir, 'wife.json');
+    writeFileSync(wifePath, JSON.stringify(wContent, null, 2));
+    console.log(`[OK] 已写入: ${wifePath}`);
+
+    // 媳妇归档
+    const wArchivePath = join(archiveDir, `${dateStr}-wife-${slotKey}.json`);
+    writeFileSync(wArchivePath, JSON.stringify(wContent, null, 2));
+    console.log(`[OK] 已归档: ${wArchivePath}`);
+
+    // 重建媳妇历史索引（独立文件 data/wife-history.json）
+    const wifeHistory = rebuildHistory(dataDir, 'wife');
+    const wifeHistoryPath = join(dataDir, 'wife-history.json');
+    writeFileSync(wifeHistoryPath, JSON.stringify(wifeHistory, null, 2));
+    console.log(`[OK] 已更新媳妇历史索引: ${wifeHistoryPath}（${wifeHistory.items.length} 条记录）`);
+
+    console.log(`\n====================================`);
+    console.log(`  媳妇完成! 共 ${wTotal} 个话题`);
     console.log(`====================================`);
   }
 
@@ -1215,15 +1452,21 @@ async function main() {
  *  供前端列出"前几日"内容并按需加载对应归档文件。
  * ================================================================ */
 
-function rebuildHistory(dataDir) {
+function rebuildHistory(dataDir, viewFilter) {
   const archiveDir = join(dataDir, 'archive');
   const weekdays = ['日', '一', '二', '三', '四', '五', '六'];
   if (!existsSync(archiveDir)) {
     return { items: [], updated_at: new Date().toISOString() };
   }
 
+  // viewFilter: null = main (exclude parenting/wife), 'parenting' = only parenting, 'wife' = only wife
   const files = readdirSync(archiveDir)
     .filter(f => f.endsWith('.json'))
+    .filter(f => {
+      if (viewFilter === 'parenting') return f.includes('-parenting-');
+      if (viewFilter === 'wife') return f.includes('-wife-');
+      return !f.includes('-parenting-') && !f.includes('-wife-');
+    })
     .sort()
     .reverse(); // 最新的在前
 
