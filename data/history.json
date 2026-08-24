@@ -5,10 +5,10 @@
       "date": "2026-08-24",
       "slot": "weekday-evening",
       "slot_label": "工作日傍晚 · 生活时光",
-      "generated_at": "2026-08-24T02:14:49.994Z",
+      "generated_at": "2026-08-24T10:04:30.180Z",
       "weekday": "星期一",
       "file": "archive/2026-08-24-weekday-evening.json",
-      "topic_count": 12,
+      "topic_count": 15,
       "category_names": [
         "时事热点",
         "亲子时光",
@@ -16,26 +16,6 @@
         "生活妙招",
         "乒乓球",
         "健康养生"
-      ]
-    },
-    {
-      "key": "2026-08-24-parenting-weekday-evening",
-      "date": "2026-08-24",
-      "slot": "parenting-weekday-evening",
-      "slot_label": "工作日傍晚 · 生活时光",
-      "generated_at": "2026-08-24T02:19:42.661Z",
-      "weekday": "星期一",
-      "file": "archive/2026-08-24-parenting-weekday-evening.json",
-      "topic_count": 16,
-      "category_names": [
-        "科学奇人",
-        "文人风骨",
-        "兴趣深耕",
-        "思维启蒙",
-        "亲子行动",
-        "育儿心法",
-        "健康食育",
-        "运动启蒙"
       ]
     },
     {
@@ -201,5 +181,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-24T02:19:42.663Z"
+  "updated_at": "2026-08-24T10:04:30.183Z"
 }
