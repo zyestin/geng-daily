@@ -1101,10 +1101,22 @@ async function callModel(model, systemPrompt, userPrompt, maxOutTokens) {
   // 中文 6 分类完整输出约需 6000+ token；按模型限额取 min，避免超限被截断
   const maxTokens = Math.min(10000, maxOutTokens && maxOutTokens > 0 ? maxOutTokens : 10000);
 
+  // response_format 可强制 JSON 输出，但部分模型不支持。
+  // 首次尝试带 response_format；若报错则降级重试（不带 response_format）。
+  let useJsonFormat = true;
   let lastErr = '';
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
-    console.log(`[INFO] 调用 OpenRouter... 模型: ${model} (第${attempt}次)`);
+    console.log(`[INFO] 调用 OpenRouter... 模型: ${model} (第${attempt}次${useJsonFormat ? ', JSON模式' : ''})`);
     try {
+      const body = {
+        model,
+        messages,
+        temperature: 0.85,
+        max_tokens: maxTokens,
+      };
+      if (useJsonFormat) {
+        body.response_format = { type: 'json_object' };
+      }
       const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
         method: 'POST',
         headers: {
@@ -1113,18 +1125,19 @@ async function callModel(model, systemPrompt, userPrompt, maxOutTokens) {
           'HTTP-Referer': 'https://github.com/geng-daily',
           'X-Title': 'geng-daily',
         },
-        body: JSON.stringify({
-          model,
-          messages,
-          temperature: 0.85,
-          max_tokens: maxTokens,
-        }),
+        body: JSON.stringify(body),
       });
 
       if (!response.ok) {
         lastErr = `HTTP ${response.status} ${response.statusText}`;
         console.warn(`[WARN] ${lastErr}`);
-        // 5xx/429 限流或服务抖动：等久一点重试（免费模型共享额度，429 常见）
+        // 400/422 可能是不支持 response_format，降级重试
+        if ((response.status === 400 || response.status === 422) && useJsonFormat) {
+          console.warn('[WARN] 可能不支持 response_format，降级重试...');
+          useJsonFormat = false;
+          continue;
+        }
+        // 5xx/429 限流或服务抖动：等久一点重试
         if (response.status >= 500 || response.status === 429) {
           await sleep(15000 * attempt);
           continue;
@@ -1136,6 +1149,12 @@ async function callModel(model, systemPrompt, userPrompt, maxOutTokens) {
       if (data.error) {
         lastErr = JSON.stringify(data.error).substring(0, 200);
         console.warn(`[WARN] API 错误对象: ${lastErr}`);
+        // 如果是 response_format 相关错误，降级
+        if (useJsonFormat && lastErr.includes('response_format')) {
+          console.warn('[WARN] response_format 不支持，降级重试...');
+          useJsonFormat = false;
+          continue;
+        }
         await sleep(8000 * attempt);
         continue;
       }
