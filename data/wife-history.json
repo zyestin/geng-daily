@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "key": "2026-08-30-wife-weekend-morning",
+      "date": "2026-08-30",
+      "slot": "wife-weekend-morning",
+      "slot_label": "周末早晨 · 家庭时光",
+      "generated_at": "2026-08-30T06:21:41.136Z",
+      "weekday": "星期日",
+      "file": "archive/2026-08-30-wife-weekend-morning.json",
+      "topic_count": 16,
+      "category_names": [
+        "追剧指南",
+        "吃喝情报",
+        "话术急救",
+        "土味情话",
+        "她的世界",
+        "暖心行动",
+        "约会提案",
+        "情绪价值"
+      ]
+    },
+    {
       "key": "2026-08-29-wife-weekend-morning",
       "date": "2026-08-29",
       "slot": "wife-weekend-morning",
@@ -141,5 +161,5 @@
       ]
     }
   ],
-  "updated_at": "2026-08-29T15:03:37.276Z"
+  "updated_at": "2026-08-30T06:21:41.138Z"
 }
