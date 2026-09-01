@@ -1,241 +1,184 @@
 {
   "categories": [
     {
-      "name": "🚀 前端框架",
-      "icon": "🚀",
+      "name": "时事热点",
+      "icon": "📰",
       "items": [
         {
-          "title": "React19新特",
-          "summary": "并发渲染、自动批处理",
-          "detail": "React 19 引入并发渲染模式，支持自动批处理和过渡更新，提升用户交互流畅度。新增起点过渡和选择性水合功能，使得大型应用在高频更新下更加稳定。目前在 Canary 频道开放测试，正式版预计年底发布。",
-          "usage": "你可以问同事：‘你们试过 React 19 的并发特性吗？我觉得自动批处理能明显减少不必要的 re-render，大家有在项目里尝试吗？’",
+          "title": "气候大会新进展",
+          "summary": "气候变化议题再度引发关注。",
+          "detail": "最近全球气候大会上，各国领导人达成了一些新的协议，致力于减缓全球变暖的速度。这次大会的讨论内容涉及到可再生能源的开发、减排目标等，受到媒体和公众的高度关注。",
+          "usage": "你看到最近的气候大会了吗？各国都在努力制定新的减排目标，咱们的未来可能会更绿色哦！",
           "source": "",
           "tags": [
-            "React",
-            "前端"
+            "气候变化",
+            "国际动态"
           ]
         },
         {
-          "title": "Next.js15",
-          "summary": "App Router稳定、Turbopack",
-          "detail": "Next.js 15 正式发布，App Router 成为默认路由方案，并内置 Turbopack 作为开发构建工具，声称冷启动速度提升 10 倍。新增路由组件的服务器端渲染选项和增强的预取机制，使得页面切换更加即时。",
-          "usage": "可以说：‘听说 Next.js 15 把 Turbopack 带到了生产环境，编辑保存秒变热更新，你们试过吗？这对我们的 SSR 页面会有什么影响？’",
+          "title": "科技巨头新产品发布",
+          "summary": "某科技公司重磅新品发布。",
+          "detail": "当下某大型科技公司刚刚发布了最新的智能设备，结合了AI技术和用户体验的创新设计，引起了行业内外的广泛讨论。这款产品不仅提升了家庭自动化的便利性，还在隐私保护方面做出了新的尝试。",
+          "usage": "你有没有听说某科技公司刚刚发布的新产品？它的设计真的是让人眼前一亮，真的很期待体验一下！",
           "source": "",
           "tags": [
-            "Next.js",
-            "前端"
+            "科技",
+            "产品发布"
           ]
         }
       ]
     },
     {
-      "name": "📱 React Native",
-      "icon": "📱",
+      "name": "亲子时光",
+      "icon": "👨‍👧",
       "items": [
         {
-          "title": "RN0.76",
-          "summary": "Fabric默认启用",
-          "detail": "React Native 0.76 将 Fabric 新架构设为默认实现，提升 UI 线程与 JavaScript 线程的同步性能，原生模块调用延迟降低约 30%。同时改进了按钮、列表等基础组件的触摸响应，使得界面更加流畅。",
-          "usage": "可以聊：‘RN 0.76 把 Fabric 拉到了默认，看来以后写原生组件会更顺手，你们有在试验新架构吗？'",
+          "title": "DIY手工乐趣",
+          "summary": "和孩子一起做手工超有趣。",
+          "detail": "最近流行的DIY手工活动，能够激发孩子的创造力和想象力。比如，利用废旧材料制作小玩具，不仅环保，还能让孩子动手动脑，培养他们的动手能力。",
+          "usage": "最近我们在家做了个小手工，利用废弃瓶子做成花瓶，孩子非常喜欢！你们有没有尝试过类似的活动？",
           "source": "",
           "tags": [
-            "React Native",
-            "移动端"
+            "亲子活动",
+            "创意手工"
           ]
         },
         {
-          "title": "Expo52",
-          "summary": "支持最新原生模块",
-          "detail": "Expo SDK 52 引入了对最新原生模块的自动链接支持，并升级了图片和字体处理模块，使得纯 JavaScript 项目也能更便捷地调用相机、传感器等原生功能。新增了 Expo DevTools 的快速重载功能，提升开发体验。",
-          "usage": "你说：‘Expo 52 这次把原生模块链接做得更自动，看来以后脱离 eject 也能写原生功能，大家觉得怎么样？'",
+          "title": "周末家庭野餐",
+          "summary": "安排一次亲子的野餐吧。",
+          "detail": "随着天气转凉，带孩子去公园野餐会是个不错的选择。可以准备一些简单的食物，带上喜欢的玩具，享受亲子时光，增加家庭互动。",
+          "usage": "这个周末我们打算去公园野餐，准备点好吃的，真期待能看到孩子开心的样子，你们有没有类似的计划？",
           "source": "",
           "tags": [
-            "Expo",
-            "跨端"
+            "亲子活动",
+            "户外"
           ]
         }
       ]
     },
     {
-      "name": "🤖 AI编程",
-      "icon": "🤖",
+      "name": "热门影视",
+      "icon": "🎬",
       "items": [
         {
-          "title": "Archify",
-          "summary": "AI生成架构图",
-          "detail": "GitHub Trending 项目 Archify 让 AI agent 能够自动生成可验证的架构、工作流、序列图和数据流图，全部自包含，便于文档和设计审查。生成的图形支持导出为 SVG、Mermaid 或 PlantUML，便于在 Wiki 或文档中直接使用。",
-          "source": "https://github.com/tt-a1i/archify",
-          "usage": "你可以说：‘刚看到个叫 Archify 的开源项目，用 AI 画架构图，自带验证，感觉设计评审会省很多时间，你们团队要不要试试？'",
-          "tags": [
-            "AI",
-            "开源",
-            "工具"
-          ]
-        },
-        {
-          "title": "MiniMind",
-          "summary": "2小时训练64M模型",
-          "detail": "GitHub Trending 项目 MiniMind 展示了如何在仅 2 小时内从零训练一个 64M 参数的大语言模型，完整代码和数据准备过程公开。采用了混合精度和梯度累积技术，显著降低了实验门槛，适合快速原型和教学演示。",
-          "source": "https://github.com/jingyaogong/minimind",
-          "usage": "你可以聊：‘MiniMind 竟然能在两小时内跑出 64M 的 LLM，看来小模型快速迭代变得很容易，大家有兴趣跑跑看吗？'",
-          "tags": [
-            "AI",
-            "LLM",
-            "开源"
-          ]
-        },
-        {
-          "title": "ECC",
-          "summary": "Agent性能优化系统",
-          "detail": "GitHub Trending 项目 ECC（Agent Harness Performance Optimization）提供技能、本能、记忆、安全和研究优先的框架，旨在提升 AI agent 的整体效率和可靠性。内置经验回放、约束检查和自动化测试管道，帮助开发者快速迭代 agent 行为。",
-          "source": "https://github.com/affaan-m/ECC",
-          "usage": "你说：‘ECC 这个 agent 优化系统听起来挺有意思，把记忆和安全纳入框架，不知道在实际项目里能不能提升响应速度？'",
-          "tags": [
-            "AI",
-            "Agent",
-            "性能"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "📘 TS & JS",
-      "icon": "📘",
-      "items": [
-        {
-          "title": "TS5.5",
-          "summary": "新增infer改进",
-          "detail": "TypeScript 5.5 beta 引入了更强的 infer 类型推断能力，使得在条件类型中推断复杂泛型变得更直观，减少了手动类型标注。新增了对模板字面量类型的推断改进，以及更精细的符号跟踪，提升了大型代码库的类型安全。",
+          "title": "最新动画电影",
+          "summary": "一部适合全家的动画电影。",
+          "detail": "最近上映的动画电影受到了观众的热烈欢迎，故事情节感人，画面精美，适合全家一起观看。它不仅有趣，还传达了家庭、友情等重要价值观。",
+          "usage": "你去看最近的动画电影了吗？家人一起看真是太开心了，故事还很感人！",
           "source": "",
-          "usage": "你可以说：‘TS 5.5 的 infer 又升级了，看来写高级泛型时少写很多 as 了，你们有在试 beta 吗？'",
           "tags": [
-            "TypeScript",
-            "JS"
+            "动画电影",
+            "家庭"
           ]
         },
         {
-          "title": "Bun1.1",
-          "summary": "更快的JS运行时",
-          "detail": "Bun 1.1 发布，进一步优化了启动时间和文件系统 IO，声称在某些基准测试中比 Node.js 快三倍。内置的包管理器也更快，支持即时的 TypeScript 转换和 JSX 转换，适合作为开发工具链的核心运行时。",
+          "title": "综艺节目推荐",
+          "summary": "新一季综艺节目火热开播。",
+          "detail": "某知名综艺节目新一季刚刚开播，节目中邀请了多位明星嘉宾，互动环节充满趣味，观众反响热烈，能够带来欢笑和快乐的氛围，适合全家围坐一起观看。",
+          "usage": "最近有个综艺节目很好看，尤其是明星嘉宾们的互动，真的是笑到停不下来！你们有没有看呢？",
           "source": "",
-          "usage": "你可以聊：‘Bun 1.1 又快了一点，启动几乎瞬间，看来以后脚本工具可能都往它这边迁移，你们有在玩 Bun 吗？'",
           "tags": [
-            "Bun",
-            "运行时"
+            "综艺节目",
+            "家庭娱乐"
           ]
         }
       ]
     },
     {
-      "name": "🌟 开源热门",
-      "icon": "🌟",
+      "name": "生活妙招",
+      "icon": "💡",
       "items": [
         {
-          "title": "OpenMAIC",
-          "summary": "一键多智能体课堂",
-          "detail": "GitHub Trending 项目 OpenMAIC 由清华团队开发，提供一键启动的多智能体互动课堂环境，内置角色智能体、任务流程和实时反馈。适合线上教学、企业培训和科研演示，支持自定义课程内容和智能体行为。",
-          "source": "https://github.com/THU-MAIC/OpenMAIC",
-          "usage": "你可以说：‘OpenMAIC 这东西真是一键开课堂，AI 当老师、同学，感觉未来在线培训会变得很有趣，你们试过类似平台吗？'",
+          "title": "节省家用电技巧",
+          "summary": "小技巧帮你省电省钱。",
+          "detail": "随着电费的上涨，许多人开始关注节能省电的小窍门。例如，合理安排家电的使用时间，使用节能产品，能够有效降低家庭的电费支出。",
+          "usage": "最近我学了一些省电的小技巧，比如晚上用洗衣机洗衣服，电费便宜不少，你有没有什么省钱的好方法？",
+          "source": "",
           "tags": [
-            "开源",
-            "AI",
-            "教育"
+            "省钱妙招",
+            "节能"
           ]
         },
         {
-          "title": "Wand增强",
-          "summary": "WeMod插件增强",
-          "detail": "GitHub Trending 项目 Wand-Enhancer 为 WeMod（Wand）应用提供高级 UX 和互操作性扩展，包括自定义快捷键、跨平台数据同步和插件市场。用户可以通过社区共享的脚本快速实现修改器功能，提升游戏辅助工具的易用性。",
-          "source": "https://github.com/k1tbyte/Wand-Enhancer",
-          "usage": "你可以提：‘Wand增强这个插件让 WeMod 更好用，尤其是自定义快捷键，看来模拟器党又有新玩具了，你们用过类似工具吗？'",
+          "title": "简单的家居收纳法",
+          "summary": "让家里更整洁的小窍门。",
+          "detail": "随着生活节奏的加快，许多人开始重视家居的收纳和整理。采用一些简单的方法，比如使用透明收纳盒，可以让物品一目了然，既方便又美观。",
+          "usage": "我最近开始用透明收纳盒整理家里的东西，效果很好，找东西也方便，你有没有尝试过收纳？",
+          "source": "",
           "tags": [
-            "开源",
-            "工具",
-            "插件"
-          ]
-        },
-        {
-          "title": "ipatool",
-          "summary": "下载iOS IPA",
-          "detail": "GitHub Trending 项目 ipatool 是一个命令行工具，能够搜索并下载 iOS/iPadOS/tvOS/visionOS 的 .ipa 包，支持过滤和版本管理，便于内测和逆向分析。提供了简单的 JSON 配置文件，使得批量获取和自动化工作流变得容易。",
-          "source": "https://github.com/majd/ipatool",
-          "usage": "你可以说：‘ipatool 这个 CLI 可以直接拉取 IPA，看来以后获取内测包或者做逆向分析会方便很多，你们有需求吗？'",
-          "tags": [
-            "开源",
-            "iOS",
-            "命令行"
+            "家居整理",
+            "生活技巧"
           ]
         }
       ]
     },
     {
-      "name": "😄 开发者梗",
-      "icon": "😄",
+      "name": "乒乓球",
+      "icon": "🏓",
       "items": [
         {
-          "title": "Chrome禁MV2",
-          "summary": "广告拦截插件下线",
-          "detail": "Hacker News 热帖指出 Google 已从 Chrome Web Store 下线所有 MV2 扩展，包括广告拦截器 uBlock Origin，仅剩 MV3 版本可用。此举引发了广泛讨论，用户担心广告拦截效果会因此削弱。",
-          "source": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-          "usage": "你可以聊：‘听说 Chrome 把 uBlock Origin 下线了，只能用 MV3 版本，广告拦截效果是不是会打折？你们怎么看？'",
+          "title": "国乒新星动态",
+          "summary": "国乒队员表现引关注。",
+          "detail": "最近几场乒乓球赛事中，国乒新星表现出色，击败了多位强敌，赢得了观众的热烈掌声。大家对他们的未来充满期待。",
+          "usage": "最近国乒的小将们表现特别精彩，你对他们的未来怎么看？我觉得他们很有潜力，应该会成为新的领军人物！",
+          "source": "",
           "tags": [
-            "浏览器",
-            "插件",
-            "争议"
+            "乒乓球",
+            "国乒"
           ]
         },
         {
-          "title": "PlayaPhone",
-          "summary": "沙滩手机概念",
-          "detail": "Hacker News 项目 Playa Phone 提出一款防水、防沙、易于在海滩使用的智能手机概念，配备防滑外壳和强化读光屏，适合户外运动爱好者。概念机型强调在强光下仍能清晰显示，并具备长效续航。",
-          "source": "https://playaphone.com/",
-          "usage": "你可以聊：‘看到个叫 Playa Phone 的沙滩手机，防水防沙还能看强光，感觉夏天去海边很实用，你们有兴趣试这类 rugged 手机吗？'",
+          "title": "乒乓球赛事回顾",
+          "summary": "精彩乒乓球赛事盘点。",
+          "detail": "最近的乒乓球赛事中，许多经典对决让人印象深刻，精彩的比赛不仅让人热血沸腾，也展示了运动员的实力和技术，值得回味。",
+          "usage": "你有没有关注最近的乒乓球赛事? 有几场比赛真的很精彩，我还在回味呢！",
+          "source": "",
           "tags": [
-            "硬件",
-            "创意",
-            "手机"
+            "体育赛事",
+            "乒乓球"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "健康养生",
+      "icon": "🥗",
+      "items": [
+        {
+          "title": "家庭饮食营养",
+          "summary": "注重饮食平衡提升健康。",
+          "detail": "现代家庭越来越关注饮食的营养搭配，合理的膳食结构可以有效提升全家人的健康水平。多吃蔬菜、水果及优质蛋白，适量减少糖分摄入，是值得关注的饮食理念。",
+          "usage": "最近我开始注意饮食的营养搭配，家里的饭菜也变得更健康了，你们有没有关注这些？",
+          "source": "",
+          "tags": [
+            "健康饮食",
+            "家庭养生"
           ]
         },
         {
-          "title": "摄像头识鸟",
-          "summary": "用摄像头自动识鸟",
-          "detail": "Hacker News 文章讲述作者如何将家庭安全摄像头接入 BirdNET-Go 模型，实现自动鸟类识别和记录，代码开源且实现简单。系统能够在本地进行音频特征提取，并将结果上传到个人观鸟日志。",
-          "source": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-          "usage": "你可以说：‘我看到有人把摄像头改造成鸟类识别器，用 BirdNET-Go 就能自动记录路过的鸟种，感觉挺有趣，你们有想把智能设备做点趣味项目的吗？'",
+          "title": "儿童运动的重要性",
+          "summary": "让孩子多运动促进健康。",
+          "detail": "儿童时期是身体和智力发育的重要阶段，适量的运动有助于他们的骨骼和肌肉的发育，同时也能增强免疫力，培养良好的生活习惯。",
+          "usage": "我觉得让孩子多运动真的很重要，最近我带女儿去打乒乓球了，你觉得孩子应该怎么安排运动呢？",
+          "source": "",
           "tags": [
-            "AI",
-            "鸟类",
-            "DIY"
+            "儿童健康",
+            "运动"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-09-01T02:04:48.835Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-09-01T10:06:01.958Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
-    "model": "nvidia/nemotron-3-super-120b-a12b:free",
-    "actual_model": "nvidia/nemotron-3-super-120b-a12b:free",
-    "prompt_tokens": 2742,
-    "completion_tokens": 9922,
-    "total_tokens": 12664,
-    "cost_usd": 0,
-    "free": true,
-    "sources": {
-      "per_source": {
-        "hackernews": 15,
-        "reddit": 0,
-        "askhn": 8,
-        "lobsters": 10,
-        "devto": 10,
-        "v2ex": 10,
-        "juejin": 10,
-        "github": 10,
-        "qbitai": 8,
-        "infoq": 8
-      },
-      "total": 20
-    }
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 907,
+    "completion_tokens": 1858,
+    "total_tokens": 2765,
+    "cost_usd": 0.00125085,
+    "free": false
   }
 }
