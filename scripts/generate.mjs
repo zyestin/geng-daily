@@ -449,12 +449,13 @@ function buildTechPrompt(trendItems) {
 
 用户画像：程序员，上班和同事聊天，爱科技圈八卦和梗，吃瓜图一乐。
 
-请围绕以下 ${cats.length} 个方向，每个方向生成 2 条内容（共 ${cats.length * 2} 条）：
+请围绕以下 ${cats.length} 个方向，每个方向生成 1-2 条内容（总数 10-16 条，素材够就 2 条，不够就 1 条）：
 
 ${categoryList}
 ${trendSection}
 
-⚠️ 必须输出全部 ${cats.length} 个分类，每个分类恰好 2 条，不要遗漏任何分类！
+⚠️ 必须输出全部 ${cats.length} 个分类（每个分类至少 1 条），不要遗漏任何分类！
+⚠️ 每条必须有明确主体（具体人名/公司名/产品名）——"某大厂/一家知名公司/一款新手机"这种模糊写法=不合格，禁止！
 ⚠️ 同一热点事件不要跨分类重复使用（一个瓜只在一个分类里讲）！
 
 每条内容字段：
@@ -691,6 +692,32 @@ function parseRss(xml, sourceName, limit = 10, maxAgeDays = 7) {
   return items.filter(i => i.ts >= cutoff).slice(0, limit);
 }
 
+/** 抓取36氪（科技创投媒体 RSS，免费无 key）——吃瓜频道主力素材：大佬动态/公司大戏/新品 */
+async function fetch36kr() {
+  const res = await fetch('https://36kr.com/feed', {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36',
+      'Accept': 'application/rss+xml, application/xml, text/xml, */*',
+    },
+    signal: AbortSignal.timeout(15000),
+  });
+  if (!res.ok) throw new Error('HTTP ' + res.status);
+  return parseRss(await res.text(), '36氪', 12, 3);
+}
+
+/** 抓取虎嗅（科技媒体 RSS，免费无 key）——吃瓜频道主力素材：大佬八卦/行业深挖/翻车复盘 */
+async function fetchHuxiu() {
+  const res = await fetch('https://rss.huxiu.com/', {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36',
+      'Accept': 'application/rss+xml, application/xml, text/xml, */*',
+    },
+    signal: AbortSignal.timeout(15000),
+  });
+  if (!res.ok) throw new Error('HTTP ' + res.status);
+  return parseRss(await res.text(), '虎嗅', 12, 3);
+}
+
 /** 抓取量子位（中文 AI 圈头条 RSS，编辑部精选，天然带梗） */
 async function fetchQbitai() {
   const res = await fetch('https://www.qbitai.com/feed', {
@@ -922,13 +949,15 @@ function buildWifeTrendsSection(items) {
 }
 
 /* ================================================================
- * 科技吃瓜频道素材采集（百度热搜 + 头条热榜）
- *  吃瓜频道需要的是科技圈/大佬/大新闻趋势，双源互补：
- *  百度热搜偏实时事件，头条热榜覆盖面广
+ * 科技吃瓜频道素材采集（36氪 / 虎嗅 / 百度热搜 / 头条热榜）
+ *  四源互补：科技媒体（36氪/虎嗅）是主力——大佬动态/公司大戏/新品/翻车
+ *  都是真瓜真链接；热榜（百度/头条）补充全网大瓜（宇树审批这类）
  * ================================================================ */
 
 async function fetchTechTrends() {
   const fetchers = {
+    kr36: fetch36kr,
+    huxiu: fetchHuxiu,
     baidu: fetchBaiduHot,
     toutiao: fetchToutiao,
   };
@@ -940,37 +969,37 @@ async function fetchTechTrends() {
     })
   );
   const stats = {};
-  const all = [];
+  const byName = {};
   for (const r of results) {
     if (r.status === 'fulfilled') {
       stats[r.value.name] = r.value.items.length;
-      all.push(...r.value.items);
+      byName[r.value.name] = r.value.items;
     } else {
       console.warn(`[WARN] 吃瓜素材源抓取失败（跳过，不影响生成）: ${r.reason?.message || r.reason}`);
     }
   }
+
+  // 去重（按标题精确匹配）
   const seen = new Set();
-  const deduped = all
-    .filter(i => i.title && !isBadTitle(i.title))
-    .filter(i => {
-      if (seen.has(i.title)) return false;
-      seen.add(i.title);
-      return true;
-    });
-  // 两源交替混合（百度1条/头条1条轮流），避免单一热榜霸屏
-  const bySrc = {};
-  for (const i of deduped) {
-    (bySrc[i.source] = bySrc[i.source] || []).push(i);
-  }
-  const srcArrs = Object.values(bySrc);
-  const mixed = [];
-  outer: for (let k = 0; k < 40; k++) {
-    for (const arr of srcArrs) {
-      if (arr[k]) mixed.push(arr[k]);
-      if (mixed.length >= 20) break outer;
+  const dedup = (arr) => arr.filter(i => {
+    if (!i.title || isBadTitle(i.title) || seen.has(i.title)) return false;
+    seen.add(i.title);
+    return true;
+  });
+
+  // 混合配额：科技媒体为主（36氪 10 + 虎嗅 10），热榜补全网大瓜（百度/头条交替 10）
+  const media = [...dedup(byName.kr36 || []), ...dedup(byName.huxiu || [])];
+  const hotRaw = [];
+  const hotSrcs = [byName.baidu || [], byName.toutiao || []].filter(a => a.length);
+  outer: for (let k = 0; k < 20; k++) {
+    for (const arr of hotSrcs) {
+      if (arr[k]) hotRaw.push(arr[k]);
+      if (hotRaw.length >= 10) break outer;
     }
   }
-  return { items: mixed, stats };
+  const hot = dedup(hotRaw);
+  const items = [...media.slice(0, 20), ...hot];
+  return { items, stats };
 }
 
 /** 把吃瓜素材列表拼成注入 prompt 的文本段 */
@@ -979,7 +1008,7 @@ function buildTechTrendsSection(items) {
   const lines = items.map((it, i) =>
     `${i + 1}. [${it.source}] ${it.title}（${it.score ? '热度' + it.score : ''}）→ ${it.url}`
   ).join('\n');
-  return `\n\n## 📡 今日热搜素材（抓取自 百度热搜 / 头条热榜）\n\n以下是今天的全网热搜。规则：\n1. 其中科技圈相关的大瓜/大佬/新品/翻车事件优先选用，source 字段必须填该素材的 url\n2. 热搜之外，你可以补充你知识库里**确定真实发生**的近期科技圈事件（大佬新动作/币圈人物/AI圈动态/程序员热梗），detail 里必须写清"谁+什么时间/场合+干了什么"，source 留空 ""\n3. 与科技圈完全无关的纯娱乐/社会新闻跳过不用\n4. 拿不准真实性的事件一律不写，宁缺毋滥\n\n${lines}`;
+  return `\n\n## 📡 今日吃瓜素材（抓取自 36氪 / 虎嗅 / 百度热搜 / 头条热榜）\n\n以下是今天抓取的真实科技圈新闻和全网热搜。规则：\n1. **绝大多数内容必须从素材中选取**，source 字段必须填该素材的 url——用户会点开看\n2. 素材足够填满全部分类；只有某分类实在没素材时，才可用你知识库里**确定真实**的事件补充，且 detail 必须写清"谁+什么时间/场合+干了什么"，source 留空 ""\n3. 与科技圈无关的纯娱乐/社会新闻跳过不用\n4. 拿不准真实性的一律不写，宁缺毋滥\n\n${lines}`;
 }
 
 /* ================================================================
