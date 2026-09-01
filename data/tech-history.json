@@ -5,10 +5,10 @@
       "date": "2026-09-01",
       "slot": "tech-weekday-evening",
       "slot_label": "工作日傍晚 · 生活时光",
-      "generated_at": "2026-09-01T10:30:52.891Z",
+      "generated_at": "2026-09-01T10:49:49.427Z",
       "weekday": "星期二",
       "file": "archive/2026-09-01-tech-weekday-evening.json",
-      "topic_count": 16,
+      "topic_count": 8,
       "category_names": [
         "头版大瓜",
         "大佬名场面",
@@ -21,5 +21,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-01T10:30:52.892Z"
+  "updated_at": "2026-09-01T10:49:49.428Z"
 }
