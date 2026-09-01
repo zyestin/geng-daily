@@ -84,6 +84,18 @@ const WIFE_CATEGORIES = {
   eq:        { name: '情绪价值',   icon: '\u{1F9E0}', desc: '如何倾听、共情、给情绪支持（而非讲道理/论对错），基于真实心理学/沟通技巧，给出具体场景和话术' },
 };
 
+/* ---- 科技吃瓜方向（独立文件 data/tech.json） ---- */
+const TECH_CATEGORIES = {
+  melon:     { name: '头版大瓜',   icon: '\u{1F349}', desc: '当下科技圈最大的热闹事件（人物/公司/大新闻），讲清来龙去脉和各方反应，让吃瓜群众一句话入坑' },
+  ceo:       { name: '大佬名场面', icon: '\u{1F3A4}', desc: '科技大佬（罗永浩/雷军/马斯克/余承东/周鸿祎/黄仁勋等）的真实语录、恩怨互怼、跨界新动作' },
+  crypto:    { name: '币圈风云',   icon: '\u{1FA99}', desc: '币圈人物（孙宇晨等）和加密货币圈的真实动态，用吃瓜视角调侃，不下任何投资结论' },
+  startup:   { name: '创业大戏',   icon: '\u{1F3AC}', desc: '真实的创业故事：融资翻盘/倒闭反转/创始人恩怨，比电视剧精彩的部分' },
+  product:   { name: '新品前瞻',   icon: '\u{1F4FA}', desc: '真实的新品/新业务动态（新手机/AI硬件/大佬搞副业如做电视等），给出值得聊的点和槽点' },
+  fail:      { name: '翻车现场',   icon: '\u{1F4A5}', desc: '真实的产品/发布会/公关翻车事件，复盘翻车姿势，吐槽有梗有度' },
+  ai:        { name: 'AI 江湖',    icon: '\u{1F916}', desc: 'AI 圈真实动态：新模型发布、大厂明争暗斗、OpenAI/DeepSeek/国内大模型圈八卦' },
+  workplace: { name: '码农工位',   icon: '\u{1F4BB}', desc: '程序员圈真实热梗：福利八卦、裁员风向、技术圈吐槽（面试造火箭/工作拧螺丝）' },
+};
+
 /* ================================================================
  *  时间段配置
  *  cron 已按 GMT+8 换算为 UTC
@@ -391,6 +403,78 @@ JSON 结构（把每个字段替换为真实内容，直接输出可被JSON.pars
  *  素材带真实原文链接 → 生成的话题可直连原文（"👉原文"不再只是搜索兜底）。
  * ================================================================ */
 
+/* ================================================================
+ * 科技吃瓜 Prompt 构建
+ * 独立文件 data/tech.json — "科技圈吃瓜主编"
+ * 核心：真实事件 + 段子讲法 + 程序员同事聊资
+ * ================================================================ */
+
+function buildTechPrompt(trendItems) {
+  const now = getBeijingNow();
+  const { date, weekday, time } = formatDate(now);
+  const cats = Object.values(TECH_CATEGORIES);
+  const trendSection = buildTechTrendsSection(trendItems || []);
+
+  const systemPrompt = `你是"科技圈吃瓜主编"。核心使命：把科技圈的热闹讲成段子，让程序员上班摸鱼有瓜可吃、和同事聊天有梗可用。
+
+## 第一原则：真实 + 好笑
+所有事件必须真实发生（结合素材与你的知识，不确定的宁可不写）。但讲法必须好笑——干巴巴念新闻=失败。
+
+## 讲瓜技巧（每条至少用2种）
+反差对比（大佬宏大叙事 vs 现实鸡毛蒜皮）、起外号（给事件起个传得开的梗名）、围观口吻（"家人们谁懂啊"式吃瓜）、金句收尾（一句话总结值得发群里）、时间线讲法（"XX又双叒叕..."）、业内吐槽（程序员视角吐槽发布会PPT、跑分、期货功能）
+
+## 分方向要求
+- 头版大瓜：讲清来龙去脉+各方反应，一句话让不吃瓜的同事也能接上
+- 大佬名场面：真实大佬的真实语录/恩怨/新动作，引用要准确
+- 币圈风云：孙宇晨式人物动态，调侃但不站队不下投资结论
+- 创业大戏：真实融资/倒闭/反转故事，突出比电视剧精彩的部分
+- 新品前瞻：真实新品/新业务，给值得聊的点+槽点
+- 翻车现场：真实翻车复盘，吐槽有梗有度不网暴
+- AI 江湖：真实模型/大厂动态，可以调侃军备竞赛
+- 码农工位：程序员圈真实热梗，职场人一看就懂
+
+## 禁忌
+编造不存在的事件/语录、涉刑案细节、攻击外貌、政治敏感
+
+## 输出
+中文口语化。直接输出JSON，不要markdown代码块。`;
+
+  const categoryList = cats.map((c, i) =>
+    `${i + 1}. ${c.icon} ${c.name}\n   ${c.desc}`
+  ).join('\n\n');
+
+  const userPrompt = `今天日期：${date}，${weekday}，时间约 ${time}
+
+用户画像：程序员，上班和同事聊天，爱科技圈八卦和梗，吃瓜图一乐。
+
+请围绕以下 ${cats.length} 个方向，每个方向生成 2 条内容（共 ${cats.length * 2} 条）：
+
+${categoryList}
+${trendSection}
+
+⚠️ 必须输出全部 ${cats.length} 个分类，每个分类恰好 2 条，不要遗漏任何分类！
+⚠️ 同一热点事件不要跨分类重复使用（一个瓜只在一个分类里讲）！
+
+每条内容字段：
+- title: 标题（10字以内，有梗有画面）
+- summary: 一句话概括（20字以内，像热搜词条）
+- detail: 详细内容（80-200字，有来龙去脉有吐槽有金句）
+- usage: 用以下三行格式（用 \\n 分隔）：💡 怎么聊切入时机 \\n 💬 可直接发群里的原话 \\n 🔥 关键词1 关键词2
+- source: 确定的链接或空字符串 ""
+- tags: 2-3个标签
+
+JSON 结构（把每个字段替换为真实内容，直接输出可被JSON.parse的纯JSON）：
+{
+  "categories": [
+    { "name": "方向名", "icon": "emoji", "items": [
+      { "title": "", "summary": "", "detail": "", "usage": "💡 \\n💬 \\n🔥 ", "source": "", "tags": [] }
+    ]}
+  ]
+}`;
+
+  return { systemPrompt, userPrompt };
+}
+
 const SOURCE_UA = 'Mozilla/5.0 (compatible; geng-daily-bot/1.0; +https://github.com/zyestin/geng-daily)';
 
 // 素材上限：注入 prompt 的条目数（控制 token 消耗）
@@ -655,6 +739,31 @@ async function fetchBaiduHot() {
   return items;
 }
 
+/** 抓取今日头条热榜（JSON API，免费无 key）。
+ *  覆盖面比百度热搜广（社会+科技+娱乐混合），适合科技吃瓜频道素材。
+ *  失败静默跳过——吃瓜内容不依赖外部素材也能生成（AI 基于训练知识兜底）。 */
+async function fetchToutiao() {
+  const res = await fetch('https://www.toutiao.com/hot-event/hot-board/?origin=toutiao_pc', {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36',
+      'Accept': 'application/json',
+    },
+    signal: AbortSignal.timeout(15000),
+  });
+  if (!res.ok) throw new Error('HTTP ' + res.status);
+  const d = await res.json();
+  const raw = d.data || [];
+  const items = raw.filter(s => s.Title).slice(0, 20).map(s => ({
+    source: '头条热榜',
+    title: s.Title,
+    url: s.Url || `https://so.toutiao.com/search?keyword=${encodeURIComponent(s.Title)}`,
+    score: s.HotValue || 0,
+    comments: 0,
+    rankScore: 150,
+  }));
+  return items;
+}
+
 /** 抓取 GitHub Trending 今日热门仓库（无官方 API，解析 HTML） */
 async function fetchGithubTrending() {
   const res = await fetch('https://github.com/trending?since=daily', {
@@ -808,6 +917,67 @@ function buildWifeTrendsSection(items) {
     `${i + 1}. [${it.source}] ${it.title}（${it.score ? '热度' + it.score : ''}）→ ${it.url}`
   ).join('\n');
   return `\n\n## 📡 今日热搜趋势（抓取自 百度热搜 等）\n\n以下是今天女性关注领域的热搜趋势。规则：\n1. 优先从这些素材中挑选生成话题——追剧指南/她的世界/土味情话等方向尽量结合这些热点\n2. 凡基于素材生成的话题，source 字段必须填该素材的 url\n3. 素材中若有无关内容，直接跳过不用\n\n${lines}`;
+}
+
+/* ================================================================
+ * 科技吃瓜频道素材采集（百度热搜 + 头条热榜）
+ *  吃瓜频道需要的是科技圈/大佬/大新闻趋势，双源互补：
+ *  百度热搜偏实时事件，头条热榜覆盖面广
+ * ================================================================ */
+
+async function fetchTechTrends() {
+  const fetchers = {
+    baidu: fetchBaiduHot,
+    toutiao: fetchToutiao,
+  };
+  const results = await Promise.allSettled(
+    Object.entries(fetchers).map(async ([name, fn]) => {
+      const items = await fn();
+      console.log(`[INFO] 吃瓜素材源 ${name}: ${items.length} 条`);
+      return { name, items };
+    })
+  );
+  const stats = {};
+  const all = [];
+  for (const r of results) {
+    if (r.status === 'fulfilled') {
+      stats[r.value.name] = r.value.items.length;
+      all.push(...r.value.items);
+    } else {
+      console.warn(`[WARN] 吃瓜素材源抓取失败（跳过，不影响生成）: ${r.reason?.message || r.reason}`);
+    }
+  }
+  const seen = new Set();
+  const deduped = all
+    .filter(i => i.title && !isBadTitle(i.title))
+    .filter(i => {
+      if (seen.has(i.title)) return false;
+      seen.add(i.title);
+      return true;
+    });
+  // 两源交替混合（百度1条/头条1条轮流），避免单一热榜霸屏
+  const bySrc = {};
+  for (const i of deduped) {
+    (bySrc[i.source] = bySrc[i.source] || []).push(i);
+  }
+  const srcArrs = Object.values(bySrc);
+  const mixed = [];
+  outer: for (let k = 0; k < 40; k++) {
+    for (const arr of srcArrs) {
+      if (arr[k]) mixed.push(arr[k]);
+      if (mixed.length >= 20) break outer;
+    }
+  }
+  return { items: mixed, stats };
+}
+
+/** 把吃瓜素材列表拼成注入 prompt 的文本段 */
+function buildTechTrendsSection(items) {
+  if (!items.length) return '';
+  const lines = items.map((it, i) =>
+    `${i + 1}. [${it.source}] ${it.title}（${it.score ? '热度' + it.score : ''}）→ ${it.url}`
+  ).join('\n');
+  return `\n\n## 📡 今日热搜素材（抓取自 百度热搜 / 头条热榜）\n\n以下是今天的全网热搜。规则：\n1. 其中科技圈相关的大瓜/大佬/新品/翻车事件优先选用，source 字段必须填该素材的 url\n2. 热搜之外，你也可以结合你知识库里最近的科技圈大事件（大佬新动作/币圈人物/AI圈动态/程序员热梗）生成，不确定真实性的不写，source 留空 ""\n3. 与科技圈完全无关的纯娱乐/社会新闻跳过不用\n\n${lines}`;
 }
 
 /* ================================================================
@@ -1291,6 +1461,15 @@ async function main() {
     return;
   }
 
+  // --tech-sources 调试模式：只抓吃瓜频道素材（百度热搜/头条热榜）
+  if (process.argv.includes('--tech-sources')) {
+    const techTrends = await fetchTechTrends();
+    console.log(`\n[INFO] 吃瓜素材池共 ${techTrends.items.length} 条:`);
+    techTrends.items.forEach((it, i) => console.log(`  ${i + 1}. [${it.source}] ${it.title.slice(0, 60)}`));
+    console.log(`\n[INFO] 按源分布: ${JSON.stringify(techTrends.stats)}`);
+    return;
+  }
+
   const slot = SLOTS[slotKey];
 
   console.log('====================================');
@@ -1460,6 +1639,62 @@ async function main() {
     console.log(`====================================`);
   }
 
+  /* ---- 科技吃瓜内容生成（全部时段——早间同事聊瓜，晚间家庭闲聊照样有瓜） ---- */
+  {
+    console.log('\n====================================');
+    console.log('  科技吃瓜内容生成');
+    console.log('====================================');
+
+    // 抓取百度热搜 + 头条热榜作为吃瓜素材
+    let techTrendItems = [];
+    let techTrendStats = {};
+    console.log('[INFO] 抓取吃瓜素材（百度热搜 / 头条热榜）...');
+    const techTrends = await fetchTechTrends();
+    techTrendItems = techTrends.items;
+    techTrendStats = techTrends.stats;
+    console.log(`[INFO] 吃瓜素材就绪: ${techTrendItems.length} 条（${Object.entries(techTrendStats).map(([k, v]) => k + ':' + v).join(', ') || '无'}）`);
+
+    const { systemPrompt: tSystem, userPrompt: tUser } = buildTechPrompt(techTrendItems);
+    const tCats = Object.keys(TECH_CATEGORIES).length;
+    // 吃瓜频道首选 DeepSeek — 中文段子手，吃瓜幽默效果最好
+    const { content: tContent, meta: tMeta } = await generateContent(tSystem, tUser, tCats, ['deepseek/deepseek-chat']);
+    const tTotal = validateContent(tContent, tCats);
+
+    tContent.generated_at = new Date().toISOString();
+    tContent.slot = slotKey;
+    tContent.slot_label = slot.label;
+    tContent.meta = tMeta;
+    if (techTrendItems.length) {
+      tContent.meta.sources = { per_source: techTrendStats, total: techTrendItems.length };
+    }
+
+    // 确保 icon 字段存在
+    const tCatMap = {};
+    for (const [k, v] of Object.entries(TECH_CATEGORIES)) tCatMap[v.name] = v.icon;
+    for (const cat of tContent.categories) {
+      if (!cat.icon) cat.icon = tCatMap[cat.name] || '';
+    }
+
+    const techPath = join(dataDir, 'tech.json');
+    writeFileSync(techPath, JSON.stringify(tContent, null, 2));
+    console.log(`[OK] 已写入: ${techPath}`);
+
+    // 吃瓜归档
+    const tArchivePath = join(archiveDir, `${dateStr}-tech-${slotKey}.json`);
+    writeFileSync(tArchivePath, JSON.stringify(tContent, null, 2));
+    console.log(`[OK] 已归档: ${tArchivePath}`);
+
+    // 重建吃瓜历史索引（独立文件 data/tech-history.json）
+    const techHistory = rebuildHistory(dataDir, 'tech');
+    const techHistoryPath = join(dataDir, 'tech-history.json');
+    writeFileSync(techHistoryPath, JSON.stringify(techHistory, null, 2));
+    console.log(`[OK] 已更新吃瓜历史索引: ${techHistoryPath}（${techHistory.items.length} 条记录）`);
+
+    console.log(`\n====================================`);
+    console.log(`  科技吃瓜完成! 共 ${tTotal} 个话题`);
+    console.log(`====================================`);
+  }
+
   console.log(`\n====================================`);
   console.log(`  完成! 共 ${total} 个话题`);
   console.log(`====================================`);
@@ -1478,13 +1713,14 @@ function rebuildHistory(dataDir, viewFilter) {
     return { items: [], updated_at: new Date().toISOString() };
   }
 
-  // viewFilter: null = main (exclude parenting/wife), 'parenting' = only parenting, 'wife' = only wife
+  // viewFilter: null = main (exclude parenting/wife/tech), 'parenting' = only parenting, 'wife' = only wife, 'tech' = only tech
   const files = readdirSync(archiveDir)
     .filter(f => f.endsWith('.json'))
     .filter(f => {
       if (viewFilter === 'parenting') return f.includes('-parenting-');
       if (viewFilter === 'wife') return f.includes('-wife-');
-      return !f.includes('-parenting-') && !f.includes('-wife-');
+      if (viewFilter === 'tech') return f.includes('-tech-');
+      return !f.includes('-parenting-') && !f.includes('-wife-') && !f.includes('-tech-');
     })
     .sort()
     .reverse(); // 最新的在前
