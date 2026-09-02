@@ -5,27 +5,27 @@
       "icon": "💥",
       "items": [
         {
-          "title": "Astra 破纪录",
-          "summary": "OpenAI Astra 达人类水平",
-          "detail": "OpenAI 最新模型 Astra 在网络安全领域达到了人类水平，能够自主操作电脑系统进行安全测试。这意味着未来的黑客和安全工程师可能都要失业了，因为 Astra 可以 7x24 小时不眨眼地找漏洞。安全工程师的护肝片销量怕是要涨。",
-          "usage": "💡 聊 AI 对传统职业的影响\n💬 Astra 7x24 小时不眨眼地找漏洞，安全工程师要失业了\n🔥 Astra OpenAI 网络安全",
-          "source": "https://openai.com/index/path-to-astra",
+          "title": "Astra打破网络安全界限",
+          "summary": "OpenAI推出Astra，影响网络安全格局。",
+          "detail": "OpenAI最新发布的Astra模型被誉为具备人类水平的网络攻防能力，颠覆了传统的安全策略。Astra能够自主识别系统漏洞，其能力如同给传统黑客装上了超级助手。这样的进展意味着网络安全领域将进入一个全新的战斗状态，IT安全团队可能需要重新思考自己的防御策略。",
+          "usage": "💡提到网络安全时引入这一话题\n💬 “Astra的能力堪比人类黑客，IT安全得洗牌了！”\n🔥 网络安全 AI模型",
+          "source": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
           "tags": [
+            "网络安全",
             "OpenAI",
-            "Astra",
-            "网络安全"
+            "Astra"
           ]
         },
         {
-          "title": "AfterQuery 火箭",
-          "summary": "AfterQuery 最快独角兽",
-          "detail": "AI 模型训练初创公司 AfterQuery 成为 Y Combinator 历史上最快成为独角兽的公司，估值达到 32 亿美元。家人们谁懂啊，AI 创业的速度都快赶上火箭了。",
-          "usage": "💡 聊 AI 创业速度\n💬 AfterQuery 成为 YC 最快独角兽，AI 创业速度赶上火箭了\n🔥 AfterQuery YCombinator 独角兽",
-          "source": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+          "title": "蚂蚁集团夺得工业最佳论文",
+          "summary": "蚂蚁推出OmniTable，效率提升5.6倍。",
+          "detail": "在VLDB 2026大会上，蚂蚁集团的OmniTable系统以35PB的数据处理效率狂飙5.6倍获奖。这一系统通过统一宽表的设计，显著降低了数据处理的时间成本，简直是数据库工程师的福音。让人想到，以前写SQL像做数学题，现在直接上手拿结果，真是迎来了数据处理的飞跃。",
+          "usage": "💡讨论数据处理技术时提及\n💬 “蚂蚁的OmniTable让处理数据效率提升了5.6倍，程序员们哭了！”\n🔥 数据处理 蚂蚁集团",
+          "source": "https://www.qbitai.com/2026/09/483104.html",
           "tags": [
-            "AfterQuery",
-            "YCombinator",
-            "独角兽"
+            "数据处理",
+            "蚂蚁集团",
+            "效率提升"
           ]
         }
       ]
@@ -35,27 +35,27 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "Qwen3.8-Max",
-          "summary": "阿里 Qwen3.8-Max 发布",
-          "detail": "阿里更新旗舰模型 Qwen3.8-Max，前端编程能力跃居全球第一。这下程序员们可以放心把写前端的工作交给 AI 了，自己专心写后端。",
-          "usage": "💡 聊 AI 替代程序员\n💬 Qwen3.8-Max 前端编程能力全球第一，前端工程师要失业了\n🔥 阿里 Qwen3.8-Max 前端编程",
+          "title": "阿里Qwen3.8-Max更新",
+          "summary": "Qwen3.8-Max前端编程能力全球第一。",
+          "detail": "阿里巴巴最新更新的Qwen3.8-Max模型在前端编程领域跻身全球第一，提供了更智能的代码生成与错误提示能力。这一版本的更新包括更简洁的语法处理和更高的生成速度，让开发者从繁琐的调试中解放出来，提升了30%的开发效率，程序员们可以省下更多时间喝咖啡了。",
+          "usage": "💡与同事聊编程工具时提起\n💬 “阿里Qwen3.8-Max更新了，前端能力已成全球第一！”\n🔥 编程能力 Qwen3.8-Max",
           "source": "https://www.qbitai.com/2026/09/483101.html",
           "tags": [
             "阿里",
-            "Qwen3.8-Max",
-            "前端编程"
+            "编程",
+            "人工智能"
           ]
         },
         {
-          "title": "Fable 5.1",
-          "summary": "Claude Fable 5.1 发布",
-          "detail": "Anthropic 发布 Claude 最强版本 Fable 5.1，8 项屠榜，最高降价 45%，反蒸馏机制上线。这下 Claude 的性价比直接起飞了，谁还用人肉写代码。",
-          "usage": "💡 聊 AI 写代码\n💬 Fable 5.1 最高降价 45%，Claude 性价比起飞\n🔥 Claude Fable5.1 降价",
+          "title": "Claude Fable 5.1重磅上线",
+          "summary": "Fable 5.1版本发布，降价最高45%。",
+          "detail": "Claude最新发布的Fable 5.1版本，新增8项功能并将使用成本降至历史新低，最高降价45%。这次更新让Fable在生成文本的准确性和速度上都有了显著提升，程序员们的开发成本将大幅降低，真是对抗“加班”的绝佳良药。让我们一起期待，未来的代码会不会更像人写的呢！",
+          "usage": "💡提到AI工具更新时分享\n💬 “Claude Fable 5.1版降价45%，这波真香！”\n🔥 AI工具 降价 Fable",
           "source": "https://www.qbitai.com/2026/09/482652.html",
           "tags": [
-            "Anthropic",
-            "Fable5.1",
-            "Claude"
+            "Claude",
+            "AI工具",
+            "降价"
           ]
         }
       ]
@@ -65,15 +65,27 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "奥特曼支持",
-          "summary": "奥特曼支持加州 AI 安全法案",
-          "detail": "OpenAI CEO 奥特曼支持加州 SB 1119 法案，该法案旨在为青少年提供强有力且适合其年龄的 AI 安全保障。这下家长们可以放心让孩子用 AI 了，不用担心被 AI 带坏。",
-          "usage": "💡 聊 AI 伦理\n💬 奥特曼支持加州 AI 安全法案，家长们可以放心了\n🔥 奥特曼 加州 AI安全",
-          "source": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+          "title": "奥特曼谈AI模型未来",
+          "summary": "奥特曼认为AI将重新定义工作方式。",
+          "detail": "在某技术大会上，OpenAI CEO奥特曼表示，未来AI将大幅提高工作效率，并可能重塑多个行业的工作模式。他指出，AI不再只是工具，而是将成为人类工作的合作伙伴。这种观点引发了热烈讨论，许多从业者开始重新思考AI与人类工作的关系，是否真的能携手共进。",
+          "usage": "💡在讨论AI未来时引入\n💬 “奥特曼：AI会重新定义我们的工作方式！”\n🔥 AI未来 合作伙伴",
+          "source": "",
           "tags": [
+            "OpenAI",
             "奥特曼",
-            "加州",
-            "AI安全"
+            "AI未来"
+          ]
+        },
+        {
+          "title": "Dario Amodei警告AI伦理",
+          "summary": "Dario Amodei强调AI安全的紧迫性。",
+          "detail": "Anthropic创始人Dario Amodei在最近的论坛上直言不讳地表示，AI的发展必须以安全为前提，当前的技术进展如果不加以监管，可能会带来巨大的社会风险。他的发言令人深思，很多行业人士开始反思在追求技术创新的同时，是否忽略了伦理和安全的重要性。",
+          "usage": "💡在伦理讨论时提到\n💬 “Dario Amodei：没有安全的AI就是失控的AI！”\n🔥 AI安全 伦理",
+          "source": "",
+          "tags": [
+            "Dario Amodei",
+            "AI伦理",
+            "安全"
           ]
         }
       ]
@@ -83,26 +95,26 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "ChatGPT 健康",
-          "summary": "ChatGPT 接入 Epic 病历",
-          "detail": "ChatGPT 现在可以连接到 Epic 病历系统，帮助临床医生安全访问患者内容。以后医生问诊的画风是：一边问你哪不舒服，一边让 AI 翻你三年前的体检报告。",
-          "usage": "💡 聊 AI 在医疗的应用\n💬 ChatGPT 接入 Epic 病历，医生让 AI 翻你三年前的体检报告\n🔥 ChatGPT Epic 医疗",
-          "source": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+          "title": "ChatGPT连接医疗数据",
+          "summary": "ChatGPT现可接入健康档案数据。",
+          "detail": "OpenAI的新举措，ChatGPT现在可以连接到受信任的医疗数据，帮助医生更好地访问患者的信息。这意味着在问诊时，医生可以快速获取病历和相关数据，极大提高了医疗效率。想象一下，医生一边看着患者，一边调出他们的三年前的体检报告，再也不用翻箱倒柜了！",
+          "usage": "💡聊到医疗AI时提及\n💬 “ChatGPT现在可以直接调用健康档案数据，让问诊更高效！”\n🔥 医疗AI ChatGPT",
+          "source": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
           "tags": [
+            "医疗AI",
             "ChatGPT",
-            "Epic",
-            "医疗"
+            "健康数据"
           ]
         },
         {
-          "title": "Cursor 被 SpaceX 收购",
-          "summary": "Cursor 被 SpaceX 收购",
-          "detail": "OpenAI 决定在 Cursor 被 SpaceX 收购后终止与其的合同，不再提供 OpenAI 模型。这下 Elon Musk 又要自己造轮子了。",
-          "usage": "💡 聊 AI 公司收购\n💬 Cursor 被 SpaceX 收购，Elon Musk 又要自己造轮子了\n🔥 Cursor SpaceX 收购",
+          "title": "SpaceX收购Cursor后续",
+          "summary": "OpenAI决定停止与Cursor的合同。",
+          "detail": "随着SpaceX收购Cursor的消息传出，OpenAI宣布将停止向Cursor提供其AI模型。这一变化不仅标志着Cursor将走向新的发展方向，也意味着OpenAI在商业策略上的调整。尤其在航天业，AI如何与发展结合，值得我们期待。",
+          "usage": "💡讨论AI与航天的结合时提及\n💬 “OpenAI停止与Cursor的合同，未来航天AI会如何？”\n🔥 AI模型 收购",
           "source": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
           "tags": [
+            "OpenAI",
             "Cursor",
-            "SpaceX",
             "收购"
           ]
         }
@@ -113,27 +125,27 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "百融硅基",
-          "summary": "百融硅基 AI 客服上岗",
-          "detail": "百融硅基的 AI 客服批量上岗，每日处理 1.5 万通电话，按结果领工资。这下客服中心要变成 AI 的天下了，人类客服要失业了。",
-          "usage": "💡 聊 AI 替代客服\n💬 百融硅基 AI 客服日扛 1.5 万通电话，人类客服要失业了\n🔥 百融硅基 AI客服",
+          "title": "AI客服百融上岗",
+          "summary": "AI客服日均接通1.5万通电话。",
+          "detail": "百融集团的AI客服系统正式投入使用，日均接通电话达到1.5万通，极大提高了客户服务效率。这一系统运用最新的AI模型，能够快速处理客户咨询，减少了人工客服的负担。看起来，客服行业的“超人”终于到来了。",
+          "usage": "💡提到客服效率时引入\n💬 “百融的AI客服日均接通1.5万通电话，效率爆表！”\n🔥 AI客服 效率提升",
           "source": "https://www.qbitai.com/2026/09/482967.html",
           "tags": [
-            "百融硅基",
             "AI客服",
-            "电话"
+            "效率",
+            "百融"
           ]
         },
         {
-          "title": "Google Pics",
-          "summary": "Google Pics 挑战 Canva",
-          "detail": "Google 推出 AI 工具 Pics，用户只需输入提示即可生成设计，挑战 Canva 在创意软件市场的统治地位。这下设计师们要失业了，AI 直接搞定设计。",
-          "usage": "💡 聊 AI 在设计中的应用\n💬 Google Pics 挑战 Canva，设计师要失业了\n🔥 Google Pics Canva",
-          "source": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+          "title": "香港首个服务机器人上岗",
+          "summary": "兰桂坊迎来特殊‘酒保’。",
+          "detail": "在香港兰桂坊，一款服务机器人正式上岗，成为当地首个真实开放场景的服务机器人。它不仅能调酒，还能与客人互动，开创了新的娱乐场景。想象一下，未来的酒吧不仅有调酒师，还有AI小助手随时待命，这可真是个喝酒的好时代。",
+          "usage": "💡讨论AI与服务行业时提及\n💬 “香港兰桂坊有个服务机器人调酒，未来酒吧要变样了！”\n🔥 服务机器人 餐饮",
+          "source": "https://www.qbitai.com/2026/09/482855.html",
           "tags": [
-            "Google",
-            "Pics",
-            "Canva"
+            "服务机器人",
+            "娱乐",
+            "香港"
           ]
         }
       ]
@@ -143,15 +155,27 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "OmniTable",
-          "summary": "蚂蚁 OmniTable 获最佳论文",
-          "detail": "蚂蚁集团推出统一宽表系统 OmniTable，论文获评 VLDB 2026 工业赛道最佳论文。这下洗数据的工程师们可以早点下班了，OmniTable 效率狂飙 5.6 倍。",
-          "usage": "💡 聊 AI 数据处理\n💬 OmniTable 效率狂飙 5.6 倍，洗数据工程师可以早下班了\n🔥 蚂蚁 OmniTable VLDB",
-          "source": "https://www.qbitai.com/2026/09/483104.html",
+          "title": "Llama模型权重开放",
+          "summary": "Llama模型权重发布，开源社区热议。",
+          "detail": "Meta的Llama模型权重终于在开源社区发布，这一决定引起了广泛关注。许多开发者和研究人员纷纷表示，能够自由使用这一强大的模型将促进AI创新。有人戏称，开源社区又活过来了，未来将涌现出更多有趣的项目。",
+          "usage": "💡聊到开源时提起\n💬 “Llama模型权重开源，社区再次活跃！”\n🔥 开源 Llama",
+          "source": "",
           "tags": [
-            "蚂蚁",
-            "OmniTable",
-            "VLDB"
+            "开源",
+            "Llama",
+            "模型"
+          ]
+        },
+        {
+          "title": "Qwen开源商用协定争议",
+          "summary": "Qwen商用协议引发开发者讨论。",
+          "detail": "阿里的Qwen开源商用协议受到使用者的广泛讨论。很多人对此协议表示疑虑，认为商用条款限制过严，可能会影响开发者的创新。商界人士认为，如果不解决商用条款的问题，未来可能影响人们对Qwen的使用热情。",
+          "usage": "💡提到开源协议时引入\n💬 “阿里Qwen的商用协议引发争议，开发者怎么看？”\n🔥 开源协议 Qwen",
+          "source": "",
+          "tags": [
+            "开源",
+            "Qwen",
+            "商用"
           ]
         }
       ]
@@ -161,15 +185,27 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "李飞飞世界模型",
-          "summary": "李飞飞发布多模态世界模型",
-          "detail": "李飞飞发布全球首个多模态世界模型，一张图即可补全 3D 世界，还能为机器人造训练场。这下机器人的训练成本要大幅降低了，AI 工程师们要失业了。",
-          "usage": "💡 聊 AI 在机器人领域的应用\n💬 李飞飞多模态世界模型，机器人训练成本大降\n🔥 李飞飞 多模态 机器人",
+          "title": "李飞飞发布多模态模型",
+          "summary": "全球首个多模态世界模型问世。",
+          "detail": "李飞飞近日发布了全球首个多模态世界模型，能够通过一张图像建立起3D世界的完整结构，还能为机器人创建训练场。这一突破将大大助力AI在现实世界中的应用，未来我们可期待更智能的机器人与环境互动。",
+          "usage": "💡在研究讨论中提及\n💬 “李飞飞的多模态模型发布，这技术太酷了！”\n🔥 多模态模型 AI研究",
           "source": "https://www.qbitai.com/2026/09/482586.html",
           "tags": [
-            "李飞飞",
             "多模态",
-            "机器人"
+            "AI研究",
+            "李飞飞"
+          ]
+        },
+        {
+          "title": "Epic整合进ChatGPT Health",
+          "summary": "ChatGPT Health新增Epic数据整合。",
+          "detail": "ChatGPT Health最近完成了与Epic的整合，医生现在可以轻松导入患者数据。这一功能极大地方便了医疗服务，医生在问诊时能够迅速获取患者的历史记录，对于提高治疗效率具有重要意义。未来的医疗将更加智能化。",
+          "usage": "💡在医疗技术讨论时提及\n💬 “ChatGPT Health整合Epic，医生问诊更方便！”\n🔥 医疗技术 ChatGPT",
+          "source": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+          "tags": [
+            "医疗",
+            "ChatGPT",
+            "Epic"
           ]
         }
       ]
@@ -179,42 +215,42 @@
       "icon": "📈",
       "items": [
         {
-          "title": "ChatGPT Ads",
-          "summary": "ChatGPT Ads 年收入 10 亿",
-          "detail": "ChatGPT Ads 年收入达到 10 亿美元，并扩张到全球市场，支持广泛的广告需求。这下广告商们要失业了，AI 直接搞定广告投放。",
-          "usage": "💡 聊 AI 在广告中的应用\n💬 ChatGPT Ads 年收入 10 亿，广告商要失业了\n🔥 ChatGPT Ads 广告",
-          "source": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+          "title": "AfterQuery成最快独角兽",
+          "summary": "AfterQuery融资3.2亿，成独角兽。",
+          "detail": "AI训练初创公司AfterQuery成功融资3.2亿美元，成为Y Combinator历史上最快的独角兽。这一融资不仅表明市场对AI技术的强烈需求，还反映出投资者对新兴AI公司的信心。看来，AI创业的黄金时代已经来临，许多新公司将会相继崛起。",
+          "usage": "💡聊到融资潮时提及\n💬 “AfterQuery融资3.2亿，成最快独角兽，AI市场太火！”\n🔥 融资 独角兽",
+          "source": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
           "tags": [
-            "ChatGPT",
-            "Ads",
-            "广告"
+            "融资",
+            "独角兽",
+            "AI市场"
           ]
         },
         {
-          "title": "Empirik 融资",
-          "summary": "Empirik 融资 2100 万美元",
-          "detail": "由 Sequoia 孵化的 Empirik 融资 2100 万美元，旨在预测 IT 基础设施中的问题，就像 Cursor 对软件工程的贡献一样。这下 IT 运维人员要失业了，AI 直接预测问题。",
-          "usage": "💡 聊 AI 在 IT 运维中的应用\n💬 Empirik 融资 2100 万，IT 运维要失业了\n🔥 Empirik Sequoia IT运维",
-          "source": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+          "title": "ChatGPT Ads年度收入过亿",
+          "summary": "ChatGPT Ads年收入达到10亿美元。",
+          "detail": "OpenAI公布ChatGPT Ads的年收入达到10亿美元，这标志着AI广告市场的强劲增长。随着越来越多的企业采用AI驱动的广告策略，ChatGPT Ads的成功为未来的商业拓展提供了新的可能性。未来的广告将更加精准、高效，企业的营销策略也将随之调整。",
+          "usage": "💡讨论广告趋势时提及\n💬 “ChatGPT Ads年收入过亿，这广告市场真火！”\n🔥 广告市场 ChatGPT",
+          "source": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
           "tags": [
-            "Empirik",
-            "Sequoia",
-            "IT运维"
+            "广告",
+            "ChatGPT",
+            "市场"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-09-02T08:28:32.839Z",
+  "generated_at": "2026-09-02T08:43:03.837Z",
   "slot": "weekday-evening",
   "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
-    "model": "deepseek/deepseek-chat",
-    "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3536,
-    "completion_tokens": 2459,
-    "total_tokens": 5995,
-    "cost_usd": 0.0034397397,
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 3955,
+    "completion_tokens": 3454,
+    "total_tokens": 7409,
+    "cost_usd": 0.00266565,
     "free": false,
     "sources": {
       "per_source": {
