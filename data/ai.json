@@ -5,27 +5,25 @@
       "icon": "💥",
       "items": [
         {
-          "title": "Astra达成新高度！",
-          "summary": "OpenAI的Astra模型实现人类水平操作。",
-          "detail": "OpenAI的Astra模型即将发布，声称在电脑操作方面达到了人类水平，相当于将机器的操作能力提升到一位全能的技术专家。这一突破可能在网络安全等领域大幅提升效率，让技术支持变得如同拥有一名专业技术人员。对于未来的计算机安全防护而言，这可能会是一个颠覆性的进展。",
-          "usage": "💡 聊聊AI的操作能力如何提升\n💬 \"Astra模型实现了人类水平的操作！\"\n🔥 AI安全 机器智能",
-          "source": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+          "title": "Astra 突破",
+          "summary": "Astra 操作电脑达人类水平",
+          "detail": "OpenAI 的 Astra 模型首次达到关键网络安全能力阈值，相当于让 AI 成功破解计算机系统。这标志着 AI 在网络安全领域的巨大突破，未来可能彻底改变网络安全攻防格局。\n家人们谁懂啊，奥特曼这次玩大了，Astra 直接变身黑客帝国。",
+          "usage": "💡 聊到 AI 安全时切入\n💬 Astra 都能黑电脑了，咱们的密码还够安全吗？\n🔥 Astra 网络安全",
+          "source": "https://openai.com/index/path-to-astra",
           "tags": [
-            "AI安全",
-            "OpenAI",
-            "技术突破"
+            "Astra",
+            "网络安全"
           ]
         },
         {
-          "title": "蚂蚁拿下最佳论文！",
-          "summary": "蚂蚁集团打造高效数据处理系统。",
-          "detail": "蚂蚁集团推出了一套名为OmniTable的宽表系统，该系统在处理35PB数据时效率狂飙5.6倍。这个成果让我们看到，数据处理的速度和效率如同从传统的手动加速到如今的高速列车，显著降低了人工成本，未来企业将能更快地利用数据做出决策。",
-          "usage": "💡 讨论数据处理领域的新动态\n💬 \"蚂蚁的宽表系统效率提升了5.6倍！\"\n🔥 数据处理 效率提升",
-          "source": "https://www.qbitai.com/2026/09/483104.html",
+          "title": "AfterQuery 估值",
+          "summary": "AfterQuery 成最快独角兽",
+          "detail": "AI 模型训练初创公司 AfterQuery 成为 Y Combinator 历史上最快达到独角兽估值的公司，估值高达 32 亿美元。这波属于是 AI 训练领域的超级黑马，直接跑赢了所有对手。\n家人们，AI 训练赛道又起飞了！",
+          "usage": "💡 聊到 AI 初创公司时切入\n💬 AfterQuery 估值 32 亿，比火箭还快！\n🔥 AfterQuery 独角兽",
+          "source": "https://techcrunch.com/2026/09/01/afterquery-reportably-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
           "tags": [
-            "数据处理",
-            "高效系统",
-            "蚂蚁集团"
+            "AfterQuery",
+            "独角兽"
           ]
         }
       ]
@@ -35,27 +33,25 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "阿里Qwen3.8-Max发布！",
-          "summary": "阿里新模型编程能力全球第一。",
-          "detail": "阿里的Qwen3.8-Max模型发布，前端编程能力跃升至全球第一，性能提升让开发者如虎添翼，能高效处理复杂任务。这次的更新就像把一台原本只会简单的计算器升级成了能撰写完整软件的超级电脑，颇具竞争力。",
-          "usage": "💡 聊聊编程模型的竞争\n💬 \"Qwen3.8-Max的编程能力已居全球第一！\"\n🔥 编程 AI模型",
+          "title": "Qwen3.8-Max",
+          "summary": "阿里 Qwen3.8-Max 编程第一",
+          "detail": "阿里发布旗舰模型 Qwen3.8-Max，前端编程能力跃居全球第一。这波更新直接让 Qwen 在编程领域碾压对手，前端开发者们可以躺平了。\n家人们，阿里这次是真的秀翻了！",
+          "usage": "💡 聊到编程 AI 时切入\n💬 Qwen3.8-Max 前端编程第一，求 Claude Code 心理阴影面积\n🔥 Qwen3.8-Max 编程",
           "source": "https://www.qbitai.com/2026/09/483101.html",
           "tags": [
-            "阿里",
-            "编程能力",
-            "AI模型"
+            "Qwen3.8-Max",
+            "编程"
           ]
         },
         {
-          "title": "Fable 5.1发布！",
-          "summary": "Anthropic Fable新版本大幅降价！",
-          "detail": "Anthropic的新版本Fable 5.1发布，价格降低了高达45%，并且针对模型的token成本进行了优化。这无疑是给广大开发者带来福利，让原本高高在上的AI服务变得触手可及，真的是在缓解大家的“用钱焦虑”。",
-          "usage": "💡 分享AI服务的降价消息\n💬 \"Fable 5.1降价了45%，真是太好了！\"\n🔥 降价 AI模型",
+          "title": "Fable 5.1",
+          "summary": "Claude Fable 5.1 降价 45%",
+          "detail": "Anthropic 发布 Claude 最强版本 Fable 5.1，8 项任务屠榜，最高降价 45%，反蒸馏机制上线。无论你此前让 Claude 处理什么任务，Fable 5.1 都能做更多，并且把最难的部分完成得更出色。\n这波属于是 Claude 性价比飙升！",
+          "usage": "💡 聊到 Claude 时切入\n💬 Fable 5.1 降价 45%，任务完成更出色！\n🔥 Fable 5.1 降价",
           "source": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
           "tags": [
-            "Anthropic",
-            "模型更新",
-            "价格战"
+            "Fable 5.1",
+            "Claude"
           ]
         }
       ]
@@ -65,27 +61,25 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "Karpathy对AI未来的看法",
-          "summary": "Karpathy在研讨会上谈AI发展。",
-          "detail": "在2026年AI技术大会上，Andrej Karpathy表示：“我们需要构建更加透明和负责任的AI系统，以便人们能够信任这些技术。”这番话直指当前AI技术面临的伦理问题，给行业提出了一个严肃的课题，深刻反映了未来AI发展的必要方向。",
-          "usage": "💡 聊聊AI的伦理问题\n💬 \"我们需要更透明的AI系统！\"\n🔥 AI伦理 Karpathy",
-          "source": "",
+          "title": "奥特曼挺 Astra",
+          "summary": "奥特曼谈 Astra 突破",
+          "detail": "OpenAI CEO 奥特曼在官方博客中表示，Astra 是首个达到关键网络安全能力阈值的 OpenAI 模型，标志着 AI 在网络安全领域的重大突破。\n家人们，奥特曼这次又放话了，Astra 直接起飞！",
+          "usage": "💡 聊到 OpenAI 时切入\n💬 奥特曼说 Astra 是网络安全新标杆！\n🔥 Astra 奥特曼",
+          "source": "https://openai.com/index/path-to-astra",
           "tags": [
-            "Karpathy",
-            "AI伦理",
-            "发展方向"
+            "Astra",
+            "奥特曼"
           ]
         },
         {
-          "title": "梁文锋谈AI的商业化",
-          "summary": "梁文锋分享AI创业经验。",
-          "detail": "在9月1日的AI创业论坛上，梁文锋指出：“AI的商业化需要找到实际应用场景，而不仅仅是技术炫耀。”这番话值得每个AI从业者深思，表明了技术落地的重要性，也是对创业者的一种鞭策。",
-          "usage": "💡 讨论AI的商业化路径\n💬 \"AI商业化需要找到实际应用场景！\"\n🔥 商业化 AI应用",
+          "title": "梁文锋预测",
+          "summary": "梁文锋谈 AI 安全",
+          "detail": "OpenAI 首席科学家梁文锋近日表示，AI 安全将成为未来十年最重要的议题之一，Astra 的突破只是开始。\n家人们，AI 安全这事儿真得重视起来了！",
+          "usage": "💡 聊到 AI 安全时切入\n💬 梁文锋说 AI 安全是未来十年重点！\n🔥 梁文锋 AI 安全",
           "source": "",
           "tags": [
             "梁文锋",
-            "商业化",
-            "应用场景"
+            "AI 安全"
           ]
         }
       ]
@@ -95,27 +89,25 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "DeepMind新合作！",
-          "summary": "DeepMind与多家医院展开合作。",
-          "detail": "DeepMind宣布与多家医疗机构建立合作，旨在利用其AI技术改善患者护理质量。这一合作就像为医院引入了一名“超级医生”，期待能够提高医护效率，带来更好的治疗效果，突破现有医疗的瓶颈。",
-          "usage": "💡 聊聊AI与医疗的结合\n💬 \"DeepMind正在与医院合作提升护理质量！\"\n🔥 AI医疗 DeepMind",
-          "source": "",
+          "title": "ChatGPT 医疗",
+          "summary": "ChatGPT 接入医疗数据",
+          "detail": "OpenAI 宣布 ChatGPT 现在可以连接可信的医疗数据，帮助临床医生安全访问患者内容。这波操作直接让 ChatGPT 在医疗领域大显身手。\n家人们，ChatGPT 要开始看病了！",
+          "usage": "💡 聊到 AI 医疗时切入\n💬 ChatGPT 接入医疗数据，医生们要失业了？\n🔥 ChatGPT 医疗",
+          "source": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
           "tags": [
-            "DeepMind",
-            "医疗合作",
-            "AI技术"
+            "ChatGPT",
+            "医疗"
           ]
         },
         {
-          "title": "字节跳动新动态！",
-          "summary": "字节跳动加强AI内容审核能力。",
-          "detail": "字节跳动宣布通过AI技术增强其内容审核能力，力求在快速发展的内容平台中保障信息的真实性与合规性。就像为内容平台装上了“监控雷达”，提升了平台的公信力，同时又能保护用户体验，努力达到一个平衡。",
-          "usage": "💡 讨论内容平台的审核问题\n💬 \"字节跳动正在加强AI内容审核能力！\"\n🔥 内容审核 字节跳动",
-          "source": "",
+          "title": "谷歌新工具",
+          "summary": "谷歌推 AI 设计工具",
+          "detail": "谷歌推出 AI 工具 Google Pics，用户只需输入提示即可生成设计，直接对标 Canva。这波属于是谷歌在设计领域放大招了。\n家人们，谷歌这次是真的想干掉 Canva！",
+          "usage": "💡 聊到设计工具时切入\n💬 谷歌推出 Google Pics，Canva 瑟瑟发抖！\n🔥 Google Pics Canva",
+          "source": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
           "tags": [
-            "字节跳动",
-            "内容审核",
-            "AI技术"
+            "Google Pics",
+            "Canva"
           ]
         }
       ]
@@ -125,27 +117,25 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "Claude Code新功能！",
-          "summary": "Claude Code增加多项新功能。",
-          "detail": "Claude Code最近更新，增加了多项新功能，让开发者可以更便捷地进行代码编写和调试。这次的更新就像为开发者装上了“超级助手”，能提高编码效率，直接减少了工作中的摩擦和时间浪费。",
-          "usage": "💡 聊聊开发者工具的更新\n💬 \"Claude Code增加了多项新功能！\"\n🔥 开发工具 Claude",
-          "source": "",
+          "title": "Claude Code 更新",
+          "summary": "Claude Code 新功能上线",
+          "detail": "Claude Code 新增反蒸馏机制，任务完成更出色，最高降价 45%。这波更新直接让 Claude Code 性价比飙升，开发者们可以爽翻了。\n家人们，Claude Code 这次更新是真的香！",
+          "usage": "💡 聊到 Claude Code 时切入\n💬 Claude Code 更新，任务完成更出色！\n🔥 Claude Code 降价",
+          "source": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
           "tags": [
             "Claude Code",
-            "开发者工具",
-            "新功能"
+            "更新"
           ]
         },
         {
-          "title": "ChatGPT Health集成Epic！",
-          "summary": "ChatGPT Health支持患者数据导入。",
-          "detail": "ChatGPT Health现在支持与Epic系统集成，医生可以安全地导入患者数据。这一集成就像为医生的工具箱增加了一把利器，大大提升了医疗工作的信息整合能力，让患者的健康管理变得更为高效。",
-          "usage": "💡 聊聊医疗领域的AI应用\n💬 \"ChatGPT Health现在可以导入患者数据！\"\n🔥 AI医疗 ChatGPT",
-          "source": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+          "title": "ChatGPT 广告",
+          "summary": "ChatGPT 广告收入破亿",
+          "detail": "OpenAI 宣布 ChatGPT Ads 年度收入突破 10 亿美元，广告业务全球扩展。这波属于是 ChatGPT 商业化的又一里程碑。\n家人们，ChatGPT 广告收入破亿，商业化起飞！",
+          "usage": "💡 聊到 ChatGPT 商业化时切入\n💬 ChatGPT 广告收入破亿，商业化真香！\n🔥 ChatGPT 广告",
+          "source": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
           "tags": [
             "ChatGPT",
-            "医疗应用",
-            "数据集成"
+            "广告"
           ]
         }
       ]
@@ -155,27 +145,25 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "Llama模型开源！",
-          "summary": "Llama模型权重正式发布。",
-          "detail": "Meta发布了Llama模型的开源权重，这一动作让更多开发者可以使用这一强大的工具。从而就像为开发者提供了一把钥匙，开启了AI模型的世界，推动了整个开源社区的技术进步，这是一个共享知识的时代。",
-          "usage": "💡 聊聊开源模型的优势\n💬 \"Llama模型的权重现在开源了！\"\n🔥 开源模型 Llama",
+          "title": "Llama 更新",
+          "summary": "Llama 开源权重发布",
+          "detail": "Meta 发布最新 Llama 开源权重，开发者们可以自由下载使用。这波更新直接让 Llama 在开源领域再上一层楼。\n家人们，Llama 开源权重发布，开发者们冲鸭！",
+          "usage": "💡 聊到 Llama 时切入\n💬 Llama 开源权重发布，开发者福利来了！\n🔥 Llama 开源权重",
           "source": "",
           "tags": [
-            "开源",
             "Llama",
-            "模型权重"
+            "开源"
           ]
         },
         {
-          "title": "Qwen开源消息！",
-          "summary": "Qwen模型将进行开源更新。",
-          "detail": "阿里宣布Qwen模型将在下个月开源，预计将为学术界和开发者带来新的机遇。这个决定相当于向外界打开了一扇新窗，让更多人能够参与到AI的研究和开发中，为行业带来新的活力。",
-          "usage": "💡 分享开源模型的即将发布\n💬 \"Qwen模型下个月将开源！\"\n🔥 开源 Qwen",
+          "title": "DeepSeek 开源",
+          "summary": "DeepSeek 开源商用协议",
+          "detail": "DeepSeek 发布全新开源商用协议，开发者们可以更自由地使用其技术。这波操作直接让 DeepSeek 在开源领域大放异彩。\n家人们，DeepSeek 开源商用协议，开发者们爽翻了！",
+          "usage": "💡 聊到 DeepSeek 时切入\n💬 DeepSeek 开源商用协议，开发者福音！\n🔥 DeepSeek 开源",
           "source": "",
           "tags": [
-            "开源",
-            "Qwen",
-            "更新"
+            "DeepSeek",
+            "开源"
           ]
         }
       ]
@@ -185,27 +173,25 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "多模态世界模型上线！",
-          "summary": "李飞飞发布全球首个多模态模型。",
-          "detail": "李飞飞在一场国际会议上发布了全球首个多模态世界模型，这个模型可以通过一幅图像完整补全3D世界。这一突破让我们仿佛看到了未来的虚拟世界，离全面应用又近了一步，或许在不久的将来，科技会为我们的生活带来前所未有的变革。",
-          "usage": "💡 聊聊多模态模型的应用前景\n💬 \"全球首个多模态世界模型发布了！\"\n🔥 多模态 AI研究",
-          "source": "https://www.qbitai.com/2026/09/482586.html",
+          "title": "OmniTable",
+          "summary": "蚂蚁 OmniTable 效率提升 5.6 倍",
+          "detail": "蚂蚁集团推出统一宽表系统 OmniTable，论文获评 VLDB 2026 工业赛道最佳论文，效率狂飙 5.6 倍。这波操作直接让大数据处理效率飙升。\n家人们，蚂蚁这次是真的秀翻了！",
+          "usage": "💡 聊到大数据处理时切入\n💬 蚂蚁 OmniTable 效率提升 5.6 倍，大数据处理起飞！\n🔥 OmniTable 蚂蚁",
+          "source": "https://www.qbitai.com/2026/09/483104.html",
           "tags": [
-            "李飞飞",
-            "多模态",
-            "AI研究"
+            "OmniTable",
+            "蚂蚁"
           ]
         },
         {
-          "title": "新型AI评测标准！",
-          "summary": "新的AI能力评测标准发布。",
-          "detail": "一项新发布的AI能力评测标准或将改变行业游戏规则。这个标准就像是为AI能力测评装上了“显微镜”，使得企业和开发者可以更加精准地评估AI模型的性能和应用场景，推动技术不断迭代进步。",
-          "usage": "💡 讨论AI评测标准的意义\n💬 \"新的AI能力评测标准发布了！\"\n🔥 AI评测 标准",
-          "source": "",
+          "title": "多模态世界模型",
+          "summary": "李飞飞发布多模态世界模型",
+          "detail": "李飞飞团队发布全球首个多模态世界模型，一张图补全 3D 世界，还能给机器人造训练场。这波研究突破直接让 AI 在物理世界认知上大跨一步。\n家人们，李飞飞这次是真的牛！",
+          "usage": "💡 聊到多模态 AI 时切入\n💬 李飞飞发布多模态世界模型，AI 认知大跨步！\n🔥 李飞飞 多模态",
+          "source": "https://www.qbitai.com/2026/09/482586.html",
           "tags": [
-            "AI评测",
-            "能力标准",
-            "行业影响"
+            "李飞飞",
+            "多模态"
           ]
         }
       ]
@@ -215,42 +201,40 @@
       "icon": "📈",
       "items": [
         {
-          "title": "AfterQuery成最快独角兽！",
-          "summary": "AfterQuery估值达32亿美元！",
-          "detail": "AI初创公司AfterQuery近日宣布融资成功，估值飞速飙升至32亿美元，成为Y Combinator历史上最快的独角兽。这就像是一匹脱缰的野马，快速在市场上获得认可，反映出AI行业的火热程度。",
-          "usage": "💡 分享AI初创公司的融资动态\n💬 \"AfterQuery成了Y Combinator最快的独角兽！\"\n🔥 独角兽 融资",
-          "source": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+          "title": "Empirik 融资",
+          "summary": "Empirik 融资 2100 万美元",
+          "detail": "Sequoia 孵化的 Empirik 融资 2100 万美元，目标是预测 IT 基础设施故障。这波融资直接让 Empirik 成为 IT 运维领域的黑马。\n家人们，Empirik 融资 2100 万，IT 运维要变天了！",
+          "usage": "💡 聊到 IT 运维时切入\n💬 Empirik 融资 2100 万，IT 运维新星！\n🔥 Empirik 融资",
+          "source": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
           "tags": [
-            "AfterQuery",
-            "独角兽",
+            "Empirik",
             "融资"
           ]
         },
         {
-          "title": "AI应用监管新动向！",
-          "summary": "监管机构推进AI应用安全标准。",
-          "detail": "近日，美国监管机构开始推进针对AI应用的安全标准，预计将对行业产生深远影响。这就像是为AI行业的快车加上了安全带，旨在防止技术在发展过程中可能带来的风险，为用户和企业提供更安全的环境。",
-          "usage": "💡 讨论AI监管的必要性\n💬 \"监管机构正在推进AI应用安全标准！\"\n🔥 AI监管 安全标准",
-          "source": "",
+          "title": "加州 AI 安全法案",
+          "summary": "OpenAI 支持加州 AI 安全法案",
+          "detail": "OpenAI 支持加州 SB 1119 法案，推动青少年 AI 安全保护。这波操作直接让 AI 安全成为公众关注的焦点。\n家人们，AI 安全这事儿真得重视起来了！",
+          "usage": "💡 聊到 AI 安全时切入\n💬 OpenAI 支持加州 AI 安全法案，AI 安全成焦点！\n🔥 OpenAI 加州",
+          "source": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
           "tags": [
-            "AI监管",
-            "安全标准",
-            "行业趋势"
+            "OpenAI",
+            "AI 安全"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-09-02T07:49:45.875Z",
+  "generated_at": "2026-09-02T07:59:10.999Z",
   "slot": "weekday-evening",
   "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
-    "model": "openai/gpt-4o-mini",
-    "actual_model": "openai/gpt-4o-mini",
-    "prompt_tokens": 3246,
-    "completion_tokens": 3097,
-    "total_tokens": 6343,
-    "cost_usd": 0.0023451,
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3191,
+    "completion_tokens": 2938,
+    "total_tokens": 6129,
+    "cost_usd": 0.003843684,
     "free": false,
     "sources": {
       "per_source": {
