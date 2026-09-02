@@ -84,16 +84,28 @@ const WIFE_CATEGORIES = {
   eq:        { name: '情绪价值',   icon: '\u{1F9E0}', desc: '如何倾听、共情、给情绪支持（而非讲道理/论对错），基于真实心理学/沟通技巧，给出具体场景和话术' },
 };
 
-/* ---- 科技吃瓜方向（独立文件 data/tech.json） ---- */
+/* ---- 科技频道方向（独立文件 data/tech.json）——聚焦最新最热科技新闻 + 领军人物 + 巨头公司动态 ---- */
 const TECH_CATEGORIES = {
-  melon:     { name: '头版大瓜',   icon: '\u{1F349}', desc: '当下科技圈最大的热闹事件（人物/公司/大新闻），讲清来龙去脉和各方反应，让吃瓜群众一句话入坑' },
-  ceo:       { name: '大佬名场面', icon: '\u{1F3A4}', desc: '科技大佬（罗永浩/雷军/马斯克/余承东/周鸿祎/黄仁勋等）的真实语录、恩怨互怼、跨界新动作' },
-  crypto:    { name: '币圈风云',   icon: '\u{1FA99}', desc: '币圈人物（孙宇晨等）和加密货币圈的真实动态，用吃瓜视角调侃，不下任何投资结论' },
-  startup:   { name: '创业大戏',   icon: '\u{1F3AC}', desc: '真实的创业故事：融资翻盘/倒闭反转/创始人恩怨，比电视剧精彩的部分' },
-  product:   { name: '新品前瞻',   icon: '\u{1F4FA}', desc: '真实的新品/新业务动态（新手机/AI硬件/大佬搞副业如做电视等），给出值得聊的点和槽点' },
-  fail:      { name: '翻车现场',   icon: '\u{1F4A5}', desc: '真实的产品/发布会/公关翻车事件，复盘翻车姿势，吐槽有梗有度' },
-  ai:        { name: 'AI 江湖',    icon: '\u{1F916}', desc: 'AI 圈真实动态：新模型发布、大厂明争暗斗、OpenAI/DeepSeek/国内大模型圈八卦' },
-  workplace: { name: '码农工位',   icon: '\u{1F4BB}', desc: '程序员圈真实热梗：福利八卦、裁员风向、技术圈吐槽（面试造火箭/工作拧螺丝）' },
+  headline: { name: '今日头条',   icon: '\u{1F4F0}', desc: '最新、最热的科技大新闻：当下科技圈影响力最大的事件，讲清来龙去脉和各方反应，一句话让不关注的同事也能接上' },
+  tycoon:   { name: '大佬动态',   icon: '\u{1F3A4}', desc: '科技领军影响力人物动态：马斯克（SpaceX/无人驾驶/xAI等）、黄仁勋、雷军、罗永浩、余承东等的真实语录、恩怨互怼、跨界新动作' },
+  giant:    { name: '巨头动向',   icon: '\u{1F3E2}', desc: '头部科技公司动态：苹果/谷歌/微软/华为/字节/腾讯等的最新成果、战略变化、重大发布' },
+  reorg:    { name: '组织变动',   icon: '\u{1F500}', desc: '科技公司裁员/增员/高管变动/架构调整——必须具体到公司名和关键数字' },
+  frontier: { name: '前沿探索',   icon: '\u{1F680}', desc: '硬科技前沿：无人驾驶、商业航天（SpaceX星舰等）、机器人、芯片制程、脑机接口的最新进展' },
+  product:  { name: '新品发布',   icon: '\u{1F4F1}', desc: '真实的新品/新业务动态（新手机/芯片/AI硬件/大佬搞副业如做电视等），给值得聊的点+槽点' },
+  startup:  { name: '创业大戏',   icon: '\u{1F3AC}', desc: '真实的创业故事：融资翻盘/倒闭反转/创始人恩怨，比电视剧精彩的部分' },
+  crypto:   { name: '币圈风云',   icon: '\u{1FA99}', desc: '币圈人物（孙宇晨等）和加密货币圈的真实动态，用吃瓜视角调侃，不下任何投资结论' },
+};
+
+/* ---- AI 频道方向（独立文件 data/ai.json）——AI 圈最新最热、大影响力炸裂动态 ---- */
+const AI_CATEGORIES = {
+  bombshell:  { name: '炸裂新闻',   icon: '\u{1F4A5}', desc: '当下 AI 圈影响力最大的炸裂大新闻（"奥特曼称 Astra 操作电脑达到人类水平"这个级别），讲清楚它为什么炸裂、意味着什么' },
+  models:     { name: '新模型发布', icon: '\u{1F680}', desc: '最新模型发布/版本更新（如 Fable 5.1 这类）：对比上一代强在哪、跑分/评测/价格，说人话讲清"到底多强"' },
+  leaders:    { name: 'AI 大佬言论', icon: '\u{1F5E3}\u{FE0F}', desc: '奥特曼/Dario Amodei/Karpathy/梁文锋等 AI 头部影响力人物的最新言论、预测、互怼——引用必须具体到场合和时间' },
+  giants:     { name: '巨头动态',   icon: '\u{1F3E2}', desc: 'OpenAI/Anthropic/谷歌 DeepMind/xAI/Meta/DeepSeek/阿里/字节等 AI 头部公司动态：产品、战略、合作、竞争格局变化' },
+  products:   { name: '产品落地',   icon: '\u{1F6E0}\u{FE0F}', desc: 'Claude Code/Cursor/Copilot/ChatGPT/Gemini 等 AI 产品的真实更新、新功能、使用体验变化' },
+  opensource: { name: '开源江湖',   icon: '\u{1F513}', desc: '开源模型权重发布和开源社区动态（Llama/Qwen/DeepSeek 开源、开源商用协议之争等）' },
+  research:   { name: '研究突破',   icon: '\u{1F52C}', desc: '值得关注的论文/评测/能力突破，讲人话：这个突破为什么重要、离落地还有多远' },
+  industry:   { name: '行业风向',   icon: '\u{1F4C8}', desc: 'AI 行业格局变化：融资/估值/商业化进展/价格战/重大监管动向' },
 };
 
 /* ================================================================
@@ -426,17 +438,18 @@ function buildTechPrompt(trendItems) {
 讲瓜技巧（每条至少用2种）：反差对比（大佬宏大叙事 vs 现实鸡毛蒜皮）、起外号（给事件起个传得开的梗名）、围观口吻（"家人们谁懂啊"式吃瓜）、金句收尾（一句话总结值得发群里）、时间线讲法（"XX又双叒叕..."）、业内吐槽（程序员视角吐槽发布会PPT、跑分、期货功能）
 
 ## 分方向要求
-- 头版大瓜：讲清来龙去脉+各方反应，一句话让不吃瓜的同事也能接上
-- 大佬名场面：真实大佬的真实语录/恩怨/新动作，引用要具体到场合
-- 币圈风云：孙宇晨式人物的真实动态，调侃但不站队不下投资结论
+- 今日头条：最新最热的科技大新闻，讲清来龙去脉+各方反应
+- 大佬动态：马斯克/黄仁勋/雷军/罗永浩等领军人物的真实语录/恩怨/新动作，引用要具体到场合
+- 巨头动向：头部公司最新成果/战略变化，具体到公司和产品
+- 组织变动：裁员/增员/高管变动，必须写清公司名和关键数字
+- 前沿探索：无人驾驶/商业航天/机器人/芯片等硬科技进展，讲人话
+- 新品发布：真实新品/新业务，给值得聊的点+槽点
 - 创业大戏：真实的具体公司融资/倒闭/反转故事，讲出比电视剧精彩的部分
-- 新品前瞻：真实新品/新业务，给值得聊的点+槽点
-- 翻车现场：真实翻车复盘，吐槽有梗有度不网暴
-- AI 江湖：真实模型/大厂动态，可以调侃军备竞赛
-- 码农工位：程序员圈真实热梗（具体事件/帖子/话题，不要泛泛的"码农吐槽"）
+- 币圈风云：孙宇晨式人物的真实动态，调侃但不站队不下投资结论
 
 ## 禁忌
 编造不存在的事件/语录、无具体主体的空泛内容、涉刑案细节、攻击外貌、政治敏感
+AI 相关的新闻（新模型/AI公司动态）留给 AI 频道，这里只挑其中已经"出圈"影响整个科技圈的大事
 
 ## 输出
 中文口语化。直接输出JSON，不要markdown代码块。`;
@@ -447,7 +460,7 @@ function buildTechPrompt(trendItems) {
 
   const userPrompt = `今天日期：${date}，${weekday}，时间约 ${time}
 
-用户画像：程序员，上班和同事聊天，爱科技圈八卦和梗，吃瓜图一乐。
+用户画像：程序员，上班和同事聊天，关注科技圈最新动态、大佬人物、头部公司变化，图个消息灵通聊得嗨。
 
 请围绕以下 ${cats.length} 个方向，每个方向生成 1-2 条内容（总数 10-16 条，素材够就 2 条，不够就 1 条）：
 
@@ -462,6 +475,76 @@ ${trendSection}
 - title: 标题（10字以内，有梗有画面）
 - summary: 一句话概括（20字以内，像热搜词条）
 - detail: 详细内容（80-200字，有来龙去脉有吐槽有金句）
+- usage: 用以下三行格式（用 \\n 分隔）：💡 怎么聊切入时机 \\n 💬 可直接发群里的原话 \\n 🔥 关键词1 关键词2
+- source: 确定的链接或空字符串 ""
+- tags: 2-3个标签
+
+JSON 结构（把每个字段替换为真实内容，直接输出可被JSON.parse的纯JSON）：
+{
+  "categories": [
+    { "name": "方向名", "icon": "emoji", "items": [
+      { "title": "", "summary": "", "detail": "", "usage": "💡 \\n💬 \\n🔥 ", "source": "", "tags": [] }
+    ]}
+  ]
+}`;
+
+  return { systemPrompt, userPrompt };
+}
+
+/* ================================================================
+ * AI 频道 Prompt 构建
+ * 独立文件 data/ai.json — "AI 圈前线哨兵"
+ * 核心：盯住 AI 圈最新最热、大影响力的炸裂动态，讲人话+讲清为什么重要
+ * ================================================================ */
+
+function buildAiPrompt(trendItems) {
+  const now = getBeijingNow();
+  const { date, weekday, time } = formatDate(now);
+  const cats = Object.values(AI_CATEGORIES);
+  const trendSection = buildAiTrendsSection(trendItems || []);
+
+  const systemPrompt = `你是"AI 圈前线哨兵"。核心使命：盯住 AI 圈最新、最热、大影响力的炸裂动态，让用户每天刷 5 分钟就能跟得上 AI 圈的惊天变化，和同事聊天时像业内人士。
+
+## 第一原则：真实 + 讲人话
+每条内容必须锚定一个**具体、真实发生**的事件：明确的模型名/公司名/人物名、大致时间。泛泛而谈（如"AI 又有新突破""各家大厂纷纷发力"这种没有具体主体的）= 不合格。
+不确定某个事件是否真实发生 → 直接不写这条。**宁可空一个方向，绝不编一条假新闻。**
+
+## 第二原则：讲清"为什么重要"
+AI 圈新闻的灵魂是对比和冲击力：
+- 新模型发布：必须讲清和上一代/竞品对比强在哪（跑分提升多少、能力从"不能"变"能"、价格降了多少），一句"更强了"= 失败
+- 炸裂新闻：讲清它打破了什么认知/格局，"达到人类水平""成本暴降 90%"这种冲击点要放大
+- 大佬言论：引用原话+场合，再给一句你的锐评
+
+## 讲法要求（每条至少用2种）
+说人话（术语翻译成生活比喻）、数字冲击（"便宜了 27 倍"比"大幅降低"有劲）、锐评收尾（一句话总结值得发群里）、对比锚点（拿大家熟知的旧事物对比）、吃瓜口吻（"家人们谁懂啊，奥特曼又出来搞事了"）
+
+## 禁忌
+编造不存在的模型/事件/语录、无具体主体的空泛内容、股价预测/投资建议、政治敏感
+
+## 输出
+中文口语化。直接输出JSON，不要markdown代码块。`;
+
+  const categoryList = cats.map((c, i) =>
+    `${i + 1}. ${c.icon} ${c.name}\n   ${c.desc}`
+  ).join('\n\n');
+
+  const userPrompt = `今天日期：${date}，${weekday}，时间约 ${time}
+
+用户画像：程序员，天天用 Claude Code/Cursor 等 AI 工具，关注 AI 圈最新炸裂动态，需要每天快速掌握大事件，和同事聊天显业内。
+
+请围绕以下 ${cats.length} 个方向，每个方向生成 1-2 条内容（总数 10-16 条，素材够就 2 条，不够就 1 条）：
+
+${categoryList}
+${trendSection}
+
+⚠️ 必须输出全部 ${cats.length} 个分类（每个分类至少 1 条），不要遗漏任何分类！
+⚠️ 每条必须有明确主体（具体模型名/公司名/人名）——"某大模型/一家 AI 公司/业内传闻"这种模糊写法=不合格，禁止！
+⚠️ 同一事件不要跨分类重复使用（一个炸裂消息只在一个分类里讲）！
+
+每条内容字段：
+- title: 标题（10字以内，有冲击力）
+- summary: 一句话概括（20字以内，像热搜词条）
+- detail: 详细内容（80-200字，有对比有数字有锐评）
 - usage: 用以下三行格式（用 \\n 分隔）：💡 怎么聊切入时机 \\n 💬 可直接发群里的原话 \\n 🔥 关键词1 关键词2
 - source: 确定的链接或空字符串 ""
 - tags: 2-3个标签
@@ -726,6 +809,33 @@ async function fetchQbitai() {
   });
   if (!res.ok) throw new Error('HTTP ' + res.status);
   return parseRss(await res.text(), '量子位', 8);
+}
+
+/** 抓取 OpenAI 官方博客/新闻 RSS——盯奥特曼和 OpenAI 官方动态的第一手信源 */
+async function fetchOpenaiBlog() {
+  const res = await fetch('https://openai.com/news/rss.xml', {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36',
+      'Accept': 'application/rss+xml, application/xml, text/xml, */*',
+    },
+    signal: AbortSignal.timeout(20000),
+  });
+  if (!res.ok) throw new Error('HTTP ' + res.status);
+  // OpenAI feed 有 1100+ 条目（很大），限制条数；官方发文频率不高，放宽到 14 天
+  return parseRss(await res.text(), 'OpenAI官方', 10, 14);
+}
+
+/** 抓取 TechCrunch AI 频道（英文 AI 新闻一线媒体，Astra/Fable 这类大新闻都在这首发） */
+async function fetchTechcrunchAI() {
+  const res = await fetch('https://techcrunch.com/category/artificial-intelligence/feed/', {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36',
+      'Accept': 'application/rss+xml, application/xml, text/xml, */*',
+    },
+    signal: AbortSignal.timeout(15000),
+  });
+  if (!res.ok) throw new Error('HTTP ' + res.status);
+  return parseRss(await res.text(), 'TechCrunch', 10, 5);
 }
 
 /** 抓取 InfoQ 中国（软件工程深度报道 RSS，偏技术向）
@@ -1009,6 +1119,69 @@ function buildTechTrendsSection(items) {
     `${i + 1}. [${it.source}] ${it.title}（${it.score ? '热度' + it.score : ''}）→ ${it.url}`
   ).join('\n');
   return `\n\n## 📡 今日吃瓜素材（抓取自 36氪 / 虎嗅 / 百度热搜 / 头条热榜）\n\n以下是今天抓取的真实科技圈新闻和全网热搜。规则：\n1. **绝大多数内容必须从素材中选取**，source 字段必须填该素材的 url——用户会点开看\n2. 素材足够填满全部分类；只有某分类实在没素材时，才可用你知识库里**确定真实**的事件补充，且 detail 必须写清"谁+什么时间/场合+干了什么"，source 留空 ""\n3. 与科技圈无关的纯娱乐/社会新闻跳过不用\n4. 拿不准真实性的一律不写，宁缺毋滥\n\n${lines}`;
+}
+
+/* ================================================================
+ * AI 频道素材采集（量子位 / OpenAI 官方 / TechCrunch AI）
+ *  三源互补：量子位覆盖中文+海外 AI 圈，OpenAI 官方盯奥特曼第一手，
+ *  TechCrunch 盯海外炸裂大新闻（Astra/Fable 这类首发都在这）
+ *  （机器之心 RSS 返回反爬 HTML 页面，不可用，已弃）
+ * ================================================================ */
+
+async function fetchAiTrends() {
+  const fetchers = {
+    qbitai: fetchQbitai,
+    openai: fetchOpenaiBlog,
+    techcrunch: fetchTechcrunchAI,
+  };
+  const results = await Promise.allSettled(
+    Object.entries(fetchers).map(async ([name, fn]) => {
+      const items = await fn();
+      console.log(`[INFO] AI素材源 ${name}: ${items.length} 条`);
+      return { name, items };
+    })
+  );
+  const stats = {};
+  const byName = {};
+  for (const r of results) {
+    if (r.status === 'fulfilled') {
+      stats[r.value.name] = r.value.items.length;
+      byName[r.value.name] = r.value.items;
+    } else {
+      console.warn(`[WARN] AI素材源抓取失败（跳过，不影响生成）: ${r.reason?.message || r.reason}`);
+    }
+  }
+
+  // 去重（按标题精确匹配）。
+  // 注意：不能用全局 isBadTitle——它的长度上限 140 会误杀英文源
+  // （parseRss 会把 title 拼上 desc 前 100 字，英文条目轻松 180+ 字符）
+  const seen = new Set();
+  const dedup = (arr) => arr.filter(i => {
+    if (!i.title || seen.has(i.title)) return false;
+    const s = i.title.toLowerCase();
+    if (s.length < 6 || s.length > 320) return false;
+    return !BAD_TITLE_WORDS.some(w => s.includes(w));
+  });
+
+  // 三源轮转混合（每源各出1条轮流），保证每个源都有曝光，总量 24 条
+  const srcArrs = Object.values(byName).map(a => dedup(a));
+  const mixed = [];
+  outer: for (let k = 0; k < 24; k++) {
+    for (const arr of srcArrs) {
+      if (arr[k]) mixed.push(arr[k]);
+      if (mixed.length >= 24) break outer;
+    }
+  }
+  return { items: mixed, stats };
+}
+
+/** 把 AI 素材列表拼成注入 prompt 的文本段 */
+function buildAiTrendsSection(items) {
+  if (!items.length) return '';
+  const lines = items.map((it, i) =>
+    `${i + 1}. [${it.source}] ${it.title} → ${it.url}`
+  ).join('\n');
+  return `\n\n## 📡 今日 AI 圈素材（抓取自 量子位 / OpenAI官方 / TechCrunch）\n\n以下是今天抓取的真实 AI 圈新闻。规则：\n1. **绝大多数内容必须从素材中选取**，source 字段必须填该素材的 url——用户会点开看\n2. 素材足够填满全部分类；只有某分类实在没素材时，才可用你知识库里**确定真实**的事件补充，且 detail 必须写清"谁+什么时间/场合+发布了什么"，source 留空 ""\n3. 英文素材标题自行理解后用中文讲，但模型名/公司名/人名保留英文原文\n4. 拿不准真实性的一律不写，宁缺毋滥\n\n${lines}`;
 }
 
 /* ================================================================
@@ -1492,12 +1665,21 @@ async function main() {
     return;
   }
 
-  // --tech-sources 调试模式：只抓吃瓜频道素材（百度热搜/头条热榜）
+  // --tech-sources 调试模式：只抓吃瓜频道素材（36氪/虎嗅/百度/头条）
   if (process.argv.includes('--tech-sources')) {
     const techTrends = await fetchTechTrends();
     console.log(`\n[INFO] 吃瓜素材池共 ${techTrends.items.length} 条:`);
     techTrends.items.forEach((it, i) => console.log(`  ${i + 1}. [${it.source}] ${it.title.slice(0, 60)}`));
     console.log(`\n[INFO] 按源分布: ${JSON.stringify(techTrends.stats)}`);
+    return;
+  }
+
+  // --ai-sources 调试模式：只抓 AI 频道素材（量子位/OpenAI官方/TechCrunch）
+  if (process.argv.includes('--ai-sources')) {
+    const aiTrends = await fetchAiTrends();
+    console.log(`\n[INFO] AI素材池共 ${aiTrends.items.length} 条:`);
+    aiTrends.items.forEach((it, i) => console.log(`  ${i + 1}. [${it.source}] ${it.title.slice(0, 60)}`));
+    console.log(`\n[INFO] 按源分布: ${JSON.stringify(aiTrends.stats)}`);
     return;
   }
 
@@ -1726,6 +1908,60 @@ async function main() {
     console.log(`====================================`);
   }
 
+  /* ---- AI 前沿内容生成（全部时段——AI 圈一天一个炸裂，时刻都要盯） ---- */
+  {
+    console.log('\n====================================');
+    console.log('  AI 前沿内容生成');
+    console.log('====================================');
+
+    // 抓取 AI 圈素材（量子位/OpenAI官方/TechCrunch）
+    console.log('[INFO] 抓取 AI 素材（量子位 / OpenAI官方 / TechCrunch）...');
+    const aiTrends = await fetchAiTrends();
+    const aiTrendItems = aiTrends.items;
+    const aiTrendStats = aiTrends.stats;
+    console.log(`[INFO] AI素材就绪: ${aiTrendItems.length} 条（${Object.entries(aiTrendStats).map(([k, v]) => k + ':' + v).join(', ') || '无'}）`);
+
+    const { systemPrompt: aSystem, userPrompt: aUser } = buildAiPrompt(aiTrendItems);
+    const aCats = Object.keys(AI_CATEGORIES).length;
+    // AI 频道首选 DeepSeek — 中文锐评讲人话，效果最好
+    const { content: aContent, meta: aMeta } = await generateContent(aSystem, aUser, aCats, ['deepseek/deepseek-chat']);
+    const aTotal = validateContent(aContent, aCats);
+
+    aContent.generated_at = new Date().toISOString();
+    aContent.slot = slotKey;
+    aContent.slot_label = slot.label;
+    aContent.meta = aMeta;
+    if (aiTrendItems.length) {
+      aContent.meta.sources = { per_source: aiTrendStats, total: aiTrendItems.length };
+    }
+
+    // 确保 icon 字段存在
+    const aCatMap = {};
+    for (const [k, v] of Object.entries(AI_CATEGORIES)) aCatMap[v.name] = v.icon;
+    for (const cat of aContent.categories) {
+      if (!cat.icon) cat.icon = aCatMap[cat.name] || '';
+    }
+
+    const aiPath = join(dataDir, 'ai.json');
+    writeFileSync(aiPath, JSON.stringify(aContent, null, 2));
+    console.log(`[OK] 已写入: ${aiPath}`);
+
+    // AI 频道归档
+    const aArchivePath = join(archiveDir, `${dateStr}-ai-${slotKey}.json`);
+    writeFileSync(aArchivePath, JSON.stringify(aContent, null, 2));
+    console.log(`[OK] 已归档: ${aArchivePath}`);
+
+    // 重建 AI 历史索引（独立文件 data/ai-history.json）
+    const aiHistory = rebuildHistory(dataDir, 'ai');
+    const aiHistoryPath = join(dataDir, 'ai-history.json');
+    writeFileSync(aiHistoryPath, JSON.stringify(aiHistory, null, 2));
+    console.log(`[OK] 已更新 AI 历史索引: ${aiHistoryPath}（${aiHistory.items.length} 条记录）`);
+
+    console.log(`\n====================================`);
+    console.log(`  AI 前沿完成! 共 ${aTotal} 个话题`);
+    console.log(`====================================`);
+  }
+
   console.log(`\n====================================`);
   console.log(`  完成! 共 ${total} 个话题`);
   console.log(`====================================`);
@@ -1744,14 +1980,15 @@ function rebuildHistory(dataDir, viewFilter) {
     return { items: [], updated_at: new Date().toISOString() };
   }
 
-  // viewFilter: null = main (exclude parenting/wife/tech), 'parenting' = only parenting, 'wife' = only wife, 'tech' = only tech
+  // viewFilter: null = main (exclude parenting/wife/tech/ai), 'parenting' = only parenting, 'wife' = only wife, 'tech' = only tech, 'ai' = only ai
   const files = readdirSync(archiveDir)
     .filter(f => f.endsWith('.json'))
     .filter(f => {
       if (viewFilter === 'parenting') return f.includes('-parenting-');
       if (viewFilter === 'wife') return f.includes('-wife-');
       if (viewFilter === 'tech') return f.includes('-tech-');
-      return !f.includes('-parenting-') && !f.includes('-wife-') && !f.includes('-tech-');
+      if (viewFilter === 'ai') return f.includes('-ai-');
+      return !f.includes('-parenting-') && !f.includes('-wife-') && !f.includes('-tech-') && !f.includes('-ai-');
     })
     .sort()
     .reverse(); // 最新的在前

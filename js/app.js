@@ -612,13 +612,21 @@
       emptyText: '',
       emptySub: '',
     },
+    ai: {
+      latest: 'data/ai.json',
+      history: 'data/ai-history.json',
+      emptyIcon: '🤖',
+      emptyTitle: 'AI 前沿频道 · 每天盯住 AI 圈的炸裂动态',
+      emptyText: '炸裂新闻 · 新模型发布 · AI 大佬言论 · 巨头动态 · 产品落地 · 开源江湖 · 研究突破 · 行业风向',
+      emptySub: '每天定时生成，5 分钟跟上 AI 圈的惊天变化 🤖',
+    },
     tech: {
       latest: 'data/tech.json',
       history: 'data/tech-history.json',
       emptyIcon: '🍉',
-      emptyTitle: '科技吃瓜频道 · 程序员的每日瓜田',
-      emptyText: '头版大瓜 · 大佬名场面 · 币圈风云 · 创业大戏 · 新品前瞻 · 翻车现场 · AI 江湖 · 码农工位',
-      emptySub: '每天定时生成，吃瓜图一乐，上班摸鱼有得聊 😎',
+      emptyTitle: '科技频道 · 最新最热科技动态',
+      emptyText: '今日头条 · 大佬动态 · 巨头动向 · 组织变动 · 前沿探索 · 新品发布 · 创业大戏 · 币圈风云',
+      emptySub: '每天定时生成，消息灵通聊得嗨 😎',
     },
     parenting: {
       latest: 'data/parenting.json',
@@ -744,7 +752,7 @@
 
       /* 素材来源小字（工作时段生成时才有） */
       if (data.meta && data.meta.sources && data.meta.sources.total > 0) {
-        var names = { hackernews: 'Hacker News', askhn: 'HN Ask', reddit: 'Reddit', lobsters: 'Lobste.rs', devto: 'dev.to', v2ex: 'V2EX', juejin: '掘金', github: 'GitHub Trending', qbitai: '量子位', infoq: 'InfoQ', baidu: '百度热搜', toutiao: '头条热榜' };
+        var names = { hackernews: 'Hacker News', askhn: 'HN Ask', reddit: 'Reddit', lobsters: 'Lobste.rs', devto: 'dev.to', v2ex: 'V2EX', juejin: '掘金', github: 'GitHub Trending', qbitai: '量子位', infoq: 'InfoQ', kr36: '36氪', huxiu: '虎嗅', baidu: '百度热搜', toutiao: '头条热榜', openai: 'OpenAI官方', techcrunch: 'TechCrunch' };
         var per = data.meta.sources.per_source || {};
         var srcNames = Object.keys(per).filter(function (k) { return (per[k] || 0) > 0; })
           .map(function (k) { return names[k] || k; });
@@ -904,7 +912,7 @@
       return lb - la;
     });
     notesListEl.innerHTML = entries.map(function (n) {
-      var viewLabel = n.view === 'parenting' ? '👨‍👧 育儿' : n.view === 'wife' ? '💞 媳妇' : n.view === 'tech' ? '🍉 科技吃瓜' : '💼 工作·生活';
+      var viewLabel = n.view === 'parenting' ? '👨‍👧 育儿' : n.view === 'wife' ? '💞 媳妇' : n.view === 'tech' ? '🍉 科技' : n.view === 'ai' ? '🤖 AI前沿' : '💼 工作·生活';
       var html = '<div class="notes-entry">' +
         '<div class="notes-entry-head">' +
           '<span class="notes-entry-view">' + viewLabel + '</span>' +
