@@ -1402,9 +1402,10 @@ function sleep(ms) {
  * 该模型失败，自动切换到下一个，直到全部耗尽。返回 { content, meta }。
  * @param {number} expectedCategories 本次 prompt 要求的方向数，输出必须齐全
  * @param {string[]} preferredModels 可选。指定的优先模型列表（如媳妇频道首选 DeepSeek 追求中文幽默）。
+ * @param {Array|null} trendItems 可选。素材池，传入后启用质量闸门（回填链接+查重，不达标换模型重试）。
  *   指定后会插入到队列最前面，原免费+付费队列紧随其后作为兜底。
  */
-async function generateContent(systemPrompt, userPrompt, expectedCategories, preferredModels) {
+async function generateContent(systemPrompt, userPrompt, expectedCategories, preferredModels, trendItems) {
   const apiKey = process.env.OPENROUTER_API_KEY;
   if (!apiKey) {
     console.error('[ERROR] 环境变量 OPENROUTER_API_KEY 未设置');
@@ -1450,6 +1451,10 @@ async function generateContent(systemPrompt, userPrompt, expectedCategories, pre
       const result = await callModel(model, systemPrompt, userPrompt, maxTokensMap[model]);
       const parsed = parseContent(result.content);
       validateContent(parsed, expectedCategories);
+      // 质量闸门：素材池存在时，回填缺失链接 + 查重，不达标则换模型重试
+      if (trendItems && trendItems.length > 0) {
+        enforceQuality(parsed, trendItems);
+      }
       const meta = buildMeta(model, result, pricingMap);
       const shownModel = result.actualModel && result.actualModel !== model
         ? `${model} → ${result.actualModel}` : model;
@@ -1719,6 +1724,78 @@ function validateContent(content, expectedCategories) {
 }
 
 /* ================================================================
+ *  质量闸门（工程化保证，不靠 prompt 碰运气）
+ *  模型经常"编一条很像真的但没出处"的内容。这里做三件事：
+ *  1. 给缺 source 的条目，用关键词回素材池匹配，能匹配上就自动补 url
+ *  2. 统计仍然无法溯源（孤儿）的条目数
+ *  3. 检测跨分类重复（同标题 / 同正文开头）
+ *  不达标 → 抛错 → generateContent 自动换下一个模型重试
+ * ================================================================ */
+
+/**
+ * 归一化：只去掉空白、标点符号和符号，保留中英文与数字。
+ * 注意：JS 的 \W 会把中文也当成"非单词字符"剔除，绝不能用 —— 必须保留 CJK。
+ */
+function normText(s) {
+  return (s || '').toLowerCase().replace(/[\s\p{P}\p{S}_]+/gu, '');
+}
+
+/**
+ * @param {object} content 已解析的内容
+ * @param {Array<{title:string,url:string}>} trendItems 素材池
+ * @param {number} maxOrphans 允许的无源条目上限
+ * @param {number} maxDup 允许的重复条目上限
+ */
+function enforceQuality(content, trendItems, maxOrphans = 4, maxDup = 1) {
+  const items = content.categories.flatMap(c => c.items);
+  let filled = 0;
+  let duplicates = 0;
+  const seenTitle = new Set();
+  const seenHead = new Set();
+
+  for (const item of items) {
+    // —— 重复检测：标题完全一致，或正文前 24 字一致
+    const tKey = normText(item.title);
+    const hKey = normText(item.detail).slice(0, 24);
+    if ((tKey && seenTitle.has(tKey)) || (hKey.length >= 12 && seenHead.has(hKey))) {
+      duplicates++;
+    }
+    if (tKey) seenTitle.add(tKey);
+    if (hKey.length >= 12) seenHead.add(hKey);
+
+    // —— 无源条目：回素材池用关键词匹配补 url
+    if (item.source) continue;
+    const text = normText(item.title + item.summary + item.detail);
+    let best = null;
+    let bestScore = 0;
+    for (const t of trendItems || []) {
+      const tt = normText(t.title);
+      if (tt.length < 6) continue;
+      // 取素材标题的递增前缀做包含匹配，取最长命中
+      for (let len = 6; len <= Math.min(tt.length, 22); len += 2) {
+        if (text.includes(tt.slice(0, len)) && len > bestScore) {
+          bestScore = len;
+          best = t;
+        }
+      }
+    }
+    if (best && best.url) {
+      item.source = best.url;
+      filled++;
+    }
+  }
+
+  const orphans = items.filter(i => !i.source).length;
+  console.log(`[INFO] 质量闸门: 回填链接 ${filled} 条 | 无源 ${orphans}/${items.length}（上限 ${maxOrphans}） | 重复 ${duplicates}（上限 ${maxDup}）`);
+  if (orphans > maxOrphans || duplicates > maxDup) {
+    throw new Error(
+      `质量不达标：无源 ${orphans} 条（上限 ${maxOrphans}）、重复 ${duplicates} 条（上限 ${maxDup}）`
+    );
+  }
+  return { filled, orphans, duplicates };
+}
+
+/* ================================================================
  *  主流程
  * ================================================================ */
 
@@ -1899,7 +1976,7 @@ async function main() {
     const { systemPrompt: wSystem, userPrompt: wUser } = buildWifePrompt(trendItems);
     const wCats = Object.keys(WIFE_CATEGORIES).length;
     // 媳妇频道首选 DeepSeek — 中文幽默最强，非中文模型幽默效果差
-    const { content: wContent, meta: wMeta } = await generateContent(wSystem, wUser, wCats, ['deepseek/deepseek-chat']);
+    const { content: wContent, meta: wMeta } = await generateContent(wSystem, wUser, wCats, ['deepseek/deepseek-chat'], trendItems);
     const wTotal = validateContent(wContent, wCats);
 
     wContent.generated_at = new Date().toISOString();
@@ -1955,7 +2032,7 @@ async function main() {
     const { systemPrompt: tSystem, userPrompt: tUser } = buildTechPrompt(techTrendItems);
     const tCats = Object.keys(TECH_CATEGORIES).length;
     // 吃瓜频道首选 DeepSeek — 中文段子手，吃瓜幽默效果最好
-    const { content: tContent, meta: tMeta } = await generateContent(tSystem, tUser, tCats, ['deepseek/deepseek-chat']);
+    const { content: tContent, meta: tMeta } = await generateContent(tSystem, tUser, tCats, ['deepseek/deepseek-chat'], techTrendItems || []);
     const tTotal = validateContent(tContent, tCats);
 
     tContent.generated_at = new Date().toISOString();
@@ -2009,7 +2086,7 @@ async function main() {
     const { systemPrompt: aSystem, userPrompt: aUser } = buildAiPrompt(aiTrendItems);
     const aCats = Object.keys(AI_CATEGORIES).length;
     // AI 频道首选 DeepSeek — 中文锐评讲人话，效果最好
-    const { content: aContent, meta: aMeta } = await generateContent(aSystem, aUser, aCats, ['deepseek/deepseek-chat']);
+    const { content: aContent, meta: aMeta } = await generateContent(aSystem, aUser, aCats, ['deepseek/deepseek-chat'], aiTrendItems || []);
     const aTotal = validateContent(aContent, aCats);
 
     aContent.generated_at = new Date().toISOString();
