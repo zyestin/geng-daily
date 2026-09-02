@@ -23,18 +23,17 @@
       "date": "2026-09-02",
       "slot": "weekday-evening",
       "slot_label": "工作日傍晚 · 生活时光",
-      "generated_at": "2026-09-02T07:53:57.271Z",
+      "generated_at": "2026-09-02T08:04:45.408Z",
       "weekday": "星期三",
       "file": "archive/2026-09-02-weekday-evening.json",
-      "topic_count": 21,
+      "topic_count": 12,
       "category_names": [
         "时事热点",
         "亲子时光",
         "热门影视",
         "生活妙招",
         "乒乓球",
-        "健康养生",
-        "前端技术"
+        "健康养生"
       ]
     },
     {
@@ -488,5 +487,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-02T07:53:57.276Z"
+  "updated_at": "2026-09-02T08:04:45.412Z"
 }

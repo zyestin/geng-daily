@@ -25,7 +25,7 @@
       "date": "2026-09-02",
       "slot": "tech-weekday-evening",
       "slot_label": "工作日傍晚 · 生活时光",
-      "generated_at": "2026-09-02T07:56:22.961Z",
+      "generated_at": "2026-09-02T08:12:28.356Z",
       "weekday": "星期三",
       "file": "archive/2026-09-02-tech-weekday-evening.json",
       "topic_count": 16,
@@ -61,5 +61,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-02T07:56:22.962Z"
+  "updated_at": "2026-09-02T08:12:28.357Z"
 }
