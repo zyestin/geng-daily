@@ -5,27 +5,27 @@
       "icon": "💥",
       "items": [
         {
-          "title": "OpenAI Astra",
-          "summary": "OpenAI Astra 操作电脑达到人类水平",
-          "detail": "OpenAI 最新模型 Astra 在网络安全能力上突破关键阈值，首次达到了人类水平。这意味着 Astra 不仅能像人类一样操作电脑系统，还能识别并预防复杂的网络攻击。这项技术将彻底改变网络安全领域的格局，未来可能成为企业必备的“AI 安全员”。",
-          "usage": "💡 聊网络安全时\n💬 OpenAI Astra 操作电脑达到人类水平，AI 安全员要来了！\n🔥 Astra 网络安全 AI",
+          "title": "Astra 破纪录",
+          "summary": "OpenAI Astra 达人类水平",
+          "detail": "OpenAI 最新模型 Astra 在网络安全领域达到了人类水平，能够自主操作电脑系统进行安全测试。这意味着未来的黑客和安全工程师可能都要失业了，因为 Astra 可以 7x24 小时不眨眼地找漏洞。安全工程师的护肝片销量怕是要涨。",
+          "usage": "💡 聊 AI 对传统职业的影响\n💬 Astra 7x24 小时不眨眼地找漏洞，安全工程师要失业了\n🔥 Astra OpenAI 网络安全",
           "source": "https://openai.com/index/path-to-astra",
           "tags": [
+            "OpenAI",
             "Astra",
-            "网络安全",
-            "OpenAI"
+            "网络安全"
           ]
         },
         {
-          "title": "AfterQuery",
-          "summary": "AfterQuery 成 Y Combinator 最快独角兽",
-          "detail": "AI 模型训练初创公司 AfterQuery 刚刚完成新一轮融资，估值达到 32 亿美元，成为 Y Combinator 历史上最快的独角兽公司。这家公司专注于高效模型训练，号称能将训练成本降低 50%。投资圈普遍看好其技术潜力，认为它将颠覆传统模型训练市场。",
-          "usage": "💡 聊投融资时\n💬 AfterQuery 估值 32 亿，成 YC 最快独角兽！\n🔥 AfterQuery YC 独角兽",
+          "title": "AfterQuery 火箭",
+          "summary": "AfterQuery 最快独角兽",
+          "detail": "AI 模型训练初创公司 AfterQuery 成为 Y Combinator 历史上最快成为独角兽的公司，估值达到 32 亿美元。家人们谁懂啊，AI 创业的速度都快赶上火箭了。",
+          "usage": "💡 聊 AI 创业速度\n💬 AfterQuery 成为 YC 最快独角兽，AI 创业速度赶上火箭了\n🔥 AfterQuery YCombinator 独角兽",
           "source": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
           "tags": [
             "AfterQuery",
-            "融资",
-            "AI训练"
+            "YCombinator",
+            "独角兽"
           ]
         }
       ]
@@ -36,26 +36,26 @@
       "items": [
         {
           "title": "Qwen3.8-Max",
-          "summary": "阿里 Qwen3.8-Max 前端编程全球第一",
-          "detail": "阿里发布旗舰模型 Qwen3.8-Max，在前端编程能力上跃居全球第一。新模型不仅能自动生成 HTML/CSS/JavaScript 代码，还能识别并修复常见的前端错误。开发者反馈称，它的代码质量比 Claude Code 高出 30%，且响应速度更快。",
-          "usage": "💡 聊编程AI时\n💬 阿里 Qwen3.8-Max 前端编程能力全球第一！\n🔥 Qwen3.8-Max 前端编程",
+          "summary": "阿里 Qwen3.8-Max 发布",
+          "detail": "阿里更新旗舰模型 Qwen3.8-Max，前端编程能力跃居全球第一。这下程序员们可以放心把写前端的工作交给 AI 了，自己专心写后端。",
+          "usage": "💡 聊 AI 替代程序员\n💬 Qwen3.8-Max 前端编程能力全球第一，前端工程师要失业了\n🔥 阿里 Qwen3.8-Max 前端编程",
           "source": "https://www.qbitai.com/2026/09/483101.html",
           "tags": [
+            "阿里",
             "Qwen3.8-Max",
-            "前端编程",
-            "阿里"
+            "前端编程"
           ]
         },
         {
           "title": "Fable 5.1",
-          "summary": "Claude Fable 5.1 降价 45%",
-          "detail": "Anthropic 发布 Fable 5.1，号称最强 Claude 模型。新版本不仅性能全面提升，还引入了反蒸馏机制，减少了 90% 的误判率。更重要的是，它的 token 成本降低了 45%，堪称性价比之王。无论你此前让 Claude 处理什么任务，Fable 5.1 都能做更多，并且把最难的部分完成得更出色。",
-          "usage": "💡 聊模型性价比时\n💬 Claude Fable 5.1 降价 45%，性能还更强！\n🔥 Fable 5.1 降价",
-          "source": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+          "summary": "Claude Fable 5.1 发布",
+          "detail": "Anthropic 发布 Claude 最强版本 Fable 5.1，8 项屠榜，最高降价 45%，反蒸馏机制上线。这下 Claude 的性价比直接起飞了，谁还用人肉写代码。",
+          "usage": "💡 聊 AI 写代码\n💬 Fable 5.1 最高降价 45%，Claude 性价比起飞\n🔥 Claude Fable5.1 降价",
+          "source": "https://www.qbitai.com/2026/09/482652.html",
           "tags": [
-            "Fable 5.1",
-            "Claude",
-            "降价"
+            "Anthropic",
+            "Fable5.1",
+            "Claude"
           ]
         }
       ]
@@ -65,27 +65,15 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "孙鹏博士",
-          "summary": "前字节专家加盟星尘智能",
-          "detail": "前字节跳动强化学习专家孙鹏博士正式加入星尘智能，担任 Physical AI 全栈技术负责人。他表示，未来将专注于 Physical AI 的技术布局，目标是打造一个能“无缝连接数字世界和物理世界”的 AI 生态系统。业内人士普遍认为，这将加速 Physical AI 的商业化落地。",
-          "usage": "💡 聊Physical AI时\n💬 孙鹏博士加盟星尘智能，Physical AI 要起飞了！\n🔥 孙鹏 Physical AI",
-          "source": "https://www.qbitai.com/2026/09/483097.html",
-          "tags": [
-            "孙鹏",
-            "星尘智能",
-            "Physical AI"
-          ]
-        },
-        {
-          "title": "OpenAI",
-          "summary": "OpenAI 支持加州 AI 安全法案",
-          "detail": "OpenAI 公开支持加州 SB 1119 法案，该法案旨在为青少年提供更严格的 AI 安全保障。OpenAI 表示，这将帮助确保青少年在使用 AI 技术时的安全性和隐私性。此举被认为是 OpenAI 在 AI 伦理和安全领域的重要一步。",
-          "usage": "💡 聊AI伦理时\n💬 OpenAI 支持加州 AI 安全法案，青少年有福了！\n🔥 OpenAI AI伦理",
+          "title": "奥特曼支持",
+          "summary": "奥特曼支持加州 AI 安全法案",
+          "detail": "OpenAI CEO 奥特曼支持加州 SB 1119 法案，该法案旨在为青少年提供强有力且适合其年龄的 AI 安全保障。这下家长们可以放心让孩子用 AI 了，不用担心被 AI 带坏。",
+          "usage": "💡 聊 AI 伦理\n💬 奥特曼支持加州 AI 安全法案，家长们可以放心了\n🔥 奥特曼 加州 AI安全",
           "source": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
           "tags": [
-            "OpenAI",
-            "AI伦理",
-            "加州法案"
+            "奥特曼",
+            "加州",
+            "AI安全"
           ]
         }
       ]
@@ -95,27 +83,27 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "ChatGPT Health",
-          "summary": "ChatGPT 集成 Epic 医疗数据",
-          "detail": "OpenAI 宣布 ChatGPT 已与 Epic 系统集成，允许临床医生安全访问患者电子健康记录（EHR）。这一功能将为医生提供更便捷的数据查询和分析工具，预计将大幅提高医疗工作效率。目前该功能为只读模式，未来可能扩展到更多医疗场景。",
-          "usage": "💡 聊AI医疗时\n💬 ChatGPT 现已集成 Epic 医疗数据，医生效率飞升！\n🔥 ChatGPT Epic 医疗",
+          "title": "ChatGPT 健康",
+          "summary": "ChatGPT 接入 Epic 病历",
+          "detail": "ChatGPT 现在可以连接到 Epic 病历系统，帮助临床医生安全访问患者内容。以后医生问诊的画风是：一边问你哪不舒服，一边让 AI 翻你三年前的体检报告。",
+          "usage": "💡 聊 AI 在医疗的应用\n💬 ChatGPT 接入 Epic 病历，医生让 AI 翻你三年前的体检报告\n🔥 ChatGPT Epic 医疗",
           "source": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
           "tags": [
             "ChatGPT",
             "Epic",
-            "医疗AI"
+            "医疗"
           ]
         },
         {
-          "title": "Google Pics",
-          "summary": "谷歌推出 AI 创意工具",
-          "detail": "谷歌推出名为 Google Pics 的 AI 创意工具，用户只需输入提示词即可生成设计作品，无需任何设计经验。这一工具被视为谷歌对 Canva 的直接挑战，预计将重塑创意软件市场的竞争格局。",
-          "usage": "💡 聊创意工具时\n💬 Google Pics 上线，挑战 Canva！\n🔥 Google Pics Canva",
-          "source": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+          "title": "Cursor 被 SpaceX 收购",
+          "summary": "Cursor 被 SpaceX 收购",
+          "detail": "OpenAI 决定在 Cursor 被 SpaceX 收购后终止与其的合同，不再提供 OpenAI 模型。这下 Elon Musk 又要自己造轮子了。",
+          "usage": "💡 聊 AI 公司收购\n💬 Cursor 被 SpaceX 收购，Elon Musk 又要自己造轮子了\n🔥 Cursor SpaceX 收购",
+          "source": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
           "tags": [
-            "Google Pics",
-            "Canva",
-            "创意工具"
+            "Cursor",
+            "SpaceX",
+            "收购"
           ]
         }
       ]
@@ -125,27 +113,27 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "JUOS",
-          "summary": "海信发布家庭 AIOS",
-          "detail": "海信正式发布 JUOS，号称行业首个家庭智能伴侣级 AIOS。它不仅能管理智能家居设备，还能根据家庭成员的日常习惯提供个性化建议。发布会上，海信展示了 JUOS 如何通过语音指令完成从灯光调节到购物提醒的一系列任务。",
-          "usage": "💡 聊智能家居时\n💬 海信 JUOS 发布，家庭 AI 伴侣来了！\n🔥 JUOS 海信 智能家居",
-          "source": "https://www.qbitai.com/2026/09/482699.html",
+          "title": "百融硅基",
+          "summary": "百融硅基 AI 客服上岗",
+          "detail": "百融硅基的 AI 客服批量上岗，每日处理 1.5 万通电话，按结果领工资。这下客服中心要变成 AI 的天下了，人类客服要失业了。",
+          "usage": "💡 聊 AI 替代客服\n💬 百融硅基 AI 客服日扛 1.5 万通电话，人类客服要失业了\n🔥 百融硅基 AI客服",
+          "source": "https://www.qbitai.com/2026/09/482967.html",
           "tags": [
-            "JUOS",
-            "海信",
-            "智能家居"
+            "百融硅基",
+            "AI客服",
+            "电话"
           ]
         },
         {
-          "title": "兰桂坊机器人",
-          "summary": "香港首台服务机器人上岗",
-          "detail": "香港兰桂坊迎来了一位特殊的“酒保”——一台服务机器人。它能独立完成点单、调酒、送餐等任务，还能与顾客互动。这是香港首个真实开放场景中的服务机器人落地案例，标志着服务机器人技术在香港的商业化应用迈出了重要一步。",
-          "usage": "💡 聊服务机器人时\n💬 香港兰桂坊机器人上岗，AI 酒保来了！\n🔥 兰桂坊 服务机器人",
-          "source": "https://www.qbitai.com/2026/09/482855.html",
+          "title": "Google Pics",
+          "summary": "Google Pics 挑战 Canva",
+          "detail": "Google 推出 AI 工具 Pics，用户只需输入提示即可生成设计，挑战 Canva 在创意软件市场的统治地位。这下设计师们要失业了，AI 直接搞定设计。",
+          "usage": "💡 聊 AI 在设计中的应用\n💬 Google Pics 挑战 Canva，设计师要失业了\n🔥 Google Pics Canva",
+          "source": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
           "tags": [
-            "兰桂坊",
-            "服务机器人",
-            "香港"
+            "Google",
+            "Pics",
+            "Canva"
           ]
         }
       ]
@@ -155,27 +143,15 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "Polimill",
-          "summary": "日本公共 AI 基建项目",
-          "detail": "Polimill 公司利用 OpenAI GPT 模型和 Codex 构建了日本下一代公共 AI 基础设施。该项目允许地方政府搜索和使用行政管理知识库，大幅提高了公共服务的效率和透明度。这是开源 AI 技术在政府领域的又一次成功应用。",
-          "usage": "💡 聊AI基建时\n💬 Polimill 用 GPT 构建日本公共 AI 基建！\n🔥 Polimill GPT 基建",
-          "source": "https://openai.com/index/polimill",
+          "title": "OmniTable",
+          "summary": "蚂蚁 OmniTable 获最佳论文",
+          "detail": "蚂蚁集团推出统一宽表系统 OmniTable，论文获评 VLDB 2026 工业赛道最佳论文。这下洗数据的工程师们可以早点下班了，OmniTable 效率狂飙 5.6 倍。",
+          "usage": "💡 聊 AI 数据处理\n💬 OmniTable 效率狂飙 5.6 倍，洗数据工程师可以早下班了\n🔥 蚂蚁 OmniTable VLDB",
+          "source": "https://www.qbitai.com/2026/09/483104.html",
           "tags": [
-            "Polimill",
-            "GPT",
-            "基建"
-          ]
-        },
-        {
-          "title": "Empirik",
-          "summary": "Sequoia 孵化 Empirik",
-          "detail": "Sequoia 孵化的 Empirik 公司正式成立，并获得了 2100 万美元融资。该公司专注于预测 IT 基础设施故障，旨在成为 Cursor 在 IT 运维领域的对标产品。Empirik 的目标是在故障发生前预测并预防，从而大幅减少企业 IT 系统的停机时间。",
-          "usage": "💡 聊IT运维时\n💬 Empirik 获 2100 万融资，预测故障不再是梦！\n🔥 Empirik IT运维",
-          "source": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-          "tags": [
-            "Empirik",
-            "Sequoia",
-            "IT运维"
+            "蚂蚁",
+            "OmniTable",
+            "VLDB"
           ]
         }
       ]
@@ -185,22 +161,10 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "OmniTable",
-          "summary": "蚂蚁集团推出统一宽表系统",
-          "detail": "蚂蚁集团开发的 OmniTable 统一宽表系统在 VLDB 2026 上荣获工业赛道最佳论文。该系统能高效处理 35PB 语料数据，效率比传统方法提升了 5.6 倍。这一技术突破将为大模型的数据清洗和训练提供更高效的工具，预计将大幅降低 AI 训练成本。",
-          "usage": "💡 聊数据处理时\n💬 蚂蚁 OmniTable 效率提升 5.6 倍，大模型训练成本大降！\n🔥 OmniTable 蚂蚁 VLDB",
-          "source": "https://www.qbitai.com/2026/09/483104.html",
-          "tags": [
-            "OmniTable",
-            "蚂蚁",
-            "数据处理"
-          ]
-        },
-        {
-          "title": "多模态世界模型",
-          "summary": "李飞飞发布全球首个多模态世界模型",
-          "detail": "李飞飞团队发布了全球首个多模态世界模型，能够通过一张图补全 3D 世界，甚至为机器人创建训练场。这一技术突破将极大加速机器人在复杂环境中的学习和适应能力，未来可能成为机器人技术的核心基础设施。",
-          "usage": "💡 聊机器人技术时\n💬 李飞飞发布多模态世界模型，机器人训练场有了！\n🔥 李飞飞 多模态 机器人",
+          "title": "李飞飞世界模型",
+          "summary": "李飞飞发布多模态世界模型",
+          "detail": "李飞飞发布全球首个多模态世界模型，一张图即可补全 3D 世界，还能为机器人造训练场。这下机器人的训练成本要大幅降低了，AI 工程师们要失业了。",
+          "usage": "💡 聊 AI 在机器人领域的应用\n💬 李飞飞多模态世界模型，机器人训练成本大降\n🔥 李飞飞 多模态 机器人",
           "source": "https://www.qbitai.com/2026/09/482586.html",
           "tags": [
             "李飞飞",
@@ -216,41 +180,41 @@
       "items": [
         {
           "title": "ChatGPT Ads",
-          "summary": "ChatGPT Ads 年收入破 10 亿",
-          "detail": "OpenAI 宣布 ChatGPT Ads 的年化收入已突破 10 亿美元，并开始在全球范围内扩展。这一成绩标志着 ChatGPT 商业化模式的巨大成功，未来可能成为 OpenAI 的重要收入来源之一。",
-          "usage": "💡 聊AI商业化时\n💬 ChatGPT Ads 年收入破 10 亿，AI 商业化大获成功！\n🔥 ChatGPT Ads 商业化",
+          "summary": "ChatGPT Ads 年收入 10 亿",
+          "detail": "ChatGPT Ads 年收入达到 10 亿美元，并扩张到全球市场，支持广泛的广告需求。这下广告商们要失业了，AI 直接搞定广告投放。",
+          "usage": "💡 聊 AI 在广告中的应用\n💬 ChatGPT Ads 年收入 10 亿，广告商要失业了\n🔥 ChatGPT Ads 广告",
           "source": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
           "tags": [
-            "ChatGPT Ads",
-            "商业化",
-            "OpenAI"
+            "ChatGPT",
+            "Ads",
+            "广告"
           ]
         },
         {
-          "title": "Amazon Alexa",
-          "summary": "Alexa 新增购物提醒功能",
-          "detail": "Amazon 推出 Alexa 新功能“Update Me When”，能在用户感兴趣的商品上新或降价时发送个性化提醒。这一功能被视为 Amazon 进一步增强其电商生态的重要举措，未来可能成为 AI 驱动的个性化购物新趋势。",
-          "usage": "💡 聊AI电商时\n💬 Amazon Alexa 新增购物提醒功能，剁手挡不住了！\n🔥 Alexa 购物提醒",
-          "source": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+          "title": "Empirik 融资",
+          "summary": "Empirik 融资 2100 万美元",
+          "detail": "由 Sequoia 孵化的 Empirik 融资 2100 万美元，旨在预测 IT 基础设施中的问题，就像 Cursor 对软件工程的贡献一样。这下 IT 运维人员要失业了，AI 直接预测问题。",
+          "usage": "💡 聊 AI 在 IT 运维中的应用\n💬 Empirik 融资 2100 万，IT 运维要失业了\n🔥 Empirik Sequoia IT运维",
+          "source": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
           "tags": [
-            "Alexa",
-            "Amazon",
-            "电商"
+            "Empirik",
+            "Sequoia",
+            "IT运维"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-09-02T08:15:29.528Z",
+  "generated_at": "2026-09-02T08:28:32.839Z",
   "slot": "weekday-evening",
   "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3352,
-    "completion_tokens": 3132,
-    "total_tokens": 6484,
-    "cost_usd": 0.0040846932,
+    "prompt_tokens": 3536,
+    "completion_tokens": 2459,
+    "total_tokens": 5995,
+    "cost_usd": 0.0034397397,
     "free": false,
     "sources": {
       "per_source": {

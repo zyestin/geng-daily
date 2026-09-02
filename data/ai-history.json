@@ -5,10 +5,10 @@
       "date": "2026-09-02",
       "slot": "ai-weekday-evening",
       "slot_label": "工作日傍晚 · 生活时光",
-      "generated_at": "2026-09-02T08:15:29.528Z",
+      "generated_at": "2026-09-02T08:28:32.839Z",
       "weekday": "星期三",
       "file": "archive/2026-09-02-ai-weekday-evening.json",
-      "topic_count": 16,
+      "topic_count": 13,
       "category_names": [
         "💥 炸裂新闻",
         "🚀 新模型发布",
@@ -21,5 +21,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-02T08:15:29.529Z"
+  "updated_at": "2026-09-02T08:28:32.840Z"
 }
