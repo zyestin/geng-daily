@@ -426,9 +426,9 @@ function buildTechPrompt(trendItems) {
   const { date, weekday, time } = formatDate(now);
   const cats = Object.values(TECH_CATEGORIES);
   const trendSection = buildTechTrendsSection(trendItems || []);
-  // 素材充足时强制每分类 2 条（否则模型会偷懒只给 1 条）
+  // 素材充足时要求每分类 2 条（否则模型会偷懒只给 1 条），但不重复优先于凑数
   const quotaLine = (trendItems?.length || 0) >= 16
-    ? `素材共 ${trendItems.length} 条，非常充足——**每个方向必须恰好 2 条，共 ${cats.length * 2} 条**，不许少给！`
+    ? `素材共 ${trendItems.length} 条，充足——每个方向请给 2 条（共 ${cats.length * 2} 条）。但如果找不到第二个**不重复**的真实事件，就只给 1 条——凑数复用同一个事件是严重错误，绝不允许。`
     : `素材共 ${trendItems?.length || 0} 条，优先每个方向 2 条；确实找不到第二个真实事件时才允许 1 条（每个分类至少 1 条）。`;
 
   const systemPrompt = `你是"科技圈吃瓜主编"。核心使命：把科技圈的热闹讲成段子，让程序员上班摸鱼有瓜可吃、和同事聊天有梗可用。
@@ -509,9 +509,9 @@ function buildAiPrompt(trendItems) {
   const { date, weekday, time } = formatDate(now);
   const cats = Object.values(AI_CATEGORIES);
   const trendSection = buildAiTrendsSection(trendItems || []);
-  // 素材充足时强制每分类 2 条（否则模型会偷懒只给 1 条）
+  // 素材充足时要求每分类 2 条（否则模型会偷懒只给 1 条），但不重复优先于凑数
   const quotaLine = (trendItems?.length || 0) >= 16
-    ? `素材共 ${trendItems.length} 条，非常充足——**每个方向必须恰好 2 条，共 ${cats.length * 2} 条**，不许少给！`
+    ? `素材共 ${trendItems.length} 条，充足——每个方向请给 2 条（共 ${cats.length * 2} 条）。但如果找不到第二个**不重复**的真实事件，就只给 1 条——凑数复用同一个事件是严重错误，绝不允许。`
     : `素材共 ${trendItems?.length || 0} 条，优先每个方向 2 条；确实找不到第二个真实事件时才允许 1 条（每个分类至少 1 条）。`;
 
   const systemPrompt = `你是"AI 圈前线哨兵"。核心使命：盯住 AI 圈最新、最热、大影响力的炸裂动态，让用户每天刷 5 分钟就能跟得上 AI 圈的惊天变化，和同事聊天时像业内人士。
@@ -531,14 +531,17 @@ AI 圈新闻的灵魂是对比和冲击力：
 - 炸裂新闻：讲清它打破了什么认知/格局，"达到人类水平""成本暴降 90%"这种冲击点要放大
 - 大佬言论：引用原话+场合，再给一句你的锐评
 
-## 讲法要求（每条至少用2种）
+## 讲法要求（每条至少用2种，且**每条的讲法必须不一样**）
 说人话（术语翻译成生活比喻）、数字冲击（"便宜了 27 倍"比"大幅降低"有劲）、锐评收尾（一句话总结值得发群里）、对比锚点（拿大家熟知的旧事物对比）、吃瓜口吻（"家人们谁懂啊，奥特曼又出来搞事了"）
 
+⚠️ 反模板化：上面只是"可用的讲法菜单"，不是让你每条套同一个句式。**如果多条内容都用"家人们…""这波属于是…""XX 直接起飞"开头，整批作废重写。** 每条必须有自己独有的梗和切入角度。
+
 ## 禁忌（违反=严重事故）
-1. **编造直接引语**：引号里的原话必须是你确信真实说过的。不确定某人说了什么 → 改成转述其公开观点，绝对不要加引号编一句话。
-2. **编造具体场合/日期**："在XX大会上表示""9月X日的论坛上指出"——场合和日期必须真实可考。不确定就写"近日"或干脆不写。
-3. **编造模型/公司/事件**：不存在的版本号、没发生的融资一律不写。
-4. 无具体主体的空泛内容、股价预测/投资建议、政治敏感
+1. **搞错人物身份**：写某人时必须确认他的**真实头衔和所属公司**（例：梁文锋是 DeepSeek 创始人，不是 OpenAI 首席科学家；奥特曼是 OpenAI CEO）。张冠李戴 = 最严重的事故，拿不准就别写这个名字。
+2. **编造直接引语**：引号里的原话必须是你确信真实说过的。不确定某人说了什么 → 改成转述其公开观点，绝对不要加引号编一句话。
+3. **编造具体场合/日期**："在XX大会上表示""9月X日的论坛上指出"——场合和日期必须真实可考。不确定就写"近日"或干脆不写。
+4. **编造模型/公司/事件**：不存在的版本号、没发生的融资一律不写。
+5. 无具体主体的空泛内容、股价预测/投资建议、政治敏感
 
 **宁可某个方向只给 1 条甚至留空，也绝不编一条假的。** 素材里没有的方向，可以写你确信真实的近期事件（写明来源媒体名），但拿不准就少写。
 
@@ -1118,18 +1121,19 @@ async function fetchTechTrends() {
     return true;
   });
 
-  // 混合配额：科技媒体为主（36氪 10 + 虎嗅 10），热榜补全网大瓜（百度/头条交替 10）
+  // 混合配额：科技媒体为主（36氪 12 + 虎嗅 12 = 24），热榜补全网大瓜（百度/头条交替 12）
+  // 素材越充足，AI 越不需要靠"复用同一事件"凑数
   const media = [...dedup(byName.kr36 || []), ...dedup(byName.huxiu || [])];
   const hotRaw = [];
   const hotSrcs = [byName.baidu || [], byName.toutiao || []].filter(a => a.length);
   outer: for (let k = 0; k < 20; k++) {
     for (const arr of hotSrcs) {
       if (arr[k]) hotRaw.push(arr[k]);
-      if (hotRaw.length >= 10) break outer;
+      if (hotRaw.length >= 12) break outer;
     }
   }
   const hot = dedup(hotRaw);
-  const items = [...media.slice(0, 20), ...hot];
+  const items = [...media.slice(0, 24), ...hot];
   return { items, stats };
 }
 
