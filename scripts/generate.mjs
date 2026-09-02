@@ -452,7 +452,9 @@ function buildTechPrompt(trendItems) {
 - 币圈风云：孙宇晨式人物的真实动态，调侃但不站队不下投资结论
 
 ## 禁忌
-编造不存在的事件/语录、无具体主体的空泛内容、涉刑案细节、攻击外貌、政治敏感
+编造直接引语（引号里的原话必须是真实说过的）、编造具体场合/日期（"在XX大会上表示"必须真实可考）、编造不存在的事件、无具体主体的空泛内容、涉刑案细节、攻击外貌、政治敏感
+
+**宁可某个方向只给 1 条甚至留空，也绝不编一条假的。**
 AI 相关的新闻（新模型/AI公司动态）留给 AI 频道，这里只挑其中已经"出圈"影响整个科技圈的大事
 
 ## 输出
@@ -532,8 +534,13 @@ AI 圈新闻的灵魂是对比和冲击力：
 ## 讲法要求（每条至少用2种）
 说人话（术语翻译成生活比喻）、数字冲击（"便宜了 27 倍"比"大幅降低"有劲）、锐评收尾（一句话总结值得发群里）、对比锚点（拿大家熟知的旧事物对比）、吃瓜口吻（"家人们谁懂啊，奥特曼又出来搞事了"）
 
-## 禁忌
-编造不存在的模型/事件/语录、无具体主体的空泛内容、股价预测/投资建议、政治敏感
+## 禁忌（违反=严重事故）
+1. **编造直接引语**：引号里的原话必须是你确信真实说过的。不确定某人说了什么 → 改成转述其公开观点，绝对不要加引号编一句话。
+2. **编造具体场合/日期**："在XX大会上表示""9月X日的论坛上指出"——场合和日期必须真实可考。不确定就写"近日"或干脆不写。
+3. **编造模型/公司/事件**：不存在的版本号、没发生的融资一律不写。
+4. 无具体主体的空泛内容、股价预测/投资建议、政治敏感
+
+**宁可某个方向只给 1 条甚至留空，也绝不编一条假的。** 素材里没有的方向，可以写你确信真实的近期事件（写明来源媒体名），但拿不准就少写。
 
 ## 输出
 中文口语化。直接输出JSON，不要markdown代码块。`;
@@ -1405,6 +1412,7 @@ async function generateContent(systemPrompt, userPrompt, expectedCategories, pre
   const freeCount = models.filter(m => !PAID_FALLBACK_MODELS.includes(m) && !(preferredModels || []).includes(m)).length;
 
   let lastErr = '';
+  let rateLimitedFree = 0;   // 连续被 429 限流的免费模型计数（账号级限流判定）
   for (let i = 0; i < models.length; i++) {
     const model = models[i];
     const isPreferred = (preferredModels || []).includes(model);
@@ -1413,6 +1421,12 @@ async function generateContent(systemPrompt, userPrompt, expectedCategories, pre
       console.warn(`[WARN] 免费模型全部失败，切换到付费兜底模型: ${model}`);
     } else if (isPreferred && isPaid) {
       console.log(`[INFO] 使用指定优先模型（付费）: ${model}`);
+    }
+    // 提速：429 是账号级限流，连续 2 个免费模型都撞 429 说明整个免费层都在限流窗口，
+    // 没必要再挨个试（每次 15s 等待 × 多次重试），直接跳到付费层。
+    if (!isPaid && !isPreferred && rateLimitedFree >= 2) {
+      console.warn(`[WARN] 已连续 ${rateLimitedFree} 个免费模型被限流(429)，判定账号处于限流窗口，跳过剩余免费模型`);
+      continue;
     }
     try {
       const result = await callModel(model, systemPrompt, userPrompt, maxTokensMap[model]);
@@ -1428,6 +1442,9 @@ async function generateContent(systemPrompt, userPrompt, expectedCategories, pre
     } catch (e) {
       lastErr = e.message;
       console.warn(`[WARN] 模型 ${model} 生成失败: ${e.message}`);
+      if (!isPaid && !isPreferred && /429|rate.?limit|Too Many Requests/i.test(e.message)) {
+        rateLimitedFree++;
+      }
       await sleep(!isPaid ? 15000 : 5000);
     }
   }
@@ -1632,18 +1649,54 @@ function validateContent(content, expectedCategories) {
     throw new Error(`分类不齐全: 期望 ${expectedCategories} 个，实际 ${content.categories.length} 个（模型输出被截断或漏写）`);
   }
   let total = 0;
-  for (const cat of content.categories) {
+  let repaired = 0;
+  content.categories = content.categories.filter(cat => {
     if (!cat.name || !cat.items || !Array.isArray(cat.items) || cat.items.length === 0) {
-      throw new Error('分类结构无效: ' + JSON.stringify(cat).substring(0, 100));
+      console.warn(`[WARN] 丢弃无效分类: ${(cat && cat.name) || '(无名)'}`);
+      return false;
+    }
+    // 逐条容错补全：缺的字段能从其他字段推导就补，补不了才丢弃该条
+    cat.items = cat.items.filter(item => {
+      if (!item || typeof item !== 'object') return false;
+      const s = (v) => (typeof v === 'string' ? v.trim() : '');
+      item.title = s(item.title);
+      item.summary = s(item.summary);
+      item.detail = s(item.detail);
+      item.usage = s(item.usage);
+      item.source = s(item.source);
+      if (!Array.isArray(item.tags)) item.tags = [];
+
+      // detail 是核心内容，缺失且无法推导 → 该条无价值，丢弃
+      if (!item.detail) {
+        if (item.summary && item.summary.length >= 20) {
+          item.detail = item.summary;          // 用 summary 顶上
+          repaired++;
+        } else {
+          console.warn(`[WARN] 丢弃无实质内容的条目 (${cat.name}): ${item.title || '(无标题)'}`);
+          return false;
+        }
+      }
+      if (!item.title) { item.title = item.detail.slice(0, 10); repaired++; }
+      if (!item.summary) { item.summary = item.detail.slice(0, 20); repaired++; }
+      if (!item.usage) {
+        item.usage = `💡 聊到相关内容时切入\n💬 ${item.title}\n🔥 ${item.tags.join(' ') || '热聊'}`.trim();
+        repaired++;
+      }
+      return true;
+    });
+    if (cat.items.length === 0) {
+      console.warn(`[WARN] 分类 "${cat.name}" 补全后无有效条目，丢弃该分类`);
+      return false;
     }
     total += cat.items.length;
-    for (const item of cat.items) {
-      if (!item.title || !item.summary || !item.detail || !item.usage) {
-        throw new Error(`话题缺少必填字段 (${cat.name}): ` + JSON.stringify(item).substring(0, 100));
-      }
-    }
+    return true;
+  });
+
+  if (total === 0) throw new Error('所有条目均无效（补全后为空）');
+  if (expectedCategories && content.categories.length < expectedCategories) {
+    throw new Error(`分类不齐全: 期望 ${expectedCategories} 个，实际 ${content.categories.length} 个（模型输出被截断或漏写）`);
   }
-  console.log(`[INFO] 验证通过: ${content.categories.length} 个分类, ${total} 个话题`);
+  console.log(`[INFO] 验证通过: ${content.categories.length} 个分类, ${total} 个话题${repaired ? `（自动补全 ${repaired} 处字段）` : ''}`);
   return total;
 }
 
