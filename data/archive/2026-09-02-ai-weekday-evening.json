@@ -1,0 +1,168 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "OpenAI Astra 打破网络安全",
+          "summary": "OpenAI Astra 突破网络安全能力",
+          "detail": "OpenAI 最新模型 Astra 突破了网络安全的关键能力，能够在计算机系统中执行复杂的网络安全任务，达到了人类水平。这一突破意味着 AI 在网络安全领域的应用将迎来新的里程碑，但也带来了潜在的风险和挑战。OpenAI 已经采取了一系列预防措施，以确保 Astra 的安全使用。",
+          "usage": "💡 讨论 AI 在网络安全中的应用时\n💬 Astra 已经在网络安全领域达到了人类水平，真是太炸裂了！\n🔥 OpenAI Astra 网络安全",
+          "source": "https://openai.com/index/path-to-astra",
+          "tags": [
+            "OpenAI",
+            "网络安全",
+            "Astra"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Claude Fable 5.1 发布",
+          "summary": "Claude Fable 5.1 发布，性能提升",
+          "detail": "Claude 最新发布的 Fable 5.1 在多项任务中表现优异，最高降价 45%，并引入了反蒸馏机制。这使得 Fable 5.1 在处理复杂任务时更加出色，特别是在最难的部分表现尤为突出。Claude 的这一更新进一步巩固了其在 AI 领域的领先地位。",
+          "usage": "💡 讨论 AI 模型更新时\n💬 Fable 5.1 不仅更强了，还降价了 45%，这波更新真香！\n🔥 Claude Fable5.1 反蒸馏",
+          "source": "https://www.qbitai.com/2026/09/482652.html",
+          "tags": [
+            "Claude",
+            "Fable5.1",
+            "降价"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "OpenAI 支持加州 AI 安全法案",
+          "summary": "OpenAI 支持加州青少年 AI 安全法案",
+          "detail": "OpenAI 公开支持加州 SB 1119 法案，该法案旨在为青少年提供适龄的 AI 安全保护，同时促进 AI 技术的负责任使用。OpenAI 表示，这一法案将有助于确保 AI 技术在青少年中的安全应用，防止潜在的风险和滥用。",
+          "usage": "💡 讨论 AI 法规和伦理时\n💬 OpenAI 支持加州青少年 AI 安全法案，AI 伦理越来越受重视了！\n🔥 OpenAI 加州法案 AI安全",
+          "source": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+          "tags": [
+            "OpenAI",
+            "AI 安全",
+            "加州法案"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "ChatGPT 进军医疗领域",
+          "summary": "ChatGPT 连接医疗记录，助力临床",
+          "detail": "OpenAI 宣布 ChatGPT 现在可以连接可信的医疗数据，帮助临床医生安全地访问患者信息。这一更新使得 ChatGPT 在医疗领域的应用更加广泛，特别是在处理电子健康记录（EHR）和相关医疗数据时。这一举措将进一步推动 AI 技术在医疗行业的落地。",
+          "usage": "💡 讨论 AI 在医疗中的应用时\n💬 ChatGPT 现在能连接医疗记录了，临床医生的福音啊！\n🔥 ChatGPT 医疗记录 EHR",
+          "source": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+          "tags": [
+            "OpenAI",
+            "ChatGPT",
+            "医疗"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "GitHub 架构图 Agent",
+          "summary": "GitHub 架构图 Agent 上线",
+          "detail": "GitHub 推出了最新的架构图 Agent，支持实时更新和美观展示。这一工具使得开发者能够更容易地生成和更新架构图，大幅提升了开发效率和可视化效果。GitHub 的这一更新将进一步增强其在开发者社区中的影响力。",
+          "usage": "💡 讨论开发工具时\n💬 GitHub 架构图 Agent 上线了，开发者的新宠！\n🔥 GitHub 架构图 Agent",
+          "source": "https://www.qbitai.com/2026/09/482469.html",
+          "tags": [
+            "GitHub",
+            "架构图",
+            "Agent"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "Empirik 预测 IT 故障",
+          "summary": "Empirik 融资 2100 万美元",
+          "detail": "Sequoia 孵化的 Empirik 成功融资 2100 万美元，致力于预测 IT 基础设施的潜在故障。Empirik 的目标是像 Cursor 在软件工程领域所做的那样，为 IT 基础设施提供预测性维护，减少系统停机时间和风险。",
+          "usage": "💡 讨论开源社区和融资时\n💬 Empirik 融资 2100 万美元，IT 基础设施预测要起飞了！\n🔥 Empirik IT 故障预测",
+          "source": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+          "tags": [
+            "Empirik",
+            "融资",
+            "IT 故障"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "李飞飞发布多模态世界模型",
+          "summary": "李飞飞发布全球首个多模态世界模型",
+          "detail": "李飞飞团队发布了全球首个多模态世界模型，该模型能够通过一张图片补全 3D 世界，并为机器人创建训练场。这一突破不仅在计算机视觉领域具有重要意义，还为机器人技术的发展提供了新的可能性。",
+          "usage": "💡 讨论 AI 研究突破时\n💬 李飞飞发布的多模态世界模型，一张图补全 3D 世界，太科幻了！\n🔥 李飞飞 多模态 3D世界",
+          "source": "https://www.qbitai.com/2026/09/482586.html",
+          "tags": [
+            "李飞飞",
+            "多模态",
+            "3D世界"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "AfterQuery 估值 32 亿美元",
+          "summary": "AfterQuery 成 YC 最快独角兽",
+          "detail": "AI 模型训练初创公司 AfterQuery 最新一轮融资后估值达到 32 亿美元，成为 Y Combinator 有史以来最快的独角兽。这一成就标志着 AI 模型训练领域的高成长性和巨大潜力，吸引了大量资本的关注。",
+          "usage": "💡 讨论 AI 融资和估值时\n💬 AfterQuery 估值 32 亿，AI 模型训练真是太火了！\n🔥 AfterQuery YC 独角兽",
+          "source": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+          "tags": [
+            "AfterQuery",
+            "YC",
+            "独角兽"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-09-02T05:58:56.827Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2817,
+    "completion_tokens": 1753,
+    "total_tokens": 4570,
+    "cost_usd": 0.0025284069000000003,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}
