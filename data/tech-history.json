@@ -25,12 +25,19 @@
       "date": "2026-09-07",
       "slot": "tech-weekday-evening",
       "slot_label": "工作日傍晚 · 生活时光",
-      "generated_at": "2026-09-07T02:27:08.519Z",
+      "generated_at": "2026-09-07T15:18:39.022Z",
       "weekday": "星期一",
       "file": "archive/2026-09-07-tech-weekday-evening.json",
-      "topic_count": 2,
+      "topic_count": 15,
       "category_names": [
-        "📰 今日头条"
+        "今日头条",
+        "大佬动态",
+        "巨头动向",
+        "组织变动",
+        "前沿探索",
+        "新品发布",
+        "创业大戏",
+        "币圈风云"
       ]
     },
     {
@@ -114,5 +121,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-07T02:27:08.521Z"
+  "updated_at": "2026-09-07T15:18:39.024Z"
 }

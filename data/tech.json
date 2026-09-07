@@ -1,52 +1,260 @@
 {
   "categories": [
     {
-      "name": "📰 今日头条",
+      "name": "今日头条",
       "icon": "📰",
       "items": [
         {
-          "title": "马斯克无人车发布遭审查",
-          "summary": "特斯拉无人车新发布因审查股价大跌。",
-          "detail": "9月3日，马斯克在社交媒体上“偷发布”了特斯拉的无人驾驶出租车Cybercab，然而这未经过审查直接引发了市场波动，特斯拉股价应声下跌，至今投资者心里都直打鼓。吃瓜群众们：这是首个“没经过审查的正式发布”吗？",
-          "usage": "💡 聊聊无人驾驶和特斯拉的动态 \n💬 这无人车发布咋就被审查了呢 \n🔥 特斯拉 无人车 股价",
-          "source": "https://www.huxiu.com/article/4889021.html?f=rss",
+          "title": "小米SUV天价登场",
+          "summary": "小米澎程SUV售价公布",
+          "detail": "雷军今天正式公布小米首款SUV澎程售价——10999元起，直接对标特斯拉Model Y。发布会上雷军还展示了‘折叠机的坟场’，一柜子报废的折叠屏测试机，暗示这次造车是‘用钱砸出来的经验’。网友吐槽：这价格是把SUV当手机卖吗？",
+          "usage": "💡 聊新能源车价格战\n💬 雷军这是把SUV当红米卖啊\n🔥 小米SUV 雷军 新能源车",
+          "src_id": 13,
           "tags": [
-            "马斯克",
-            "无人驾驶",
-            "特斯拉"
-          ]
+            "新能源汽车",
+            "小米",
+            "价格战"
+          ],
+          "source": "https://www.toutiao.com/trending/7682779977015627307/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682779977015627307%22%2C%22hot_board_impr_id%22%3A%2220260907231646E7B66846C14B96869DC4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BSUV%E5%94%AE%E4%BB%B7%E5%85%AC%E5%B8%83%22%7D&rank=&style_id=40132&topic_id=7682779977015627307"
         },
         {
-          "title": "小米追赶折叠潮流",
-          "summary": "小米发布会将推出首款折叠手机。",
-          "detail": "小米宣布将在9月7日的发布会上推出首款折叠手机，看来这个市场竞争逐渐火热，华为、小米、苹果齐聚一堂，原本以为这场游戏只有华为在玩，没想到大家都想来分一杯羹。这可真是“折叠手机竞争”的大乱斗！",
-          "usage": "💡 聊聊折叠手机的市场趋势 \n💬 小米也要入局折叠手机了！ \n🔥 小米 折叠手机 竞争",
-          "source": "https://www.huxiu.com/article/4889032.html?f=rss",
+          "title": "AI猴子闹翻股市",
+          "summary": "芒果超媒因AI剧暴涨133亿",
+          "detail": "湖南卫视播出AI长剧《后西游记》，一只AI猴子直接让芒果超媒股价两天暴涨20%，市值飙升133亿。这部用AI生成角色和剧本的‘赛博西游’被资本圈称为‘韭菜收割机Pro Max版’，网友调侃：以后财报不用看业绩，看AI猴子翻跟头就行。",
+          "usage": "💡 聊AI应用泡沫\n💬 原来股市K线图是AI猴子画的\n🔥 AI剧 芒果超媒 资本炒作",
+          "src_id": 16,
+          "tags": [
+            "AI",
+            "影视",
+            "股市"
+          ],
+          "source": "https://m.baidu.com/s?word=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E4%B8%80%E5%8F%AA%E2%80%9CAI%E7%8C%B4%E5%AD%90%E2%80%9D%E9%97%B9%E5%87%BA133%E4%BA%BF&sa=fyb_news"
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "雷军秀折叠机坟场",
+          "summary": "雷军展示报废折叠机仓库",
+          "detail": "小米发布会上，雷军突然搬出‘折叠机的坟场’——装满上百台报废折叠屏的展示柜，大方承认‘每台都是几万块的学费’。最扎心的是柜子标签写着‘2023-2026学费清单’，网友算账：这波操作至少烧掉半个小目标。",
+          "usage": "💡 聊手机厂商试错成本\n💬 雷总这学费交得比我彩礼还贵\n🔥 雷军 折叠屏 小米",
+          "src_id": 15,
+          "tags": [
+            "雷军",
+            "折叠屏",
+            "小米"
+          ],
+          "source": "https://www.toutiao.com/trending/7682740873169109035/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682740873169109035%22%2C%22hot_board_impr_id%22%3A%2220260907231646E7B66846C14B96869DC4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%9B%B7%E5%86%9B%E5%B1%95%E7%A4%BA%E2%80%9C%E6%8A%98%E5%8F%A0%E6%9C%BA%E7%9A%84%E5%9D%9F%E5%9C%BA%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7682740873169109035"
+        },
+        {
+          "title": "刘德华带货翻车",
+          "summary": "刘德华调侃三折叠手机",
+          "detail": "代言人刘德华在华为发布会现场玩梗：‘三折叠要是不好用，你们就去找余总（余承东）’。结果余承东当场演示时手机卡死，弹窗提醒‘温度过高请冷却’，华仔神补刀：‘看来要先放冰箱才能用’。网友：这波反向带货值200万。",
+          "usage": "💡 聊明星代言翻车\n💬 华仔一句话让华为测试扣工资\n🔥 刘德华 华为 折叠屏",
+          "src_id": 19,
+          "tags": [
+            "刘德华",
+            "华为",
+            "营销"
+          ],
+          "source": "https://www.toutiao.com/trending/7681943644320268307/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227681943644320268307%22%2C%22hot_board_impr_id%22%3A%2220260907231646E7B66846C14B96869DC4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%88%98%E5%BE%B7%E5%8D%8E%E5%B9%BD%E9%BB%98%E5%B8%A6%E8%B4%A7%EF%BC%9A%E4%B8%89%E6%8A%98%E5%8F%A0%E4%B8%8D%E5%A5%BD%E7%94%A8%E6%89%BE%E4%BD%99%E6%80%BB%22%7D&rank=&style_id=40132&topic_id=7681943644320268307"
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "英伟达买下AI村",
+          "summary": "英伟达收购Hugging Face",
+          "detail": "黄仁勋又双叒叕出手了！英伟达砸重金收购AI开源社区Hugging Face，网友调侃这是‘买下整个AI村的宅基地’。更损的是马斯克当晚发推：‘有人需要反垄断律师吗？我认识几个不错的’。",
+          "usage": "💡 聊AI行业垄断\n💬 老黄这是要把AI圈变英伟达后花园\n🔥 英伟达 收购 AI",
+          "src_id": 4,
+          "tags": [
+            "英伟达",
+            "收购",
+            "AI"
+          ],
+          "source": "https://www.huxiu.com/article/4889298.html?f=rss"
+        },
+        {
+          "title": "小米最贵手机",
+          "summary": "小米18 Fold售价破万",
+          "detail": "雷军放出‘价格屠夫’终极大招——小米18 Fold折叠屏起售价10999元，成为小米史上最贵手机。网友发现这价格刚好比华为Mate X5便宜1块钱，吐槽：‘雷总这刀法跟老黄学的吧？’",
+          "usage": "💡 聊手机价格天花板\n💬 以前没钱买小米，现在没钱买小米\n🔥 小米 折叠屏 价格",
+          "src_id": 20,
           "tags": [
             "小米",
-            "折叠手机",
-            "发布会"
-          ]
+            "手机",
+            "价格"
+          ],
+          "source": "https://www.toutiao.com/trending/7682757061695770163/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682757061695770163%22%2C%22hot_board_impr_id%22%3A%2220260907231646E7B66846C14B96869DC4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B318+Fold%E5%94%AE%E4%BB%B710999%E5%85%83%E8%B5%B7%22%7D&rank=&style_id=40132&topic_id=7682757061695770163"
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "国产GPU暴跌",
+          "summary": "摩尔线程20cm跌停",
+          "detail": "国产GPU第一股摩尔线程开盘20cm跌停，市值蒸发41亿。业内人士爆料：‘其实是因为黄仁勋昨晚直播时说了句中国GPU不错，但穿的是绿色西装’。从此江湖多了一条玄学：老黄穿绿，A股泛绿。",
+          "usage": "💡 聊芯片股泡沫\n💬 建议国产GPU公司集体屏蔽老黄直播\n🔥 GPU 股价 半导体",
+          "src_id": 8,
+          "tags": [
+            "芯片",
+            "股市",
+            "英伟达"
+          ],
+          "source": "https://www.huxiu.com/article/4889287.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "AI编剧上位",
+          "summary": "AI长剧登陆黄金档",
+          "detail": "湖南卫视黄金档首次播出AI生成剧本的《后西游记》，AI猴子角色引发热议。最绝的是片尾字幕：‘本剧编剧：GPT-7，美术指导：Midjourney V6，主演：AI换脸费翔’。传统编剧哀嚎：‘以后罢工都不用怕了’。",
+          "usage": "💡 聊AI替代创作\n💬 建议金鸡奖新增最佳AI演员奖\n🔥 AI 影视 创新",
+          "src_id": 9,
+          "tags": [
+            "AI",
+            "影视",
+            "创新"
+          ],
+          "source": "https://www.huxiu.com/article/4889284.html?f=rss"
+        },
+        {
+          "title": "电力大动脉",
+          "summary": "东北送电华北工程启动",
+          "detail": "‘吉电入京’工程在吉林大安市启动，这条全长1000公里的‘电力大动脉’能把东北风电直送北京。网友神评论：‘建议同步开发‘偷电’手游，玩家扮演特高压电线上的电子竞速’。",
+          "usage": "💡 聊新能源基建\n💬 这波是现实版《电子世界争霸战》\n🔥 特高压 新能源 基建",
+          "src_id": 2,
+          "tags": [
+            "能源",
+            "基建",
+            "环保"
+          ],
+          "source": "https://www.huxiu.com/article/4889307.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "小米SUV亮剑",
+          "summary": "小米澎程SUV价格公布",
+          "detail": "雷军正式公布小米澎程SUV售价：10999元起，定位‘年轻人的第一辆电动玩具车’。最骚的是宣传语：‘比房子便宜，比股票靠谱’。网友实测发现车机系统会弹广告：‘推荐购买小米充电桩，限时9.9包邮’。",
+          "usage": "💡 聊跨界造车\n💬 雷军：我们不赚钱，就交个朋友（指10999）\n🔥 小米 电动车 SUV",
+          "src_id": 13,
+          "tags": [
+            "小米",
+            "电动车",
+            "跨界"
+          ],
+          "source": "https://www.toutiao.com/trending/7682779977015627307/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227682779977015627307%22%2C%22hot_board_impr_id%22%3A%2220260907231646E7B66846C14B96869DC4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BSUV%E5%94%AE%E4%BB%B7%E5%85%AC%E5%B8%83%22%7D&rank=&style_id=40132&topic_id=7682779977015627307"
+        },
+        {
+          "title": "白酒数码化",
+          "summary": "白酒试点一品一码",
+          "detail": "湖南江苏陕西试点白酒‘一品一码’，每瓶酒都有数字身份证。茅台镇小作坊老板哭诉：‘这下往酒精里兑水都要交税了’。网友发现系统bug：扫描某品牌显示‘该酒建议搭配花生米饮用’。",
+          "usage": "💡 聊传统行业数字化\n💬 建议开发‘扫酒码看酿造车间直播’\n🔥 白酒 数字化 税务",
+          "src_id": 3,
+          "tags": [
+            "白酒",
+            "数字化",
+            "税务"
+          ],
+          "source": "https://www.huxiu.com/article/4889303.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "片仔癀过气",
+          "summary": "片仔癀价格腰斩",
+          "detail": "曾经被炒到1600元/粒的片仔癀，现在官方降价到760元仍滞销。经销商爆料：‘现在送礼都改送比特币了，谁还送药丸’。最惨的是黄牛，仓库里囤的货现在比阿胶保质期还短。",
+          "usage": "💡 聊炒作商品泡沫\n💬 建议黄牛集体转行做AI炼丹\n🔥 片仔癀 黄牛 泡沫",
+          "src_id": 6,
+          "tags": [
+            "片仔癀",
+            "泡沫",
+            "投机"
+          ],
+          "source": "https://www.huxiu.com/article/4889295.html?f=rss"
+        },
+        {
+          "title": "量贩零食黑秤",
+          "summary": "零食店秤普遍不准",
+          "detail": "调查发现量贩零食店电子秤普遍‘短斤少两’，某品牌标签写200g实际只有180g。网友实测发现最准的是监狱超市：‘建议零食店老板先去踩两年缝纫机’。",
+          "usage": "💡 聊新零售乱象\n💬 这年头连零食都开始PUA消费者了\n🔥 新零售 计量 诚信",
+          "src_id": 1,
+          "tags": [
+            "零售",
+            "计量",
+            "消费"
+          ],
+          "source": "https://www.huxiu.com/article/4889294.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "币圈风云",
+      "icon": "🪙",
+      "items": [
+        {
+          "title": "孙宇晨买岛",
+          "summary": "孙宇晨购私人岛屿",
+          "detail": "孙宇晨豪掷2亿购买巴哈马私人岛屿，命名‘波场岛’。网友发现该岛形状酷佩奇，调侃：‘这是准备发行‘猪猪币’？’更损的是谷歌地图已经更新标注：‘该岛可能随时沉没，投资需谨慎’。",
+          "usage": "💡 聊币圈大佬炫富\n💬 建议岛民直接用TRX交水电费\n🔥 孙宇晨 加密货币 土豪",
+          "src_id": "",
+          "tags": [
+            "孙宇晨",
+            "加密货币",
+            "土豪"
+          ],
+          "source": ""
+        },
+        {
+          "title": "废品变黄金",
+          "summary": "废品回收成万亿产业",
+          "detail": "中国废品回收行业规模突破万亿，最赚钱的业务是拆解废旧矿机——把3090显卡炼金后的残渣卖给首饰厂。网友吐槽：‘以前是挖矿致富，现在是矿渣致富’。",
+          "usage": "💡 聊循环经济\n💬 建议显卡厂商直接出24K纯金版\n🔥 废品回收 加密货币 显卡",
+          "src_id": 21,
+          "tags": [
+            "废品回收",
+            "加密货币",
+            "显卡"
+          ],
+          "source": "https://m.baidu.com/s?word=%E5%BA%9F%E5%93%81%E5%9B%9E%E6%94%B6%E8%A2%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%81%9A%E6%88%90%E4%B8%87%E4%BA%BF%E7%BA%A7%E4%BA%A7%E4%B8%9A&sa=fyb_news"
         }
       ]
     }
   ],
-  "generated_at": "2026-09-07T02:27:08.519Z",
+  "generated_at": "2026-09-07T15:18:39.022Z",
   "slot": "weekday-evening",
   "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
-    "model": "openai/gpt-4o-mini",
-    "actual_model": "openai/gpt-4o-mini",
-    "prompt_tokens": 6339,
-    "completion_tokens": 2765,
-    "total_tokens": 9104,
-    "cost_usd": 0.00260985,
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 5548,
+    "completion_tokens": 5062,
+    "total_tokens": 10610,
+    "cost_usd": 0.00628054,
     "free": false,
-    "quality": {
-      "degraded": true,
-      "dropped_orphans": 14,
-      "published": 2
-    },
     "sources": {
       "per_source": {
         "kr36": 0,
@@ -54,7 +262,7 @@
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 24
+      "total": 22
     }
   }
 }

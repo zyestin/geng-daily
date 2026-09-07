@@ -5,10 +5,10 @@
       "date": "2026-09-07",
       "slot": "parenting-weekday-evening",
       "slot_label": "工作日傍晚 · 生活时光",
-      "generated_at": "2026-09-07T02:03:36.961Z",
+      "generated_at": "2026-09-07T15:15:19.162Z",
       "weekday": "星期一",
       "file": "archive/2026-09-07-parenting-weekday-evening.json",
-      "topic_count": 16,
+      "topic_count": 12,
       "category_names": [
         "科学奇人",
         "文人风骨",
@@ -241,5 +241,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-07T02:03:36.965Z"
+  "updated_at": "2026-09-07T15:15:19.164Z"
 }
