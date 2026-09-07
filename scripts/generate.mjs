@@ -2018,7 +2018,8 @@ async function main() {
     const wCats = Object.keys(WIFE_CATEGORIES).length;
     // 媳妇频道首选 DeepSeek — 中文幽默最强，非中文模型幽默效果差
     const { content: wContent, meta: wMeta } = await generateContent(wSystem, wUser, wCats, ['deepseek/deepseek-chat'], trendItems);
-    const wTotal = validateContent(wContent, wCats);
+    // 降级放行后分类数可能不足（无源条目被剔除），此时不再强校验分类数
+    const wTotal = validateContent(wContent, wMeta?.quality?.degraded ? 0 : wCats);
 
     wContent.generated_at = new Date().toISOString();
     wContent.slot = slotKey;
@@ -2074,7 +2075,7 @@ async function main() {
     const tCats = Object.keys(TECH_CATEGORIES).length;
     // 吃瓜频道首选 DeepSeek — 中文段子手，吃瓜幽默效果最好
     const { content: tContent, meta: tMeta } = await generateContent(tSystem, tUser, tCats, ['deepseek/deepseek-chat'], techTrendItems || []);
-    const tTotal = validateContent(tContent, tCats);
+    const tTotal = validateContent(tContent, tMeta?.quality?.degraded ? 0 : tCats);
 
     tContent.generated_at = new Date().toISOString();
     tContent.slot = slotKey;
@@ -2128,7 +2129,7 @@ async function main() {
     const aCats = Object.keys(AI_CATEGORIES).length;
     // AI 频道首选 DeepSeek — 中文锐评讲人话，效果最好
     const { content: aContent, meta: aMeta } = await generateContent(aSystem, aUser, aCats, ['deepseek/deepseek-chat'], aiTrendItems || []);
-    const aTotal = validateContent(aContent, aCats);
+    const aTotal = validateContent(aContent, aMeta?.quality?.degraded ? 0 : aCats);
 
     aContent.generated_at = new Date().toISOString();
     aContent.slot = slotKey;
