@@ -77,7 +77,17 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add data/
           git diff --staged --quiet || git commit -m "🤖 更新梗日报内容 [${{ steps.slot.outputs.slot }}]"
-          git push
+          # 生成耗时长（20+ 分钟），期间远程可能已被其他提交（定时/手动/改代码）推进，
+          # 直接 push 会撞 non-fast-forward 让整个 workflow 失败。先 rebase 再推，失败重试 3 次。
+          for i in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push origin main; then exit 0; fi
+            # rebase 可能留下冲突态，先复位再重试，否则后面几次必然失败
+            git rebase --abort 2>/dev/null || true
+            echo "推送第 $i 次失败，5 秒后重试..."
+            sleep 5
+          done
+          echo "::error::推送失败（已重试 3 次）"
+          exit 1
 
   # 部署到 GitHub Pages（免费、无限流量、全球 CDN）
   deploy:
