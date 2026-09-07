@@ -399,7 +399,7 @@ JSON 结构（把每个字段替换为真实内容，直接输出可被JSON.pars
 {
   "categories": [
     { "name": "方向名", "icon": "emoji", "items": [
-      { "title": "", "summary": "", "detail": "", "usage": "💡 \\n💬 \\n🔥 ", "source": "", "tags": [] }
+      { "title": "", "summary": "", "detail": "", "usage": "💡 \\n💬 \\n🔥 ", "src_id": 1, "tags": [] }
     ]}
   ]
 }`;
@@ -491,7 +491,7 @@ JSON 结构（把每个字段替换为真实内容，直接输出可被JSON.pars
 {
   "categories": [
     { "name": "方向名", "icon": "emoji", "items": [
-      { "title": "", "summary": "", "detail": "", "usage": "💡 \\n💬 \\n🔥 ", "source": "", "tags": [] }
+      { "title": "", "summary": "", "detail": "", "usage": "💡 \\n💬 \\n🔥 ", "src_id": 1, "tags": [] }
     ]}
   ]
 }`;
@@ -591,7 +591,7 @@ JSON 结构（把每个字段替换为真实内容，直接输出可被JSON.pars
 {
   "categories": [
     { "name": "方向名", "icon": "emoji", "items": [
-      { "title": "", "summary": "", "detail": "", "usage": "💡 \\n💬 \\n🔥 ", "source": "", "tags": [] }
+      { "title": "", "summary": "", "detail": "", "usage": "💡 \\n💬 \\n🔥 ", "src_id": 1, "tags": [] }
     ]}
   ]
 }`;
@@ -1432,6 +1432,7 @@ async function generateContent(systemPrompt, userPrompt, expectedCategories, pre
 
   let lastErr = '';
   let rateLimitedFree = 0;   // 连续被 429 限流的免费模型计数（账号级限流判定）
+  let bestEffort = null;     // 质量不达标时的最佳候选（用于最终降级放行）
   for (let i = 0; i < models.length; i++) {
     const model = models[i];
     const isPreferred = (preferredModels || []).includes(model);
@@ -1451,15 +1452,24 @@ async function generateContent(systemPrompt, userPrompt, expectedCategories, pre
       const result = await callModel(model, systemPrompt, userPrompt, maxTokensMap[model]);
       const parsed = parseContent(result.content);
       validateContent(parsed, expectedCategories);
-      // 质量闸门：素材池存在时，回填缺失链接 + 查重，不达标则换模型重试
-      if (trendItems && trendItems.length > 0) {
-        enforceQuality(parsed, trendItems);
-      }
       const meta = buildMeta(model, result, pricingMap);
       const shownModel = result.actualModel && result.actualModel !== model
         ? `${model} → ${result.actualModel}` : model;
       const costStr = meta.cost_usd === null ? 'N/A' : `$${meta.cost_usd.toFixed(6)}`;
       const tag = meta.free ? '🎉 免费' : `💰 付费(${costStr})`;
+
+      // 质量闸门：素材池存在时，回填缺失链接 + 查重
+      if (trendItems && trendItems.length > 0) {
+        const qa = enforceQuality(parsed, trendItems);
+        if (!qa.ok) {
+          // 不达标：记为候选，继续试下一个模型（可能换个模型就达标）
+          const score = qa.orphans + qa.duplicates * 2;
+          if (!bestEffort || score < bestEffort.score) {
+            bestEffort = { content: parsed, meta, score, qa, model: shownModel };
+          }
+          throw new Error(`质量不达标：无源 ${qa.orphans} 条（上限 4）、重复 ${qa.duplicates} 条（上限 1）`);
+        }
+      }
       console.log(`[OK] 生成成功（模型 ${shownModel}，tokens=${meta.total_tokens}，${tag}）`);
       return { content: parsed, meta };
     } catch (e) {
@@ -1470,6 +1480,32 @@ async function generateContent(systemPrompt, userPrompt, expectedCategories, pre
       }
       await sleep(!isPaid ? 15000 : 5000);
     }
+  }
+
+  // 降级放行：所有模型都没达到质量标准时，仍要有内容产出，但绝不发布无法溯源的内容。
+  // 做法：取"无源+重复"评分最低的一次，然后**剔除所有无 source 的条目**——
+  // 宁可少几条，也不把模型编造的东西放上线（这是本站的底线）。
+  if (bestEffort) {
+    const before = bestEffort.content.categories.reduce((s, c) => s + c.items.length, 0);
+    for (const cat of bestEffort.content.categories) {
+      cat.items = cat.items.filter(i => i.source);
+    }
+    bestEffort.content.categories = bestEffort.content.categories.filter(c => c.items.length > 0);
+    const after = bestEffort.content.categories.reduce((s, c) => s + c.items.length, 0);
+    console.warn(
+      `[WARN] 所有模型均未达质量标准，降级放行：模型 ${bestEffort.model} 原产 ${before} 条，` +
+      `已剔除 ${before - after} 条无源内容，实际发布 ${after} 条（全部可溯源）`
+    );
+    bestEffort.meta.quality = {
+      degraded: true,
+      dropped_orphans: before - after,
+      published: after,
+    };
+    if (after === 0) {
+      console.error('[ERROR] 剔除无源内容后已无条目可发布，本次不产出内容');
+      process.exit(1);
+    }
+    return { content: bestEffort.content, meta: bestEffort.meta };
   }
 
   console.error(`[ERROR] 所有模型均失败。最后错误: ${lastErr}`);
@@ -1763,8 +1799,17 @@ function enforceQuality(content, trendItems, maxOrphans = 4, maxDup = 1) {
     if (tKey) seenTitle.add(tKey);
     if (hKey.length >= 12) seenHead.add(hKey);
 
-    // —— 无源条目：回素材池用关键词匹配补 url
+    // —— 无源条目：优先按模型给出的素材编号（src_id）回填，确定性映射
+    if (!item.source && Number(item.src_id) > 0) {
+      const hit = (trendItems || [])[Number(item.src_id) - 1];
+      if (hit && hit.url) {
+        item.source = hit.url;
+        filled++;
+        continue;
+      }
+    }
     if (item.source) continue;
+    // —— 兜底：模型没给编号或编号无效时，用关键词模糊匹配
     const text = normText(item.title + item.summary + item.detail);
     let best = null;
     let bestScore = 0;
@@ -1786,13 +1831,9 @@ function enforceQuality(content, trendItems, maxOrphans = 4, maxDup = 1) {
   }
 
   const orphans = items.filter(i => !i.source).length;
-  console.log(`[INFO] 质量闸门: 回填链接 ${filled} 条 | 无源 ${orphans}/${items.length}（上限 ${maxOrphans}） | 重复 ${duplicates}（上限 ${maxDup}）`);
-  if (orphans > maxOrphans || duplicates > maxDup) {
-    throw new Error(
-      `质量不达标：无源 ${orphans} 条（上限 ${maxOrphans}）、重复 ${duplicates} 条（上限 ${maxDup}）`
-    );
-  }
-  return { filled, orphans, duplicates };
+  const ok = orphans <= maxOrphans && duplicates <= maxDup;
+  console.log(`[INFO] 质量闸门: 回填链接 ${filled} 条 | 无源 ${orphans}/${items.length}（上限 ${maxOrphans}） | 重复 ${duplicates}（上限 ${maxDup}） → ${ok ? '通过' : '不达标'}`);
+  return { filled, orphans, duplicates, ok };
 }
 
 /* ================================================================
