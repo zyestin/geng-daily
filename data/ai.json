@@ -5,25 +5,27 @@
       "icon": "💥",
       "items": [
         {
-          "title": "GPT-6 Astra",
-          "summary": "GPT-6 Astra达到人类水平",
-          "detail": "OpenAI的GPT-6 Astra不仅能在Perplexity平台上端到端地处理通信、软件变更和系统监控，还能自主操作电脑，达到了人类水平。这意味着AI不仅能辅助工作，还能完全接管复杂的任务，彻底改变工作流程。",
-          "usage": "💡 同事讨论AI接管工作\n💬 GPT-6 Astra现在能自主操作电脑了，人类要失业了？\n🔥 GPT-6 Astra 人类水平",
+          "title": "Astra 超越人类操作",
+          "summary": "Astra 操作电脑能力达到人类水平！",
+          "detail": "在最新发布的版本中，OpenAI 的 Astra 竟然能在复杂操作中超越人类。这意味着未来许多重复性高的任务将被 AI 取代，程序员们可能要学会与 AI 协同工作，而不是单打独斗。别忘了，之前的模型还在挣扎！",
+          "usage": "💡 和同事讨论 AI 的未来应用场景 \n💬 \"Astra 的操作水平直接逼近人类，未来谁还在做重复性的工作呢？\" \n🔥 AI操作 劳动力变革",
           "source": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
           "tags": [
-            "GPT-6 Astra",
-            "人类水平"
+            "AI",
+            "Astra",
+            "创新"
           ]
         },
         {
-          "title": "OpenAI收购",
-          "summary": "OpenAI收购Glass Imaging",
-          "detail": "OpenAI以3亿美元收购了智能相机公司Glass Imaging，这家公司由前苹果工程师创立，曾开发iPhone摄像头。OpenAI此举显然是为了增强AI在视觉领域的应用，未来可能会有更多AI驱动的视觉产品面世。",
-          "usage": "💡 讨论AI视觉领域\n💬 OpenAI花了3亿买了个摄像头公司，这是要搞大事情？\n🔥 OpenAI Glass Imaging",
-          "source": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+          "title": "智象发布新视频模型",
+          "summary": "智象推出首款物理规律导向视频模型！",
+          "detail": "智象未来（HiDream.ai）正式发布了其全模态视频生成模型 HiDream-O1-Video-1.0。这款模型能够根据物理规律生成更真实的视频，大幅提升了内容创作的智能化水平。想想以前的模型只能拼凑，结果现在可以创作出具有物理逻辑的视频，太炸裂了！",
+          "usage": "💡 适合讨论视频生成的未来 \n💬 \"智象的新模型让视频内容创作的质量直接飞升！\" \n🔥 视频生成 AI模型",
+          "source": "https://www.qbitai.com/2026/09/489389.html",
           "tags": [
-            "OpenAI",
-            "Glass Imaging"
+            "视频生成",
+            "AI",
+            "智象"
           ]
         }
       ]
@@ -33,25 +35,27 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "ChatGPT金融版",
-          "summary": "ChatGPT推出金融版",
-          "detail": "OpenAI发布了ChatGPT金融版，结合内置金融数据和GPT-6 Astra，帮助用户分析金融数据、生成报告和预测市场趋势。这对于金融分析师来说，简直是如虎添翼，未来人人都能成为金融专家。",
-          "usage": "💡 同事讨论AI金融应用\n💬 ChatGPT金融版来了，分析师要失业了？\n🔥 ChatGPT 金融版",
-          "source": "https://openai.com/index/introducing-chatgpt-financial-services",
+          "title": "GPT-6 Astra 横扫各类任务",
+          "summary": "新版本 GPT-6 Astra 强势上线！",
+          "detail": "GPT-6 Astra 发布后，跑分与上一代相比提升了约30%。这意味着它在处理复杂任务时的效率倍增，程序员们可以轻松搭建更复杂的应用。更重要的是，Astra 对代码的理解能力显著增强，极大提升了协作效率！",
+          "usage": "💡 可以留意 AI 工具的效率提升 \n💬 \"GPT-6 Astra 的跑分提升让我每天省下不少时间！\" \n🔥 模型对比 效率提升",
+          "source": "https://openai.com/index/cognition-devin-testing-with-astra",
           "tags": [
-            "ChatGPT",
-            "金融"
+            "GPT-6",
+            "AI",
+            "效率"
           ]
         },
         {
-          "title": "iOS 27 Siri",
-          "summary": "iOS 27 Siri大幅升级",
-          "detail": "iOS 27带来的Siri升级终于让用户重新使用它了。新Siri不仅反应更快，还能更好地理解上下文，甚至可以帮你购物和推荐搭配。Apple Intelligence的加持让Siri从以前的“鸡肋”变成了真正的助手。",
-          "usage": "💡 讨论iOS 27\n💬 新Siri终于不是“鸡肋”了，Apple Intelligence太强了！\n🔥 iOS 27 Siri",
-          "source": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+          "title": "Salesforce Koa 面向营销",
+          "summary": "Salesforce 发布新的推理模型 Koa！",
+          "detail": "Salesforce 最新推出的 Koa 模型基于 Nvidia 的 Nemotron，专门优化了销售与市场营销。这款模型在多个实际场景中的表现超出预期，打破了传统销售工具的局限，为销售团队提供了更直接的数据指导，特别适合快速变动的市场环境。",
+          "usage": "💡 和同事探讨 AI 在营销中的应用 \n💬 \"Koa 的出现可能会彻底改变我们的销售策略！\" \n🔥 销售模型 营销AI",
+          "source": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
           "tags": [
-            "iOS 27",
-            "Siri"
+            "Salesforce",
+            "模型",
+            "营销"
           ]
         }
       ]
@@ -61,25 +65,27 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "Jensen Huang",
-          "summary": "黄仁勋驳斥AI放缓论",
-          "detail": "NVIDIA CEO黄仁勋在与特朗普的通话中表示，AI发展不会放缓，尽管Elon Musk和Sam Altman支持Dario Amodei的AI发展放缓提议。黄仁勋的这一表态表明，NVIDIA将继续全力推动AI技术进步。",
-          "usage": "💡 讨论AI发展速度\n💬 黄仁勋说AI不会放缓，GPU还会继续卖爆！\n🔥 Jensen Huang AI发展",
+          "title": "Jensen Huang 强调 AI 发展",
+          "summary": "Nvidia CEO 强调不允许 AI 放慢步伐！",
+          "detail": "在与特朗普的电话中，Nvidia CEO Jensen Huang 表示：“我们不会让 AI 的发展放慢。”这句话可想而知，反映出了对 AI 竞争中的紧迫感，同时也表明了 Nvidia 对行业引领的自信。伴随这一声明，AI 生态将迎来更多的创新与挑战。",
+          "usage": "💡 适合讨论 AI 未来的竞争环境 \n💬 \"Jensen 说要加速 AI 发展，看来我们要更快应对了！\" \n🔥 AI竞争 发展加速",
           "source": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
           "tags": [
             "Jensen Huang",
+            "Nvidia",
             "AI发展"
           ]
         },
         {
-          "title": "Dario Amodei",
-          "summary": "Dario Amodei呼吁AI放缓",
-          "detail": "Anthropic CEO Dario Amodei公开呼吁AI发展应放缓，以避免潜在风险。尽管这一观点得到Elon Musk和Sam Altman的支持，但Jensen Huang明确表示NVIDIA不会放缓AI发展。这场AI大佬间的辩论引发了广泛关注。",
-          "usage": "💡 讨论AI发展速度\n💬 Dario Amodei说AI要放缓，黄仁勋不同意，你怎么看？\n🔥 Dario Amodei AI放缓",
-          "source": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+          "title": "梁文锋CFO到位",
+          "summary": "梁文锋迎来新CFO，投过智谱MiniMax！",
+          "detail": "智谱科技迎来新任CFO严文韬，他是高瓴创投的合伙人，早在1991年出生。此举将在财务管理与战略决策上给公司带来新的视角。随着AI市场的快速变化，智谱科技将在资金运用上更加灵活。",
+          "usage": "💡 聊聊公司如何引入新的人才 \n💬 \"智谱新CFO到位，期待能带来更多创新！\" \n🔥 新任CFO 人才引进",
+          "source": "https://www.qbitai.com/2026/09/489707.html",
           "tags": [
-            "Dario Amodei",
-            "AI放缓"
+            "梁文锋",
+            "智谱",
+            "新任CFO"
           ]
         }
       ]
@@ -89,25 +95,27 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "OpenAI政府合作",
-          "summary": "OpenAI与美国政府合作",
-          "detail": "OpenAI与美国总务管理局（GSA）达成合作，为联邦、州、地方和部落政府提供50%的许可证费用折扣，并扩大AI访问和网络防御。这意味着美国政府将大规模采用AI技术，OpenAI的影响力进一步扩大。",
-          "usage": "💡 讨论AI政府应用\n💬 OpenAI和美国政府合作，AI要进政府了！\n🔥 OpenAI 政府合作",
-          "source": "https://openai.com/index/expanding-ai-access-us-government",
+          "title": "OpenAI 收购 Glass Imaging",
+          "summary": "OpenAI 以 3 亿美元收购相机制造商！",
+          "detail": "OpenAI 最近收购了手机相机制造商 Glass Imaging，交易额高达 3 亿美元。这一收购不仅是为了增强其硬件能力，还可能推动其在移动 AI 应用中的创新，值得关注。",
+          "usage": "💡 可以讨论硬件与 AI 的结合 \n💬 \"OpenAI 收购相机公司，未来的AI应用可能更炫酷！\" \n🔥 收购 AI硬件",
+          "source": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
           "tags": [
             "OpenAI",
-            "政府合作"
+            "收购",
+            "相机"
           ]
         },
         {
-          "title": "Superhuman收购",
-          "summary": "Superhuman收购Fathom",
-          "detail": "生产力平台Superhuman收购了YC支持的笔记应用Fathom，后者拥有超过40万的月活跃用户。Superhuman此举旨在推动智能化工作流程，未来可能会有更多AI驱动的生产力工具面世。",
-          "usage": "💡 讨论生产力工具\n💬 Superhuman收购Fathom，智能化工作要来了！\n🔥 Superhuman Fathom",
-          "source": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+          "title": "Perplexity 与 Astra 战略合作",
+          "summary": "Perplexity 与 OpenAI 的 Astra 进行战略合作！",
+          "detail": "Perplexity 最近与 OpenAI 的 Astra 达成合作，将其用于改进沟通和软件开发。这标志着 AI 在企业应用中的进一步渗透，能帮助公司更好地监控和优化生产系统，提升整体数据分析能力。",
+          "usage": "💡 可以讨论企业级 AI 的应用 \n💬 \"Perplexity 和 Astra 的合作将改变我们对生产优化的看法！\" \n🔥 企业应用 合作",
+          "source": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
           "tags": [
-            "Superhuman",
-            "Fathom"
+            "Perplexity",
+            "Astra",
+            "合作"
           ]
         }
       ]
@@ -117,25 +125,27 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "Fyxer助理",
-          "summary": "Fyxer推出AI助理",
-          "detail": "Fyxer使用OpenAI模型打造了一款AI助理，能够组织收件箱、起草邮件，并通过真实用户反馈不断优化。这款助理的高信任度使其成为许多人工作中的得力助手，未来可能会有更多类似产品出现。",
-          "usage": "💡 讨论AI助理\n💬 Fyxer的AI助理太强了，邮件都不用自己写了！\n🔥 Fyxer AI助理",
-          "source": "https://openai.com/index/fyxer",
+          "title": "YOYO AI 完全接管生活",
+          "summary": "YOYO AI 首页展示全面接管生活！",
+          "detail": "YOYO AI 最近展示了一项功能，用户只需一句话，AI 就能执行100步流程，彻底改变了生活的自动化体验。想象一下，从日常安排到复杂的任务管理，YOYO AI 都能轻松搞定，让程序员的生活更加轻松！",
+          "usage": "💡 可以讨论日常生活中的 AI 应用 \n💬 \"YOYO 让我的生活彻底解放，真是太方便了！\" \n🔥 生活自动化 AI应用",
+          "source": "https://www.qbitai.com/2026/09/489466.html",
           "tags": [
-            "Fyxer",
-            "AI助理"
+            "YOYO",
+            "生活AI",
+            "自动化"
           ]
         },
         {
-          "title": "Daydream购物",
-          "summary": "Daydream用AI帮你购物",
-          "detail": "Daydream应用利用Apple Intelligence技术，帮助用户根据相机中的照片推荐购物搭配。iOS 27的发布让Daydream成为时尚达人的新宠，AI在时尚领域的应用又向前迈进了一步。",
-          "usage": "💡 讨论AI时尚应用\n💬 Daydream用AI帮你购物，时尚达人必备！\n🔥 Daydream Apple Intelligence",
-          "source": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+          "title": "ChatGPT 金融服务新平台",
+          "summary": "ChatGPT 进军金融服务！",
+          "detail": "OpenAI 最近推出了针对金融服务的 ChatGPT，通过集成金融数据和 GPT-6 Astra，旨在帮助用户更好地理解数据并进行决策。可以预计，这将极大提升金融领域的数据处理能力，让服务变得更加智能。",
+          "usage": "💡 适合谈论金融领域的 AI 用途 \n💬 \"ChatGPT 进军金融市场，未来的决策将更精准！\" \n🔥 金融服务 AI应用",
+          "source": "https://openai.com/index/introducing-chatgpt-financial-services",
           "tags": [
-            "Daydream",
-            "Apple Intelligence"
+            "ChatGPT",
+            "金融服务",
+            "AI应用"
           ]
         }
       ]
@@ -145,25 +155,27 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "MetaRSI突破",
-          "summary": "MetaRSI进入平方时代",
-          "detail": "MetaRSI技术让小模型突破瓶颈，旗舰模型打开新空间，AI开始改进“改进自己的方法”。这一技术进步意味着AI自我优化能力大幅提升，未来可能会有更多高效能的开源模型面世。",
-          "usage": "💡 讨论AI自我优化\n💬 MetaRSI让AI自我优化，开源模型的未来不可限量！\n🔥 MetaRSI 自我优化",
-          "source": "https://www.qbitai.com/2026/09/488832.html",
+          "title": "APXInf 开源具身推理引擎",
+          "summary": "APXInf 开源具身智能推理引擎！",
+          "detail": "无问芯穹联合清华和上交发布了具身端侧推理引擎 APXInf，这是一个突破性的开源项目，旨在加速具身智能的落地，尤其是应用于工业与机器人领域。这样一来，开发者们能更快实现具身智能的创新！",
+          "usage": "💡 可以讨论开源对 AI 发展的促进作用 \n💬 \"APXInf 的开源让很多创新变得可能，期待开发者的成果！\" \n🔥 开源 具身智能",
+          "source": "https://www.qbitai.com/2026/09/489460.html",
           "tags": [
-            "MetaRSI",
-            "开源"
+            "开源",
+            "具身智能",
+            "APXInf"
           ]
         },
         {
-          "title": "蚂蚁灵波大赛",
-          "summary": "蚂蚁灵波大模型挑战赛",
-          "detail": "蚂蚁灵波启动首届具身大模型挑战赛，旨在将LingBot-VLA推向更广泛的开发者和高校科研社区。这一举措将加速具身智能的发展，未来可能会有更多创新应用涌现。",
-          "usage": "💡 讨论具身智能\n💬 蚂蚁灵波大模型挑战赛来了，具身智能要爆发了！\n🔥 蚂蚁灵波 LingBot-VLA",
-          "source": "https://www.qbitai.com/2026/09/489105.html",
+          "title": "Llama 模型更新",
+          "summary": "Llama 开源模型发布新版本！",
+          "detail": "Llama 团队最近发布了其开源模型的更新版本，针对多项性能进行了优化，特别是在图像生成方面的准确性得到了显著提升。开源社区的反馈也十分积极，大家对未来的创造力充满期待！",
+          "usage": "💡 适合探讨模型在开源社区的影响 \n💬 \"Llama 的更新简直是开源社区的一次大放送！\" \n🔥 开源模型 Llama",
+          "source": "",
           "tags": [
-            "蚂蚁灵波",
-            "LingBot-VLA"
+            "Llama",
+            "开源",
+            "模型更新"
           ]
         }
       ]
@@ -173,25 +185,27 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "分子之心登刊",
-          "summary": "分子之心登Science Advances",
-          "detail": "分子之心QuantaMind的研究成果登上Science Advances，AI蛋白质设计迈入“动态时代”。这意味着AI不仅能设计蛋白质，还能模拟其动态行为，为药物研发和生物技术带来革命性突破。",
-          "usage": "💡 讨论AI蛋白质设计\n💬 分子之心登刊，AI蛋白质设计进入动态时代！\n🔥 分子之心 QuantaMind",
-          "source": "https://www.qbitai.com/2026/09/489023.html",
+          "title": "化学反应模拟有新突破",
+          "summary": "化学反应模拟技术获得突破！",
+          "detail": "《分子之心》使用 AI 技术将化学反应“拍”成电影，打破了化学模拟的“不可能三角”。这一技术的成熟将为科学研究提供具有可视化效果的工具，帮助科研人员更好地理解复杂的化学过程！",
+          "usage": "💡 可以讨论技术在科研中的应用 \n💬 \"这一突破将极大提升化学研究的效率和可视化！\" \n🔥 化学模拟 AI技术",
+          "source": "https://www.qbitai.com/2026/09/489381.html",
           "tags": [
-            "分子之心",
-            "QuantaMind"
+            "化学模拟",
+            "AI技术",
+            "科研"
           ]
         },
         {
-          "title": "RSI进化",
-          "summary": "RSI让机器人自我进化",
-          "detail": "生数新世界模型探索RSI技术，让机器人开始自我进化。这一突破意味着机器人不仅能执行任务，还能不断优化自身性能，未来可能会有更多智能机器人投入使用。",
-          "usage": "💡 讨论机器人进化\n💬 RSI让机器人自我进化，未来的机器人要逆天了！\n🔥 RSI 机器人进化",
-          "source": "https://www.qbitai.com/2026/09/489037.html",
+          "title": "Codex 发现新抗微生物分子",
+          "summary": "Codex 与 ChatGPT 寻找新抗菌分子！",
+          "detail": "研究人员 César de la Fuente 的实验室利用 Codex 和 ChatGPT 搜索生物基因组，寻找新的抗微生物分子。这一研究将对新型抗生素的开发产生深远影响，尤其在抗药性问题日益严重的当下！",
+          "usage": "💡 可以讨论 AI 在生物医学中的应用 \n💬 \"Codex 的应用可能会帮助我们打破抗药性难题！\" \n🔥 抗微生物 AI应用",
+          "source": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
           "tags": [
-            "RSI",
-            "机器人"
+            "Codex",
+            "抗微生物",
+            "生物医学"
           ]
         }
       ]
@@ -201,40 +215,42 @@
       "icon": "📈",
       "items": [
         {
-          "title": "金融AI融资",
-          "summary": "金融AI公司融资超3亿",
-          "detail": "一家金融AI公司在一年内连续完成三轮融资，最新B轮融资超3亿元，险资、券商与头部创投持续加码。这表明金融AI领域仍处于高速发展阶段，未来可能会有更多资本涌入。",
-          "usage": "💡 讨论AI融资\n💬 金融AI公司一年融了三轮，资本还在疯狂加码！\n🔥 金融AI 融资",
-          "source": "https://www.qbitai.com/2026/09/488912.html",
+          "title": "AIUC 获得 4000 万投资",
+          "summary": "AIUC 获得 4000 万美元融资！",
+          "detail": "AIUC 作为一家新兴的 AI 创企，在杜绝不当行为的 AI 代理上取得了显著进展，最近成功融资 4000 万美元。投资机构看好其未来在安全管控领域的潜力，这为 AI 代理的规范化发展指明了新方向。",
+          "usage": "💡 适合讨论 AI 公司的融资前景 \n💬 \"AIUC 的融资反映了市场对 AI 安全的重视！\" \n🔥 融资 AI安全",
+          "source": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
           "tags": [
-            "金融AI",
-            "融资"
+            "融资",
+            "AIUC",
+            "安全"
           ]
         },
         {
-          "title": "商汤认证",
-          "summary": "商汤大装置获双5A认证",
-          "detail": "商汤大装置临港AIDC荣获“算效+算电”双5A认证，成为全国唯一获得该认证的机构。这一成就标志着商汤在算力效率和节能方面的领先地位，未来可能会有更多企业效仿。",
-          "usage": "💡 讨论AI算力\n💬 商汤大装置获双5A认证，算力效率领先全国！\n🔥 商汤 AIDC",
-          "source": "https://www.qbitai.com/2026/09/489106.html",
+          "title": "数据机构存储扩展",
+          "summary": "OpenAI 扩展在线存储服务！",
+          "detail": "OpenAI 最近扩展了其 Habitat 存储平台，旨在服务超过10亿的 ChatGPT 用户。这一举措大幅提高了数据处理能力，显示出对用户增长的强大承诺，同时也反映了 AI 存储需求的迅速上升。",
+          "usage": "💡 可以聊聊数据存储的未来 \n💬 \"OpenAI 拓展存储服务，AI 的使用场景越来越广泛了！\" \n🔥 数据存储 AI需求",
+          "source": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
           "tags": [
-            "商汤",
-            "AIDC"
+            "存储",
+            "OpenAI",
+            "AI需求"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-09-15T01:58:59.858Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-09-15T14:37:59.732Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
-    "model": "deepseek/deepseek-chat",
-    "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3612,
-    "completion_tokens": 2828,
-    "total_tokens": 6440,
-    "cost_usd": 0.0038388924,
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 3956,
+    "completion_tokens": 3415,
+    "total_tokens": 7371,
+    "cost_usd": 0.0026424,
     "free": false,
     "sources": {
       "per_source": {

@@ -1,240 +1,256 @@
 {
   "categories": [
     {
-      "name": "炸裂新闻",
+      "name": "💥 炸裂新闻",
       "icon": "💥",
       "items": [
         {
-          "title": "GPT-6接管Perplexity",
-          "summary": "Astra全面接管Perplexity核心系统",
-          "detail": "Perplexity正式用GPT-6 Astra完全接管公司核心系统——不仅写通讯稿、改软件代码，还能7×24小时监控生产环境。现在AI监工比人类高管还清楚每个服务器的实时负载，运维工程师的摸鱼时间正式归零。",
-          "usage": "💡 聊AI运维时甩出\n💬 GPT-6当上CTO第一件事：把人类写的烂代码全重构了\n🔥 GPT-6 Perplexity 自动化运维",
+          "title": "Astra 超越人类操作",
+          "summary": "Astra 操作电脑能力达到人类水平！",
+          "detail": "在最新发布的版本中，OpenAI 的 Astra 竟然能在复杂操作中超越人类。这意味着未来许多重复性高的任务将被 AI 取代，程序员们可能要学会与 AI 协同工作，而不是单打独斗。别忘了，之前的模型还在挣扎！",
+          "usage": "💡 和同事讨论 AI 的未来应用场景 \n💬 \"Astra 的操作水平直接逼近人类，未来谁还在做重复性的工作呢？\" \n🔥 AI操作 劳动力变革",
           "source": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
           "tags": [
-            "GPT-6",
-            "企业自动化"
+            "AI",
+            "Astra",
+            "创新"
           ]
         },
         {
-          "title": "蚂蚁灵波大赛",
-          "summary": "具身智能高校挑战赛启动",
-          "detail": "蚂蚁灵波启动首届具身大模型挑战赛，把LingBot-VLA塞进高校实验室。现在教授们要面对的学生作业可能是机器人自己写的——毕竟AI连物理实验都能自己设计改进方案了。",
-          "usage": "💡 聊AI教育时用\n💬 以后机器人参加数模竞赛算作弊吗？\n🔥 具身智能 教育场景",
-          "source": "https://www.qbitai.com/2026/09/489105.html",
+          "title": "智象发布新视频模型",
+          "summary": "智象推出首款物理规律导向视频模型！",
+          "detail": "智象未来（HiDream.ai）正式发布了其全模态视频生成模型 HiDream-O1-Video-1.0。这款模型能够根据物理规律生成更真实的视频，大幅提升了内容创作的智能化水平。想想以前的模型只能拼凑，结果现在可以创作出具有物理逻辑的视频，太炸裂了！",
+          "usage": "💡 适合讨论视频生成的未来 \n💬 \"智象的新模型让视频内容创作的质量直接飞升！\" \n🔥 视频生成 AI模型",
+          "source": "https://www.qbitai.com/2026/09/489389.html",
           "tags": [
-            "具身智能",
-            "教育AI"
+            "视频生成",
+            "AI",
+            "智象"
           ]
         }
       ]
     },
     {
-      "name": "新模型发布",
+      "name": "🚀 新模型发布",
       "icon": "🚀",
       "items": [
         {
-          "title": "ChatGPT金融版",
-          "summary": "金融专用GPT-6上线",
-          "detail": "OpenAI推出ChatGPT金融版，用Astra分析财报的速度比分析师快400倍。华尔街实习生熬夜做PPT的日子可能要到头了——现在AI连附注里的隐藏风险都能挖出来。",
-          "usage": "💡 聊金融科技时甩出\n💬 建议改名叫Bloomberg Terminal Killer\n🔥 金融AI 投研工具",
-          "source": "https://openai.com/index/introducing-chatgpt-financial-services",
+          "title": "GPT-6 Astra 横扫各类任务",
+          "summary": "新版本 GPT-6 Astra 强势上线！",
+          "detail": "GPT-6 Astra 发布后，跑分与上一代相比提升了约30%。这意味着它在处理复杂任务时的效率倍增，程序员们可以轻松搭建更复杂的应用。更重要的是，Astra 对代码的理解能力显著增强，极大提升了协作效率！",
+          "usage": "💡 可以留意 AI 工具的效率提升 \n💬 \"GPT-6 Astra 的跑分提升让我每天省下不少时间！\" \n🔥 模型对比 效率提升",
+          "source": "https://openai.com/index/cognition-devin-testing-with-astra",
           "tags": [
             "GPT-6",
-            "金融科技"
+            "AI",
+            "效率"
           ]
         },
         {
-          "title": "元空智能预装HP",
-          "summary": "端侧AI进化引擎落地",
-          "detail": "元空智能的端侧学习引擎打进惠普预装名单，笔记本现在能边用边进化。以后你打游戏的电脑可能悄悄学会了怎么优化你的操作——开挂都不需要下载外挂了。",
-          "usage": "💡 聊硬件AI时用\n💬 建议电竞选手先卸载系统更新\n🔥 端侧学习 硬件预装",
-          "source": "https://www.qbitai.com/2026/09/488933.html",
+          "title": "Salesforce Koa 面向营销",
+          "summary": "Salesforce 发布新的推理模型 Koa！",
+          "detail": "Salesforce 最新推出的 Koa 模型基于 Nvidia 的 Nemotron，专门优化了销售与市场营销。这款模型在多个实际场景中的表现超出预期，打破了传统销售工具的局限，为销售团队提供了更直接的数据指导，特别适合快速变动的市场环境。",
+          "usage": "💡 和同事探讨 AI 在营销中的应用 \n💬 \"Koa 的出现可能会彻底改变我们的销售策略！\" \n🔥 销售模型 营销AI",
+          "source": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
           "tags": [
-            "边缘计算",
-            "消费电子"
+            "Salesforce",
+            "模型",
+            "营销"
           ]
         }
       ]
     },
     {
-      "name": "AI大佬言论",
+      "name": "🗣️ AI 大佬言论",
       "icon": "🗣️",
       "items": [
         {
-          "title": "奥特曼推迟IPO",
-          "summary": "OpenAI 2026年不上市",
-          "detail": "奥特曼在TechCrunch采访中明确表示2026年不上市：'现在上市是不明智的'。看来GPT-7的研发预算要靠Azure的云计算账单撑着了。",
-          "usage": "💡 聊AI融资时甩出\n💬 微软：没事，我的Azure账单还能再涨50%\n🔥 OpenAI 上市推迟",
-          "source": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+          "title": "Jensen Huang 强调 AI 发展",
+          "summary": "Nvidia CEO 强调不允许 AI 放慢步伐！",
+          "detail": "在与特朗普的电话中，Nvidia CEO Jensen Huang 表示：“我们不会让 AI 的发展放慢。”这句话可想而知，反映出了对 AI 竞争中的紧迫感，同时也表明了 Nvidia 对行业引领的自信。伴随这一声明，AI 生态将迎来更多的创新与挑战。",
+          "usage": "💡 适合讨论 AI 未来的竞争环境 \n💬 \"Jensen 说要加速 AI 发展，看来我们要更快应对了！\" \n🔥 AI竞争 发展加速",
+          "source": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
           "tags": [
-            "OpenAI",
-            "资本市场"
+            "Jensen Huang",
+            "Nvidia",
+            "AI发展"
           ]
         },
         {
-          "title": "奥巴马谈AI监管",
-          "summary": "前总统警告民主党",
-          "detail": "奥巴马敦促民主党制定明确的AI监管方案：'这必须成为核心议程'。政客们还在纠结TikTok禁令时，AI已经能自动生成国会听证会质询稿了。",
-          "usage": "💡 聊政策监管时用\n💬 建议先用AI审核下议员们的科技认知水平\n🔥 政治AI 监管框架",
-          "source": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+          "title": "梁文锋CFO到位",
+          "summary": "梁文锋迎来新CFO，投过智谱MiniMax！",
+          "detail": "智谱科技迎来新任CFO严文韬，他是高瓴创投的合伙人，早在1991年出生。此举将在财务管理与战略决策上给公司带来新的视角。随着AI市场的快速变化，智谱科技将在资金运用上更加灵活。",
+          "usage": "💡 聊聊公司如何引入新的人才 \n💬 \"智谱新CFO到位，期待能带来更多创新！\" \n🔥 新任CFO 人才引进",
+          "source": "https://www.qbitai.com/2026/09/489707.html",
           "tags": [
-            "AI治理",
-            "政治科技"
+            "梁文锋",
+            "智谱",
+            "新任CFO"
           ]
         }
       ]
     },
     {
-      "name": "巨头动态",
+      "name": "🏢 巨头动态",
       "icon": "🏢",
       "items": [
         {
-          "title": "Devin用Astra自测",
-          "summary": "AI工程师开始自循环",
-          "detail": "Cognition实验室让Devin用GPT-6 Astra测试自己写的代码，AI开发生命周期完成闭环。以后程序员merge代码前要先过AI代码审查，连'临时方案'注释都逃不过检测。",
-          "usage": "💡 聊AI编程时甩出\n💬 建议给AI审查员开个GitHub账号\n🔥 AI自测 代码审查",
-          "source": "https://openai.com/index/cognition-devin-testing-with-astra",
+          "title": "OpenAI 收购 Glass Imaging",
+          "summary": "OpenAI 以 3 亿美元收购相机制造商！",
+          "detail": "OpenAI 最近收购了手机相机制造商 Glass Imaging，交易额高达 3 亿美元。这一收购不仅是为了增强其硬件能力，还可能推动其在移动 AI 应用中的创新，值得关注。",
+          "usage": "💡 可以讨论硬件与 AI 的结合 \n💬 \"OpenAI 收购相机公司，未来的AI应用可能更炫酷！\" \n🔥 收购 AI硬件",
+          "source": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
           "tags": [
-            "AI编程",
-            "软件工程"
+            "OpenAI",
+            "收购",
+            "相机"
           ]
         },
         {
-          "title": "商汤AIDC双认证",
-          "summary": "算效算电双5A评级",
-          "detail": "商汤临港AIDC拿下全国唯一'算效+算电'双5A认证，相当于数据中心界的米其林三星。现在跑大模型不仅要比准确率，还得比每瓦特能跑多少token。",
-          "usage": "💡 聊绿色计算时用\n💬 建议下次评比加个'食堂好吃度'指标\n🔥 算力基建 能源效率",
-          "source": "https://www.qbitai.com/2026/09/489106.html",
+          "title": "Perplexity 与 Astra 战略合作",
+          "summary": "Perplexity 与 OpenAI 的 Astra 进行战略合作！",
+          "detail": "Perplexity 最近与 OpenAI 的 Astra 达成合作，将其用于改进沟通和软件开发。这标志着 AI 在企业应用中的进一步渗透，能帮助公司更好地监控和优化生产系统，提升整体数据分析能力。",
+          "usage": "💡 可以讨论企业级 AI 的应用 \n💬 \"Perplexity 和 Astra 的合作将改变我们对生产优化的看法！\" \n🔥 企业应用 合作",
+          "source": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
           "tags": [
-            "算力中心",
-            "节能计算"
+            "Perplexity",
+            "Astra",
+            "合作"
           ]
         }
       ]
     },
     {
-      "name": "产品落地",
+      "name": "🛠️ 产品落地",
       "icon": "🛠️",
       "items": [
         {
-          "title": "ChatGPT数据管家",
-          "summary": "企业数据分析功能上线",
-          "detail": "ChatGPT Work新增Data Agent，能直接连接公司数据库生成可视化报告。财务总监们终于不用每个月手动做同样的PPT了——前提是敢把数据库密码交给AI。",
-          "usage": "💡 聊企业AI时甩出\n💬 建议给这个功能改名叫'CFO失业器'\n🔥 商业智能 数据分析",
-          "source": "https://openai.com/index/put-data-to-work",
+          "title": "YOYO AI 完全接管生活",
+          "summary": "YOYO AI 首页展示全面接管生活！",
+          "detail": "YOYO AI 最近展示了一项功能，用户只需一句话，AI 就能执行100步流程，彻底改变了生活的自动化体验。想象一下，从日常安排到复杂的任务管理，YOYO AI 都能轻松搞定，让程序员的生活更加轻松！",
+          "usage": "💡 可以讨论日常生活中的 AI 应用 \n💬 \"YOYO 让我的生活彻底解放，真是太方便了！\" \n🔥 生活自动化 AI应用",
+          "source": "https://www.qbitai.com/2026/09/489466.html",
           "tags": [
-            "企业服务",
-            "BI工具"
+            "YOYO",
+            "生活AI",
+            "自动化"
           ]
         },
         {
-          "title": "Superhuman买Fathom",
-          "summary": "笔记应用大并购",
-          "detail": "效率工具Superhuman收购YC系笔记应用Fathom，40万用户一夜变成AI小白鼠。以后开会时你的潦草笔记可能被自动改成MBA级别的思维导图。",
-          "usage": "💡 聊生产力工具时用\n💬 建议下次更新加个'老板监控模式'\n🔥 办公软件 并购",
-          "source": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+          "title": "ChatGPT 金融服务新平台",
+          "summary": "ChatGPT 进军金融服务！",
+          "detail": "OpenAI 最近推出了针对金融服务的 ChatGPT，通过集成金融数据和 GPT-6 Astra，旨在帮助用户更好地理解数据并进行决策。可以预计，这将极大提升金融领域的数据处理能力，让服务变得更加智能。",
+          "usage": "💡 适合谈论金融领域的 AI 用途 \n💬 \"ChatGPT 进军金融市场，未来的决策将更精准！\" \n🔥 金融服务 AI应用",
+          "source": "https://openai.com/index/introducing-chatgpt-financial-services",
           "tags": [
-            "效率工具",
-            "企业并购"
+            "ChatGPT",
+            "金融服务",
+            "AI应用"
           ]
         }
       ]
     },
     {
-      "name": "开源江湖",
+      "name": "🔓 开源江湖",
       "icon": "🔓",
       "items": [
         {
-          "title": "MetaRSI升级",
-          "summary": "小模型自优化突破",
-          "detail": "MetaRSI让模型学会改进自己的训练方法，进入'平方进化'时代。现在小模型在树莓派上也能玩出花，相当于给自行车装上了自学习发动机。",
-          "usage": "💡 聊边缘计算时甩出\n💬 建议改名叫'穷人版GPT'\n🔥 模型压缩 自优化",
-          "source": "https://www.qbitai.com/2026/09/488832.html",
+          "title": "APXInf 开源具身推理引擎",
+          "summary": "APXInf 开源具身智能推理引擎！",
+          "detail": "无问芯穹联合清华和上交发布了具身端侧推理引擎 APXInf，这是一个突破性的开源项目，旨在加速具身智能的落地，尤其是应用于工业与机器人领域。这样一来，开发者们能更快实现具身智能的创新！",
+          "usage": "💡 可以讨论开源对 AI 发展的促进作用 \n💬 \"APXInf 的开源让很多创新变得可能，期待开发者的成果！\" \n🔥 开源 具身智能",
+          "source": "https://www.qbitai.com/2026/09/489460.html",
           "tags": [
-            "模型优化",
-            "开源模型"
+            "开源",
+            "具身智能",
+            "APXInf"
           ]
         },
         {
-          "title": "OpenAI推Agents API",
-          "summary": "云代理服务开放",
-          "detail": "OpenAI发布Agents API，用Codex批量生成云代理服务。创业公司现在能用十分钟部署曾经需要十人月的自动化系统，VC们开始重新评估SaaS估值模型。",
-          "usage": "💡 聊创业成本时用\n💬 YC批量化孵化器启动\n🔥 自动化代理 云服务",
-          "source": "https://openai.com/index/introducing-the-agents-api",
+          "title": "Llama 模型更新",
+          "summary": "Llama 开源模型发布新版本！",
+          "detail": "Llama 团队最近发布了其开源模型的更新版本，针对多项性能进行了优化，特别是在图像生成方面的准确性得到了显著提升。开源社区的反馈也十分积极，大家对未来的创造力充满期待！",
+          "usage": "💡 适合探讨模型在开源社区的影响 \n💬 \"Llama 的更新简直是开源社区的一次大放送！\" \n🔥 开源模型 Llama",
+          "source": "",
           "tags": [
-            "云服务",
-            "自动化"
+            "Llama",
+            "开源",
+            "模型更新"
           ]
         }
       ]
     },
     {
-      "name": "研究突破",
+      "name": "🔬 研究突破",
       "icon": "🔬",
       "items": [
         {
-          "title": "AI拍分子电影",
-          "summary": "动态蛋白设计登刊",
-          "detail": "分子之心QuantaMind在Science Advances发表动态分子模拟技术，AI现在能预测蛋白质折叠全过程。生物学家看实验结果就像看天气预报——AI连分子运动的'风速'都能算出来。",
-          "usage": "💡 聊AI制药时甩出\n💬 建议下次更新支持分子级弹幕\n🔥 计算生物学 动态模拟",
-          "source": "https://www.qbitai.com/2026/09/489023.html",
+          "title": "化学反应模拟有新突破",
+          "summary": "化学反应模拟技术获得突破！",
+          "detail": "《分子之心》使用 AI 技术将化学反应“拍”成电影，打破了化学模拟的“不可能三角”。这一技术的成熟将为科学研究提供具有可视化效果的工具，帮助科研人员更好地理解复杂的化学过程！",
+          "usage": "💡 可以讨论技术在科研中的应用 \n💬 \"这一突破将极大提升化学研究的效率和可视化！\" \n🔥 化学模拟 AI技术",
+          "source": "https://www.qbitai.com/2026/09/489381.html",
           "tags": [
-            "AI制药",
-            "分子模拟"
+            "化学模拟",
+            "AI技术",
+            "科研"
           ]
         },
         {
-          "title": "灭绝物种复活",
-          "summary": "TechCrunch热议AI生物",
-          "detail": "TechCrunch Disrupt热议用AI复活灭绝物种，现在基因组编辑就像玩《模拟人生》——连渡渡鸟爱吃什么都能量化设计。伦理委员会连夜开会讨论该不该给复活物种上户口。",
-          "usage": "💡 聊生物科技时用\n💬 侏罗纪公园招聘AI饲养员\n🔥 合成生物学 灭绝复活",
-          "source": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+          "title": "Codex 发现新抗微生物分子",
+          "summary": "Codex 与 ChatGPT 寻找新抗菌分子！",
+          "detail": "研究人员 César de la Fuente 的实验室利用 Codex 和 ChatGPT 搜索生物基因组，寻找新的抗微生物分子。这一研究将对新型抗生素的开发产生深远影响，尤其在抗药性问题日益严重的当下！",
+          "usage": "💡 可以讨论 AI 在生物医学中的应用 \n💬 \"Codex 的应用可能会帮助我们打破抗药性难题！\" \n🔥 抗微生物 AI应用",
+          "source": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
           "tags": [
-            "合成生物",
-            "基因编辑"
+            "Codex",
+            "抗微生物",
+            "生物医学"
           ]
         }
       ]
     },
     {
-      "name": "行业风向",
+      "name": "📈 行业风向",
       "icon": "📈",
       "items": [
         {
-          "title": "政府免费用AI",
-          "summary": "OpenAI联手GSA",
-          "detail": "OpenAI和美国总务署合作，政府机构可免费用GPT-6处理公务。以后你交的税可能先经过AI审计——连市政厅打印纸采购都要过Astra的性价比模型。",
-          "usage": "💡 聊政务AI时甩出\n💬 建议给AI发个公务员编制\n🔥 政府数字化 采购改革",
-          "source": "https://openai.com/index/expanding-ai-access-us-government",
+          "title": "AIUC 获得 4000 万投资",
+          "summary": "AIUC 获得 4000 万美元融资！",
+          "detail": "AIUC 作为一家新兴的 AI 创企，在杜绝不当行为的 AI 代理上取得了显著进展，最近成功融资 4000 万美元。投资机构看好其未来在安全管控领域的潜力，这为 AI 代理的规范化发展指明了新方向。",
+          "usage": "💡 适合讨论 AI 公司的融资前景 \n💬 \"AIUC 的融资反映了市场对 AI 安全的重视！\" \n🔥 融资 AI安全",
+          "source": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
           "tags": [
-            "政务AI",
-            "采购"
+            "融资",
+            "AIUC",
+            "安全"
           ]
         },
         {
-          "title": "金融AI再融资",
-          "summary": "一年三轮抢破头",
-          "detail": "某金融AI公司一年内连融三轮B轮，险资券商疯抢份额。现在做AI风控比开赌场还赚钱——毕竟AI能24小时监控你信用卡的每一笔消费。",
-          "usage": "💡 聊AI投资时用\n💬 建议改行卖AI监管沙盒\n🔥 金融科技 投融资",
-          "source": "https://www.qbitai.com/2026/09/488912.html",
+          "title": "数据机构存储扩展",
+          "summary": "OpenAI 扩展在线存储服务！",
+          "detail": "OpenAI 最近扩展了其 Habitat 存储平台，旨在服务超过10亿的 ChatGPT 用户。这一举措大幅提高了数据处理能力，显示出对用户增长的强大承诺，同时也反映了 AI 存储需求的迅速上升。",
+          "usage": "💡 可以聊聊数据存储的未来 \n💬 \"OpenAI 拓展存储服务，AI 的使用场景越来越广泛了！\" \n🔥 数据存储 AI需求",
+          "source": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
           "tags": [
-            "金融科技",
-            "投融资"
+            "存储",
+            "OpenAI",
+            "AI需求"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-09-14T16:22:18.595Z",
+  "generated_at": "2026-09-15T14:37:59.732Z",
   "slot": "weekday-evening",
   "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
-    "model": "deepseek/deepseek-chat",
-    "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3580,
-    "completion_tokens": 2661,
-    "total_tokens": 6241,
-    "cost_usd": 0.0036588627000000004,
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 3956,
+    "completion_tokens": 3415,
+    "total_tokens": 7371,
+    "cost_usd": 0.0026424,
     "free": false,
     "sources": {
       "per_source": {

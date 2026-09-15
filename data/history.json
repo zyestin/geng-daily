@@ -23,10 +23,10 @@
       "date": "2026-09-15",
       "slot": "weekday-evening",
       "slot_label": "工作日傍晚 · 生活时光",
-      "generated_at": "2026-09-14T16:01:54.258Z",
-      "weekday": "星期一",
+      "generated_at": "2026-09-15T14:25:07.725Z",
+      "weekday": "星期二",
       "file": "archive/2026-09-15-weekday-evening.json",
-      "topic_count": 12,
+      "topic_count": 18,
       "category_names": [
         "时事热点",
         "亲子时光",
@@ -811,5 +811,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-15T01:51:33.633Z"
+  "updated_at": "2026-09-15T14:25:07.732Z"
 }

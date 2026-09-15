@@ -2,45 +2,43 @@
   "categories": [
     {
       "name": "😘 土味情话",
-      "icon": "💌",
+      "icon": "😘",
       "items": [
         {
-          "title": "演唱会求婚",
-          "summary": "演唱会求婚新梗",
-          "detail": "结合热搜'演唱会求婚 别把没素质当仪式感'，可以说：'老婆，我不会在演唱会求婚，但我会在家里的KTV求婚，因为你是我的专属歌手。'",
-          "usage": "💡 聊到演唱会时\n💬 老婆，我不会在演唱会求婚，但我会在家里的KTV求婚，因为你是我的专属歌手。\n🔥 演唱会 求婚 KTV",
-          "source": "https://m.baidu.com/s?word=%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B1%82%E5%A9%9A+%E5%88%AB%E6%8A%8A%E6%B2%A1%E7%B4%A0%E8%B4%A8%E5%BD%93%E4%BB%AA%E5%BC%8F%E6%84%9F&sa=fyb_news",
+          "title": "麻烦你做我的‘陪拍’",
+          "summary": "你就是我最爱的照片！",
+          "detail": "听说花40块可以请人陪拍，我觉得我买的可不是照片，而是你这颗让我心动的灵魂。你是我心中最珍贵的‘摄影作品’，谢谢你每天都让我有‘美的享受’！",
+          "usage": "💡 深夜闲聊时 \n💬 我觉得我请的是你，最美的摄影作品！ \n🔥 陪拍 情话",
+          "source": "https://m.baidu.com/s?word=%E8%8A%B140%E5%9D%97%E8%AF%B7%E9%99%AA%E6%8B%8D+%E4%B9%B0%E7%9A%84%E6%98%AF%E7%85%A7%E7%89%87%E8%BF%98%E6%98%AF%E9%99%AA%E4%BC%B4&sa=fyb_news",
           "tags": [
-            "演唱会",
-            "求婚",
-            "KTV"
+            "情话",
+            "幽默"
           ]
         },
         {
-          "title": "白开水情话",
-          "summary": "白开水也能甜",
-          "detail": "结合热搜'卫健委：提倡大家多喝白开水淡茶水'，可以说：'老婆，卫健委建议多喝白开水，但我觉得你是我的甜蜜水，喝一口就能甜到心里。'",
-          "usage": "💡 聊到喝水时\n💬 老婆，卫健委建议多喝白开水，但我觉得你是我的甜蜜水，喝一口就能甜到心里。\n🔥 白开水 甜蜜水 卫健委",
-          "source": "https://m.baidu.com/s?word=%E5%8D%AB%E5%81%A5%E5%A7%94%EF%BC%9A%E6%8F%90%E5%80%A1%E5%A4%A7%E5%AE%B6%E5%A4%9A%E5%96%9D%E7%99%BD%E5%BC%80%E6%B0%B4%E6%B7%A1%E8%8C%B6%E6%B0%B4&sa=fyb_news",
+          "title": "你是我的高端蔬菜",
+          "summary": "美得让人只想养！",
+          "detail": "最近我知道‘高端蔬菜’引起了不少关注，想想你就是我心中那‘高端蔬菜’，健康又美丽，让我忍不住想把你‘养’起来。对不起，我可能是个‘菜农’！",
+          "usage": "💡 追求浪漫时 \n💬 你就是我心中那‘高端蔬菜’，让我想养你！ \n🔥 高端 情话",
+          "source": "https://m.baidu.com/s?word=%E4%BB%A5%E5%89%8D%E7%94%A8%E6%9D%A5%E2%80%9C%E5%96%82%E7%8C%AA%E2%80%9D%E7%8E%B0%E5%9C%A8%E6%98%AF%E2%80%9C%E9%AB%98%E7%AB%AF%E8%94%AC%E8%8F%9C%E2%80%9D&sa=fyb_news",
           "tags": [
-            "白开水",
-            "甜蜜水",
-            "卫健委"
+            "情话",
+            "幽默"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-09-14T16:15:14.467Z",
+  "generated_at": "2026-09-15T14:32:02.732Z",
   "slot": "weekday-evening",
   "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
-    "model": "deepseek/deepseek-chat",
-    "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 2954,
-    "completion_tokens": 2689,
-    "total_tokens": 5643,
-    "cost_usd": 0.0035265339,
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 3302,
+    "completion_tokens": 2964,
+    "total_tokens": 6266,
+    "cost_usd": 0.0022737,
     "free": false,
     "quality": {
       "degraded": true,
