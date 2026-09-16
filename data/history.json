@@ -19,6 +19,24 @@
       ]
     },
     {
+      "key": "2026-09-16-weekday-evening",
+      "date": "2026-09-16",
+      "slot": "weekday-evening",
+      "slot_label": "工作日傍晚 · 生活时光",
+      "generated_at": "2026-09-16T14:18:54.537Z",
+      "weekday": "星期三",
+      "file": "archive/2026-09-16-weekday-evening.json",
+      "topic_count": 12,
+      "category_names": [
+        "时事热点",
+        "亲子时光",
+        "热门影视",
+        "生活妙招",
+        "乒乓球",
+        "健康养生"
+      ]
+    },
+    {
       "key": "2026-09-15-weekday-morning",
       "date": "2026-09-15",
       "slot": "weekday-morning",
@@ -829,5 +847,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-16T01:34:39.174Z"
+  "updated_at": "2026-09-16T14:18:54.547Z"
 }
