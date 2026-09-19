@@ -19,6 +19,21 @@
       ]
     },
     {
+      "key": "2026-09-19-wife-weekend-evening",
+      "date": "2026-09-19",
+      "slot": "wife-weekend-evening",
+      "slot_label": "周末傍晚 · 家庭闲聊",
+      "generated_at": "2026-09-19T13:50:04.528Z",
+      "weekday": "星期六",
+      "file": "archive/2026-09-19-wife-weekend-evening.json",
+      "topic_count": 5,
+      "category_names": [
+        "追剧指南",
+        "土味情话",
+        "她的世界"
+      ]
+    },
+    {
       "key": "2026-09-18-wife-weekday-evening",
       "date": "2026-09-18",
       "slot": "wife-weekday-evening",
@@ -442,5 +457,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-19T05:26:02.781Z"
+  "updated_at": "2026-09-19T13:50:04.532Z"
 }
