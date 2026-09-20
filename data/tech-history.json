@@ -19,6 +19,20 @@
       ]
     },
     {
+      "key": "2026-09-20-tech-weekend-evening",
+      "date": "2026-09-20",
+      "slot": "tech-weekend-evening",
+      "slot_label": "周末傍晚 · 家庭闲聊",
+      "generated_at": "2026-09-20T14:04:51.363Z",
+      "weekday": "星期日",
+      "file": "archive/2026-09-20-tech-weekend-evening.json",
+      "topic_count": 3,
+      "category_names": [
+        "今日头条",
+        "组织变动"
+      ]
+    },
+    {
       "key": "2026-09-19-tech-weekend-morning",
       "date": "2026-09-19",
       "slot": "tech-weekend-morning",
@@ -534,5 +548,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-20T05:47:47.874Z"
+  "updated_at": "2026-09-20T14:04:51.366Z"
 }
