@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "key": "2026-09-21-tech-weekday-morning",
+      "date": "2026-09-21",
+      "slot": "tech-weekday-morning",
+      "slot_label": "工作日早晨 · 同事聊资",
+      "generated_at": "2026-09-21T01:25:09.608Z",
+      "weekday": "星期一",
+      "file": "archive/2026-09-21-tech-weekday-morning.json",
+      "topic_count": 16,
+      "category_names": [
+        "今日头条",
+        "大佬动态",
+        "巨头动向",
+        "组织变动",
+        "前沿探索",
+        "新品发布",
+        "创业大戏",
+        "币圈风云"
+      ]
+    },
+    {
       "key": "2026-09-20-tech-weekend-morning",
       "date": "2026-09-20",
       "slot": "tech-weekend-morning",
@@ -548,5 +568,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-20T14:04:51.366Z"
+  "updated_at": "2026-09-21T01:25:09.611Z"
 }
