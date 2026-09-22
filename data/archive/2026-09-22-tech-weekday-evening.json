@@ -5,62 +5,84 @@
       "icon": "📰",
       "items": [
         {
-          "title": "中国队亚运连揽7金",
-          "summary": "中国队在亚运会上取得了辉煌成绩。",
-          "detail": "中国队在亚运赛场上，以绝对的实力在90分钟内连夺7金，简直是夺冠机器。各项赛场接连传来捷报，令人不禁想问：你们训练时是喝了什么神仙水？这波连胜让运动员们的信心大增，期待他们在后的赛事继续发光发热！",
-          "usage": "💡 大家聊起体育时可以cue \n💬 你们知道吗？中国队在亚运会90分钟内拿到了7金！ \n🔥 亚运会 中国队 成就",
-          "source": "https://www.toutiao.com/trending/7687404192881410091/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227687404192881410091%22%2C%22hot_board_impr_id%22%3A%2220260922001012AD8D488B775C9CB2F030%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E9%98%9F%E4%BA%9A%E8%BF%90%E8%B5%9B%E5%9C%BA90%E5%88%86%E9%92%9F%E8%BF%9E%E6%8F%AD7%E9%87%91%22%7D&rank=&style_id=40132&topic_id=7687404192881410091",
+          "title": "算力上天",
+          "summary": "5G大脑搬上天，算力泡沫还是刚需？",
+          "detail": "2026年9月20日，力箭一号遥十八把'鹏城首发星'暨'鹏城南科一号'送入轨道。这颗被央视称作'把5G大脑搬上天'的卫星，引发了关于'算力上天'是泡沫还是刚需的讨论。家人们谁懂啊，这波操作到底是科技突破，还是资本炒作？",
+          "usage": "💡 同事聊5G\n💬 5G大脑都上天了，咱们还在用4G\n🔥 算力上天 5G卫星",
+          "source": "https://www.huxiu.com/article/4893298.html?f=rss",
           "tags": [
+            "5G",
+            "卫星",
+            "算力"
+          ]
+        },
+        {
+          "title": "女排三连冠",
+          "summary": "中国女排亚运会三连冠",
+          "detail": "2026年9月22日，中国女排在亚运会决赛中以3-0横扫日本队，成功实现亚运会三连冠。家人们谁懂啊，女排姑娘们太强了，日本队直接被干沉默了！",
+          "usage": "💡 同事聊体育\n💬 中国女排三连冠，日本队又被干沉默了\n🔥 中国女排 亚运会",
+          "source": "https://www.toutiao.com/trending/7688203629890830387/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227688203629890830387%22%2C%22hot_board_impr_id%22%3A%22202609222216143BB3B0959D34F7A70504%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AE%8C%E8%83%9C%E6%97%A5%E6%9C%AC%E9%98%9F%EF%BC%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%89%E8%BF%9E%E5%86%A0%22%7D&rank=&style_id=40132&topic_id=7688203629890830387",
+          "tags": [
+            "女排",
             "亚运会",
-            "中国队",
-            "体育成就"
+            "日本"
           ]
         }
       ]
     },
     {
-      "name": "大佬动态",
-      "icon": "🎤",
+      "name": "创业大戏",
+      "icon": "🎬",
       "items": [
         {
-          "title": "雷军吃热干面的争议",
-          "summary": "雷军回应武汉街头吃热干面的风波。",
-          "detail": "雷军最近在武汉街头被拍到吃热干面，竟因此引发了热议！有人说这是个人生活，也有人质疑他的公关能力。雷军风趣回应道：“吃热干面也能引起争议，看来我得多吃点。”这反转真是比电视剧还精彩，看来大佬们的生活也不容易啊！",
-          "usage": "💡 聊到美食或大佬时可以提 \n💬 雷军被拍吃热干面引发争议，他说吃也能引起争议！ \n🔥 雷军 热干面 争议",
-          "source": "https://m.baidu.com/s?word=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E2%80%9C%E6%AD%A6%E6%B1%89%E8%A1%97%E5%A4%B4%E5%90%83%E7%83%AD%E5%B9%B2%E9%9D%A2%E2%80%9D%E4%BA%89%E8%AE%AE&sa=fyb_news",
+          "title": "钟薛高拍卖",
+          "summary": "钟薛高508件无形资产被拍卖",
+          "detail": "2026年9月22日，钟薛高食品（上海）有限公司名下508件无形资产被整体司法拍卖。家人们谁懂啊，这波操作是不是要让我们告别钟薛高了？",
+          "usage": "💡 同事聊创业\n💬 钟薛高508件无形资产被拍卖，凉了？\n🔥 钟薛高 拍卖",
+          "source": "https://www.huxiu.com/article/4893284.html?f=rss",
           "tags": [
-            "雷军",
-            "热干面",
-            "争议"
+            "钟薛高",
+            "拍卖"
+          ]
+        },
+        {
+          "title": "焦作万方",
+          "summary": "焦作万方终止319亿收购",
+          "detail": "2026年9月22日，焦作万方宣布终止319亿收购三门峡铝业的交易。家人们谁懂啊，这波操作是不是要让焦作万方凉了？",
+          "usage": "💡 同事聊收购\n💬 焦作万方终止319亿收购，凉了？\n🔥 焦作万方 收购",
+          "source": "https://www.huxiu.com/article/4893287.html?f=rss",
+          "tags": [
+            "焦作万方",
+            "收购"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-09-21T16:13:34.262Z",
+  "generated_at": "2026-09-22T14:24:38.595Z",
   "slot": "weekday-evening",
   "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
-    "model": "openai/gpt-4o-mini",
-    "actual_model": "openai/gpt-4o-mini",
-    "prompt_tokens": 4887,
-    "completion_tokens": 2305,
-    "total_tokens": 7192,
-    "cost_usd": 0.00211605,
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 5992,
+    "completion_tokens": 2775,
+    "total_tokens": 8767,
+    "cost_usd": 0.00438719,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 6,
-      "published": 2
+      "dropped_orphans": 12,
+      "published": 4
     },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 1,
+        "huxiu": 12,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 13
+      "total": 23
     }
   }
 }

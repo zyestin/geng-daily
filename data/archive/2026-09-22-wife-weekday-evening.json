@@ -1,53 +1,150 @@
 {
   "categories": [
     {
+      "name": "追剧指南",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "女排夺冠看哪部",
+          "summary": "跟着热搜追排球剧，帅气！",
+          "detail": "今天中国女排横扫日本的新闻霸屏了，不如看看《夺冠》这部电影？巩俐演的郎平简直神还原，我看完都想把键盘换成排球了。不过最精彩的是电影里女排姑娘们训练时汗如雨下的镜头，比你敷面膜时的出水量还夸张！",
+          "usage": "💡 看到体育新闻时\n💬 老婆，我发现你敷面膜的出汗量快赶上女排训练了！\n🔥 夺冠 女排 巩俐",
+          "source": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%A4%BA%E5%86%A0%EF%BC%813-0%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC&sa=fyb_news",
+          "tags": [
+            "运动题材",
+            "巩俐"
+          ]
+        },
+        {
+          "title": "黄鼠狼地铁奇遇",
+          "summary": "现实比剧还魔幻的新闻",
+          "detail": "南京地铁惊现黄鼠狼这新闻太魔幻了，比《疯狂动物城》还精彩！建议你搜视频看，那小东西在地铁里窜来窜去的样子，活像在拍《地铁总动员》。要是拍成剧，绝对比《流浪地球》里的MOSS还抢戏！",
+          "usage": "💡 聊奇葩新闻时\n💬 老婆，南京地铁黄鼠狼比你会化妆！人家自带眼线！\n🔥 南京地铁 黄鼠狼 魔幻",
+          "source": "https://m.baidu.com/s?word=%E5%8D%97%E4%BA%AC%E5%9C%B0%E9%93%81+%E9%BB%84%E9%BC%A0%E7%8B%BC&sa=fyb_news",
+          "tags": [
+            "社会新闻",
+            "动物"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "吃喝情报",
+      "icon": "🍜",
+      "items": [
+        {
+          "title": "蚂蚁牌奔驰",
+          "summary": "热搜美食新创意？",
+          "detail": "看到奔驰车里爬满蚂蚁的新闻，突然想到个黑暗料理创意——要不咱们去吃蚂蚁上树？现在可是2.0升级版，真·蚂蚁上「奔驰」！不过说正经的，我知道有家川菜馆的蚂蚁上树做得一绝，粉丝Q弹得能当蹦床，肉末香得让隔壁桌小孩都哭着想加菜。",
+          "usage": "💡 聊奇葩新闻时\n💬 老婆，带你去吃奔驰同款蚂蚁料理？\n🔥 蚂蚁上树 川菜 黑暗料理",
+          "source": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E6%96%B0%E6%8F%90%E5%A5%94%E9%A9%B0%E6%AC%A1%E6%97%A5%E7%88%AC%E6%BB%A1%E8%9A%82%E8%9A%81&sa=fyb_news",
+          "tags": [
+            "川菜",
+            "搞笑"
+          ]
+        },
+        {
+          "title": "存款利息美食",
+          "summary": "钱生钱不如胃生福",
+          "detail": "银行存款利息涨了算什么，我发现小区新开的甜品店才是真的「利滚利」——他们家的杨枝甘露，芒果肉多到能重建热带雨林，西米露弹得像在嘴里打乒乓球。吃完幸福感比银行利息涨得还快！",
+          "usage": "💡 聊理财时\n💬 老婆，与其存钱不如存脂肪，这家甜品店收益率500%！\n🔥 杨枝甘露 甜品 利息",
+          "source": "https://m.baidu.com/s?word=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%AD%98%E6%AC%BE%E5%88%A9%E6%81%AF%E6%B6%A8%E4%BA%86&sa=fyb_news",
+          "tags": [
+            "甜品",
+            "理财梗"
+          ]
+        }
+      ]
+    },
+    {
       "name": "土味情话",
       "icon": "😘",
       "items": [
         {
-          "title": "结婚发钱",
-          "summary": "结婚发钱？你才是我最大的财富",
-          "detail": "结合热搜“多地宣布结婚发钱”，你可以说：“听说结婚能发钱？但我娶到你，已经是最大的财富了，钱算什么！”这样既结合热点，又表达深情。",
-          "usage": "💡 她聊起结婚发钱时\n💬 听说结婚能发钱？但我娶到你，已经是最大的财富了，钱算什么！\n🔥 结婚 发钱 财富",
-          "src_id": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A%E5%8F%91%E9%92%B1&sa=fyb_news",
+          "title": "女排式告白",
+          "summary": "用夺冠新闻耍浪漫",
+          "detail": "「知道中国女排为什么3-0赢日本吗？因为我想学着她们横扫千军的气势——用三个字横扫你的心：我、爱、你！」（配合排球扣杀动作）",
+          "usage": "💡 看到体育新闻时\n💬 老婆，我要学习女排精神对你发起爱情进攻！\n🔥 女排 三比零 我爱你",
+          "source": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%A4%BA%E5%86%A0%EF%BC%813-0%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC&sa=fyb_news",
           "tags": [
-            "结婚",
-            "发钱",
-            "财富"
-          ],
-          "source": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E5%AE%A3%E5%B8%83%E7%BB%93%E5%A9%9A%E5%8F%91%E9%92%B1&sa=fyb_news"
+            "运动梗",
+            "数字梗"
+          ]
         },
         {
-          "title": "热干面",
-          "summary": "热干面？你才是我的心头好",
-          "detail": "结合热搜“雷军回应武汉街头吃热干面争议”，你可以说：“雷军吃热干面算什么，我最爱吃的是你做的面条，那才是我心头好！”这样结合热点，又表达爱意。",
-          "usage": "💡 她聊起热干面时\n💬 雷军吃热干面算什么，我最爱吃的是你做的面条，那才是我心头好！\n🔥 热干面 雷军 面条",
-          "src_id": "https://m.baidu.com/s?word=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E2%80%9C%E6%AD%A6%E6%B1%89%E8%A1%97%E5%A4%B4%E5%90%83%E7%83%AD%E5%B9%B2%E9%9D%A2%E2%80%9D%E4%BA%89%E8%AE%AE&sa=fyb_news",
+          "title": "黄鼠狼撩法",
+          "summary": "奇葩新闻变情话",
+          "detail": "「新闻说南京地铁有黄鼠狼，我才不信！最会偷心的小动物明明就在我面前——上次偷走我心的人到现在都没还！」（指她自己）",
+          "usage": "💡 聊奇葩新闻时\n💬 报告警察！这里有人偷心！作案时间七年还没破案！\n🔥 黄鼠狼 偷心 七年",
+          "source": "https://m.baidu.com/s?word=%E5%8D%97%E4%BA%AC%E5%9C%B0%E9%93%81+%E9%BB%84%E9%BC%A0%E7%8B%BC&sa=fyb_news",
           "tags": [
-            "热干面",
-            "雷军",
-            "面条"
-          ],
-          "source": "https://m.baidu.com/s?word=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E2%80%9C%E6%AD%A6%E6%B1%89%E8%A1%97%E5%A4%B4%E5%90%83%E7%83%AD%E5%B9%B2%E9%9D%A2%E2%80%9D%E4%BA%89%E8%AE%AE&sa=fyb_news"
+            "动物梗",
+            "反转"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "约会提案",
+      "icon": "🎁",
+      "items": [
+        {
+          "title": "蚂蚁主题约会",
+          "summary": "奇葩新闻变浪漫",
+          "detail": "「亲爱的，看到奔驰车爬满蚂蚁的新闻特别有感触——这不就是我们的爱情吗？虽然不豪华但热闹！这周末带你去个地方，保证比奔驰车里的蚂蚁还让你惊喜！」（其实是预订了她喜欢的餐厅）",
+          "usage": "💡 发微信直接约\n💬 申请与蚂蚁女王共进晚餐，坐标：比奔驰舒服的XX餐厅\n🔥 蚂蚁 惊喜 约会",
+          "source": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E6%96%B0%E6%8F%90%E5%A5%94%E9%A9%B0%E6%AC%A1%E6%97%A5%E7%88%AC%E6%BB%A1%E8%9A%82%E8%9A%81&sa=fyb_news",
+          "tags": [
+            "新闻梗",
+            "惊喜"
+          ]
+        },
+        {
+          "title": "排球主题约会",
+          "summary": "体育热点的浪漫",
+          "detail": "「中国女排3-0给了我灵感——咱们也来个三局两胜？第一局比谁选的电影好看，第二局比谁挑的餐厅好吃，第三局...比谁先被对方甜到认输！今晚7点开赛？」",
+          "usage": "💡 发微信直接约\n💬 亲爱的，申请与你进行甜蜜的排球式三局两胜！\n🔥 女排 三局 约会",
+          "source": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%A4%BA%E5%86%A0%EF%BC%813-0%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC&sa=fyb_news",
+          "tags": [
+            "运动梗",
+            "比赛"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "情绪价值",
+      "icon": "🧠",
+      "items": [
+        {
+          "title": "反向毒鸡汤",
+          "summary": "用荒诞化解烦恼",
+          "detail": "「听说存款利息涨了？这说明什么？说明钱都能自我增值，你这么优秀的人更不用着急！再说了，你比钱厉害多了——钱能买到快乐吗？能！但没你制造的快乐纯度这么高！」",
+          "usage": "💡 她焦虑时\n💬 老婆，你比银行利息还保值，我就是你最忠实的存钱罐！\n🔥 理财梗 反向安慰 幽默",
+          "source": "https://m.baidu.com/s?word=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%AD%98%E6%AC%BE%E5%88%A9%E6%81%AF%E6%B6%A8%E4%BA%86&sa=fyb_news",
+          "tags": [
+            "毒鸡汤",
+            "理财"
+          ]
         }
       ]
     }
   ],
-  "generated_at": "2026-09-21T16:10:11.105Z",
+  "generated_at": "2026-09-22T14:16:13.358Z",
   "slot": "weekday-evening",
   "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 2886,
-    "completion_tokens": 2771,
-    "total_tokens": 5657,
-    "cost_usd": 0.00338971,
+    "prompt_tokens": 2900,
+    "completion_tokens": 3386,
+    "total_tokens": 6286,
+    "cost_usd": 0.00394154,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 14,
-      "published": 2
+      "dropped_orphans": 6,
+      "published": 9
     },
     "sources": {
       "per_source": {

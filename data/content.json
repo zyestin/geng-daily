@@ -1,247 +1,244 @@
 {
   "categories": [
     {
-      "name": "🚀 前端框架",
-      "icon": "🚀",
+      "name": "时事热点",
+      "icon": "📰",
       "items": [
         {
-          "title": "BuilderIO agent-native",
-          "summary": "BuilderIO推出构建AI Agent应用的前端框架",
-          "detail": "BuilderIO开源了agent-native，一个专门用于构建agentic apps的框架，目前在GitHub Trending上热度很高。这意味着前端开发可能要向AI原生应用靠拢了，以后写App可能不只是UI+逻辑，还要考虑Agent交互层。",
-          "usage": "早上好，看到BuilderIO出了个agent-native框架，专门做AI Agent应用的，GitHub上直接冲上Trending了。以后咱们前端可能也得卷Agent交互了，你们觉得这种AI原生框架会取代现在的传统前端架构吗？",
-          "source": "https://github.com/BuilderIO/agent-native",
-          "tags": [
-            "AI原生",
-            "前端框架",
-            "开源"
-          ]
-        },
-        {
-          "title": "AI Agent UI趋势",
-          "summary": "前端框架开始原生支持AI Agent交互",
-          "detail": "随着agent-native等项目的爆火，前端社区开始讨论如何为AI Agent设计UI。传统的人机交互模式正在被Agent-UI交互取代，流式输出、工具调用可视化、多轮对话状态管理成为前端新挑战。",
-          "usage": "最近Trending上好几个AI Agent相关的前端项目，感觉2026年前端的重心已经从纯UI转向Agent交互层了。咱们App里以后要是加AI功能，这块交互设计估计得好好琢磨琢磨。",
+          "title": "秋分时节话丰收",
+          "summary": "今日秋分，中国农民丰收节",
+          "detail": "2026年9月22日是秋分，也是中国农民丰收节。各地都在举办庆祝活动，展示农业科技成果和乡村振兴新面貌。今年多地推广智慧农业，无人机播种、AI病虫害监测成了新农人的标配。",
+          "usage": "妈，今天秋分，还是农民丰收节呢。新闻里说现在种地都用无人机和AI了，跟咱们以前想的完全不一样。您看新闻了吗？今年丰收节哪里的活动最热闹？",
           "source": "",
           "tags": [
-            "AI交互",
-            "前端趋势",
-            "Agent"
+            "秋分",
+            "丰收节",
+            "智慧农业"
+          ]
+        },
+        {
+          "title": "AI手机大混战",
+          "summary": "各大厂商秋季扎堆发AI手机",
+          "detail": "9月下旬各大手机厂商密集发布秋季新品，主打AI功能：实时翻译、AI修图、智能助手成标配。苹果、华为、小米都在卷端侧大模型，手机能离线跑AI了。",
+          "usage": "最近手机厂商都在发新机，全在卷AI功能。我们做App开发的也受影响，得适配这些AI能力。您要是换手机，现在这些AI翻译、AI拍照功能还挺实用的。",
+          "source": "",
+          "tags": [
+            "AI手机",
+            "科技",
+            "消费电子"
+          ]
+        },
+        {
+          "title": "中秋国庆出行预测",
+          "summary": "双节临近，出行热度攀升",
+          "detail": "距离国庆长假还有一周多，各地交通部门已发布出行预测。今年中秋国庆假期相连，高速免费时段、热门景区预约情况成了大家关注焦点，部分景区已约满。",
+          "usage": "妈，国庆假期快到了，咱们要不要带娃出去转转？我看新闻说好多景区已经约满了。要不咱们就在周边找个地方，避开人挤人？您觉得呢？",
+          "source": "",
+          "tags": [
+            "国庆出行",
+            "假期",
+            "旅游"
           ]
         }
       ]
     },
     {
-      "name": "📱 React Native",
-      "icon": "📱",
+      "name": "亲子时光",
+      "icon": "👨‍👧",
       "items": [
         {
-          "title": "RN跨端Agent化",
-          "summary": "RN生态开始拥抱AI Agent跨端方案",
-          "detail": "随着agent-native等框架的流行，RN社区也在讨论如何将AI Agent能力集成到跨端App中。BuilderIO本身就是做跨端方案的，agent-native的出现可能预示着RN生态向AI原生应用演进的趋势。",
-          "usage": "你们看BuilderIO搞的agent-native没？他们本来就是做跨端的，现在直接搞AI Agent框架了。这是不是意味着以后RN生态也得往AI Agent方向靠？咱们App里要不要提前调研下怎么接Agent能力？",
-          "source": "https://github.com/BuilderIO/agent-native",
+          "title": "秋分竖蛋挑战",
+          "summary": "秋分传统习俗，和孩子玩竖蛋",
+          "detail": "秋分有\"竖蛋\"传统，据说秋分这天鸡蛋更容易立起来。其实是练习耐心和手眼协调的好机会，7岁孩子正合适。可以准备几个鸡蛋，全家比赛谁先竖起来。",
+          "usage": "宝贝，今天秋分，有个好玩的传统叫竖蛋！据说今天鸡蛋能站起来哦。咱们来比赛，看谁先把鸡蛋立在桌子上？爸爸赌我肯定比你快！",
+          "source": "",
           "tags": [
-            "React Native",
-            "AI Agent",
-            "跨端"
+            "秋分",
+            "竖蛋",
+            "亲子游戏"
           ]
         },
         {
-          "title": "CUA电脑操控",
-          "summary": "开源CUA让AI操控电脑成为可能",
-          "detail": "GitHub上trycua/cua项目爆火，提供开源的computer-use 2.0驱动，支持跨OS的AI操控。这意味着AI Agent不仅能写代码，还能直接操控App界面，对RN等跨端框架的自动化测试和Agent集成有重要意义。",
-          "usage": "看到个挺炸的项目叫CUA，computer-use 2.0，开源的，能让AI直接操控电脑。以后RN的自动化测试是不是可以让AI来点界面了？比写那些e2e测试脚本省事多了吧。",
-          "source": "https://github.com/trycua/cua",
+          "title": "落叶手工画",
+          "summary": "捡秋叶做创意拼贴画",
+          "detail": "9月底树叶开始变色掉落，正是带孩子捡落叶做手工的好时节。可以收集不同颜色形状的叶子，拼成动物、风景画，既锻炼创造力又亲近自然，7岁孩子能独立完成。",
+          "usage": "闺女，周末咱们去公园捡落叶吧！红的黄的叶子拼在一起能做成小动物。你想想想拼什么？小狐狸还是蝴蝶？回来咱们贴在纸上挂墙上当装饰。",
+          "source": "",
           "tags": [
-            "CUA",
-            "自动化",
-            "AI操控"
+            "手工",
+            "秋天",
+            "创意"
+          ]
+        },
+        {
+          "title": "亲子科学小实验",
+          "summary": "在家用厨房材料做实验",
+          "detail": "小苏打+白醋火山爆发、牛奶+食用色素+洗洁精做色彩流动实验，材料家里都有，7岁孩子会觉得像魔法。既培养科学兴趣，又比看手机强多了。",
+          "usage": "宝贝，今天爸爸教你变魔术！用厨房里的东西就能做。你看，小苏打加上醋，嘭！像火山爆发一样！你想不想试试？下次咱们还能做彩虹牛奶。",
+          "source": "",
+          "tags": [
+            "科学实验",
+            "亲子",
+            "动手"
           ]
         }
       ]
     },
     {
-      "name": "🤖 AI编程",
-      "icon": "🤖",
+      "name": "热门影视",
+      "icon": "🎬",
       "items": [
         {
-          "title": "小米MiMo v2.6",
-          "summary": "小米发布MiMo v2.6模型冲上HN热榜",
-          "detail": "小米发布了MiMo v2.6模型，在Hacker News上获得533分和275条评论，引发热议。国产模型持续发力，MiMo系列在编程和推理能力上表现亮眼，评论区讨论激烈。",
-          "usage": "今天HN上小米的MiMo v2.6火了，500多分快300条评论。国产模型现在是真的猛啊，你们试过MiMo写代码没？我昨晚拿它写了段React组件，感觉还挺靠谱的。",
-          "source": "https://mimo.xiaomi.com/mimo-v2-6",
+          "title": "国庆档电影前瞻",
+          "summary": "国庆档多部大片即将上映",
+          "detail": "2026年国庆档电影阵容陆续公布，主旋律大片、动画电影、喜剧片同台竞技。每年国庆都是全家观影好时机，今年有几部适合带孩子看的动画电影备受期待。",
+          "usage": "妈，国庆档有几部电影看着不错，有适合带小孩看的动画片。要不假期咱们全家去看一场？您喜欢看什么类型的？战争片还是喜剧？",
+          "source": "",
           "tags": [
-            "小米AI",
-            "MiMo",
-            "编程模型"
+            "国庆档",
+            "电影",
+            "全家观影"
           ]
         },
         {
-          "title": "GPT-6 Astra安全争议",
-          "summary": "GPT-6 Astra安全性引发马斯克等热议",
-          "detail": "量子位报道GPT-6 Astra的安全性引发广泛关注，连马斯克都坐不住了。同时清华联手无问芯穹等开源了RPent，将GPT-6 Astra开进机器人身体，具身智能体在物理世界干活成为现实。",
-          "usage": "你们看到GPT-6 Astra的新闻没？说安全性有问题，马斯克都瘫坐了哈哈。然后清华那边直接把它塞进机器人身体里了，叫RPent。AI写代码已经不够了，现在AI要亲自来搬砖了。",
-          "source": "https://www.qbitai.com/2026/09/493241.html",
+          "title": "国漫新作热播",
+          "summary": "国产动画新番口碑炸裂",
+          "detail": "近期几部国产动画番剧更新，制作水准持续提升，画面精美剧情在线。有些适合7岁孩子看，既有传统文化元素又有正能量，比刷短视频强多了。",
+          "usage": "闺女，爸爸发现一个好看的动画片，画面特别漂亮，讲的是中国神话故事。咱们一起看一集？比刷那些短视频有意思多了，还能学到传统文化知识。",
+          "source": "",
           "tags": [
-            "GPT-6",
-            "AI安全",
-            "具身智能"
-          ]
-        },
-        {
-          "title": "阶跃Step 5实测",
-          "summary": "阶跃星辰Step 5 Preview开源实测表现强劲",
-          "detail": "量子位实测阶跃Step 5 Preview模型，开源排名Top2，表现相当猛。国产开源大模型持续发力，Step 5在多项基准测试中表现优异，评论区讨论其与闭源模型的差距正在缩小。",
-          "usage": "阶跃星辰出了Step 5 Preview，开源里排Top2了，量子位实测说很猛。现在开源模型追闭源追得越来越紧了，以后用Cursor配个开源模型说不定就够了，省钱。",
-          "source": "https://www.qbitai.com/2026/09/493179.html",
-          "tags": [
-            "阶跃星辰",
-            "开源模型",
-            "Step5"
+            "国漫",
+            "动画",
+            "亲子"
           ]
         }
       ]
     },
     {
-      "name": "📘 TS & JS",
-      "icon": "📘",
+      "name": "生活妙招",
+      "icon": "💡",
       "items": [
         {
-          "title": "Rustls十周年",
-          "summary": "Rust实现的TLS库Rustls迎来十周年",
-          "detail": "InfoQ报道Rustls迎来十周年，发布了发展历程回顾、基准测试和未来路线图。Rustls在性能上持续优化，对Node.js和前端工具链的底层安全通信有潜在影响，Rust在基础设施层的渗透越来越深。",
-          "usage": "今天看到Rustls十周年了，Rust写的TLS库。现在前端工具链底层越来越多Rust了，从esbuild到Rustls，以后写TS/JS的得懂点Rust了哈哈。不过这性能确实香。",
-          "source": "https://www.infoq.cn/article/slZSm1Qr5I1QJi0JaZjr?utm_source=rss&utm_medium=article",
+          "title": "秋分养生贴秋膘",
+          "summary": "入秋后饮食调整有讲究",
+          "detail": "秋分后天气转凉，传统讲究\"贴秋膘\"，但现代营养学建议不宜大鱼大肉。适当增加蛋白质、多吃根茎类蔬菜、喝银耳汤润燥，比盲目进补更科学。",
+          "usage": "妈，今天秋分了，天气开始转凉。我看养生文章说秋天适合喝银耳汤润燥，不用大鱼大肉补。您炖的银耳莲子汤就特别好，比外面买的强多了。",
+          "source": "",
           "tags": [
-            "Rustls",
-            "Rust",
-            "TLS"
+            "秋分",
+            "养生",
+            "饮食"
           ]
         },
         {
-          "title": "Attention is all you have",
-          "summary": "HN热文探讨注意力机制的本质",
-          "detail": "Hacker News上Alice GG的文章'Attention is all you have'获得578分174评论，深入探讨了Transformer中注意力机制的本质和局限性。对理解当前AI编程工具底层原理有启发意义。",
-          "usage": "HN上今天有篇文章叫'Attention is all you have'，快600分了。就是对Attention机制本质的深度讨论。咱们天天用AI写代码，了解一下底层原理还是挺有意思的，午休可以看看。",
-          "source": "https://alicegg.tech/2026/09/21/attention",
+          "title": "换季衣物收纳法",
+          "summary": "夏装收纳秋装整理技巧",
+          "detail": "9月底正是换季整理衣柜的时候。真空压缩袋省空间、竖立法叠衣服一目了然、按颜色分类挂放提升效率。教孩子一起整理，也是培养收纳好习惯的机会。",
+          "usage": "老婆，周末咱们把衣柜换换季吧。夏天的衣服用压缩袋收起来，秋装挂上。闺女也可以一起参与，让她学着自己整理自己的小衣柜，培养好习惯。",
+          "source": "",
           "tags": [
-            "Attention",
-            "Transformer",
-            "深度学习"
+            "换季",
+            "收纳",
+            "整理"
           ]
         }
       ]
     },
     {
-      "name": "🌟 开源热门",
-      "icon": "🌟",
+      "name": "乒乓球",
+      "icon": "🏓",
       "items": [
         {
-          "title": "coder/coder安全环境",
-          "summary": "为开发者和AI Agent提供安全开发环境",
-          "detail": "GitHub Trending上coder/coder项目热度很高，提供为开发者和他们的AI Agent提供安全环境的方案。随着AI编程助手普及，如何安全地让Agent访问代码和执行命令成为刚需。",
-          "usage": "GitHub上coder/coder冲上Trending了，专门给开发者和AI Agent搞安全环境的。现在用Cursor、Copilot这些，Agent要访问代码、跑命令，安全隔离确实是个问题。这个项目正好解决这个痛点。",
-          "source": "https://github.com/coder/coder",
+          "title": "WTT中国大满贯赛",
+          "summary": "国庆期间北京举办WTT大满贯",
+          "detail": "WTT中国大满贯赛通常在9月底至10月初举办，是级别最高的WTT赛事之一。国乒主力悉数参赛，在家门口作战，关注度极高。今年新生代球员表现值得期待。",
+          "usage": "妈，WTT中国大满贯赛快开始了，就在国庆那几天。国乒全主力出战，您到时候肯定要看的吧？今年年轻选手进步挺大，您觉得谁能拿冠军？",
+          "source": "https://worldtabletennis.com",
           "tags": [
-            "开发环境",
-            "AI安全",
-            "开源"
+            "WTT",
+            "大满贯",
+            "国乒"
           ]
         },
         {
-          "title": "AutoClip智能剪辑",
-          "summary": "AI自动提取视频高光的二创工具",
-          "detail": "GitHub上zhouxiaoka/autoclip项目爆火，一款AI驱动的视频剪辑和高光提取工具，支持自动生成二创内容。对前端开发者来说，这类AI+多媒体工具的交互设计和性能优化很有参考价值。",
-          "usage": "看到个挺有意思的开源项目AutoClip，AI自动提取视频高光做二创的。我闺女最近老让我帮她剪视频，这工具说不定能用上哈哈。不过从技术角度看，这种AI+视频处理的前端交互设计挺值得学习的。",
-          "source": "https://github.com/zhouxiaoka/autoclip",
+          "title": "国乒新老交替",
+          "summary": "新生代球员挑大梁",
+          "detail": "国乒正处于新老交替期，马龙等老将逐渐淡出，王楚钦、林诗栋等新生代挑起大梁。女队孙颖莎、王曼昱统治力依旧，但年轻选手也在冲击主力位置。",
+          "usage": "妈，您关注国乒新老交替没？马龙他们老将慢慢退了，现在王楚钦、林诗栋这些年轻人开始挑大梁了。您觉得这批年轻人能扛住压力吗？我看比赛时候心态还是差了点。",
+          "source": "",
           "tags": [
-            "AI剪辑",
-            "视频处理",
-            "开源"
+            "国乒",
+            "新老交替",
+            "王楚钦"
           ]
         },
         {
-          "title": "OceanBase登顶Data Agent",
-          "summary": "国产数据库OceanBase登顶国际AI Agent基准",
-          "detail": "量子位报道OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark。国产数据库在AI能力上取得突破，将数据库与AI Agent深度结合。",
-          "usage": "OceanBase登顶了国际Data Agent基准榜单，国产数据库跑出AI新能力了。以后数据库都能直接接AI Agent了，咱们App后端的数据交互方式可能也要变了。",
-          "source": "https://www.qbitai.com/2026/09/493231.html",
+          "title": "直板打法要复兴？",
+          "summary": "直板选手近期表现亮眼",
+          "detail": "近年来横板打法一统天下，直板选手越来越少。但近期有年轻直板选手在国际赛场表现亮眼，引发关于直板打法能否复兴的讨论。直板灵活性强但反手是短板。",
+          "usage": "妈，您以前打直板对吧？最近新闻说有年轻直板选手打出来了，好多年没看到直板在国际赛场赢球了。您觉得直板还能复兴吗？我觉得反手始终是硬伤啊。",
+          "source": "",
           "tags": [
-            "OceanBase",
-            "Data Agent",
-            "国产数据库"
+            "直板",
+            "技术",
+            "打法"
           ]
         }
       ]
     },
     {
-      "name": "😄 开发者梗",
-      "icon": "😄",
+      "name": "健康养生",
+      "icon": "🥗",
       "items": [
         {
-          "title": "不想读你没写的代码",
-          "summary": "HN热文吐槽AI生成代码的可读性",
-          "detail": "Hacker News上Colin Breck的文章'I don't want to read what you didn't write'获得242分93评论，直指AI生成代码的核心问题：代码审查变成了阅读AI的输出，开发者失去了对代码的真正理解。评论区共鸣强烈。",
-          "usage": "HN上今天有篇文章标题太绝了——'我不想读你没写的代码'。就是吐槽现在review代码变成读AI生成的代码了，你根本不知道同事到底懂不懂那段代码。太真实了，上周我review一个PR，全是Cursor生成的，问他逻辑他说'AI写的应该没问题'……",
-          "source": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+          "title": "程序员护颈指南",
+          "summary": "久坐族颈椎保护实用方法",
+          "detail": "程序员长期伏案，颈椎问题高发。每45分钟起身活动、电脑屏幕调到平视高度、睡前做颈部拉伸，比任何按摩仪都管用。已有不适的建议尽早拍片检查。",
+          "usage": "老婆，我最近脖子又有点僵，坐一天代码下来颈椎真受不了。我打算定个闹钟每45分钟起来活动活动。你也提醒我一下，别让我一坐就是一下午。",
+          "source": "",
           "tags": [
-            "AI编程",
-            "Code Review",
-            "开发者文化"
+            "颈椎",
+            "程序员",
+            "久坐"
           ]
         },
         {
-          "title": "Transformer可视化",
-          "summary": "可视化解释Transformer原理爆火",
-          "detail": "Hacker News上Transformers Explained Visually获得201分35评论，通过可视化方式解释Transformer原理。开发者社区对理解AI底层原理的热情持续高涨，这类可视化教程成为热门。",
-          "usage": "推荐个HN上今天火的可视化Transformer教程，交互式的，点一点就能看懂Attention怎么工作的。我昨天给我闺女讲AI是怎么工作的，自己都讲不明白，看了这个豁然开朗哈哈。",
-          "source": "https://poloclub.github.io/transformer-explainer/",
+          "title": "秋季儿童防感冒",
+          "summary": "换季时节孩子健康防护",
+          "detail": "9月底气温忽冷忽热，7岁孩子刚开学容易交叉感染。早晚加外套、勤洗手、保证睡眠、适当补充维C是关键。教室通风差时可以让孩子戴口罩。",
+          "usage": "妈，最近天气忽冷忽热的，闺女学校好几个同学感冒了。您帮忙注意一下，早晚给她加件外套，书包里放个薄外套。再让她多喝点水，别到时候又传染上了。",
+          "source": "",
           "tags": [
-            "可视化",
-            "Transformer",
-            "教程"
+            "秋季",
+            "儿童",
+            "防感冒"
           ]
         },
         {
-          "title": "Sun的教训",
-          "summary": "HN热文反思Sun Microsystems的错误",
-          "detail": "Hacker News上Bryan Cantrill的文章'What Sun got wrong'获得496分285评论，反思Sun Microsystems的历史教训。引发开发者社区对技术公司兴衰、技术选型、公司文化的深度讨论，评论区高质量讨论密集。",
-          "usage": "HN上今天有篇反思Sun Microsystems的文章快500分了，280多条评论。作者Bryan Cantrill是技术圈大佬。里面讲的技术公司犯的错，放到现在看也特别有启发。午休可以看看，评论区比文章还精彩。",
-          "source": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+          "title": "全家步数挑战",
+          "summary": "用步数比赛带动全家运动",
+          "detail": "全家开通微信步数排行榜，每天比谁走得多，既有趣又能促进运动。7岁孩子可以设定每天6000步目标，大人8000步。周末全家出去走走轻松破万步。",
+          "usage": "咱们全家开个微信步数比赛吧！每天看谁走得最多，最后一名的负责洗碗。闺女你也参加，每天走够6000步就有奖励。这样大家都动起来，比窝在家里刷手机强。",
+          "source": "",
           "tags": [
-            "Sun",
-            "技术历史",
-            "公司文化"
+            "运动",
+            "步数",
+            "全家"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-09-22T01:45:27.418Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-09-22T14:07:41.027Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "z-ai/glm-5.2:free",
     "actual_model": "z-ai/glm-5.2:free",
-    "prompt_tokens": 2027,
-    "completion_tokens": 2841,
-    "total_tokens": 4868,
+    "prompt_tokens": 788,
+    "completion_tokens": 2525,
+    "total_tokens": 3313,
     "cost_usd": 0,
-    "free": true,
-    "sources": {
-      "per_source": {
-        "hackernews": 15,
-        "reddit": 0,
-        "askhn": 8,
-        "lobsters": 10,
-        "devto": 10,
-        "v2ex": 8,
-        "juejin": 9,
-        "github": 10,
-        "qbitai": 8,
-        "infoq": 8
-      },
-      "total": 20
-    }
+    "free": true
   }
 }

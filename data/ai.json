@@ -5,30 +5,28 @@
       "icon": "💥",
       "items": [
         {
-          "title": "GPT-6被爆漏洞",
-          "summary": "GPT-6 Astra惊现安全隐患",
-          "detail": "马斯克都震惊了！GPT-6 Astra被爆存在严重安全漏洞，量子位报道称这一漏洞可能导致AI系统被恶意操控。消息一出，业内哗然——这可是OpenAI最新旗舰模型，号称'最安全AI'。现在安全工程师们估计要连夜加班修bug了。",
-          "usage": "💡 聊AI安全话题时\n💬 '马斯克都惊坐起的漏洞，这波属于是AI界的Log4j了'\n🔥 GPT-6 安全漏洞 马斯克",
-          "src_id": 4,
+          "title": "GPT-6 Astra",
+          "summary": "GPT-6 Astra 助力视频广告创作",
+          "detail": "Higgsfield AI 利用 GPT-6 Astra 在一天内推出了新的视频广告功能，帮助小企业简化创作流程。GPT-6 Astra 的强大生成能力让视频广告从创意到成品只需几分钟，Higgsfield AI 表示这将彻底改变广告行业的效率。\n💡 在团队讨论 AI 应用场景时\n💬 GPT-6 Astra 让视频广告创作像发朋友圈一样简单\n🔥 GPT-6 Astra Higgsfield AI 视频广告",
+          "source": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
           "tags": [
-            "AI安全",
-            "GPT-6",
-            "漏洞"
+            "GPT-6 Astra",
+            "Higgsfield AI",
+            "视频广告"
           ],
-          "source": "https://www.qbitai.com/2026/09/493241.html"
+          "usage": "💡 聊到相关内容时切入\n💬 GPT-6 Astra\n🔥 GPT-6 Astra Higgsfield AI 视频广告"
         },
         {
-          "title": "Meta封锁AI购物",
-          "summary": "亚马逊封杀Meta AI购物",
-          "detail": "Amazon直接对Meta的AI购物功能下封杀令！TechCrunch爆出Meta的AI agent被禁止使用Amazon.com。这波属于大厂壁垒战升级——毕竟亚马逊自己也有一堆基础模型，哪能让对手AI来自己地盘挖数据。",
-          "usage": "💡 聊大厂竞争时\n💬 'Meta想用AI逛淘宝？亚马逊：门都没有！'\n🔥 Meta 亚马逊 AI购物 封杀",
-          "src_id": 15,
+          "title": "Meta Muse",
+          "summary": "Meta Muse 下载量超 ChatGPT",
+          "detail": "Meta 的新 AI 助手 Muse 在美国和加拿大的下载量和日活跃用户数已超过 ChatGPT 早期发布时的情况。Muse 凭借其强大的移动端集成和用户体验迅速占领市场，成为 Meta 在 AI 领域的又一力作。\n💡 在讨论 AI 助手市场时\n💬 Meta Muse 下载量碾压 ChatGPT，AI 助手市场要变天了\n🔥 Meta Muse ChatGPT 下载量",
+          "source": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
           "tags": [
-            "Meta",
-            "亚马逊",
-            "AI购物"
+            "Meta Muse",
+            "ChatGPT",
+            "AI 助手"
           ],
-          "source": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"
+          "usage": "💡 聊到相关内容时切入\n💬 Meta Muse\n🔥 Meta Muse ChatGPT AI 助手"
         }
       ]
     },
@@ -37,30 +35,28 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "阶跃Step 5来袭",
-          "summary": "开源大模型又出狠角色",
-          "detail": "阶跃Step 5 Preview实测炸裂！量子位测试这款开源模型表现直逼商业闭源产品，特别是代码生成能力提升显著。关键是完全免费——程序员们又多了一个白嫖神器。",
-          "usage": "💡 聊开源模型时\n💬 '用上Step 5，感觉GPT-6的订阅费可以省了'\n🔥 阶跃 Step5 开源模型",
-          "src_id": 16,
+          "title": "商汤 U1 Pro",
+          "summary": "商汤发布 U1 Pro 图像生成模型",
+          "detail": "商汤最新发布的 U1 Pro 图像生成模型，生成的图像逼真到让人难以分辨是否为 AI 制作。这款国产 AI 模型在细节处理和色彩还原上达到了新高度，甚至超过了部分国际知名模型。\n💡 在讨论 AI 图像生成时\n💬 商汤 U1 Pro 的图真实到让人怀疑人生\n🔥 商汤 U1 Pro 图像生成 国产AI",
+          "source": "https://www.qbitai.com/2026/09/494263.html",
           "tags": [
-            "开源模型",
-            "阶跃",
-            "Step5"
+            "商汤 U1 Pro",
+            "图像生成",
+            "国产AI"
           ],
-          "source": "https://www.qbitai.com/2026/09/493179.html"
+          "usage": "💡 聊到相关内容时切入\n💬 商汤 U1 Pro\n🔥 商汤 U1 Pro 图像生成 国产AI"
         },
         {
-          "title": "天工降价狂欢",
-          "summary": "视频生成价格大跳水",
-          "detail": "天工工作台中秋大促：Seedance 2.5视频生成低至0.27元/秒！这价格比半年前直接腰斩，小工作室现在批量做短视频成本直逼白开水。",
-          "usage": "💡 聊AI视频工具时\n💬 '这波降价，甲方爸爸该不会要求日更100条了吧？'\n🔥 天工 视频生成 降价",
-          "src_id": 1,
+          "title": "Qwen 4.5",
+          "summary": "阿里 Qwen 4.5 将扩展至 5-10T 参数",
+          "detail": "阿里研究员透露，Qwen 4.5 及后续版本的模型参数将扩展至 5-10T，这一巨大提升将显著增强模型的理解和生成能力。未来 Qwen 系列将继续在 NLP 领域保持领先地位。\n💡 在讨论模型参数扩展时\n💬 Qwen 4.5 参数将破 10T，AI 模型又要起飞了\n🔥 Qwen 4.5 参数扩展 NLP",
+          "source": "https://www.qbitai.com/2026/09/493629.html",
           "tags": [
-            "视频生成",
-            "天工",
-            "降价"
+            "Qwen 4.5",
+            "参数扩展",
+            "NLP"
           ],
-          "source": "https://www.qbitai.com/2026/09/493268.html"
+          "usage": "💡 聊到相关内容时切入\n💬 Qwen 4.5\n🔥 Qwen 4.5 参数扩展 NLP"
         }
       ]
     },
@@ -69,30 +65,28 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "Apple元老开炮",
-          "summary": "苹果店设计者dissAI购物",
-          "detail": "Apple Store设计者Ron Johnson公开嘲讽硅谷押注AI购物：'苹果的秘密配方永远是人'。这波开怼直指Meta等大厂力推的AI购物助手——老爷子认为冷冰冰的算法永远比不上真人店员。",
-          "usage": "💡 聊AI与人类服务之争时\n💬 '老爷子：你们这些搞AI的，懂什么叫微笑服务吗？'\n🔥 Ron Johnson AI购物 Apple",
-          "src_id": 3,
+          "title": "Ron Johnson",
+          "summary": "苹果前高管质疑 AI 购物",
+          "detail": "苹果商店设计师 Ron Johnson 表示，硅谷对 AI 购物的押注并不靠谱，苹果的成功秘诀始终在于人而非技术。他认为 AI 无法完全替代人类在购物体验中的核心作用。\n💡 在讨论 AI 应用场景时\n💬 Ron Johnson：AI 购物？苹果的成功靠的是人\n🔥 Ron Johnson AI 购物 苹果",
+          "source": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
           "tags": [
             "Ron Johnson",
-            "AI购物",
-            "Apple"
+            "AI 购物",
+            "苹果"
           ],
-          "source": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/"
+          "usage": "💡 聊到相关内容时切入\n💬 Ron Johnson\n🔥 Ron Johnson AI 购物 苹果"
         },
         {
-          "title": "OpenAI数学大动作",
-          "summary": "成立数学AI顾问组",
-          "detail": "OpenAI官宣成立数学与AI顾问组，背景是其AI已经解决了100多个开放数学问题。但搞笑的是顾问组明确说了'不能拖慢研究进度'——所以就是找群大佬当啦啦队？",
-          "usage": "💡 聊AI科研突破时\n💬 'OpenAI：数学问题我们包了，人类教授请安静鼓掌就行'\n🔥 OpenAI 数学 AI",
-          "src_id": 2,
+          "title": "韩凯",
+          "summary": "基元律动韩凯谈 Agent 进化",
+          "detail": "基元律动 CTO 韩凯在云栖大会上分享了 Agent 持续进化的路径，强调了多模型调度和反馈闭环的重要性。他认为，未来的 Agent 将更加智能化和自适应，成为企业数字化转型的核心。\n💡 在讨论 Agent 技术时\n💬 韩凯：Agent 进化靠调度和反馈闭环\n🔥 韩凯 Agent 进化 基元律动",
+          "source": "https://www.qbitai.com/2026/09/494120.html",
           "tags": [
-            "OpenAI",
-            "数学",
-            "顾问组"
+            "韩凯",
+            "Agent 进化",
+            "基元律动"
           ],
-          "source": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
+          "usage": "💡 聊到相关内容时切入\n💬 韩凯\n🔥 韩凯 Agent 进化 基元律动"
         }
       ]
     },
@@ -101,30 +95,28 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "OpenAI杀入法律界",
-          "summary": "Astra专供律所上线",
-          "detail": "OpenAI推出Astra for Law，专为律所定制的AI工作流。以后律师查案例可能变成：AI秒翻5000页卷宗，人类负责整理PPT——法学生背法条的好日子到头了。",
-          "usage": "💡 聊AI行业应用时\n💬 '以后打官司是不是得先问：您的律师是GPT几？'\n🔥 OpenAI 法律AI Astra",
-          "src_id": 23,
+          "title": "OpenAI 数学顾问组",
+          "summary": "OpenAI 成立数学与 AI 顾问组",
+          "detail": "OpenAI 宣布成立数学与 AI 顾问组，旨在推动 AI 在数学领域的应用。该顾问组将与 OpenAI 的数学研究团队合作，探索 AI 在解决复杂数学问题中的潜力。\n💡 在讨论 AI 研究进展时\n💬 OpenAI 成立数学顾问组，AI 要解数学难题了\n🔥 OpenAI 数学顾问组 AI 研究",
+          "source": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
           "tags": [
             "OpenAI",
-            "法律AI",
-            "Astra"
+            "数学顾问组",
+            "AI 研究"
           ],
-          "source": "https://openai.com/index/astra-for-law"
+          "usage": "💡 聊到相关内容时切入\n💬 OpenAI 数学顾问组\n🔥 OpenAI 数学顾问组 AI 研究"
         },
         {
-          "title": "Meta下载量超车",
-          "summary": "Muse碾压早期ChatGPT",
-          "detail": "Meta的AI助手Muse在美加下载量已超早期ChatGPT！TechCrunch数据显示其日活用户增长曲线更陡。可能因为整合了社交属性——扎克伯格终于找到AI的正确打开方式？",
-          "usage": "💡 聊AI应用竞争时\n💬 '小扎：做社交的搞AI，果然还是我最在行'\n🔥 Meta Muse ChatGPT",
-          "src_id": 12,
+          "title": "虎鲸文娱",
+          "summary": "虎鲸文娱推出 AI 影视平台",
+          "detail": "虎鲸文娱在云栖大会上发布了首个 AI 影视制作与管理平台“鲸锐AI”，旨在通过 AI 技术提升影视制作的效率和质量，推动文娱产业的数字化升级。\n💡 在讨论 AI 影视制作时\n💬 虎鲸文娱推出鲸锐AI，影视制作要变天了\n🔥 虎鲸文娱 鲸锐AI 影视制作",
+          "source": "https://www.qbitai.com/2026/09/493865.html",
           "tags": [
-            "Meta",
-            "Muse",
-            "ChatGPT"
+            "虎鲸文娱",
+            "鲸锐AI",
+            "影视制作"
           ],
-          "source": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"
+          "usage": "💡 聊到相关内容时切入\n💬 虎鲸文娱\n🔥 虎鲸文娱 鲸锐AI 影视制作"
         }
       ]
     },
@@ -133,30 +125,28 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "Claude代码升级",
-          "summary": "V7给AI加机构记忆",
-          "detail": "V7用GPT-5.6打造'机构记忆'，让AI能调用企业散落各处的文档完成复杂任务。实测接上公司知识库后，新员工培训时间从2周缩到2小时——HR小姐姐要失业？",
-          "usage": "💡 聊企业AI应用时\n💬 '以前新人问：这个在哪？现在AI答：第37页第3行'\n🔥 V7 企业AI 知识库",
-          "src_id": 14,
+          "title": "V7",
+          "summary": "V7 利用 GPT-5.6 构建机构记忆",
+          "detail": "V7 使用 GPT-5.6 将散乱的公司文件转化为 AI 代理可以使用的上下文信息，帮助完成复杂的、基于来源的任务。这一技术显著提升了企业数据整合和应用的效率。\n💡 在讨论企业 AI 应用时\n💬 V7 用 GPT-5.6 构建机构记忆，企业数据整合起飞\n🔥 V7 GPT-5.6 机构记忆",
+          "source": "https://openai.com/index/v7",
           "tags": [
             "V7",
-            "企业AI",
-            "知识库"
+            "GPT-5.6",
+            "机构记忆"
           ],
-          "source": "https://openai.com/index/v7"
+          "usage": "💡 聊到相关内容时切入\n💬 V7\n🔥 V7 GPT-5.6 机构记忆"
         },
         {
-          "title": "Google强推AI本",
-          "summary": "899美元买Gemini笔记本",
-          "detail": "Google推出899美元的'Googlebook'，内置Gemini深度整合。从光标操作到语音输入全AI化——问题是这价格够买两台普通笔记本，究竟有多少人愿意为AI溢价买单？",
-          "usage": "💡 聊硬件AI化时\n💬 'Google：买了这本子，你就是AI人上人'\n🔥 Googlebook Gemini AI笔记本",
-          "src_id": 24,
+          "title": "Cooley",
+          "summary": "Cooley 用 ChatGPT 加速 IPO 流程",
+          "detail": "Cooley 利用 ChatGPT 构建了 GO Public 工具，将智能引入 IPO 过程，帮助律师更高效地完成上市相关工作。这一应用显著缩短了 IPO 准备时间。\n💡 在讨论 AI 法律应用时\n💬 Cooley 用 ChatGPT 加速 IPO，律师们要笑了\n🔥 Cooley ChatGPT IPO",
+          "source": "https://openai.com/index/cooley-gopublic",
           "tags": [
-            "Google",
-            "AI笔记本",
-            "Gemini"
+            "Cooley",
+            "ChatGPT",
+            "IPO"
           ],
-          "source": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/"
+          "usage": "💡 聊到相关内容时切入\n💬 Cooley\n🔥 Cooley ChatGPT IPO"
         }
       ]
     },
@@ -165,30 +155,28 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "清华开源具身智能",
-          "summary": "机器人版GPT-6来了",
-          "detail": "清华联合无问芯穹开源RPent具身智能系统，直接把GPT-6 Astra塞进机器人身体！演示视频里能精准抓取物品——就是动作还有点机械，像刚喝完酒的调酒师。",
-          "usage": "💡 聊机器人进展时\n💬 '这下波士顿动力的员工该担心被AI取代了'\n🔥 具身智能 清华 RPent",
-          "src_id": 13,
+          "title": "小米炼丹",
+          "summary": "小米 6 天烧光 2000 万训练模型",
+          "detail": "小米进行了一场前所未有的“炼丹直播”，6 天烧光了 2000 多万训练开源模型，Hugging Face CEO 表示“太棒了”。这一壮举展示了小米在 AI 领域的决心和实力。\n💡 在讨论开源模型训练时\n💬 小米 6 天烧 2000 万炼丹，Hugging Face CEO 都点赞\n🔥 小米 炼丹 开源模型",
+          "source": "https://www.qbitai.com/2026/09/494179.html",
           "tags": [
-            "具身智能",
-            "开源",
-            "清华"
+            "小米",
+            "炼丹",
+            "开源模型"
           ],
-          "source": "https://www.qbitai.com/2026/09/493218.html"
+          "usage": "💡 聊到相关内容时切入\n💬 小米炼丹\n🔥 小米 炼丹 开源模型"
         },
         {
-          "title": "OceanBase登顶",
-          "summary": "国产数据库AI能力第一",
-          "detail": "国产数据库OceanBase登顶Data Agent Benchmark！其AI方案在数据处理智能体评测中碾压国际对手。终于有个数据库能听懂中文开发者的'随便查一下'是什么意思了。",
-          "usage": "💡 聊数据库AI时\n💬 'Oracle：以前你们骂我难用，现在该夸我朴实了？'\n🔥 OceanBase 数据库AI 评测",
-          "src_id": 10,
+          "title": "SkyProduction",
+          "summary": "SkyProduction 推出短剧质检系统",
+          "detail": "SkyProduction 发布了短剧质检系统，用户上传成片和字幕后，系统会自动从字幕、音画、内容底线三个维度进行全面质检，输出可下载的报告。这一工具将极大提升影视制作的质量控制效率。\n💡 在讨论影视制作工具时\n💬 SkyProduction 推出短剧质检系统，影视制作质量有保障了\n🔥 SkyProduction 短剧质检 影视制作",
+          "source": "https://www.qbitai.com/2026/09/494043.html",
           "tags": [
-            "OceanBase",
-            "数据库",
-            "AI"
+            "SkyProduction",
+            "短剧质检",
+            "影视制作"
           ],
-          "source": "https://www.qbitai.com/2026/09/493231.html"
+          "usage": "💡 聊到相关内容时切入\n💬 SkyProduction\n🔥 SkyProduction 短剧质检 影视制作"
         }
       ]
     },
@@ -197,30 +185,28 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "AI虚拟细胞发布",
-          "summary": "生命科学新基础设施",
-          "detail": "百曜科技发布《AI虚拟细胞技术报告》，将AI引入生命科学底层研究。以后做药物实验可能先跑数字仿真，再上真人——医药代表要转型成'AI药剂师'了？",
-          "usage": "💡 聊AI+生物时\n💬 '小白鼠：感谢AI，我终于可以退休了'\n🔥 AI虚拟细胞 生命科学 百曜",
-          "src_id": 22,
+          "title": "OpenAI 数学突破",
+          "summary": "OpenAI AI 解 100+ 数学难题",
+          "detail": "OpenAI 的 AI 已经解决了超过 100 个开放数学问题，展示了其在复杂数学问题解决中的强大能力。这一突破不仅验证了 AI 的潜力，也为数学研究提供了新的工具。\n💡 在讨论 AI 研究进展时\n💬 OpenAI AI 解了 100+ 数学难题，数学家要失业了\n🔥 OpenAI 数学突破 AI 研究",
+          "source": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
           "tags": [
-            "AI生物",
-            "虚拟细胞",
-            "百曜"
+            "OpenAI",
+            "数学突破",
+            "AI 研究"
           ],
-          "source": "https://www.qbitai.com/2026/09/493114.html"
+          "usage": "💡 聊到相关内容时切入\n💬 OpenAI 数学突破\n🔥 OpenAI 数学突破 AI 研究"
         },
         {
-          "title": "安徽实验室亮剑",
-          "summary": "三大AI安全方案齐发",
-          "detail": "长三角安全AI实验室一口气推出星界、星驭、星鉴三大解决方案，专门针对大模型安全。其中最狠的是'星鉴'，能实时监测模型输出是否有害——AI界的杀毒软件来了。",
-          "usage": "💡 聊AI安全时\n💬 '以后训练模型得先过安检：请张嘴，啊~'\n🔥 AI安全 星鉴 长三角",
-          "src_id": 7,
+          "title": "WebArena",
+          "summary": "WebArena 作者入职 Meta 智能实验室",
+          "detail": "WebArena 的作者 Shuyan Zhou 已经加入 Meta 的超级智能实验室，目标是开发能帮助妈妈订机票的 AI 浏览器。这一进展预示着 Meta 在 AI 浏览器领域的进一步探索。\n💡 在讨论 AI 浏览器时\n💬 WebArena 作者入职 Meta，AI 浏览器要来了\n🔥 WebArena Meta 超级智能实验室",
+          "source": "https://www.qbitai.com/2026/09/493653.html",
           "tags": [
-            "AI安全",
-            "长三角",
-            "星鉴"
+            "WebArena",
+            "Meta",
+            "AI 浏览器"
           ],
-          "source": "https://www.qbitai.com/2026/09/493235.html"
+          "usage": "💡 聊到相关内容时切入\n💬 WebArena\n🔥 WebArena Meta AI 浏览器"
         }
       ]
     },
@@ -229,44 +215,42 @@
       "icon": "📈",
       "items": [
         {
-          "title": "前会计造反",
-          "summary": "Tabby要让会计失业",
-          "detail": "前会计开发的Tabby号称要用AI取代会计，能实时处理账务文件并给出建议。最讽刺的是创始人是会计转行——这属于行业叛徒直接掀桌子了。",
-          "usage": "💡 聊职业替代时\n💬 '会计：我们中出了一个叛徒！'\n🔥 Tabby 会计AI 职业取代",
-          "src_id": 18,
+          "title": "Nscale IPO",
+          "summary": "Nscale IPO 测试 AI 投资热度",
+          "detail": "英国 AI 数据中心开发商 Nscale 即将 IPO，其成功与否将再次测试华尔街对 AI 集中投资的胃口。Nscale 主要依赖微软和 Anthropic 的订单，市场对其未来发展充满期待。\n💡 在讨论 AI 投资时\n💬 Nscale IPO 来了，AI 投资热度再测试\n🔥 Nscale IPO AI 投资",
+          "source": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
           "tags": [
-            "Tabby",
-            "会计",
-            "AI取代"
+            "Nscale",
+            "IPO",
+            "AI 投资"
           ],
-          "source": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/"
+          "usage": "💡 聊到相关内容时切入\n💬 Nscale IPO\n🔥 Nscale IPO AI 投资"
         },
         {
-          "title": "商汤领跑云市场",
-          "summary": "Neocloud中国第一",
-          "detail": "商汤大装置登顶中国Neocloud市场！其AI云服务覆盖从训练到推理全流程，连字节腾讯都被甩在后面。以后创业公司想玩大模型，可能得先给商汤交'算力税'。",
-          "usage": "💡 聊AI云计算时\n💬 '商汤：以前你们笑我估值高，现在知道什么叫基础设施了吧'\n🔥 商汤 Neocloud AI云",
-          "src_id": 19,
+          "title": "TechCrunch Disrupt",
+          "summary": "TechCrunch Disrupt 2026 门票优惠",
+          "detail": "TechCrunch Disrupt 2026 门票优惠仅剩 5 天，最高可节省 200 美元，第二张票还可享受半价。这一年度科技盛会将汇聚全球顶尖科技公司和创新者，是了解行业趋势的最佳机会。\n💡 在讨论科技展会时\n💬 TechCrunch Disrupt 2026 门票优惠最后 5 天\n🔥 TechCrunch Disrupt 2026 门票优惠",
+          "source": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
           "tags": [
-            "商汤",
-            "AI云",
-            "Neocloud"
+            "TechCrunch Disrupt",
+            "门票优惠",
+            "科技展会"
           ],
-          "source": "https://www.qbitai.com/2026/09/493175.html"
+          "usage": "💡 聊到相关内容时切入\n💬 TechCrunch Disrupt\n🔥 TechCrunch Disrupt 门票优惠 科技展会"
         }
       ]
     }
   ],
-  "generated_at": "2026-09-22T01:49:57.852Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-09-22T14:27:24.985Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3627,
-    "completion_tokens": 2580,
-    "total_tokens": 6207,
-    "cost_usd": 0.00345684,
+    "prompt_tokens": 3681,
+    "completion_tokens": 2954,
+    "total_tokens": 6635,
+    "cost_usd": 0.0038069799999999997,
     "free": false,
     "sources": {
       "per_source": {
