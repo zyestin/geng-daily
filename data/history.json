@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "key": "2026-09-29-weekday-morning",
+      "date": "2026-09-29",
+      "slot": "weekday-morning",
+      "slot_label": "工作日早晨 · 同事聊资",
+      "generated_at": "2026-09-29T02:42:40.174Z",
+      "weekday": "星期二",
+      "file": "archive/2026-09-29-weekday-morning.json",
+      "topic_count": 15,
+      "category_names": [
+        "🚀 前端框架",
+        "📱 React Native",
+        "🤖 AI编程",
+        "📘 TS & JS",
+        "🌟 开源热门",
+        "😄 开发者梗"
+      ]
+    },
+    {
       "key": "2026-09-29-weekday-evening",
       "date": "2026-09-29",
       "slot": "weekday-evening",
@@ -1261,5 +1279,5 @@
       ]
     }
   ],
-  "updated_at": "2026-09-28T17:48:31.239Z"
+  "updated_at": "2026-09-29T02:42:40.183Z"
 }
