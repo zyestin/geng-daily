@@ -21,6 +21,19 @@
       ]
     },
     {
+      "key": "2026-10-10-tech-weekend-evening",
+      "date": "2026-10-10",
+      "slot": "tech-weekend-evening",
+      "slot_label": "周末傍晚 · 家庭闲聊",
+      "generated_at": "2026-10-10T16:01:33.604Z",
+      "weekday": "星期六",
+      "file": "archive/2026-10-10-tech-weekend-evening.json",
+      "topic_count": 2,
+      "category_names": [
+        "今日头条"
+      ]
+    },
+    {
       "key": "2026-10-10-tech-weekday-evening",
       "date": "2026-10-10",
       "slot": "tech-weekday-evening",
@@ -1133,5 +1146,5 @@
       ]
     }
   ],
-  "updated_at": "2026-10-10T06:46:15.481Z"
+  "updated_at": "2026-10-10T16:01:33.611Z"
 }
