@@ -1,0 +1,83 @@
+{
+  "categories": [
+    {
+      "name": "土味情话",
+      "icon": "😘",
+      "items": [
+        {
+          "title": "收废品情圣",
+          "summary": "热搜废品站灵感",
+          "detail": "看热搜说收废品都上市了，我立刻清空了支付宝——因为遇见你之后，我的心早就变成可再生资源回收站，只回收你不要的晚安吻和嫌弃眼神。",
+          "usage": "💡 她刷手机时\n💬 申请成为你专属废品回收员，业务范围：空奶茶杯、拆包快递盒、以及我碎成渣的少男心\n🔥 回收 爱心",
+          "source": "https://m.baidu.com/s?word=%E6%94%B6%E5%BA%9F%E5%93%81+%E6%88%90%E4%BA%86%E5%A4%A7%E7%94%9F%E6%84%8F&sa=fyb_news",
+          "tags": [
+            "热搜",
+            "创意"
+          ]
+        },
+        {
+          "title": "刹车踏板文学",
+          "summary": "热点改装甜话",
+          "detail": "人民日报评刹车踏板那个新闻让我悟了——我人生最大的安全隐患，就是看见你笑的时候根本刹不住心跳加速度。",
+          "usage": "💡 她开车时\n💬 温馨提示：副驾驶安装的心动测速仪已飙红，原因查明是驾驶员侧颜超速\n🔥 驾驶 心跳",
+          "source": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E9%A3%8E%E6%B3%A2&sa=fyb_news",
+          "tags": [
+            "开车",
+            "甜言"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "情绪价值",
+      "icon": "🧠",
+      "items": [
+        {
+          "title": "膝盖软阴谋论",
+          "summary": "热搜健康焦虑",
+          "detail": "看到你转‘走路膝盖突然软’的热搜，立刻发明了防软三步法：1.抓我的手（人肉扶手）2.骂我两句（肾上腺素刺激）3.想想房贷（立刻坚强）。",
+          "usage": "💡 她分享养生文\n💬 刚给你膝盖写了防御代码：if(软){调用老公臂弯;} 但好像有bug...怎么一直调用？\n🔥 健康 幽默",
+          "source": "https://m.baidu.com/s?word=%E8%B5%B0%E8%B7%AF%E8%86%9D%E7%9B%96%E7%AA%81%E7%84%B6%E8%BD%AF%E4%B8%80%E4%B8%8B+%E5%8F%AF%E8%83%BD%E6%98%AF%E8%BF%99%E4%BA%9B%E5%8E%9F%E5%9B%A0&sa=fyb_news",
+          "tags": [
+            "养生",
+            "编程"
+          ]
+        },
+        {
+          "title": "被开除心理学",
+          "summary": "职场挫折共情",
+          "detail": "听说那个被开除实习生创业成功，立刻握住你的手：‘太好了！这样你开除我的时候，我就能专职当老公了，保证24小时on call，KPI是你笑的次数’",
+          "usage": "💡 她工作抱怨时\n💬 正在加载《老婆压力分解术》...进度99%卡住了，需要亲亲才能继续\n🔥 职场 安慰",
+          "source": "https://m.baidu.com/s?word=%E8%A2%AB%E5%AD%97%E8%8A%82%E5%BC%80%E9%99%A4%E5%AE%9E%E4%B9%A0%E7%94%9F%E5%88%9B%E4%B8%9A%E8%8E%B72%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BC%B0%E5%80%BC&sa=fyb_news",
+          "tags": [
+            "工作",
+            "创业"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-11T06:50:35.497Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3020,
+    "completion_tokens": 2893,
+    "total_tokens": 5913,
+    "cost_usd": 0.0035411699999999997,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 12,
+      "published": 4
+    },
+    "sources": {
+      "per_source": {
+        "baidu": 20
+      },
+      "total": 15
+    }
+  }
+}

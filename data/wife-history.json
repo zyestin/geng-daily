@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "key": "2026-10-11-wife-weekend-morning",
+      "date": "2026-10-11",
+      "slot": "wife-weekend-morning",
+      "slot_label": "周末早晨 · 家庭时光",
+      "generated_at": "2026-10-11T06:50:35.497Z",
+      "weekday": "星期日",
+      "file": "archive/2026-10-11-wife-weekend-morning.json",
+      "topic_count": 4,
+      "category_names": [
+        "土味情话",
+        "情绪价值"
+      ]
+    },
+    {
       "key": "2026-10-10-wife-weekend-morning",
       "date": "2026-10-10",
       "slot": "wife-weekend-morning",
@@ -861,5 +875,5 @@
       ]
     }
   ],
-  "updated_at": "2026-10-10T15:54:17.053Z"
+  "updated_at": "2026-10-11T06:50:35.503Z"
 }

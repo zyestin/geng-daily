@@ -5,49 +5,200 @@
       "icon": "📰",
       "items": [
         {
-          "title": "美国拟投2亿",
-          "summary": "美国投资癌症疫苗研发",
-          "detail": "美国计划投入2亿美元建立国家级癌症疫苗研发网络，NIH（国家卫生研究院）主导，目标是加速癌症疫苗的研发和应用。这次巨额投资被视为对抗癌症的新希望，各界期待未来能有突破性进展。",
-          "usage": "💡 午餐时间聊聊医疗科技\n💬 美国砸2亿搞癌症疫苗，未来打一针就能搞定癌症？\n🔥 癌症疫苗 美国 NIH",
-          "source": "https://www.huxiu.com/article/4896553.html?f=rss",
+          "title": "刹车风波",
+          "summary": "华为刹车踏板风波引热议",
+          "detail": "华为高端汽车尊界V800的刹车踏板支架被测试者踩断，引发广泛关注。人民日报评论称，这一事件不仅关乎产品质量，更影响华为高端品牌的市场认可度。网友调侃：'没想到华为的车也能断，这下真成了断片儿了。'",
+          "usage": "💡 聊汽车安全\n💬 华为刹车踏板断了，这下真的'断片儿'了\n🔥 华为 刹车踏板 风波",
+          "source": "https://www.huxiu.com/article/4896591.html?f=rss",
           "tags": [
-            "医疗科技",
-            "癌症疫苗"
+            "华为",
+            "汽车",
+            "刹车"
           ]
         },
         {
-          "title": "全球禁手机",
-          "summary": "英美澳欧禁小孩玩手机",
-          "detail": "英美澳欧等国开始限制小孩使用手机，甚至提议立法禁止12岁以下儿童使用智能手机。各国政府认为过度使用手机影响儿童身心健康，尤其是注意力集中和社交能力。家长们纷纷表示支持，但小孩们已经开始用电话手表“游击战”了。",
-          "usage": "💡 茶水间吐槽育儿难题\n💬 全球小孩手机被禁，电话手表成新战场\n🔥 手机禁令 儿童教育",
-          "source": "https://www.huxiu.com/article/4896551.html?f=rss",
+          "title": "机场惊魂",
+          "summary": "中国游客机场遇袭",
+          "detail": "多名中国游客在海外机场遭遇袭击，现场传出巨响，多人被吓哭。事件引发对海外旅游安全的关注，网友纷纷表示'出门在外，安全第一'。",
+          "usage": "💡 聊旅游安全\n💬 机场遇袭，吓得直接哭了\n🔥 机场 遇袭 旅游安全",
+          "source": "https://www.toutiao.com/trending/7695196471968353830/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227695196471968353830%22%2C%22hot_board_impr_id%22%3A%22202610111450366E6E3FD055653553723D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BA%B2%E5%8E%86%E6%9C%BA%E5%9C%BA%E9%81%87%E8%A2%AD%EF%BC%9A%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%B7%A8%E5%93%8D%E5%90%93%E5%93%AD%22%7D&rank=&style_id=40132&topic_id=7695196471968353830",
           "tags": [
-            "手机禁令",
-            "儿童教育"
+            "机场",
+            "安全",
+            "旅游"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "AI制药",
+          "summary": "巨头AI制药热",
+          "detail": "百度、腾讯、阿里巴巴等互联网巨头纷纷进军AI制药领域，通过自建团队或投资产业，加速药物研发进程。业内人士调侃：'这下看病真的要靠AI了。'",
+          "usage": "💡 聊AI制药\n💬 看病要AI了\n🔥 AI制药 百度 腾讯",
+          "source": "https://www.huxiu.com/article/4896593.html?f=rss",
+          "tags": [
+            "AI制药",
+            "百度",
+            "腾讯"
+          ]
+        },
+        {
+          "title": "华为舆论",
+          "summary": "华为越强大越像坏人",
+          "detail": "华为最近因刹车踏板风波陷入舆论漩涡，网友调侃：'华为越强大，越像坏人。'评论指出，此事不仅影响产品，更关乎品牌形象。",
+          "usage": "💡 聊品牌形象\n💬 华为越强大越像坏人\n🔥 华为 舆论 品牌",
+          "source": "https://www.huxiu.com/article/4896591.html?f=rss",
+          "tags": [
+            "华为",
+            "舆论",
+            "品牌"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "字节实习生",
+          "summary": "字节实习生创业获2亿美元估值",
+          "detail": "前字节跳动实习生田柯宇创业项目'世界模型'获2亿美元估值，引发业内关注。网友调侃：'字节实习生都能融这么多，字节的培训费是不是该涨涨了？'",
+          "usage": "💡 聊创业融资\n💬 字节实习生都能融这么多\n🔥 字节 实习生 创业",
+          "source": "https://m.baidu.com/s?word=%E8%A2%AB%E5%AD%97%E8%8A%82%E5%BC%80%E9%99%A4%E5%AE%9E%E4%B9%A0%E7%94%9F%E5%88%9B%E4%B8%9A%E8%8E%B72%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BC%B0%E5%80%BC&sa=fyb_news",
+          "tags": [
+            "字节",
+            "实习生",
+            "创业"
+          ]
+        },
+        {
+          "title": "轮胎涨价",
+          "summary": "60余家轮胎厂集体提价",
+          "detail": "因天然橡胶、合成橡胶、炭黑等原材料价格上涨，60余家轮胎厂集体提价，70多份涨价函覆盖全品类。网友调侃：'这下轮胎也成了奢侈品。'",
+          "usage": "💡 聊原材料涨价\n💬 轮胎也成奢侈品了\n🔥 轮胎 涨价 原材料",
+          "source": "https://www.huxiu.com/article/4896579.html?f=rss",
+          "tags": [
+            "轮胎",
+            "涨价",
+            "原材料"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "中微子奖",
+          "summary": "中微子五夺诺奖",
+          "detail": "2026年诺贝尔物理学奖揭晓，中微子探测天文台'冰立方'的首席科学家弗朗西斯·哈尔岑获奖。这是中微子第五次获得诺奖，网友调侃：'中微子这是要垄断诺奖了。'",
+          "usage": "💡 聊诺奖\n💬 中微子要垄断诺奖了\n🔥 中微子 诺奖 冰立方",
+          "source": "https://www.huxiu.com/article/4896596.html?f=rss",
+          "tags": [
+            "中微子",
+            "诺奖",
+            "冰立方"
+          ]
+        },
+        {
+          "title": "AI模拟",
+          "summary": "AI模拟真人引关注",
+          "detail": "麻省理工研究表明，AI通过访谈能模拟真人，未来或应用于教育、心理治疗等领域。网友调侃：'这下AI也能当心理咨询师了。'",
+          "usage": "💡 聊AI应用\n💬 AI也能当心理咨询师了\n🔥 AI 模拟 麻省理工",
+          "source": "https://www.huxiu.com/article/4896590.html?f=rss",
+          "tags": [
+            "AI",
+            "模拟",
+            "麻省理工"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "世界模型",
+          "summary": "世界模型融资3000万",
+          "detail": "前字节跳动实习生田柯宇的创业项目'世界模型'获3000万美元融资，投后估值近2亿美元。网友调侃：'这下世界模型真成了'世界'了。'",
+          "usage": "💡 聊创业融资\n💬 世界模型真成了'世界'了\n🔥 世界模型 融资 字节",
+          "source": "https://www.huxiu.com/article/4896587.html?f=rss",
+          "tags": [
+            "世界模型",
+            "融资",
+            "字节"
+          ]
+        },
+        {
+          "title": "AI制药",
+          "summary": "AI制药新进展",
+          "detail": "百度、腾讯等巨头纷纷进军AI制药，加速药物研发进程。网友调侃：'这下看病真的要AI了。'",
+          "usage": "💡 聊AI制药\n💬 看病要AI了\n🔥 AI制药 百度 腾讯",
+          "source": "https://www.huxiu.com/article/4896593.html?f=rss",
+          "tags": [
+            "AI制药",
+            "百度",
+            "腾讯"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "字节实习生",
+          "summary": "字节实习生创业获2亿美元估值",
+          "detail": "前字节跳动实习生田柯宇创业项目'世界模型'获2亿美元估值，引发业内关注。网友调侃：'字节实习生都能融这么多，字节的培训费是不是该涨涨了？'",
+          "usage": "💡 聊创业融资\n💬 字节实习生都能融这么多\n🔥 字节 实习生 创业",
+          "source": "https://m.baidu.com/s?word=%E8%A2%AB%E5%AD%97%E8%8A%82%E5%BC%80%E9%99%A4%E5%AE%9E%E4%B9%A0%E7%94%9F%E5%88%9B%E4%B8%9A%E8%8E%B72%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BC%B0%E5%80%BC&sa=fyb_news",
+          "tags": [
+            "字节",
+            "实习生",
+            "创业"
+          ]
+        },
+        {
+          "title": "AI制药",
+          "summary": "AI制药融资热",
+          "detail": "百度、腾讯等巨头纷纷进军AI制药，加速药物研发进程。网友调侃：'这下看病真的要AI了。'",
+          "usage": "💡 聊AI制药\n💬 看病要AI了\n🔥 AI制药 百度 腾讯",
+          "source": "https://www.huxiu.com/article/4896593.html?f=rss",
+          "tags": [
+            "AI制药",
+            "百度",
+            "腾讯"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-10T16:01:33.604Z",
-  "slot": "weekend-evening",
-  "slot_label": "周末傍晚 · 家庭闲聊",
+  "generated_at": "2026-10-11T07:01:12.268Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 5648,
-    "completion_tokens": 2252,
-    "total_tokens": 7900,
-    "cost_usd": 0.00381164,
+    "prompt_tokens": 5294,
+    "completion_tokens": 2979,
+    "total_tokens": 8273,
+    "cost_usd": 0.00434539,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 14,
-      "published": 2
+      "dropped_orphans": 4,
+      "published": 12
     },
     "sources": {
       "per_source": {
-        "kr36": 0,
         "huxiu": 12,
         "baidu": 20,
         "toutiao": 20
