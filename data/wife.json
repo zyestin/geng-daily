@@ -1,77 +1,141 @@
 {
   "categories": [
     {
-      "name": "土味情话",
-      "icon": "😘",
+      "name": "追剧指南",
+      "icon": "🎬",
       "items": [
         {
-          "title": "收废品情圣",
-          "summary": "热搜废品站灵感",
-          "detail": "看热搜说收废品都上市了，我立刻清空了支付宝——因为遇见你之后，我的心早就变成可再生资源回收站，只回收你不要的晚安吻和嫌弃眼神。",
-          "usage": "💡 她刷手机时\n💬 申请成为你专属废品回收员，业务范围：空奶茶杯、拆包快递盒、以及我碎成渣的少男心\n🔥 回收 爱心",
-          "source": "https://m.baidu.com/s?word=%E6%94%B6%E5%BA%9F%E5%93%81+%E6%88%90%E4%BA%86%E5%A4%A7%E7%94%9F%E6%84%8F&sa=fyb_news",
+          "title": "郑钦文结局",
+          "summary": "李娜传人比电视剧精彩",
+          "detail": "刚看了郑钦文夺冠纪录片，比连续剧还刺激！开场吐得跟孕反似的，最后一拍直接封神。建议当成运动版《甄嬛传》看，每个发球都是'臣妾要告发熹贵妃私通'的力度。",
+          "usage": "💡 她看体育新闻时\n💬 老婆快看这个网球版的宫斗剧\n🔥 郑钦文 甄嬛传 运动番",
+          "source": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E5%A4%BA%E5%86%A0%E5%90%8E%E6%8B%A5%E6%8A%B1%E6%95%99%E7%BB%83%E9%87%8C%E5%B7%B4&sa=fyb_news",
           "tags": [
-            "热搜",
-            "创意"
+            "体育",
+            "纪录片",
+            "反转"
           ]
         },
         {
-          "title": "刹车踏板文学",
-          "summary": "热点改装甜话",
-          "detail": "人民日报评刹车踏板那个新闻让我悟了——我人生最大的安全隐患，就是看见你笑的时候根本刹不住心跳加速度。",
-          "usage": "💡 她开车时\n💬 温馨提示：副驾驶安装的心动测速仪已飙红，原因查明是驾驶员侧颜超速\n🔥 驾驶 心跳",
-          "source": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E9%A3%8E%E6%B3%A2&sa=fyb_news",
+          "title": "骨折版霸总",
+          "summary": "周鸿祎新剧《攀岩吧爸爸》",
+          "detail": "周鸿祎攀岩摔成粉碎性骨折，建议开发《程序员生存指南》剧集。第一集：如何优雅地从代码堆爬去骨科。比《欢乐颂》刺激多了，每个bug都是生死时速。",
+          "usage": "💡 聊职场剧时\n💬 给你推荐部新职场剧《硅谷特种兵》\n🔥 程序员 职场剧 骨折",
+          "source": "https://m.baidu.com/s?word=%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%94%80%E5%B2%A9%E6%91%94%E4%BC%A4%E8%87%B4%E5%B7%A6%E8%86%9D%E7%B2%89%E7%A2%8E%E6%80%A7%E9%AA%A8%E6%8A%98&sa=fyb_news",
           "tags": [
-            "开车",
-            "甜言"
+            "职场",
+            "喜剧",
+            "程序员"
           ]
         }
       ]
     },
     {
-      "name": "情绪价值",
-      "icon": "🧠",
+      "name": "吃喝情报",
+      "icon": "🍜",
       "items": [
         {
-          "title": "膝盖软阴谋论",
-          "summary": "热搜健康焦虑",
-          "detail": "看到你转‘走路膝盖突然软’的热搜，立刻发明了防软三步法：1.抓我的手（人肉扶手）2.骂我两句（肾上腺素刺激）3.想想房贷（立刻坚强）。",
-          "usage": "💡 她分享养生文\n💬 刚给你膝盖写了防御代码：if(软){调用老公臂弯;} 但好像有bug...怎么一直调用？\n🔥 健康 幽默",
-          "source": "https://m.baidu.com/s?word=%E8%B5%B0%E8%B7%AF%E8%86%9D%E7%9B%96%E7%AA%81%E7%84%B6%E8%BD%AF%E4%B8%80%E4%B8%8B+%E5%8F%AF%E8%83%BD%E6%98%AF%E8%BF%99%E4%BA%9B%E5%8E%9F%E5%9B%A0&sa=fyb_news",
+          "title": "AI级干净面",
+          "summary": "胖东来面馆干净到发光",
+          "detail": "发现家面馆干净得反人类！服务员擦桌子的认真劲儿，像是在给iPhone贴膜。那碗牛肉面端上来时，汤清得能当镜子补口红，喝完汤碗底还印着生产日期。",
+          "usage": "💡 她说想吃面时\n💬 带你去家能把洁癖吃破产的面馆\n🔥 胖东来 牛肉面 洁癖",
+          "source": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA+%E5%B9%B2%E5%87%80%E5%BE%97%E5%83%8FAI&sa=fyb_news",
           "tags": [
-            "养生",
-            "编程"
+            "网红店",
+            "干净",
+            "牛肉面"
           ]
         },
         {
-          "title": "被开除心理学",
-          "summary": "职场挫折共情",
-          "detail": "听说那个被开除实习生创业成功，立刻握住你的手：‘太好了！这样你开除我的时候，我就能专职当老公了，保证24小时on call，KPI是你笑的次数’",
-          "usage": "💡 她工作抱怨时\n💬 正在加载《老婆压力分解术》...进度99%卡住了，需要亲亲才能继续\n🔥 职场 安慰",
-          "source": "https://m.baidu.com/s?word=%E8%A2%AB%E5%AD%97%E8%8A%82%E5%BC%80%E9%99%A4%E5%AE%9E%E4%B9%A0%E7%94%9F%E5%88%9B%E4%B8%9A%E8%8E%B72%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BC%B0%E5%80%BC&sa=fyb_news",
+          "title": "百万彩票套餐",
+          "summary": "2元中500万同款煎饼",
+          "detail": "找到那个中500万大哥同款煎饼摊了！酱料厚得像彩票涂层，每咬一口都感觉在刮奖。建议点'暴富套餐'：煎饼+豆浆，吃完钱包没胖都是老板的锅。",
+          "usage": "💡 早餐纠结时\n💬 今早吃这个中奖率500%的煎饼\n🔥 彩票 煎饼 暴富",
+          "source": "https://m.baidu.com/s?word=%E5%A4%96%E5%9C%B0%E5%8A%A1%E5%B7%A5%E4%BA%BA%E5%91%982%E5%85%83%E5%BD%A9%E7%A5%A8%E4%B8%AD500%E4%B8%87&sa=fyb_news",
           "tags": [
-            "工作",
-            "创业"
+            "小吃",
+            "幸运",
+            "早餐"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "土味情话",
+      "icon": "😘",
+      "items": [
+        {
+          "title": "网球甜心",
+          "summary": "郑钦文同款冠军情话",
+          "detail": "'比起郑钦文115万奖金，我更想赢你的115个吻'（运动梗+数字具象化）突然单膝跪地：'现在申请挑战赛？输的人负责洗碗'",
+          "usage": "💡 看网球新闻时\n💬 申请和你打场爱的网球赛\n🔥 郑钦文 情话 比赛",
+          "source": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E6%94%B6%E8%8E%B7115%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91&sa=fyb_news",
+          "tags": [
+            "运动",
+            "数字",
+            "比赛"
+          ]
+        },
+        {
+          "title": "AI老婆",
+          "summary": "胖东来施工情话",
+          "detail": "'他们说施工现场干净得像AI...那我可能是第一个通过图灵测试的老婆'突然指摄像头：'看！监控都被你美到自动对焦了'",
+          "usage": "💡 聊科技新闻时\n💬 报告发现世界上最先进AI\n🔥 胖东来 AI 情话",
+          "source": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA+%E5%B9%B2%E5%87%80%E5%BE%97%E5%83%8FAI&sa=fyb_news",
+          "tags": [
+            "科技",
+            "AI",
+            "幽默"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "约会提案",
+      "icon": "🎁",
+      "items": [
+        {
+          "title": "骨折约会",
+          "summary": "周鸿祎式冒险",
+          "detail": "'明天约个不攀岩的约会吧！我查过了，电影院座椅骨折率0%。爆米花管够，够你把'周鸿祎惨案'当脱口秀讲三遍'",
+          "usage": "💡 想约看电影时\n💬 申请执行低风险约会协议\n🔥 电影 骨折 幽默",
+          "source": "https://m.baidu.com/s?word=%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%94%80%E5%B2%A9%E6%91%94%E4%BC%A4%E8%87%B4%E5%B7%A6%E8%86%9D%E7%B2%89%E7%A2%8E%E6%80%A7%E9%AA%A8%E6%8A%98&sa=fyb_news",
+          "tags": [
+            "电影",
+            "骨折",
+            "幽默"
+          ]
+        },
+        {
+          "title": "彩票约会",
+          "summary": "2元搏500万浪漫",
+          "detail": "'要不要重现历史性时刻？先买张2元彩票，中奖了就环游世界，没中就...在煎饼摊前接吻，让老板见证比500万甜的瞬间'",
+          "usage": "💡 想制造惊喜时\n💬 启动低成本高回报计划\n🔥 彩票 浪漫 幽默",
+          "source": "https://m.baidu.com/s?word=%E5%A4%96%E5%9C%B0%E5%8A%A1%E5%B7%A5%E4%BA%BA%E5%91%982%E5%85%83%E5%BD%A9%E7%A5%A8%E4%B8%AD500%E4%B8%87&sa=fyb_news",
+          "tags": [
+            "彩票",
+            "惊喜",
+            "幽默"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-11T06:50:35.497Z",
-  "slot": "weekend-morning",
-  "slot_label": "周末早晨 · 家庭时光",
+  "generated_at": "2026-10-11T16:18:58.985Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3020,
-    "completion_tokens": 2893,
-    "total_tokens": 5913,
-    "cost_usd": 0.0035411699999999997,
+    "prompt_tokens": 2853,
+    "completion_tokens": 2974,
+    "total_tokens": 5827,
+    "cost_usd": 0.00355982,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 12,
-      "published": 4
+      "dropped_orphans": 8,
+      "published": 8
     },
     "sources": {
       "per_source": {

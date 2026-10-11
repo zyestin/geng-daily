@@ -1,0 +1,138 @@
+{
+  "categories": [
+    {
+      "name": "📰 今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "SpaceX上市",
+          "summary": "SpaceX纳斯达克挂牌，估值破2万亿",
+          "detail": "2026年6月，SpaceX在纳斯达克挂牌，募资约860亿美元，估值一举跨过两万亿美元门槛。这家公司的技术优势已经转化为基础设施权力，成为了科技圈的超级明星。家人们，这波操作简直比马斯克的火箭还快！",
+          "usage": "💡 聊起科技圈最新大事\n💬 SpaceX上市，估值破2万亿，马斯克又要发火箭了！\n🔥 SpaceX 纳斯达克 2万亿",
+          "source": "https://www.huxiu.com/article/4896647.html?f=rss",
+          "tags": [
+            "SpaceX",
+            "马斯克",
+            "纳斯达克"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🎤 大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "周鸿祎骨折",
+          "summary": "周鸿祎左膝粉碎性骨折",
+          "detail": "360创始人周鸿祎近日左膝粉碎性骨折，这位科技圈大佬的‘硬核’人生又添一笔。家人们，看来‘红衣教主’不仅要打网络安全战，还得和骨科医院掰手腕了。",
+          "usage": "💡 聊起科技圈大佬的健康八卦\n💬 周鸿祎左膝粉碎性骨折，红衣教主也得休息了！\n🔥 周鸿祎 骨折 360",
+          "source": "https://www.toutiao.com/trending/7695394353566941211/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227695394353566941211%22%2C%22hot_board_impr_id%22%3A%222026101200190019CFC1894FD45526E5FA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%91%A8%E9%B8%BF%E7%A5%8E%E5%B7%A6%E8%86%9D%E7%B2%89%E7%A2%8E%E6%80%A7%E9%AA%A8%E6%8A%98%22%7D&rank=&style_id=40132&topic_id=7695394353566941211",
+          "tags": [
+            "周鸿祎",
+            "骨折",
+            "360"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "联泰环保出售资产",
+          "summary": "联泰环保拟出售近九成资产",
+          "detail": "环保行业的日子不好过，联泰环保宣布拟出售近九成资产，估值16亿。这家公司曾经是环保行业的明星企业，如今却陷入了经营困局。家人们，环保行业的冬天似乎比想象中来得更早。",
+          "usage": "💡 聊起环保行业的现状\n💬 联泰环保拟出售近九成资产，环保行业的冬天来了！\n🔥 联泰环保 出售资产 环保行业",
+          "source": "https://www.huxiu.com/article/4896648.html?f=rss",
+          "tags": [
+            "联泰环保",
+            "出售资产",
+            "环保行业"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔀 组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "联泰环保资产出售",
+          "summary": "联泰环保拟出售近九成资产",
+          "detail": "联泰环保宣布拟出售近九成资产，估值16亿。这家曾经风光无限的环保公司如今陷入了经营困境，资产出售的背后是行业的寒冬。家人们，环保行业的‘资产大甩卖’开始了，谁能撑到最后？",
+          "usage": "💡 聊起环保行业的裁员和资产出售\n💬 联泰环保拟出售近九成资产，环保行业的‘资产大甩卖’开始了！\n🔥 联泰环保 资产出售 环保行业",
+          "source": "https://www.huxiu.com/article/4896648.html?f=rss",
+          "tags": [
+            "联泰环保",
+            "资产出售",
+            "环保行业"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "SpaceX上市",
+          "summary": "SpaceX纳斯达克挂牌，估值破2万亿",
+          "detail": "2026年6月，SpaceX在纳斯达克挂牌，募资约860亿美元，估值一举跨过两万亿美元门槛。这家公司的技术优势已经转化为基础设施权力，成为了科技圈的超级明星。家人们，这波操作简直比马斯克的火箭还快！",
+          "usage": "💡 聊起科技圈前沿技术\n💬 SpaceX上市，估值破2万亿，马斯克又要发火箭了！\n🔥 SpaceX 纳斯达克 2万亿",
+          "source": "https://www.huxiu.com/article/4896647.html?f=rss",
+          "tags": [
+            "SpaceX",
+            "马斯克",
+            "纳斯达克"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🎬 创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "联泰环保困境",
+          "summary": "联泰环保陷入经营困局",
+          "detail": "联泰环保宣布拟出售近九成资产，估值16亿。这家曾经风光无限的环保公司如今陷入了经营困境，资产出售的背后是行业的寒冬。家人们，环保行业的‘资产大甩卖’开始了，谁能撑到最后？",
+          "usage": "💡 聊起环保行业的创业故事\n💬 联泰环保拟出售近九成资产，环保行业的‘资产大甩卖’开始了！\n🔥 联泰环保 资产出售 环保行业",
+          "source": "https://www.huxiu.com/article/4896648.html?f=rss",
+          "tags": [
+            "联泰环保",
+            "资产出售",
+            "环保行业"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-11T16:25:59.717Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 4982,
+    "completion_tokens": 1899,
+    "total_tokens": 6881,
+    "cost_usd": 0.00328435,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 2,
+      "published": 6
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 3,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 15
+    }
+  }
+}
