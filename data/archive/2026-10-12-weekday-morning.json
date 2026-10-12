@@ -1,0 +1,144 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Next.js动态",
+          "summary": "Next.js新版本发布",
+          "detail": "Next.js最近发布了新版本，引入了多项性能优化和新特性，包括更快的构建时间和改进的开发者体验。",
+          "usage": "你看到Next.js新版本了吗？听说构建时间更快了，咱们项目要不要考虑升级一下？",
+          "source": "",
+          "tags": [
+            "Next.js",
+            "前端"
+          ]
+        },
+        {
+          "title": "Vue3优化",
+          "summary": "Vue3性能优化显著",
+          "detail": "Vue3最近进行了多项性能优化，特别是在大型应用中的响应速度和内存使用上有了显著提升。",
+          "usage": "Vue3最近优化得很厉害，咱们要不要考虑在新项目里用一下？",
+          "source": "",
+          "tags": [
+            "Vue3",
+            "前端"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN新架构",
+          "summary": "React Native新架构发布",
+          "detail": "React Native新架构（Fabric/New Architecture）已经发布，带来了更好的性能和更流畅的UI体验。",
+          "usage": "React Native新架构发布了，你看了吗？听说性能提升很大，咱们项目要不要试试？",
+          "source": "",
+          "tags": [
+            "React Native",
+            "移动开发"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "AI生成UI",
+          "summary": "AI工具生成UI",
+          "detail": "最新的AI工具可以通过描述生成UI设计，极大提高了开发效率，特别是在快速原型设计阶段。",
+          "usage": "最近AI工具可以直接生成UI了，咱们要不要试试？可以省不少设计时间。",
+          "source": "",
+          "tags": [
+            "AI",
+            "UI设计"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "TS新特性",
+          "summary": "TypeScript新特性发布",
+          "detail": "TypeScript最新版本引入了多项新特性，包括更好的类型推断和新的语法糖，进一步提升了开发体验。",
+          "usage": "TypeScript新版本发布了，你看了吗？新特性挺实用的，咱们项目要不要升级一下？",
+          "source": "",
+          "tags": [
+            "TypeScript",
+            "JavaScript"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "GitHub趋势",
+          "summary": "GitHub趋势项目更新",
+          "detail": "GitHub最近有几个项目star数暴涨，包括一些新的AI工具和开发者工具，值得关注。",
+          "usage": "你看到GitHub最近趋势项目了吗？有几个AI工具挺火的，咱们要不要研究一下？",
+          "source": "",
+          "tags": [
+            "GitHub",
+            "开源"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "Stack Overflow梗",
+          "summary": "Stack Overflow新梗",
+          "detail": "Stack Overflow最近又出新梗，开发者社区热议不断，特别是关于AI辅助编程的讨论。",
+          "usage": "你看到Stack Overflow新梗了吗？AI辅助编程的话题又火了，挺有意思的。",
+          "source": "",
+          "tags": [
+            "Stack Overflow",
+            "梗"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-12T02:46:02.985Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2066,
+    "completion_tokens": 828,
+    "total_tokens": 2894,
+    "cost_usd": 0.0013980400000000001,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 8,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "Jev估值暴涨",
+          "summary": "Jev估值24天翻至75亿美元",
+          "detail": "Jev在短短24天内估值从37.5亿美元暴涨至75亿美元，成为年度硅谷最爽逆袭。这一估值翻倍的速度让所有VC都惊呆了，马斯克都直呼内行。Jev的成功在于其独特的AI赋能商业模式，迅速占领了市场空白。未来，Jev是否能在AI领域继续领跑，值得期待。",
+          "usage": "💡 聊AI投资风口时\n💬 Jev估值24天翻倍，马斯克都惊呆了！\n🔥 Jev 估值 AI投资",
+          "source": "https://www.qbitai.com/2026/10/502492.html",
+          "tags": [
+            "Jev",
+            "AI投资",
+            "硅谷"
+          ]
+        },
+        {
+          "title": "OpenAI打假",
+          "summary": "OpenAI打击AI虚假信息行动",
+          "detail": "OpenAI近日成功打击了两起利用AI技术进行虚假信息传播的行动。这些行动通过虚假记者和智库进行信息操纵，OpenAI通过技术手段迅速识别并阻断。此次行动展示了AI技术被滥用时的严重后果，同时也凸显了OpenAI在AI安全领域的强大能力。未来，AI技术的监管或将更加严格。",
+          "usage": "💡 聊AI安全时\n💬 OpenAI打假，AI技术被滥用的时代来了！\n🔥 OpenAI AI安全 虚假信息",
+          "source": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "tags": [
+            "OpenAI",
+            "AI安全",
+            "虚假信息"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "GPT-6.1 Sol",
+          "summary": "Asana浏览器代理成本降76倍",
+          "detail": "Asana在浏览器测试中使用GPT-6.1 Sol，将成本降低了76倍，速度提升了5倍。这一突破使得AI在浏览器中的应用更加普及，企业可以以更低的成本获得更高效的AI服务。GPT-6.1 Sol的发布，标志着AI技术在效率和成本上的又一次飞跃。",
+          "usage": "💡 聊AI成本时\n💬 Asana用GPT-6.1 Sol，成本降了76倍！\n🔥 GPT-6.1 Sol Asana 成本",
+          "source": "https://openai.com/index/asana-browser-agent",
+          "tags": [
+            "GPT-6.1 Sol",
+            "Asana",
+            "成本"
+          ]
+        },
+        {
+          "title": "Nano Banana 2.1",
+          "summary": "Nano Banana 4K直出中文进步",
+          "detail": "Nano Banana 2.1版本发布，4K直出效果显著提升，中文处理能力大幅增强。这一更新让Nano Banana在视频处理和语言理解上更上一层楼，用户体验直线上升。Nano Banana的持续进步，使其在AI视频领域继续保持领先地位。",
+          "usage": "💡 聊AI视频处理时\n💬 Nano Banana 2.1发布，4K直出中文进步！\n🔥 Nano Banana 4K 中文",
+          "source": "https://www.qbitai.com/2026/10/502484.html",
+          "tags": [
+            "Nano Banana",
+            "4K",
+            "中文"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "Nadella谈AI刹车",
+          "summary": "Nadella称AI模型需紧急刹车",
+          "detail": "微软CEO Satya Nadella近日发文，呼吁AI模型需要“紧急刹车”。他指出，当前AI技术发展迅猛，但信任和安全问题日益突出，必须及时反思和评估。Nadella的言论引发了业界对AI伦理和安全的热议，未来AI监管或将更加严格。",
+          "usage": "💡 聊AI伦理时\n💬 Nadella说AI模型需要紧急刹车！\n🔥 Nadella AI伦理 安全",
+          "source": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+          "tags": [
+            "Nadella",
+            "AI伦理",
+            "安全"
+          ]
+        },
+        {
+          "title": "马斯克囤GPU",
+          "summary": "马斯克连横A社囤GPU",
+          "detail": "马斯克近日联合A社，开始大量囤积GPU。硅谷VC纷纷跟进，GPU成为AI时代的硬通货。马斯克的这一举动，进一步凸显了算力在AI竞争中的核心地位。未来，谁能掌握更多的算力，谁就能在AI领域占据先机。",
+          "usage": "💡 聊AI算力时\n💬 马斯克囤GPU，硅谷VC跟风！\n🔥 马斯克 GPU 算力",
+          "source": "https://www.qbitai.com/2026/10/502585.html",
+          "tags": [
+            "马斯克",
+            "GPU",
+            "算力"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "荣耀Magic9发布",
+          "summary": "荣耀Magic9系列正式发布",
+          "detail": "荣耀在北京正式发布Magic9系列，售价4499元起。新机搭载超清双2亿摄像头，被称为“掌中电影机”。荣耀Magic9的发布，进一步提升了其在高端手机市场的竞争力，未来或将引领手机AI摄影的新潮流。",
+          "usage": "💡 聊手机AI时\n💬 荣耀Magic9发布，掌中电影机来了！\n🔥 荣耀 Magic9 AI摄影",
+          "source": "https://www.qbitai.com/2026/10/502496.html",
+          "tags": [
+            "荣耀",
+            "Magic9",
+            "AI摄影"
+          ]
+        },
+        {
+          "title": "苹果进军AI播客",
+          "summary": "苹果收购Huxe进军AI播客",
+          "detail": "苹果近日收购个性化播客初创公司Huxe，并获得了其技术授权。这一举动被视为苹果进军AI生成播客领域的信号。未来，苹果或将在AI音频领域推出更多创新产品，进一步丰富其生态系统。",
+          "usage": "💡 聊AI音频时\n💬 苹果收购Huxe，要搞AI播客了！\n🔥 苹果 Huxe AI播客",
+          "source": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+          "tags": [
+            "苹果",
+            "Huxe",
+            "AI播客"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "ChatGPT助力酒店",
+          "summary": "Radisson酒店接入ChatGPT",
+          "detail": "Radisson酒店集团与Accenture合作，利用OpenAI技术开发了ChatGPT插件，帮助旅客更便捷地发现酒店。这一合作展示了AI技术在酒店行业的应用前景，未来或将改变旅客的酒店预订体验。",
+          "usage": "💡 聊AI旅游时\n💬 Radisson酒店接入ChatGPT，预订更方便了！\n🔥 Radisson ChatGPT 酒店",
+          "source": "https://openai.com/index/radisson",
+          "tags": [
+            "Radisson",
+            "ChatGPT",
+            "酒店"
+          ]
+        },
+        {
+          "title": "Oracle效率革命",
+          "summary": "Oracle用ChatGPT提升效率",
+          "detail": "Oracle在招聘、工程和运营中引入ChatGPT和Codex，将几天的工作量缩短至几分钟。这一效率革命展示了AI在企业内部流程中的巨大潜力，未来或将广泛应用于各个行业。",
+          "usage": "💡 聊企业AI时\n💬 Oracle用ChatGPT，几天变几分钟！\n🔥 Oracle ChatGPT 效率",
+          "source": "https://openai.com/index/oracle",
+          "tags": [
+            "Oracle",
+            "ChatGPT",
+            "效率"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "DeepSeek Bot上线",
+          "summary": "DeepSeek Bot民间版发布",
+          "detail": "DeepSeek Bot民间版正式上线，用户只需在DSH中安装插件即可使用。这一开源项目的发布，让更多开发者能够低成本体验AI技术，未来或将推动AI应用的进一步普及。",
+          "usage": "💡 聊开源AI时\n💬 DeepSeek Bot民间版上线，DSH插件走起！\n🔥 DeepSeek Bot 开源",
+          "source": "https://www.qbitai.com/2026/10/502544.html",
+          "tags": [
+            "DeepSeek Bot",
+            "开源",
+            "DSH"
+          ]
+        },
+        {
+          "title": "AI行业NDA争议",
+          "summary": "AI行业试图取消NDA",
+          "detail": "AI行业正试图通过取消NDA（保密协议）来赢得数据中心反对者的支持。这一争议引发了业界对AI数据透明度和监管的热议，未来或将影响AI技术的发展方向。",
+          "usage": "💡 聊AI数据时\n💬 AI行业要取消NDA，数据透明化来了！\n🔥 AI NDA 数据",
+          "source": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+          "tags": [
+            "AI",
+            "NDA",
+            "数据"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "Sophos效率提升",
+          "summary": "Sophos威胁调查时间降96%",
+          "detail": "Sophos利用OpenAI Daybreak将网络威胁调查时间缩短了96%，并实现了自动化处理。这一突破展示了AI在网络安全领域的巨大潜力，未来或将彻底改变企业的安全防护方式。",
+          "usage": "💡 聊网络安全时\n💬 Sophos用Daybreak，威胁调查时间降96%！\n🔥 Sophos Daybreak 网络安全",
+          "source": "https://openai.com/index/sophos",
+          "tags": [
+            "Sophos",
+            "Daybreak",
+            "网络安全"
+          ]
+        },
+        {
+          "title": "Pollo AI创意革命",
+          "summary": "Pollo AI用GPT-5.6创意革命",
+          "detail": "Pollo AI利用GPT-5.6、GPT-6 Astra和GPT-Image-2.5，将创意想法转化为详细活动。这一创意革命展示了AI在内容创作领域的无限可能，未来或将彻底改变广告和营销行业。",
+          "usage": "💡 聊AI创意时\n💬 Pollo AI用GPT-5.6，创意革命来了！\n🔥 Pollo AI GPT-5.6 创意",
+          "source": "https://openai.com/index/pollo-ai",
+          "tags": [
+            "Pollo AI",
+            "GPT-5.6",
+            "创意"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "TechCrunch Disrupt 2026",
+          "summary": "TechCrunch Disrupt 2026开幕",
+          "detail": "TechCrunch Disrupt 2026将于10月13日在旧金山Moscone West开幕，300多家初创公司将展示最新技术。这一盛会被视为AI行业的风向标，未来或将诞生新的独角兽。",
+          "usage": "💡 聊AI展会时\n💬 TechCrunch Disrupt 2026开幕，300家初创公司亮相！\n🔥 TechCrunch Disrupt 2026 初创公司",
+          "source": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+          "tags": [
+            "TechCrunch Disrupt 2026",
+            "初创公司",
+            "AI"
+          ]
+        },
+        {
+          "title": "西门子工博会亮相",
+          "summary": "西门子展示工业全栈能力",
+          "detail": "西门子将在2026工博会上展示其工业全栈能力，推动物理AI加速落地。西门子的这一举措，展示了其在工业AI领域的领先地位，未来或将引领工业智能化新潮流。",
+          "usage": "💡 聊工业AI时\n💬 西门子工博会亮相，工业全栈能力展示！\n🔥 西门子 工博会 工业AI",
+          "source": "https://www.qbitai.com/2026/10/502541.html",
+          "tags": [
+            "西门子",
+            "工博会",
+            "工业AI"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-12T02:55:16.757Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3567,
+    "completion_tokens": 2943,
+    "total_tokens": 6510,
+    "cost_usd": 0.00376071,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

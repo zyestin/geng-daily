@@ -1,0 +1,90 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "中国天眼发现三体系统",
+          "summary": "天眼探测到真实版三体星系，科学家震惊。",
+          "detail": "近日，中国天眼发现了一个活生生的三体系统，三颗星星全在同一片星云中诞生，转了几十万年。这可把科学家们惊呆了，难道真要上演《三体》剧情？家人们，看看我们这科学探索的脚步，跟科幻小说不分上下了！",
+          "usage": "💡 科幻爱好者都能接上话 \n💬 \"中国天眼发现了一个活生生的三体系统！\" \n🔥 三体 科幻 科学",
+          "source": "https://www.huxiu.com/article/4896218.html?f=rss",
+          "tags": [
+            "科学",
+            "探索",
+            "三体"
+          ]
+        },
+        {
+          "title": "锂价暴跌影响动力电池",
+          "summary": "锂价暴跌，动力电池回收行业大受打击。",
+          "detail": "随着碳酸锂价格暴跌，曾经火热的动力电池回收行业变成了一场滑铁卢。不少公司在高价囤货后遭遇巨亏。看着市场如坐过山车，估计不少企业都在想：这个电池的“后半生”真是让人心塞！大家相信锂电池回收能否东山再起吗？",
+          "usage": "💡 聊聊电池回收的行业动态 \n💬 \"锂价暴跌，动力电池回收行业大受打击。\" \n🔥 动力电池 锂价 回收",
+          "source": "https://www.huxiu.com/article/4896707.html?f=rss",
+          "tags": [
+            "电池",
+            "经济",
+            "市场"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "马斯克嘲讽印度富豪",
+          "summary": "马斯克发文调侃安巴尼，幽默感尽显。",
+          "detail": "马斯克最近在社交媒体上对印度富豪安巴尼进行了调侃，称其在商业战略上\"有些失策\"。看来就算是亿万富翁，马斯克依然不放过调侃的机会。家人们，真是得瑟得不行，这波嘴炮可真精彩！",
+          "usage": "💡 聊聊马斯克的幽默风格 \n💬 \"马斯克发文讽刺印度富豪安巴尼，真是无情！\" \n🔥 马斯克 安巴尼 幽默",
+          "source": "https://www.toutiao.com/trending/7695020260139696182/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227695020260139696182%22%2C%22hot_board_impr_id%22%3A%22202610121046035AE02E59266F00845322%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%91%E6%96%87%E8%AE%BF%E5%88%BA%E5%8D%B0%E5%BA%A6%E5%AF%8C%E8%B1%AA%E5%AE%89%E5%B7%B4%E5%B0%BC%22%7D&rank=&style_id=40132&topic_id=7695020260139696182",
+          "tags": [
+            "马斯克",
+            "印度",
+            "幽默"
+          ]
+        },
+        {
+          "title": "宁德时代盯上Deepseek",
+          "summary": "宁德时代出资50亿，成为Deepseek第二大投资方。",
+          "detail": "今年6月，宁德时代斥资50亿元成为Deepseek的第二大外部投资人，显然他们认为电池生意还不够大。业界纷纷猜测，宁王这是想把资本局做得更大，还是另有隐情？“电池+AI”的未来，是时候揭开面纱了！",
+          "usage": "💡 聊聊资本的未来趋势 \n💬 \"宁德时代盯上Deepseek，投资50亿要干嘛？\" \n🔥 宁德时代 Deepseek 投资",
+          "source": "https://www.huxiu.com/article/4896691.html?f=rss",
+          "tags": [
+            "宁德时代",
+            "投资",
+            "AI"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-12T02:52:44.607Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 5857,
+    "completion_tokens": 3576,
+    "total_tokens": 9433,
+    "cost_usd": 0.00302415,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 12,
+      "published": 4
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 12,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 22
+    }
+  }
+}
