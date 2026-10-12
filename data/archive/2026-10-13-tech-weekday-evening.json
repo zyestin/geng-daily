@@ -1,0 +1,120 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "非洲手机王上市",
+          "summary": "传音控股赴港上市最高募资33.6亿港元",
+          "detail": "非洲手机之王传音控股10月7日启动港股招股，准备在非洲市场继续收割。最高募资33.6亿港元，售价上限38.8港元。这家把双卡双待玩出花的公司，让非洲人民也能享受手机贴膜服务了。",
+          "usage": "💡 聊国产手机出海\n💬 传音这波操作是要把非洲兄弟的手机都贴满钻石吗？\n🔥 传音 非洲手机 港股上市",
+          "source": "https://www.huxiu.com/article/4896955.html?f=rss",
+          "tags": [
+            "手机",
+            "上市",
+            "出海"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "天才厌倦工作",
+          "summary": "菲尔兹奖得主觉得工作毫无价值",
+          "detail": "最近有菲尔兹奖得主在X上吐槽，觉得自己智商160却工作毫无价值。这大概就是学霸的凡尔赛：不是工作配不上我，是我配不上工作。",
+          "usage": "💡 聊工作意义\n💬 连菲尔兹奖得主都觉得工作没意思，我这搬砖的突然就释怀了\n🔥 菲尔兹奖 工作价值 凡尔赛",
+          "source": "https://www.huxiu.com/article/4896956.html?f=rss",
+          "tags": [
+            "菲尔兹奖",
+            "工作",
+            "吐槽"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "燃油车反扑",
+          "summary": "两款燃油车重回销量榜前十",
+          "detail": "新能源车如火如荼，但最新销量榜上两款燃油车杀回前十。电动车：说好的一起颠覆呢？燃油车：没想到吧，我又回来了！",
+          "usage": "💡 聊汽车市场\n💬 燃油车：没想到吧爷青回！\n🔥 燃油车 销量 新能源",
+          "source": "https://m.baidu.com/s?word=%E4%B8%A4%E6%AC%BE%E7%87%83%E6%B2%B9%E8%BD%A6%E9%87%8D%E5%9B%9E%E9%94%80%E9%87%8F%E6%A6%9C%E5%89%8D%E5%8D%81&sa=fyb_news",
+          "tags": [
+            "燃油车",
+            "销量",
+            "新能源"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "外国迷中国科技",
+          "summary": "外国游客爱上中国科技产品",
+          "detail": "外国游客来中国发现新大陆：移动支付、共享充电宝、智能家居...纷纷变成中国科技自来水。看来科技输出最有效的途径是旅游带货。",
+          "usage": "💡 聊科技产品\n💬 老外：原来中国人每天都在用未来科技\n🔥 外国游客 中国科技 移动支付",
+          "source": "https://m.baidu.com/s?word=%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%88%B1%E4%B8%8A%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80&sa=fyb_news",
+          "tags": [
+            "中国科技",
+            "外国游客",
+            "智能产品"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "贴纸走红海外",
+          "summary": "小学门口水钻贴纸在外网火了",
+          "detail": "中国小学生最爱的水钻贴纸意外走红海外，成为ins新宠。谁能想到，小学生审美才是国际化的终极答案。",
+          "usage": "💡 聊小商品出海\n💬 原来全球审美统一要靠小学生\n🔥 水钻贴纸 小学生 海外走红",
+          "source": "https://m.baidu.com/s?word=%E5%B0%8F%E5%AD%A6%E9%97%A8%E5%8F%A3%E7%9A%84%E6%B0%B4%E9%92%BB%E8%B4%B4%E7%BA%B8%E5%9C%A8%E5%A4%96%E7%BD%91%E7%81%AB%E4%BA%86&sa=fyb_news",
+          "tags": [
+            "水钻贴纸",
+            "小学生",
+            "海外市场"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-12T19:38:27.373Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3946,
+    "completion_tokens": 1367,
+    "total_tokens": 5313,
+    "cost_usd": 0.00247935,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 3,
+      "published": 5
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 3,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 13
+    }
+  }
+}

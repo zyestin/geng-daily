@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "华为AI通杀25款游戏",
+          "summary": "操作次数比人类少56%",
+          "detail": "华为AI靠RSI算法在25款游戏中打出21:0战绩，连《星际争霸》这种RTS游戏都不需要调用大模型就能碾压人类。最骚的是它操作次数比职业选手少56%——原来职业哥的无效操作这么多？建议下次电竞比赛直接让AI当裁判判‘无效微操’。",
+          "usage": "💡 电竞/游戏AI讨论时\n💬 华为AI打游戏比人类少56%操作，职业选手的无效微操被实锤了\n🔥 华为AI RSI 电竞",
+          "source": "https://www.qbitai.com/2026/10/502654.html",
+          "tags": [
+            "游戏AI",
+            "华为",
+            "RSI"
+          ]
+        },
+        {
+          "title": "AI假新闻工厂被端",
+          "summary": "OpenAI封杀AI假记者账号",
+          "detail": "OpenAI披露封禁了两个AI生成的假新闻网络，这帮家伙用AI批量生成‘智库研究员’和‘记者’身份，日均生产180篇假报道。最绝的是他们还会用AI生成‘反对自己观点的评论’来制造争吵热度——建议各大社交平台直接抄OpenAI的识别算法。",
+          "usage": "💡 讨论假新闻/信息战话题时\n💬 AI假新闻都进化到会自己跟自己吵架了\n🔥 假新闻 AI生成 OpenAI",
+          "source": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "tags": [
+            "假新闻",
+            "信息战",
+            "OpenAI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Meta首款前沿模型",
+          "summary": "Muse Wonder上线",
+          "detail": "Meta憋出首款‘前沿模型’Muse Wonder，和之前轻量级的Spark不同，这次直接对标GPT-6。官方说法是‘推理速度提升400%’，但网友实测发现生成一首诗要3秒——所以之前得等15秒？建议改名叫Muse Ponder(沉思)。",
+          "usage": "💡 讨论大模型竞争时\n💬 Meta的‘前沿模型’生成首诗要3秒，原来之前要等15秒？\n🔥 Meta Muse Wonder 大模型",
+          "source": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+          "tags": [
+            "Meta",
+            "Muse Wonder",
+            "大模型"
+          ]
+        },
+        {
+          "title": "智谱新模型490t/s",
+          "summary": "速度堪比火箭",
+          "detail": "智谱发布新模型直接飙到490 tokens/s，什么概念？GPT-4o最快也就120t/s。网友实测用三体问题prompt测试，回答速度比刘慈欣写《三体》还快——建议改名叫‘智谱快跑’。",
+          "usage": "💡 聊模型推理速度时\n💬 智谱新模型490t/s，回答三体问题比大刘写得还快\n🔥 智谱 推理速度 大模型",
+          "source": "https://www.qbitai.com/2026/10/502649.html",
+          "tags": [
+            "智谱AI",
+            "推理速度",
+            "大模型"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "陶哲轩官宣数学2.0",
+          "summary": "AI改变数学研究方式",
+          "detail": "菲尔兹奖得主陶哲轩在最新博客宣布‘数学2.0时代已至’：现在他每天用AI助手验证200+引理，连上厕所都在手机上审AI生成的证明。评论区数学家集体破防：‘我们当年手推Grothendieck拓扑的时候...’",
+          "usage": "💡 讨论AI对学术影响时\n💬 陶哲轩：我现在用AI每天验证200个引理，老派数学家已哭晕\n🔥 陶哲轩 数学2.0 AI证明",
+          "source": "https://www.qbitai.com/2026/10/502594.html",
+          "tags": [
+            "陶哲轩",
+            "数学",
+            "AI科研"
+          ]
+        },
+        {
+          "title": "微软总裁锐评AI监管",
+          "summary": "拿洗衣机和牛奶对比",
+          "detail": "微软总裁Brad Smith在伦敦演讲时说‘牛奶和洗衣机都有监管，AI凭什么没有’——然后被网友扒出微软Azure刚因绕过欧盟AI法案被罚4.7亿欧元。建议下次比喻改成‘就像微软交罚款一样自然’。",
+          "usage": "💡 聊AI监管话题时\n💬 微软说AI该像洗衣机一样被监管，然后他们刚被罚4.7亿\n🔥 微软 AI监管 罚款",
+          "source": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+          "tags": [
+            "微软",
+            "AI监管",
+            "Brad Smith"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "硅谷算力大战升级",
+          "summary": "马斯克联手Anthropic抢GPU",
+          "detail": "硅谷VC开始囤GPU当硬通货，马斯克被曝用SpaceX名义订了5000块H100给xAI，转头又和Anthropic搞‘算力共享’。网友辣评：‘以前是囤黄金，现在囤H100，建议英伟达直接发显卡币。’",
+          "usage": "💡 聊算力竞争时\n💬 马斯克用SpaceX名义囤5000块H100，算力才是新时代黄金\n🔥 马斯克 GPU 算力竞争",
+          "source": "https://www.qbitai.com/2026/10/502585.html",
+          "tags": [
+            "马斯克",
+            "GPU",
+            "算力"
+          ]
+        },
+        {
+          "title": "OpenAI杀入酒店业",
+          "summary": "与丽笙集团合作插件",
+          "detail": "OpenAI和丽笙酒店搞出ChatGPT订房插件，能根据‘要能看到埃菲尔铁塔的浴缸’这种模糊需求推荐房间。测试发现它甚至会提醒‘该房型本周被投诉隔音差’——建议改名YelpGPT。",
+          "usage": "💡 讨论AI落地场景时\n💬 现在用ChatGPT订酒店，它连‘隔音差’的差评都会告诉你\n🔥 OpenAI 丽笙酒店 ChatGPT插件",
+          "source": "https://openai.com/index/radisson",
+          "tags": [
+            "OpenAI",
+            "酒店业",
+            "ChatGPT插件"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "Asana成本暴降76倍",
+          "summary": "GPT-6.1浏览器测试",
+          "detail": "Asana用GPT-6.1做浏览器自动化测试，直接把成本砍到原来的1/76。原先跑一次测试的钱够买76杯咖啡，现在只值一颗咖啡豆——建议SaaS公司都去薅OpenAI羊毛。",
+          "usage": "💡 聊AI降本增效时\n💬 用GPT-6.1做测试，成本从76杯咖啡降到1颗咖啡豆\n🔥 Asana GPT-6.1 成本",
+          "source": "https://openai.com/index/asana-browser-agent",
+          "tags": [
+            "Asana",
+            "GPT-6.1",
+            "自动化测试"
+          ]
+        },
+        {
+          "title": "AI论文神器来了",
+          "summary": "告别Ctrl+F大海捞针",
+          "detail": "新出的AI论文工具能直接在1000+页文献里精准定位‘那个在右上角图表里提到的小字结论’，科研狗再也不用担心导师说‘这个观点1992年有人提过’了。建议命名为‘导师克星’。",
+          "usage": "💡 学术党吐槽时\n💬 终于有AI能找‘1992年某论文图表小字结论’了\n🔥 论文工具 文献检索 AI科研",
+          "source": "https://www.qbitai.com/2026/10/502644.html",
+          "tags": [
+            "科研工具",
+            "文献检索",
+            "AI学术"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "GPT-4o临终关怀",
+          "summary": "初代API进入倒计时",
+          "detail": "下架8个月的GPT-4o居然还有团队在维护API快照，OpenAI官方宣布最终关停日期。网友发现最后一批用户是考古学家——他们在用4o分析自己2013年发的推特。建议改名叫‘AI博物馆’。",
+          "usage": "💡 聊模型迭代时\n💬 GPT-4o都要进博物馆了，还有人在用它分析2013年的推特\n🔥 GPT-4o API关停 考古",
+          "source": "https://www.qbitai.com/2026/10/502550.html",
+          "tags": [
+            "GPT-4o",
+            "API",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "何恺明团队新框架",
+          "summary": "视觉原生Harness发布",
+          "detail": "何恺明团队放出多模态Harness框架，用视觉信号直接驱动模型理解。测试发现它看《星际穿越》能准确识别‘这是五维空间表现’——建议诺兰下次拍戏先过审AI。",
+          "usage": "💡 讨论多模态进展时\n💬 何恺明团队AI看《星际穿越》能识别五维空间，诺兰慌了\n🔥 何恺明 多模态 计算机视觉",
+          "source": "https://www.qbitai.com/2026/10/502628.html",
+          "tags": [
+            "何恺明",
+            "多模态",
+            "计算机视觉"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "王的猜想突破",
+          "summary": "扩展到四维空间",
+          "detail": "著名数学难题‘王的猜想’被扩展到四维，团队用AI生成了3000个反例才找到突破口。数学家吐槽：‘我们当年用手算三年，现在AI三天就暴力破解了。’建议菲尔兹奖新增‘最佳AI驯兽师’奖项。",
+          "usage": "💡 聊AI+数学时\n💬 AI生成3000个反例破解四维‘王的猜想’，数学家：不讲武德\n🔥 王的猜想 数学 AI证明",
+          "source": "https://www.qbitai.com/2026/10/502584.html",
+          "tags": [
+            "王的猜想",
+            "数学",
+            "AI证明"
+          ]
+        },
+        {
+          "title": "AI预测天气获美军大单",
+          "summary": "气象气球+AI算法",
+          "detail": "硅谷初创公司WindBorne用气象气球+AI拿下美军大单，能在台风形成前72小时预测路径。要知道气象局现在最快也就48小时——所以美军这是要和老天爷打情报战？",
+          "usage": "💡 聊AI军事应用时\n💬 美军用AI气球预测台风，比气象局还快24小时\n🔥 WindBorne 气象预测 军事AI",
+          "source": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+          "tags": [
+            "WindBorne",
+            "气象预测",
+            "军事AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "后台监听APP融资26亿",
+          "summary": "前Plaud高管操刀",
+          "detail": "一款号称‘全天候后台监听用户’的AI应用狂揽26亿融资，创始人是前Plaud高管。官方说辞是‘更懂你的个人AI’，网友吐槽：‘建议改名叫FBI快乐助手’。",
+          "usage": "💡 聊隐私与AI时\n💬 全天候监听用户的APP融了26亿，FBI看了都点赞\n🔥 监听APP 隐私 AI",
+          "source": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+          "tags": [
+            "隐私",
+            "监听",
+            "AI应用"
+          ]
+        },
+        {
+          "title": "AI设计蓝图过审",
+          "summary": "分钟生成合规图纸",
+          "detail": "初创公司Blueprints AI做到直接用AI生成符合建筑规范的施工图，过去要花2周过审的图纸现在5分钟搞定。建筑事务所集体哀嚎：‘我们学那么多规范就为这个？’",
+          "usage": "💡 聊AI替代职业时\n💬 AI五分钟生成合规施工图，建筑师苦学的规范知识贬值了\n🔥 BlueprintsAI 建筑设计 自动化",
+          "source": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+          "tags": [
+            "BlueprintsAI",
+            "建筑设计",
+            "自动化"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-12T19:39:27.187Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3468,
+    "completion_tokens": 3103,
+    "total_tokens": 6571,
+    "cost_usd": 0.00387143,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}
