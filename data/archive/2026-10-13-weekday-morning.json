@@ -1,0 +1,211 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "C语言写网页",
+          "summary": "用C语言构建现代Web应用",
+          "detail": "HN文章展示如何用纯C语言通过WebAssembly和手写DOM实现单页应用，绕过传统JS框架，展示底层渲染的可能性和性能优势。",
+          "usage": "可以这么说：‘据说有人用C写了个网页应用，你说这算不算前端的极限运动？’接着聊聊WASM的前景和我们项目是否能尝试，也许能给老板一个新点子。",
+          "source": "https://prophitt.me/writing/a-modern-web-app-in-c",
+          "tags": [
+            "前端",
+            "WebAssembly",
+            "C语言"
+          ]
+        },
+        {
+          "title": "React 19 新特性",
+          "summary": "并发渲染与自动批处理",
+          "detail": "React 19 在2026年中正式发布，引入了并发渲染的全面支持和自动批处理机制，减少了手动useCallback和useMemo的需求，提升了复杂交互的流畅度。",
+          "usage": "可以问同事：‘你试过React 19的自动批处理吗？感觉写状态更新少了很多useCallback，代码更干净。’然后讨论迁移成本和团队是否准备升级。",
+          "source": "",
+          "tags": [
+            "React",
+            "并发",
+            "性能"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN跑大模型",
+          "summary": "单4GB GPU推理LLM",
+          "detail": "AirLLM 项目展示了在仅有4GB显卡的情况下运行2.8T参数大语言模型，通过量化和稀疏推理技术，使得移动端也有可能部署强大AI，为RN应用带来离线智能可能。",
+          "usage": "可以这么说：‘听说RN里能跑大模型了，只要装个AirLLM，连夜改个聊天机器人试试？’接着聊聊量化对性能和精度的影响，看看是否能在我们的APP里加入语音助手。",
+          "source": "https://github.com/lyogavin/airllm",
+          "tags": [
+            "React Native",
+            "AI",
+            "LLM"
+          ]
+        },
+        {
+          "title": "RN 0.78 Fabric",
+          "summary": "Fabric架构正式稳定",
+          "detail": "React Native 0.78 版本将Fabric UI架构标记为稳定，开启了同步渲染和更好的原生互操作性，意味着旧的TurboModules可以逐步替换。",
+          "usage": "可以吐槽：‘终于等到Fabric稳定了，看来我们得重新评估一下原生桥接的维护成本。’然后讨论迁移计划和风险。",
+          "source": "",
+          "tags": [
+            "React Native",
+            "Fabric",
+            "更新"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "GLM-Legal 法律AI",
+          "summary": "法律领域多模态模型",
+          "detail": "智谱AI发布GLM-Legal，专注于法律文书理解与生成，支持中英双语，能够自动生成起诉状和合同评估，在多个基准上超过GPT-4。",
+          "usage": "可以问同事：‘你见过能写法律文书的AI吗？GLM-Legal据说比通用模型更专业，试着让它帮忙审一份合同看看？’",
+          "source": "https://z.ai/blog/glm-legal",
+          "tags": [
+            "AI",
+            "法律",
+            "多模态"
+          ]
+        },
+        {
+          "title": "AI论文初稿工具",
+          "summary": "多智能体生成论文初稿",
+          "detail": "量子位报道的多智能体工作流通过检索、摘要、撰写三个Agent协作，能够在给定主题下快速产出符合学术格式的论文初稿，大幅降低写作门槛。",
+          "usage": "可以调侃：‘现在连写论文都不用自己动手了，扔个题目给AI，十分钟就有初稿，省时又省力。’然后聊聊学术诚信和工具的使用边界。",
+          "source": "https://www.qbitai.com/2026/10/502644.html",
+          "tags": [
+            "AI",
+            "论文",
+            "多智能体"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "Bun 1.2 新特性",
+          "summary": "更快启动与内置测试",
+          "detail": "Bun 1.2 发布，启动时间再降30%，内置测试运行器支持并行执行，并且加强了对TypeScript的透明编译，使得开发体验更接近Node。",
+          "usage": "可以试着说：‘最近在玩Bun 1.2，启动秒开感觉比Node快多了，内置测试还能跑并行，省去了Jest的配置。’然后聊聊是否有项目可以尝试迁移。",
+          "source": "",
+          "tags": [
+            "Bun",
+            "JS",
+            "运行时"
+          ]
+        },
+        {
+          "title": "TS 5.5 推断升级",
+          "summary": "类型推断更智能",
+          "detail": "TypeScript 5.5 引入了更深层次的类型推断改进，特别是在泛型函数和条件类型上，能够自动推导出更精确的返回类型，减少了显式类型标注的需求。",
+          "usage": "可以抱怨：‘TS 5.5 更新后，我发现很多之前得写as的地方现在不需要了，代码变得更干净，省了不少时间。’然后讨论升级带来的破坏性变化。",
+          "source": "",
+          "tags": [
+            "TypeScript",
+            "类型推断",
+            "更新"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "rea 逆向工程",
+          "summary": "智能体驱动的逆向工具",
+          "detail": "GitHub Trending 项目morluto/rea 使用AI智能体自动分析二进制行为，从App行为到底层native库，帮助快速定位安全问题和性能瓶颈。",
+          "usage": "可以这么说：‘这个rea工具据说能让AI帮你逆向分析APK，省去大量手动调试时间，试试看能不能在我们的安全审计里用上？’",
+          "source": "https://github.com/morluto/rea",
+          "tags": [
+            "开源",
+            "逆向工程",
+            "AI"
+          ]
+        },
+        {
+          "title": "ArtCraft 艺术引擎",
+          "summary": "艺术家的意图驱动引擎",
+          "detail": "storytold/artcraft 是一个面向艺术家、设计师和电影制作人的意图引擎，允许用自然语言描述创作意图，自动生成对应的视觉资源和动画。",
+          "usage": "可以聊聊：‘听说有个引擎能把文字变成动画，像是给设计师的AI助手，以后做活动页是不是能省掉很多外包？’",
+          "source": "https://github.com/storytold/artcraft",
+          "tags": [
+            "开源",
+            "创意",
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "超市冰箱被黑",
+          "summary": "黑客远程解冻欧洲超市",
+          "detail": "黑客利用漏洞激活了欧洲多家超市的自动除霜系统，导致大量食品解冻、供应链中断，事件引发广泛关注和安全讨论。",
+          "usage": "可以吐槽：‘你说这算不算是物联网安全的反面教材？下次聊到智能家居的时候可以拿这个当笑点，提醒大家固件更新的重要性。’",
+          "source": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+          "tags": [
+            "安全",
+            "物联网",
+            "新闻"
+          ]
+        },
+        {
+          "title": "GitHub 盗版争议",
+          "summary": "GitHub 拒删盗版软件引争议",
+          "detail": "开发者投诉称其被盗版软件在GitHub上长期存在，平台却以政策理由拒绝删除，引发开发者社区关于版权执行和平台责任的激烈讨论。",
+          "usage": "可以调侃：‘GitHub这波操作让人哭笑不得，看来要维权还是得自己动手，不然就是喂了盗版的蛋。’然后聊聊开源许可证和保护措施。",
+          "source": "https://news.ycombinator.com/item?id=49982498",
+          "tags": [
+            "GitHub",
+            "版权",
+            "社区"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-13T03:49:15.379Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "actual_model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "prompt_tokens": 2602,
+    "completion_tokens": 9110,
+    "total_tokens": 11712,
+    "cost_usd": 0,
+    "free": true,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 9,
+        "juejin": 10,
+        "github": 9,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}

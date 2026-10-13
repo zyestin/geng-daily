@@ -5,28 +5,28 @@
       "icon": "💥",
       "items": [
         {
-          "title": "华为AI通杀25款游戏",
-          "summary": "操作次数比人类少56%",
-          "detail": "华为AI靠RSI算法在25款游戏中打出21:0战绩，连《星际争霸》这种RTS游戏都不需要调用大模型就能碾压人类。最骚的是它操作次数比职业选手少56%——原来职业哥的无效操作这么多？建议下次电竞比赛直接让AI当裁判判‘无效微操’。",
-          "usage": "💡 电竞/游戏AI讨论时\n💬 华为AI打游戏比人类少56%操作，职业选手的无效微操被实锤了\n🔥 华为AI RSI 电竞",
-          "source": "https://www.qbitai.com/2026/10/502654.html",
+          "title": "华为AI游戏大师",
+          "summary": "华为AI通关25款游戏",
+          "detail": "华为AI在25款游戏中靠RSI技术通关，操作次数比人类少56%，甚至打出了21:0的惊人战绩。这意味着AI不仅能在操作上超越人类，还能在战略和反应速度上实现全面碾压。未来的电竞选手可能要跟AI一较高下了。",
+          "usage": "💡 提到AI游戏表现时\n💬 华为AI打游戏比人类还6，21:0的战绩你敢信？\n🔥 华为AI 游戏 RSI",
+          "src_id": 1,
           "tags": [
-            "游戏AI",
             "华为",
-            "RSI"
-          ]
+            "游戏AI"
+          ],
+          "source": "https://www.qbitai.com/2026/10/502654.html"
         },
         {
-          "title": "AI假新闻工厂被端",
-          "summary": "OpenAI封杀AI假记者账号",
-          "detail": "OpenAI披露封禁了两个AI生成的假新闻网络，这帮家伙用AI批量生成‘智库研究员’和‘记者’身份，日均生产180篇假报道。最绝的是他们还会用AI生成‘反对自己观点的评论’来制造争吵热度——建议各大社交平台直接抄OpenAI的识别算法。",
-          "usage": "💡 讨论假新闻/信息战话题时\n💬 AI假新闻都进化到会自己跟自己吵架了\n🔥 假新闻 AI生成 OpenAI",
-          "source": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "title": "OpenAI破获假新闻",
+          "summary": "OpenAI打击虚假新闻",
+          "detail": "OpenAI成功破获了两起利用AI进行虚假新闻传播的行动，这些假新闻通过虚假记者和智库发布。OpenAI的技术不仅能生成内容，还能识别和阻断恶意信息传播。未来，AI可能在新闻真实性审查上发挥更大作用。",
+          "usage": "💡 提到AI新闻真实性时\n💬 OpenAI已经能识别假新闻了，AI不仅是生成工具，还是打假工具！\n🔥 OpenAI 假新闻 打假",
+          "src_id": 17,
           "tags": [
-            "假新闻",
-            "信息战",
-            "OpenAI"
-          ]
+            "OpenAI",
+            "假新闻"
+          ],
+          "source": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "Meta首款前沿模型",
-          "summary": "Muse Wonder上线",
-          "detail": "Meta憋出首款‘前沿模型’Muse Wonder，和之前轻量级的Spark不同，这次直接对标GPT-6。官方说法是‘推理速度提升400%’，但网友实测发现生成一首诗要3秒——所以之前得等15秒？建议改名叫Muse Ponder(沉思)。",
-          "usage": "💡 讨论大模型竞争时\n💬 Meta的‘前沿模型’生成首诗要3秒，原来之前要等15秒？\n🔥 Meta Muse Wonder 大模型",
-          "source": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+          "title": "Meta发布Muse Wonder",
+          "summary": "Meta推出新模型Muse Wonder",
+          "detail": "Meta发布了其第一款前沿模型Muse Wonder，相较于轻量级的Muse Spark，Muse Wonder在低延迟下表现更出色。Meta表示，Muse Wonder将为未来更多的AI应用提供强大的支持。",
+          "usage": "💡 提到Meta新模型时\n💬 Meta的新模型Muse Wonder来了，低延迟高性能，未来AI应用有戏了！\n🔥 Meta Muse Wonder",
+          "src_id": 3,
           "tags": [
             "Meta",
-            "Muse Wonder",
-            "大模型"
-          ]
+            "Muse Wonder"
+          ],
+          "source": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
         },
         {
-          "title": "智谱新模型490t/s",
-          "summary": "速度堪比火箭",
-          "detail": "智谱发布新模型直接飙到490 tokens/s，什么概念？GPT-4o最快也就120t/s。网友实测用三体问题prompt测试，回答速度比刘慈欣写《三体》还快——建议改名叫‘智谱快跑’。",
-          "usage": "💡 聊模型推理速度时\n💬 智谱新模型490t/s，回答三体问题比大刘写得还快\n🔥 智谱 推理速度 大模型",
-          "source": "https://www.qbitai.com/2026/10/502649.html",
+          "title": "智谱新模型490tokens/s",
+          "summary": "智谱新模型速度惊人",
+          "detail": "智谱新模型达到了每秒490 tokens的处理速度，远超上一代的性能。这一速度的提升意味着AI在处理大规模文本时将更加高效，未来可能彻底改变文本处理的效率。",
+          "usage": "💡 提到模型处理速度时\n💬 智谱新模型每秒490 tokens，文本处理快得飞起！\n🔥 智谱 490tokens/s",
+          "src_id": 4,
           "tags": [
-            "智谱AI",
-            "推理速度",
-            "大模型"
-          ]
+            "智谱",
+            "处理速度"
+          ],
+          "source": "https://www.qbitai.com/2026/10/502649.html"
         }
       ]
     },
@@ -65,28 +65,28 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "陶哲轩官宣数学2.0",
-          "summary": "AI改变数学研究方式",
-          "detail": "菲尔兹奖得主陶哲轩在最新博客宣布‘数学2.0时代已至’：现在他每天用AI助手验证200+引理，连上厕所都在手机上审AI生成的证明。评论区数学家集体破防：‘我们当年手推Grothendieck拓扑的时候...’",
-          "usage": "💡 讨论AI对学术影响时\n💬 陶哲轩：我现在用AI每天验证200个引理，老派数学家已哭晕\n🔥 陶哲轩 数学2.0 AI证明",
-          "source": "https://www.qbitai.com/2026/10/502594.html",
-          "tags": [
-            "陶哲轩",
-            "数学",
-            "AI科研"
-          ]
-        },
-        {
-          "title": "微软总裁锐评AI监管",
-          "summary": "拿洗衣机和牛奶对比",
-          "detail": "微软总裁Brad Smith在伦敦演讲时说‘牛奶和洗衣机都有监管，AI凭什么没有’——然后被网友扒出微软Azure刚因绕过欧盟AI法案被罚4.7亿欧元。建议下次比喻改成‘就像微软交罚款一样自然’。",
-          "usage": "💡 聊AI监管话题时\n💬 微软说AI该像洗衣机一样被监管，然后他们刚被罚4.7亿\n🔥 微软 AI监管 罚款",
-          "source": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+          "title": "微软总裁谈AI监管",
+          "summary": "微软总裁呼吁AI监管",
+          "detail": "微软总裁Brad Smith近日表示，英国是最适合推动AI监管的国家，并表示AI监管刻不容缓。他指出，牛奶和洗衣机都有监管，AI这么重要的技术更应该有明确的规则。",
+          "usage": "💡 提到AI监管时\n💬 微软总裁说英国最适合推动AI监管，AI这么重要，确实该管管了！\n🔥 微软 Brad Smith AI监管",
+          "src_id": 12,
           "tags": [
             "微软",
-            "AI监管",
-            "Brad Smith"
-          ]
+            "AI监管"
+          ],
+          "source": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
+        },
+        {
+          "title": "陶哲轩：数学2.0时代",
+          "summary": "陶哲轩谈数学2.0时代",
+          "detail": "陶哲轩近日表示，数学2.0时代已经到来，AI将彻底改变数学研究的方式。他指出，AI不仅能辅助证明，还能发现新的数学规律，未来数学家的工作方式将发生巨大变化。",
+          "usage": "💡 提到AI与数学时\n💬 陶哲轩说数学2.0时代来了，AI将彻底改变数学研究！\n🔥 陶哲轩 数学2.0 AI",
+          "src_id": 13,
+          "tags": [
+            "陶哲轩",
+            "数学2.0"
+          ],
+          "source": "https://www.qbitai.com/2026/10/502594.html"
         }
       ]
     },
@@ -95,28 +95,28 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "硅谷算力大战升级",
-          "summary": "马斯克联手Anthropic抢GPU",
-          "detail": "硅谷VC开始囤GPU当硬通货，马斯克被曝用SpaceX名义订了5000块H100给xAI，转头又和Anthropic搞‘算力共享’。网友辣评：‘以前是囤黄金，现在囤H100，建议英伟达直接发显卡币。’",
-          "usage": "💡 聊算力竞争时\n💬 马斯克用SpaceX名义囤5000块H100，算力才是新时代黄金\n🔥 马斯克 GPU 算力竞争",
-          "source": "https://www.qbitai.com/2026/10/502585.html",
-          "tags": [
-            "马斯克",
-            "GPU",
-            "算力"
-          ]
-        },
-        {
-          "title": "OpenAI杀入酒店业",
-          "summary": "与丽笙集团合作插件",
-          "detail": "OpenAI和丽笙酒店搞出ChatGPT订房插件，能根据‘要能看到埃菲尔铁塔的浴缸’这种模糊需求推荐房间。测试发现它甚至会提醒‘该房型本周被投诉隔音差’——建议改名YelpGPT。",
-          "usage": "💡 讨论AI落地场景时\n💬 现在用ChatGPT订酒店，它连‘隔音差’的差评都会告诉你\n🔥 OpenAI 丽笙酒店 ChatGPT插件",
-          "source": "https://openai.com/index/radisson",
+          "title": "OpenAI与Radisson合作",
+          "summary": "OpenAI助力Radisson酒店",
+          "detail": "Radisson酒店集团与Accenture合作，利用OpenAI技术开发了ChatGPT插件，帮助旅客发现酒店。未来，AI可能彻底改变酒店预订和旅行的方式，让用户获得更个性化的体验。",
+          "usage": "💡 提到AI与酒店业时\n💬 OpenAI和Radisson合作，酒店预订也要AI化了！\n🔥 OpenAI Radisson 酒店",
+          "src_id": 23,
           "tags": [
             "OpenAI",
-            "酒店业",
-            "ChatGPT插件"
-          ]
+            "Radisson"
+          ],
+          "source": "https://openai.com/index/radisson"
+        },
+        {
+          "title": "微软AI助力Asana",
+          "summary": "Asana用GPT-6降本增效",
+          "detail": "Asana使用GPT-6 Astra模型，使其浏览器代理成本降低了76倍，速度提升了5倍。这不仅大幅降低了开发成本，还提升了用户体验，未来AI在软件开发中的应用将更加广泛。",
+          "usage": "💡 提到AI降本增效时\n💬 Asana用GPT-6降了76倍成本，AI开发真省钱！\n🔥 Asana GPT-6 成本",
+          "src_id": 5,
+          "tags": [
+            "Asana",
+            "GPT-6"
+          ],
+          "source": "https://openai.com/index/asana-browser-agent"
         }
       ]
     },
@@ -125,28 +125,28 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "Asana成本暴降76倍",
-          "summary": "GPT-6.1浏览器测试",
-          "detail": "Asana用GPT-6.1做浏览器自动化测试，直接把成本砍到原来的1/76。原先跑一次测试的钱够买76杯咖啡，现在只值一颗咖啡豆——建议SaaS公司都去薅OpenAI羊毛。",
-          "usage": "💡 聊AI降本增效时\n💬 用GPT-6.1做测试，成本从76杯咖啡降到1颗咖啡豆\n🔥 Asana GPT-6.1 成本",
-          "source": "https://openai.com/index/asana-browser-agent",
+          "title": "Oracle用ChatGPT提速",
+          "summary": "Oracle用ChatGPT提升效率",
+          "detail": "Oracle在招聘、工程和运营中使用了ChatGPT和Codex，将原本需要几天的工作缩短到几分钟。这意味着AI不仅能加速流程，还能提升专业知识的复用效率，未来企业的工作方式将更加高效。",
+          "usage": "💡 提到AI提升效率时\n💬 Oracle用ChatGPT把几天的工作缩短到几分钟，AI真香！\n🔥 Oracle ChatGPT 效率",
+          "src_id": 8,
           "tags": [
-            "Asana",
-            "GPT-6.1",
-            "自动化测试"
-          ]
+            "Oracle",
+            "ChatGPT"
+          ],
+          "source": "https://openai.com/index/oracle"
         },
         {
-          "title": "AI论文神器来了",
-          "summary": "告别Ctrl+F大海捞针",
-          "detail": "新出的AI论文工具能直接在1000+页文献里精准定位‘那个在右上角图表里提到的小字结论’，科研狗再也不用担心导师说‘这个观点1992年有人提过’了。建议命名为‘导师克星’。",
-          "usage": "💡 学术党吐槽时\n💬 终于有AI能找‘1992年某论文图表小字结论’了\n🔥 论文工具 文献检索 AI科研",
-          "source": "https://www.qbitai.com/2026/10/502644.html",
+          "title": "AI生成论文新工具",
+          "summary": "AI生成论文初稿工具",
+          "detail": "一套基于多智能体的工作流工具，能够帮助用户在海量文献中快速找到所需信息，并生成论文初稿。未来，AI可能彻底改变学术研究的方式，让论文写作变得更高效。",
+          "usage": "💡 提到AI与论文写作时\n💬 新AI工具能帮你捞文献、写论文，科研狗的福音！\n🔥 AI 论文写作 工具",
+          "src_id": 7,
           "tags": [
-            "科研工具",
-            "文献检索",
-            "AI学术"
-          ]
+            "AI",
+            "论文写作"
+          ],
+          "source": "https://www.qbitai.com/2026/10/502644.html"
         }
       ]
     },
@@ -155,28 +155,28 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "GPT-4o临终关怀",
-          "summary": "初代API进入倒计时",
-          "detail": "下架8个月的GPT-4o居然还有团队在维护API快照，OpenAI官方宣布最终关停日期。网友发现最后一批用户是考古学家——他们在用4o分析自己2013年发的推特。建议改名叫‘AI博物馆’。",
-          "usage": "💡 聊模型迭代时\n💬 GPT-4o都要进博物馆了，还有人在用它分析2013年的推特\n🔥 GPT-4o API关停 考古",
-          "source": "https://www.qbitai.com/2026/10/502550.html",
+          "title": "DeepSeek开源协议",
+          "summary": "DeepSeek开源协议争议",
+          "detail": "DeepSeek最近发布了新的开源协议，引发了社区内的广泛讨论。开源商用协议的争议不断，未来开源社区可能会更加注重协议的透明度和公平性。",
+          "usage": "💡 提到开源协议时\n💬 DeepSeek的开源协议又引发了争议，开源商用真不容易！\n🔥 DeepSeek 开源协议",
+          "src_id": "",
           "tags": [
-            "GPT-4o",
-            "API",
-            "OpenAI"
-          ]
+            "DeepSeek",
+            "开源协议"
+          ],
+          "source": ""
         },
         {
-          "title": "何恺明团队新框架",
-          "summary": "视觉原生Harness发布",
-          "detail": "何恺明团队放出多模态Harness框架，用视觉信号直接驱动模型理解。测试发现它看《星际穿越》能准确识别‘这是五维空间表现’——建议诺兰下次拍戏先过审AI。",
-          "usage": "💡 讨论多模态进展时\n💬 何恺明团队AI看《星际穿越》能识别五维空间，诺兰慌了\n🔥 何恺明 多模态 计算机视觉",
-          "source": "https://www.qbitai.com/2026/10/502628.html",
+          "title": "Llama开源社区活跃",
+          "summary": "Llama开源社区动态",
+          "detail": "Llama开源社区近期发布了一系列新版本，社区的活跃度显著提升。开源模型的更新频率和社区参与度都在增加，未来开源AI模型的应用场景将更加广泛。",
+          "usage": "💡 提到开源社区时\n💬 Llama社区又出新版本了，开源AI越来越火！\n🔥 Llama 开源社区",
+          "src_id": "",
           "tags": [
-            "何恺明",
-            "多模态",
-            "计算机视觉"
-          ]
+            "Llama",
+            "开源社区"
+          ],
+          "source": ""
         }
       ]
     },
@@ -185,28 +185,28 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "王的猜想突破",
-          "summary": "扩展到四维空间",
-          "detail": "著名数学难题‘王的猜想’被扩展到四维，团队用AI生成了3000个反例才找到突破口。数学家吐槽：‘我们当年用手算三年，现在AI三天就暴力破解了。’建议菲尔兹奖新增‘最佳AI驯兽师’奖项。",
-          "usage": "💡 聊AI+数学时\n💬 AI生成3000个反例破解四维‘王的猜想’，数学家：不讲武德\n🔥 王的猜想 数学 AI证明",
-          "source": "https://www.qbitai.com/2026/10/502584.html",
+          "title": "何恺明团队多模态突破",
+          "summary": "何恺明团队发布Harness框架",
+          "detail": "何恺明团队发布了多模态Harness框架，该框架在多模态模型的视觉原生处理上取得了突破性进展。未来，这一技术可能在视觉识别和图像处理领域发挥重要作用。",
+          "usage": "💡 提到多模态AI时\n💬 何恺明团队的多模态Harness框架来了，视觉处理又有新突破！\n🔥 何恺明 多模态 Harness",
+          "src_id": 10,
           "tags": [
-            "王的猜想",
-            "数学",
-            "AI证明"
-          ]
+            "何恺明",
+            "多模态"
+          ],
+          "source": "https://www.qbitai.com/2026/10/502628.html"
         },
         {
-          "title": "AI预测天气获美军大单",
-          "summary": "气象气球+AI算法",
-          "detail": "硅谷初创公司WindBorne用气象气球+AI拿下美军大单，能在台风形成前72小时预测路径。要知道气象局现在最快也就48小时——所以美军这是要和老天爷打情报战？",
-          "usage": "💡 聊AI军事应用时\n💬 美军用AI气球预测台风，比气象局还快24小时\n🔥 WindBorne 气象预测 军事AI",
-          "source": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+          "title": "陶哲轩四维猜想",
+          "summary": "陶哲轩扩展四维猜想",
+          "detail": "陶哲轩近日将王的猜想扩展到四维空间，这一突破不仅在数学理论上有重要意义，还可能在未来AI算法的设计中发挥关键作用。",
+          "usage": "💡 提到数学与AI时\n💬 陶哲轩把王的猜想扩展到四维了，数学和AI的结合越来越深！\n🔥 陶哲轩 四维猜想 数学",
+          "src_id": 16,
           "tags": [
-            "WindBorne",
-            "气象预测",
-            "军事AI"
-          ]
+            "陶哲轩",
+            "四维猜想"
+          ],
+          "source": "https://www.qbitai.com/2026/10/502584.html"
         }
       ]
     },
@@ -215,42 +215,42 @@
       "icon": "📈",
       "items": [
         {
-          "title": "后台监听APP融资26亿",
-          "summary": "前Plaud高管操刀",
-          "detail": "一款号称‘全天候后台监听用户’的AI应用狂揽26亿融资，创始人是前Plaud高管。官方说辞是‘更懂你的个人AI’，网友吐槽：‘建议改名叫FBI快乐助手’。",
-          "usage": "💡 聊隐私与AI时\n💬 全天候监听用户的APP融了26亿，FBI看了都点赞\n🔥 监听APP 隐私 AI",
-          "source": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+          "title": "硅谷算力争夺战",
+          "summary": "硅谷VC囤积GPU",
+          "detail": "硅谷VC们开始大规模囤积GPU，马斯克也与A社合作争夺算力资源。算力已经成为AI竞争的硬通货，未来谁拥有更多算力，谁就能在AI领域占据主导地位。",
+          "usage": "💡 提到AI算力时\n💬 硅谷VC都在囤GPU，算力就是AI的硬通货！\n🔥 硅谷 GPU 算力",
+          "src_id": 19,
           "tags": [
-            "隐私",
-            "监听",
-            "AI应用"
-          ]
+            "硅谷",
+            "GPU"
+          ],
+          "source": "https://www.qbitai.com/2026/10/502585.html"
         },
         {
-          "title": "AI设计蓝图过审",
-          "summary": "分钟生成合规图纸",
-          "detail": "初创公司Blueprints AI做到直接用AI生成符合建筑规范的施工图，过去要花2周过审的图纸现在5分钟搞定。建筑事务所集体哀嚎：‘我们学那么多规范就为这个？’",
-          "usage": "💡 聊AI替代职业时\n💬 AI五分钟生成合规施工图，建筑师苦学的规范知识贬值了\n🔥 BlueprintsAI 建筑设计 自动化",
-          "source": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+          "title": "AI初创获美空军合同",
+          "summary": "WindBorne获美空军合同",
+          "detail": "AI初创公司WindBorne获得了美国空军的一份大合同，该公司利用气象气球和AI预测天气。这意味着AI不仅在民用领域有广泛应用，还在军事领域获得了认可。",
+          "usage": "💡 提到AI军事应用时\n💬 WindBorne拿了美国空军的大合同，AI在军事领域也火起来了！\n🔥 WindBorne 美国空军 AI",
+          "src_id": 6,
           "tags": [
-            "BlueprintsAI",
-            "建筑设计",
-            "自动化"
-          ]
+            "WindBorne",
+            "美国空军"
+          ],
+          "source": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/"
         }
       ]
     }
   ],
-  "generated_at": "2026-10-12T19:39:27.187Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-10-13T03:53:51.241Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3468,
-    "completion_tokens": 3103,
-    "total_tokens": 6571,
-    "cost_usd": 0.00387143,
+    "prompt_tokens": 3467,
+    "completion_tokens": 2490,
+    "total_tokens": 5957,
+    "cost_usd": 0.00332554,
     "free": false,
     "sources": {
       "per_source": {
