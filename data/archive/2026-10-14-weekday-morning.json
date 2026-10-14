@@ -1,0 +1,210 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "React 新架构",
+          "summary": "React 新架构 Fuse 引发热议",
+          "detail": "React 团队正在开发代号为 Fuse 的新架构，目标是进一步提升渲染性能和跨平台能力。开发者社区对该架构是否能解决现有痛点展开了激烈讨论。",
+          "usage": "听说了吗？React 团队那个代号 Fuse 的新架构，据说渲染性能能提升 40%！上次升级 Fiber 架构还是 2017 年，这次不知道会带来什么惊喜。",
+          "source": "",
+          "tags": [
+            "React",
+            "性能优化"
+          ]
+        },
+        {
+          "title": "Svelte 5 预览",
+          "summary": "Svelte 5 预览版发布",
+          "detail": "Svelte 5 发布了首个预览版，引入了全新编译器优化和运行时改进。社区对'零虚拟 DOM'理念是否真的能带来质的飞跃存在分歧。",
+          "usage": "Svelte 5 预览版出来了，号称编译速度提升 2 倍。不过我觉得它那个'零虚拟 DOM'的卖点其实也就那么回事，你看过 demo 了吗？",
+          "source": "",
+          "tags": [
+            "Svelte",
+            "编译优化"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN 新架构",
+          "summary": "RN 新架构性能翻倍",
+          "detail": "React Native 新架构 Fabric 全面铺开，官方宣称首屏渲染速度提升 1.8 倍。大量开发者正在评估是否需要迁移现有项目。",
+          "usage": "你们项目升级 Fabric 了吗？我们测试了下，首屏确实快了不少，但发现几个第三方库适配有问题。",
+          "source": "",
+          "tags": [
+            "RN",
+            "性能优化"
+          ]
+        },
+        {
+          "title": "跨端新方案",
+          "summary": "xtool 挑战 Xcode",
+          "detail": "xtool 项目提供跨平台 Xcode 替代方案，支持在 Linux/Windows 上编译 iOS 应用，引发开发者对苹果生态封闭性的讨论。",
+          "usage": "看到那个 xtool 没？说是能在 Linux 上编译 iOS 应用，真有这么神？我怀疑调试的时候还是会出各种幺蛾子。",
+          "source": "https://github.com/xtool-org/xtool",
+          "tags": [
+            "跨端",
+            "iOS开发"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "4GB跑LLM",
+          "summary": "4GB显卡跑2.8T大模型",
+          "detail": "AirLLM 项目实现了在单张 4GB GPU 上运行 2.8T 参数大模型，采用创新的内存优化技术，引发模型轻量化讨论。",
+          "usage": "AirLLM 那个骚操作你看了吗？4GB 显卡跑 2.8T 的大模型，这内存优化简直了！不知道推理速度怎么样。",
+          "source": "https://github.com/lyogavin/airllm",
+          "tags": [
+            "AI",
+            "性能优化"
+          ]
+        },
+        {
+          "title": "AI辅助测试",
+          "summary": "AI生成测试用例引争议",
+          "detail": "最新研究表明，AI生成的测试用例覆盖率可达人工的80%，但可能遗漏业务关键场景，测试工程师该何去何从？",
+          "usage": "现在AI生成的测试用例覆盖率都能到80%了，你说我们这些测试工程师是不是该转行写prompt了？",
+          "source": "",
+          "tags": [
+            "测试",
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "TS 5.5来了",
+          "summary": "TypeScript 5.5 Beta发布",
+          "detail": "TypeScript 5.5 Beta 引入新的类型推导模式，特别是对泛型约束的改进，有望减少30%的类型断言代码。",
+          "usage": "TS5.5那个新泛型推导模式你试了吗？说能省30%类型断言，我感觉实际能省15%就不错了。",
+          "source": "",
+          "tags": [
+            "TypeScript",
+            "类型系统"
+          ]
+        },
+        {
+          "title": "Rust爆漏洞",
+          "summary": "Rust借用检查现11年漏洞",
+          "detail": "Rust 语言 borrow checker 被曝存在11年未发现的逻辑漏洞，引发对类型安全系统可靠性的重新评估。",
+          "usage": "Rust那个借用检查器的11年老bug可太打脸了，号称最安全的语言也有这种漏洞。",
+          "source": "https://github.com/rust-lang/rust/issues/164250",
+          "tags": [
+            "Rust",
+            "安全"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "万能逆向工具",
+          "summary": "REA逆向任何东西",
+          "detail": "REA项目提供了从应用行为到二进制文件的通用逆向工程框架，支持AI辅助分析，star数暴涨。",
+          "usage": "REA那个项目太强了，连native二进制都能逆向，有了它感觉软件加密都白做了。",
+          "source": "https://github.com/morluto/rea",
+          "tags": [
+            "逆向工程",
+            "AI"
+          ]
+        },
+        {
+          "title": "数字艺术工具",
+          "summary": "ArtCraft创意引擎",
+          "detail": "ArtCraft为艺术家提供完整的数字创作工作流，内置AI辅助功能，迅速成为设计师社区新宠。",
+          "usage": "ArtCraft看着像数字艺术版的Figma，据说能一键生成材质贴图，设计师怕是要失业。",
+          "source": "https://github.com/storytold/artcraft",
+          "tags": [
+            "设计工具",
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "GitHub维权难",
+          "summary": "开发者控诉GitHub不作为",
+          "detail": "开发者投诉GitHub一个月未删除其软件的盗版副本，引发对开源平台版权保护机制的讨论。",
+          "usage": "看到那个吐槽GitHub不作为的帖没？自己的软件被破解上传一个月都不处理，开源=免费？",
+          "source": "https://news.ycombinator.com/item?id=49982498",
+          "tags": [
+            "开源",
+            "版权"
+          ]
+        },
+        {
+          "title": "程序员键盘吉它",
+          "summary": "键盘吉他引爆技术圈",
+          "detail": "Guitoro项目让开发者能用键盘弹吉它，技术社区纷纷尝试，衍生出各种离谱弹奏视频。",
+          "usage": "试过用键盘弹吉它吗？Guitoro那个项目可太魔性了，我们组前端小哥用它弹了首'小星星'哈哈。",
+          "source": "https://guitoro.com/",
+          "tags": [
+            "开发者文化",
+            "趣味"
+          ]
+        },
+        {
+          "title": "丈母娘学编程",
+          "summary": "长辈学编程引热议",
+          "detail": "技术社区热议如何教会长辈编程，从Scratch到Python的各种教学方案层出不穷。",
+          "usage": "我丈母娘最近想学编程打乒乓球游戏，你说该教她Scratch还是Python？老年人的学习曲线完全不一样。",
+          "source": "",
+          "tags": [
+            "亲子",
+            "教育"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-14T02:09:28.161Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 1965,
+    "completion_tokens": 1742,
+    "total_tokens": 3707,
+    "cost_usd": 0.0021791799999999997,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 8,
+        "juejin": 10,
+        "github": 9,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}

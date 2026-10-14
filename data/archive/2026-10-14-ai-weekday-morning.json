@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "Higgsfield 视频革命",
+          "summary": "GPT-6 Astra 让视频创作突破分钟限制",
+          "detail": "Higgsfield 使用 GPT-6 Astra 和 GPT-Image-2.5，将 AI 视频创作从 1 分钟延长到超过 10 分钟。这意味着创作者现在可以制作更复杂、更具视觉吸引力的内容，而不必担心时间限制。以前 AI 视频只能用于短片段，现在可以直接用于长视频创作，颠覆了整个视频制作流程。",
+          "usage": "💡 聊到 AI 视频创作时\n💬 Higgsfield 让 AI 视频突破 1 分钟限制，直接干到 10 分钟以上，视频创作者要起飞了！\n🔥 Higgsfield GPT-6 Astra 视频创作",
+          "source": "https://openai.com/index/higgsfield-longer-videos-voice",
+          "tags": [
+            "Higgsfield",
+            "GPT-6 Astra",
+            "视频创作"
+          ]
+        },
+        {
+          "title": "OpenAI 打击假新闻",
+          "summary": "OpenAI 揭露 AI 伪造新闻操作",
+          "detail": "OpenAI 成功揭露了两起利用 AI 伪造新闻的操作，这些操作使用虚假记者和智库进行误导性宣传。AI 伪造新闻的能力越来越强，OpenAI 的这次行动表明他们正在积极应对这一挑战。未来，AI 伪造和反伪造的斗争将更加激烈。",
+          "usage": "💡 聊到 AI 伦理时\n💬 OpenAI 刚揭露了两起 AI 伪造新闻的操作，虚假记者和智库都被 AI 玩坏了！\n🔥 OpenAI 伪造新闻 伦理",
+          "source": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "tags": [
+            "OpenAI",
+            "伪造新闻",
+            "伦理"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "GPT-6.1 Sol",
+          "summary": "Asana 浏览器代理效率提升 76 倍",
+          "detail": "Asana 使用 GPT-6.1 Sol 在浏览器测试中，将模型成本降低了 76 倍，速度提升了 5 倍。这意味着浏览器代理的效率大幅提升，用户可以在更短的时间内完成更多任务。以前需要数小时的工作，现在只需几分钟。",
+          "usage": "💡 聊到 AI 效率提升时\n💬 GPT-6.1 Sol 让浏览器代理效率提升 76 倍，速度提升 5 倍，以前的慢动作现在直接起飞！\n🔥 GPT-6.1 Sol Asana 浏览器代理",
+          "source": "https://openai.com/index/asana-browser-agent",
+          "tags": [
+            "GPT-6.1 Sol",
+            "Asana",
+            "浏览器代理"
+          ]
+        },
+        {
+          "title": "GPT-Image-2.5",
+          "summary": "Higgsfield 视觉精准度提升",
+          "detail": "Higgsfield 结合 GPT-Image-2.5，实现了更精确的视觉效果。AI 生成的图像和视频现在更加逼真，细节处理更加到位。以前 AI 生成的图像常常有明显的瑕疵，现在可以直接用于商业项目。",
+          "usage": "💡 聊到 AI 图像生成时\n💬 GPT-Image-2.5 让 Higgsfield 的视觉效果直接起飞，瑕疵少得离谱！\n🔥 GPT-Image-2.5 Higgsfield 图像生成",
+          "source": "https://openai.com/index/higgsfield-longer-videos-voice",
+          "tags": [
+            "GPT-Image-2.5",
+            "Higgsfield",
+            "图像生成"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "Cerebras CEO 预言",
+          "summary": "个人 AI 助理将进入每个家庭",
+          "detail": "Cerebras CEO Andrew Feldman 预测，未来每个家庭都会有一个个人 AI 助理，就像现在的智能手机一样普及。他认为 AI 助理将改变我们的生活方式，从日常家务到复杂决策，AI 助理都能提供帮助。",
+          "usage": "💡 聊到 AI 未来时\n💬 Cerebras CEO 说未来每个家庭都会有个 AI 助理，像智能手机一样普及！\n🔥 Cerebras Andrew Feldman AI 助理",
+          "source": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+          "tags": [
+            "Cerebras",
+            "Andrew Feldman",
+            "AI 助理"
+          ]
+        },
+        {
+          "title": "Cerebras CEO 反击",
+          "summary": "AI 末日预言不可取",
+          "detail": "Cerebras CEO Andrew Feldman 对 AI 末日预言表示不满，他认为这些预言只会引起不必要的恐慌。他呼吁 AI 领袖们停止散布末日言论，更多地关注 AI 带来的积极影响。",
+          "usage": "💡 聊到 AI 伦理时\n💬 Cerebras CEO 说 AI 末日预言只会引起恐慌，别再吓唬人了！\n🔥 Cerebras Andrew Feldman AI 伦理",
+          "source": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+          "tags": [
+            "Cerebras",
+            "Andrew Feldman",
+            "AI 伦理"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "DeepSeek 投资",
+          "summary": "梁文锋布局具身大脑",
+          "detail": "DeepSeek 创始人梁文锋投资了 Swin Transformer 作者，开始布局具身大脑领域。这意味着 DeepSeek 在 AI 具身智能领域迈出了重要一步，未来可能在机器人领域有更大突破。",
+          "usage": "💡 聊到 AI 投资时\n💬 梁文锋投了 Swin Transformer 作者，DeepSeek 要搞具身大脑了！\n🔥 DeepSeek 梁文锋 具身大脑",
+          "source": "https://www.qbitai.com/2026/10/503093.html",
+          "tags": [
+            "DeepSeek",
+            "梁文锋",
+            "具身大脑"
+          ]
+        },
+        {
+          "title": "Meta 算法控制",
+          "summary": "Facebook 用户可自定义算法",
+          "detail": "Meta 推出了新的 AI 功能“Your Algorithm”，允许用户自定义他们的算法。这意味着用户可以根据自己的喜好调整内容推荐，减少不相关内容的影响。以前算法是黑箱，现在用户有了更多的控制权。",
+          "usage": "💡 聊到社交媒体时\n💬 Meta 推出“Your Algorithm”，用户终于可以自定义算法了！\n🔥 Meta Facebook 算法控制",
+          "source": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+          "tags": [
+            "Meta",
+            "Facebook",
+            "算法控制"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "Sophos 威胁调查",
+          "summary": "OpenAI Daybreak 提升效率 96%",
+          "detail": "Sophos 使用 OpenAI Daybreak 进行网络威胁调查，将调查时间缩短了 96%。这意味着网络安全团队可以更快地识别和应对威胁，减少企业损失。以前需要数小时的调查，现在只需几分钟。",
+          "usage": "💡 聊到网络安全时\n💬 Sophos 用 OpenAI Daybreak 把威胁调查时间缩短了 96%！\n🔥 Sophos OpenAI Daybreak 网络安全",
+          "source": "https://openai.com/index/sophos",
+          "tags": [
+            "Sophos",
+            "OpenAI Daybreak",
+            "网络安全"
+          ]
+        },
+        {
+          "title": "Oracle 效率提升",
+          "summary": "ChatGPT 和 Codex 大幅提速",
+          "detail": "Oracle 在招聘、工程和运营中使用了 ChatGPT 和 Codex，将工作从几天缩短到几分钟。这意味着企业可以更快地完成任务，提高整体效率。以前需要数天的工作，现在只需几分钟。",
+          "usage": "💡 聊到企业效率时\n💬 Oracle 用 ChatGPT 和 Codex 把几天的工作缩短到几分钟，效率直接起飞！\n🔥 Oracle ChatGPT Codex",
+          "source": "https://openai.com/index/oracle",
+          "tags": [
+            "Oracle",
+            "ChatGPT",
+            "Codex"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "Industrial Next",
+          "summary": "机器人任务切换只需几分钟",
+          "detail": "Industrial Next 帮助制造商自动化复杂任务，使工厂机器人任务切换从几周缩短到几分钟。这意味着生产线的灵活性大幅提升，企业可以更快地响应市场需求。以前需要数周的任务切换，现在只需几分钟。",
+          "usage": "💡 聊到机器人时\n💬 Industrial Next 让机器人任务切换从几周缩短到几分钟，生产线灵活性直接起飞！\n🔥 Industrial Next 机器人",
+          "source": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+          "tags": [
+            "Industrial Next",
+            "机器人",
+            "任务切换"
+          ]
+        },
+        {
+          "title": "Flox 动物保护",
+          "summary": "AI 驱赶野生动物远离交通",
+          "detail": "Flox Intelligence 使用边缘设备识别动物，并通过物种特定的声音驱赶它们远离交通。这意味着 AI 可以帮助减少野生动物与人类的冲突，保护动物和人类的安全。以前需要人工干预的任务，现在 AI 可以自动完成。",
+          "usage": "💡 聊到 AI 应用时\n💬 Flox 用 AI 驱赶野生动物远离交通，动物保护直接起飞！\n🔥 Flox Intelligence AI 动物保护",
+          "source": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+          "tags": [
+            "Flox Intelligence",
+            "AI",
+            "动物保护"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "魔法原子 Agent",
+          "summary": "VLA 从“演示可用”到“产线可用”",
+          "detail": "魔法原子具身 Agent 框架在 MolmoSpaces 评测中拿下全球第一，将 VLA 从“演示可用”推到了“产线可用”。这意味着 AI 在生产线上的应用将更加广泛，企业可以更高效地利用 AI 技术。",
+          "usage": "💡 聊到 AI 应用时\n💬 魔法原子 Agent 让 VLA 从“演示可用”变成“产线可用”，生产线效率直接起飞！\n🔥 魔法原子 Agent VLA",
+          "source": "https://www.qbitai.com/2026/10/503107.html",
+          "tags": [
+            "魔法原子 Agent",
+            "VLA",
+            "生产线"
+          ]
+        },
+        {
+          "title": "Laplace 测试",
+          "summary": "AI 模拟机器人上路前测试",
+          "detail": "Laplace Intelligence 使用 AI 代理和交互式模拟，在机器人上路前进行全面的压力测试。这意味着机器人可以在实际应用中更安全、更可靠。以前需要实际测试的任务，现在 AI 可以提前模拟完成。",
+          "usage": "💡 聊到机器人测试时\n💬 Laplace 用 AI 模拟机器人上路前的测试，安全性和可靠性直接起飞！\n🔥 Laplace Intelligence 机器人测试",
+          "source": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+          "tags": [
+            "Laplace Intelligence",
+            "机器人",
+            "测试"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "华为哈勃投资",
+          "summary": "98 年博士团队研发电子皮肤",
+          "detail": "华为哈勃投资了一个由 98 年博士领导的团队，研发超薄高密度电子皮肤。这意味着电子皮肤技术将有突破性进展，未来在医疗和机器人领域有广泛应用。以前电子皮肤技术还不够成熟，现在直接起飞。",
+          "usage": "💡 聊到科技创新时\n💬 华为哈勃投了个 98 年博士团队，研发电子皮肤技术直接起飞！\n🔥 华为哈勃 电子皮肤",
+          "source": "https://www.qbitai.com/2026/10/502954.html",
+          "tags": [
+            "华为哈勃",
+            "电子皮肤",
+            "科技创新"
+          ]
+        },
+        {
+          "title": "产业互联网年会",
+          "summary": "首届产业智能体大会定档",
+          "detail": "由亿邦动力主办的“2026 第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档。这意味着产业互联网和智能体技术将受到更多关注，未来在产业升级中有重要应用。",
+          "usage": "💡 聊到产业互联网时\n💬 2026 产业互联网年会和智能体大会定档，产业升级要起飞了！\n🔥 亿邦动力 产业互联网 智能体",
+          "source": "https://www.qbitai.com/2026/10/502907.html",
+          "tags": [
+            "亿邦动力",
+            "产业互联网",
+            "智能体"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-14T02:21:45.387Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3528,
+    "completion_tokens": 3139,
+    "total_tokens": 6667,
+    "cost_usd": 0.00392267,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}
