@@ -23,8 +23,8 @@
       "date": "2026-10-14",
       "slot": "weekday-evening",
       "slot_label": "工作日傍晚 · 生活时光",
-      "generated_at": "2026-10-13T17:05:04.410Z",
-      "weekday": "星期二",
+      "generated_at": "2026-10-14T14:36:56.631Z",
+      "weekday": "星期三",
       "file": "archive/2026-10-14-weekday-evening.json",
       "topic_count": 12,
       "category_names": [
@@ -1801,5 +1801,5 @@
       ]
     }
   ],
-  "updated_at": "2026-10-14T02:09:28.173Z"
+  "updated_at": "2026-10-14T14:36:56.643Z"
 }

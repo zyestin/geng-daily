@@ -25,8 +25,8 @@
       "date": "2026-10-14",
       "slot": "ai-weekday-evening",
       "slot_label": "工作日傍晚 · 生活时光",
-      "generated_at": "2026-10-13T17:24:08.873Z",
-      "weekday": "星期二",
+      "generated_at": "2026-10-14T15:20:11.535Z",
+      "weekday": "星期三",
       "file": "archive/2026-10-14-ai-weekday-evening.json",
       "topic_count": 16,
       "category_names": [
@@ -1473,5 +1473,5 @@
       ]
     }
   ],
-  "updated_at": "2026-10-14T02:21:45.397Z"
+  "updated_at": "2026-10-14T15:20:11.544Z"
 }

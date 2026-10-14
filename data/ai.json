@@ -5,27 +5,27 @@
       "icon": "💥",
       "items": [
         {
-          "title": "Higgsfield 视频革命",
-          "summary": "GPT-6 Astra 让视频创作突破分钟限制",
-          "detail": "Higgsfield 使用 GPT-6 Astra 和 GPT-Image-2.5，将 AI 视频创作从 1 分钟延长到超过 10 分钟。这意味着创作者现在可以制作更复杂、更具视觉吸引力的内容，而不必担心时间限制。以前 AI 视频只能用于短片段，现在可以直接用于长视频创作，颠覆了整个视频制作流程。",
-          "usage": "💡 聊到 AI 视频创作时\n💬 Higgsfield 让 AI 视频突破 1 分钟限制，直接干到 10 分钟以上，视频创作者要起飞了！\n🔥 Higgsfield GPT-6 Astra 视频创作",
-          "source": "https://openai.com/index/higgsfield-longer-videos-voice",
+          "title": "Astra 操作电脑",
+          "summary": "Astra 操作电脑达到人类水平",
+          "detail": "OpenAI 的 Astra 模型在操作电脑任务上达到人类水平，这意味着 AI 可以像人类一样使用鼠标、键盘和应用程序。以前 AI 只能处理结构化数据，现在直接上手操作系统，未来 AI 助理可能真的能帮你完成所有电脑任务。黑客们的工具库要更新了，AI 助理的时代来了！",
+          "usage": "💡 聊 AI 助理的未来\n💬 Astra 操作电脑达到人类水平，未来 AI 助理可能真的能帮你完成所有电脑任务。\n🔥 Astra OpenAI 电脑操作",
+          "source": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
           "tags": [
-            "Higgsfield",
-            "GPT-6 Astra",
-            "视频创作"
+            "OpenAI",
+            "Astra",
+            "AI 助理"
           ]
         },
         {
-          "title": "OpenAI 打击假新闻",
-          "summary": "OpenAI 揭露 AI 伪造新闻操作",
-          "detail": "OpenAI 成功揭露了两起利用 AI 伪造新闻的操作，这些操作使用虚假记者和智库进行误导性宣传。AI 伪造新闻的能力越来越强，OpenAI 的这次行动表明他们正在积极应对这一挑战。未来，AI 伪造和反伪造的斗争将更加激烈。",
-          "usage": "💡 聊到 AI 伦理时\n💬 OpenAI 刚揭露了两起 AI 伪造新闻的操作，虚假记者和智库都被 AI 玩坏了！\n🔥 OpenAI 伪造新闻 伦理",
-          "source": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "title": "STEPX Neo 发布",
+          "summary": "首款 Agent 手机发布",
+          "detail": "STEPX Neo 是全球首款「Agent 手机」，内置大模型原生智能体，可以直接执行复杂任务。以前手机只能被动响应指令，现在 Neo 可以主动规划任务，比如帮你订票、推荐餐厅等。手机智能化进入新纪元，物理版 Agent 时代来了！",
+          "usage": "💡 聊智能设备的未来\n💬 STEPX Neo 发布，全球首款「Agent 手机」直接执行复杂任务。\n🔥 STEPX Neo Agent 手机",
+          "source": "https://www.qbitai.com/2026/10/503244.html",
           "tags": [
-            "OpenAI",
-            "伪造新闻",
-            "伦理"
+            "STEPX",
+            "Agent 手机",
+            "智能设备"
           ]
         }
       ]
@@ -36,26 +36,26 @@
       "items": [
         {
           "title": "GPT-6.1 Sol",
-          "summary": "Asana 浏览器代理效率提升 76 倍",
-          "detail": "Asana 使用 GPT-6.1 Sol 在浏览器测试中，将模型成本降低了 76 倍，速度提升了 5 倍。这意味着浏览器代理的效率大幅提升，用户可以在更短的时间内完成更多任务。以前需要数小时的工作，现在只需几分钟。",
-          "usage": "💡 聊到 AI 效率提升时\n💬 GPT-6.1 Sol 让浏览器代理效率提升 76 倍，速度提升 5 倍，以前的慢动作现在直接起飞！\n🔥 GPT-6.1 Sol Asana 浏览器代理",
+          "summary": "GPT-6.1 Sol 发布",
+          "detail": "OpenAI 发布 GPT-6.1 Sol，相比上一代 GPT-6 Astra，成本降低 76 倍，速度提升 5 倍。这意味着企业可以更低成本、更高效率地部署 AI 应用。以前 AI 应用成本高，现在直接白菜价，AI 普及加速！",
+          "usage": "💡 聊 AI 成本下降\n💬 GPT-6.1 Sol 发布，成本降低 76 倍，AI 应用白菜价！\n🔥 GPT-6.1 Sol OpenAI 成本",
           "source": "https://openai.com/index/asana-browser-agent",
           "tags": [
+            "OpenAI",
             "GPT-6.1 Sol",
-            "Asana",
-            "浏览器代理"
+            "成本"
           ]
         },
         {
-          "title": "GPT-Image-2.5",
-          "summary": "Higgsfield 视觉精准度提升",
-          "detail": "Higgsfield 结合 GPT-Image-2.5，实现了更精确的视觉效果。AI 生成的图像和视频现在更加逼真，细节处理更加到位。以前 AI 生成的图像常常有明显的瑕疵，现在可以直接用于商业项目。",
-          "usage": "💡 聊到 AI 图像生成时\n💬 GPT-Image-2.5 让 Higgsfield 的视觉效果直接起飞，瑕疵少得离谱！\n🔥 GPT-Image-2.5 Higgsfield 图像生成",
+          "title": "Higgsfield AI 视频",
+          "summary": "Higgsfield AI 视频突破",
+          "detail": "Higgsfield 发布基于 GPT-6 Astra 和 GPT-Image-2.5 的 AI 视频生成技术，视频长度从 1 分钟突破到 10 分钟以上。以前 AI 视频只能做短视频，现在直接生成长视频，创作者的工具库又扩容了！",
+          "usage": "💡 聊 AI 视频生成\n💬 Higgsfield AI 视频生成技术突破，视频长度从 1 分钟到 10 分钟以上！\n🔥 Higgsfield AI 视频 GPT-6",
           "source": "https://openai.com/index/higgsfield-longer-videos-voice",
           "tags": [
-            "GPT-Image-2.5",
             "Higgsfield",
-            "图像生成"
+            "AI 视频",
+            "GPT-6"
           ]
         }
       ]
@@ -65,27 +65,27 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "Cerebras CEO 预言",
-          "summary": "个人 AI 助理将进入每个家庭",
-          "detail": "Cerebras CEO Andrew Feldman 预测，未来每个家庭都会有一个个人 AI 助理，就像现在的智能手机一样普及。他认为 AI 助理将改变我们的生活方式，从日常家务到复杂决策，AI 助理都能提供帮助。",
-          "usage": "💡 聊到 AI 未来时\n💬 Cerebras CEO 说未来每个家庭都会有个 AI 助理，像智能手机一样普及！\n🔥 Cerebras Andrew Feldman AI 助理",
+          "title": "Cerebras CEO",
+          "summary": "Cerebras CEO 预测 AI 未来",
+          "detail": "Cerebras CEO Andrew Feldman 在 TechCrunch Disrupt 2026 上预测，未来每个人家里都会有一个 AI 助理。AI 助理将像冰箱、洗衣机一样普及，成为家庭标配。AI 助理时代，你家准备好了吗？",
+          "usage": "💡 聊 AI 助理的未来\n💬 Cerebras CEO 预测，未来每个人家里都会有一个 AI 助理！\n🔥 Cerebras AI 助理 未来",
           "source": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
           "tags": [
             "Cerebras",
-            "Andrew Feldman",
-            "AI 助理"
+            "AI 助理",
+            "未来"
           ]
         },
         {
-          "title": "Cerebras CEO 反击",
-          "summary": "AI 末日预言不可取",
-          "detail": "Cerebras CEO Andrew Feldman 对 AI 末日预言表示不满，他认为这些预言只会引起不必要的恐慌。他呼吁 AI 领袖们停止散布末日言论，更多地关注 AI 带来的积极影响。",
-          "usage": "💡 聊到 AI 伦理时\n💬 Cerebras CEO 说 AI 末日预言只会引起恐慌，别再吓唬人了！\n🔥 Cerebras Andrew Feldman AI 伦理",
+          "title": "Cerebras CEO 反驳",
+          "summary": "Cerebras CEO 反驳 AI 末日论",
+          "detail": "Cerebras CEO Andrew Feldman 在 TechCrunch Disrupt 2026 上反驳 AI 末日论，表示 AI 并不会带来世界末日。他认为 AI 发展需要理性看待，AI 末日论不过是危言耸听。AI 的未来，理性讨论才是正道！",
+          "usage": "💡 聊 AI 末日论\n💬 Cerebras CEO 反驳 AI 末日论，理性讨论才是正道！\n🔥 Cerebras AI 末日论 未来",
           "source": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
           "tags": [
             "Cerebras",
-            "Andrew Feldman",
-            "AI 伦理"
+            "AI 末日论",
+            "未来"
           ]
         }
       ]
@@ -95,27 +95,27 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "DeepSeek 投资",
-          "summary": "梁文锋布局具身大脑",
-          "detail": "DeepSeek 创始人梁文锋投资了 Swin Transformer 作者，开始布局具身大脑领域。这意味着 DeepSeek 在 AI 具身智能领域迈出了重要一步，未来可能在机器人领域有更大突破。",
-          "usage": "💡 聊到 AI 投资时\n💬 梁文锋投了 Swin Transformer 作者，DeepSeek 要搞具身大脑了！\n🔥 DeepSeek 梁文锋 具身大脑",
-          "source": "https://www.qbitai.com/2026/10/503093.html",
+          "title": "OpenAI 被要求",
+          "summary": "OpenAI 被要求提供招聘记录",
+          "detail": "联邦法官裁定 OpenAI 必须提供涉及前苹果员工的招聘记录。苹果指控 OpenAI 挖角其员工，涉及商业机密。OpenAI 和苹果的商业竞争进入白热化，AI 巨头的战场不仅仅在技术！",
+          "usage": "💡 聊 AI 巨头竞争\n💬 OpenAI 被要求提供招聘记录，AI 巨头的战场不仅仅在技术！\n🔥 OpenAI 苹果 招聘记录",
+          "source": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
           "tags": [
-            "DeepSeek",
-            "梁文锋",
-            "具身大脑"
+            "OpenAI",
+            "苹果",
+            "招聘记录"
           ]
         },
         {
-          "title": "Meta 算法控制",
-          "summary": "Facebook 用户可自定义算法",
-          "detail": "Meta 推出了新的 AI 功能“Your Algorithm”，允许用户自定义他们的算法。这意味着用户可以根据自己的喜好调整内容推荐，减少不相关内容的影响。以前算法是黑箱，现在用户有了更多的控制权。",
-          "usage": "💡 聊到社交媒体时\n💬 Meta 推出“Your Algorithm”，用户终于可以自定义算法了！\n🔥 Meta Facebook 算法控制",
-          "source": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+          "title": "Scimplify 融资",
+          "summary": "Scimplify 融资 2500 万美元",
+          "detail": "Scimplify 完成 2500 万美元融资，挑战中国在关键材料领域的垄断地位。Scimplify 的年收入增长三倍，达到 2 亿美元。AI 助力关键材料突破，全球供应链格局或将改变！",
+          "usage": "💡 聊 AI 供应链\n💬 Scimplify 融资 2500 万美元，挑战中国在关键材料领域的垄断地位！\n🔥 Scimplify 关键材料 融资",
+          "source": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
           "tags": [
-            "Meta",
-            "Facebook",
-            "算法控制"
+            "Scimplify",
+            "关键材料",
+            "融资"
           ]
         }
       ]
@@ -125,27 +125,27 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "Sophos 威胁调查",
-          "summary": "OpenAI Daybreak 提升效率 96%",
-          "detail": "Sophos 使用 OpenAI Daybreak 进行网络威胁调查，将调查时间缩短了 96%。这意味着网络安全团队可以更快地识别和应对威胁，减少企业损失。以前需要数小时的调查，现在只需几分钟。",
-          "usage": "💡 聊到网络安全时\n💬 Sophos 用 OpenAI Daybreak 把威胁调查时间缩短了 96%！\n🔥 Sophos OpenAI Daybreak 网络安全",
-          "source": "https://openai.com/index/sophos",
+          "title": "Asana 成本降低",
+          "summary": "Asana 成本降低 76 倍",
+          "detail": "Asana 使用 GPT-6 Astra 在浏览器测试中，成本降低 76 倍，速度提升 5 倍。这意味着企业可以更低成本、更高效率地部署 AI 应用。AI 工具的成本大幅下降，企业数字化转型加速！",
+          "usage": "💡 聊 AI 工具成本\n💬 Asana 使用 GPT-6 Astra，成本降低 76 倍，AI 工具白菜价！\n🔥 Asana GPT-6 成本",
+          "source": "https://openai.com/index/asana-browser-agent",
           "tags": [
-            "Sophos",
-            "OpenAI Daybreak",
-            "网络安全"
+            "Asana",
+            "GPT-6",
+            "成本"
           ]
         },
         {
           "title": "Oracle 效率提升",
-          "summary": "ChatGPT 和 Codex 大幅提速",
-          "detail": "Oracle 在招聘、工程和运营中使用了 ChatGPT 和 Codex，将工作从几天缩短到几分钟。这意味着企业可以更快地完成任务，提高整体效率。以前需要数天的工作，现在只需几分钟。",
-          "usage": "💡 聊到企业效率时\n💬 Oracle 用 ChatGPT 和 Codex 把几天的工作缩短到几分钟，效率直接起飞！\n🔥 Oracle ChatGPT Codex",
+          "summary": "Oracle 效率提升显著",
+          "detail": "Oracle 使用 ChatGPT 和 Codex，将数天的工作缩短至几分钟。AI 不仅提升了效率，还释放了人力资源。Oracle 的案例表明，AI 正在重塑企业的效率标准！",
+          "usage": "💡 聊 AI 效率提升\n💬 Oracle 使用 ChatGPT 和 Codex，数天工作缩短至几分钟！\n🔥 Oracle ChatGPT Codex",
           "source": "https://openai.com/index/oracle",
           "tags": [
             "Oracle",
             "ChatGPT",
-            "Codex"
+            "效率"
           ]
         }
       ]
@@ -155,27 +155,27 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "Industrial Next",
-          "summary": "机器人任务切换只需几分钟",
-          "detail": "Industrial Next 帮助制造商自动化复杂任务，使工厂机器人任务切换从几周缩短到几分钟。这意味着生产线的灵活性大幅提升，企业可以更快地响应市场需求。以前需要数周的任务切换，现在只需几分钟。",
-          "usage": "💡 聊到机器人时\n💬 Industrial Next 让机器人任务切换从几周缩短到几分钟，生产线灵活性直接起飞！\n🔥 Industrial Next 机器人",
-          "source": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+          "title": "MemSilicon 芯片",
+          "summary": "MemSilicon 完成芯片流片",
+          "detail": "MemSilicon 完成国际首款高密度、大容量 1T4R 1Gb RRAM 芯片流片。这款芯片采用 CMOS 标准工艺，标志着 RRAM 技术路线加速研发。开源硬件的未来，芯片技术的突破是关键！",
+          "usage": "💡 聊开源硬件\n💬 MemSilicon 完成国际首款高密度、大容量 1T4R 1Gb RRAM 芯片流片！\n🔥 MemSilicon RRAM 芯片",
+          "source": "https://www.qbitai.com/2026/10/503198.html",
           "tags": [
-            "Industrial Next",
-            "机器人",
-            "任务切换"
+            "MemSilicon",
+            "RRAM",
+            "芯片"
           ]
         },
         {
-          "title": "Flox 动物保护",
-          "summary": "AI 驱赶野生动物远离交通",
-          "detail": "Flox Intelligence 使用边缘设备识别动物，并通过物种特定的声音驱赶它们远离交通。这意味着 AI 可以帮助减少野生动物与人类的冲突，保护动物和人类的安全。以前需要人工干预的任务，现在 AI 可以自动完成。",
-          "usage": "💡 聊到 AI 应用时\n💬 Flox 用 AI 驱赶野生动物远离交通，动物保护直接起飞！\n🔥 Flox Intelligence AI 动物保护",
-          "source": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+          "title": "STEPX Neo 发布",
+          "summary": "STEPX Neo 正式发布",
+          "detail": "STEPX Neo 是全球首款大模型原生智能体手机，内置 AI 智能体，可以直接执行复杂任务。这款手机的发布标志着大模型正式落地终端设备，智能设备进入新纪元！",
+          "usage": "💡 聊智能设备\n💬 STEPX Neo 发布，全球首款大模型原生智能体手机！\n🔥 STEPX Neo 智能体 手机",
+          "source": "https://www.qbitai.com/2026/10/503201.html",
           "tags": [
-            "Flox Intelligence",
-            "AI",
-            "动物保护"
+            "STEPX",
+            "Neo",
+            "智能体"
           ]
         }
       ]
@@ -185,27 +185,27 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "魔法原子 Agent",
-          "summary": "VLA 从“演示可用”到“产线可用”",
-          "detail": "魔法原子具身 Agent 框架在 MolmoSpaces 评测中拿下全球第一，将 VLA 从“演示可用”推到了“产线可用”。这意味着 AI 在生产线上的应用将更加广泛，企业可以更高效地利用 AI 技术。",
-          "usage": "💡 聊到 AI 应用时\n💬 魔法原子 Agent 让 VLA 从“演示可用”变成“产线可用”，生产线效率直接起飞！\n🔥 魔法原子 Agent VLA",
-          "source": "https://www.qbitai.com/2026/10/503107.html",
+          "title": "Sophos 效率提升",
+          "summary": "Sophos 效率提升 96%",
+          "detail": "Sophos 使用 OpenAI Daybreak，将网络威胁调查时间缩短 96%。这意味着企业可以更快地应对网络攻击，提升安全性。AI 在网络安全领域的突破，让黑客们的日子越来越难过了！",
+          "usage": "💡 聊网络安全\n💬 Sophos 使用 OpenAI Daybreak，网络威胁调查时间缩短 96%！\n🔥 Sophos OpenAI Daybreak",
+          "source": "https://openai.com/index/sophos",
           "tags": [
-            "魔法原子 Agent",
-            "VLA",
-            "生产线"
+            "Sophos",
+            "OpenAI",
+            "网络安全"
           ]
         },
         {
-          "title": "Laplace 测试",
-          "summary": "AI 模拟机器人上路前测试",
-          "detail": "Laplace Intelligence 使用 AI 代理和交互式模拟，在机器人上路前进行全面的压力测试。这意味着机器人可以在实际应用中更安全、更可靠。以前需要实际测试的任务，现在 AI 可以提前模拟完成。",
-          "usage": "💡 聊到机器人测试时\n💬 Laplace 用 AI 模拟机器人上路前的测试，安全性和可靠性直接起飞！\n🔥 Laplace Intelligence 机器人测试",
-          "source": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+          "title": "Industrial Next",
+          "summary": "Industrial Next 任务切换",
+          "detail": "Industrial Next 帮助工厂机器人在几分钟内切换任务，传统上需要数周时间。AI 加速了制造业的自动化进程，复杂任务的处理效率大幅提升。制造业的未来，AI 是关键驱动力！",
+          "usage": "💡 聊制造业自动化\n💬 Industrial Next 帮助工厂机器人在几分钟内切换任务！\n🔥 Industrial Next 机器人 自动化",
+          "source": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
           "tags": [
-            "Laplace Intelligence",
+            "Industrial Next",
             "机器人",
-            "测试"
+            "自动化"
           ]
         }
       ]
@@ -215,43 +215,48 @@
       "icon": "📈",
       "items": [
         {
-          "title": "华为哈勃投资",
-          "summary": "98 年博士团队研发电子皮肤",
-          "detail": "华为哈勃投资了一个由 98 年博士领导的团队，研发超薄高密度电子皮肤。这意味着电子皮肤技术将有突破性进展，未来在医疗和机器人领域有广泛应用。以前电子皮肤技术还不够成熟，现在直接起飞。",
-          "usage": "💡 聊到科技创新时\n💬 华为哈勃投了个 98 年博士团队，研发电子皮肤技术直接起飞！\n🔥 华为哈勃 电子皮肤",
-          "source": "https://www.qbitai.com/2026/10/502954.html",
+          "title": "EU AI 采用",
+          "summary": "EU AI 采用率增长",
+          "detail": "OpenAI 最新分析显示，EU 企业和中小企业的 AI 采用率持续增长。AI 技术在欧洲的普及速度加快，企业数字化转型加速。欧洲的 AI 市场，未来潜力巨大！",
+          "usage": "💡 聊欧洲 AI 市场\n💬 EU 企业和中小企业的 AI 采用率持续增长，欧洲市场潜力巨大！\n🔥 EU AI 采用率 欧洲",
+          "source": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
           "tags": [
-            "华为哈勃",
-            "电子皮肤",
-            "科技创新"
+            "EU",
+            "AI 采用",
+            "欧洲"
           ]
         },
         {
-          "title": "产业互联网年会",
-          "summary": "首届产业智能体大会定档",
-          "detail": "由亿邦动力主办的“2026 第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档。这意味着产业互联网和智能体技术将受到更多关注，未来在产业升级中有重要应用。",
-          "usage": "💡 聊到产业互联网时\n💬 2026 产业互联网年会和智能体大会定档，产业升级要起飞了！\n🔥 亿邦动力 产业互联网 智能体",
-          "source": "https://www.qbitai.com/2026/10/502907.html",
+          "title": "商汤大装置",
+          "summary": "商汤大装置效率提升",
+          "detail": "商汤大装置助力上海量子城市首批智能体落地，调度效率提升 80%。AI 在城市管理中的应用效率大幅提升，智能城市建设加速。AI 助力城市管理，智能城市的未来已来！",
+          "usage": "💡 聊智能城市\n💬 商汤大装置助力上海量子城市首批智能体落地，调度效率提升 80%！\n🔥 商汤 智能城市 效率",
+          "source": "https://www.qbitai.com/2026/10/503173.html",
           "tags": [
-            "亿邦动力",
-            "产业互联网",
-            "智能体"
+            "商汤",
+            "智能城市",
+            "效率"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-14T02:21:45.387Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-10-14T15:20:11.535Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3528,
-    "completion_tokens": 3139,
-    "total_tokens": 6667,
-    "cost_usd": 0.00392267,
+    "prompt_tokens": 3578,
+    "completion_tokens": 3047,
+    "total_tokens": 6625,
+    "cost_usd": 0.0038567899999999997,
     "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 0,
+      "published": 16
+    },
     "sources": {
       "per_source": {
         "qbitai": 8,

@@ -5,26 +5,30 @@
       "icon": "📰",
       "items": [
         {
-          "title": "AI造AI时代",
-          "summary": "22位AI大佬联手发表论文",
-          "detail": "9月28日，22位AI领域的大佬联手发表了一篇论文，其中包括三位图灵奖得主。这篇论文探讨了AI自我进化的可能性，未来AI或将具备自我设计和优化的能力。家人们谁懂啊，这波操作简直是科幻片走进现实，AI已经开始自己造自己了！",
-          "usage": "💡 午饭时聊AI未来发展\n💬 AI已经开始自己造自己了，科幻片都不敢这么拍！\n🔥 AI 自我进化 论文",
-          "source": "https://www.huxiu.com/article/4897320.html?f=rss",
+          "title": "Arm高通2美元大战",
+          "summary": "Arm被判赔高通2美元",
+          "detail": "四年授权纠纷，Arm被判赔高通2美元，但数十亿美元的官司还没完。这大概是史上最便宜的专利战了，连瓶装水都买不起。",
+          "usage": "💡 聊专利纠纷的低成本\n💬 Arm和高通的专利战，最终判决赔偿2美元，真是打了个寂寞\n🔥 Arm 高通 专利战",
+          "src_id": 8,
           "tags": [
-            "AI",
-            "科技前沿"
-          ]
+            "专利战",
+            "Arm",
+            "高通"
+          ],
+          "source": "https://www.huxiu.com/article/4897584.html?f=rss"
         },
         {
-          "title": "比亚迪巴西里程碑",
-          "summary": "比亚迪巴西工厂产量破10万",
-          "detail": "2026年7月，比亚迪在巴西巴伊亚州的工厂投产不到一年，就已经生产了第10万辆新能源车，并拥有5500名巴西员工。比亚迪的巴西工厂不仅卖车，还在当地建立了完整的产业链，把中国新能源车的成功模式复制到了拉美市场。拉美市场的新能源车竞争，已经不再是单纯卖车，而是谁能留下完整的产业链。",
-          "usage": "💡 下午茶时聊车企出海\n💬 比亚迪在巴西一年生产10万辆新能源车，还把中国产业链搬过去了！\n🔥 比亚迪 巴西 新能源车",
-          "source": "https://www.huxiu.com/article/4897308.html?f=rss",
+          "title": "SpaceX限速乌克兰",
+          "summary": "SpaceX对乌军用星链限速",
+          "detail": "SpaceX对乌克兰军方使用的星链终端进行了限速，理由是不希望技术被用于军事目的。马斯克这是要当和平使者？",
+          "usage": "💡 聊科技与军事的交织\n💬 SpaceX给乌军星链限速，马斯克这是要当和平使者？\n🔥 SpaceX 星链 乌克兰",
+          "src_id": 14,
           "tags": [
-            "比亚迪",
-            "新能源车"
-          ]
+            "SpaceX",
+            "星链",
+            "乌克兰"
+          ],
+          "source": "https://www.toutiao.com/trending/7696516735377100351/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227696516735377100351%22%2C%22hot_board_impr_id%22%3A%2220261014225529DF728976562A706A5BA2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22SpaceX%E4%B8%BA%E4%BD%95%E5%AF%B9%E4%B9%8C%E5%86%9B%E7%94%A8%E6%98%9F%E9%93%BE%E7%BB%88%E7%AB%AF%E9%99%90%E9%80%9F%22%7D&rank=&style_id=40132&topic_id=7696516735377100351"
         }
       ]
     },
@@ -33,26 +37,17 @@
       "icon": "🎤",
       "items": [
         {
-          "title": "黄仁勋AI芯片挑战",
-          "summary": "英伟达中国AI芯片份额跌至34%",
-          "detail": "根据最新报告，英伟达在中国AI芯片市场的份额已跌至34%。随着中国本土AI芯片厂商的崛起，英伟达正面临前所未有的竞争压力。黄仁勋的日子不好过啊，不仅要和美国政府斗智斗勇，还得应付中国市场的本土化挑战。家人们谁懂啊，AI芯片的江湖越来越卷了！",
-          "usage": "💡 午休时聊芯片市场\n💬 英伟达在中国的AI芯片份额都跌到34%了，黄仁勋压力山大！\n🔥 英伟达 AI芯片",
-          "source": "https://www.toutiao.com/trending/7696186267725205046/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227696186267725205046%22%2C%22hot_board_impr_id%22%3A%2220261014100928CFA6FB78E7EF4DF4607C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%8A%A5%E5%91%8A%EF%BC%9A%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%AD%E5%9B%BDAI%E8%8A%AF%E7%89%87%E4%BB%BD%E9%A2%9D%E8%B7%8C%E8%87%B334%25%22%7D&rank=&style_id=40132&topic_id=7696186267725205046",
+          "title": "马斯克限速门",
+          "summary": "马斯克限制乌军用星链速度",
+          "detail": "马斯克决定限制乌克兰军方使用的星链终端速度，理由是避免技术被用于军事冲突。这是科技大佬的和平宣言还是商业考量？",
+          "usage": "💡 聊大佬的商业与道德\n💬 马斯克限制乌军星链速度，这是和平宣言还是商业考量？\n🔥 马斯克 星链 乌克兰",
+          "src_id": 14,
           "tags": [
-            "英伟达",
-            "黄仁勋"
-          ]
-        },
-        {
-          "title": "Sam Altman谈AI竞争",
-          "summary": "Sam Altman：不希望AI只惠及美国人",
-          "detail": "OpenAI CEO Sam Altman在接受采访时表示，他希望美国在AI领域保持领先，但反对只有美国人受益。他还提到与Anthropic的分歧，认为AI的发展应该造福全人类。Altman的这番言论引发了不少讨论，毕竟AI的竞争不仅仅是技术，更是全球利益的平衡。",
-          "usage": "💡 下午茶时聊AI全球化\n💬 Sam Altman说AI不能只让美国人受益，全球都要分一杯羹！\n🔥 OpenAI Sam Altman",
-          "source": "https://www.huxiu.com/article/4897309.html?f=rss",
-          "tags": [
-            "OpenAI",
-            "Sam Altman"
-          ]
+            "马斯克",
+            "星链",
+            "乌克兰"
+          ],
+          "source": "https://www.toutiao.com/trending/7696516735377100351/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227696516735377100351%22%2C%22hot_board_impr_id%22%3A%2220261014225529DF728976562A706A5BA2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22SpaceX%E4%B8%BA%E4%BD%95%E5%AF%B9%E4%B9%8C%E5%86%9B%E7%94%A8%E6%98%9F%E9%93%BE%E7%BB%88%E7%AB%AF%E9%99%90%E9%80%9F%22%7D&rank=&style_id=40132&topic_id=7696516735377100351"
         }
       ]
     },
@@ -61,54 +56,30 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "茶百道停牌风波",
-          "summary": "茶百道因涉嫌IPO操纵停牌",
-          "detail": "10月13日，茶百道在港交所暂停交易，原因是涉嫌参与欺诈计划，意图在首次公开招股中营造虚假需求。港交所的通告明确指出，这不是一次常规停牌。茶百道的停牌也引发了新茶饮行业的信任危机，资本市场的监管越来越严，想要靠资本运作翻身的日子不好过了。",
-          "usage": "💡 下午茶时聊资本市场\n💬 茶百道因为IPO操纵被停牌了，新茶饮行业的资本泡沫要破了吗？\n🔥 茶百道 IPO 停牌",
-          "source": "https://www.huxiu.com/article/4897317.html?f=rss",
+          "title": "Visa中国获批",
+          "summary": "Visa在中国获批银行卡清算",
+          "detail": "Visa终于在中国获批银行卡清算机构资格，这是外卡组织在中国市场的一大突破。不过想在中国盈利，路还长着呢。",
+          "usage": "💡 聊外卡组织的中国市场\n💬 Visa在中国获批清算资格，但想赚钱还早着呢\n🔥 Visa 银行卡清算 中国",
+          "src_id": 4,
           "tags": [
-            "茶百道",
-            "IPO"
-          ]
+            "Visa",
+            "银行卡清算",
+            "中国"
+          ],
+          "source": "https://www.huxiu.com/article/4897590.html?f=rss"
         },
         {
-          "title": "比亚迪",
-          "summary": "比亚迪大汉正式上市",
-          "detail": "比亚迪最新车型“大汉”正式上市，这款车定位为高端新能源SUV，搭载了最新的电池技术和智能驾驶系统。比亚迪的产品线越来越丰富，从低端到高端全覆盖，看来是要在新能源车市场一统江湖。家人们谁懂啊，这波操作简直是要把特斯拉逼到角落！",
-          "usage": "💡 午休时聊新车\n💬 比亚迪大汉上市了，高端新能源SUV市场又多了一个玩家！\n🔥 比亚迪 大汉 新能源车",
-          "source": "https://www.toutiao.com/trending/7696223880234402314/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227696223880234402314%22%2C%22hot_board_impr_id%22%3A%2220261014100928CFA6FB78E7EF4DF4607C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%A4%A7%E6%B1%89%E6%AD%A3%E5%BC%8F%E4%B8%8A%E5%B8%82%22%7D&rank=&style_id=40132&topic_id=7696223880234402314",
+          "title": "三星召回风波",
+          "summary": "三星Note7召回后续",
+          "detail": "三星Note7因电池问题召回多年后，仍有消费者在维权。出了问题的品牌，凭什么获得第二次信任？",
+          "usage": "💡 聊品牌危机与信任\n💬 三星Note7召回多年后还在维权，品牌信任重建真难\n🔥 三星 Note7 召回",
+          "src_id": 5,
           "tags": [
-            "比亚迪",
-            "新能源车"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "组织变动",
-      "icon": "🔀",
-      "items": [
-        {
-          "title": "瑞幸校园逆袭",
-          "summary": "瑞幸大学校园门店日销800杯",
-          "detail": "瑞幸在大学校园的门店日销量高达800杯，成为咖啡茶饮巨头最后的避风港。调研显示，大学校园的消费需求稳定，且学生对咖啡和茶饮的接受度高。瑞幸的校园策略显然奏效了，家人们谁懂啊，这波操作简直是逆风翻盘的典范！",
-          "usage": "💡 午饭时聊咖啡市场\n💬 瑞幸在大学校园日销800杯，校园市场真是咖啡品牌的避风港！\n🔥 瑞幸 校园市场",
-          "source": "https://www.huxiu.com/article/4897329.html?f=rss",
-          "tags": [
-            "瑞幸",
-            "咖啡"
-          ]
-        },
-        {
-          "title": "钉蹄师的冷门生意",
-          "summary": "全国持证钉蹄师仅70多人",
-          "detail": "全国持证的钉蹄师仅有70多人，这门冷门的手艺却有着不菲的收入。钉蹄师的主要工作是为马修蹄子、钉马掌，虽然听起来不起眼，但市场需求稳定且专业门槛高。家人们谁懂啊，这年头连马蹄都能成为一门赚钱的手艺！",
-          "usage": "💡 午休时聊冷门职业\n💬 全国只有70多个钉蹄师，这门手艺居然这么值钱！\n🔥 钉蹄师 冷门职业",
-          "source": "https://www.huxiu.com/article/4897321.html?f=rss",
-          "tags": [
-            "钉蹄师",
-            "冷门职业"
-          ]
+            "三星",
+            "Note7",
+            "召回"
+          ],
+          "source": "https://www.huxiu.com/article/4897580.html?f=rss"
         }
       ]
     },
@@ -117,26 +88,30 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "脑机接口一年后",
-          "summary": "脑机接口植入一年后的真实反馈",
-          "detail": "脑机接口植入已经一年，患者表示远未达到科幻片中的效果，康复过程漫长且艰难。尽管脑机接口技术有了显著进展，但离真正的日常生活应用还有很长的路要走。家人们谁懂啊，脑机接口的科幻光环正在褪去，现实的挑战才刚刚开始。",
-          "usage": "💡 午饭时聊科技前沿\n💬 脑机接口植入一年后，患者表示康复过程漫长，科幻片都是骗人的！\n🔥 脑机接口 康复",
-          "source": "https://www.huxiu.com/article/4897304.html?f=rss",
+          "title": "蓝箭一箭十星",
+          "summary": "蓝箭航天一箭十星",
+          "detail": "蓝箭航天在29天内完成两次'一箭十星'发射，中国商业航天离'班次化'又近了一步。",
+          "usage": "💡 聊中国商业航天的进展\n💬 蓝箭航天29天两次一箭十星，商业航天要起飞了\n🔥 蓝箭航天 一箭十星 商业航天",
+          "src_id": 7,
           "tags": [
-            "脑机接口",
-            "康复"
-          ]
+            "蓝箭航天",
+            "一箭十星",
+            "商业航天"
+          ],
+          "source": "https://www.huxiu.com/article/4897585.html?f=rss"
         },
         {
-          "title": "AI造AI时代",
-          "summary": "22位AI大佬联手发表论文",
-          "detail": "9月28日，22位AI领域的大佬联手发表了一篇论文，其中包括三位图灵奖得主。这篇论文探讨了AI自我进化的可能性，未来AI或将具备自我设计和优化的能力。家人们谁懂啊，这波操作简直是科幻片走进现实，AI已经开始自己造自己了！",
-          "usage": "💡 午饭时聊AI未来发展\n💬 AI已经开始自己造自己了，科幻片都不敢这么拍！\n🔥 AI 自我进化 论文",
-          "source": "https://www.huxiu.com/article/4897320.html?f=rss",
+          "title": "深海淘金热",
+          "summary": "中日美抢着海底挖矿",
+          "detail": "中日美三国近期纷纷开展海底矿产勘探，深海版'淘金热'正式开局。五千米海底的矿藏，比陆地还丰富。",
+          "usage": "💡 聊深海资源的争夺\n💬 中日美抢着去海底挖矿，这是要开启深海淘金热啊\n🔥 深海挖矿 中日美 淘金热",
+          "src_id": 3,
           "tags": [
-            "AI",
-            "科技前沿"
-          ]
+            "深海挖矿",
+            "中日美",
+            "淘金热"
+          ],
+          "source": "https://www.huxiu.com/article/4897591.html?f=rss"
         }
       ]
     },
@@ -145,26 +120,30 @@
       "icon": "📱",
       "items": [
         {
-          "title": "比亚迪大汉上市",
-          "summary": "比亚迪大汉正式上市",
-          "detail": "比亚迪最新车型“大汉”正式上市，这款车定位为高端新能源SUV，搭载了最新的电池技术和智能驾驶系统。比亚迪的产品线越来越丰富，从低端到高端全覆盖，看来是要在新能源车市场一统江湖。家人们谁懂啊，这波操作简直是要把特斯拉逼到角落！",
-          "usage": "💡 午休时聊新车\n💬 比亚迪大汉上市了，高端新能源SUV市场又多了一个玩家！\n🔥 比亚迪 大汉 新能源车",
-          "source": "https://www.toutiao.com/trending/7696223880234402314/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227696223880234402314%22%2C%22hot_board_impr_id%22%3A%2220261014100928CFA6FB78E7EF4DF4607C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%A4%A7%E6%B1%89%E6%AD%A3%E5%BC%8F%E4%B8%8A%E5%B8%82%22%7D&rank=&style_id=40132&topic_id=7696223880234402314",
+          "title": "双11不玩套路",
+          "summary": "今年双11告别算数题",
+          "detail": "今年双11各大电商宣布告别复杂的促销套路，直接降价。终于不用再做数学题了！",
+          "usage": "💡 聊电商促销的变化\n💬 今年双11不玩套路，直接降价，终于不用做数学题了\n🔥 双11 电商 促销",
+          "src_id": 13,
           "tags": [
-            "比亚迪",
-            "新能源车"
-          ]
+            "双11",
+            "电商",
+            "促销"
+          ],
+          "source": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E5%8F%8C11%E5%91%8A%E5%88%AB%E7%AE%97%E6%95%B0%E9%A2%98&sa=fyb_news"
         },
         {
-          "title": "可灵上市计划",
-          "summary": "可灵拟募资10亿美元上市",
-          "detail": "视频生成市场的新秀可灵计划最快明年登陆资本市场，拟募资至少10亿美元。尽管Seedance在视频生成市场的市占率高达80%以上，但可灵依然选择迎难而上，试图在激烈的市场中分一杯羹。家人们谁懂啊，这波操作简直是虎口夺食，勇气可嘉！",
-          "usage": "💡 下午茶时聊创业公司\n💬 可灵准备募资10亿美元上市，视频生成市场的竞争越来越激烈了！\n🔥 可灵 视频生成",
-          "source": "https://www.huxiu.com/article/4897306.html?f=rss",
+          "title": "尊界刹车风波",
+          "summary": "尊界刹车踏板问题",
+          "detail": "尊界汽车因刹车踏板问题陷入风波，豪华品牌的信誉危机再次引发关注。安全无小事啊。",
+          "usage": "💡 聊汽车安全问题\n💬 尊界刹车踏板问题，豪华车的信誉危机又来了\n🔥 尊界 刹车踏板 安全",
+          "src_id": 10,
           "tags": [
-            "可灵",
-            "视频生成"
-          ]
+            "尊界",
+            "刹车踏板",
+            "安全"
+          ],
+          "source": "https://www.huxiu.com/article/4897578.html?f=rss"
         }
       ]
     },
@@ -173,45 +152,49 @@
       "icon": "🎬",
       "items": [
         {
-          "title": "茶百道IPO风波",
-          "summary": "茶百道涉嫌IPO操纵停牌",
-          "detail": "10月13日，茶百道在港交所暂停交易，原因是涉嫌参与欺诈计划，意图在首次公开招股中营造虚假需求。港交所的通告明确指出，这不是一次常规停牌。茶百道的停牌也引发了新茶饮行业的信任危机，资本市场的监管越来越严，想要靠资本运作翻身的日子不好过了。",
-          "usage": "💡 下午茶时聊资本市场\n💬 茶百道因为IPO操纵被停牌了，新茶饮行业的资本泡沫要破了吗？\n🔥 茶百道 IPO 停牌",
-          "source": "https://www.huxiu.com/article/4897317.html?f=rss",
+          "title": "锂矿股过山车",
+          "summary": "碳酸锂价格暴跌",
+          "detail": "碳酸锂价格从年初翻倍到暴跌，锂矿股经历了一场过山车行情。这市场比坐过山车还刺激。",
+          "usage": "💡 聊原材料市场的波动\n💬 碳酸锂价格暴涨暴跌，锂矿股这过山车坐得爽吗\n🔥 碳酸锂 锂矿股 过山车",
+          "src_id": 9,
           "tags": [
-            "茶百道",
-            "IPO"
-          ]
+            "碳酸锂",
+            "锂矿股",
+            "过山车"
+          ],
+          "source": "https://www.huxiu.com/article/4897583.html?f=rss"
         },
         {
-          "title": "可灵上市计划",
-          "summary": "可灵拟募资10亿美元上市",
-          "detail": "视频生成市场的新秀可灵计划最快明年登陆资本市场，拟募资至少10亿美元。尽管Seedance在视频生成市场的市占率高达80%以上，但可灵依然选择迎难而上，试图在激烈的市场中分一杯羹。家人们谁懂啊，这波操作简直是虎口夺食，勇气可嘉！",
-          "usage": "💡 下午茶时聊创业公司\n💬 可灵准备募资10亿美元上市，视频生成市场的竞争越来越激烈了！\n🔥 可灵 视频生成",
-          "source": "https://www.huxiu.com/article/4897306.html?f=rss",
+          "title": "雄安育人计划",
+          "summary": "雄安建城先育人",
+          "detail": "雄安新区提出'建城先育人'的理念，试图通过教育留住人才。新城的发展，人才是关键啊。",
+          "usage": "💡 聊城市发展与人才\n💬 雄安提出建城先育人，这是要把教育放在首位啊\n🔥 雄安 建城 育人",
+          "src_id": 6,
           "tags": [
-            "可灵",
-            "视频生成"
-          ]
+            "雄安",
+            "建城",
+            "育人"
+          ],
+          "source": "https://www.huxiu.com/article/4897586.html?f=rss"
         }
       ]
     }
   ],
-  "generated_at": "2026-10-14T02:19:50.742Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-10-14T15:04:27.686Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 5384,
-    "completion_tokens": 4208,
-    "total_tokens": 9592,
-    "cost_usd": 0.005468,
+    "prompt_tokens": 5500,
+    "completion_tokens": 2225,
+    "total_tokens": 7725,
+    "cost_usd": 0.0037402499999999997,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 2,
-      "published": 14
+      "dropped_orphans": 5,
+      "published": 11
     },
     "sources": {
       "per_source": {
@@ -220,7 +203,7 @@
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 23
+      "total": 22
     }
   }
 }

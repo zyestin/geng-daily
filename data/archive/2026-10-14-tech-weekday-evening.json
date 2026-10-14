@@ -5,17 +5,30 @@
       "icon": "📰",
       "items": [
         {
-          "title": "茶百道停牌",
-          "summary": "茶百道被港交所停牌",
-          "detail": "2026年10月13日，香港证监会要求联交所暂停茶百道股份交易，原因是茶百道2024年的首次公开存在账务问题。新茶饮行业的两本账被揭开，茶百道成了第一个被锤的公司。",
-          "usage": "💡 聊新茶饮行业的财务问题\n💬 茶百道被停牌，新茶饮的两本账被揭开了\n🔥 茶百道 停牌 财务问题",
-          "src_id": 1,
+          "title": "Arm高通2美元大战",
+          "summary": "Arm被判赔高通2美元",
+          "detail": "四年授权纠纷，Arm被判赔高通2美元，但数十亿美元的官司还没完。这大概是史上最便宜的专利战了，连瓶装水都买不起。",
+          "usage": "💡 聊专利纠纷的低成本\n💬 Arm和高通的专利战，最终判决赔偿2美元，真是打了个寂寞\n🔥 Arm 高通 专利战",
+          "src_id": 8,
           "tags": [
-            "茶百道",
-            "停牌",
-            "财务问题"
+            "专利战",
+            "Arm",
+            "高通"
           ],
-          "source": "https://www.huxiu.com/article/4897283.html?f=rss"
+          "source": "https://www.huxiu.com/article/4897584.html?f=rss"
+        },
+        {
+          "title": "SpaceX限速乌克兰",
+          "summary": "SpaceX对乌军用星链限速",
+          "detail": "SpaceX对乌克兰军方使用的星链终端进行了限速，理由是不希望技术被用于军事目的。马斯克这是要当和平使者？",
+          "usage": "💡 聊科技与军事的交织\n💬 SpaceX给乌军星链限速，马斯克这是要当和平使者？\n🔥 SpaceX 星链 乌克兰",
+          "src_id": 14,
+          "tags": [
+            "SpaceX",
+            "星链",
+            "乌克兰"
+          ],
+          "source": "https://www.toutiao.com/trending/7696516735377100351/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227696516735377100351%22%2C%22hot_board_impr_id%22%3A%2220261014225529DF728976562A706A5BA2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22SpaceX%E4%B8%BA%E4%BD%95%E5%AF%B9%E4%B9%8C%E5%86%9B%E7%94%A8%E6%98%9F%E9%93%BE%E7%BB%88%E7%AB%AF%E9%99%90%E9%80%9F%22%7D&rank=&style_id=40132&topic_id=7696516735377100351"
         }
       ]
     },
@@ -24,17 +37,17 @@
       "icon": "🎤",
       "items": [
         {
-          "title": "老干妈AI赚54亿",
-          "summary": "老干妈用AI一年赚54亿",
-          "detail": "79岁的老干妈陶华碧用AI技术一年赚了54亿，AI不仅改变了科技圈，连老干妈这种传统企业也尝到了甜头。老干妈都能用AI赚钱，你还等什么？",
-          "usage": "💡 聊AI在传统企业的应用\n💬 老干妈用AI一年赚了54亿，AI真香\n🔥 老干妈 AI 赚钱",
+          "title": "马斯克限速门",
+          "summary": "马斯克限制乌军用星链速度",
+          "detail": "马斯克决定限制乌克兰军方使用的星链终端速度，理由是避免技术被用于军事冲突。这是科技大佬的和平宣言还是商业考量？",
+          "usage": "💡 聊大佬的商业与道德\n💬 马斯克限制乌军星链速度，这是和平宣言还是商业考量？\n🔥 马斯克 星链 乌克兰",
           "src_id": 14,
           "tags": [
-            "老干妈",
-            "AI",
-            "赚钱"
+            "马斯克",
+            "星链",
+            "乌克兰"
           ],
-          "source": "https://www.toutiao.com/trending/7695240616376303626/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227695240616376303626%22%2C%22hot_board_impr_id%22%3A%22202610140121490F57326250C2D7365C81%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2279%E5%B2%81%E8%80%81%E5%B9%B2%E5%A6%88%E9%99%B6%E5%8D%8E%E7%A2%A7%E7%94%A8AI%E4%B8%80%E5%B9%B4%E8%B5%9A%E4%BA%8654%E4%BA%BF%22%7D&rank=&style_id=40132&topic_id=7695240616376303626"
+          "source": "https://www.toutiao.com/trending/7696516735377100351/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227696516735377100351%22%2C%22hot_board_impr_id%22%3A%2220261014225529DF728976562A706A5BA2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22SpaceX%E4%B8%BA%E4%BD%95%E5%AF%B9%E4%B9%8C%E5%86%9B%E7%94%A8%E6%98%9F%E9%93%BE%E7%BB%88%E7%AB%AF%E9%99%90%E9%80%9F%22%7D&rank=&style_id=40132&topic_id=7696516735377100351"
         }
       ]
     },
@@ -43,36 +56,30 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "谷歌新芯片",
-          "summary": "谷歌发布新一代AI芯片",
-          "detail": "谷歌发布了新一代AI芯片，号称性能提升50%，功耗降低30%。虽然发布会上吹得天花乱坠，但实际效果还得等量产才能验证。",
-          "usage": "💡 聊AI芯片的最新进展\n💬 谷歌新AI芯片又来了，性能提升50%\n🔥 谷歌 AI芯片 性能",
-          "src_id": "",
+          "title": "Visa中国获批",
+          "summary": "Visa在中国获批银行卡清算",
+          "detail": "Visa终于在中国获批银行卡清算机构资格，这是外卡组织在中国市场的一大突破。不过想在中国盈利，路还长着呢。",
+          "usage": "💡 聊外卡组织的中国市场\n💬 Visa在中国获批清算资格，但想赚钱还早着呢\n🔥 Visa 银行卡清算 中国",
+          "src_id": 4,
           "tags": [
-            "谷歌",
-            "AI芯片",
-            "性能"
+            "Visa",
+            "银行卡清算",
+            "中国"
           ],
-          "source": ""
-        }
-      ]
-    },
-    {
-      "name": "组织变动",
-      "icon": "🔀",
-      "items": [
+          "source": "https://www.huxiu.com/article/4897590.html?f=rss"
+        },
         {
-          "title": "字节裁员",
-          "summary": "字节跳动裁员5000人",
-          "detail": "字节跳动宣布裁员5000人，主要集中在非核心业务部门。虽然字节一直说自己是“大厂”，但这次裁员还是让人看清了现实。",
-          "usage": "💡 聊大厂裁员\n💬 字节裁员5000人，大厂也不好混了\n🔥 字节 裁员 5000",
-          "src_id": "",
+          "title": "三星召回风波",
+          "summary": "三星Note7召回后续",
+          "detail": "三星Note7因电池问题召回多年后，仍有消费者在维权。出了问题的品牌，凭什么获得第二次信任？",
+          "usage": "💡 聊品牌危机与信任\n💬 三星Note7召回多年后还在维权，品牌信任重建真难\n🔥 三星 Note7 召回",
+          "src_id": 5,
           "tags": [
-            "字节跳动",
-            "裁员",
-            "5000"
+            "三星",
+            "Note7",
+            "召回"
           ],
-          "source": ""
+          "source": "https://www.huxiu.com/article/4897580.html?f=rss"
         }
       ]
     },
@@ -81,17 +88,30 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "机器狗进哀牢山",
-          "summary": "机器狗首次进哀牢山",
-          "detail": "机器狗首次进入哀牢山，竟然拍到了传说中的“冥界之花”。这种神秘植物在科技面前无所遁形，机器狗的探险能力让人惊叹。",
-          "usage": "💡 聊机器人的探险能力\n💬 机器狗进哀牢山拍到冥界之花，科技真神奇\n🔥 机器狗 哀牢山 冥界之花",
-          "src_id": 5,
+          "title": "蓝箭一箭十星",
+          "summary": "蓝箭航天一箭十星",
+          "detail": "蓝箭航天在29天内完成两次'一箭十星'发射，中国商业航天离'班次化'又近了一步。",
+          "usage": "💡 聊中国商业航天的进展\n💬 蓝箭航天29天两次一箭十星，商业航天要起飞了\n🔥 蓝箭航天 一箭十星 商业航天",
+          "src_id": 7,
           "tags": [
-            "机器狗",
-            "哀牢山",
-            "冥界之花"
+            "蓝箭航天",
+            "一箭十星",
+            "商业航天"
           ],
-          "source": "https://m.baidu.com/s?word=%E6%9C%BA%E5%99%A8%E7%8B%97%E7%AC%AC1%E6%AC%A1%E8%BF%9B%E5%93%80%E7%89%A2%E5%B1%B1%E5%B0%B1%E6%8B%8D%E5%88%B0%E5%86%A5%E7%95%8C%E4%B9%8B%E8%8A%B1&sa=fyb_news"
+          "source": "https://www.huxiu.com/article/4897585.html?f=rss"
+        },
+        {
+          "title": "深海淘金热",
+          "summary": "中日美抢着海底挖矿",
+          "detail": "中日美三国近期纷纷开展海底矿产勘探，深海版'淘金热'正式开局。五千米海底的矿藏，比陆地还丰富。",
+          "usage": "💡 聊深海资源的争夺\n💬 中日美抢着去海底挖矿，这是要开启深海淘金热啊\n🔥 深海挖矿 中日美 淘金热",
+          "src_id": 3,
+          "tags": [
+            "深海挖矿",
+            "中日美",
+            "淘金热"
+          ],
+          "source": "https://www.huxiu.com/article/4897591.html?f=rss"
         }
       ]
     },
@@ -100,17 +120,30 @@
       "icon": "📱",
       "items": [
         {
-          "title": "苹果新耳机",
-          "summary": "苹果发布新一代AirPods",
-          "detail": "苹果发布了新一代AirPods，号称音质提升30%，续航增加50%。虽然发布会上吹得天花乱坠，但实际效果还得等用户体验了才知道。",
-          "usage": "💡 聊苹果新品发布会\n💬 苹果新AirPods又来了，音质提升30%\n🔥 苹果 AirPods 音质",
-          "src_id": "",
+          "title": "双11不玩套路",
+          "summary": "今年双11告别算数题",
+          "detail": "今年双11各大电商宣布告别复杂的促销套路，直接降价。终于不用再做数学题了！",
+          "usage": "💡 聊电商促销的变化\n💬 今年双11不玩套路，直接降价，终于不用做数学题了\n🔥 双11 电商 促销",
+          "src_id": 13,
           "tags": [
-            "苹果",
-            "AirPods",
-            "音质"
+            "双11",
+            "电商",
+            "促销"
           ],
-          "source": ""
+          "source": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E5%8F%8C11%E5%91%8A%E5%88%AB%E7%AE%97%E6%95%B0%E9%A2%98&sa=fyb_news"
+        },
+        {
+          "title": "尊界刹车风波",
+          "summary": "尊界刹车踏板问题",
+          "detail": "尊界汽车因刹车踏板问题陷入风波，豪华品牌的信誉危机再次引发关注。安全无小事啊。",
+          "usage": "💡 聊汽车安全问题\n💬 尊界刹车踏板问题，豪华车的信誉危机又来了\n🔥 尊界 刹车踏板 安全",
+          "src_id": 10,
+          "tags": [
+            "尊界",
+            "刹车踏板",
+            "安全"
+          ],
+          "source": "https://www.huxiu.com/article/4897578.html?f=rss"
         }
       ]
     },
@@ -119,59 +152,58 @@
       "icon": "🎬",
       "items": [
         {
-          "title": "销冠被辞退",
-          "summary": "33岁销冠确诊胃癌后被辞",
-          "detail": "33岁的销冠确诊胃癌晚期后，突然被公司辞退。这种无情操作让人心寒，销冠的职场生涯戛然而止，创业大戏变成了悲剧。",
-          "usage": "💡 聊职场无情\n💬 33岁销冠确诊胃癌后被辞退，职场真无情\n🔥 销冠 胃癌 辞退",
-          "src_id": 7,
+          "title": "锂矿股过山车",
+          "summary": "碳酸锂价格暴跌",
+          "detail": "碳酸锂价格从年初翻倍到暴跌，锂矿股经历了一场过山车行情。这市场比坐过山车还刺激。",
+          "usage": "💡 聊原材料市场的波动\n💬 碳酸锂价格暴涨暴跌，锂矿股这过山车坐得爽吗\n🔥 碳酸锂 锂矿股 过山车",
+          "src_id": 9,
           "tags": [
-            "销冠",
-            "胃癌",
-            "辞退"
+            "碳酸锂",
+            "锂矿股",
+            "过山车"
           ],
-          "source": "https://m.baidu.com/s?word=33%E5%B2%81%E9%94%80%E5%86%A0%E7%A1%AE%E8%AF%8A%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%E5%90%8E%E7%AA%81%E7%84%B6%E8%A2%AB%E8%BE%9E%E9%80%80&sa=fyb_news"
-        }
-      ]
-    },
-    {
-      "name": "币圈风云",
-      "icon": "🪙",
-      "items": [
+          "source": "https://www.huxiu.com/article/4897583.html?f=rss"
+        },
         {
-          "title": "孙宇晨新动作",
-          "summary": "孙宇晨推出新加密货币",
-          "detail": "孙宇晨又推出了新的加密货币，号称“颠覆传统金融”。虽然每次都吹得天花乱坠，但韭菜们已经学会了谨慎。",
-          "usage": "💡 聊币圈新动向\n💬 孙宇晨又推出新加密货币，韭菜们小心了\n🔥 孙宇晨 加密货币 韭菜",
-          "src_id": "",
+          "title": "雄安育人计划",
+          "summary": "雄安建城先育人",
+          "detail": "雄安新区提出'建城先育人'的理念，试图通过教育留住人才。新城的发展，人才是关键啊。",
+          "usage": "💡 聊城市发展与人才\n💬 雄安提出建城先育人，这是要把教育放在首位啊\n🔥 雄安 建城 育人",
+          "src_id": 6,
           "tags": [
-            "孙宇晨",
-            "加密货币",
-            "韭菜"
+            "雄安",
+            "建城",
+            "育人"
           ],
-          "source": ""
+          "source": "https://www.huxiu.com/article/4897586.html?f=rss"
         }
       ]
     }
   ],
-  "generated_at": "2026-10-13T17:23:01.193Z",
+  "generated_at": "2026-10-14T15:04:27.686Z",
   "slot": "weekday-evening",
   "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 4764,
-    "completion_tokens": 1305,
-    "total_tokens": 6069,
-    "cost_usd": 0.0026859299999999996,
+    "prompt_tokens": 5500,
+    "completion_tokens": 2225,
+    "total_tokens": 7725,
+    "cost_usd": 0.0037402499999999997,
     "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 5,
+      "published": 11
+    },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 2,
+        "huxiu": 12,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 14
+      "total": 22
     }
   }
 }
