@@ -5,27 +5,25 @@
       "icon": "💥",
       "items": [
         {
-          "title": "Astra 操作电脑",
-          "summary": "Astra 操作电脑达到人类水平",
-          "detail": "OpenAI 的 Astra 模型在操作电脑任务上达到人类水平，这意味着 AI 可以像人类一样使用鼠标、键盘和应用程序。以前 AI 只能处理结构化数据，现在直接上手操作系统，未来 AI 助理可能真的能帮你完成所有电脑任务。黑客们的工具库要更新了，AI 助理的时代来了！",
-          "usage": "💡 聊 AI 助理的未来\n💬 Astra 操作电脑达到人类水平，未来 AI 助理可能真的能帮你完成所有电脑任务。\n🔥 Astra OpenAI 电脑操作",
-          "source": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+          "title": "STEPX Neo发布",
+          "summary": "首款AI原生Agent手机",
+          "detail": "阶跃终端发布全球首款大模型原生智能体手机STEPX Neo，直接把AI Agent塞进手机里当操作系统。这玩意儿能自主接电话、安排日程、甚至根据聊天内容自动订餐厅——以后手机不是工具，是个24小时待命的数字管家。",
+          "usage": "💡 聊AI硬件时甩出来\n💬 以后手机不用解锁了，直接喊'小阶给老板发个请假理由'\n🔥 Agent手机 阶跃终端 AI硬件",
+          "source": "https://www.qbitai.com/2026/10/503201.html",
           "tags": [
-            "OpenAI",
-            "Astra",
-            "AI 助理"
+            "硬件革命",
+            "AI Agent"
           ]
         },
         {
-          "title": "STEPX Neo 发布",
-          "summary": "首款 Agent 手机发布",
-          "detail": "STEPX Neo 是全球首款「Agent 手机」，内置大模型原生智能体，可以直接执行复杂任务。以前手机只能被动响应指令，现在 Neo 可以主动规划任务，比如帮你订票、推荐餐厅等。手机智能化进入新纪元，物理版 Agent 时代来了！",
-          "usage": "💡 聊智能设备的未来\n💬 STEPX Neo 发布，全球首款「Agent 手机」直接执行复杂任务。\n🔥 STEPX Neo Agent 手机",
-          "source": "https://www.qbitai.com/2026/10/503244.html",
+          "title": "AI造芯大突破",
+          "summary": "AI自己设计芯片了",
+          "detail": "Ricursive Intelligence用AI设计芯片，直接把芯片研发周期砍掉70%。现在AI不仅能写代码，连造芯片的活都抢——硬件工程师看着自己画了十年的电路图，默默打开了招聘软件。",
+          "usage": "💡 聊AI替代职业时用\n💬 以后芯片发布会开场白：'本次芯片由GPT-6自主设计，人类仅负责按电源键'\n🔥 AI造芯 硬件革命",
+          "source": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
           "tags": [
-            "STEPX",
-            "Agent 手机",
-            "智能设备"
+            "AI造芯",
+            "硬件革命"
           ]
         }
       ]
@@ -36,26 +34,24 @@
       "items": [
         {
           "title": "GPT-6.1 Sol",
-          "summary": "GPT-6.1 Sol 发布",
-          "detail": "OpenAI 发布 GPT-6.1 Sol，相比上一代 GPT-6 Astra，成本降低 76 倍，速度提升 5 倍。这意味着企业可以更低成本、更高效率地部署 AI 应用。以前 AI 应用成本高，现在直接白菜价，AI 普及加速！",
-          "usage": "💡 聊 AI 成本下降\n💬 GPT-6.1 Sol 发布，成本降低 76 倍，AI 应用白菜价！\n🔥 GPT-6.1 Sol OpenAI 成本",
+          "summary": "成本暴降76倍",
+          "detail": "OpenAI悄咪咪升级GPT-6.1 Sol，浏览器代理任务成本直接砍到原来的1/76。做个对比：以前让AI整理100页PDF要喝杯星巴克的钱，现在只值包辣条。",
+          "usage": "💡 聊AI降价趋势时用\n💬 建议OpenAI下次更新改名叫'拼多多版GPT'\n🔥 GPT-6.1 成本暴降",
           "source": "https://openai.com/index/asana-browser-agent",
           "tags": [
-            "OpenAI",
-            "GPT-6.1 Sol",
-            "成本"
+            "模型升级",
+            "成本下降"
           ]
         },
         {
-          "title": "Higgsfield AI 视频",
-          "summary": "Higgsfield AI 视频突破",
-          "detail": "Higgsfield 发布基于 GPT-6 Astra 和 GPT-Image-2.5 的 AI 视频生成技术，视频长度从 1 分钟突破到 10 分钟以上。以前 AI 视频只能做短视频，现在直接生成长视频，创作者的工具库又扩容了！",
-          "usage": "💡 聊 AI 视频生成\n💬 Higgsfield AI 视频生成技术突破，视频长度从 1 分钟到 10 分钟以上！\n🔥 Higgsfield AI 视频 GPT-6",
+          "title": "Higgsfield视频AI",
+          "summary": "1分钟变10分钟",
+          "detail": "Higgsfield用GPT-6 Astra把AI生成视频长度从1分钟拉到10分钟以上，画质还提升2.5倍。短视频创作者狂喜：以后日更10条不是梦，问题是平台审核员要猝死了。",
+          "usage": "💡 聊AI内容创作时甩出来\n💬 '甲方爸爸别催了，GPT正在给你生成第八版方案'\n🔥 视频生成 时长突破",
           "source": "https://openai.com/index/higgsfield-longer-videos-voice",
           "tags": [
-            "Higgsfield",
-            "AI 视频",
-            "GPT-6"
+            "视频生成",
+            "多模态"
           ]
         }
       ]
@@ -65,27 +61,25 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "Cerebras CEO",
-          "summary": "Cerebras CEO 预测 AI 未来",
-          "detail": "Cerebras CEO Andrew Feldman 在 TechCrunch Disrupt 2026 上预测，未来每个人家里都会有一个 AI 助理。AI 助理将像冰箱、洗衣机一样普及，成为家庭标配。AI 助理时代，你家准备好了吗？",
-          "usage": "💡 聊 AI 助理的未来\n💬 Cerebras CEO 预测，未来每个人家里都会有一个 AI 助理！\n🔥 Cerebras AI 助理 未来",
-          "source": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+          "title": "欧盟AI新方向",
+          "summary": "官方力推Agentic",
+          "detail": "OpenAI最新报告显示，欧盟中小企业正在疯狂拥抱Agentic AI。翻译成人话：欧洲老板们发现雇AI员工比真人便宜还不罢工，现在连咖啡馆都用AI点单了。",
+          "usage": "💡 聊AI全球化时用\n💬 '建议欧盟下一步立法保障AI员工的下午茶时间'\n🔥 Agentic 欧盟AI",
+          "source": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
           "tags": [
-            "Cerebras",
-            "AI 助理",
-            "未来"
+            "Agentic",
+            "政策动向"
           ]
         },
         {
-          "title": "Cerebras CEO 反驳",
-          "summary": "Cerebras CEO 反驳 AI 末日论",
-          "detail": "Cerebras CEO Andrew Feldman 在 TechCrunch Disrupt 2026 上反驳 AI 末日论，表示 AI 并不会带来世界末日。他认为 AI 发展需要理性看待，AI 末日论不过是危言耸听。AI 的未来，理性讨论才是正道！",
-          "usage": "💡 聊 AI 末日论\n💬 Cerebras CEO 反驳 AI 末日论，理性讨论才是正道！\n🔥 Cerebras AI 末日论 未来",
-          "source": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+          "title": "阶跃终端宣言",
+          "summary": "物理版Agent来了",
+          "detail": "阶跃终端CEO在STEPX Neo发布会上放狠话：'我们要让AI Agent从虚拟走进现实'。网友神评论：建议下次开发能帮取快递的物理Agent，最好能代喝奶茶。",
+          "usage": "💡 聊AI硬件时抛梗\n💬 '建议开发骂醒赖床主人的Morning Call Agent'\n🔥 物理Agent 终端革命",
+          "source": "https://www.qbitai.com/2026/10/503244.html",
           "tags": [
-            "Cerebras",
-            "AI 末日论",
-            "未来"
+            "硬件创新",
+            "AI宣言"
           ]
         }
       ]
@@ -95,27 +89,25 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "OpenAI 被要求",
-          "summary": "OpenAI 被要求提供招聘记录",
-          "detail": "联邦法官裁定 OpenAI 必须提供涉及前苹果员工的招聘记录。苹果指控 OpenAI 挖角其员工，涉及商业机密。OpenAI 和苹果的商业竞争进入白热化，AI 巨头的战场不仅仅在技术！",
-          "usage": "💡 聊 AI 巨头竞争\n💬 OpenAI 被要求提供招聘记录，AI 巨头的战场不仅仅在技术！\n🔥 OpenAI 苹果 招聘记录",
-          "source": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+          "title": "OpenAI安全合作",
+          "summary": "96%效率提升",
+          "detail": "Sophos用OpenAI Daybreak把网络安全威胁调查时间缩短96%，现在分析恶意软件比泡面熟得还快。黑客们连夜修改工作计划：原定三天的攻击现在得三小时搞定。",
+          "usage": "💡 聊AI安全时甩数据\n💬 '建议黑客联盟给OpenAI发感谢信'\n🔥 网络安全 AI加速",
+          "source": "https://openai.com/index/sophos",
           "tags": [
-            "OpenAI",
-            "苹果",
-            "招聘记录"
+            "AI安全",
+            "效率革命"
           ]
         },
         {
-          "title": "Scimplify 融资",
-          "summary": "Scimplify 融资 2500 万美元",
-          "detail": "Scimplify 完成 2500 万美元融资，挑战中国在关键材料领域的垄断地位。Scimplify 的年收入增长三倍，达到 2 亿美元。AI 助力关键材料突破，全球供应链格局或将改变！",
-          "usage": "💡 聊 AI 供应链\n💬 Scimplify 融资 2500 万美元，挑战中国在关键材料领域的垄断地位！\n🔥 Scimplify 关键材料 融资",
-          "source": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+          "title": "Zenzap融资",
+          "summary": "44M对标WhatsApp",
+          "detail": "AI聊天应用Zenzap怒融4400万美元，星巴克、塔可钟都在用。这玩意儿号称要取代职场WhatsApp，特色是能自动把老板的'尽快'翻译成具体deadline。",
+          "usage": "💡 聊AI办公时抛梗\n💬 '建议开发'阴阳怪气翻译'插件'\n🔥 AI办公 聊天应用",
+          "source": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
           "tags": [
-            "Scimplify",
-            "关键材料",
-            "融资"
+            "AI办公",
+            "创业公司"
           ]
         }
       ]
@@ -125,27 +117,25 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "Asana 成本降低",
-          "summary": "Asana 成本降低 76 倍",
-          "detail": "Asana 使用 GPT-6 Astra 在浏览器测试中，成本降低 76 倍，速度提升 5 倍。这意味着企业可以更低成本、更高效率地部署 AI 应用。AI 工具的成本大幅下降，企业数字化转型加速！",
-          "usage": "💡 聊 AI 工具成本\n💬 Asana 使用 GPT-6 Astra，成本降低 76 倍，AI 工具白菜价！\n🔥 Asana GPT-6 成本",
-          "source": "https://openai.com/index/asana-browser-agent",
+          "title": "Amp工作流",
+          "summary": "AI代理不只会编程",
+          "detail": "Amp用GPT-6 Astra开发出能处理销售、客服等非编程任务的AI代理。打工人松了口气：原来AI不只抢码农饭碗，现在连销售话术都自动生成了。",
+          "usage": "💡 聊AI职业影响时用\n💬 '建议给AI销售设置KPI：每月被拉黑次数'\n🔥 多任务Agent 职业替代",
+          "source": "https://openai.com/index/amp-beyond-coding",
           "tags": [
-            "Asana",
-            "GPT-6",
-            "成本"
+            "工作流自动化",
+            "AI Agent"
           ]
         },
         {
-          "title": "Oracle 效率提升",
-          "summary": "Oracle 效率提升显著",
-          "detail": "Oracle 使用 ChatGPT 和 Codex，将数天的工作缩短至几分钟。AI 不仅提升了效率，还释放了人力资源。Oracle 的案例表明，AI 正在重塑企业的效率标准！",
-          "usage": "💡 聊 AI 效率提升\n💬 Oracle 使用 ChatGPT 和 Codex，数天工作缩短至几分钟！\n🔥 Oracle ChatGPT Codex",
-          "source": "https://openai.com/index/oracle",
+          "title": "SentinelOne",
+          "summary": "周级分析变小时级",
+          "detail": "SentinelOne用OpenAI Daybreak把恶意软件分析从几周压缩到几小时。安全工程师现在上班第一件事：给AI泡咖啡求它慢点干活。",
+          "usage": "💡 聊AI效率时甩数据\n💬 '建议安全公司改行卖安眠药'\n🔥 恶意软件分析 AI加速",
+          "source": "https://openai.com/index/sentinelone",
           "tags": [
-            "Oracle",
-            "ChatGPT",
-            "效率"
+            "网络安全",
+            "效率提升"
           ]
         }
       ]
@@ -155,27 +145,25 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "MemSilicon 芯片",
-          "summary": "MemSilicon 完成芯片流片",
-          "detail": "MemSilicon 完成国际首款高密度、大容量 1T4R 1Gb RRAM 芯片流片。这款芯片采用 CMOS 标准工艺，标志着 RRAM 技术路线加速研发。开源硬件的未来，芯片技术的突破是关键！",
-          "usage": "💡 聊开源硬件\n💬 MemSilicon 完成国际首款高密度、大容量 1T4R 1Gb RRAM 芯片流片！\n🔥 MemSilicon RRAM 芯片",
+          "title": "RRAM芯片突破",
+          "summary": "1T4R架构问世",
+          "detail": "MemSilicon流片全球首款1T4R架构1Gb RRAM芯片，CMOS工艺直接兼容。这下好了，AI不仅抢软件工程师饭碗，连硬件工程师的也要端走了。",
+          "usage": "💡 聊AI硬件时抛硬核梗\n💬 '建议芯片工程师转行当AI营养师'\n🔥 存算一体 芯片革命",
           "source": "https://www.qbitai.com/2026/10/503198.html",
           "tags": [
-            "MemSilicon",
-            "RRAM",
-            "芯片"
+            "芯片技术",
+            "硬件创新"
           ]
         },
         {
-          "title": "STEPX Neo 发布",
-          "summary": "STEPX Neo 正式发布",
-          "detail": "STEPX Neo 是全球首款大模型原生智能体手机，内置 AI 智能体，可以直接执行复杂任务。这款手机的发布标志着大模型正式落地终端设备，智能设备进入新纪元！",
-          "usage": "💡 聊智能设备\n💬 STEPX Neo 发布，全球首款大模型原生智能体手机！\n🔥 STEPX Neo 智能体 手机",
-          "source": "https://www.qbitai.com/2026/10/503201.html",
+          "title": "商汤智能体",
+          "summary": "调度效率暴涨80%",
+          "detail": "商汤大模型助力上海量子城市落地智能体集群，调度效率直接拉升80%。原来堵成狗的上海高架，现在AI调度得比德芙还丝滑。",
+          "usage": "💡 聊智慧城市时甩数据\n💬 '建议给AI交通局长发年终奖'\n🔥 城市大脑 调度优化",
+          "source": "https://www.qbitai.com/2026/10/503173.html",
           "tags": [
-            "STEPX",
-            "Neo",
-            "智能体"
+            "智慧城市",
+            "效率提升"
           ]
         }
       ]
@@ -185,27 +173,25 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "Sophos 效率提升",
-          "summary": "Sophos 效率提升 96%",
-          "detail": "Sophos 使用 OpenAI Daybreak，将网络威胁调查时间缩短 96%。这意味着企业可以更快地应对网络攻击，提升安全性。AI 在网络安全领域的突破，让黑客们的日子越来越难过了！",
-          "usage": "💡 聊网络安全\n💬 Sophos 使用 OpenAI Daybreak，网络威胁调查时间缩短 96%！\n🔥 Sophos OpenAI Daybreak",
-          "source": "https://openai.com/index/sophos",
+          "title": "Apate.ai",
+          "summary": "AI卧底抓诈骗",
+          "detail": "Apate.ai训练AI主动被骗收集诈骗情报，堪称AI界的无间道。骗子们现在遇到两种客户：真人和AI，后者还会给诈骗手法打分写改进建议。",
+          "usage": "💡 聊AI安全新思路时用\n💬 '建议AI卧底骗到钱后自动捐款给反诈中心'\n🔥 反欺诈 AI训练",
+          "source": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
           "tags": [
-            "Sophos",
-            "OpenAI",
-            "网络安全"
+            "AI安全",
+            "创新研究"
           ]
         },
         {
-          "title": "Industrial Next",
-          "summary": "Industrial Next 任务切换",
-          "detail": "Industrial Next 帮助工厂机器人在几分钟内切换任务，传统上需要数周时间。AI 加速了制造业的自动化进程，复杂任务的处理效率大幅提升。制造业的未来，AI 是关键驱动力！",
-          "usage": "💡 聊制造业自动化\n💬 Industrial Next 帮助工厂机器人在几分钟内切换任务！\n🔥 Industrial Next 机器人 自动化",
-          "source": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+          "title": "世界模型突破",
+          "summary": "全身全模态交互",
+          "detail": "国内最年轻AI教授带队攻关全身全模态世界模型，要给Ego补足交互信息。简单说就是让AI不只看得见，还能'感受'到虚拟世界的风和雨——元宇宙打工人要开始抱怨VR职业病了。",
+          "usage": "💡 聊多模态时抛梗\n💬 '建议开发AI工伤鉴定系统'\n🔥 世界模型 多模态",
+          "source": "https://www.qbitai.com/2026/10/503172.html",
           "tags": [
-            "Industrial Next",
-            "机器人",
-            "自动化"
+            "世界模型",
+            "多模态"
           ]
         }
       ]
@@ -215,48 +201,41 @@
       "icon": "📈",
       "items": [
         {
-          "title": "EU AI 采用",
-          "summary": "EU AI 采用率增长",
-          "detail": "OpenAI 最新分析显示，EU 企业和中小企业的 AI 采用率持续增长。AI 技术在欧洲的普及速度加快，企业数字化转型加速。欧洲的 AI 市场，未来潜力巨大！",
-          "usage": "💡 聊欧洲 AI 市场\n💬 EU 企业和中小企业的 AI 采用率持续增长，欧洲市场潜力巨大！\n🔥 EU AI 采用率 欧洲",
-          "source": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+          "title": "AI音乐泛滥",
+          "summary": "平台紧急打标",
+          "detail": "YouTube Music和Deezer宣布要给AI生成音乐打标签，因为平台上AI神曲已经多到人类歌手想集体退网。周杰伦连夜发声明：新歌《AI别来沾边》正在录制中。",
+          "usage": "💡 聊AI内容泛滥时用\n💬 '建议开发'AI歌手假唱检测系统'\n🔥 AI音乐 内容监管",
+          "source": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
           "tags": [
-            "EU",
-            "AI 采用",
-            "欧洲"
+            "AI生成内容",
+            "平台政策"
           ]
         },
         {
-          "title": "商汤大装置",
-          "summary": "商汤大装置效率提升",
-          "detail": "商汤大装置助力上海量子城市首批智能体落地，调度效率提升 80%。AI 在城市管理中的应用效率大幅提升，智能城市建设加速。AI 助力城市管理，智能城市的未来已来！",
-          "usage": "💡 聊智能城市\n💬 商汤大装置助力上海量子城市首批智能体落地，调度效率提升 80%！\n🔥 商汤 智能城市 效率",
-          "source": "https://www.qbitai.com/2026/10/503173.html",
+          "title": "社交危机预警",
+          "summary": "Gudea提前灭火",
+          "detail": "Gudea用AI预测社交媒体危机，在企业还没意识到要着火时就已经备好灭火器。PR从业者现在上班第一件事：检查AI给的'今日可能被骂清单'。",
+          "usage": "💡 聊AI商业应用时甩梗\n💬 '建议开发'老板发言危险指数'插件'\n🔥 舆情监测 AI预警",
+          "source": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
           "tags": [
-            "商汤",
-            "智能城市",
-            "效率"
+            "舆情分析",
+            "AI商业"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-14T15:20:11.535Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-10-15T01:56:40.995Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3578,
-    "completion_tokens": 3047,
-    "total_tokens": 6625,
-    "cost_usd": 0.0038567899999999997,
+    "prompt_tokens": 3632,
+    "completion_tokens": 2743,
+    "total_tokens": 6375,
+    "cost_usd": 0.00360351,
     "free": false,
-    "quality": {
-      "degraded": true,
-      "dropped_orphans": 0,
-      "published": 16
-    },
     "sources": {
       "per_source": {
         "qbitai": 8,

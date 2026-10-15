@@ -1,0 +1,209 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "黑客0.88美元破防银行",
+          "summary": "AI黑客四天攻陷七家韩国银行",
+          "detail": "韩国金融圈最近被AI黑客按在地上摩擦——有人用0.88美元（约合6块3毛钱）的成本，就让七家银行的系统集体裸奔。黑客用生成式AI伪造高管声纹，骗过语音验证系统，堪称《谍中谍》现实版。最骚的是攻击代码居然开源了，现在GitHub上全是‘银行一日游’教程。",
+          "usage": "💡 聊网络安全时甩出来\n💬 现在当黑客成本比奶茶还低，这届AI是懂性价比的\n🔥 AI黑客 银行安全 声纹诈骗",
+          "src_id": 6,
+          "tags": [
+            "网络安全",
+            "AI犯罪"
+          ],
+          "source": "https://www.huxiu.com/article/4897612.html?f=rss"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "summary": "国产AI大模型深夜宕机",
+          "detail": "昨晚程序员摸鱼神器DeepSeek突然崩了，热搜直接飙到第四。网友哀嚎‘刚给老板画的AI大饼还没保存’，官方连夜修服务器不忘玩梗：‘原来人类对AI的依赖已经到这种程度了？’建议下次宕机时自动生成《关于系统维护的十万个理由》PDF。",
+          "usage": "💡 吐槽甲方需求时用\n💬 原来AI也会996扛不住啊\n🔥 DeepSeek 宕机 大模型",
+          "source": "https://m.baidu.com/s?word=DeepSeek%E5%B4%A9%E4%BA%86&sa=fyb_news",
+          "tags": [
+            "AI",
+            "服务器"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "马斯克怒喷FDE",
+          "summary": "马斯克称全自动驾驶教育是骗局",
+          "detail": "马斯克在X上狂喷竞争对手的‘全自动驾驶教育’概念：‘教考驾照的驾校说自己能造火箭，你们信吗？’网友神补刀：‘毕竟有些人连火箭回收都搞定了’。",
+          "usage": "💡 聊自动驾驶时引用\n💬 马院士开炮：建议先教会AI看红绿灯\n🔥 马斯克 FDE 自动驾驶",
+          "src_id": 7,
+          "tags": [
+            "特斯拉",
+            "嘴炮"
+          ],
+          "source": "https://www.huxiu.com/article/4897615.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "宁德时代造城",
+          "summary": "宁德时代把家乡变成全球创新第三城",
+          "detail": "世界知识产权组织最新排名显示，宁德凭一家公司带飞整个城市，创新密度干到全球第三。建议改名‘宁德电池市’，公交站牌直接写‘正极站’‘负极站’。",
+          "usage": "💡 聊新能源时抛出来\n💬 当代点石成金术：引进一家宁德时代\n🔥 宁德时代 创新指数 新能源",
+          "src_id": 9,
+          "tags": [
+            "动力电池",
+            "区域经济"
+          ],
+          "source": "https://www.huxiu.com/article/4897611.html?f=rss"
+        },
+        {
+          "title": "字节砍掉AI短剧",
+          "summary": "字节跳动关停亏损AI短剧业务",
+          "detail": "去年还喊‘AI短剧是下一个TikTok’的字节，最近悄悄砍掉了相关团队。内部人士吐槽：‘用AI写出来的霸道总裁只会说404 not found’。",
+          "usage": "💡 聊互联网裁员时提\n💬 AI短剧死因：观众受不了总裁用代码表白\n🔥 字节跳动 AI短剧 裁员",
+          "src_id": 4,
+          "tags": [
+            "字节跳动",
+            "AI应用"
+          ],
+          "source": "https://www.huxiu.com/article/4897099.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "IT公司软裁员实录",
+          "summary": "5位HR自曝逼员工离职骚操作",
+          "detail": "成都某IT公司HR爆料：通过‘工位种盆栽’‘每日微笑打卡’等阴间操作，成功让35岁程序员自愿离职。建议下次直接给员工发《如何得体地滚蛋》PPT模板。",
+          "usage": "💡 吐槽公司文化时用\n💬 现在裁员都走治愈系路线了？\n🔥 软裁员 HR 中年危机",
+          "src_id": 1,
+          "tags": [
+            "人力资源管理",
+            "IT行业"
+          ],
+          "source": "https://www.huxiu.com/article/4897625.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "AI改写黑客教科书",
+          "summary": "生成式AI让传统防火墙形同虚设",
+          "detail": "安全专家发现AI能自动生成0day漏洞利用代码，现在黑客攻击就像叫外卖一样简单。建议网络安全课新增《如何讨好AI》必修单元。",
+          "usage": "💡 聊技术伦理时引用\n💬 以后防火墙得加个‘防AI生气’模块\n🔥 AI安全 黑客技术 漏洞",
+          "src_id": 6,
+          "tags": [
+            "网络安全",
+            "生成式AI"
+          ],
+          "source": "https://www.huxiu.com/article/4897612.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "FDE电视上市翻车",
+          "summary": "全屋智能电视被曝还是得用遥控器",
+          "detail": "某厂商吹嘘‘完全去遥控器化’的FDE电视，用户实测发现调音量还得找手机APP。网友辣评：‘建议改名叫薛定谔的智能’。",
+          "usage": "💡 吐槽智能家居时用\n💬 这电视智能到连关机都要找技术支援\n🔥 FDE 智能电视 翻车",
+          "src_id": 7,
+          "tags": [
+            "智能家居",
+            "电视"
+          ],
+          "source": "https://www.huxiu.com/article/4897615.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "清华AI创业内讧",
+          "summary": "创始团队为股权在朋友圈写小作文",
+          "detail": "某清华系AI公司被曝联合创始人互发万字檄文，把股权纠纷写成《甄嬛传》科技版。投资人锐评：‘建议直接训练成宫斗大模型’。",
+          "usage": "💡 聊创业陷阱时举例\n💬 现实版《创始人们》比电视剧精彩\n🔥 创业 股权纠纷 AI公司",
+          "src_id": 11,
+          "tags": [
+            "创业",
+            "股权"
+          ],
+          "source": "https://www.huxiu.com/article/4897608.html?f=rss"
+        },
+        {
+          "title": "短剧老板跑路",
+          "summary": "AI短剧公司老板卷款千万失踪",
+          "detail": "某短剧平台老板被曝带着小姨子和核心技术团队跑路，留下200多部未完结的《重生之AI战神》。群众表示：‘这剧情比他们拍的剧还狗血’。",
+          "usage": "💡 聊行业泡沫时提\n💬 建议申报2026年度最佳连续剧\n🔥 短剧 跑路 诈骗",
+          "src_id": 4,
+          "tags": [
+            "短剧",
+            "诈骗"
+          ],
+          "source": "https://www.huxiu.com/article/4897099.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "币圈风云",
+      "icon": "🪙",
+      "items": [
+        {
+          "title": "比特币闪崩",
+          "summary": "加密货币单日蒸发3000亿美元",
+          "detail": "昨晚币圈演出《大瀑布》，比特币带头跳水12%。韭菜们边抄底边唱：‘比特币的底在哪里？在马斯克的推特评论区里’。",
+          "usage": "💡 聊投资风险时举例\n💬 币圈过山车比环球影城刺激\n🔥 比特币 暴跌 马斯克",
+          "src_id": 23,
+          "tags": [
+            "比特币",
+            "暴跌"
+          ],
+          "source": "https://m.baidu.com/s?word=%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E8%B7%8C%E5%88%B0%E5%88%B9%E4%B8%8D%E4%BD%8F%E8%BD%A6&sa=fyb_news"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-15T01:55:19.100Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 5576,
+    "completion_tokens": 2470,
+    "total_tokens": 8046,
+    "cost_usd": 0.00398262,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 5,
+      "published": 11
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 12,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 24
+    }
+  }
+}

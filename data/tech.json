@@ -5,30 +5,27 @@
       "icon": "📰",
       "items": [
         {
-          "title": "Arm高通2美元大战",
-          "summary": "Arm被判赔高通2美元",
-          "detail": "四年授权纠纷，Arm被判赔高通2美元，但数十亿美元的官司还没完。这大概是史上最便宜的专利战了，连瓶装水都买不起。",
-          "usage": "💡 聊专利纠纷的低成本\n💬 Arm和高通的专利战，最终判决赔偿2美元，真是打了个寂寞\n🔥 Arm 高通 专利战",
-          "src_id": 8,
+          "title": "黑客0.88美元破防银行",
+          "summary": "AI黑客四天攻陷七家韩国银行",
+          "detail": "韩国金融圈最近被AI黑客按在地上摩擦——有人用0.88美元（约合6块3毛钱）的成本，就让七家银行的系统集体裸奔。黑客用生成式AI伪造高管声纹，骗过语音验证系统，堪称《谍中谍》现实版。最骚的是攻击代码居然开源了，现在GitHub上全是‘银行一日游’教程。",
+          "usage": "💡 聊网络安全时甩出来\n💬 现在当黑客成本比奶茶还低，这届AI是懂性价比的\n🔥 AI黑客 银行安全 声纹诈骗",
+          "src_id": 6,
           "tags": [
-            "专利战",
-            "Arm",
-            "高通"
+            "网络安全",
+            "AI犯罪"
           ],
-          "source": "https://www.huxiu.com/article/4897584.html?f=rss"
+          "source": "https://www.huxiu.com/article/4897612.html?f=rss"
         },
         {
-          "title": "SpaceX限速乌克兰",
-          "summary": "SpaceX对乌军用星链限速",
-          "detail": "SpaceX对乌克兰军方使用的星链终端进行了限速，理由是不希望技术被用于军事目的。马斯克这是要当和平使者？",
-          "usage": "💡 聊科技与军事的交织\n💬 SpaceX给乌军星链限速，马斯克这是要当和平使者？\n🔥 SpaceX 星链 乌克兰",
-          "src_id": 14,
+          "title": "DeepSeek崩了",
+          "summary": "国产AI大模型深夜宕机",
+          "detail": "昨晚程序员摸鱼神器DeepSeek突然崩了，热搜直接飙到第四。网友哀嚎‘刚给老板画的AI大饼还没保存’，官方连夜修服务器不忘玩梗：‘原来人类对AI的依赖已经到这种程度了？’建议下次宕机时自动生成《关于系统维护的十万个理由》PDF。",
+          "usage": "💡 吐槽甲方需求时用\n💬 原来AI也会996扛不住啊\n🔥 DeepSeek 宕机 大模型",
+          "source": "https://m.baidu.com/s?word=DeepSeek%E5%B4%A9%E4%BA%86&sa=fyb_news",
           "tags": [
-            "SpaceX",
-            "星链",
-            "乌克兰"
-          ],
-          "source": "https://www.toutiao.com/trending/7696516735377100351/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227696516735377100351%22%2C%22hot_board_impr_id%22%3A%2220261014225529DF728976562A706A5BA2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22SpaceX%E4%B8%BA%E4%BD%95%E5%AF%B9%E4%B9%8C%E5%86%9B%E7%94%A8%E6%98%9F%E9%93%BE%E7%BB%88%E7%AB%AF%E9%99%90%E9%80%9F%22%7D&rank=&style_id=40132&topic_id=7696516735377100351"
+            "AI",
+            "服务器"
+          ]
         }
       ]
     },
@@ -37,17 +34,16 @@
       "icon": "🎤",
       "items": [
         {
-          "title": "马斯克限速门",
-          "summary": "马斯克限制乌军用星链速度",
-          "detail": "马斯克决定限制乌克兰军方使用的星链终端速度，理由是避免技术被用于军事冲突。这是科技大佬的和平宣言还是商业考量？",
-          "usage": "💡 聊大佬的商业与道德\n💬 马斯克限制乌军星链速度，这是和平宣言还是商业考量？\n🔥 马斯克 星链 乌克兰",
-          "src_id": 14,
+          "title": "马斯克怒喷FDE",
+          "summary": "马斯克称全自动驾驶教育是骗局",
+          "detail": "马斯克在X上狂喷竞争对手的‘全自动驾驶教育’概念：‘教考驾照的驾校说自己能造火箭，你们信吗？’网友神补刀：‘毕竟有些人连火箭回收都搞定了’。",
+          "usage": "💡 聊自动驾驶时引用\n💬 马院士开炮：建议先教会AI看红绿灯\n🔥 马斯克 FDE 自动驾驶",
+          "src_id": 7,
           "tags": [
-            "马斯克",
-            "星链",
-            "乌克兰"
+            "特斯拉",
+            "嘴炮"
           ],
-          "source": "https://www.toutiao.com/trending/7696516735377100351/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227696516735377100351%22%2C%22hot_board_impr_id%22%3A%2220261014225529DF728976562A706A5BA2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22SpaceX%E4%B8%BA%E4%BD%95%E5%AF%B9%E4%B9%8C%E5%86%9B%E7%94%A8%E6%98%9F%E9%93%BE%E7%BB%88%E7%AB%AF%E9%99%90%E9%80%9F%22%7D&rank=&style_id=40132&topic_id=7696516735377100351"
+          "source": "https://www.huxiu.com/article/4897615.html?f=rss"
         }
       ]
     },
@@ -56,30 +52,46 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "Visa中国获批",
-          "summary": "Visa在中国获批银行卡清算",
-          "detail": "Visa终于在中国获批银行卡清算机构资格，这是外卡组织在中国市场的一大突破。不过想在中国盈利，路还长着呢。",
-          "usage": "💡 聊外卡组织的中国市场\n💬 Visa在中国获批清算资格，但想赚钱还早着呢\n🔥 Visa 银行卡清算 中国",
-          "src_id": 4,
+          "title": "宁德时代造城",
+          "summary": "宁德时代把家乡变成全球创新第三城",
+          "detail": "世界知识产权组织最新排名显示，宁德凭一家公司带飞整个城市，创新密度干到全球第三。建议改名‘宁德电池市’，公交站牌直接写‘正极站’‘负极站’。",
+          "usage": "💡 聊新能源时抛出来\n💬 当代点石成金术：引进一家宁德时代\n🔥 宁德时代 创新指数 新能源",
+          "src_id": 9,
           "tags": [
-            "Visa",
-            "银行卡清算",
-            "中国"
+            "动力电池",
+            "区域经济"
           ],
-          "source": "https://www.huxiu.com/article/4897590.html?f=rss"
+          "source": "https://www.huxiu.com/article/4897611.html?f=rss"
         },
         {
-          "title": "三星召回风波",
-          "summary": "三星Note7召回后续",
-          "detail": "三星Note7因电池问题召回多年后，仍有消费者在维权。出了问题的品牌，凭什么获得第二次信任？",
-          "usage": "💡 聊品牌危机与信任\n💬 三星Note7召回多年后还在维权，品牌信任重建真难\n🔥 三星 Note7 召回",
-          "src_id": 5,
+          "title": "字节砍掉AI短剧",
+          "summary": "字节跳动关停亏损AI短剧业务",
+          "detail": "去年还喊‘AI短剧是下一个TikTok’的字节，最近悄悄砍掉了相关团队。内部人士吐槽：‘用AI写出来的霸道总裁只会说404 not found’。",
+          "usage": "💡 聊互联网裁员时提\n💬 AI短剧死因：观众受不了总裁用代码表白\n🔥 字节跳动 AI短剧 裁员",
+          "src_id": 4,
           "tags": [
-            "三星",
-            "Note7",
-            "召回"
+            "字节跳动",
+            "AI应用"
           ],
-          "source": "https://www.huxiu.com/article/4897580.html?f=rss"
+          "source": "https://www.huxiu.com/article/4897099.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "IT公司软裁员实录",
+          "summary": "5位HR自曝逼员工离职骚操作",
+          "detail": "成都某IT公司HR爆料：通过‘工位种盆栽’‘每日微笑打卡’等阴间操作，成功让35岁程序员自愿离职。建议下次直接给员工发《如何得体地滚蛋》PPT模板。",
+          "usage": "💡 吐槽公司文化时用\n💬 现在裁员都走治愈系路线了？\n🔥 软裁员 HR 中年危机",
+          "src_id": 1,
+          "tags": [
+            "人力资源管理",
+            "IT行业"
+          ],
+          "source": "https://www.huxiu.com/article/4897625.html?f=rss"
         }
       ]
     },
@@ -88,30 +100,16 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "蓝箭一箭十星",
-          "summary": "蓝箭航天一箭十星",
-          "detail": "蓝箭航天在29天内完成两次'一箭十星'发射，中国商业航天离'班次化'又近了一步。",
-          "usage": "💡 聊中国商业航天的进展\n💬 蓝箭航天29天两次一箭十星，商业航天要起飞了\n🔥 蓝箭航天 一箭十星 商业航天",
-          "src_id": 7,
+          "title": "AI改写黑客教科书",
+          "summary": "生成式AI让传统防火墙形同虚设",
+          "detail": "安全专家发现AI能自动生成0day漏洞利用代码，现在黑客攻击就像叫外卖一样简单。建议网络安全课新增《如何讨好AI》必修单元。",
+          "usage": "💡 聊技术伦理时引用\n💬 以后防火墙得加个‘防AI生气’模块\n🔥 AI安全 黑客技术 漏洞",
+          "src_id": 6,
           "tags": [
-            "蓝箭航天",
-            "一箭十星",
-            "商业航天"
+            "网络安全",
+            "生成式AI"
           ],
-          "source": "https://www.huxiu.com/article/4897585.html?f=rss"
-        },
-        {
-          "title": "深海淘金热",
-          "summary": "中日美抢着海底挖矿",
-          "detail": "中日美三国近期纷纷开展海底矿产勘探，深海版'淘金热'正式开局。五千米海底的矿藏，比陆地还丰富。",
-          "usage": "💡 聊深海资源的争夺\n💬 中日美抢着去海底挖矿，这是要开启深海淘金热啊\n🔥 深海挖矿 中日美 淘金热",
-          "src_id": 3,
-          "tags": [
-            "深海挖矿",
-            "中日美",
-            "淘金热"
-          ],
-          "source": "https://www.huxiu.com/article/4897591.html?f=rss"
+          "source": "https://www.huxiu.com/article/4897612.html?f=rss"
         }
       ]
     },
@@ -120,30 +118,16 @@
       "icon": "📱",
       "items": [
         {
-          "title": "双11不玩套路",
-          "summary": "今年双11告别算数题",
-          "detail": "今年双11各大电商宣布告别复杂的促销套路，直接降价。终于不用再做数学题了！",
-          "usage": "💡 聊电商促销的变化\n💬 今年双11不玩套路，直接降价，终于不用做数学题了\n🔥 双11 电商 促销",
-          "src_id": 13,
+          "title": "FDE电视上市翻车",
+          "summary": "全屋智能电视被曝还是得用遥控器",
+          "detail": "某厂商吹嘘‘完全去遥控器化’的FDE电视，用户实测发现调音量还得找手机APP。网友辣评：‘建议改名叫薛定谔的智能’。",
+          "usage": "💡 吐槽智能家居时用\n💬 这电视智能到连关机都要找技术支援\n🔥 FDE 智能电视 翻车",
+          "src_id": 7,
           "tags": [
-            "双11",
-            "电商",
-            "促销"
+            "智能家居",
+            "电视"
           ],
-          "source": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E5%8F%8C11%E5%91%8A%E5%88%AB%E7%AE%97%E6%95%B0%E9%A2%98&sa=fyb_news"
-        },
-        {
-          "title": "尊界刹车风波",
-          "summary": "尊界刹车踏板问题",
-          "detail": "尊界汽车因刹车踏板问题陷入风波，豪华品牌的信誉危机再次引发关注。安全无小事啊。",
-          "usage": "💡 聊汽车安全问题\n💬 尊界刹车踏板问题，豪华车的信誉危机又来了\n🔥 尊界 刹车踏板 安全",
-          "src_id": 10,
-          "tags": [
-            "尊界",
-            "刹车踏板",
-            "安全"
-          ],
-          "source": "https://www.huxiu.com/article/4897578.html?f=rss"
+          "source": "https://www.huxiu.com/article/4897615.html?f=rss"
         }
       ]
     },
@@ -152,44 +136,60 @@
       "icon": "🎬",
       "items": [
         {
-          "title": "锂矿股过山车",
-          "summary": "碳酸锂价格暴跌",
-          "detail": "碳酸锂价格从年初翻倍到暴跌，锂矿股经历了一场过山车行情。这市场比坐过山车还刺激。",
-          "usage": "💡 聊原材料市场的波动\n💬 碳酸锂价格暴涨暴跌，锂矿股这过山车坐得爽吗\n🔥 碳酸锂 锂矿股 过山车",
-          "src_id": 9,
+          "title": "清华AI创业内讧",
+          "summary": "创始团队为股权在朋友圈写小作文",
+          "detail": "某清华系AI公司被曝联合创始人互发万字檄文，把股权纠纷写成《甄嬛传》科技版。投资人锐评：‘建议直接训练成宫斗大模型’。",
+          "usage": "💡 聊创业陷阱时举例\n💬 现实版《创始人们》比电视剧精彩\n🔥 创业 股权纠纷 AI公司",
+          "src_id": 11,
           "tags": [
-            "碳酸锂",
-            "锂矿股",
-            "过山车"
+            "创业",
+            "股权"
           ],
-          "source": "https://www.huxiu.com/article/4897583.html?f=rss"
+          "source": "https://www.huxiu.com/article/4897608.html?f=rss"
         },
         {
-          "title": "雄安育人计划",
-          "summary": "雄安建城先育人",
-          "detail": "雄安新区提出'建城先育人'的理念，试图通过教育留住人才。新城的发展，人才是关键啊。",
-          "usage": "💡 聊城市发展与人才\n💬 雄安提出建城先育人，这是要把教育放在首位啊\n🔥 雄安 建城 育人",
-          "src_id": 6,
+          "title": "短剧老板跑路",
+          "summary": "AI短剧公司老板卷款千万失踪",
+          "detail": "某短剧平台老板被曝带着小姨子和核心技术团队跑路，留下200多部未完结的《重生之AI战神》。群众表示：‘这剧情比他们拍的剧还狗血’。",
+          "usage": "💡 聊行业泡沫时提\n💬 建议申报2026年度最佳连续剧\n🔥 短剧 跑路 诈骗",
+          "src_id": 4,
           "tags": [
-            "雄安",
-            "建城",
-            "育人"
+            "短剧",
+            "诈骗"
           ],
-          "source": "https://www.huxiu.com/article/4897586.html?f=rss"
+          "source": "https://www.huxiu.com/article/4897099.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "币圈风云",
+      "icon": "🪙",
+      "items": [
+        {
+          "title": "比特币闪崩",
+          "summary": "加密货币单日蒸发3000亿美元",
+          "detail": "昨晚币圈演出《大瀑布》，比特币带头跳水12%。韭菜们边抄底边唱：‘比特币的底在哪里？在马斯克的推特评论区里’。",
+          "usage": "💡 聊投资风险时举例\n💬 币圈过山车比环球影城刺激\n🔥 比特币 暴跌 马斯克",
+          "src_id": 23,
+          "tags": [
+            "比特币",
+            "暴跌"
+          ],
+          "source": "https://m.baidu.com/s?word=%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E8%B7%8C%E5%88%B0%E5%88%B9%E4%B8%8D%E4%BD%8F%E8%BD%A6&sa=fyb_news"
         }
       ]
     }
   ],
-  "generated_at": "2026-10-14T15:04:27.686Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-10-15T01:55:19.100Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 5500,
-    "completion_tokens": 2225,
-    "total_tokens": 7725,
-    "cost_usd": 0.0037402499999999997,
+    "prompt_tokens": 5576,
+    "completion_tokens": 2470,
+    "total_tokens": 8046,
+    "cost_usd": 0.00398262,
     "free": false,
     "quality": {
       "degraded": true,
@@ -203,7 +203,7 @@
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 22
+      "total": 24
     }
   }
 }

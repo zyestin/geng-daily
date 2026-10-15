@@ -1,184 +1,199 @@
 {
   "categories": [
     {
-      "name": "时事热点",
-      "icon": "📰",
+      "name": "前端框架",
+      "icon": "🚀",
       "items": [
         {
-          "title": "AI数字人陪聊",
-          "summary": "AI虚拟陪伴社交成为新趋势",
-          "detail": "随着大模型情感计算的突破，2026年个性化数字人陪聊应用爆发，很多人开始用AI来缓解孤独或练习社交，引发了关于‘真实情感’与‘算法陪伴’的社会大讨论。",
-          "usage": "跟丈母娘聊时可以这样说：‘妈，您看现在科技太快了，都出那种能陪老人聊天、提醒吃药的AI数字人了，以后咱们得教教它怎么说您爱听的话，省得它太死板。’",
-          "source": "",
+          "title": "OpenCode 2.0",
+          "summary": "下一代开源编程环境",
+          "detail": "OpenCode 2.0 发布，号称是面向未来的编程环境，支持多语言实时协作、AI 辅助编程，界面完全可定制。GitHub 上讨论热度很高，很多开发者在争论这是否能取代 VSCode。",
+          "usage": "你听说了 OpenCode 2.0 吗？说是要革 VSCode 的命，不过感觉还是得看看插件生态能不能跟上。",
+          "source": "https://anoma.ly/notes/opencode-2-0/",
           "tags": [
-            "人工智能",
-            "社会趋势"
+            "前端工具",
+            "编程环境"
           ]
         },
         {
-          "title": "低空经济商业化",
-          "summary": "飞行汽车开始在特定城市试点",
-          "detail": "多地低空经济政策落地，电动垂直起降飞行器（eVTOL）开始在部分城市进行短途接驳试点，人们讨论从‘堵车’变成‘飞车’的真实可行性。",
-          "usage": "跟孩子开玩笑说：‘宝贝，以后爸爸接你放学可能不用开车了，直接开个飞行小车从天上把你接走，你觉得这样会不会比现在快？’",
+          "title": "Svelte 5 预览",
+          "summary": "Svelte 5 跑分碾压 React",
+          "detail": "Svelte 5 预览版发布，跑分显示其性能比 React 快 2-3 倍。但社区吐槽说这框架总在重写，学习成本高。",
+          "usage": "Svelte 5 又来了，这次跑分直接碾压 React，问题是感觉每次大版本都在重写，这学习曲线是要上天啊。",
           "source": "",
           "tags": [
-            "低空经济",
-            "黑科技"
+            "前端框架",
+            "性能优化"
           ]
         }
       ]
     },
     {
-      "name": "亲子时光",
-      "icon": "👨‍👧",
+      "name": "React Native",
+      "icon": "📱",
       "items": [
         {
-          "title": "乐高编程挑战赛",
-          "summary": "用积木和基础编程逻辑做游戏",
-          "detail": "7岁是逻辑启蒙黄金期。通过乐高教育系列或简单的图形化编程（如Scratch），让孩子把搭好的模型‘动’起来，培养计算思维。",
-          "usage": "对孩子说：‘咱们今天挑战一下，你设计一个机器人，爸爸用代码让它帮你拿遥控器，看谁想的点子更酷！’",
-          "source": "https://education.lego.com",
+          "title": "Xcode 替代方案",
+          "summary": "用 Linux 开发 iOS 应用",
+          "detail": "xtool 项目火了，号称可以完全替代 Xcode，在 Linux/Windows 上开发 iOS 应用。不过评论区都在说 SwiftPM 的坑比想象的多。",
+          "usage": "看到那个 xtool 了吗？说是在 Linux 上就能开发 iOS 应用了，不过我看评论区都在吐槽 SwiftPM 的配置能让人掉头发。",
+          "source": "https://github.com/xtool-org/xtool",
           "tags": [
-            "STEM教育",
-            "编程启蒙"
+            "跨平台",
+            "移动开发"
           ]
         },
         {
-          "title": "家庭自然观察日记",
-          "summary": "记录家附近植物的季节变化",
-          "detail": "利用秋季落叶、果实成熟的契机，带孩子在小区里收集不同形状的叶子，贴在笔记本上并标注日期，培养观察力。",
-          "usage": "对孩子说：‘宝贝，咱们来当一次小科学家，看看这个星期小区里的枫叶是怎么变红的，咱们把它画下来做成一本秘密观察书吧！’",
+          "title": "RN 性能新突破",
+          "summary": "Fabric 架构实测提升 40%",
+          "detail": "React Native 新架构实测显示性能提升 40%，但升级过程复杂，很多老项目还在观望。",
+          "usage": "你们项目升级 Fabric 架构了吗？听说性能提升很大，但是我看迁移文档都几十页，头疼。",
           "source": "",
           "tags": [
-            "自然教育",
-            "亲子陪伴"
+            "性能优化",
+            "React Native"
           ]
         }
       ]
     },
     {
-      "name": "热门影视",
-      "icon": "🎬",
+      "name": "AI编程",
+      "icon": "🤖",
       "items": [
         {
-          "title": "新版《西游记》动画",
-          "summary": "高画质重制版动画引发全年龄热议",
-          "detail": "近期一部采用全新渲染技术的西游题材动画大火，将传统神话与现代视觉艺术结合，既符合孩子审美，又能让长辈产生共鸣。",
-          "usage": "全家人在一起时提议：‘听说最近那个新版西游动画特效特别绝，咱们今晚一起看一集？我想看看现在的孙悟空是不是比以前更帅了。’",
-          "source": "",
+          "title": "AI 渗透测试",
+          "summary": "全自动 AI 黑客工具",
+          "detail": "pentagi 项目火了，它是全自动的 AI 渗透测试系统，能自主发现漏洞。安全专家警告这类工具可能被滥用。",
+          "usage": "那个 pentagi 项目看到了吗？纯自动化的 AI 黑客工具，感觉以后安全工程师要失业了。",
+          "source": "https://github.com/vxcontrol/pentagi",
           "tags": [
-            "国漫",
-            "合家欢"
+            "AI安全",
+            "自动化"
           ]
         },
         {
-          "title": "宇宙探索纪录片",
-          "summary": "关于火星移民的最新实拍纪录片",
-          "detail": "一部关于人类深空探测的纪录片在流媒体平台热播，用极高质量的CG还原了未来空间站的生活，激发人们对宇宙的好奇心。",
-          "usage": "跟孩子聊：‘你看这个纪录片里的人在火星上种土豆，你觉得以后我们能去火星度假吗？你想带什么玩具去？’",
-          "source": "",
+          "title": "AI 审计工具",
+          "summary": "AI 审计 AI 自己",
+          "detail": "iFixAi 项目提供 AI 代理审计服务，有趣的是可以用 AI 来审计其他 AI 系统的行为。评论区在讨论这是不是左手监督右手。",
+          "usage": "这个 iFixAi 有点意思，用 AI 来审计 AI，不过感觉就像让狐狸看守鸡窝，能靠谱吗？",
+          "source": "https://github.com/ifixai-ai/iFixAi",
           "tags": [
-            "科普",
-            "天文"
+            "AI安全",
+            "可信AI"
           ]
         }
       ]
     },
     {
-      "name": "生活妙招",
-      "icon": "💡",
+      "name": "TS & JS",
+      "icon": "📘",
       "items": [
         {
-          "title": "智能家居‘场景化’",
-          "summary": "用自动化脚本简化家庭琐事",
-          "detail": "利用现有的智能家居联动，设置‘离家模式’（一键关灯关电器）或‘孩子学习模式’（自动调节灯光亮度并屏蔽干扰设备）。",
-          "usage": "给丈母娘展示：‘妈，我给家里设置了个新功能，您只要说一声“我要休息”，灯光会自动变暗，窗帘也关上了，特别方便。’",
-          "source": "",
+          "title": "Go 连接复用",
+          "summary": "Go 1.27 HTTP 性能提升",
+          "detail": "Go 1.27 改进了 HTTP/1 连接复用，性能提升显著。JS 社区有人在讨论 Node 什么时候跟进类似优化。",
+          "usage": "Go 1.27 的 HTTP 连接复用改进挺猛的，Node 什么时候能抄下作业啊？",
+          "source": "https://go.dev/blog/http-connection-reuse",
           "tags": [
-            "智能家居",
-            "效率生活"
+            "性能优化",
+            "运行时"
           ]
         },
         {
-          "title": "秋季食材‘冷冻保鲜’",
-          "summary": "延长秋季时令蔬菜保鲜期的技巧",
-          "detail": "分享通过真空密封或特定温度分装，让秋季的新鲜菌类、根茎类蔬菜在冬季依然保持口感的方法。",
-          "usage": "和丈母娘聊家常：‘妈，我看到个方法说秋天的这些新鲜菌类用真空包好冻起来，冬天炒菜味道还一样，咱们明天试试？’",
+          "title": "Bun 1.1 发布",
+          "summary": "Node 替代方案新版本",
+          "detail": "Bun 1.1 发布，号称启动速度比 Node 快 3 倍，但社区反馈兼容性问题还是不少。",
+          "usage": "Bun 1.1 出了，启动是真快，不过我上次用的时候 fs 模块的 API 和 Node 还不完全兼容，有点蛋疼。",
           "source": "",
           "tags": [
-            "厨房技巧",
-            "省钱妙招"
+            "JavaScript",
+            "运行时"
           ]
         }
       ]
     },
     {
-      "name": "乒乓球",
-      "icon": "🏓",
+      "name": "开源热门",
+      "icon": "🌟",
       "items": [
         {
-          "title": "WTT新赛制讨论",
-          "summary": "WTT赛事快节奏赛制带来的观赛变化",
-          "detail": "WTT（世界乒乓球职业大联盟）近期调整赛制，增加了更多快节奏的对抗环节，使得比赛更具观赏性，但也对运动员的心理素质提出了更高要求。",
-          "usage": "跟丈母娘切入：‘妈，您看最近WTT的比赛节奏快多了，感觉现在的球员得在极短时间内进入状态，您觉得这种赛制对咱们国乒是有利还是不利？’",
-          "source": "https://worldtabletennis.com",
+          "title": "万能逆向工程",
+          "summary": "逆向一切的工具",
+          "detail": "rea 项目爆火，它使用 AI 代理来进行逆向工程，从 App 行为到二进制都能分析。开发者担心会被用来破解软件。",
+          "usage": "rea 这个项目太恐怖了，啥都能逆向，以后软件保护还怎么做？不过用来学习别人的代码倒是很方便。",
+          "source": "https://github.com/morluto/rea",
           "tags": [
-            "WTT",
-            "专业赛事"
+            "逆向工程",
+            "AI工具"
           ]
         },
         {
-          "title": "反手快撕技术热议",
-          "summary": "现代乒乓球中反手快撕的普及",
-          "detail": "现在的顶级球员越来越倾向于在反手位使用‘快撕’而非传统的‘快拨’，这种技术增加了球的旋转和速度，改变了比赛的相持节奏。",
-          "usage": "聊球技时说：‘最近看球发现大家反手快撕用得特别多，感觉现在乒乓球越来越像在打快攻战了，您觉得这种打法是不是比以前更激进？’",
-          "source": "",
+          "title": "Rust 再登顶",
+          "summary": "GitHub 周榜第一",
+          "detail": "Rust 再次登顶 GitHub 周榜，社区讨论说现在学 Rust 性价比最高，因为它正在蚕食 C++ 和 Go 的地盘。",
+          "usage": "Rust 又霸榜了，你说现在转 Rust 还来得及吗？感觉都快成新时代的 C++ 了。",
+          "source": "https://github.com/rust-lang/rust",
           "tags": [
-            "乒乓球技术",
-            "国乒"
+            "编程语言",
+            "趋势"
           ]
         }
       ]
     },
     {
-      "name": "健康养生",
-      "icon": "🥗",
+      "name": "开发者梗",
+      "icon": "😄",
       "items": [
         {
-          "title": "秋季‘润肺’食疗",
-          "summary": "针对干燥天气的饮食调理",
-          "detail": "10月中旬天气干燥，重点推荐银耳、百合、梨等润肺食材，结合现代营养学建议，避免过度补益，强调水分补充。",
-          "usage": "关心丈母娘：‘妈，最近天气太干了，我给您买了些新鲜百合，咱们明天炖个汤润润肺，对呼吸道好。’",
-          "source": "",
+          "title": "牙医程序员梗",
+          "summary": "HN 热帖：牙医靠谱吗",
+          "detail": "Hacker News 热帖《牙医知道他们在做什么吗》引发热议，程序员们纷纷分享看牙的血泪史，有人吐槽这就像看后端代码没文档。",
+          "usage": "看到那个牙医的帖子了吗？说去看牙就像review没文档的祖传代码，完全不知道对方在干啥。上次补牙花了我两千，现在想想还不如买台云服务器。",
+          "source": "https://mapwriting.substack.com/p/dentists",
           "tags": [
-            "季节养生",
-            "食疗"
+            "程序员幽默",
+            "生活"
           ]
         },
         {
-          "title": "‘碎片化’拉伸法",
-          "summary": "适合程序员和久坐族的办公室拉伸",
-          "detail": "针对长期面对屏幕导致的颈椎、腰椎压力，推广‘3-5分钟碎片化拉伸’，通过几个简单的动作缓解肌肉僵硬。",
-          "usage": "在家里演示给家人看：‘我最近学了个拉伸法，每次写代码累了做一下，腰不那么酸了，你们平时坐久了也可以试试。’",
-          "source": "",
+          "title": "AI综艺爆火",
+          "summary": "AI重制《变形计》",
+          "detail": "量子位报道，AI 重制版《变形计》综艺爆火，完全由 AI 生成的 MrBeast 风格视频获百万播放。开发者讨论 AI 内容生产的伦理问题。",
+          "usage": "AI 现在都能做综艺了，那个《变形计》AI 版你看了吗？完全由 AI 生成的 MrBeast 风格视频，效果居然还不错，看来我们离失业又近了一步。",
+          "source": "https://www.qbitai.com/2026/10/503211.html",
           "tags": [
-            "久坐缓解",
-            "健康习惯"
+            "AI应用",
+            "娱乐"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-14T14:36:56.631Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-10-15T01:46:38.095Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
-    "model": "google/gemma-4-31b-it:free",
-    "actual_model": "google/gemma-4-31b-it:free",
-    "prompt_tokens": 854,
-    "completion_tokens": 2012,
-    "total_tokens": 2866,
-    "cost_usd": 0,
-    "free": true
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2044,
+    "completion_tokens": 1752,
+    "total_tokens": 3796,
+    "cost_usd": 0.00221336,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
   }
 }

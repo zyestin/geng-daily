@@ -1,0 +1,199 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "OpenCode 2.0",
+          "summary": "下一代开源编程环境",
+          "detail": "OpenCode 2.0 发布，号称是面向未来的编程环境，支持多语言实时协作、AI 辅助编程，界面完全可定制。GitHub 上讨论热度很高，很多开发者在争论这是否能取代 VSCode。",
+          "usage": "你听说了 OpenCode 2.0 吗？说是要革 VSCode 的命，不过感觉还是得看看插件生态能不能跟上。",
+          "source": "https://anoma.ly/notes/opencode-2-0/",
+          "tags": [
+            "前端工具",
+            "编程环境"
+          ]
+        },
+        {
+          "title": "Svelte 5 预览",
+          "summary": "Svelte 5 跑分碾压 React",
+          "detail": "Svelte 5 预览版发布，跑分显示其性能比 React 快 2-3 倍。但社区吐槽说这框架总在重写，学习成本高。",
+          "usage": "Svelte 5 又来了，这次跑分直接碾压 React，问题是感觉每次大版本都在重写，这学习曲线是要上天啊。",
+          "source": "",
+          "tags": [
+            "前端框架",
+            "性能优化"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "Xcode 替代方案",
+          "summary": "用 Linux 开发 iOS 应用",
+          "detail": "xtool 项目火了，号称可以完全替代 Xcode，在 Linux/Windows 上开发 iOS 应用。不过评论区都在说 SwiftPM 的坑比想象的多。",
+          "usage": "看到那个 xtool 了吗？说是在 Linux 上就能开发 iOS 应用了，不过我看评论区都在吐槽 SwiftPM 的配置能让人掉头发。",
+          "source": "https://github.com/xtool-org/xtool",
+          "tags": [
+            "跨平台",
+            "移动开发"
+          ]
+        },
+        {
+          "title": "RN 性能新突破",
+          "summary": "Fabric 架构实测提升 40%",
+          "detail": "React Native 新架构实测显示性能提升 40%，但升级过程复杂，很多老项目还在观望。",
+          "usage": "你们项目升级 Fabric 架构了吗？听说性能提升很大，但是我看迁移文档都几十页，头疼。",
+          "source": "",
+          "tags": [
+            "性能优化",
+            "React Native"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "AI 渗透测试",
+          "summary": "全自动 AI 黑客工具",
+          "detail": "pentagi 项目火了，它是全自动的 AI 渗透测试系统，能自主发现漏洞。安全专家警告这类工具可能被滥用。",
+          "usage": "那个 pentagi 项目看到了吗？纯自动化的 AI 黑客工具，感觉以后安全工程师要失业了。",
+          "source": "https://github.com/vxcontrol/pentagi",
+          "tags": [
+            "AI安全",
+            "自动化"
+          ]
+        },
+        {
+          "title": "AI 审计工具",
+          "summary": "AI 审计 AI 自己",
+          "detail": "iFixAi 项目提供 AI 代理审计服务，有趣的是可以用 AI 来审计其他 AI 系统的行为。评论区在讨论这是不是左手监督右手。",
+          "usage": "这个 iFixAi 有点意思，用 AI 来审计 AI，不过感觉就像让狐狸看守鸡窝，能靠谱吗？",
+          "source": "https://github.com/ifixai-ai/iFixAi",
+          "tags": [
+            "AI安全",
+            "可信AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "Go 连接复用",
+          "summary": "Go 1.27 HTTP 性能提升",
+          "detail": "Go 1.27 改进了 HTTP/1 连接复用，性能提升显著。JS 社区有人在讨论 Node 什么时候跟进类似优化。",
+          "usage": "Go 1.27 的 HTTP 连接复用改进挺猛的，Node 什么时候能抄下作业啊？",
+          "source": "https://go.dev/blog/http-connection-reuse",
+          "tags": [
+            "性能优化",
+            "运行时"
+          ]
+        },
+        {
+          "title": "Bun 1.1 发布",
+          "summary": "Node 替代方案新版本",
+          "detail": "Bun 1.1 发布，号称启动速度比 Node 快 3 倍，但社区反馈兼容性问题还是不少。",
+          "usage": "Bun 1.1 出了，启动是真快，不过我上次用的时候 fs 模块的 API 和 Node 还不完全兼容，有点蛋疼。",
+          "source": "",
+          "tags": [
+            "JavaScript",
+            "运行时"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "万能逆向工程",
+          "summary": "逆向一切的工具",
+          "detail": "rea 项目爆火，它使用 AI 代理来进行逆向工程，从 App 行为到二进制都能分析。开发者担心会被用来破解软件。",
+          "usage": "rea 这个项目太恐怖了，啥都能逆向，以后软件保护还怎么做？不过用来学习别人的代码倒是很方便。",
+          "source": "https://github.com/morluto/rea",
+          "tags": [
+            "逆向工程",
+            "AI工具"
+          ]
+        },
+        {
+          "title": "Rust 再登顶",
+          "summary": "GitHub 周榜第一",
+          "detail": "Rust 再次登顶 GitHub 周榜，社区讨论说现在学 Rust 性价比最高，因为它正在蚕食 C++ 和 Go 的地盘。",
+          "usage": "Rust 又霸榜了，你说现在转 Rust 还来得及吗？感觉都快成新时代的 C++ 了。",
+          "source": "https://github.com/rust-lang/rust",
+          "tags": [
+            "编程语言",
+            "趋势"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "牙医程序员梗",
+          "summary": "HN 热帖：牙医靠谱吗",
+          "detail": "Hacker News 热帖《牙医知道他们在做什么吗》引发热议，程序员们纷纷分享看牙的血泪史，有人吐槽这就像看后端代码没文档。",
+          "usage": "看到那个牙医的帖子了吗？说去看牙就像review没文档的祖传代码，完全不知道对方在干啥。上次补牙花了我两千，现在想想还不如买台云服务器。",
+          "source": "https://mapwriting.substack.com/p/dentists",
+          "tags": [
+            "程序员幽默",
+            "生活"
+          ]
+        },
+        {
+          "title": "AI综艺爆火",
+          "summary": "AI重制《变形计》",
+          "detail": "量子位报道，AI 重制版《变形计》综艺爆火，完全由 AI 生成的 MrBeast 风格视频获百万播放。开发者讨论 AI 内容生产的伦理问题。",
+          "usage": "AI 现在都能做综艺了，那个《变形计》AI 版你看了吗？完全由 AI 生成的 MrBeast 风格视频，效果居然还不错，看来我们离失业又近了一步。",
+          "source": "https://www.qbitai.com/2026/10/503211.html",
+          "tags": [
+            "AI应用",
+            "娱乐"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-15T01:46:38.095Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2044,
+    "completion_tokens": 1752,
+    "total_tokens": 3796,
+    "cost_usd": 0.00221336,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}
