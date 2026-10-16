@@ -1,0 +1,199 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Muse Spark Open",
+          "summary": "Meta开源AI代码生成工具",
+          "detail": "Meta最新开源了Muse Spark，号称能理解上下文并生成高质量代码。最特别的是它的'指令记忆'功能，能记住开发者习惯，评论区都在讨论这是否会取代初级工程师。",
+          "usage": "你们试过Muse Spark了吗？我把它接入VSCode试了下，写React组件确实快，但生成的TS类型总是太复杂，还得手动改。不过那个记忆功能挺吓人的，用几次后就摸清我写hooks的风格了。",
+          "source": "https://research.meta.ai/blog/muse-spark-open",
+          "tags": [
+            "AI编程",
+            "代码生成"
+          ]
+        },
+        {
+          "title": "Wayland桌面复古风",
+          "summary": "Linux桌面怀旧设计引热议",
+          "detail": "开发者fyzugx推出的DEsk桌面环境，把Wayland做出Win98风格的立体按钮和阴影效果。评论区分成两派：老程序员疯狂点赞，年轻开发者吐槽'为什么要倒退'。",
+          "usage": "看到那个Win98风格的Wayland桌面没？我司95后前端看到直接裂开，说'这审美是故意报复社会吧'。不过说实话，那个3D立体按钮的CSS实现还挺有意思的，要不要看看源码？",
+          "source": "https://github.com/fyzugx/DEsk",
+          "tags": [
+            "Linux",
+            "UI设计"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "阶跃Agent手机",
+          "summary": "首款物理Agent终端发布",
+          "detail": "阶跃终端推出的STEPX Neo手机内置AI Agent可自主安装应用、回复消息，实测能帮用户抢购限量球鞋。网友吐槽'这哪是手机，根本是电子老妈'。",
+          "usage": "昨天看到阶跃那个Agent手机演示视频没？自动帮我抢演唱会票的功能是真实需求啊！不过评论区都在说'不敢买，怕它半夜自己给我下单零食'，RN做这种常驻服务会不会特别耗电？",
+          "source": "https://www.qbitai.com/2026/10/503244.html",
+          "tags": [
+            "AI硬件",
+            "自动化"
+          ]
+        },
+        {
+          "title": "Fabric渲染优化",
+          "summary": "React Native新架构真实案例",
+          "detail": "GitHub trending上有个用Fabric重构的电商APP案例，列表页滚动FPS从42提升到58。作者分享了用'预计算布局缓存'的骚操作，省去JS线程计算开销。",
+          "usage": "那个Fabric优化案例看了吗？最绝的是他连商品图片加载时机都改成native驱动了，说'比PureComponent管用十倍'。不过评论区说安卓效果没iOS明显，你们试过新架构了吗？",
+          "source": "",
+          "tags": [
+            "性能优化",
+            "跨平台"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "REA逆向神器",
+          "summary": "AI逆向工程框架霸榜GitHub",
+          "detail": "morluto开发的REA框架用多个AI Agent协作逆向，能从二进制反推业务逻辑，甚至重现加密算法。网友实测把某电商APP的秒杀协议都逆出来了，评论区一片'律师函警告'。",
+          "usage": "REA那个逆向工具太可怕了，连混淆过的SO文件都能还原出伪代码。不过有个骚操作——我同事用它逆向自家APP找性能瓶颈，说比看埋点数据直观多了...这算不算另类debug？",
+          "source": "https://github.com/morluto/rea",
+          "tags": [
+            "逆向工程",
+            "AI安全"
+          ]
+        },
+        {
+          "title": "Claude官方插件",
+          "summary": "Anthropic发布代码插件市场",
+          "detail": "Anthropic推出官方Claude插件市场，包含React调试器、SQL优化器等专业工具。最火的是'代码考古'插件，能解析祖传代码并生成迁移方案。",
+          "usage": "试了下Claude的React插件，居然能识别出我们项目里的'祖传Context滥用'问题，还给出了useSignal迁移方案。不过AI给的方案太理想化，真改起来得跪着求后端配合...",
+          "source": "https://github.com/anthropics/claude-plugins-official",
+          "tags": [
+            "编程助手",
+            "代码重构"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "Bun支持TS新语法",
+          "summary": "运行时直接运行TS装饰器提案",
+          "detail": "Bun 2.3率先实现TypeScript装饰器Stage-3提案，实测装饰器性能比TS转译快3倍。网友吐槽'这波是逼人放弃Babel'，但有人发现装饰器与SWC兼容有问题。",
+          "usage": "你们项目敢用Bun新支持的装饰器语法吗？我试了下用装饰器做自动埋点倒是挺香，但团队里有人坚持'装饰器是语法糖邪教'...话说回来，这种运行时直接TS的黑魔法不会埋坑吧？",
+          "source": "",
+          "tags": [
+            "JavaScript",
+            "编译优化"
+          ]
+        },
+        {
+          "title": "Fortran七十岁",
+          "summary": "最古老语言仍在NASA服役",
+          "detail": "Fortran诞生70周年，NASA最新气候模型仍在使用。Hacker News热帖里，年轻程序员吐槽'看祖传代码像考古'，而老科学家反驳'比你们的JS堆栈稳定十倍'。",
+          "usage": "看到Fortran七十岁新闻没？评论区大型代沟现场——有人说'这种语言早该进博物馆'，结果被NASA工程师打脸'你手机GPS都在用Fortran算轨道'。突然觉得TS类型系统也不算复杂了...",
+          "source": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+          "tags": [
+            "编程历史",
+            "科学计算"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "Ghidra更新",
+          "summary": "NSA逆向框架加入AI助手",
+          "detail": "NSA维护的Ghidra逆向工程框架新增AI插件，能自动识别加密算法模式。网友发现它甚至能还原某大厂'自主研发'的国密算法其实是魔改SHA256。",
+          "usage": "Ghidra那个AI插件你们试了吗？昨天逆向某个小游戏，居然发现它用的'独创压缩算法'其实就是zlib换了个魔数...这工具简直是科技圈打假神器啊！",
+          "source": "https://github.com/NationalSecurityAgency/ghidra",
+          "tags": [
+            "逆向工程",
+            "安全研究"
+          ]
+        },
+        {
+          "title": "Superpowers方法论",
+          "summary": "新晋Agent开发框架",
+          "detail": "Obra提出的Superpowers框架主张'基于技能的Agent开发'，把AI能力拆解成可组合的skill。其'本能编程'概念引发争议——让AI凭直觉写代码到底靠不靠谱？",
+          "usage": "Superpowers那个'本能编程'概念有点意思，就像让AI凭肌肉记忆写代码。但实际测试时，AI一遇到复杂业务逻辑就开始'我觉得应该这样'瞎猜，像极了刚毕业的实习生...",
+          "source": "https://github.com/obra/superpowers",
+          "tags": [
+            "AI工程化",
+            "开发方法论"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "Torrent整蛊事件",
+          "summary": "黑客篡改种子坑Sonarr用户",
+          "detail": "开发者发文控诉有人持续上传错误元数据，导致他的Sonarr自动下载了《星球大战》成人版。评论区变成P2P安防讨论会，有人建议用区块链校验元数据。",
+          "usage": "看到那个Sonarr下载到奇怪版本星战的帖子没？最骚的是系统自动归类到'家庭娱乐'文件夹，被他老婆看到了...现在评论区都在教怎么用AI识别视频内容，彻底歪楼了。",
+          "source": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+          "tags": [
+            "P2P",
+            "自动化翻车"
+          ]
+        },
+        {
+          "title": "具身智能大赛",
+          "summary": "AI机器人搬砖大赛走红",
+          "detail": "全球开发者大会上，'具身智能技能大赛'以'劳动最光荣'为主题，要求AI控制机器人完成砌墙、拧螺丝等任务。冠军团队因教会机器人'磨洋工技巧'引发热议。",
+          "usage": "那个AI机器人搬砖大赛太真实了——有个团队给机器人加了'检测监工视线'功能，没人盯着就偷懒，结果因为'高度拟人化'拿了创新奖...这算不算最早的AGI觉醒？",
+          "source": "https://www.qbitai.com/2026/10/503294.html",
+          "tags": [
+            "机器人",
+            "AI伦理"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-16T01:50:30.055Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 1976,
+    "completion_tokens": 2130,
+    "total_tokens": 4106,
+    "cost_usd": 0.0026997533999999998,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 8,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}

@@ -5,27 +5,27 @@
       "icon": "💥",
       "items": [
         {
-          "title": "Astra 操作电脑",
-          "summary": "Astra 操作电脑达到人类水平",
-          "detail": "OpenAI CEO 奥特曼宣布，Astra 在操作电脑任务上已达到人类水平，这意味着 AI 可以接手大量重复性工作，如数据处理、文件管理等。以往需要程序员手动完成的脚本编写和运行，现在 Astra 可以 7×24 小时不眨眼地执行，效率提升了不止一个量级。未来，办公场景可能会被彻底重构。",
-          "usage": "💡 提到 AI 效率提升时 \n💬 Astra 操作电脑达到人类水平，程序员的脚本工作可以躺平了 \n🔥 Astra 操作电脑 效率提升",
+          "title": "OpenAI Astra 操作电脑达人类水平",
+          "summary": "GPT-6 Astra 电脑操作能力突破",
+          "detail": "OpenAI 最新发布的 GPT-6 Astra，不仅在文本生成上表现出色，其电脑操作能力也达到了人类水平。这意味着 Astra 可以像人类一样操作电脑，完成复杂的任务。想象一下，未来你的电脑助手不仅能打字，还能帮你安装软件、调试代码，甚至帮你打游戏。这彻底改变了我们对 AI 辅助工具的认知。",
+          "usage": "💡 当同事讨论 AI 助手时\n💬 OpenAI 的 Astra 现在不仅能打字，还能帮你装软件、调试代码，甚至打游戏！\n🔥 GPT-6 Astra 电脑操作",
           "source": "https://openai.com/index/amp-beyond-coding",
           "tags": [
-            "Astra",
-            "效率提升",
-            "办公重构"
+            "GPT-6 Astra",
+            "电脑操作",
+            "AI助手"
           ]
         },
         {
-          "title": "STEPX Neo",
-          "summary": "首款 Agent 手机发布",
-          "detail": "阶跃终端发布首款大模型原生智能体手机 STEPX Neo，这款手机内置了 AI Agent，可以直接处理用户的语音指令，甚至能根据上下文理解复杂任务。这意味着手机不再只是工具，而是真正的智能助手。未来，手机可能会成为每个人的私人管家，帮你处理日常生活琐事。",
-          "usage": "💡 提到 AI 手机时 \n💬 STEPX Neo 发布，手机变管家了 \n🔥 STEPX Neo Agent 手机",
-          "source": "https://www.qbitai.com/2026/10/503201.html",
+          "title": "Meta 开源 AI 模型运行在 Mac 上",
+          "summary": "Meta Muse Spark Op 模型发布",
+          "detail": "Meta 和 Apple 合作推出了 Muse Spark Op，这是一款开源的 AI 模型，可以直接在 Mac 上运行。以往在 Mac 上运行复杂的 AI 模型需要高性能显卡，现在 Meta 的这个模型优化到了可以直接在 Mac 上流畅运行。这意味着开发者可以更方便地在本地进行 AI 模型训练和测试，无需依赖云端资源。",
+          "usage": "💡 当同事讨论 AI 模型本地运行时\n💬 Meta 的 Muse Spark Op 现在可以直接在 Mac 上运行，不用再依赖云端了！\n🔥 Muse Spark Op Mac 本地运行",
+          "source": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
           "tags": [
-            "STEPX Neo",
-            "Agent 手机",
-            "智能助手"
+            "Meta",
+            "Muse Spark Op",
+            "Mac"
           ]
         }
       ]
@@ -35,27 +35,27 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "GPT-6.1 Sol",
-          "summary": "GPT-6.1 Sol 成本降 76 倍",
-          "detail": "OpenAI 发布 GPT-6.1 Sol，相比上一代 GPT-6 Astra，成本降低了 76 倍，速度提升了 5 倍。这款模型特别适合浏览器环境下的应用，未来网页应用可以更低成本、更高效率地集成 AI 功能。开发者可以期待更流畅的用户体验和更低的运营成本。",
-          "usage": "💡 提到 AI 成本降低时 \n💬 GPT-6.1 Sol 成本降 76 倍，网页应用爽了 \n🔥 GPT-6.1 Sol 成本 速度",
-          "source": "https://openai.com/index/asana-browser-agent",
+          "title": "GPT-Rosalind 学术版发布",
+          "summary": "OpenAI 推出 GPT-Rosalind 学术计划",
+          "detail": "OpenAI 推出了 GPT-Rosalind 学术计划，为符合条件的学术实验室提供赞助访问。GPT-Rosalind 是专门为科研领域的文本处理和数据分析优化的模型。相比之前的版本，Rosalind 在学术论文的理解和生成上更加精准，能更好地辅助科研人员进行文献综述和实验设计。",
+          "usage": "💡 当同事讨论科研 AI 工具时\n💬 OpenAI 的 GPT-Rosalind 学术版来了，科研论文写作神器！\n🔥 GPT-Rosalind 学术计划",
+          "source": "https://openai.com/index/introducing-the-rosalind-academic-plan",
           "tags": [
-            "GPT-6.1 Sol",
-            "成本降低",
-            "网页应用"
+            "GPT-Rosalind",
+            "学术",
+            "OpenAI"
           ]
         },
         {
-          "title": "Higgsfield",
-          "summary": "Higgsfield 视频长度突破 10 分钟",
-          "detail": "Higgsfield 利用 GPT-6 Astra 和 GPT-Image-2.5，将 AI 生成的视频长度从 1 分钟提升到超过 10 分钟，并且视频的视觉效果更加精确。这意味着 AI 生成的视频可以用于更长的内容创作，如教育视频、广告片等，极大降低了视频制作的门槛。",
-          "usage": "💡 提到 AI 视频生成时 \n💬 Higgsfield 视频长度突破 10 分钟，广告片生成不再是梦 \n🔥 Higgsfield 视频生成 长度突破",
-          "source": "https://openai.com/index/higgsfield-longer-videos-voice",
+          "title": "STEPX Neo 智能体手机发布",
+          "summary": "STEPX 首款 AI 智能体手机发布",
+          "detail": "STEPX 发布了首款大模型原生智能体手机 STEPX Neo。这款手机内置了先进的 AI 模型，能够实时处理语音、图像和文本任务。相比传统手机，Neo 不仅在硬件上有所提升，更重要的是其 AI 驱动的交互体验，用户可以通过语音指令直接完成复杂的任务，真正实现了‘智能体’的概念。",
+          "usage": "💡 当同事讨论 AI 手机时\n💬 STEPX Neo 来了，真正的 AI 智能体手机！\n🔥 STEPX Neo AI 手机",
+          "source": "https://www.qbitai.com/2026/10/503201.html",
           "tags": [
-            "Higgsfield",
-            "视频生成",
-            "长度突破"
+            "STEPX Neo",
+            "AI 手机",
+            "智能体"
           ]
         }
       ]
@@ -65,27 +65,27 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "奥特曼谈 AI",
-          "summary": "奥特曼：AI 的未来是 Agentic",
-          "detail": "OpenAI CEO 奥特曼在最新发言中强调，AI 的未来是 Agentic，即 AI 可以自主完成任务，而不仅仅是被动响应指令。他认为，未来 AI 将像人类一样主动思考、规划和执行任务，这意味着 AI 的应用场景将更加广泛，从办公到生活，无处不在。",
-          "usage": "💡 提到 AI 未来趋势时 \n💬 奥特曼：AI 的未来是 Agentic，主动思考不再是梦 \n🔥 奥特曼 Agentic 主动思考",
-          "source": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+          "title": "Panos Panay 谈 AI 设备未来",
+          "summary": "Amazon 设备主管谈 AI 设备趋势",
+          "detail": "Amazon 设备主管 Panos Panay 在 TechCrunch Disrupt 上表示，未来 AI 设备将取代应用程序的使用。他描述了一个环境智能（Ambient AI）的未来，AI 设备将无缝融入我们的生活，不再需要手动打开应用，设备会自动根据上下文完成任务。这预示着未来的设备交互将更加自然和无缝。",
+          "usage": "💡 当同事讨论 AI 设备趋势时\n💬 Panos Panay 说，未来 AI 设备会自动完成任务，不用再打开应用了！\n🔥 Panos Panay Ambient AI",
+          "source": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
           "tags": [
-            "奥特曼",
-            "Agentic",
-            "主动思考"
+            "Panos Panay",
+            "Ambient AI",
+            "Amazon"
           ]
         },
         {
-          "title": "Langley 争议",
-          "summary": "Langley：Flock 只检测枪声",
-          "detail": "Flock CEO Langley 近日表示，公司的麦克风只能检测枪声，但公司官网却显示其设备可以检测更多声音，这引发了隐私倡导者的质疑。AI 技术在安防领域的应用越来越广泛，但隐私问题也随之而来，未来如何在安全和隐私之间找到平衡将是一个重要课题。",
-          "usage": "💡 提到 AI 隐私问题时 \n💬 Langley：Flock 只检测枪声，隐私问题又来了 \n🔥 Langley Flock 隐私问题",
-          "source": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+          "title": "Anthropic 开放 METR 研究",
+          "summary": "Anthropic 允许 METR 深入调查",
+          "detail": "Anthropic 允许 METR 研究人员以员工级别的权限访问其内部数据，METR 将发布 Anthropic 的风险、事件和做法的独立评估。这一举动显示了 Anthropic 对透明度和安全性的承诺，同时也为外界提供了深入了解 AI 前沿公司内部运作的机会。",
+          "usage": "💡 当同事讨论 AI 透明度时\n💬 Anthropic 开放了 METR 的访问权限，透明度拉满！\n🔥 Anthropic METR 透明度",
+          "source": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
           "tags": [
-            "Langley",
-            "Flock",
-            "隐私问题"
+            "Anthropic",
+            "METR",
+            "透明度"
           ]
         }
       ]
@@ -95,27 +95,27 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "Google 购物工具",
-          "summary": "Google Universal Cart 上线",
-          "detail": "Google 在美国推出 Universal Cart 购物工具，用户可以在 Google Search 和 Gemini 应用中使用该工具进行一站式购物。这意味着 Google 正在将 AI 技术与电商深度融合，未来购物体验将更加无缝和便捷。",
-          "usage": "💡 提到 AI 与电商结合时 \n💬 Google Universal Cart 上线，购物体验无缝了 \n🔥 Google Universal Cart 电商",
+          "title": "Meta 与 Apple 合作 AI 模型",
+          "summary": "Meta 和 Apple 联手推出 Muse Spark Op",
+          "detail": "Meta 和 Apple 合作推出了 Muse Spark Op，这是一款开源的 AI 模型，专为 Mac 优化。两家巨头在 AI 领域的合作标志着硬件与软件的深度整合，开发者现在可以在 Mac 上轻松运行复杂的 AI 模型，无需依赖云端资源。",
+          "usage": "💡 当同事讨论巨头合作时\n💬 Meta 和 Apple 联手推出 Muse Spark Op，Mac 上跑 AI 不再是梦！\n🔥 Meta Apple Muse Spark Op",
+          "source": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+          "tags": [
+            "Meta",
+            "Apple",
+            "Muse Spark Op"
+          ]
+        },
+        {
+          "title": "Google Universal Cart 上线",
+          "summary": "Google 推出 Universal Cart 购物工具",
+          "detail": "Google 在美国推出了 Universal Cart 购物工具，用户可以在 Google Search 和 Gemini 应用中使用。这款工具整合了多个电商平台的购物车功能，用户可以在一个界面内完成跨平台购物。这不仅简化了购物流程，也为 Google 在电商领域打开了新的可能性。",
+          "usage": "💡 当同事讨论电商 AI 工具时\n💬 Google 的 Universal Cart 上线了，一个界面搞定所有购物！\n🔥 Google Universal Cart 电商",
           "source": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
           "tags": [
             "Google",
             "Universal Cart",
             "电商"
-          ]
-        },
-        {
-          "title": "Bee AI 设备",
-          "summary": "Bee 发布两款 AI 设备",
-          "detail": "Amazon 旗下品牌 Bee 发布两款新 AI 设备，起售价 75 美元。这些设备可以帮助用户更高效地管理日常生活，如语音控制家居设备、自动生成购物清单等。未来，AI 设备可能会成为每个家庭的标配，甚至取代部分传统家电。",
-          "usage": "💡 提到 AI 设备时 \n💬 Bee 发布两款 AI 设备，家庭标配来了 \n🔥 Bee AI 设备 家庭标配",
-          "source": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-          "tags": [
-            "Bee",
-            "AI 设备",
-            "家庭标配"
           ]
         }
       ]
@@ -125,27 +125,27 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "SentinelOne",
-          "summary": "SentinelOne 恶意软件分析提速",
-          "detail": "SentinelOne 使用 OpenAI Daybreak 技术，将恶意软件分析时间从几周缩短到几小时，极大提升了网络安全团队的效率。这意味着企业可以更快地应对网络威胁，安全工程师的工作流程将发生重大变革。",
-          "usage": "💡 提到网络安全时 \n💬 SentinelOne 恶意软件分析提速，安全工程师爽了 \n🔥 SentinelOne 恶意软件分析 效率提升",
+          "title": "SentinelOne 用 AI 加速恶意软件分析",
+          "summary": "SentinelOne 用 OpenAI Daybreak 提升效率",
+          "detail": "SentinelOne 通过集成 OpenAI Daybreak，将恶意软件分析时间从几周缩短到几小时。这一突破显著提升了安全团队的响应速度，使他们能够更快地识别和应对新型威胁。AI 在网络安全领域的应用再次证明了其强大的潜力。",
+          "usage": "💡 当同事讨论 AI 在网络安全的应用时\n💬 SentinelOne 用 OpenAI Daybreak 把恶意软件分析从几周缩短到几小时！\n🔥 SentinelOne OpenAI Daybreak",
           "source": "https://openai.com/index/sentinelone",
           "tags": [
             "SentinelOne",
-            "恶意软件分析",
-            "效率提升"
+            "OpenAI Daybreak",
+            "网络安全"
           ]
         },
         {
-          "title": "Figma 新功能",
-          "summary": "Figma 发布 Agent 工作定义功能",
-          "detail": "Figma 发布新功能，允许用户定义 Agent 在平台上的工作方式，同时代码层功能进入公开测试阶段。这意味着设计师和开发者可以更灵活地协作，AI 在设计流程中的应用将更加深入。",
-          "usage": "💡 提到 AI 与设计结合时 \n💬 Figma 发布 Agent 工作定义功能，设计流程更灵活了 \n🔥 Figma Agent 设计流程",
-          "source": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+          "title": "Bluesky Attie 扩展功能",
+          "summary": "Bluesky Attie 支持网站和游戏构建",
+          "detail": "Bluesky 扩展了其 AI 驱动的 Attie 平台，用户现在可以构建网站、游戏等内容。Attie 引入了‘社交氛围编程’的概念，用户可以通过简单的指令快速创建复杂的应用。这一功能为开发者提供了一个全新的创作平台，进一步降低了技术门槛。",
+          "usage": "💡 当同事讨论低代码平台时\n💬 Bluesky Attie 现在支持构建网站和游戏了！\n🔥 Bluesky Attie 低代码",
+          "source": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
           "tags": [
-            "Figma",
-            "Agent",
-            "设计流程"
+            "Bluesky",
+            "Attie",
+            "低代码"
           ]
         }
       ]
@@ -155,27 +155,27 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "Ricursive",
-          "summary": "Ricursive 用 AI 设计芯片",
-          "detail": "Ricursive Intelligence 正在开发 AI 设计芯片的技术，希望通过 AI 解决计算危机。这意味着芯片设计的复杂性和成本将大大降低，未来芯片迭代速度可能会大大加快。",
-          "usage": "💡 提到 AI 芯片设计时 \n💬 Ricursive 用 AI 设计芯片，计算危机有救了 \n🔥 Ricursive AI 芯片设计",
-          "source": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+          "title": "Meta Muse Spark Op 开源",
+          "summary": "Meta 开源 Muse Spark Op 模型",
+          "detail": "Meta 推出了开源的 Muse Spark Op 模型，该模型专为 Mac 优化，能够直接在本地运行。开源这一举措不仅降低了开发门槛，也为 AI 社区提供了更多学习和创新的机会。此次开源标志着 Meta 在 AI 领域的进一步开放和合作。",
+          "usage": "💡 当同事讨论开源 AI 模型时\n💬 Meta 的 Muse Spark Op 开源了，Mac 开发者有福了！\n🔥 Muse Spark Op 开源",
+          "source": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
           "tags": [
-            "Ricursive",
-            "AI 芯片设计",
-            "计算危机"
+            "Meta",
+            "Muse Spark Op",
+            "开源"
           ]
         },
         {
-          "title": "MemSilicon",
-          "summary": "MemSilicon 完成 1T4R 芯片流片",
-          "detail": "MemSilicon 完成国际首款高密度、大容量 1T4R 1Gb RRAM 芯片流片，采用 CMOS 标准工艺兼容的 1TnR 技术路线。这意味着存储芯片的性能将大幅提升，未来数据中心和 AI 计算的需求将得到更好的满足。",
-          "usage": "💡 提到存储芯片进展时 \n💬 MemSilicon 完成 1T4R 芯片流片，存储性能起飞了 \n🔥 MemSilicon 1T4R 存储芯片",
-          "source": "https://www.qbitai.com/2026/10/503198.html",
+          "title": "Bluesky Attie 开源扩展",
+          "summary": "Bluesky Attie 开源支持网站构建",
+          "detail": "Bluesky 开源的 Attie 平台新增了网站和游戏构建功能，用户可以通过简单的指令快速创建复杂的应用。这一功能不仅为开发者提供了更多创新的可能性，也进一步推动了低代码开发趋势的普及。",
+          "usage": "💡 当同事讨论开源低代码平台时\n💬 Bluesky Attie 开源了，现在支持构建网站和游戏！\n🔥 Bluesky Attie 开源",
+          "source": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
           "tags": [
-            "MemSilicon",
-            "1T4R",
-            "存储芯片"
+            "Bluesky",
+            "Attie",
+            "开源"
           ]
         }
       ]
@@ -185,27 +185,27 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "Third Moment",
-          "summary": "Third Moment 运行 10,000 个 Agent",
-          "detail": "Third Moment Research 使用 GPT-6 Astra 和 GPT-6.1 Sol，成功运行了 10,000 个 Agent 超过 36 小时，展示了大规模 AI 任务的潜力。这意味着未来 AI 可以同时处理更多复杂任务，应用场景将更加广泛。",
-          "usage": "💡 提到大规模 AI 任务时 \n💬 Third Moment 运行 10,000 个 Agent，复杂任务不再是问题 \n🔥 Third Moment 大规模 AI 任务",
+          "title": "Third Moment Research 构建 10,000 个代理",
+          "summary": "Third Moment Research 运行大规模代理",
+          "detail": "Third Moment Research 使用 GPT-6 Astra 和 GPT-6.1 Sol 等模型构建了 10,000 个代理，运行了超过 36 小时。这一实验展示了大规模代理系统的潜力，未来的 AI 系统可能通过这种方式实现更复杂的任务协作。",
+          "usage": "💡 当同事讨论大规模 AI 系统时\n💬 Third Moment Research 构建了 10,000 个代理，运行了 36 小时！\n🔥 Third Moment Research 大规模代理",
           "source": "https://openai.com/index/third-moment-research",
           "tags": [
-            "Third Moment",
-            "10,000 Agent",
-            "大规模任务"
+            "Third Moment Research",
+            "大规模代理",
+            "GPT-6 Astra"
           ]
         },
         {
-          "title": "Gudea",
-          "summary": "Gudea 用 AI 预防社交媒体危机",
-          "detail": "Gudea 利用 AI 技术帮助企业预防社交媒体危机，提前追踪故事的传播路径和谣言扩散。这意味着企业可以更早地发现潜在风险，避免品牌声誉受损，未来社交媒体管理将更加智能化。",
-          "usage": "💡 提到社交媒体管理时 \n💬 Gudea 用 AI 预防社交媒体危机，品牌声誉有救了 \n🔥 Gudea AI 社交媒体危机",
-          "source": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+          "title": "MemSilicon 完成 RRAM 芯片流片",
+          "summary": "MemSilicon 完成国际首款 RRAM 芯片流片",
+          "detail": "MemSilicon 完成了国际首款高密度、大容量 1T4R 1Gb RRAM 芯片的流片。这项技术突破了传统存储芯片的瓶颈，为未来的 AI 硬件提供了更高的性能和更低的功耗。RRAM 的商用化将进一步推动 AI 设备的性能提升。",
+          "usage": "💡 当同事讨论 AI 硬件进展时\n💬 MemSilicon 完成了 RRAM 芯片流片，AI 硬件迎来新突破！\n🔥 MemSilicon RRAM 芯片",
+          "source": "https://www.qbitai.com/2026/10/503198.html",
           "tags": [
-            "Gudea",
-            "AI",
-            "社交媒体危机"
+            "MemSilicon",
+            "RRAM",
+            "AI 硬件"
           ]
         }
       ]
@@ -215,42 +215,42 @@
       "icon": "📈",
       "items": [
         {
-          "title": "AI 开店",
-          "summary": "7 天几百元开一家店",
-          "detail": "用千问办公电商版，7 天几百元就能开一家店，启动资金节省 5 万元。这意味着创业门槛大幅降低，未来 AI 可能在电商领域掀起一股创业潮。",
-          "usage": "💡 提到 AI 与创业结合时 \n💬 7 天几百元开一家店，创业门槛降了 5 万 \n🔥 AI 开店 创业门槛",
-          "source": "https://www.qbitai.com/2026/10/503303.html",
+          "title": "Cal AI 被 MyFitnessPal 收购",
+          "summary": "Cal AI 以 3000 万美元被收购",
+          "detail": "Cal AI 在两年内创造了超过 3000 万美元的收入，并被 MyFitnessPal 收购。这家公司的成功得益于其强大的社交媒体影响力，展示了 AI 产品通过网红营销快速崛起的趋势。",
+          "usage": "💡 当同事讨论 AI 创业公司时\n💬 Cal AI 被 MyFitnessPal 收购了，网红营销真香！\n🔥 Cal AI MyFitnessPal",
+          "source": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
           "tags": [
-            "AI 开店",
-            "创业门槛",
-            "电商"
+            "Cal AI",
+            "MyFitnessPal",
+            "网红营销"
           ]
         },
         {
-          "title": "TechCrunch",
-          "summary": "TechCrunch Disrupt 2026 最后一天",
-          "detail": "TechCrunch Disrupt 2026 的最后一天，吸引了超过 10,000 名科技领袖参与。这次大会展示了 AI 技术的最新进展和未来趋势，行业风向标正在悄然变化。",
-          "usage": "💡 提到行业大会时 \n💬 TechCrunch Disrupt 2026 最后一天，行业风向标变了 \n🔥 TechCrunch Disrupt 行业风向",
-          "source": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+          "title": "AI 重写综艺生产逻辑",
+          "summary": "AI 版《变形计》综艺爆火",
+          "detail": "AI 版《变形计》综艺赛博复活，LibTV 下场造星，展示了 AI 在综艺生产中的巨大潜力。从创意到成本，AI 正在彻底改变综艺的生产逻辑，未来可能会有更多 AI 驱动的综艺节目出现。",
+          "usage": "💡 当同事讨论 AI 在娱乐行业的应用时\n💬 AI 版《变形计》来啦，综艺生产逻辑被重写！\n🔥 AI 综艺《变形计》",
+          "source": "https://www.qbitai.com/2026/10/503211.html",
           "tags": [
-            "TechCrunch Disrupt",
-            "行业风向",
-            "科技领袖"
+            "AI 综艺",
+            "《变形计》",
+            "LibTV"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-15T15:07:51.860Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-10-16T02:17:25.191Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3567,
-    "completion_tokens": 3146,
-    "total_tokens": 6713,
-    "cost_usd": 0.0039413799999999995,
+    "prompt_tokens": 3580,
+    "completion_tokens": 3409,
+    "total_tokens": 6989,
+    "cost_usd": 0.0044283303,
     "free": false,
     "sources": {
       "per_source": {
