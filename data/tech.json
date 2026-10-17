@@ -1,232 +1,257 @@
 {
   "categories": [
     {
-      "name": "📰 今日头条",
+      "name": "今日头条",
       "icon": "📰",
       "items": [
         {
-          "title": "特斯拉飞车",
-          "summary": "特斯拉Roadster二代空中翻滚",
-          "detail": "特斯拉第二代Roadster在得州测试场完成了空中翻滚测试，底盘喷出的白色气流在夜空中划出长尾。这款车不仅速度快，还能飞，真是把科幻变成了现实。不过，飞行模式是否实用还是个问号，毕竟谁也不想开车时突然飞到天上去。",
-          "usage": "💡 特斯拉又搞大新闻了\n💬 特斯拉Roadster不仅能跑，还能飞！\n🔥 特斯拉 Roadster 飞行",
-          "source": "https://www.huxiu.com/article/4898178.html?f=rss",
+          "title": "特斯拉飞车来了",
+          "summary": "特斯拉Roadster跑车展示飞行能力",
+          "detail": "特斯拉在德州发布新一代Roadster跑车，现场表演了'腾空翻转'等高难度动作，展示飞行能力。分析师认为商业价值有限，建议马斯克考虑'飞车'更适合拍《狂飙》续集。",
+          "usage": "💡 聊特斯拉的新脑洞\n💬 '这飞车要是真能量产，以后堵车可以直接起飞了'\n🔥 特斯拉 Roadster 飞车 马斯克",
+          "source": "https://www.huxiu.com/article/4898252.html?f=rss",
           "tags": [
             "特斯拉",
-            "Roadster",
-            "飞行汽车"
+            "新能源车",
+            "马斯克"
           ]
         },
         {
-          "title": "李斌回应",
-          "summary": "李斌谈特斯拉会飞",
-          "detail": "蔚来CEO李斌在发布会上被问及特斯拉Roadster的飞行功能，他幽默回应：“这个我们真没有。”李斌表示，蔚来更专注于地面驾驶体验，不会跟风搞飞行汽车。这话一出，网友们纷纷表示：李斌真会聊天，飞行汽车确实有点不接地气。",
-          "usage": "💡 李斌回应特斯拉飞行功能\n💬 李斌：飞行汽车我们没有，地面驾驶才是重点\n🔥 李斌 特斯拉 飞行汽车",
-          "source": "https://www.toutiao.com/trending/7696877213140058175/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227696877213140058175%22%2C%22hot_board_impr_id%22%3A%2220261016222413206D60DC5ED852DA47A6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%8E%E6%96%8C%E8%B0%88%E7%89%B9%E6%96%AF%E6%8B%89%E4%BC%9A%E9%A3%9E%EF%BC%9A%E8%BF%99%E4%B8%AA%E6%88%91%E4%BB%AC%E7%9C%9F%E6%B2%A1%E6%9C%89%22%7D&rank=&style_id=40132&topic_id=7696877213140058175",
+          "title": "抖音京东互呛",
+          "summary": "两大平台公开互相diss",
+          "detail": "抖音和京东突然公开互呛，疑似因直播带货竞争激化。吃瓜群众纷纷表示：'双十一预热这么早？'目前双方都没透露具体矛盾点。",
+          "usage": "💡 聊双十一前哨战\n💬 '现在平台互怼都比卖货精彩了'\n🔥 抖音 京东 互呛 双十一",
+          "source": "https://m.baidu.com/s?word=%E6%8A%96%E9%9F%B3%E5%92%8C%E4%BA%AC%E4%B8%9C%E5%85%AC%E5%BC%80%E4%BA%92%E5%91%9B&sa=fyb_news",
           "tags": [
-            "李斌",
-            "蔚来",
-            "飞行汽车"
+            "抖音",
+            "京东",
+            "电商"
           ]
         }
       ]
     },
     {
-      "name": "🎤 大佬动态",
+      "name": "大佬动态",
       "icon": "🎤",
       "items": [
         {
-          "title": "马斯克的飞车梦",
-          "summary": "马斯克再推飞行汽车",
-          "detail": "马斯克继续他的飞行汽车梦，特斯拉Roadster二代的空中翻滚测试再次证明了这一点。虽然飞行汽车听起来很酷，但马斯克也承认，飞行模式下车辆的安全性和实用性仍然是个大问题。不过，这并不妨碍他继续推进这一项目，毕竟他是马斯克，梦想总是要有的。",
-          "usage": "💡 马斯克又搞飞行汽车\n💬 马斯克：飞行汽车是梦想，但安全问题还得解决\n🔥 马斯克 飞行汽车 Roadster",
-          "source": "https://www.huxiu.com/article/4898178.html?f=rss",
+          "title": "马斯克又作妖",
+          "summary": "特斯拉宣布与SpaceX合并可能性增加",
+          "detail": "马斯克在德州Roadster发布会上暗示特斯拉与SpaceX合并可能性增大，并称'我们的目标是让汽车飞出地球'。网友：'这是要造会飞的电动车？'",
+          "usage": "💡 聊马斯克的脑洞\n💬 '马斯克这是要把汽车和火箭打包上市啊'\n🔥 马斯克 特斯拉 SpaceX 合并",
+          "source": "https://www.huxiu.com/article/4898249.html?f=rss",
           "tags": [
             "马斯克",
-            "飞行汽车",
-            "特斯拉"
+            "特斯拉",
+            "SpaceX"
           ]
         },
         {
-          "title": "姚顺宇被创业",
-          "summary": "清华AI天才被投资人盯上",
-          "detail": "清华AI天才姚顺宇被投资人盯上，隔三差五约着聊，劝他出来创业。姚顺宇虽然技术牛，但创业这事还得看时机。投资人比他更着急，大有“你不创业，我就不走”的架势。姚顺宇的动向成了创投圈的热门话题，大家都在猜他会不会成为下一个AI领域的独角兽创始人。",
-          "usage": "💡 姚顺宇被投资人盯上\n💬 投资人比姚顺宇更想创业\n🔥 姚顺宇 AI 创业",
-          "source": "https://www.huxiu.com/article/4898170.html?f=rss",
+          "title": "小杨哥改名归来",
+          "summary": "疯狂小杨哥注销1亿粉丝账号重新开始",
+          "detail": "拥有1亿粉丝的抖音网红'疯狂小杨哥'突然注销账号，以本名'庆杨'重新开始。吃瓜群众猜测：'这是要洗白还是怕查税？'",
+          "usage": "💡 聊网红生存现状\n💬 '1亿粉丝说不要就不要，真·从头再来'\n🔥 小杨哥 抖音 网红 重新开始",
+          "source": "https://www.huxiu.com/article/4898242.html?f=rss",
           "tags": [
-            "姚顺宇",
-            "AI",
-            "创业"
+            "抖音",
+            "网红",
+            "小杨哥"
           ]
         }
       ]
     },
     {
-      "name": "🏢 巨头动向",
+      "name": "巨头动向",
       "icon": "🏢",
       "items": [
         {
-          "title": "特斯拉飞车",
-          "summary": "特斯拉Roadster二代测试",
-          "detail": "特斯拉第二代Roadster在得州测试场完成了空中翻滚测试，底盘喷出的白色气流在夜空中划出长尾。这款车不仅速度快，还能飞，真是把科幻变成了现实。不过，飞行模式是否实用还是个问号，毕竟谁也不想开车时突然飞到天上去。",
-          "usage": "💡 特斯拉又搞大新闻了\n💬 特斯拉Roadster不仅能跑，还能飞！\n🔥 特斯拉 Roadster 飞行",
-          "source": "https://www.huxiu.com/article/4898178.html?f=rss",
+          "title": "Uber撤出非洲",
+          "summary": "Uber退出非洲最大市场",
+          "detail": "Uber宣布从非洲人口最多的市场尼日利亚撤出，原因是'本地化运营困难'。非洲创业者吐槽：'连Uber都搞不定这片市场，我们还怎么玩？'",
+          "usage": "💡 聊跨国企业本土化困境\n💬 'Uber这是被非洲的土路劝退了吧'\n🔥 Uber 非洲 撤出 本土化",
+          "source": "https://www.huxiu.com/article/4898244.html?f=rss",
           "tags": [
-            "特斯拉",
-            "Roadster",
-            "飞行汽车"
+            "Uber",
+            "非洲",
+            "出行"
           ]
         },
         {
-          "title": "蔚来发布会",
-          "summary": "蔚来CEO李斌谈特斯拉",
-          "detail": "蔚来CEO李斌在发布会上被问及特斯拉Roadster的飞行功能，他幽默回应：“这个我们真没有。”李斌表示，蔚来更专注于地面驾驶体验，不会跟风搞飞行汽车。这话一出，网友们纷纷表示：李斌真会聊天，飞行汽车确实有点不接地气。",
-          "usage": "💡 李斌回应特斯拉飞行功能\n💬 李斌：飞行汽车我们没有，地面驾驶才是重点\n🔥 李斌 特斯拉 飞行汽车",
-          "source": "https://www.toutiao.com/trending/7696877213140058175/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227696877213140058175%22%2C%22hot_board_impr_id%22%3A%2220261016222413206D60DC5ED852DA47A6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%8E%E6%96%8C%E8%B0%88%E7%89%B9%E6%96%AF%E6%8B%89%E4%BC%9A%E9%A3%9E%EF%BC%9A%E8%BF%99%E4%B8%AA%E6%88%91%E4%BB%AC%E7%9C%9F%E6%B2%A1%E6%9C%89%22%7D&rank=&style_id=40132&topic_id=7696877213140058175",
+          "title": "东风押注氨动力",
+          "summary": "东风汽车转向氨燃料汽车研发",
+          "detail": "中欧汽车贸易磋商刚结束，东风汽车就宣布加大氨动力汽车研发投入。业内人士：'电动车还没整明白，这就要换赛道？'",
+          "usage": "💡 聊新能源技术路线\n💬 '从电动车到氨动力，车企这是要把元素周期表试个遍'\n🔥 东风 氨动力 新能源",
+          "source": "https://www.huxiu.com/article/4897940.html?f=rss",
           "tags": [
-            "蔚来",
-            "李斌",
-            "飞行汽车"
+            "东风汽车",
+            "新能源",
+            "氨动力"
           ]
         }
       ]
     },
     {
-      "name": "🔀 组织变动",
+      "name": "组织变动",
       "icon": "🔀",
       "items": [
         {
-          "title": "王刚免职",
-          "summary": "国务院免去王刚职务",
-          "detail": "国务院免去王刚原职，此前他已履新河北。王刚的职务变动引发了广泛关注，大家都在猜测他下一步的去向。王刚在任期间的表现可圈可点，此次调动也让人们对河北的未来充满了期待。",
-          "usage": "💡 王刚职务变动\n💬 王刚被免职，已履新河北\n🔥 王刚 免职 河北",
-          "source": "https://www.toutiao.com/trending/7696921328695427113/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227696921328695427113%22%2C%22hot_board_impr_id%22%3A%2220261016222413206D60DC5ED852DA47A6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%8D%E5%8E%BB%E7%8E%8B%E5%88%9A%E5%8E%9F%E8%81%8C+%E6%AD%A4%E5%89%8D%E5%B7%B2%E5%B1%A5%E6%96%B0%E6%B2%B3%E5%8C%97%22%7D&rank=&style_id=40132&topic_id=7696921328695427113",
+          "title": "派拉蒙被收购",
+          "summary": "派拉蒙天舞7361亿易主",
+          "detail": "《哈利波特》东家派拉蒙天舞公司以7361亿天价被收购，创下好莱坞今年最大交易。网友：'买家公司比买房子还贵'。",
+          "usage": "💡 聊影视行业资本运作\n💬 '7361亿买个电影公司，这得卖多少张电影票才能回本'\n🔥 派拉蒙 收购 好莱坞",
+          "source": "https://www.huxiu.com/article/4898245.html?f=rss",
           "tags": [
-            "王刚",
-            "免职",
-            "河北"
+            "派拉蒙",
+            "收购",
+            "影视"
           ]
         },
         {
-          "title": "中国卫通",
-          "summary": "中国卫通资源型垄断倒计时",
-          "detail": "中国卫通资源型垄断的倒计时已经开始，随着低轨星座的兴起，中国卫通的核心能力仍然集中在空间段。2026年半年报显示，中国卫通的营收和利润增长放缓，面对新兴低轨星座的竞争，中国卫通的压力越来越大。",
-          "usage": "💡 中国卫通面临挑战\n💬 低轨星座兴起，中国卫通垄断地位受威胁\n🔥 中国卫通 低轨星座 垄断",
-          "source": "https://www.huxiu.com/article/4898168.html?f=rss",
+          "title": "78家加油站被查",
+          "summary": "全国78家加油站因偷油被查处",
+          "detail": "全国78家加油站因'偷油'被查，主要手段是通过调整计量表克扣油量。车主纷纷表示：'难怪总觉得油表不准'。",
+          "usage": "💡 聊消费者权益\n💬 '油价都这么贵了还偷油，加油站是把我们当韭菜了'\n🔥 加油站 偷油 消费者权益",
+          "source": "https://www.toutiao.com/trending/7696867493117378587/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227696867493117378587%22%2C%22hot_board_impr_id%22%3A%2220261017133450C71304DB52286D9ADA40%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2278%E5%AE%B6%E5%8A%A0%E6%B2%B9%E7%AB%99%E2%80%9C%E5%81%B7%E6%B2%B9%E2%80%9D%E8%A2%AB%E6%9F%A5%22%7D&rank=&style_id=40132&topic_id=7696867493117378587",
           "tags": [
-            "中国卫通",
-            "低轨星座",
-            "垄断"
+            "加油站",
+            "欺诈",
+            "监管"
           ]
         }
       ]
     },
     {
-      "name": "🚀 前沿探索",
+      "name": "前沿探索",
       "icon": "🚀",
       "items": [
         {
-          "title": "特斯拉飞车",
-          "summary": "特斯拉Roadster二代测试",
-          "detail": "特斯拉第二代Roadster在得州测试场完成了空中翻滚测试，底盘喷出的白色气流在夜空中划出长尾。这款车不仅速度快，还能飞，真是把科幻变成了现实。不过，飞行模式是否实用还是个问号，毕竟谁也不想开车时突然飞到天上去。",
-          "usage": "💡 特斯拉又搞大新闻了\n💬 特斯拉Roadster不仅能跑，还能飞！\n🔥 特斯拉 Roadster 飞行",
-          "source": "https://www.huxiu.com/article/4898178.html?f=rss",
+          "title": "特斯拉真能飞",
+          "summary": "特斯拉Roadster展示飞行技术",
+          "detail": "全新Roadster在德州测试场展示突破性飞行技术，垂直起降、空中悬停样样精通。网友：'这是要革飞机和汽车的命？'",
+          "usage": "💡 聊未来交通工具\n💬 '以后堵车直接起飞，马斯克这是要解决世界性难题啊'\n🔥 特斯拉 Roadster 飞行汽车",
+          "source": "https://www.toutiao.com/trending/7696782172241448511/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227696782172241448511%22%2C%22hot_board_impr_id%22%3A%2220261017133450C71304DB52286D9ADA40%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%A8%E6%96%B0Roadster%E4%B8%BA%E4%BD%95%E8%83%BD%E4%B8%8A%E5%A4%A9%22%7D&rank=&style_id=40132&topic_id=7696782172241448511",
           "tags": [
+            "飞行汽车",
             "特斯拉",
-            "Roadster",
-            "飞行汽车"
+            "未来科技"
           ]
         },
         {
-          "title": "低轨星座兴起",
-          "summary": "低轨星座挑战中国卫通",
-          "detail": "低轨星座的兴起正在挑战中国卫通的垄断地位。随着新兴低轨星座的发展，中国卫通的核心能力仍然集中在空间段，面临的压力越来越大。2026年半年报显示，中国卫通的营收和利润增长放缓，未来的竞争将更加激烈。",
-          "usage": "💡 低轨星座兴起\n💬 低轨星座挑战中国卫通垄断地位\n🔥 低轨星座 中国卫通 垄断",
-          "source": "https://www.huxiu.com/article/4898168.html?f=rss",
+          "title": "氨燃料汽车",
+          "summary": "东风押注氨动力汽车技术",
+          "detail": "东风汽车宣布加大氨燃料汽车研发，称这是'氢能源外的另一选择'。网友质疑：'这玩意儿充能方便吗？不会是又一个PPT技术吧'",
+          "usage": "💡 聊新能源技术路线\n💬 '从电动到氢能再到氨燃料，车企这是要把元素周期表试个遍啊'\n🔥 东风 氨动力 新能源",
+          "source": "https://www.huxiu.com/article/4897940.html?f=rss",
           "tags": [
-            "低轨星座",
-            "中国卫通",
-            "垄断"
+            "新能源",
+            "氨动力",
+            "东风"
           ]
         }
       ]
     },
     {
-      "name": "📱 新品发布",
+      "name": "新品发布",
       "icon": "📱",
       "items": [
         {
-          "title": "特斯拉飞车",
-          "summary": "特斯拉Roadster二代测试",
-          "detail": "特斯拉第二代Roadster在得州测试场完成了空中翻滚测试，底盘喷出的白色气流在夜空中划出长尾。这款车不仅速度快，还能飞，真是把科幻变成了现实。不过，飞行模式是否实用还是个问号，毕竟谁也不想开车时突然飞到天上去。",
-          "usage": "💡 特斯拉又搞大新闻了\n💬 特斯拉Roadster不仅能跑，还能飞！\n🔥 特斯拉 Roadster 飞行",
-          "source": "https://www.huxiu.com/article/4898178.html?f=rss",
+          "title": "iPhone变身随身听",
+          "summary": "复古iPhone Duo随身听问世",
+          "detail": "有开发者将iPhone Duo改造成复古随身听，支持磁带播放，220万人直呼'爷青回'。就是不知道会不会有'倒带'功能。",
+          "usage": "💡 聊复古科技产品\n💬 '现在手机都能当随身听了，这是科技的进步还是倒退？'\n🔥 iPhone 随身听 复古",
+          "source": "https://www.huxiu.com/article/4898247.html?f=rss",
+          "tags": [
+            "iPhone",
+            "随身听",
+            "复古"
+          ]
+        },
+        {
+          "title": "特斯拉会飞的车",
+          "summary": "Roadster跑车展示飞行能力",
+          "detail": "特斯拉新款Roadster跑车在德州展示飞行能力，可以完成'腾空翻转'等高难度动作。分析师表示：'实用性存疑，但真的很酷'。",
+          "usage": "💡 聊特斯拉的新脑洞\n💬 '这车要是能量产，以后考驾照还得先考飞机执照'\n🔥 特斯拉 Roadster 飞行汽车",
+          "source": "https://www.huxiu.com/article/4898256.html?f=rss",
           "tags": [
             "特斯拉",
             "Roadster",
             "飞行汽车"
           ]
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "AI公司内斗",
+          "summary": "字节前实习生被曝干扰模型训练",
+          "detail": "字节跳动前实习生田柯宇被曝干扰AI模型训练，其创业公司刚获五源资本投资。业内人士：'这是要把模型训练成自己的形状？'",
+          "usage": "💡 聊AI创业乱象\n💬 '现在训练模型都要防着实习生夹带私货了'\n🔥 AI 创业 字节跳动 田柯宇",
+          "source": "https://www.huxiu.com/article/4898246.html?f=rss",
+          "tags": [
+            "AI",
+            "创业",
+            "字节跳动"
+          ]
         },
         {
-          "title": "凯迪拉克XT5",
-          "summary": "樊振东现身凯迪拉克发布会",
-          "detail": "樊振东现身凯迪拉克XT5 PHEV发布会，为新车站台。这款新能源车型不仅外观时尚，油耗表现也非常出色。樊振东的亮相让发布会热度飙升，网友们纷纷表示：樊振东代言的车，肯定靠谱！",
-          "usage": "💡 樊振东现身凯迪拉克发布会\n💬 樊振东代言凯迪拉克XT5 PHEV\n🔥 樊振东 凯迪拉克 XT5",
-          "source": "https://www.toutiao.com/trending/7697214112044122150/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227697214112044122150%22%2C%22hot_board_impr_id%22%3A%2220261016222413206D60DC5ED852DA47A6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8E%B0%E8%BA%AB%E5%87%AF%E8%BF%AA%E6%8B%89%E5%85%8BXT5+PHEV%E5%8F%91%E5%B8%83%E4%BC%9A%22%7D&rank=&style_id=40132&topic_id=7697214112044122150",
+          "title": "便宜生意难做",
+          "summary": "9.9元外卖引发讨论",
+          "detail": "外卖平台出现9.9元低价套餐，引发'便宜生意为何难做'讨论。创业者吐槽：'9.9连成本都不够，这是在亏本赚吆喝'。",
+          "usage": "💡 聊低价竞争\n💬 '9.9连饭钱都不够，平台这是在培养用户当乞丐吗'\n🔥 外卖 低价 商业",
+          "source": "https://www.huxiu.com/article/4898243.html?f=rss",
           "tags": [
-            "樊振东",
-            "凯迪拉克",
-            "XT5"
+            "外卖",
+            "低价",
+            "创业"
           ]
         }
       ]
     },
     {
-      "name": "🎬 创业大戏",
-      "icon": "🎬",
+      "name": "币圈风云",
+      "icon": "🪙",
       "items": [
         {
-          "title": "姚顺宇被创业",
-          "summary": "清华AI天才被投资人盯上",
-          "detail": "清华AI天才姚顺宇被投资人盯上，隔三差五约着聊，劝他出来创业。姚顺宇虽然技术牛，但创业这事还得看时机。投资人比他更着急，大有“你不创业，我就不走”的架势。姚顺宇的动向成了创投圈的热门话题，大家都在猜他会不会成为下一个AI领域的独角兽创始人。",
-          "usage": "💡 姚顺宇被投资人盯上\n💬 投资人比姚顺宇更想创业\n🔥 姚顺宇 AI 创业",
-          "source": "https://www.huxiu.com/article/4898170.html?f=rss",
+          "title": "榜一大哥补税",
+          "summary": "董宇辉直播间榜一大哥补税7.9亿",
+          "detail": "董宇辉直播间的'榜一大哥'被曝需要补税7.9亿。网友惊叹：'这得刷多少火箭才能欠这么多税'",
+          "usage": "💡 聊直播行业税务问题\n💬 '榜一大哥的钞能力再强，也强不过税务局'\n🔥 直播 补税 董宇辉",
+          "source": "https://m.baidu.com/s?word=%E8%91%A3%E5%AE%87%E8%BE%89%E7%9A%84%E2%80%9C%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E2%80%9D%E8%A6%81%E8%A1%A5%E7%A8%8E7.9%E4%BA%BF&sa=fyb_news",
           "tags": [
-            "姚顺宇",
-            "AI",
-            "创业"
+            "直播",
+            "税务",
+            "董宇辉"
           ]
         },
         {
-          "title": "华利集团",
-          "summary": "华利集团净利润创新高",
-          "detail": "华利集团2025年归母净利润创新高，一年卖出2.27亿双运动鞋，营业收入接近250亿元。这家企业凭借强大的生产能力和市场敏锐度，成为了运动鞋领域的佼佼者。华利集团的成功也让其他企业看到了运动鞋市场的巨大潜力。",
-          "usage": "💡 华利集团净利润创新高\n💬 华利集团一年卖出2.27亿双运动鞋\n🔥 华利集团 运动鞋 净利润",
-          "source": "https://www.huxiu.com/article/4898174.html?f=rss",
+          "title": "肖战票难抢",
+          "summary": "500万人抢2.2万张肖战演唱会门票",
+          "detail": "肖战巡演门票开售，500万人抢2.2万张票，秒没。黄牛党笑开花，粉丝哭晕在厕所。",
+          "usage": "💡 聊演出市场现状\n💬 '500万抢2万张票，这概率比中彩票还低'\n🔥 肖战 演唱会 抢票",
+          "source": "https://www.huxiu.com/article/4898255.html?f=rss",
           "tags": [
-            "华利集团",
-            "运动鞋",
-            "净利润"
+            "演唱会",
+            "肖战",
+            "黄牛"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-16T14:38:19.415Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-10-17T05:36:26.280Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 6067,
-    "completion_tokens": 4574,
-    "total_tokens": 10641,
-    "cost_usd": 0.0062669195999999995,
+    "prompt_tokens": 5710,
+    "completion_tokens": 3550,
+    "total_tokens": 9260,
+    "cost_usd": 0.0049867,
     "free": false,
-    "quality": {
-      "degraded": true,
-      "dropped_orphans": 2,
-      "published": 14
-    },
     "sources": {
       "per_source": {
         "kr36": 0,

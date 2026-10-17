@@ -1,0 +1,83 @@
+{
+  "categories": [
+    {
+      "name": "追剧指南",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "劳力士悬案",
+          "summary": "看土豪如何用钞能力触发警报",
+          "detail": "热搜上那对买劳力士不试戴直接刷卡的神仙夫妻，建议当悬疑剧看——店员以为遇到洗钱的吓得报警，结果人家只是土豪的日常操作。可以边看边赌他们下一站会去买什么：'我赌他们下次会去菜市场说‘这头猪我包了，不用称’'",
+          "usage": "💡 看到热搜时自然引出\n💬 老婆你看这对夫妻买表比我买泡面还随意，我们要不要也去演个续集？\n🔥 土豪 神操作 凡尔赛",
+          "source": "https://m.baidu.com/s?word=%E5%A4%AB%E5%A6%BB%E4%B9%B02%E5%9D%97%E5%8A%B3%E5%8A%9B%E5%A3%AB%E4%B8%8D%E9%80%89%E4%B8%8D%E8%AF%95%E6%88%B4+%E5%BA%97%E5%91%98%E6%8A%A5%E8%AD%A6&sa=fyb_news",
+          "tags": [
+            "热搜剧",
+            "黑色幽默"
+          ]
+        },
+        {
+          "title": "伟哥酒厂风云",
+          "summary": "年度最硬核职场剧",
+          "detail": "药酒掺伟哥被罚252万的新闻，简直是职场剧经典模板——技术部强行给产品加功能，市场部疯狂吹疗效，最后老板含着泪交罚款。建议以纪录片风格观看：‘本片生动展现了什么叫产品经理的倔强’",
+          "usage": "💡 聊到食品安全时\n💬 老婆你看这个酒厂多拼，生怕消费者喝不high\n🔥 硬核 职场 魔改",
+          "source": "https://m.baidu.com/s?word=%E9%85%92%E5%8E%82%E5%9C%A8%E8%8D%AF%E9%85%92%E9%87%8C%E6%8E%BA%E4%BC%9F%E5%93%A5+%E8%A2%AB%E7%BD%9A252%E4%B8%87&sa=fyb_news",
+          "tags": [
+            "社会新闻",
+            "职场梗"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "土味情话",
+      "icon": "😘",
+      "items": [
+        {
+          "title": "董宇辉式表白",
+          "summary": "把补税梗变成甜蜜暴击",
+          "detail": "'老婆，我仔细算了笔账，这些年偷漏缴的'爱税'连本带利大概7.9个亿，建议分期付款——每天亲亲乘以余生的平方根'。配合热搜里董宇辉榜一大哥补税新闻使用效果更佳，记得追加：'不过我这个债务，允许肉偿'",
+          "usage": "💡 看到热搜新闻时\n💬 根据最新税法，你已涉嫌偷走我心\n🔥 热点梗 数学浪漫",
+          "source": "https://m.baidu.com/s?word=%E8%91%A3%E5%AE%87%E8%BE%89%E7%9A%84%E2%80%9C%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E2%80%9D%E8%A6%81%E8%A1%A5%E7%A8%8E7.9%E4%BA%BF&sa=fyb_news",
+          "tags": [
+            "热点改编",
+            "财税梗"
+          ]
+        },
+        {
+          "title": "劳力士承诺",
+          "summary": "买不起表就买段子",
+          "detail": "'虽然我们现在买劳力士还要试戴，但等我修好下个bug，就带你去演'进店直接刷卡'续集——不过我觉得我们更适合演'超市买菜砍价砍到老板报警'的文艺片'。结合夫妻买表新闻，重点要突出：'你比限量款还难抢'的荒诞感",
+          "usage": "💡 看到奢侈品广告时\n💬 我查过了，婚姻法规定老婆才是终身保修的无价之宝\n🔥 凡尔赛 喜剧效果",
+          "source": "https://m.baidu.com/s?word=%E5%A4%AB%E5%A6%BB%E4%B9%B02%E5%9D%97%E5%8A%B3%E5%8A%9B%E5%A3%AB%E4%B8%8D%E9%80%89%E4%B8%8D%E8%AF%95%E6%88%B4+%E5%BA%97%E5%91%98%E6%8A%A5%E8%AD%A6&sa=fyb_news",
+          "tags": [
+            "奢侈品梗",
+            "承诺"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-17T05:34:49.912Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3024,
+    "completion_tokens": 3088,
+    "total_tokens": 6112,
+    "cost_usd": 0.0037159999999999997,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 12,
+      "published": 4
+    },
+    "sources": {
+      "per_source": {
+        "baidu": 20
+      },
+      "total": 15
+    }
+  }
+}
