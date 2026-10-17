@@ -1,0 +1,132 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "汽车出口船荒",
+          "summary": "中国汽车出口猛增导致运船紧张",
+          "detail": "中国汽车工业协会数据显示，2026年1-9月整车出口820万辆，码头新车排成长龙，滚装船舱位抢破头。这波'船到用时方恨少'的操作，让中国车企集体体验了一把双十一剁手党的焦虑。",
+          "usage": "💡 聊国际贸易或供应链时\n💬 中国汽车出口把船都开没了，这波属于陆地征服海洋了\n🔥 汽车出口 运船紧张 码头排队",
+          "source": "https://www.huxiu.com/article/4898323.html?f=rss",
+          "tags": [
+            "汽车产业",
+            "国际贸易",
+            "供应链"
+          ]
+        },
+        {
+          "title": "iPhoneDuo黄牛凉凉",
+          "summary": "苹果新机溢价快速回落",
+          "detail": "10月16日iPhone Duo发售当晚，黄牛们摩拳擦掌准备大赚一笔，结果经销商现货充足，溢价快速回落。这场'黄牛末日'证明：库克的期货大师称号可能要换成现货大魔王了。",
+          "usage": "💡 聊苹果新品或黄牛经济时\n💬 这次iPhone Duo黄牛们集体扑街，库克终于学会玩现货了\n🔥 iPhoneDuo 黄牛 现货充足",
+          "source": "https://www.huxiu.com/article/4898311.html?f=rss",
+          "tags": [
+            "苹果",
+            "智能手机",
+            "黄牛经济"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "马斯克放飞Roadster",
+          "summary": "特斯拉跑车玩特技起飞",
+          "detail": "10月16日特斯拉发布会上，一辆白色Roadster沿弯曲坡道飞向空中，马斯克再次证明'不会飞天的跑车不是好电动车'。就是不知道这次有没有像2018年那样把特斯拉送进太空。",
+          "usage": "💡 聊电动车或马斯克时\n💬 马斯克又把特斯拉当火箭玩了，下次是不是要登陆火星？\n🔥 特斯拉 Roadster 飞天跑车",
+          "source": "https://www.huxiu.com/article/4898304.html?f=rss",
+          "tags": [
+            "马斯克",
+            "特斯拉",
+            "电动车"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "百度搜索困局",
+          "summary": "用户吐槽百度搜索结果质量",
+          "detail": "网友集体吐槽百度搜索：找教程全是复制粘贴，查产品得先研究哪些是广告。这波'寻宝游戏'体验，让百度成功把搜索引擎做成了大家来找茬。",
+          "usage": "💡 聊搜索引擎或互联网产品时\n💬 现在用百度搜索得带放大镜，广告和内容傻傻分不清楚\n🔥 百度 搜索引擎 广告",
+          "source": "https://www.huxiu.com/article/4898316.html?f=rss",
+          "tags": [
+            "百度",
+            "搜索引擎",
+            "互联网广告"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "稀土新矿种发现",
+          "summary": "新矿石或改变稀土格局",
+          "detail": "美国发现一种可能改变中美稀土博弈的新矿石，科研人员表示其提取效率更高。这场'石头剪刀布'的科技战中，中国表示：我们仓库里可能也有，只是还没翻到那一页。",
+          "usage": "💡 聊科技战或矿产资源时\n💬 美国发现新稀土矿，中国默默翻开矿物大全第1024页\n🔥 稀土 矿产资源 科技战",
+          "source": "https://www.huxiu.com/article/4898313.html?f=rss",
+          "tags": [
+            "稀土",
+            "矿产资源",
+            "科技战"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "投资人公开互撕",
+          "summary": "创投圈上演恩怨大戏",
+          "detail": "投资人田柯宇被同行发文炮轰'没有职业道德'，创投圈开启真人版'商业互撕'。吃瓜群众纷纷表示：这比创业节目刺激多了，建议直接拍成《创投的名义》。",
+          "usage": "💡 聊创投圈八卦时\n💬 现在的投资人都开始亲自下场撕了，建议开发个投资人版微博\n🔥 创投圈 田柯宇 投资人",
+          "source": "https://www.huxiu.com/article/4898308.html?f=rss",
+          "tags": [
+            "创投",
+            "投资人",
+            "商业互撕"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-17T13:56:52.338Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 5192,
+    "completion_tokens": 2595,
+    "total_tokens": 7787,
+    "cost_usd": 0.003970990000000001,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 10,
+      "published": 6
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 12,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 23
+    }
+  }
+}
