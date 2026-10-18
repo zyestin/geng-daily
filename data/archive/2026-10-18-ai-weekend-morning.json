@@ -1,0 +1,286 @@
+{
+  "categories": [
+    {
+      "name": "炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "Claude破20年悬案",
+          "summary": "半小时解决密码学难题",
+          "detail": "Anthropic的Claude只用半小时就破解了困扰密码学界20年的‘双椭圆曲线签名漏洞’难题——学界此前的研究方向完全跑偏，论文堆起来比人还高的错误推导被AI一举推翻。现在密码学家们都在自嘲：研究经费不如买API调用次数。",
+          "usage": "💡 看群里讨论密码学时切入\n💬 「建议密码学教授把科研经费换成Claude API充值卡」\n🔥 Claude 密码学 降维打击",
+          "src_id": 1,
+          "tags": [
+            "密码学",
+            "Anthropic",
+            "AI研究"
+          ],
+          "source": "https://www.qbitai.com/2026/10/503910.html"
+        },
+        {
+          "title": "Meta偷偷改协议",
+          "summary": "悄悄删了AI训练条款",
+          "detail": "Meta连夜修改用户协议，删掉了可能允许其抓取用户数据训练AI的争议条款——但嘴硬说‘实际做法没变’。网友实测发现：用新账号发隐私内容，旧版协议账号5分钟就被AI引用，新版账号24小时还没动静。原来AI伦理全靠手动注释？",
+          "usage": "💡 看到Meta新闻时抛出\n💬 「建议扎克伯格把AI训练部门改名叫人工注释部」\n🔥 Meta 数据抓取 隐私条款",
+          "src_id": 3,
+          "tags": [
+            "Meta",
+            "数据隐私",
+            "AI伦理"
+          ],
+          "source": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+        }
+      ]
+    },
+    {
+      "name": "新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "DeepSeek屠榜",
+          "summary": "性价比碾压全场",
+          "detail": "DeepSeek闪电发布V4.1-Flash-1017：价格只有GPT-6 Astra的1/4但跑分超15%，还自带搜索引擎API。网友实测发现——用它查技术问题像是带着百度百科参加数学竞赛，边解题边翻参考书。同行连夜开会讨论要不要跟进开放搜索功能。",
+          "usage": "💡 有人抱怨API价格时\n💬 「现在大模型的军备竞赛是比谁先集成好12306查票功能」\n🔥 DeepSeek 性价比 搜索API",
+          "src_id": 1,
+          "tags": [
+            "DeepSeek",
+            "大模型",
+            "API"
+          ],
+          "source": "https://www.qbitai.com/2026/10/504067.html"
+        },
+        {
+          "title": "Elorian视觉王",
+          "summary": "图表推理超GPT-6",
+          "detail": "新锐公司Elorian的首个模型Glimpse在科学图表推理测试中碾压GPT-6 Astra——它能像学霸一样用草稿纸边写边画推导过程，而其他模型还在玩‘看图说话’。生物狗们已经用它自动分析电泳图，省下的时间够养三批细胞。",
+          "usage": "💡 讨论科研AI工具时\n💬 「建议实验室招AI当二作，至少它不会偷吃培养皿」\n🔥 Elorian 图表推理 科研AI",
+          "src_id": 21,
+          "tags": [
+            "Elorian",
+            "视觉推理",
+            "科研"
+          ],
+          "source": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
+        }
+      ]
+    },
+    {
+      "name": "AI大佬言论",
+      "icon": "🗣️",
+      "description": "",
+      "items": [
+        {
+          "title": "奥特曼暗讽竞品",
+          "summary": "再谈模型安全性",
+          "detail": "奥特曼在斯坦福闭门会上说：‘有些公司把AI安全做得像汽车安全带——只在碰撞测试时系一下’。台下观众秒懂这是在diss某家用安全带当卖点的竞争对手。结果Anthropic第二天真的宣布要给AI加装‘数字安全带’功能...这波属实是行为艺术了。",
+          "usage": "💡 聊到AI安全话题时\n💬 「建议AI安全考试加装驾驶员人格测试」\n🔥 奥特曼 Anthropic 安全隐喻",
+          "src_id": 1,
+          "tags": [
+            "奥特曼",
+            "AI安全",
+            "斯坦福"
+          ],
+          "source": "https://www.qbitai.com/2026/10/504067.html"
+        },
+        {
+          "title": "NVIDIA老兵预言",
+          "summary": "机器人还没到ChatGPT时刻",
+          "detail": "前NVIDIA机器人产品负责人Amulya Vishwanath转行VC后放话：‘现在机器人AI就像2015年的NLP——还在用规则脚本喂狗’。她爆料实验室里早有用视觉模型控制机械臂喝水的Demo，但离‘能自己找水喝的机器人’还差100个GPT-3到GPT-4的突破。",
+          "usage": "💡 聊机器人进展时\n💬 「波士顿动力的狗到现在还不敢自己接水喝」\n🔥 机器人 AI NVIDIA",
+          "src_id": 15,
+          "tags": [
+            "机器人",
+            "NVIDIA",
+            "VC"
+          ],
+          "source": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
+        }
+      ]
+    },
+    {
+      "name": "巨头动态",
+      "icon": "🏢",
+      "description": "",
+      "items": [
+        {
+          "title": "Replit叛逃",
+          "summary": "默认模型换成OpenAI",
+          "detail": "Replit官宣用OpenAI全面替代Anthropic作为默认模型提供商——用户发现新模型会自动补全TODO注释，而旧版只会写‘此处需要实现’。CEO Masad说换模型后付费转化率涨了17%，评论区炸出500个程序员晒被AI骂代码丑的截图。",
+          "usage": "💡 看到Replit更新时\n💬 「现在连TODO都不用写了，AI直接帮你把年假安排上」\n🔥 Replit OpenAI 代码补全",
+          "src_id": 9,
+          "tags": [
+            "Replit",
+            "OpenAI",
+            "编程"
+          ],
+          "source": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+        },
+        {
+          "title": "Anthropic开大会",
+          "summary": "员工不写代码改开会",
+          "detail": "Anthropic内部报告泄露：现在工程师每周有58%时间在开会，去年才32%——网友调侃这是‘从黑客马拉松变成公务员备考’。最骚的是他们真在测试用AI生成会议纪要，结果发现AI把‘技术讨论’全标记为‘废话文学’。",
+          "usage": "💡 吐槽无效会议时\n💬 「建议给参会率超过50%的码农颁发最佳听众奖」\n🔥 Anthropic 会议文化 AI纪要",
+          "src_id": 6,
+          "tags": [
+            "Anthropic",
+            "企业文化",
+            "会议"
+          ],
+          "source": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
+        }
+      ]
+    },
+    {
+      "name": "产品落地",
+      "icon": "🛠️",
+      "description": "",
+      "items": [
+        {
+          "title": "ChatGPT插件王",
+          "summary": "Stack Overflow接入翻三倍",
+          "detail": "Stack Overflow的ChatGPT插件上线三个月，开发者注册量暴涨300%——现在提问自动关联历史答案，AI还会提醒‘这个问题2018年有人问过类似的’。老用户纷纷表示：‘终于不用看十年前被采纳的错误答案了’，但摸鱼时间也少了50%。",
+          "usage": "💡 有人问技术问题时\n💬 「现在连‘怎么退出vim’都有AI监控你敢信？」\n🔥 ChatGPT 插件 StackOverflow",
+          "src_id": 8,
+          "tags": [
+            "ChatGPT",
+            "插件",
+            "开发者"
+          ],
+          "source": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+        },
+        {
+          "title": "网易10万买真话",
+          "summary": "语音Agent求吐槽",
+          "detail": "网易‘叭哥说’语音Agent上线‘荣誉联创计划’——用户提真实需求能分10万奖金池。已有勇士拿到5000元，因为他建议‘别学Siri装可爱，程序员需要的是能骂醒自己的AI’。产品经理连夜改交互文档，第一页加上‘本AI支持祖安模式’。",
+          "usage": "💡 吐槽AI语音助手时\n💬 「建议增加‘老板画饼识别器’功能」\n🔥 网易 语音Agent 用户共创",
+          "src_id": 22,
+          "tags": [
+            "网易",
+            "语音AI",
+            "用户体验"
+          ],
+          "source": "https://www.qbitai.com/2026/10/503861.html"
+        }
+      ]
+    },
+    {
+      "name": "开源江湖",
+      "icon": "🔓",
+      "description": "",
+      "items": [
+        {
+          "title": "清华开源降本83%",
+          "summary": "智能体操作系统大升级",
+          "detail": "清华开源‘智能体操作系统’新版本：任务成本直接打1.7折，AI记忆支持实时修改——相当于给机器人装了个可擦写大脑。已有团队用它控制无人机群，原本要烧10万的仿真训练现在网吧充值卡就能搞定。",
+          "usage": "💡 聊AI训练成本时\n💬 「建议无人机考驾照加试网吧包夜科目」\n🔥 清华 开源 智能体",
+          "src_id": 7,
+          "tags": [
+            "清华",
+            "智能体",
+            "无人机"
+          ],
+          "source": "https://www.qbitai.com/2026/10/503935.html"
+        },
+        {
+          "title": "世界模型杀入物理",
+          "summary": "GeoPT作者新开源",
+          "detail": "清华特奖得主携GeoPT一作开源物理世界模型——能预测‘从推倒多米诺骨牌到核聚变装置’的连锁反应。网友用它在Minecraft里模拟三峡大坝，结果发现游戏物理引擎比现实还难模拟，AI直接报错‘建议玩俄罗斯方块’。",
+          "usage": "💡 讨论物理引擎时\n💬 「我的世界玩家连夜给AI上供3080ti」\n🔥 世界模型 物理模拟 开源",
+          "src_id": 16,
+          "tags": [
+            "世界模型",
+            "物理模拟",
+            "Minecraft"
+          ],
+          "source": "https://www.qbitai.com/2026/10/503880.html"
+        }
+      ]
+    },
+    {
+      "name": "研究突破",
+      "icon": "🔬",
+      "description": "",
+      "items": [
+        {
+          "title": "AI学会预演未来",
+          "summary": "世界模型让机器人想清楚再动",
+          "detail": "突破性论文证实：结合视觉语言模型(VLA)和世界模型，机器人失误率从38%降到5%——相当于从‘看见香蕉皮就滑倒’进化到‘提前绕开所有香蕉皮’。团队演示时故意放歪了杯子，机械手臂会在空中急刹车重新计算轨迹，像极了人类‘差点闯红灯’时的反应。",
+          "usage": "💡 展示机器人视频时\n💬 「建议给机器人装个‘后怕’表情包功能」\n🔥 世界模型 机器人 预演",
+          "src_id": 19,
+          "tags": [
+            "世界模型",
+            "机器人",
+            "预演"
+          ],
+          "source": "https://www.qbitai.com/2026/10/503865.html"
+        },
+        {
+          "title": "OpenAI杀入生物",
+          "summary": "GPT-Rosalind免费送实验室",
+          "detail": "OpenAI推出‘Rosalind学术计划’：向生物实验室免费提供GPT-Rosalind使用权。第一天就有团队用它设计新冠变种追踪方案——结果AI建议‘给每个毒株发Twitter账号让它们自己报坐标’，被教授吐槽‘不如让病毒写周报’。",
+          "usage": "💡 聊AI+生物时\n💬 「建议给线粒体开个直播间，反正它们天天在发电」\n🔥 OpenAI 生物信息 免费",
+          "src_id": 11,
+          "tags": [
+            "OpenAI",
+            "生物",
+            "学术"
+          ],
+          "source": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+        }
+      ]
+    },
+    {
+      "name": "行业风向",
+      "icon": "📈",
+      "description": "",
+      "items": [
+        {
+          "title": "印度AI特工入侵",
+          "summary": "配置泄露引发事故",
+          "detail": "印度政府证实遭遇AI特工攻击：犯罪分子利用暴露的API配置，操纵500+台智能设备同时拨打诈骗电话。最骚的是这些AI会模仿方言口音，连‘你中奖了’的泰米尔语版本都比人类骗子标准。现在孟买警察都在学用AI反诈骗AI。",
+          "usage": "💡 聊到AI安全时\n💬 「建议骗子考普通话等级证书方便AI识别」\n🔥 印度 AI诈骗 API安全",
+          "src_id": 12,
+          "tags": [
+            "印度",
+            "AI诈骗",
+            "安全"
+          ],
+          "source": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+        },
+        {
+          "title": "律所用AI审合同",
+          "summary": "从几周压缩到几小时",
+          "detail": "顶级律所Sullivan & Cromwell用OpenAI的Agreement Analyzer工具，把合同审查从三周压到四小时——合伙人表示‘年轻律师终于不用熬夜找条款了’，但法学院连夜修改培养方案，新增‘如何让AI输出更像人类’课程。",
+          "usage": "💡 聊法律科技时\n💬 「建议律所按AI的充电时间收费」\n🔥 法律AI 合同审查 OpenAI",
+          "src_id": 17,
+          "tags": [
+            "法律AI",
+            "合同",
+            "效率"
+          ],
+          "source": "https://openai.com/index/sullivan-cromwell"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-18T05:54:18.283Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3499,
+    "completion_tokens": 3292,
+    "total_tokens": 6791,
+    "cost_usd": 0.00404956,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}
