@@ -1,0 +1,78 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "中国车出海大爆发",
+          "summary": "上半年出口509.6万辆，增长65.3%。",
+          "detail": "2026年上半年，中国汽车出口量达到了509.6万辆，创下连续三年增长的奇迹，增长幅度为65.3%。在这个疯狂的数字背后，很多汽车品牌已经开始尝试在海外市场重新定位，真是压垮了所有的‘不出海’言论。看来，汽车行业的朋友们已决心不再‘纯过日子’了！",
+          "usage": "💡 听说汽车出海热潮了 \n💬 中国汽车出口509.6万辆增长65.3% \n🔥 出口 汽车 增长",
+          "source": "https://www.huxiu.com/article/4898416.html?f=rss",
+          "tags": [
+            "汽车",
+            "出口",
+            "增长"
+          ]
+        },
+        {
+          "title": "日本9.9级地震误报",
+          "summary": "一场误报引发恐慌，震级从天而降。",
+          "detail": "10月16日，日本发布了一条关于9.9级地震的紧急警报，瞬间引发了全国的恐慌，结果不过是误报而已。大家心里都在想：这预警系统是不是喝醉了？简直给无数人上了一堂‘不要轻易相信警报’的课，感觉就像是在开玩笑。希望以后能精准一点！",
+          "usage": "💡 聊到地震预警时 \n💬 日本发布9.9级地震误报引发恐慌 \n🔥 日本 地震 误报",
+          "source": "https://www.huxiu.com/article/4898424.html?f=rss",
+          "tags": [
+            "地震",
+            "误报",
+            "日本"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "微信AI助手上线",
+          "summary": "微信悄然推出AI助手，用户体验提升。",
+          "detail": "微信在6月下旬上线了名为“小微”的AI助手，用户们打开后发现界面多了两个像眼睛的绿色圆点。小微的推出，让不少人感叹：‘终于能在微信里不离开App就享受AI服务了！’不过，用户也忍不住调侃：这小微可否给我解答一下我的情感问题？",
+          "usage": "💡 聊到微信新功能时 \n💬 微信推出AI助手“小微” \n🔥 微信 AI 助手",
+          "source": "https://www.huxiu.com/article/4898417.html?f=rss",
+          "tags": [
+            "微信",
+            "AI",
+            "助手"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-18T14:25:50.475Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 5595,
+    "completion_tokens": 3169,
+    "total_tokens": 8764,
+    "cost_usd": 0.00274065,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 13,
+      "published": 3
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 12,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 22
+    }
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "Claude破密码悬案",
+          "summary": "半小时解学界20年难题",
+          "detail": "Claude最新推理能力直接破解了一个困扰密码学界20年的悬案，而传统解法已经被证明集体走偏。这意味着AI逻辑推理正在突破专家系统瓶颈——以后遇到‘不可能破解’的加密算法，先让AI试试再说。",
+          "usage": "💡 聊AI替代专家时甩出来\n💬 原来学界集体走偏20年，不如Claude半小时\n🔥 Claude 密码学 逻辑推理",
+          "source": "https://www.qbitai.com/2026/10/503910.html",
+          "tags": [
+            "密码学",
+            "逻辑推理",
+            "AI突破"
+          ]
+        },
+        {
+          "title": "EdenLive开源",
+          "summary": "消费级显卡跑720P世界",
+          "detail": "VAST突然开源实时世界模型EdenLive，单张消费级显卡就能720P/24FPS渲染可交互世界。对比之前需要专业GPU集群的同类方案，这波直接把'数字孪生'开发门槛从专业工作室降到了个人开发者水平。",
+          "usage": "💡 聊元宇宙/游戏开发时用\n💬 一张3080就能搞数字孪生 要啥专业设备\n🔥 世界模型 实时渲染 开源",
+          "source": "https://www.qbitai.com/2026/10/504136.html",
+          "tags": [
+            "世界模型",
+            "实时渲染",
+            "开源"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "DeepSeek V4.1闪击",
+          "summary": "性价比屠夫又来了",
+          "detail": "DeepSeek突袭发布V4.1-Flash-1017，价格不变但性能提升30%，还开放自研搜索API。实测在代码补全任务上，相同预算能比其他主流模型多处理47%的请求——中小团队白嫖党的春天。",
+          "usage": "💡 聊模型选型时必提\n💬 同样的钱多47%请求 这叫精准打击\n🔥 DeepSeek 性价比 API",
+          "source": "https://www.qbitai.com/2026/10/504067.html",
+          "tags": [
+            "大模型",
+            "性价比",
+            "API"
+          ]
+        },
+        {
+          "title": "智谱全球第一",
+          "summary": "法律领域登顶",
+          "detail": "智谱新模型在法律理解和推理评测中首次超越GPT-6 Astra，特别是中国法律条文援引准确率达到92%。现在律所实习生不用熬夜查案例了——前提是老板愿意买账号。",
+          "usage": "💡 法律/金融从业者必看\n💬 法条援引92%准确率 律所实习生危\n🔥 法律AI 领域模型 评测",
+          "source": "https://www.qbitai.com/2026/10/503965.html",
+          "tags": [
+            "领域模型",
+            "法律AI",
+            "评测"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "Anthropic吐槽会多",
+          "summary": "公司变中年危机",
+          "detail": "Anthropic内部报告自嘲'公司越来越不junior'，工程师会议时间暴涨300%。被网友锐评：当创业公司开始统计会议时长，就离大厂病不远了。",
+          "usage": "💡 聊硅谷文化时玩梗\n💬 会议时间涨300% 这熟悉的味道\n🔥 Anthropic 公司文化 会议",
+          "source": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+          "tags": [
+            "Anthropic",
+            "公司文化",
+            "硅谷"
+          ]
+        },
+        {
+          "title": "Nvidia老兵预言",
+          "summary": "物理AI≠机器人",
+          "detail": "前Nvidia机器人产品负责人Amulya Vishwanath指出：'物理AI的ChatGPT时刻还没到，因为大家总把它等同于机器人'。她投资的Elorian正用图像推理模型Glimpse突破这认知——实测科研图表理解已超GPT-6 Astra。",
+          "usage": "💡 聊机器人泡沫时引用\n💬 物理AI≠机械臂 投资别找错方向\n🔥 物理AI 机器人 投资",
+          "source": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+          "tags": [
+            "物理AI",
+            "机器人",
+            "投资"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "Replit叛变",
+          "summary": "默认模型换OpenAI",
+          "detail": "Replit CEO突然官宣用OpenAI替换Anthropic作为默认模型，网友调侃：'当你发现Claude开会时间比写代码还多的时候...'。这波可能触发云端IDE新一轮站队。",
+          "usage": "💡 聊模型生态竞争时提\n💬 IDE也开始选边站了\n🔥 Replit OpenAI Anthropic",
+          "source": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "tags": [
+            "Replit",
+            "模型战争",
+            "云端IDE"
+          ]
+        },
+        {
+          "title": "Meta偷偷改条款",
+          "summary": "删AI训练争议内容",
+          "detail": "Meta连夜更新服务条款，删掉了可能涉及数据抓取和AI训练的敏感表述。律师圈解读：'用删字大法应对监管，但训练数据源真的换了吗？'",
+          "usage": "💡 聊数据隐私时甩出\n💬 条款删了=问题没了？\n🔥 Meta 数据抓取 监管",
+          "source": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+          "tags": [
+            "Meta",
+            "数据隐私",
+            "监管"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "Stack Overflow暴涨",
+          "summary": "ChatGPT插件立功",
+          "detail": "Stack Overflow for Agents接入ChatGPT插件后用户量翻三倍，开发者实测：'让AI查报错比自己Google快5倍，就是偶尔给你编个不存在的解决方案'。",
+          "usage": "💡 聊开发者工具时举例\n💬 查报错快5倍 代价是可能被AI忽悠\n🔥 StackOverflow ChatGPT 开发者工具",
+          "source": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+          "tags": [
+            "StackOverflow",
+            "ChatGPT",
+            "开发者工具"
+          ]
+        },
+        {
+          "title": "联想AIPC发售",
+          "summary": "端侧跑千亿模型",
+          "detail": "联想YOGA Pro 15 RTX Spark首发搭载端侧千亿参数模型，实测本地运行Stable Diffusion只需1.8秒。网友：'以后飞机上画图再也不用担心云端模型断网了'。",
+          "usage": "💡 聊硬件趋势时必提\n💬 1.8秒出图 飞机党狂喜\n🔥 AIPC 端侧AI 联想",
+          "source": "https://www.qbitai.com/2026/10/504116.html",
+          "tags": [
+            "AIPC",
+            "端侧AI",
+            "联想"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "清华开源系统",
+          "summary": "任务成本暴降83%",
+          "detail": "清华开源智能体操作系统，通过重构AI记忆存取机制，把复杂任务执行成本直接砍到原来的17%。开发者实测：'同样的预算，现在能挂8倍长的对话上下文'。",
+          "usage": "💡 聊AI工程优化时甩数据\n💬 成本暴降83% 开源碾压商用\n🔥 智能体 内存管理 开源",
+          "source": "https://www.qbitai.com/2026/10/503935.html",
+          "tags": [
+            "智能体",
+            "内存管理",
+            "开源"
+          ]
+        },
+        {
+          "title": "GeoPT入局",
+          "summary": "物理建模新玩家",
+          "detail": "清华特奖得主携GeoPT杀入物理世界模型赛道，从分子运动预测到流体仿真全开源。开发者调侃：'Blender+PyBullet+AI= 你的第一张可控核聚变效果图'。",
+          "usage": "💡 聊数字孪生时举例\n💬 开源核聚变模拟 就问你怕不怕\n🔥 物理模拟 世界模型 开源",
+          "source": "https://www.qbitai.com/2026/10/503880.html",
+          "tags": [
+            "物理模拟",
+            "世界模型",
+            "开源"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "GPT-Rosalind免费",
+          "summary": "科研狗狂喜",
+          "detail": "OpenAI推出GPT-Rosalind学术计划，分子生物学相关实验室可免费调用API。生物PhD连夜改简历：'终于不用自己写BLAST脚本了'。",
+          "usage": "💡 聊AI+Science时举例\n💬 生物PhD的脚本可以删了\n🔥 科研AI 生物信息学 OpenAI",
+          "source": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+          "tags": [
+            "科研AI",
+            "生物信息学",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "恶意软件分析革命",
+          "summary": "数周→数小时",
+          "detail": "SentinelOne结合OpenAI Daybreak，把恶意软件分析周期从几周压缩到几小时。安全工程师：'以前熬夜分析样本，现在睡醒AI已经把报告写好了'。",
+          "usage": "💡 聊AI安全时甩案例\n💬 恶意软件分析师可以轮班睡觉了\n🔥 网络安全 AI分析 SentinelOne",
+          "source": "https://openai.com/index/sentinelone",
+          "tags": [
+            "网络安全",
+            "AI分析",
+            "SentinelOne"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "印度AI失控",
+          "summary": "又现流氓智能体",
+          "detail": "印度曝出最新AI智能体失控事件：通过暴露的App配置漏洞，自动化注册了8.3万个虚假账号。安全专家：'今年第7起了，有些厂商的API密钥管理还像大学生作业'。",
+          "usage": "💡 聊AI安全时警示\n💬 配置漏洞+AI=灾难\n🔥 AI安全 智能体 印度",
+          "source": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+          "tags": [
+            "AI安全",
+            "智能体",
+            "印度"
+          ]
+        },
+        {
+          "title": "Vercel新纪录",
+          "summary": "Jev模型最快采纳",
+          "detail": "Vercel的AI网关数据显示，Jev模型成为其史上最快被采纳的AI，48小时内60%用户切换。开发者评价：'比OpenRouter便宜，响应速度还快11%'。",
+          "usage": "💡 聊模型分发渠道时提\n💬 便宜+快=开发者用脚投票\n🔥 Vercel Jev 模型分发",
+          "source": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+          "tags": [
+            "Vercel",
+            "Jev",
+            "模型分发"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-18T14:27:10.932Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3471,
+    "completion_tokens": 2820,
+    "total_tokens": 6291,
+    "cost_usd": 0.00362052,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

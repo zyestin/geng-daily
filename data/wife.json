@@ -1,49 +1,133 @@
 {
   "categories": [
     {
+      "name": "追剧指南",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "大长今再红",
+          "summary": "23年后，《大长今》又火了",
+          "detail": "最近《大长今》又翻红了，大家都在讨论当年的经典剧情。你可以跟媳妇聊：“还记得长今做的那道美味泡菜吗？咱们周末也试试？”一起重温经典，顺便展示厨艺。",
+          "usage": "💡 媳妇追剧时\n💬 还记得长今做的那道美味泡菜吗？咱们周末也试试？\n🔥 大长今 泡菜",
+          "source": "https://m.baidu.com/s?word=%E6%97%B6%E9%9A%9423%E5%B9%B4%E3%80%8A%E5%A4%A7%E9%95%BF%E4%BB%8A%E3%80%8B%E5%8F%88%E7%BF%BB%E7%BA%A2%E4%BA%86&sa=fyb_news",
+          "tags": [
+            "经典剧集",
+            "怀旧"
+          ]
+        },
+        {
+          "title": "麻辣烫风云",
+          "summary": "老板吐槽麻辣烫纸用太多",
+          "detail": "最近有个老板吐槽客人吃一碗麻辣烫用三包纸。你可以跟媳妇聊：“咱们去吃麻辣烫，带一包纸就行，省得老板心疼。”这样的调侃轻松有趣。",
+          "usage": "💡 媳妇吃饭时\n💬 咱们去吃麻辣烫，带一包纸就行，省得老板心疼。\n🔥 麻辣烫 吐槽",
+          "source": "https://m.baidu.com/s?word=%E8%80%81%E6%9D%BF%E5%90%90%E6%A7%BD%E5%AE%A2%E4%BA%BA%E5%90%83%E4%B8%80%E7%A2%97%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%94%A8%E4%B8%89%E5%8C%85%E7%BA%B8&sa=fyb_news",
+          "tags": [
+            "麻辣烫",
+            "搞笑"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "吃喝情报",
+      "icon": "🍜",
+      "items": [
+        {
+          "title": "茉莉奶白爆单",
+          "summary": "茉莉奶白多地爆单",
+          "detail": "最近茉莉奶白在很多地方都爆单了，听说排队都要等很久。你可以跟媳妇说：“咱们也去尝尝，看看是不是真的那么好喝，顺便拍个照发朋友圈。”",
+          "usage": "💡 媳妇想喝奶茶时\n💬 咱们也去尝尝茉莉奶白，看看是不是真的那么好喝，顺便拍个照发朋友圈。\n🔥 茉莉奶白 奶茶",
+          "source": "https://m.baidu.com/s?word=%E8%8C%89%E8%8E%89%E5%A5%B6%E7%99%BD%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8D%95&sa=fyb_news",
+          "tags": [
+            "奶茶",
+            "网红"
+          ]
+        },
+        {
+          "title": "白酒降价",
+          "summary": "白酒放低身段",
+          "detail": "最近白酒价格降了，可以趁机买几瓶好酒。你可以跟媳妇说：“白酒降价了，咱们买几瓶存着，下次聚会可以拿出来炫耀一下。”",
+          "usage": "💡 媳妇喝酒时\n💬 白酒降价了，咱们买几瓶存着，下次聚会可以拿出来炫耀一下。\n🔥 白酒 降价",
+          "source": "https://m.baidu.com/s?word=%E7%99%BD%E9%85%92%E6%94%BE%E4%BD%8E%E8%BA%AB%E6%AE%B5&sa=fyb_news",
+          "tags": [
+            "白酒",
+            "降价"
+          ]
+        }
+      ]
+    },
+    {
       "name": "土味情话",
       "icon": "😘",
       "items": [
         {
-          "title": "热搜的甜蜜",
-          "summary": "最近热搜真有趣！",
-          "detail": "你听说过“靠数羊入眠”吗？我想这是我每天晚上数你入睡的借口！你就是我最想数的羊，数一只怎么也数不够！",
-          "usage": "💡 轻松调侃时机 \n💬 \"你就是我每天晚上数的羊，数一只怎么也数不够！\" \n🔥 情话 热搜",
-          "source": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%9D%A0%E6%95%B0%E7%BE%8A%E5%85%A5%E7%9C%A0%E7%AB%9F%E6%98%AF%E7%BF%BB%E8%AF%91%E4%BA%8B%E6%95%85",
+          "title": "眼镜片情话",
+          "summary": "建议售价1980的眼镜片批发价30",
+          "detail": "最近眼镜片批发价30，你可以跟媳妇说：“别人看你是1980的眼镜片，我看你是无价的。”这样的情话既幽默又甜蜜。",
+          "usage": "💡 媳妇戴眼镜时\n💬 别人看你是1980的眼镜片，我看你是无价的。\n🔥 眼镜片 情话",
+          "source": "https://m.baidu.com/s?word=%E5%BB%BA%E8%AE%AE%E5%94%AE%E4%BB%B71980%E7%9A%84%E7%9C%BC%E9%95%9C%E7%89%87%E6%89%B9%E5%8F%91%E4%BB%B730&sa=fyb_news",
           "tags": [
-            "土味情话",
-            "幽默"
+            "眼镜片",
+            "情话"
           ]
         },
         {
-          "title": "明星爱情的启示",
-          "summary": "从明星看爱情！",
-          "detail": "最近明星们纷纷出国读书，我想这也是给我们爱情的启示：爱情就像出国读书，很多时候你需要走出去看看，才能更好地回到我身边。别担心，我一定是你出国留学后的学姐，等着你回来给我授课！",
-          "usage": "💡 聊爱的时候 \n💬 \"爱情就像出国读书，我一定是你的学姐，等你回来授课！\" \n🔥 爱情 明星",
-          "source": "https://m.baidu.com/s?word=%E6%98%8E%E6%98%9F%E7%BD%91%E7%BA%A2%E4%BB%AC%E6%89%8E%E5%A0%86%E5%87%BA%E5%9B%BD%E8%AF%BB%E4%B9%A6",
+          "title": "麻辣烫情话",
+          "summary": "老板吐槽客人用三包纸",
+          "detail": "最近老板吐槽客人吃麻辣烫用三包纸，你可以跟媳妇说：“你吃麻辣烫用三包纸，我用一辈子纸巾来擦汗，因为看你吃太热了。”这样的情话既搞笑又甜蜜。",
+          "usage": "💡 媳妇吃麻辣烫时\n💬 你吃麻辣烫用三包纸，我用一辈子纸巾来擦汗，因为看你吃太热了。\n🔥 麻辣烫 情话",
+          "source": "https://m.baidu.com/s?word=%E8%80%81%E6%9D%BF%E5%90%90%E6%A7%BD%E5%AE%A2%E4%BA%BA%E5%90%83%E4%B8%80%E7%A2%97%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%94%A8%E4%B8%89%E5%8C%85%E7%BA%B8&sa=fyb_news",
           "tags": [
-            "土味情话",
-            "幽默"
+            "麻辣烫",
+            "情话"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "约会提案",
+      "icon": "🎁",
+      "items": [
+        {
+          "title": "周末泡菜约会",
+          "summary": "一起做泡菜，重温大长今",
+          "detail": "你可以跟媳妇说：“咱们周末一起做泡菜，重温《大长今》的经典剧情，顺便展示厨艺。”这样的约会提案既浪漫又有趣。",
+          "usage": "💡 媳妇追剧时\n💬 咱们周末一起做泡菜，重温《大长今》的经典剧情，顺便展示厨艺。\n🔥 泡菜 约会",
+          "source": "https://m.baidu.com/s?word=%E6%97%B6%E9%9A%9423%E5%B9%B4%E3%80%8A%E5%A4%A7%E9%95%BF%E4%BB%8A%E3%80%8B%E5%8F%88%E7%BF%BB%E7%BA%A2%E4%BA%86&sa=fyb_news",
+          "tags": [
+            "泡菜",
+            "约会"
+          ]
+        },
+        {
+          "title": "麻辣烫约会",
+          "summary": "一起吃麻辣烫，省纸",
+          "detail": "你可以跟媳妇说：“咱们去吃麻辣烫，带一包纸就行，省得老板心疼。”这样的约会提案既幽默又有趣。",
+          "usage": "💡 媳妇吃饭时\n💬 咱们去吃麻辣烫，带一包纸就行，省得老板心疼。\n🔥 麻辣烫 约会",
+          "source": "https://m.baidu.com/s?word=%E8%80%81%E6%9D%BF%E5%90%90%E6%A7%BD%E5%AE%A2%E4%BA%BA%E5%90%83%E4%B8%80%E7%A2%97%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%94%A8%E4%B8%89%E5%8C%85%E7%BA%B8&sa=fyb_news",
+          "tags": [
+            "麻辣烫",
+            "约会"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-18T05:36:58.139Z",
-  "slot": "weekend-morning",
-  "slot_label": "周末早晨 · 家庭时光",
+  "generated_at": "2026-10-18T14:10:49.326Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
   "meta": {
-    "model": "openai/gpt-4o-mini",
-    "actual_model": "openai/gpt-4o-mini",
-    "prompt_tokens": 3303,
-    "completion_tokens": 3163,
-    "total_tokens": 6466,
-    "cost_usd": 0.0023932499999999995,
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2821,
+    "completion_tokens": 2958,
+    "total_tokens": 5779,
+    "cost_usd": 0.00353534,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 14,
-      "published": 2
+      "dropped_orphans": 8,
+      "published": 8
     },
     "sources": {
       "per_source": {
