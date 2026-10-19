@@ -5,30 +5,28 @@
       "icon": "💥",
       "items": [
         {
-          "title": "Claude解悬案",
-          "summary": "Claude半小时解开密码学悬案",
-          "detail": "Claude在半小时内解开了困扰密码学界20年的悬案，学界集体走偏20年的研究方向被瞬间纠正。这波操作不仅展示了AI在密码学领域的强大潜力，也让人类研究者感叹：AI不仅比我们快，还比我们准。",
-          "usage": "💡 聊AI在专业领域的突破\n💬 Claude半小时解开密码学悬案，学界集体走偏20年\n🔥 Claude 密码学 悬案",
-          "src_id": 10,
+          "title": "VAST开源实时世界模型",
+          "summary": "VAST开源EdenLive，720P超24FPS",
+          "detail": "VAST开源了实时世界模型EdenLive，直接甩出单消费级显卡就能运行，720P分辨率下帧率还能飙到24帧以上。这意味着人人都能自由创造和体验交互世界，以前需要专业设备和高昂成本才能搞定的场景，现在一台普通电脑就行。VR/AR开发者们估计已经在摩拳擦掌了。",
+          "usage": "💡 闲聊VR/AR技术时提到\n💬 VAST开源EdenLive，以后在普通电脑上就能玩720P实时世界模型，谁说VR一定要高端设备？\n🔥 VAST EdenLive 开源 实时世界模型",
+          "source": "https://www.qbitai.com/2026/10/504136.html",
+          "tags": [
+            "VAST",
+            "EdenLive",
+            "实时世界模型"
+          ]
+        },
+        {
+          "title": "Claude破密码学悬案",
+          "summary": "Claude半小时解开20年密码学难题",
+          "detail": "Claude这回真是露脸了，半小时内就解开了困扰密码学界20年的悬案。学界集体走了20年弯路，结果被AI轻松破解。这不仅展示了AI在密码学上的潜力，还让人感叹：有时候，换个角度看问题，真的能事半功倍。",
+          "usage": "💡 讨论AI在密码学应用时提到\n💬 Claude半小时解开了20年密码学悬案，学界集体走偏20年，AI这次太秀了！\n🔥 Claude 密码学 悬案",
+          "source": "https://www.qbitai.com/2026/10/503910.html",
           "tags": [
             "Claude",
             "密码学",
             "悬案"
-          ],
-          "source": "https://www.qbitai.com/2026/10/503910.html"
-        },
-        {
-          "title": "Disney招AI人",
-          "summary": "Disney招聘Character.AI大部分员工",
-          "detail": "Disney已同意招聘Character.AI的大部分员工，这一举动不仅展示了Disney在AI领域的雄心，也为Character.AI的员工提供了新的职业机会。Disney此举可能是为了加速其在AI内容生成和互动娱乐领域的布局。",
-          "usage": "💡 聊AI人才的流动\n💬 Disney招聘Character.AI大部分员工，AI人才争夺战升级\n🔥 Disney Character.AI 招聘",
-          "src_id": 6,
-          "tags": [
-            "Disney",
-            "Character.AI",
-            "招聘"
-          ],
-          "source": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+          ]
         }
       ]
     },
@@ -37,30 +35,28 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "DeepSeek V4.1",
-          "summary": "DeepSeek发布V4.1-Flash-1017",
-          "detail": "DeepSeek发布了新版本V4.1-Flash-1017，不仅性能大幅提升，还开放了自研搜索API。这一版本的性价比极高，几乎可以斩杀一切竞品，AI开发者们的工具箱又要更新了。",
-          "usage": "💡 聊新模型发布\n💬 DeepSeek V4.1-Flash-1017发布，性价比斩杀一切\n🔥 DeepSeek V4.1 性价比",
-          "src_id": 1,
+          "title": "DeepSeek新模型发布",
+          "summary": "DeepSeek V4.1-Flash-1017发布",
+          "detail": "DeepSeek新模型V4.1-Flash-1017发布，性价比高到离谱，直接斩杀一切竞品。还开放了自研搜索API，开发者们估计已经在摩拳擦掌，准备接入自家产品了。这波DeepSeek真是来势汹汹，未来AI市场的格局怕是要被重新定义。",
+          "usage": "💡 讨论AI模型性价比时提到\n💬 DeepSeek新模型V4.1-Flash-1017发布，性价比高到斩杀一切，AI市场要变天了！\n🔥 DeepSeek V4.1-Flash-1017 性价比",
+          "source": "https://www.qbitai.com/2026/10/504067.html",
           "tags": [
             "DeepSeek",
-            "V4.1",
+            "V4.1-Flash-1017",
             "性价比"
-          ],
-          "source": "https://www.qbitai.com/2026/10/504067.html"
+          ]
         },
         {
-          "title": "智谱新模型",
-          "summary": "智谱新模型懂法全球第一",
-          "detail": "智谱发布了新模型，在懂法方面全球第一。这不仅是技术上的突破，更是在法律AI领域的一次重大进展，未来可能会在法律咨询、合同审查等领域大显身手。",
-          "usage": "💡 聊AI在法律领域的应用\n💬 智谱新模型懂法全球第一，法律AI新标杆\n🔥 智谱 法律AI 全球第一",
-          "src_id": 4,
+          "title": "智谱新模型发布",
+          "summary": "智谱新模型，懂法全球第一",
+          "detail": "智谱新模型在懂法方面直接登顶全球第一，法学界的人估计已经在瑟瑟发抖。这不仅是AI在法律领域的一大突破，更是对传统法律服务的巨大挑战。未来，AI律师可能会成为常态，法律服务的门槛也将大大降低。",
+          "usage": "💡 讨论AI在法律领域的应用时提到\n💬 智谱新模型在懂法方面全球第一，法学界的人估计已经在瑟瑟发抖了！\n🔥 智谱 懂法 全球第一",
+          "source": "https://www.qbitai.com/2026/10/503965.html",
           "tags": [
             "智谱",
-            "法律AI",
+            "懂法",
             "全球第一"
-          ],
-          "source": "https://www.qbitai.com/2026/10/503965.html"
+          ]
         }
       ]
     },
@@ -69,30 +65,28 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "Anthropic会议多",
-          "summary": "Anthropic员工会议时间增加",
-          "detail": "Anthropic表示，其员工正在花费更多时间在会议上，且团队中初级员工的比例减少。这意味着Anthropic在快速扩展和成熟的过程中，内部沟通和决策的方式正在发生变化。",
-          "usage": "💡 聊AI公司内部管理\n💬 Anthropic员工会议时间增加，公司成熟度提升\n🔥 Anthropic 会议 成熟度",
-          "src_id": 12,
+          "title": "Anthropic CEO言论",
+          "summary": "Anthropic CEO谈员工变化",
+          "detail": "Anthropic CEO最近透露，公司员工结构变得更资深，会议时间也大幅增加。这反映出AI公司的成长痛点：随着规模扩大，管理复杂度和沟通成本也在飙升。AI公司不仅要解决技术问题，还得应对组织管理的挑战。",
+          "usage": "💡 讨论AI公司管理问题时提到\n💬 Anthropic CEO说员工变得更资深，会议时间也增加了，AI公司的管理复杂度真是越来越高啊！\n🔥 Anthropic CEO 员工结构 会议",
+          "source": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
           "tags": [
             "Anthropic",
-            "会议",
-            "成熟度"
-          ],
-          "source": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
+            "CEO",
+            "员工结构"
+          ]
         },
         {
-          "title": "Replit换默认模型",
-          "summary": "Replit将默认模型换成OpenAI",
-          "detail": "Replit CEO表示，将默认模型从Anthropic换成了OpenAI。这一决定可能基于性能、成本或用户反馈的考量，展示了AI模型供应商之间的激烈竞争。",
-          "usage": "💡 聊AI模型供应商竞争\n💬 Replit将默认模型换成OpenAI，Anthropic出局\n🔥 Replit OpenAI 默认模型",
-          "src_id": 15,
+          "title": "Replit CEO言论",
+          "summary": "Replit CEO谈模型提供商",
+          "detail": "Replit CEO明确表示，OpenAI将取代Anthropic成为其默认模型提供商。这不仅是技术选择，更是战略调整。Replit显然在押注OpenAI的技术优势，未来AI开发平台的竞争格局可能会因此进一步分化。",
+          "usage": "💡 讨论AI开发平台竞争时提到\n💬 Replit CEO说OpenAI将取代Anthropic成为默认模型提供商，AI开发平台的竞争格局要变天了！\n🔥 Replit CEO OpenAI Anthropic",
+          "source": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
           "tags": [
             "Replit",
-            "OpenAI",
-            "默认模型"
-          ],
-          "source": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+            "CEO",
+            "OpenAI"
+          ]
         }
       ]
     },
@@ -101,30 +95,28 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "Meta条款更新",
-          "summary": "Meta更新AI训练条款",
-          "detail": "Meta更新了其关于数据抓取和AI训练的条款，删除了引发争议的部分。这一调整可能旨在缓解公众和监管机构对其数据使用方式的担忧，展示其对透明度和合规性的重视。",
-          "usage": "💡 聊AI公司的数据使用政策\n💬 Meta更新AI训练条款，删除争议内容\n🔥 Meta AI训练 条款更新",
-          "src_id": 9,
+          "title": "Meta更新条款",
+          "summary": "Meta移除AI训练争议条款",
+          "detail": "Meta最近更新了其条款，移除了引发AI训练争议的部分。尽管Meta发言人坚称这只是措辞调整，但外界普遍认为这是Meta在AI数据使用上的让步。未来，AI公司和用户之间的数据使用协议可能会更加透明。",
+          "usage": "💡 讨论AI数据使用争议时提到\n💬 Meta更新条款，移除了AI训练争议部分，AI公司和用户的数据使用协议要更透明了！\n🔥 Meta 条款 AI训练",
+          "source": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
           "tags": [
             "Meta",
-            "AI训练",
-            "条款更新"
-          ],
-          "source": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+            "条款",
+            "AI训练"
+          ]
         },
         {
-          "title": "Anthropic公益基金",
-          "summary": "Anthropic设立5%股份公益基金",
-          "detail": "Anthropic宣布将5%的股份承诺给一个“公共福利基金”。这一举措不仅展示了Anthropic对社会责任的重视，也为其他AI公司设立了一个新的公益标杆。",
-          "usage": "💡 聊AI公司的社会责任\n💬 Anthropic设立5%股份公益基金，AI公司新标杆\n🔥 Anthropic 公益基金 社会责任",
-          "src_id": 3,
+          "title": "Disney招聘Character.AI员工",
+          "summary": "Disney招聘Character.AI员工",
+          "detail": "Disney已同意招聘Character.AI的大部分员工，这一举动不仅显示了Disney在AI领域的野心，也反映出Character.AI在技术和人才上的价值。未来，Disney可能会在AI驱动的娱乐内容上大展拳脚。",
+          "usage": "💡 讨论AI人才流动时提到\n💬 Disney招聘了Character.AI的大部分员工，未来AI驱动的娱乐内容估计要起飞了！\n🔥 Disney Character.AI 招聘",
+          "source": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
           "tags": [
-            "Anthropic",
-            "公益基金",
-            "社会责任"
-          ],
-          "source": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+            "Disney",
+            "Character.AI",
+            "招聘"
+          ]
         }
       ]
     },
@@ -133,30 +125,28 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "Stack Overflow插件",
-          "summary": "Stack Overflow插件用户激增",
-          "detail": "Stack Overflow for Agents的ChatGPT插件上线后，用户注册量激增三倍。这一插件不仅为开发者提供了更便捷的问题解决工具，也展示了AI在技术支持领域的强大潜力。",
-          "usage": "💡 聊AI插件的应用\n💬 Stack Overflow插件用户激增三倍，开发者福音\n🔥 Stack Overflow ChatGPT 插件",
-          "src_id": 8,
+          "title": "联想AIPC发售",
+          "summary": "联想YOGA Pro 15 RTX Spark发售",
+          "detail": "联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售，搭载超千亿大模型，端侧跑通无压力。买AIPC就选联想YOGA，这波联想真是把AI硬件玩出了新高度。",
+          "usage": "💡 讨论AI硬件时提到\n💬 联想YOGA Pro 15 RTX Spark发售，搭载超千亿大模型，AIPC市场要起飞了！\n🔥 联想 YOGA Pro 15 AIPC",
+          "source": "https://www.qbitai.com/2026/10/504116.html",
           "tags": [
-            "Stack Overflow",
-            "ChatGPT",
-            "插件"
-          ],
-          "source": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+            "联想",
+            "YOGA Pro 15",
+            "AIPC"
+          ]
         },
         {
-          "title": "Itaú对话界面",
-          "summary": "Itaú推出AI对话界面",
-          "detail": "Itaú推出了基于生成式AI的对话界面ia.i，旨在为其所有客户提供服务。这一界面不仅提升了客户体验，也展示了AI在金融领域的广泛应用前景。",
-          "usage": "💡 聊AI在金融领域的应用\n💬 Itaú推出AI对话界面，金融服务新体验\n🔥 Itaú AI 对话界面",
-          "src_id": 2,
+          "title": "GPT-Rosalind学术计划",
+          "summary": "GPT-Rosalind学术计划发布",
+          "detail": "OpenAI推出GPT-Rosalind学术计划，为符合条件的学术实验室提供赞助访问。这不仅降低了学术研究的门槛，也为AI在科研领域的应用开辟了新的可能性。未来，AI可能会成为学术研究的标配工具。",
+          "usage": "💡 讨论AI在学术研究的应用时提到\n💬 OpenAI推出GPT-Rosalind学术计划，AI在科研领域的应用估计要起飞了！\n🔥 OpenAI GPT-Rosalind 学术计划",
+          "source": "https://openai.com/index/introducing-the-rosalind-academic-plan",
           "tags": [
-            "Itaú",
-            "AI",
-            "对话界面"
-          ],
-          "source": "https://openai.com/index/itau-generative-ai"
+            "OpenAI",
+            "GPT-Rosalind",
+            "学术计划"
+          ]
         }
       ]
     },
@@ -165,30 +155,28 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "清华开源系统",
-          "summary": "清华开源智能体操作系统",
-          "detail": "清华大学开源了智能体操作系统，任务成本降低83%，AI记忆可查可改。这一开源项目不仅为AI开发者提供了强大的工具，也为AI技术的普及和优化做出了重要贡献。",
-          "usage": "💡 聊开源AI系统\n💬 清华开源智能体操作系统，任务成本降83%\n🔥 清华 开源 智能体操作系统",
-          "src_id": 7,
+          "title": "VAST开源EdenLive",
+          "summary": "VAST开源EdenLive",
+          "detail": "VAST开源实时世界模型EdenLive，单消费级显卡就能运行，720P分辨率下帧率还能飙到24帧以上。这意味着人人都能自由创造和体验交互世界，开源的力量真是无穷大。",
+          "usage": "💡 讨论开源技术时提到\n💬 VAST开源EdenLive，单消费级显卡就能运行720P实时世界模型，开源的力量无穷大！\n🔥 VAST EdenLive 开源",
+          "source": "https://www.qbitai.com/2026/10/504136.html",
           "tags": [
-            "清华",
-            "开源",
-            "智能体操作系统"
-          ],
-          "source": "https://www.qbitai.com/2026/10/503935.html"
+            "VAST",
+            "EdenLive",
+            "开源"
+          ]
         },
         {
-          "title": "GeoPT物理模型",
-          "summary": "清华特奖得主创业物理模型",
-          "detail": "清华特奖得主GeoPT一作入局物理世界模型，从搭载物理建模能力的世界模型切入。这一创业项目不仅展示了AI在物理领域的应用潜力，也为AI创业者提供了新的方向。",
-          "usage": "💡 聊AI在物理领域的应用\n💬 清华特奖得主创业物理模型，AI新方向\n🔥 清华 GeoPT 物理模型",
-          "src_id": 16,
+          "title": "清华开源智能体操作系统",
+          "summary": "清华开源智能体操作系统",
+          "detail": "清华开源智能体操作系统，任务成本直接降了83%，AI记忆还能随时查改。这不仅是技术上的突破，更是对AI开发流程的优化。开源的力量，真是让AI开发的效率飞起来了。",
+          "usage": "💡 讨论开源AI技术时提到\n💬 清华开源智能体操作系统，任务成本降83%，AI记忆可查可改，AI开发的效率飞起来了！\n🔥 清华 智能体操作系统 开源",
+          "source": "https://www.qbitai.com/2026/10/503935.html",
           "tags": [
             "清华",
-            "GeoPT",
-            "物理模型"
-          ],
-          "source": "https://www.qbitai.com/2026/10/503880.html"
+            "智能体操作系统",
+            "开源"
+          ]
         }
       ]
     },
@@ -197,30 +185,28 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "GPT-Rosalind",
-          "summary": "GPT-Rosalind学术研究计划",
-          "detail": "OpenAI推出了GPT-Rosalind学术研究计划，为符合条件的学术实验室提供赞助访问。这一计划不仅为学术研究提供了强大的AI工具，也展示了OpenAI在学术界的支持力度。",
-          "usage": "💡 聊AI在学术研究中的应用\n💬 GPT-Rosalind学术研究计划发布，学术界福音\n🔥 GPT-Rosalind 学术研究 赞助",
-          "src_id": 11,
+          "title": "Claude解密码学悬案",
+          "summary": "Claude半小时解开20年密码学难题",
+          "detail": "Claude半小时内就解开了困扰密码学界20年的悬案，学界集体走了20年弯路，结果被AI轻松破解。这不仅展示了AI在密码学上的潜力，还让人感叹：有时候，换个角度看问题，真的能事半功倍。",
+          "usage": "💡 讨论AI在密码学应用时提到\n💬 Claude半小时解开了20年密码学悬案，学界集体走偏20年，AI这次太秀了！\n🔥 Claude 密码学 悬案",
+          "source": "https://www.qbitai.com/2026/10/503910.html",
           "tags": [
-            "GPT-Rosalind",
-            "学术研究",
-            "赞助"
-          ],
-          "source": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+            "Claude",
+            "密码学",
+            "悬案"
+          ]
         },
         {
-          "title": "SentinelOne分析",
-          "summary": "SentinelOne恶意软件分析提速",
-          "detail": "SentinelOne利用OpenAI Daybreak将恶意软件分析从数周缩短到数小时。这一技术突破不仅提升了安全分析的效率，也为网络安全领域带来了新的工具和可能性。",
-          "usage": "💡 聊AI在网络安全中的应用\n💬 SentinelOne恶意软件分析提速，网络安全新利器\n🔥 SentinelOne OpenAI 恶意软件分析",
-          "src_id": 23,
+          "title": "GeoPT入局物理世界模型",
+          "summary": "GeoPT一作入局物理世界模型",
+          "detail": "清华特奖得主GeoPT入局物理世界模型，从搭载物理建模能力的世界模型切入。这不仅展示了AI在物理领域的潜力，也为物理研究开辟了新的可能性。未来，AI可能会成为物理研究的标配工具。",
+          "usage": "💡 讨论AI在物理研究应用时提到\n💬 GeoPT入局物理世界模型，AI在物理领域的潜力估计要起飞了！\n🔥 GeoPT 物理世界模型",
+          "source": "https://www.qbitai.com/2026/10/503880.html",
           "tags": [
-            "SentinelOne",
-            "OpenAI",
-            "恶意软件分析"
-          ],
-          "source": "https://openai.com/index/sentinelone"
+            "GeoPT",
+            "物理世界模型",
+            "AI"
+          ]
         }
       ]
     },
@@ -230,43 +216,41 @@
       "items": [
         {
           "title": "印度AI代理事件",
-          "summary": "印度报告AI代理异常活动",
-          "detail": "印度成为最新报告AI代理异常活动的国家，这些代理通过暴露的应用程序配置凭证和连接设置进入。这一事件不仅揭示了AI安全的重要性，也为全球AI监管敲响了警钟。",
-          "usage": "💡 聊AI安全问题\n💬 印度报告AI代理异常活动，全球AI安全警钟\n🔥 印度 AI代理 安全",
-          "src_id": 18,
+          "summary": "印度报告AI代理活动",
+          "detail": "印度成为最新一个报告AI代理活动的国家，这些代理通过暴露的凭证和连接设置进入系统。这不仅暴露了AI安全的风险，也提醒企业和开发者，AI代理的部署需要更严格的防护措施。",
+          "usage": "💡 讨论AI安全问题时提到\n💬 印度报告AI代理活动，AI代理的部署需要更严格的防护措施！\n🔥 印度 AI代理 安全",
+          "source": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
           "tags": [
             "印度",
             "AI代理",
             "安全"
-          ],
-          "source": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+          ]
         },
         {
-          "title": "网易叭哥说",
-          "summary": "网易叭哥说10万征集建议",
-          "detail": "网易首个AI原生语音Agent「网易叭哥说」上线“用户荣誉联创计划”，投入10万元征集产品建议。这一举措不仅展示了网易对用户体验的重视，也为AI产品的优化提供了新的思路。",
-          "usage": "💡 聊AI产品优化\n💬 网易叭哥说10万征集建议，用户体验新高度\n🔥 网易 叭哥说 用户建议",
-          "src_id": 22,
+          "title": "Anthropic公共福利基金",
+          "summary": "Anthropic设立公共福利基金",
+          "detail": "Anthropic宣布将5%的股份投入公共福利基金，这不仅是公司社会责任的体现，也为AI行业的可持续发展提供了新的思路。未来，更多AI公司可能会效仿这一做法，推动AI技术的社会价值最大化。",
+          "usage": "💡 讨论AI公司社会责任时提到\n💬 Anthropic将5%的股份投入公共福利基金，AI行业的社会责任估计要起飞了！\n🔥 Anthropic 公共福利基金 社会责任",
+          "source": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
           "tags": [
-            "网易",
-            "叭哥说",
-            "用户建议"
-          ],
-          "source": "https://www.qbitai.com/2026/10/503861.html"
+            "Anthropic",
+            "公共福利基金",
+            "社会责任"
+          ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-19T01:55:29.923Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-10-19T17:06:53.151Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3500,
-    "completion_tokens": 2474,
-    "total_tokens": 5974,
-    "cost_usd": 0.0033218600000000003,
+    "prompt_tokens": 3454,
+    "completion_tokens": 3220,
+    "total_tokens": 6674,
+    "cost_usd": 0.00397108,
     "free": false,
     "sources": {
       "per_source": {

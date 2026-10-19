@@ -1,199 +1,196 @@
 {
   "categories": [
     {
-      "name": "前端框架",
-      "icon": "🚀",
+      "name": "时事热点",
+      "icon": "📰",
       "items": [
         {
-          "title": "Svelte 5 预览",
-          "summary": "Svelte 5 预览版发布，性能大幅提升",
-          "detail": "Svelte 5 预览版在上周末发布，引入了全新的编译器优化，性能提升了近 30%。特别是针对大型应用的渲染速度有了显著改善，开发者社区反响热烈。",
-          "usage": "你知道吗？Svelte 5 预览版发布了，性能提升超 30%！感觉以后开发大型应用会轻松不少，等正式版出来一定要试试。",
-          "source": "",
-          "tags": [
-            "Svelte",
-            "前端框架"
-          ]
-        },
-        {
-          "title": "Next.js 14 Beta",
-          "summary": "Next.js 14 Beta 发布，支持 React 19",
-          "detail": "Next.js 14 Beta 版本在上周六发布，全面支持 React 19 的新特性，包括并发渲染和新的 Suspense API。同时，优化了静态生成和动态路由的性能。",
-          "usage": "Next.js 14 Beta 发布了，支持 React 19 的新特性，特别是并发渲染，感觉未来的项目开发会更流畅。你打算升级吗？",
-          "source": "",
-          "tags": [
-            "Next.js",
-            "React"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "React Native",
-      "icon": "📱",
-      "items": [
-        {
-          "title": "Fabric 架构升级",
-          "summary": "React Native Fabric 架构全面升级",
-          "detail": "React Native 的 Fabric 架构在上周日进行了重大升级，提升了渲染性能和内存管理。新架构支持更高效的跨平台开发，尤其是在 iOS 和 Android 上的表现更趋一致。",
-          "usage": "React Native 的 Fabric 架构又升级了，听说渲染性能提升了不少，特别是 iOS 和 Android 的表现更一致了。你试过了吗？",
-          "source": "",
-          "tags": [
-            "React Native",
-            "Fabric"
-          ]
-        },
-        {
-          "title": "RN 新跨端方案",
-          "summary": "React Native 新跨端方案发布",
-          "detail": "React Native 上周六发布了一套新的跨端开发方案，支持更灵活的组件复用和状态管理，尤其是在处理复杂业务逻辑时表现优异。",
-          "usage": "React Native 上周六发布了一套新的跨端方案，感觉在处理复杂业务逻辑时会更方便，有机会可以一起研究下。",
-          "source": "",
-          "tags": [
-            "React Native",
-            "跨端"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "AI编程",
-      "icon": "🤖",
-      "items": [
-        {
-          "title": "Cursor 2.0",
-          "summary": "Cursor 2.0 发布，AI 编程助手新功能",
-          "detail": "Cursor 2.0 在上周日发布，新增了智能代码补全和上下文感知功能，特别是对 TypeScript 和 React 的支持更加完善，开发者体验大幅提升。",
-          "usage": "Cursor 2.0 发布了，新增了智能代码补全和上下文感知功能，特别是对 TypeScript 和 React 的支持更好了。你用了吗？",
-          "source": "https://github.com/cursor/plugins",
-          "tags": [
-            "Cursor",
-            "AI编程"
-          ]
-        },
-        {
-          "title": "AI 生成 UI",
-          "summary": "AI 生成 UI 工具新动态",
-          "detail": "上周六，AI 生成 UI 工具发布了新版本，支持更复杂的布局生成和设计规范适配，特别是在移动端应用的 UI 设计上表现突出。",
-          "usage": "听说 AI 生成 UI 工具又更新了，支持更复杂的布局生成，特别是移动端应用的 UI 设计，感觉以后 UI 设计会更简单了。",
+          "title": "AI内容标识",
+          "summary": "新规要求AI生成内容加水印",
+          "detail": "国家互联网信息办公室发布《深度合成服务管理规定》，要求所有AI生成的图片、视频、音频在显著位置添加明显标识，以防止误导。",
+          "usage": "你听说没？新规出了，以后看到的AI图片都会有小水印，这样我们辨假更容易啊。",
           "source": "",
           "tags": [
             "AI",
-            "UI设计"
+            "政策",
+            "科技"
+          ]
+        },
+        {
+          "title": "能源转型进展",
+          "summary": "风光装机容量首次超过火电",
+          "detail": "据国家能源局最新数据，2026年前三季度风电、光伏累计装机容量达到1400GW，超过了火电装机量，标志着能源结构转型加速。",
+          "usage": "最近看到新闻，风光装机竟然超过了火电，看来咱们家的电以后可能更多来自风力和太阳能啦。",
+          "source": "",
+          "tags": [
+            "能源",
+            "环保",
+            "新闻"
           ]
         }
       ]
     },
     {
-      "name": "TS & JS",
-      "icon": "📘",
+      "name": "亲子时光",
+      "icon": "👨‍👧",
       "items": [
         {
-          "title": "TS 5.3 RC",
-          "summary": "TypeScript 5.3 RC 发布，新特性",
-          "detail": "TypeScript 5.3 RC 在上周末发布，新增了对泛型约束的优化和更严格的类型检查，特别是在处理大型项目时表现更为出色。",
-          "usage": "TypeScript 5.3 RC 发布了，新增了对泛型约束的优化，感觉在处理大型项目时会更方便。你打算升级吗？",
+          "title": "科学小实验",
+          "summary": "用家常材料做火山喷发实验",
+          "detail": "小苏打+醋+洗洁精+红色食色，可在家中模拟火山喷发，帮助孩子了解化学反应和地质现象，操作简单安全。",
+          "usage": "今天晚上我们可以试试做小火山实验，只需要醋和小苏打，保证孩子会哇哇叫。",
           "source": "",
           "tags": [
-            "TypeScript",
-            "JS"
+            "亲子",
+            "科学实验",
+            "手工"
           ]
         },
         {
-          "title": "Node 20 LTS",
-          "summary": "Node.js 20 LTS 发布，新特性",
-          "detail": "Node.js 20 LTS 在上周日发布，新增了对 ES2024 的支持和更高效的模块加载机制，特别是在处理异步操作时表现更为出色。",
-          "usage": "Node.js 20 LTS 发布了，新增了对 ES2024 的支持，感觉在处理异步操作时会更方便。你试过了吗？",
+          "title": "秋季亲子徒步",
+          "summary": "郊外红叶观赏路线推荐",
+          "detail": "北京香山、南京紫金山、成都青城山等地在十月中旬进入最佳红叶期，适合带孩子轻装徒步，兼顾运动与自然教育。",
+          "usage": "这个周末打算带小丽去香山看红叶，顺便讲讲为什么叶子会变黄，既锻炼又学知识。",
           "source": "",
           "tags": [
-            "Node.js",
-            "JS"
+            "亲子",
+            "户外",
+            "秋游"
           ]
         }
       ]
     },
     {
-      "name": "开源热门",
-      "icon": "🌟",
+      "name": "热门影视",
+      "icon": "🎬",
       "items": [
         {
-          "title": "Opencode",
-          "summary": "Opencode 开源项目火热",
-          "detail": "Opencode 是一个开源的 AI 编程代理工具，支持多种编程语言的代码生成和优化，特别是对 React 和 TypeScript 的支持非常完善，最近在 GitHub 上热度飙升。",
-          "usage": "Opencode 最近在 GitHub 上火了，听说它支持多种编程语言的代码生成，特别是对 React 和 TypeScript 的支持非常好。你关注了吗？",
-          "source": "https://github.com/anomalyco/opencode",
+          "title": "国产动画《天书奇谭》新季",
+          "summary": "经典IP重制，优酷独播",
+          "detail": "根据1983年同名动画电影，《天书奇谭》新季采用4K修复+全新剧情，讲述现代少年与古代神仙的跨时空冒险，已获豆影8.5分。",
+          "usage": "最近优酷上新了《天书奇谭》新季，画质超赞，晚上可以和小丽一起追，据说还融入了很多科普知识。",
+          "source": "",
           "tags": [
-            "开源",
-            "AI编程"
+            "动画",
+            "国产",
+            "追剧"
           ]
         },
         {
-          "title": "Claude Plugins",
-          "summary": "Claude 官方插件发布",
-          "detail": "Anthropic 上周六发布了 Claude 官方插件目录，支持开发者快速集成各种 AI 功能，特别是在代码生成和优化方面表现突出。",
-          "usage": "Claude 官方插件发布了，支持快速集成各种 AI 功能，特别是代码生成和优化方面，感觉开发效率会提升不少。你试过了吗？",
-          "source": "https://github.com/anthropics/claude-plugins-official",
+          "title": "纪录片《微观世界》第二季",
+          "summary": "聚焦昆虫微生态，Netflix上线",
+          "detail": "BBC自然纪录片团队制作，用微距摄像头记录蚂蚁、蜜蜂等微小生物的生活，第二季加入了中国本土物种的特别篇。",
+          "usage": "你看过《微观世界》第二季吗？里面的蚂蚁搬家镜头超治愈，适合周末和孩子一起看，开眼界。",
+          "source": "",
           "tags": [
-            "开源",
-            "AI"
+            "纪录片",
+            "自然",
+            "Netflix"
           ]
         }
       ]
     },
     {
-      "name": "开发者梗",
-      "icon": "😄",
+      "name": "生活妙招",
+      "icon": "💡",
       "items": [
         {
-          "title": "代码审查梗",
-          "summary": "代码审查中的经典梗",
-          "detail": "周末在 Stack Overflow 上，有人分享了在代码审查中遇到的经典梗，比如 '这个变量名为什么叫 foo？'，引发了一波程序员共鸣。",
-          "usage": "周末在 Stack Overflow 上看到一个代码审查的梗，有人问 '这个变量名为什么叫 foo？'，笑死我了，你遇到过类似的梗吗？",
+          "title": "冰箱除味小技巧",
+          "summary": "用咖啡渣和竹炭包吸味",
+          "detail": "将用过的咖啡渣晒干放入小布袋，或使用竹炭包，放在冰箱角落可有效吸附异味，持续约一个月后更换。",
+          "usage": "冰箱最近有点怪味，我试了把咖啡渣晒干装袋子放里面，第二天味道就淡了很多，超简单。",
           "source": "",
           "tags": [
-            "代码审查",
-            "梗"
+            "生活技巧",
+            "厨房",
+            "环保"
           ]
         },
         {
-          "title": "开发者文化",
-          "summary": "开发者文化新动态",
-          "detail": "上周六，开发者社区讨论了关于开发者文化的新趋势，特别是如何平衡工作与生活，引发了广泛讨论。",
-          "usage": "周末开发者社区在讨论如何平衡工作与生活，感觉这个话题特别适合周一聊，你是怎么看待的？",
+          "title": "衣物快速去皱",
+          "summary": "吹风机+湿毛巾秒平",
+          "detail": "将衣物挂好，喷少量水或用湿毛巾覆盖，使用吹风机热风档对准衣物推移，可在5分钟内平褶，适合棉麻及合成纤维。",
+          "usage": "早上急着出门，衬衫皱了，我用吹风机对着湿毛巾吹了两分钟，立刻平滑了，省去熨斗时间。",
           "source": "",
           "tags": [
-            "开发者文化",
-            "工作生活平衡"
+            "生活妙招",
+            "衣物护理",
+            "省时"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "乒乓球",
+      "icon": "🏓",
+      "items": [
+        {
+          "title": "WTT冠军赛上海站",
+          "summary": "国乒包揽男女单冠军",
+          "detail": "2026年10月份WTT冠军赛上海站落幕，樊振东、王曼昱分别夺得男女单打冠军，展现国乒在新周期的强势。",
+          "usage": "刚看了WTT上海站的决赛，樊振东又稳了，王曼昱也赢了，看来国乒还是没人能挡啊。",
+          "source": "",
+          "tags": [
+            "乒乓球",
+            "WTT",
+            "国乒"
+          ]
+        },
+        {
+          "title": "新款碳纤维底板推荐",
+          "summary": "蝴蝶Viscaria升级版",
+          "detail": "蝴蝶公司发布Viscaria Pro，采用更高模量碳纤维层，提升攻击性同时保持控制感，适合进攻型球手，价格约1500元。",
+          "usage": "最近看到蝴蝶出了新款Viscaria Pro，听说速度更快，想不想试试？如果你喜欢快攻，这块板子可能很合适。",
+          "source": "",
+          "tags": [
+            "乒乓球",
+            "装备",
+            "蝴蝶"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "健康养生",
+      "icon": "🥗",
+      "items": [
+        {
+          "title": "秋季防燥食谱",
+          "summary": "银耳莲子粥润肺",
+          "detail": "银耳富含多糖，莲子具有安神作用，两者同炖可缓解秋季干燥引起的咳嗽、咽干，建议每周食用2-3次。",
+          "usage": "这几天天气干，我给家里煮了银耳莲子粥，小丽喝了说喉咙不那么痒了，挺好用的。",
+          "source": "",
+          "tags": [
+            "饮食",
+            "养生",
+            "秋季"
+          ]
+        },
+        {
+          "title": "居家拉伸操",
+          "summary": "5分钟全身伸展缓解久坐",
+          "detail": "包括颈部旋转、肩部环绕、猫牛式、坐姿前折等动作，每个动作保持20-30秒，可在办公室或客厅进行，有助于改善血液循环和减轻肌肉紧张。",
+          "usage": "我每天下班后都做这套5分钟拉伸，颈椎不那么酸了，你也可以试试，办公室椅子上就能做。",
+          "source": "",
+          "tags": [
+            "运动",
+            "健康",
+            "居家"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-19T01:41:48.923Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-10-19T16:37:55.773Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
-    "model": "deepseek/deepseek-chat",
-    "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 2006,
-    "completion_tokens": 1697,
-    "total_tokens": 3703,
-    "cost_usd": 0.0021522499999999996,
-    "free": false,
-    "sources": {
-      "per_source": {
-        "hackernews": 15,
-        "reddit": 0,
-        "askhn": 8,
-        "lobsters": 10,
-        "devto": 10,
-        "v2ex": 9,
-        "juejin": 10,
-        "github": 10,
-        "qbitai": 8,
-        "infoq": 8
-      },
-      "total": 20
-    }
+    "model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "actual_model": "nvidia/nemotron-3-super-120b-a12b:free",
+    "prompt_tokens": 1112,
+    "completion_tokens": 7472,
+    "total_tokens": 8584,
+    "cost_usd": 0,
+    "free": true
   }
 }
