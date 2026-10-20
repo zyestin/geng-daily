@@ -5,27 +5,25 @@
       "icon": "💥",
       "items": [
         {
-          "title": "VAST开源实时世界模型",
-          "summary": "VAST开源EdenLive，720P超24FPS",
-          "detail": "VAST开源了实时世界模型EdenLive，直接甩出单消费级显卡就能运行，720P分辨率下帧率还能飙到24帧以上。这意味着人人都能自由创造和体验交互世界，以前需要专业设备和高昂成本才能搞定的场景，现在一台普通电脑就行。VR/AR开发者们估计已经在摩拳擦掌了。",
-          "usage": "💡 闲聊VR/AR技术时提到\n💬 VAST开源EdenLive，以后在普通电脑上就能玩720P实时世界模型，谁说VR一定要高端设备？\n🔥 VAST EdenLive 开源 实时世界模型",
-          "source": "https://www.qbitai.com/2026/10/504136.html",
+          "title": "美国全面封杀DeepSeek",
+          "summary": "联邦机构被要求移除所有 DeepSeek 产品",
+          "detail": "美国政府突然下令所有联邦机构必须移除中国 AI 公司 DeepSeek 的产品，包括第三方服务。这波封杀来得突然，DeepSeek 刚在今年9月发布其最新的开源大模型 Qwen-72B，号称性能接近 GPT-4。技术冷战愈演愈烈，以后中美AI圈怕是要各玩各的了。",
+          "usage": "💡 聊地缘政治对AI影响时\n💬 DeepSeek这下连美国公务员的电脑都进不去了\n🔥 DeepSeek 禁令 中美科技战",
+          "source": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
           "tags": [
-            "VAST",
-            "EdenLive",
-            "实时世界模型"
+            "禁令",
+            "中美科技战"
           ]
         },
         {
-          "title": "Claude破密码学悬案",
-          "summary": "Claude半小时解开20年密码学难题",
-          "detail": "Claude这回真是露脸了，半小时内就解开了困扰密码学界20年的悬案。学界集体走了20年弯路，结果被AI轻松破解。这不仅展示了AI在密码学上的潜力，还让人感叹：有时候，换个角度看问题，真的能事半功倍。",
-          "usage": "💡 讨论AI在密码学应用时提到\n💬 Claude半小时解开了20年密码学悬案，学界集体走偏20年，AI这次太秀了！\n🔥 Claude 密码学 悬案",
-          "source": "https://www.qbitai.com/2026/10/503910.html",
+          "title": "Anthropic 45亿刀算力采购",
+          "summary": "Anthropic再砸45亿美元买算力",
+          "detail": "Anthropic 被曝正与 Nscale 谈判一笔45亿美元的算力采购，这将是他们今年第三笔超40亿的算力交易。如此疯狂囤卡，怕是在憋什么大招。要知道 OpenAI 去年全年的运营成本才60亿，Claude 这烧钱速度是要把 Amazon 和 Google 的投资都烧光啊。",
+          "usage": "💡 聊AI公司军备竞赛时\n💬 Anthropic这是要把所有A100都买空啊\n🔥 算力竞赛 Anthropic 天价采购",
+          "source": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
           "tags": [
-            "Claude",
-            "密码学",
-            "悬案"
+            "算力战争",
+            "天价投资"
           ]
         }
       ]
@@ -35,27 +33,25 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "DeepSeek新模型发布",
-          "summary": "DeepSeek V4.1-Flash-1017发布",
-          "detail": "DeepSeek新模型V4.1-Flash-1017发布，性价比高到离谱，直接斩杀一切竞品。还开放了自研搜索API，开发者们估计已经在摩拳擦掌，准备接入自家产品了。这波DeepSeek真是来势汹汹，未来AI市场的格局怕是要被重新定义。",
-          "usage": "💡 讨论AI模型性价比时提到\n💬 DeepSeek新模型V4.1-Flash-1017发布，性价比高到斩杀一切，AI市场要变天了！\n🔥 DeepSeek V4.1-Flash-1017 性价比",
-          "source": "https://www.qbitai.com/2026/10/504067.html",
+          "title": "GPT-Rosalind学术计划",
+          "summary": "OpenAI推出学术专用GPT模型",
+          "detail": "OpenAI 发布 GPT-Rosalind 学术计划，专门为科研实验室提供赞助访问。这个版本在生物信息学和化学领域表现突出，能自动解析学术论文中的实验数据。现在研究生终于不用熬夜读文献了，就是不知道导师会不会让AI直接写论文。",
+          "usage": "💡 聊AI在科研中的应用时\n💬 以后发论文是不是要先@GPT-Rosalind了\n🔥 科研AI 学术GPT OpenAI",
+          "source": "https://openai.com/index/introducing-the-rosalind-academic-plan",
           "tags": [
-            "DeepSeek",
-            "V4.1-Flash-1017",
-            "性价比"
+            "科研AI",
+            "OpenAI"
           ]
         },
         {
-          "title": "智谱新模型发布",
-          "summary": "智谱新模型，懂法全球第一",
-          "detail": "智谱新模型在懂法方面直接登顶全球第一，法学界的人估计已经在瑟瑟发抖。这不仅是AI在法律领域的一大突破，更是对传统法律服务的巨大挑战。未来，AI律师可能会成为常态，法律服务的门槛也将大大降低。",
-          "usage": "💡 讨论AI在法律领域的应用时提到\n💬 智谱新模型在懂法方面全球第一，法学界的人估计已经在瑟瑟发抖了！\n🔥 智谱 懂法 全球第一",
-          "source": "https://www.qbitai.com/2026/10/503965.html",
+          "title": "Eka机械臂估值14.5亿",
+          "summary": "物理AI模型让机械臂公司估值爆炸",
+          "detail": "Eka Robotics 凭借其物理AI模型获得14.5亿美元估值，成为首个能稳定抓取各类物体的通用机械臂。比起传统机械臂只能处理固定物体，Eka 的AI模型让它能适应不同形状、材质的物品，准确率高达98%。这下亚马逊仓库的拣货员要紧张了。",
+          "usage": "💡 聊AI在机器人领域突破时\n💬 这机械臂怕是要抢走所有仓库工作\n🔥 机器人 AI机械臂 自动化",
+          "source": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
           "tags": [
-            "智谱",
-            "懂法",
-            "全球第一"
+            "机器人",
+            "物理AI"
           ]
         }
       ]
@@ -65,27 +61,22 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "Anthropic CEO言论",
-          "summary": "Anthropic CEO谈员工变化",
-          "detail": "Anthropic CEO最近透露，公司员工结构变得更资深，会议时间也大幅增加。这反映出AI公司的成长痛点：随着规模扩大，管理复杂度和沟通成本也在飙升。AI公司不仅要解决技术问题，还得应对组织管理的挑战。",
-          "usage": "💡 讨论AI公司管理问题时提到\n💬 Anthropic CEO说员工变得更资深，会议时间也增加了，AI公司的管理复杂度真是越来越高啊！\n🔥 Anthropic CEO 员工结构 会议",
-          "source": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-          "tags": [
-            "Anthropic",
-            "CEO",
-            "员工结构"
-          ]
+          "title": "纽约市长炮轰联邦AI政策",
+          "summary": "Zohran Mamdani: 联邦在AI监管上失职",
+          "detail": "纽约市长 Zohran Mamdani 公开炮轰联邦政府在AI监管上的不作为，称",
+          "usage": "💡 聊到相关内容时切入\n💬 纽约市长炮轰联邦AI政策\n🔥 热聊",
+          "source": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+          "tags": []
         },
         {
-          "title": "Replit CEO言论",
-          "summary": "Replit CEO谈模型提供商",
-          "detail": "Replit CEO明确表示，OpenAI将取代Anthropic成为其默认模型提供商。这不仅是技术选择，更是战略调整。Replit显然在押注OpenAI的技术优势，未来AI开发平台的竞争格局可能会因此进一步分化。",
-          "usage": "💡 讨论AI开发平台竞争时提到\n💬 Replit CEO说OpenAI将取代Anthropic成为默认模型提供商，AI开发平台的竞争格局要变天了！\n🔥 Replit CEO OpenAI Anthropic",
-          "source": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "title": "Hugging Face 政策主管质疑嵌入式评估",
+          "summary": "Hugging Face 称嵌入式评估不是银弹",
+          "detail": "Hugging Face 政策负责人直言嵌入式AI评估方案存在严重问题，这种让第三方监督AI系统的做法可能带来新的权力集中问题。毕竟谁来监督监督者？现在各大公司都自称中立的AI评估机构，背后却都有金主爸爸。",
+          "usage": "💡 聊AI伦理和监管时\n💬 连Hugging Face都说AI评估这事儿不靠谱\n🔥 AI伦理 监管 HuggingFace",
+          "source": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
           "tags": [
-            "Replit",
-            "CEO",
-            "OpenAI"
+            "AI伦理",
+            "监管"
           ]
         }
       ]
@@ -95,27 +86,25 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "Meta更新条款",
-          "summary": "Meta移除AI训练争议条款",
-          "detail": "Meta最近更新了其条款，移除了引发AI训练争议的部分。尽管Meta发言人坚称这只是措辞调整，但外界普遍认为这是Meta在AI数据使用上的让步。未来，AI公司和用户之间的数据使用协议可能会更加透明。",
-          "usage": "💡 讨论AI数据使用争议时提到\n💬 Meta更新条款，移除了AI训练争议部分，AI公司和用户的数据使用协议要更透明了！\n🔥 Meta 条款 AI训练",
-          "source": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+          "title": "亚马逊挑战Nvidia霸权",
+          "summary": "Amazon发布TorchNeuron开发工具",
+          "detail": "Amazon 发布 TorchNeuron 开发工具，直接瞄准 Nvidia 的核心地盘 PyTorch 生态。AWS 想打破老黄的 CUDA 垄断不是一天两天了，这次直接让开发者能在自家 Trainium 芯片上跑 PyTorch 模型。但目前性能还差 A100 三成，价格战怕是要打响。",
+          "usage": "💡 聊AI硬件竞争时\n💬 老黄：又来个抢生意的\n🔥 Amazon 芯片竞赛 PyTorch",
+          "source": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
           "tags": [
-            "Meta",
-            "条款",
-            "AI训练"
+            "芯片战争",
+            "AWS"
           ]
         },
         {
-          "title": "Disney招聘Character.AI员工",
-          "summary": "Disney招聘Character.AI员工",
-          "detail": "Disney已同意招聘Character.AI的大部分员工，这一举动不仅显示了Disney在AI领域的野心，也反映出Character.AI在技术和人才上的价值。未来，Disney可能会在AI驱动的娱乐内容上大展拳脚。",
-          "usage": "💡 讨论AI人才流动时提到\n💬 Disney招聘了Character.AI的大部分员工，未来AI驱动的娱乐内容估计要起飞了！\n🔥 Disney Character.AI 招聘",
-          "source": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+          "title": "微软警告AI代理风险",
+          "summary": "微软：前沿模型不可信",
+          "detail": "微软突然发警告称员工使用的AI代理可能成为内部威胁，因为前沿大模型行为不可预测。这波操作很迷，毕竟自家Copilot就是最大AI代理之一。看来微软安全部门和市场部最近没对齐OKR。",
+          "usage": "💡 聊企业AI安全时\n💬 微软：用别人家AI危险，用我家的安全\n🔥 企业安全 微软 AI代理",
+          "source": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
           "tags": [
-            "Disney",
-            "Character.AI",
-            "招聘"
+            "企业安全",
+            "微软"
           ]
         }
       ]
@@ -125,27 +114,25 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "联想AIPC发售",
-          "summary": "联想YOGA Pro 15 RTX Spark发售",
-          "detail": "联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售，搭载超千亿大模型，端侧跑通无压力。买AIPC就选联想YOGA，这波联想真是把AI硬件玩出了新高度。",
-          "usage": "💡 讨论AI硬件时提到\n💬 联想YOGA Pro 15 RTX Spark发售，搭载超千亿大模型，AIPC市场要起飞了！\n🔥 联想 YOGA Pro 15 AIPC",
-          "source": "https://www.qbitai.com/2026/10/504116.html",
+          "title": "Yelp AI帮你打电话问餐厅",
+          "summary": "Yelp新功能自动致电餐厅",
+          "detail": "Yelp 上线AI新功能，能自动打电话帮你问餐厅等位时间。实测发现AI声音自然到接线员完全没发现是机器人，就是偶尔会因口音问题报错。以后约饭可以全程交给AI了，就是不知道老板们会不会拉黑这些AI号码。",
+          "usage": "💡 聊AI语音交互进展时\n💬 Yelp这AI打电话比真人还像真人\n🔥 语音AI Yelp 自动化",
+          "source": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
           "tags": [
-            "联想",
-            "YOGA Pro 15",
-            "AIPC"
+            "语音AI",
+            "生活服务"
           ]
         },
         {
-          "title": "GPT-Rosalind学术计划",
-          "summary": "GPT-Rosalind学术计划发布",
-          "detail": "OpenAI推出GPT-Rosalind学术计划，为符合条件的学术实验室提供赞助访问。这不仅降低了学术研究的门槛，也为AI在科研领域的应用开辟了新的可能性。未来，AI可能会成为学术研究的标配工具。",
-          "usage": "💡 讨论AI在学术研究的应用时提到\n💬 OpenAI推出GPT-Rosalind学术计划，AI在科研领域的应用估计要起飞了！\n🔥 OpenAI GPT-Rosalind 学术计划",
-          "source": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+          "title": "Otter.ai融资3.2亿刀",
+          "summary": "会议记录工具获天价融资",
+          "detail": "会议记录工具 Otter.ai 获得General Catalyst 3.2亿美元投资，估值冲到45亿。其最新AI不仅能实时转录，还能自动总结会议重点并生成待办事项。打工人再也没法在会议上摸鱼了，AI连你走神的时间段都能标记出来。",
+          "usage": "💡 聊AI办公工具时\n💬 老板们终于找到监督员工开会的新武器了\n🔥 办公AI 语音转录 融资",
+          "source": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
           "tags": [
-            "OpenAI",
-            "GPT-Rosalind",
-            "学术计划"
+            "办公AI",
+            "语音识别"
           ]
         }
       ]
@@ -155,27 +142,14 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "VAST开源EdenLive",
-          "summary": "VAST开源EdenLive",
-          "detail": "VAST开源实时世界模型EdenLive，单消费级显卡就能运行，720P分辨率下帧率还能飙到24帧以上。这意味着人人都能自由创造和体验交互世界，开源的力量真是无穷大。",
-          "usage": "💡 讨论开源技术时提到\n💬 VAST开源EdenLive，单消费级显卡就能运行720P实时世界模型，开源的力量无穷大！\n🔥 VAST EdenLive 开源",
-          "source": "https://www.qbitai.com/2026/10/504136.html",
+          "title": "Figma拒绝对MCP站队",
+          "summary": "Dylan Field称MCP协议不完美",
+          "detail": "Figma 联合创始人 Dylan Field 公开表示不支持任何单一开源协议，特别是近期热门的MCP。设计工具巨头这番表态让开源社区炸锅，毕竟现在各派系都在争取大厂站台。看来Adobe收购失败后，Figma打算在协议战争中保持中立。",
+          "usage": "💡 聊开源协议之争时\n💬 Figma：你们打架别拉上我\n🔥 开源协议 Figma MCP",
+          "source": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
           "tags": [
-            "VAST",
-            "EdenLive",
-            "开源"
-          ]
-        },
-        {
-          "title": "清华开源智能体操作系统",
-          "summary": "清华开源智能体操作系统",
-          "detail": "清华开源智能体操作系统，任务成本直接降了83%，AI记忆还能随时查改。这不仅是技术上的突破，更是对AI开发流程的优化。开源的力量，真是让AI开发的效率飞起来了。",
-          "usage": "💡 讨论开源AI技术时提到\n💬 清华开源智能体操作系统，任务成本降83%，AI记忆可查可改，AI开发的效率飞起来了！\n🔥 清华 智能体操作系统 开源",
-          "source": "https://www.qbitai.com/2026/10/503935.html",
-          "tags": [
-            "清华",
-            "智能体操作系统",
-            "开源"
+            "开源协议",
+            "设计工具"
           ]
         }
       ]
@@ -185,27 +159,25 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "Claude解密码学悬案",
-          "summary": "Claude半小时解开20年密码学难题",
-          "detail": "Claude半小时内就解开了困扰密码学界20年的悬案，学界集体走了20年弯路，结果被AI轻松破解。这不仅展示了AI在密码学上的潜力，还让人感叹：有时候，换个角度看问题，真的能事半功倍。",
-          "usage": "💡 讨论AI在密码学应用时提到\n💬 Claude半小时解开了20年密码学悬案，学界集体走偏20年，AI这次太秀了！\n🔥 Claude 密码学 悬案",
-          "source": "https://www.qbitai.com/2026/10/503910.html",
+          "title": "恶意软件分析提速100倍",
+          "summary": "OpenAI Daybreak改变安全行业",
+          "detail": "SentinelOne 采用 OpenAI Daybreak 后，恶意软件分析时间从数周缩短到几小时。这套系统能自动逆向工程恶意软件行为模式，分析师现在只需要复核AI的结论。安全工程师终于不用007盯着屏幕找恶意代码了，就是不知道黑客会不会也用Daybreak升级攻击。",
+          "usage": "💡 聊AI在网络安全应用时\n💬 黑客和安全工程师的军备竞赛进入AI时代\n🔥 网络安全 AI分析 恶意软件",
+          "source": "https://openai.com/index/sentinelone",
           "tags": [
-            "Claude",
-            "密码学",
-            "悬案"
+            "网络安全",
+            "AI分析"
           ]
         },
         {
-          "title": "GeoPT入局物理世界模型",
-          "summary": "GeoPT一作入局物理世界模型",
-          "detail": "清华特奖得主GeoPT入局物理世界模型，从搭载物理建模能力的世界模型切入。这不仅展示了AI在物理领域的潜力，也为物理研究开辟了新的可能性。未来，AI可能会成为物理研究的标配工具。",
-          "usage": "💡 讨论AI在物理研究应用时提到\n💬 GeoPT入局物理世界模型，AI在物理领域的潜力估计要起飞了！\n🔥 GeoPT 物理世界模型",
-          "source": "https://www.qbitai.com/2026/10/503880.html",
+          "title": "1万个AI代理同时运行36小时",
+          "summary": "研究机构创造AI压力测试新纪录",
+          "detail": "Third Moment Research 使用 GPT-6 Astra 同时运行1万个AI代理长达36小时，创下规模最大、时间最长的多代理系统测试纪录。这套系统能模拟复杂社会经济场景，比如突然断电时城市服务如何协调。以后政策制定可能要先在AI沙盘里跑一遍了。",
+          "usage": "💡 聊多代理系统进展时\n💬 这哪是AI测试，简直是数字社会压力测试\n🔥 多代理系统 模拟测试 AI规模",
+          "source": "https://openai.com/index/third-moment-research",
           "tags": [
-            "GeoPT",
-            "物理世界模型",
-            "AI"
+            "多代理系统",
+            "模拟测试"
           ]
         }
       ]
@@ -215,50 +187,47 @@
       "icon": "📈",
       "items": [
         {
-          "title": "印度AI代理事件",
-          "summary": "印度报告AI代理活动",
-          "detail": "印度成为最新一个报告AI代理活动的国家，这些代理通过暴露的凭证和连接设置进入系统。这不仅暴露了AI安全的风险，也提醒企业和开发者，AI代理的部署需要更严格的防护措施。",
-          "usage": "💡 讨论AI安全问题时提到\n💬 印度报告AI代理活动，AI代理的部署需要更严格的防护措施！\n🔥 印度 AI代理 安全",
-          "source": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+          "title": "巴西银行全量接入AI",
+          "summary": "Itaú银行全面应用生成式AI",
+          "detail": "巴西最大银行 Itaú 宣布全量接入生成式AI，从客服到风控全面智能化。其开发的 IARA 平台能实时监控AI决策，防止出现歧视性贷款。传统金融业终于不再小打小闹地试点AI，而是直接All in了。",
+          "usage": "💡 聊AI在金融业应用时\n💬 以后银行贷款拒绝信可能是AI写的，申诉还要再被AI拒一次\n🔥 金融AI 银行 巴西",
+          "source": "https://openai.com/index/itau-generative-ai",
           "tags": [
-            "印度",
-            "AI代理",
-            "安全"
+            "金融科技",
+            "银行AI"
           ]
         },
         {
-          "title": "Anthropic公共福利基金",
-          "summary": "Anthropic设立公共福利基金",
-          "detail": "Anthropic宣布将5%的股份投入公共福利基金，这不仅是公司社会责任的体现，也为AI行业的可持续发展提供了新的思路。未来，更多AI公司可能会效仿这一做法，推动AI技术的社会价值最大化。",
-          "usage": "💡 讨论AI公司社会责任时提到\n💬 Anthropic将5%的股份投入公共福利基金，AI行业的社会责任估计要起飞了！\n🔥 Anthropic 公共福利基金 社会责任",
-          "source": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+          "title": "Stack Overflow流量暴涨",
+          "summary": "ChatGPT插件带来三倍用户增长",
+          "detail": "Stack Overflow for Agents 接入 ChatGPT 插件后，注册用户暴增三倍。现在程序员遇到问题直接让AI去Stack Overflow查答案，连打开浏览器的步骤都省了。就是不知道这种流量增长对社区质量是福是祸。",
+          "usage": "💡 聊AI如何改变开发者生态时\n💬 以后写代码：遇到问题->召唤AI->AI去Stack Overflow查->问题解决\n🔥 开发者生态 StackOverflow ChatGPT",
+          "source": "https://openai.com/index/stack-overflow-chatgpt-plugin",
           "tags": [
-            "Anthropic",
-            "公共福利基金",
-            "社会责任"
+            "开发者工具",
+            "StackOverflow"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-19T17:06:53.151Z",
+  "generated_at": "2026-10-20T14:38:31.761Z",
   "slot": "weekday-evening",
   "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3454,
-    "completion_tokens": 3220,
-    "total_tokens": 6674,
-    "cost_usd": 0.00397108,
+    "prompt_tokens": 3439,
+    "completion_tokens": 2955,
+    "total_tokens": 6394,
+    "cost_usd": 0.0039250071,
     "free": false,
     "sources": {
       "per_source": {
-        "qbitai": 8,
         "openai": 10,
         "techcrunch": 10
       },
-      "total": 24
+      "total": 20
     }
   }
 }

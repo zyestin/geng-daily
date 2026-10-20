@@ -5,30 +5,28 @@
       "icon": "📰",
       "items": [
         {
-          "title": "董校长新规",
-          "summary": "格力技校禁谈恋爱",
-          "detail": "72岁的董明珠校长在格力技工学校推行“学习集中营”模式，不仅关闭校内小卖部，还明令禁止学生谈恋爱。首届招生300人吸引了8000+报名者，录取率比清华还低。家人们谁懂啊，这届技校生不仅要学修空调，还得练就一身清心寡欲的功夫。",
-          "usage": "💡 同事聊校园往事时抛梗\n💬 董校长这波操作，建议改名“格力少林寺技工分院”\n🔥 董明珠 格力技校 禁谈恋爱",
-          "src_id": 16,
+          "title": "零重力座椅禁令",
+          "summary": "工信部禁止行驶中使用零重力座椅",
+          "detail": "工信部最新规定明确禁止车辆行驶时使用零重力座椅，理由是存在安全隐患。这下各家新能源车的'移动大沙发'宣传要重新想想了——毕竟不能躺着开车才是常识啊。车企连夜改PPT：我们的零重力模式仅限停车使用！",
+          "usage": "💡 聊新车配置时带出\n💬 以后买车别说'能躺赢'了\n🔥 工信部 零重力座椅 新能源车",
+          "source": "https://www.toutiao.com/trending/7698667807361319433/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698667807361319433%22%2C%22hot_board_impr_id%22%3A%2220261020223454D763A58E5EC151A4B239%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B7%A5%E4%BF%A1%E9%83%A8%EF%BC%9A%E7%A6%81%E6%AD%A2%E8%BD%A6%E8%BE%86%E8%A1%8C%E9%A9%B6%E6%97%B6%E7%94%A8%E9%9B%B6%E9%87%8D%E5%8A%9B%E5%BA%A7%E6%A4%85%22%7D&rank=&style_id=40132&topic_id=7698667807361319433",
           "tags": [
-            "董明珠",
-            "职业教育",
-            "管理"
-          ],
-          "source": "https://www.toutiao.com/trending/7698181002502045732/"
+            "工信部",
+            "汽车安全",
+            "新规"
+          ]
         },
         {
-          "title": "抖音京东双11斗法",
-          "summary": "AI主播下场带货",
-          "detail": "今年双11京东抖音开启“AI主播大战”，京东祭出可24小时不间断吐槽的虚拟带货王，抖音则上线能根据弹幕实时换装的全息主播。最惨的是人类主播——现在连“家人们冲销量”的台词都被AI抢了。",
-          "usage": "💡 聊电商促销时切入\n💬 以后主播失业理由：不如AI会喊“OMG”\n🔥 双11 虚拟主播 京东抖音",
-          "src_id": 3,
+          "title": "大众中国困局",
+          "summary": "大众在华份额跌至10%",
+          "detail": "外媒报道大众汽车在华市场份额已跌至10%，尽管联手小鹏自救仍难挽颓势。曾经的国民神车如今被吐槽'智能化跟不上，价格下不来'，德国高管可能还没明白：中国消费者要的不是加长轴距，是车机别卡顿啊！",
+          "usage": "💡 讨论合资品牌现状时\n💬 大众的电动化转型像在玩贪吃蛇\n🔥 大众汽车 小鹏汽车 市场份额",
+          "source": "https://www.huxiu.com/article/4899063.html?f=rss",
           "tags": [
-            "电商大战",
-            "AI应用",
-            "双11"
-          ],
-          "source": "https://www.huxiu.com/article/4898820.html?f=rss"
+            "大众",
+            "小鹏",
+            "汽车市场"
+          ]
         }
       ]
     },
@@ -37,30 +35,28 @@
       "icon": "🎤",
       "items": [
         {
-          "title": "董明珠三连暴击",
-          "summary": "关小卖部+禁恋爱+军事化管理",
-          "detail": "董明珠卸任格力董事长后，对技校学生实施“三不政策”：不许恋爱（影响学习）、不许逛小卖部（影响专注）、不许松散作息（军事化管理）。网友辣评：建议同步推出《格力技校求生指南》周边。",
-          "usage": "💡 聊企业管理时抛梗\n💬 建议董校长和衡水中学联名办学\n🔥 董明珠 技校管理 军事化",
-          "src_id": 21,
+          "title": "马斯克发股票",
+          "summary": "马斯克给美国孩子送股票",
+          "detail": "马斯克突然宣布给全美18岁以下未成年人赠送特斯拉股票，被调侃'从小培养股东'。其实这波操作精妙：既避税又能培养下一代消费者，等这些孩子长大，不是特斯拉车主就是特斯拉股东！",
+          "usage": "💡 聊马斯克最新骚操作时\n💬 别人送糖果老马送股票\n🔥 马斯克 特斯拉 股票",
+          "source": "https://www.toutiao.com/trending/7698711940515761691/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698711940515761691%22%2C%22hot_board_impr_id%22%3A%2220261020223454D763A58E5EC151A4B239%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%A9%AC%E6%96%AF%E5%85%8B%E7%BB%99%E7%BE%8E%E5%9B%BD%E5%AD%A9%E5%AD%90%E9%80%81%E8%82%A1%E7%A5%A8%E5%88%B0%E5%BA%95%E6%83%B3%E5%B9%B2%E5%95%A5%22%7D&rank=&style_id=40132&topic_id=7698711940515761691",
           "tags": [
-            "董明珠",
-            "教育",
-            "管理"
-          ],
-          "source": "https://m.baidu.com/s?word=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%A0%BC%E5%8A%9B%E6%8A%80%E5%B7%A5%E5%AD%A6%E6%A0%A1%E7%A6%81%E6%AD%A2%E8%B0%88%E6%81%8B%E7%88%B1&sa=fyb_news"
+            "马斯克",
+            "特斯拉",
+            "股票"
+          ]
         },
         {
-          "title": "俞敏洪开线下梦工厂",
-          "summary": "东方甄选开实体店",
-          "detail": "俞敏洪把东方甄选直播间搬到线下，在北京国贸开出手作体验店，既能现场看农产品加工，还能参加老俞读书会。最绝的是“知识型收银台”——扫码买单自动播放《人类简史》选段。",
-          "usage": "💡 聊直播带货转型时提及\n💬 以后买根玉米都要先听五分钟人生哲理\n🔥 俞敏洪 东方甄选 新零售",
-          "src_id": 10,
+          "title": "特朗普评中国",
+          "summary": "特朗普称中国立场公允",
+          "detail": "特朗普在最新采访中表示'中国在乌克兰问题上立场很公允'，与其任内对华强硬态度形成反差。网友精辟总结：'这老哥每次不当总统时就特别会夸中国'，建议美企学习这波极限拉扯话术。",
+          "usage": "💡 聊中美关系时\n💬 懂王这波在大气层\n🔥 特朗普 乌克兰 中国",
+          "source": "https://www.toutiao.com/trending/7697897058136604715/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227697897058136604715%22%2C%22hot_board_impr_id%22%3A%2220261020223454D763A58E5EC151A4B239%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E6%96%B9%E5%9C%A8%E4%B9%8C%E9%97%AE%E9%A2%98%E4%B8%8A%E7%AB%8B%E5%9C%BA%E5%BE%88%E5%85%AC%E5%85%81%22%7D&rank=&style_id=40132&topic_id=7697897058136604715",
           "tags": [
-            "俞敏洪",
-            "直播电商",
-            "转型"
-          ],
-          "source": "https://www.huxiu.com/article/4898800.html?f=rss"
+            "特朗普",
+            "中美关系",
+            "乌克兰"
+          ]
         }
       ]
     },
@@ -69,30 +65,28 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "老板电器AI上头",
-          "summary": "半年少赚1.3亿继续砸AI",
-          "detail": "老板电器上半年净利润暴跌13%，但AI研发投入反增25%。现在炒菜机不仅能语音教做菜，还会在用户烧焦时发出嘲笑音效。消费者吐槽：我缺的是智能厨电吗？缺的是买完还能吃泡面的自由！",
-          "usage": "💡 聊传统企业转型时举例\n💬 建议AI先学会把糖醋排骨烧熟再嘲讽人类\n🔥 老板电器 AI厨电 业绩下滑",
-          "src_id": 8,
+          "title": "小天才社交争议",
+          "summary": "小天才手表被指逼家长消费",
+          "detail": "小天才儿童手表因封闭社交功能遭质疑——不加好友就不能用基础功能，被吐槽'让小学生提前体验职场人脉焦虑'。最绝的是不同型号手表间还有社交壁垒，这波操作堪称儿童手表界的'苹果绿聊'！",
+          "usage": "💡 聊儿童电子产品时\n💬 现在小孩戴表都要拼人脉了\n🔥 小天才 儿童手表 社交",
+          "source": "https://www.huxiu.com/article/4899069.html?f=rss",
           "tags": [
-            "家电",
-            "AI",
-            "财报"
-          ],
-          "source": "https://www.huxiu.com/article/4898806.html?f=rss"
+            "小天才",
+            "儿童手表",
+            "社交"
+          ]
         },
         {
-          "title": "讯飞医疗狂飙",
-          "summary": "AI问诊收入翻倍",
-          "detail": "讯飞医疗上半年营收暴涨49%达4.5亿，AI问诊系统已入驻800+医院。最受欢迎的是儿科模块——既能哄孩子又能开药方，唯一bug是偶尔把“肚子疼”诊断为“想玩手机”。",
-          "usage": "💡 聊AI医疗时提及\n💬 建议增加“爸妈觉得你病”诊断模块\n🔥 科大讯飞 AI医疗 商业化",
-          "src_id": 9,
+          "title": "字节教育大撤退",
+          "summary": "字节跳动关停多数教育业务",
+          "detail": "字节跳动悄然关停旗下多个教育项目，曾经重金投入的'大力教育'如今只剩斑马AI课等少数产品。网友神评：张一鸣的'大力'果然没能出奇迹，建议互联网公司都改名叫'持久教育'。",
+          "usage": "💡 聊在线教育现状时\n💬 字节的教育梦碎得比双减还快\n🔥 字节跳动 在线教育 裁员",
+          "source": "",
           "tags": [
-            "医疗AI",
-            "语音识别",
-            "商业化"
-          ],
-          "source": "https://www.huxiu.com/article/4898805.html?f=rss"
+            "字节跳动",
+            "教育",
+            "业务调整"
+          ]
         }
       ]
     },
@@ -101,30 +95,28 @@
       "icon": "🔀",
       "items": [
         {
-          "title": "格力技校招聘奇观",
-          "summary": "录取率0.3%超清北",
-          "detail": "董明珠执掌的格力技校首届招生300人，吸引8000+报名者，录取率仅3.75%（清华约5%）。最卷专业是“智能空调维修”，要求报名者先拆装10台空调并写万字心得。",
-          "usage": "💡 聊就业难时抛梗\n💬 建议增设“董校长语录背诵”加分项\n🔥 格力技校 招生 董明珠",
-          "src_id": 2,
+          "title": "人保高管落马",
+          "summary": "中国人保俞小平被开除党籍",
+          "detail": "中国人保党委委员俞小平因严重违纪违法被开除党籍，成为金融反腐最新案例。保险公司理赔时像侦探，查自己人违纪时更像福尔摩斯——这波操作建议命名为'人民的名义·保险版'。",
+          "usage": "💡 聊金融反腐时\n💬 保险公司查起自己人来最专业\n🔥 中国人保 俞小平 反腐",
+          "source": "https://m.baidu.com/s?word=%E4%BF%9E%E5%B0%8F%E5%B9%B3%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D+%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BF%9D%E8%A1%A8%E6%80%81&sa=fyb_news",
           "tags": [
-            "职业教育",
-            "格力",
-            "招聘"
-          ],
-          "source": "https://www.huxiu.com/article/4898799.html?f=rss"
+            "中国人保",
+            "反腐",
+            "金融"
+          ]
         },
         {
-          "title": "影视圈集体转行",
-          "summary": "制片人陪老板搓AI玩具",
-          "detail": "某影视公司被曝全员转型AI内容生产，原制片人每天工作变成陪老板测试聊天机器人。最魔幻的是剧本会改叫“模型迭代会”，编剧要学写prompt代替写台词。",
-          "usage": "💡 聊AI冲击传统行业时举例\n💬 以后奥斯卡最佳编剧奖改颁最佳提示词工程奖\n🔥 影视行业 AI转型 裁员",
-          "src_id": 1,
+          "title": "储能制造扩张",
+          "summary": "超60城布局储能制造",
+          "detail": "全国已有超60座城市布局储能制造基地，最快9个月就能建成47个足球场大的产业园。这速度让新能源车都追不上，建议改名叫'储能速度与激情'，就是不知道产能过剩会不会来得同样快...",
+          "usage": "💡 聊新能源投资时\n💬 现在建储能基地比搭乐高还快\n🔥 储能 新能源 制造基地",
+          "source": "https://www.huxiu.com/article/4899060.html?f=rss",
           "tags": [
-            "影视",
-            "AI",
-            "职业转型"
-          ],
-          "source": "https://www.huxiu.com/article/4898823.html?f=rss"
+            "储能",
+            "新能源",
+            "制造"
+          ]
         }
       ]
     },
@@ -133,30 +125,28 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "速成车刹车惊魂",
-          "summary": "百万豪车连断三块踏板",
-          "detail": "某新能源豪车被曝为赶工期压缩测试，4000次循环验证砍半完成，结果出现连续三起刹车踏板断裂事故。网友神评：原来“速成”的真谛是把用户当人肉测试工程师。",
-          "usage": "💡 聊新能源车质量问题时抛梗\n💬 建议车企改宣传语为“买一送三——送三次刹车维修”\n🔥 新能源车 质量门 速成车",
-          "src_id": 11,
+          "title": "ECMO第一股",
+          "summary": "汉诺医疗冲刺ECMO第一股",
+          "detail": "实现国产ECMO零突破的汉诺医疗冲刺IPO，却面临产能闲置20%的尴尬。这剧情好比'造出光刻机却找不到客户'，建议改名叫'医疗器械界的孤勇者'。",
+          "usage": "💡 聊医疗科技时\n💬 国产ECMO的寂寞谁能懂\n🔥 汉诺医疗 ECMO IPO",
+          "source": "https://www.huxiu.com/article/4899070.html?f=rss",
           "tags": [
-            "新能源汽车",
-            "质量",
-            "测试"
-          ],
-          "source": "https://www.huxiu.com/article/4898801.html?f=rss"
+            "汉诺医疗",
+            "ECMO",
+            "IPO"
+          ]
         },
         {
-          "title": "法国抗议现魔幻一幕",
-          "summary": "情侣淡定喝红酒看骚乱",
-          "detail": "法国爆发大规模抗议致股债汇三杀期间，有情侣在骚乱现场旁若无人的举杯自拍，被网友封为“年度最硬核约会”。金融机构点评：这才是真正的“对冲”策略。",
-          "usage": "💡 聊国际新闻时调节气氛\n💬 法兰西行为艺术：左手举标语右手举酒杯\n🔥 法国骚乱 魔幻现实 金融动荡",
-          "src_id": 24,
+          "title": "美军舰闯南海",
+          "summary": "美军舰擅闯中国南沙海域",
+          "detail": "美国海军一艘战斗舰再次擅闯中国南沙海域，被我军全程跟监警告。这事儿就像邻居总来你家门口转悠还说'我就路过'，建议下次直接放'东风快递'的广告牌。",
+          "usage": "💡 聊国际局势时\n💬 美舰这次导航又'故障'了\n🔥 南海 美军舰 中国",
+          "source": "https://www.toutiao.com/trending/7698609753362026022/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698609753362026022%22%2C%22hot_board_impr_id%22%3A%2220261020223454D763A58E5EC151A4B239%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%88%98%E6%96%97%E8%88%B0%E5%86%B2%E9%97%AF%E4%B8%AD%E5%9B%BD%E5%8D%97%E6%B2%99%E6%B5%B7%E5%9F%9F%22%7D&rank=&style_id=40132&topic_id=7698609753362026022",
           "tags": [
-            "法国",
-            "社会事件",
-            "金融"
-          ],
-          "source": "https://www.toutiao.com/trending/7698257512839974442/"
+            "南海",
+            "美军",
+            "主权"
+          ]
         }
       ]
     },
@@ -165,30 +155,28 @@
       "icon": "📱",
       "items": [
         {
-          "title": "AI玩具入侵职场",
-          "summary": "老板用模型验收工作",
-          "detail": "某公司高管要求员工用AI生成日报，并亲自带着最新模型玩具验收KPI。打工人哭诉：现在不仅要哄老板开心，还得哄老板的AI开心！",
-          "usage": "💡 聊职场压力时抛梗\n💬 建议增设“AI马屁精”岗位专门夸老板的模型\n🔥 AI管理 职场工具 验收",
-          "src_id": 1,
+          "title": "学生机涨价",
+          "summary": "学生笔记本逼近5000元",
+          "detail": "所谓'学生笔记本'价格直逼5000元大关，被吐槽'让贫困生更贫困'。厂商还美其名曰'为学习投资'，建议下次直接出镶金键盘版，改名叫'学渣劝退机'。",
+          "usage": "💡 聊数码产品涨价时\n💬 现在学生机比学霸还贵\n🔥 学生笔记本 涨价 数码",
+          "source": "https://m.baidu.com/s?word=%E5%AD%A6%E7%94%9F%E6%9C%BA%E7%9B%B4%E9%80%BC5000%E5%85%83&sa=fyb_news",
           "tags": [
-            "AI应用",
-            "企业管理",
-            "工具"
-          ],
-          "source": "https://www.huxiu.com/article/4898823.html?f=rss"
+            "笔记本",
+            "学生",
+            "涨价"
+          ]
         },
         {
-          "title": "老板电器AI大厨",
-          "summary": "炒菜机出嘲笑模式",
-          "detail": "老板电器新款AI炒菜机新增“厨艺点评”功能，会在检测到烧焦时播放“这道菜狗都不吃”语音。网友实测触发条件极其灵敏——哪怕只是多放了盐。",
-          "usage": "💡 聊智能家居时举例\n💬 建议开发“老板试吃”功能反向羞辱AI\n🔥 智能厨电 语音交互 翻车",
-          "src_id": 8,
+          "title": "维密转型务实",
+          "summary": "维密从性感转向过日子",
+          "detail": "曾经以'性感'著称的维密开始转型务实路线，网友调侃'从天使坠落凡间'。最绝的是新广告让模特穿睡衣吃泡面，这波操作堪称'维多利亚没有秘密，只有房贷'。",
+          "usage": "💡 聊品牌转型时\n💬 维密天使也开始精打细算了\n🔥 维密 转型 内衣",
+          "source": "https://www.huxiu.com/article/4899057.html?f=rss",
           "tags": [
-            "智能家电",
-            "语音AI",
-            "产品设计"
-          ],
-          "source": "https://www.huxiu.com/article/4898806.html?f=rss"
+            "维密",
+            "品牌",
+            "转型"
+          ]
         }
       ]
     },
@@ -197,30 +185,28 @@
       "icon": "🎬",
       "items": [
         {
-          "title": "越南印度工厂真相",
-          "summary": "替代中国？想多了",
-          "detail": "深度调查显示越南工厂主攻服装、印度专精客服、墨西哥专注汽配，三者加起来都吃不下中国制造业的盘子。最扎心的是——连“中国+1”战略本身都是中国工厂帮忙执行的。",
-          "usage": "💡 聊产业转移时引用\n💬 建议改叫“中国+0.1”战略更准确\n🔥 制造业 产业转移 供应链",
-          "src_id": 6,
+          "title": "798美术馆倒闭",
+          "summary": "北京798遇见博物馆突然关闭",
+          "detail": "798艺术区标志性的遇见博物馆突然撤场，连告别展都没有。艺术圈人士感叹'商业化杀死了艺术'，游客更直接：'上次去还是为了拍照发小红书'。建议改名叫'遇见又再见博物馆'。",
+          "usage": "💡 聊文创产业时\n💬 现在美术馆比网红寿命还短\n🔥 798 遇见博物馆 艺术",
+          "source": "https://www.huxiu.com/article/4899075.html?f=rss",
           "tags": [
-            "制造业",
-            "全球化",
-            "供应链"
-          ],
-          "source": "https://www.huxiu.com/article/4898809.html?f=rss"
+            "798",
+            "美术馆",
+            "倒闭"
+          ]
         },
         {
-          "title": "拍卖房合同陷阱",
-          "summary": "房子是你的？想多了",
-          "detail": "某法拍房合同明确写着“不可办理产权证”，买家仍执意竞拍后血本无归。法律界人士点评：这届韭菜已经进化到自己给自己挖坑了。",
-          "usage": "💡 聊投资风险时举例\n💬 建议法拍平台增设“智商税”支付通道\n🔥 法拍房 合同陷阱 法律",
-          "src_id": 12,
+          "title": "餐饮存量博弈",
+          "summary": "连锁餐饮进入存量竞争",
+          "detail": "中国连锁餐饮正式进入存量博弈阶段，头部品牌都在苦苦寻找第二增长曲线。这场景像极了程序员35岁后的职业困境——不是你不努力，是市场不需要那么多'老代码'了。",
+          "usage": "💡 聊餐饮行业时\n💬 餐饮内卷得像互联网裁员\n🔥 餐饮 连锁 竞争",
+          "source": "https://www.huxiu.com/article/4899068.html?f=rss",
           "tags": [
-            "房地产",
-            "法拍",
-            "法律"
-          ],
-          "source": "https://www.huxiu.com/article/4898798.html?f=rss"
+            "餐饮",
+            "连锁",
+            "竞争"
+          ]
         }
       ]
     },
@@ -229,44 +215,42 @@
       "icon": "🪙",
       "items": [
         {
-          "title": "七巨头印钞机",
-          "summary": "单季度爆赚1.5万亿",
-          "detail": "谷歌、苹果等七家科技巨头最新季报合计净利润1.54万亿，超A股5000家上市公司总和。币圈大佬酸评：我们割韭菜还要发币，他们直接印。",
-          "usage": "💡 聊科技公司财报时抛梗\n💬 建议币圈学习正经公司怎么赚钱\n🔥 科技巨头 财报 盈利",
-          "src_id": 7,
+          "title": "韩股无人接盘",
+          "summary": "韩股暴跌却无人抄底",
+          "detail": "韩股估值跌至历史低位却无人问津，连外资都跑得比韩国爱豆还快。分析师说'这是全球AI行情风向标'，翻译成人话就是：韭菜们连韩国泡菜都不腌了，改挖AI矿了。",
+          "usage": "💡 聊加密货币时\n💬 韩国股市凉得比泡菜还快\n🔥 韩股 AI 加密货币",
+          "source": "https://www.huxiu.com/article/4899065.html?f=rss",
           "tags": [
-            "财报",
-            "科技公司",
-            "盈利"
-          ],
-          "source": "https://www.huxiu.com/article/4898808.html?f=rss"
+            "韩股",
+            "AI",
+            "投资"
+          ]
         },
         {
-          "title": "法国韭菜惨案",
-          "summary": "抗议致股市债市双杀",
-          "detail": "法国社会动荡引发金融市场地震，国债收益率飙升、股市单日蒸发千亿。当地投资者自嘲：原来最狠的不是孙宇晨割韭菜，是国家亲自下场割。",
-          "usage": "💡 聊国际金融时调节气氛\n💬 法兰西行为艺术：用燃烧瓶烤韭菜\n🔥 法国 金融市场 社会事件",
-          "src_id": 5,
+          "title": "红果短剧风靡",
+          "summary": "消费场景变红果短剧",
+          "detail": "所有消费场景都在变成'红果短剧'——直播像电视剧，广告像微电影，买东西像参演综艺。最绝的是连卖个苹果都要拍成'果园101'，建议下次直接开发'消费型人格分裂症'特效药。",
+          "usage": "💡 聊直播电商时\n💬 现在买东西得像追剧\n🔥 直播 消费 短视频",
+          "source": "https://www.huxiu.com/article/4899061.html?f=rss",
           "tags": [
-            "法国",
-            "金融",
-            "社会"
-          ],
-          "source": "https://www.huxiu.com/article/4898816.html?f=rss"
+            "直播",
+            "消费",
+            "短视频"
+          ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-20T02:12:30.758Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-10-20T14:36:49.069Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 5822,
-    "completion_tokens": 3068,
-    "total_tokens": 8890,
-    "cost_usd": 0.0046546344,
+    "prompt_tokens": 5596,
+    "completion_tokens": 4480,
+    "total_tokens": 10076,
+    "cost_usd": 0.006048986399999999,
     "free": false,
     "sources": {
       "per_source": {
@@ -275,7 +259,7 @@
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 24
+      "total": 22
     }
   }
 }

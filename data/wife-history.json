@@ -5,16 +5,12 @@
       "date": "2026-10-20",
       "slot": "wife-weekday-evening",
       "slot_label": "工作日傍晚 · 生活时光",
-      "generated_at": "2026-10-19T17:03:53.962Z",
-      "weekday": "星期一",
+      "generated_at": "2026-10-20T14:34:54.071Z",
+      "weekday": "星期二",
       "file": "archive/2026-10-20-wife-weekday-evening.json",
-      "topic_count": 9,
+      "topic_count": 1,
       "category_names": [
-        "追剧指南",
-        "吃喝情报",
-        "土味情话",
-        "她的世界",
-        "约会提案"
+        "🎬 追剧指南"
       ]
     },
     {
@@ -1039,5 +1035,5 @@
       ]
     }
   ],
-  "updated_at": "2026-10-19T17:03:53.969Z"
+  "updated_at": "2026-10-20T14:34:54.079Z"
 }
