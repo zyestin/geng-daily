@@ -1,0 +1,199 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Vue 4.0",
+          "summary": "Vue 4.0 发布，性能大幅提升",
+          "detail": "Vue 4.0 最近发布，带来了全新的编译器和运行时优化，性能提升了30%。新版本还引入了更强大的 TypeScript 支持，开发者可以更轻松地构建大型应用。",
+          "usage": "听说 Vue 4.0 发布了，性能提升了不少，你有没有试过？感觉对新项目的开发帮助挺大的。",
+          "source": "",
+          "tags": [
+            "Vue",
+            "前端"
+          ]
+        },
+        {
+          "title": "Next.js 14",
+          "summary": "Next.js 14 引入新路由系统",
+          "detail": "Next.js 14 发布了新的路由系统，支持更灵活的路由配置，同时优化了静态生成和服务器端渲染的性能。开发者可以更高效地构建复杂的应用。",
+          "usage": "Next.js 14 的新路由系统你看了吗？感觉比以前灵活多了，特别适合我们现在的项目。",
+          "source": "",
+          "tags": [
+            "Next.js",
+            "前端"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN新架构",
+          "summary": "React Native 新架构 Fabric 发布",
+          "detail": "React Native 的新架构 Fabric 已经发布，采用了全新的渲染引擎，提升了应用的性能和稳定性。开发者可以更轻松地构建跨平台应用。",
+          "usage": "React Native 的新架构 Fabric 你试过了吗？听说性能提升了不少，特别适合我们现在的项目。",
+          "source": "",
+          "tags": [
+            "React Native",
+            "跨端"
+          ]
+        },
+        {
+          "title": "跨端方案",
+          "summary": "React Native 跨端方案Tauri",
+          "detail": "Tauri 是一个新的跨端方案，支持使用 React Native 构建桌面应用。它比 Electron 更轻量，适合资源有限的项目。",
+          "usage": "你有没有试过 Tauri？它比 Electron 更轻量，感觉很适合我们现在的项目。",
+          "source": "",
+          "tags": [
+            "React Native",
+            "跨端"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "AI编程助手",
+          "summary": "Cursor 发布新版本，支持多语言",
+          "detail": "Cursor 是一个 AI 编程助手，最近发布了新版本，支持多语言编程和智能代码补全。开发者可以更高效地编写代码。",
+          "usage": "Cursor 的新版本你试了吗？感觉比以前好用多了，特别是多语言支持。",
+          "source": "",
+          "tags": [
+            "AI",
+            "编程"
+          ]
+        },
+        {
+          "title": "AI生成UI",
+          "summary": "AI生成UI工具Jasna",
+          "detail": "Jasna 是一个新的 AI 生成 UI 工具，可以根据设计稿自动生成代码。它支持多种前端框架，大大提升了开发效率。",
+          "usage": "Jasna 这个 AI 生成 UI 工具你试了吗？感觉特别适合我们现在的项目。",
+          "source": "https://github.com/Kruk2/jasna",
+          "tags": [
+            "AI",
+            "UI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "TS新特性",
+          "summary": "TypeScript 5.4 发布，新特性多",
+          "detail": "TypeScript 5.4 发布了多个新特性，包括更强大的类型推断和更好的模块支持。开发者可以更轻松地编写和维护大型项目。",
+          "usage": "TypeScript 5.4 的新特性你看了吗？感觉比以前强大不少，特别适合我们现在的项目。",
+          "source": "",
+          "tags": [
+            "TypeScript",
+            "前端"
+          ]
+        },
+        {
+          "title": "JS提案",
+          "summary": "JS新提案Pipeline Operator",
+          "detail": "JavaScript 的新提案 Pipeline Operator 已经进入 Stage 2，它可以让代码更简洁易读，特别适合函数式编程。",
+          "usage": "Pipeline Operator 这个提案你看了吗？感觉代码可以更简洁了，特别适合我们现在的项目。",
+          "source": "",
+          "tags": [
+            "JavaScript",
+            "前端"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "Orca",
+          "summary": "Orca，多Agent编程平台",
+          "detail": "Orca 是一个多 Agent 编程平台，支持运行多种编程 Agent，如 Grok Bot 和 Claude Code。开发者可以更高效地进行代码协作。",
+          "usage": "Orca 这个多 Agent 编程平台你试了吗？感觉特别适合我们现在的项目，特别是多 Agent 协作。",
+          "source": "https://github.com/stablyai/orca",
+          "tags": [
+            "开源",
+            "编程"
+          ]
+        },
+        {
+          "title": "ComfyUI",
+          "summary": "ComfyUI，扩散模型GUI",
+          "detail": "ComfyUI 是一个强大的扩散模型 GUI，支持模块化设计和本地推理。它可以帮助开发者更高效地构建和测试 AI 模型。",
+          "usage": "ComfyUI 这个扩散模型 GUI 你试了吗？感觉特别适合我们现在的项目，特别是本地推理。",
+          "source": "https://github.com/Comfy-Org/ComfyUI",
+          "tags": [
+            "开源",
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "编程乐趣",
+          "summary": "编程还可以很有趣",
+          "detail": "最近有篇文章讨论了编程的乐趣，尽管现在有很多自动化工具，但编程依然可以让人感到快乐和满足。",
+          "usage": "你有没有看过那篇关于编程乐趣的文章？感觉编程还是挺有意思的，特别是解决问题的时候。",
+          "source": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+          "tags": [
+            "编程",
+            "文化"
+          ]
+        },
+        {
+          "title": "无人机",
+          "summary": "单电机无人机",
+          "detail": "有人用单电机造了一台无人机，视频展示了它的飞行性能和控制方式，引发了开发者社区的广泛讨论。",
+          "usage": "你看过那个单电机的无人机视频吗？感觉特别有意思，特别是它的控制方式。",
+          "source": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+          "tags": [
+            "无人机",
+            "技术"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-20T02:11:04.344Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2002,
+    "completion_tokens": 1527,
+    "total_tokens": 3529,
+    "cost_usd": 0.0020861397,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 9,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}

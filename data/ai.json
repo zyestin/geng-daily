@@ -5,27 +5,27 @@
       "icon": "💥",
       "items": [
         {
-          "title": "VAST开源实时世界模型",
-          "summary": "VAST开源EdenLive，720P超24FPS",
-          "detail": "VAST开源了实时世界模型EdenLive，直接甩出单消费级显卡就能运行，720P分辨率下帧率还能飙到24帧以上。这意味着人人都能自由创造和体验交互世界，以前需要专业设备和高昂成本才能搞定的场景，现在一台普通电脑就行。VR/AR开发者们估计已经在摩拳擦掌了。",
-          "usage": "💡 闲聊VR/AR技术时提到\n💬 VAST开源EdenLive，以后在普通电脑上就能玩720P实时世界模型，谁说VR一定要高端设备？\n🔥 VAST EdenLive 开源 实时世界模型",
-          "source": "https://www.qbitai.com/2026/10/504136.html",
+          "title": "Anthropic再获45亿大单",
+          "summary": "Anthropic与Nscale洽谈45亿美元计算资源合作",
+          "detail": "Anthropic又在搞大事了！据TechCrunch报道，Anthropic正在与Nscale洽谈一笔高达45亿美元的计算资源合作。这可是继之前的一系列大单之后，Anthropic又一次大手笔。看来Anthropic在AI领域的野心不小，未来可能会成为OpenAI的有力竞争对手。",
+          "usage": "💡 同事提到AI计算资源时\n💬 Anthropic这是要飞啊，又拿了45亿刀的计算资源！\n🔥 Anthropic Nscale",
+          "source": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
           "tags": [
-            "VAST",
-            "EdenLive",
-            "实时世界模型"
+            "Anthropic",
+            "计算资源",
+            "大单"
           ]
         },
         {
-          "title": "Claude破密码学悬案",
-          "summary": "Claude半小时解开20年密码学难题",
-          "detail": "Claude这回真是露脸了，半小时内就解开了困扰密码学界20年的悬案。学界集体走了20年弯路，结果被AI轻松破解。这不仅展示了AI在密码学上的潜力，还让人感叹：有时候，换个角度看问题，真的能事半功倍。",
-          "usage": "💡 讨论AI在密码学应用时提到\n💬 Claude半小时解开了20年密码学悬案，学界集体走偏20年，AI这次太秀了！\n🔥 Claude 密码学 悬案",
-          "source": "https://www.qbitai.com/2026/10/503910.html",
+          "title": "Amazon挑战Nvidia",
+          "summary": "Amazon推出TorchNeuron工具挑战Nvidia",
+          "detail": "Amazon终于对Nvidia出手了！TechCrunch报道，Amazon推出了TorchNeuron开发工具，旨在打破Nvidia在PyTorch领域的垄断。PyTorch作为AI应用开发的核心工具，Amazon这一动作无疑是对Nvidia的正面挑战。AI硬件市场的竞争越来越激烈了！",
+          "usage": "💡 讨论AI硬件时\n💬 Amazon这是要跟Nvidia硬刚啊，TorchNeuron都出来了！\n🔥 Amazon TorchNeuron Nvidia",
+          "source": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
           "tags": [
-            "Claude",
-            "密码学",
-            "悬案"
+            "Amazon",
+            "Nvidia",
+            "TorchNeuron"
           ]
         }
       ]
@@ -35,112 +35,22 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "DeepSeek新模型发布",
-          "summary": "DeepSeek V4.1-Flash-1017发布",
-          "detail": "DeepSeek新模型V4.1-Flash-1017发布，性价比高到离谱，直接斩杀一切竞品。还开放了自研搜索API，开发者们估计已经在摩拳擦掌，准备接入自家产品了。这波DeepSeek真是来势汹汹，未来AI市场的格局怕是要被重新定义。",
-          "usage": "💡 讨论AI模型性价比时提到\n💬 DeepSeek新模型V4.1-Flash-1017发布，性价比高到斩杀一切，AI市场要变天了！\n🔥 DeepSeek V4.1-Flash-1017 性价比",
-          "source": "https://www.qbitai.com/2026/10/504067.html",
+          "title": "Claude新模型曝光",
+          "summary": "Claude新模型能跳出思维定势修Bug",
+          "detail": "Claude又出新模型了！据量子位报道，新模型不仅能修Bug，还能跳出思维定势，治标又治本。相比之下，OpenAI的6.1 Terra就显得有点逊色了。Claude这次的新模型在代码修复能力上有了质的飞跃，未来可能会成为程序员的好帮手。",
+          "usage": "💡 讨论AI代码工具时\n💬 Claude新模型修Bug超神，OpenAI的6.1 Terra都黯然失色了！\n🔥 Claude OpenAI",
+          "source": "https://www.qbitai.com/2026/10/504314.html",
           "tags": [
-            "DeepSeek",
-            "V4.1-Flash-1017",
-            "性价比"
-          ]
-        },
-        {
-          "title": "智谱新模型发布",
-          "summary": "智谱新模型，懂法全球第一",
-          "detail": "智谱新模型在懂法方面直接登顶全球第一，法学界的人估计已经在瑟瑟发抖。这不仅是AI在法律领域的一大突破，更是对传统法律服务的巨大挑战。未来，AI律师可能会成为常态，法律服务的门槛也将大大降低。",
-          "usage": "💡 讨论AI在法律领域的应用时提到\n💬 智谱新模型在懂法方面全球第一，法学界的人估计已经在瑟瑟发抖了！\n🔥 智谱 懂法 全球第一",
-          "source": "https://www.qbitai.com/2026/10/503965.html",
-          "tags": [
-            "智谱",
-            "懂法",
-            "全球第一"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "🗣️ AI 大佬言论",
-      "icon": "🗣️",
-      "items": [
-        {
-          "title": "Anthropic CEO言论",
-          "summary": "Anthropic CEO谈员工变化",
-          "detail": "Anthropic CEO最近透露，公司员工结构变得更资深，会议时间也大幅增加。这反映出AI公司的成长痛点：随着规模扩大，管理复杂度和沟通成本也在飙升。AI公司不仅要解决技术问题，还得应对组织管理的挑战。",
-          "usage": "💡 讨论AI公司管理问题时提到\n💬 Anthropic CEO说员工变得更资深，会议时间也增加了，AI公司的管理复杂度真是越来越高啊！\n🔥 Anthropic CEO 员工结构 会议",
-          "source": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-          "tags": [
-            "Anthropic",
-            "CEO",
-            "员工结构"
-          ]
-        },
-        {
-          "title": "Replit CEO言论",
-          "summary": "Replit CEO谈模型提供商",
-          "detail": "Replit CEO明确表示，OpenAI将取代Anthropic成为其默认模型提供商。这不仅是技术选择，更是战略调整。Replit显然在押注OpenAI的技术优势，未来AI开发平台的竞争格局可能会因此进一步分化。",
-          "usage": "💡 讨论AI开发平台竞争时提到\n💬 Replit CEO说OpenAI将取代Anthropic成为默认模型提供商，AI开发平台的竞争格局要变天了！\n🔥 Replit CEO OpenAI Anthropic",
-          "source": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-          "tags": [
-            "Replit",
-            "CEO",
-            "OpenAI"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "🏢 巨头动态",
-      "icon": "🏢",
-      "items": [
-        {
-          "title": "Meta更新条款",
-          "summary": "Meta移除AI训练争议条款",
-          "detail": "Meta最近更新了其条款，移除了引发AI训练争议的部分。尽管Meta发言人坚称这只是措辞调整，但外界普遍认为这是Meta在AI数据使用上的让步。未来，AI公司和用户之间的数据使用协议可能会更加透明。",
-          "usage": "💡 讨论AI数据使用争议时提到\n💬 Meta更新条款，移除了AI训练争议部分，AI公司和用户的数据使用协议要更透明了！\n🔥 Meta 条款 AI训练",
-          "source": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-          "tags": [
-            "Meta",
-            "条款",
-            "AI训练"
-          ]
-        },
-        {
-          "title": "Disney招聘Character.AI员工",
-          "summary": "Disney招聘Character.AI员工",
-          "detail": "Disney已同意招聘Character.AI的大部分员工，这一举动不仅显示了Disney在AI领域的野心，也反映出Character.AI在技术和人才上的价值。未来，Disney可能会在AI驱动的娱乐内容上大展拳脚。",
-          "usage": "💡 讨论AI人才流动时提到\n💬 Disney招聘了Character.AI的大部分员工，未来AI驱动的娱乐内容估计要起飞了！\n🔥 Disney Character.AI 招聘",
-          "source": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-          "tags": [
-            "Disney",
-            "Character.AI",
-            "招聘"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "🛠️ 产品落地",
-      "icon": "🛠️",
-      "items": [
-        {
-          "title": "联想AIPC发售",
-          "summary": "联想YOGA Pro 15 RTX Spark发售",
-          "detail": "联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售，搭载超千亿大模型，端侧跑通无压力。买AIPC就选联想YOGA，这波联想真是把AI硬件玩出了新高度。",
-          "usage": "💡 讨论AI硬件时提到\n💬 联想YOGA Pro 15 RTX Spark发售，搭载超千亿大模型，AIPC市场要起飞了！\n🔥 联想 YOGA Pro 15 AIPC",
-          "source": "https://www.qbitai.com/2026/10/504116.html",
-          "tags": [
-            "联想",
-            "YOGA Pro 15",
-            "AIPC"
+            "Claude",
+            "新模型",
+            "修Bug"
           ]
         },
         {
           "title": "GPT-Rosalind学术计划",
-          "summary": "GPT-Rosalind学术计划发布",
-          "detail": "OpenAI推出GPT-Rosalind学术计划，为符合条件的学术实验室提供赞助访问。这不仅降低了学术研究的门槛，也为AI在科研领域的应用开辟了新的可能性。未来，AI可能会成为学术研究的标配工具。",
-          "usage": "💡 讨论AI在学术研究的应用时提到\n💬 OpenAI推出GPT-Rosalind学术计划，AI在科研领域的应用估计要起飞了！\n🔥 OpenAI GPT-Rosalind 学术计划",
+          "summary": "OpenAI推出GPT-Rosalind学术计划",
+          "detail": "OpenAI又有新动作！他们推出了GPT-Rosalind学术计划，为符合条件的学术实验室提供赞助访问权限。这意味着更多学术研究者可以直接使用GPT-Rosalind进行科研工作，AI在学术领域的应用将更加广泛。",
+          "usage": "💡 讨论AI在学术界的应用时\n💬 OpenAI的GPT-Rosalind学术计划让科研更方便了！\n🔥 OpenAI GPT-Rosalind",
           "source": "https://openai.com/index/introducing-the-rosalind-academic-plan",
           "tags": [
             "OpenAI",
@@ -151,31 +61,121 @@
       ]
     },
     {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "市长呼吁抵抗AI",
+          "summary": "纽约市长呼吁市民抵抗AI控制",
+          "detail": "纽约市长Zohran Mamdani在周一晚的演讲中呼吁市民抵抗AI控制，他认为联邦政府在AI监管上已经失职。TechCrunch报道了这一消息，Mamdani的言论引发了广泛讨论，AI监管问题再次成为焦点。",
+          "usage": "💡 讨论AI监管时\n💬 纽约市长都出来呼吁抵抗AI控制了，AI监管问题越来越严峻了！\n🔥 Zohran Mamdani AI监管",
+          "source": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+          "tags": [
+            "Zohran Mamdani",
+            "AI监管",
+            "纽约"
+          ]
+        },
+        {
+          "title": "Hugging Face谈嵌入式评估",
+          "summary": "Hugging Face政策主管谈嵌入式评估",
+          "detail": "Hugging Face的政策主管近日在TechCrunch上表示，嵌入式AI评估器并不是一个简单的解决方案。所谓的“中立”第三方观察员在实际操作中可能会面临诸多挑战。这一观点引发了业界对AI评估方式的重新思考。",
+          "usage": "💡 讨论AI评估方式时\n💬 Hugging Face的政策主管都说了，嵌入式AI评估器没那么简单！\n🔥 Hugging Face 嵌入式评估",
+          "source": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+          "tags": [
+            "Hugging Face",
+            "嵌入式评估",
+            "AI评估"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI助Itaú构建AI",
+          "summary": "OpenAI助Itaú构建生成式AI",
+          "detail": "OpenAI又有新合作伙伴了！这次是巴西的Itaú银行。据OpenAI官方报道，他们正在帮助Itaú构建生成式AI，通过ia.i对话界面和IARA治理平台，Itaú的客户将享受到更智能的金融服务。",
+          "usage": "💡 讨论AI在金融领域的应用时\n💬 OpenAI这次帮Itaú搞了个生成式AI，金融行业要变天了！\n🔥 OpenAI Itaú",
+          "source": "https://openai.com/index/itau-generative-ai",
+          "tags": [
+            "OpenAI",
+            "Itaú",
+            "生成式AI"
+          ]
+        },
+        {
+          "title": "微软警告AI代理",
+          "summary": "微软称AI代理像内部威胁",
+          "detail": "微软近日在TechCrunch上发出警告，称AI代理像内部威胁，前沿模型不可信。他们建议企业密切关注员工使用的AI代理，特别是那些不受控制的系统。这一警告引发了企业对AI安全的重视。",
+          "usage": "💡 讨论AI安全时\n💬 微软都说了，AI代理像内部威胁，企业得小心了！\n🔥 微软 AI代理 安全",
+          "source": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+          "tags": [
+            "微软",
+            "AI代理",
+            "安全"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "Stack Overflow插件火爆",
+          "summary": "Stack Overflow插件注册量翻三倍",
+          "detail": "OpenAI官方报道，Stack Overflow for Agents的ChatGPT插件上线后，注册量直接翻了三倍！两名工程师用Codex在几周内就搞定了这个插件，看来AI在开发者社区的应用潜力巨大。",
+          "usage": "💡 讨论AI在开发者社区的应用时\n💬 Stack Overflow的ChatGPT插件火了，注册量翻了三倍！\n🔥 Stack Overflow ChatGPT",
+          "source": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+          "tags": [
+            "Stack Overflow",
+            "ChatGPT",
+            "插件"
+          ]
+        },
+        {
+          "title": "Benefit Street Partners用Codex",
+          "summary": "Benefit Street Partners用Codex加速问题回答",
+          "detail": "OpenAI官方报道，Benefit Street Partners正在使用Codex构建工具，用于比较贷款估值和分析信用协议。这一应用大大加速了问题回答的效率，AI在金融领域的应用又向前迈进了一步。",
+          "usage": "💡 讨论AI在金融领域的应用时\n💬 Benefit Street Partners用Codex加速问题回答，效率杠杠的！\n🔥 Benefit Street Partners Codex",
+          "source": "https://openai.com/index/benefit-street-partners",
+          "tags": [
+            "Benefit Street Partners",
+            "Codex",
+            "金融"
+          ]
+        }
+      ]
+    },
+    {
       "name": "🔓 开源江湖",
       "icon": "🔓",
       "items": [
         {
-          "title": "VAST开源EdenLive",
-          "summary": "VAST开源EdenLive",
-          "detail": "VAST开源实时世界模型EdenLive，单消费级显卡就能运行，720P分辨率下帧率还能飙到24帧以上。这意味着人人都能自由创造和体验交互世界，开源的力量真是无穷大。",
-          "usage": "💡 讨论开源技术时提到\n💬 VAST开源EdenLive，单消费级显卡就能运行720P实时世界模型，开源的力量无穷大！\n🔥 VAST EdenLive 开源",
-          "source": "https://www.qbitai.com/2026/10/504136.html",
+          "title": "OpenCode被黑",
+          "summary": "OpenCode被黑客攻击，用户AI账户被扣费",
+          "detail": "TechCrunch报道，开源AI编码工具OpenCode被黑客攻击，用户的AI账户被扣费。OpenCode作为Claude Code和Cursor的替代品，一直备受开发者欢迎，这次事件引发了对其安全性的质疑。",
+          "usage": "💡 讨论开源工具的安全性时\n💬 OpenCode被黑了，用户AI账户被扣费，开源工具的安全性真是让人头疼！\n🔥 OpenCode 黑客 安全",
+          "source": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
           "tags": [
-            "VAST",
-            "EdenLive",
-            "开源"
+            "OpenCode",
+            "黑客",
+            "安全"
           ]
         },
         {
-          "title": "清华开源智能体操作系统",
-          "summary": "清华开源智能体操作系统",
-          "detail": "清华开源智能体操作系统，任务成本直接降了83%，AI记忆还能随时查改。这不仅是技术上的突破，更是对AI开发流程的优化。开源的力量，真是让AI开发的效率飞起来了。",
-          "usage": "💡 讨论开源AI技术时提到\n💬 清华开源智能体操作系统，任务成本降83%，AI记忆可查可改，AI开发的效率飞起来了！\n🔥 清华 智能体操作系统 开源",
-          "source": "https://www.qbitai.com/2026/10/503935.html",
+          "title": "Replika创始人新项目",
+          "summary": "Replika创始人推出新AI助手Wabi",
+          "detail": "TechCrunch报道，Replika创始人Eugenia Kuyda推出了新AI助手Wabi，该项目基于她12年前在Disrupt上提出的想法。Wabi的应用前景广阔，未来可能会在个人生活导航中大显身手。",
+          "usage": "💡 讨论AI助手时\n💬 Replika创始人又出新招，Wabi AI助手未来可期！\n🔥 Replika Wabi AI助手",
+          "source": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
           "tags": [
-            "清华",
-            "智能体操作系统",
-            "开源"
+            "Replika",
+            "Wabi",
+            "AI助手"
           ]
         }
       ]
@@ -185,27 +185,27 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "Claude解密码学悬案",
-          "summary": "Claude半小时解开20年密码学难题",
-          "detail": "Claude半小时内就解开了困扰密码学界20年的悬案，学界集体走了20年弯路，结果被AI轻松破解。这不仅展示了AI在密码学上的潜力，还让人感叹：有时候，换个角度看问题，真的能事半功倍。",
-          "usage": "💡 讨论AI在密码学应用时提到\n💬 Claude半小时解开了20年密码学悬案，学界集体走偏20年，AI这次太秀了！\n🔥 Claude 密码学 悬案",
-          "source": "https://www.qbitai.com/2026/10/503910.html",
+          "title": "WHIRLPO计算医学平台发布",
+          "summary": "哲源科技发布WHIRLPO计算医学平台",
+          "detail": "哲源科技在10月17日发布了WHIRLPO计算医学平台，标志着AI开始挑战最复杂的系统——生命。这一平台的应用前景广泛，未来可能会在医疗健康领域带来重大突破。",
+          "usage": "💡 讨论AI在医疗健康领域的应用时\n💬 哲源科技的WHIRLPO平台让AI开始挑战生命系统了！\n🔥 哲源科技 WHIRLPO 医疗",
+          "source": "https://www.qbitai.com/2026/10/504242.html",
           "tags": [
-            "Claude",
-            "密码学",
-            "悬案"
+            "哲源科技",
+            "WHIRLPO",
+            "医疗"
           ]
         },
         {
-          "title": "GeoPT入局物理世界模型",
-          "summary": "GeoPT一作入局物理世界模型",
-          "detail": "清华特奖得主GeoPT入局物理世界模型，从搭载物理建模能力的世界模型切入。这不仅展示了AI在物理领域的潜力，也为物理研究开辟了新的可能性。未来，AI可能会成为物理研究的标配工具。",
-          "usage": "💡 讨论AI在物理研究应用时提到\n💬 GeoPT入局物理世界模型，AI在物理领域的潜力估计要起飞了！\n🔥 GeoPT 物理世界模型",
-          "source": "https://www.qbitai.com/2026/10/503880.html",
+          "title": "量子计算云平台搭建",
+          "summary": "量子计算公司搭建千比特规模云平台",
+          "detail": "据量子位报道，一家量子计算公司正在搭建千比特规模的量子计算云平台，旨在将量子算力推向可调用服务。这一突破意味着量子计算离实际应用又近了一步。",
+          "usage": "💡 讨论量子计算时\n💬 千比特规模的量子计算云平台来了，量子计算离实际应用不远了！\n🔥 量子计算 云平台",
+          "source": "https://www.qbitai.com/2026/10/504277.html",
           "tags": [
-            "GeoPT",
-            "物理世界模型",
-            "AI"
+            "量子计算",
+            "云平台",
+            "千比特"
           ]
         }
       ]
@@ -215,42 +215,42 @@
       "icon": "📈",
       "items": [
         {
-          "title": "印度AI代理事件",
-          "summary": "印度报告AI代理活动",
-          "detail": "印度成为最新一个报告AI代理活动的国家，这些代理通过暴露的凭证和连接设置进入系统。这不仅暴露了AI安全的风险，也提醒企业和开发者，AI代理的部署需要更严格的防护措施。",
-          "usage": "💡 讨论AI安全问题时提到\n💬 印度报告AI代理活动，AI代理的部署需要更严格的防护措施！\n🔥 印度 AI代理 安全",
-          "source": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+          "title": "Tolan获3000万融资",
+          "summary": "AI助手Tolan获3000万美元融资",
+          "detail": "TechCrunch报道，AI助手Tolan在吸引了超过25万活跃用户后，又获得了3000万美元的融资。Tolan的应用前景广阔，未来可能会在个人生活导航中大显身手。",
+          "usage": "💡 讨论AI融资时\n💬 Tolan又拿了3000万刀，AI助手市场要起飞了！\n🔥 Tolan 融资 AI助手",
+          "source": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
           "tags": [
-            "印度",
-            "AI代理",
-            "安全"
+            "Tolan",
+            "融资",
+            "AI助手"
           ]
         },
         {
-          "title": "Anthropic公共福利基金",
-          "summary": "Anthropic设立公共福利基金",
-          "detail": "Anthropic宣布将5%的股份投入公共福利基金，这不仅是公司社会责任的体现，也为AI行业的可持续发展提供了新的思路。未来，更多AI公司可能会效仿这一做法，推动AI技术的社会价值最大化。",
-          "usage": "💡 讨论AI公司社会责任时提到\n💬 Anthropic将5%的股份投入公共福利基金，AI行业的社会责任估计要起飞了！\n🔥 Anthropic 公共福利基金 社会责任",
-          "source": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+          "title": "具身智能大赛落幕",
+          "summary": "首届全球具身智能应用创新挑战赛闭幕",
+          "detail": "10月18日，首届全球具身智能应用创新挑战赛暨2026中国机器人大赛在南京闭幕。这一赛事的成功举办标志着具身智能技术的快速发展，未来可能会有更多创新应用涌现。",
+          "usage": "💡 讨论具身智能时\n💬 首届全球具身智能大赛落幕，技术创新要起飞了！\n🔥 具身智能 大赛",
+          "source": "https://www.qbitai.com/2026/10/504199.html",
           "tags": [
-            "Anthropic",
-            "公共福利基金",
-            "社会责任"
+            "具身智能",
+            "大赛",
+            "创新"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-19T17:06:53.151Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-10-20T02:13:56.800Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3454,
-    "completion_tokens": 3220,
-    "total_tokens": 6674,
-    "cost_usd": 0.00397108,
+    "prompt_tokens": 3629,
+    "completion_tokens": 3123,
+    "total_tokens": 6752,
+    "cost_usd": 0.0041467347,
     "free": false,
     "sources": {
       "per_source": {
