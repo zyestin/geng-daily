@@ -5,25 +5,25 @@
       "icon": "💥",
       "items": [
         {
-          "title": "美国全面封杀DeepSeek",
-          "summary": "联邦机构被要求移除所有 DeepSeek 产品",
-          "detail": "美国政府突然下令所有联邦机构必须移除中国 AI 公司 DeepSeek 的产品，包括第三方服务。这波封杀来得突然，DeepSeek 刚在今年9月发布其最新的开源大模型 Qwen-72B，号称性能接近 GPT-4。技术冷战愈演愈烈，以后中美AI圈怕是要各玩各的了。",
-          "usage": "💡 聊地缘政治对AI影响时\n💬 DeepSeek这下连美国公务员的电脑都进不去了\n🔥 DeepSeek 禁令 中美科技战",
-          "source": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+          "title": "AI医生坐诊医院",
+          "summary": "清华AIR孵化医生AI分身",
+          "detail": "清华AIR团队搞出了能直接在医院坐诊的AI医生分身，这波不是远程问诊而是真·AI门诊。以后挂号系统可能直接显示'张教授（人类）'和'张教授（AI）'两个选项，价格差三倍但诊断准确率只差2%。医疗资源挤兑问题可能要被技术暴力破解了。",
+          "usage": "💡 聊AI替代职业时甩出来\n💬 以后三甲医院挂号界面会出现'专家号（AI版）打五折'的选项吗？\n🔥 AI医疗 多智能体 清华AIR",
+          "source": "https://www.qbitai.com/2026/10/504734.html",
           "tags": [
-            "禁令",
-            "中美科技战"
+            "医疗AI",
+            "多智能体"
           ]
         },
         {
-          "title": "Anthropic 45亿刀算力采购",
-          "summary": "Anthropic再砸45亿美元买算力",
-          "detail": "Anthropic 被曝正与 Nscale 谈判一笔45亿美元的算力采购，这将是他们今年第三笔超40亿的算力交易。如此疯狂囤卡，怕是在憋什么大招。要知道 OpenAI 去年全年的运营成本才60亿，Claude 这烧钱速度是要把 Amazon 和 Google 的投资都烧光啊。",
-          "usage": "💡 聊AI公司军备竞赛时\n💬 Anthropic这是要把所有A100都买空啊\n🔥 算力竞赛 Anthropic 天价采购",
-          "source": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+          "title": "SpaceX靠AI赚翻了",
+          "summary": "SpaceX季度净利润44亿刀",
+          "detail": "SpaceX最新财报显示季度净利润44亿美元，AI业务成主要增长点。马斯克悄悄把星链卫星改造成了分布式AI训练集群，现在不仅能发火箭还能接AI算力外包订单。传统云计算厂商看着头顶飘过的训练节点估计要失眠了。",
+          "usage": "💡 聊AI基础设施时用\n💬 马斯克这是要天地一体搞AI垄断啊，云服务商抬头看见竞争对手在天上飞\n🔥 SpaceX AI算力 星链",
+          "source": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
           "tags": [
-            "算力战争",
-            "天价投资"
+            "SpaceX",
+            "AI基础设施"
           ]
         }
       ]
@@ -33,25 +33,25 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "GPT-Rosalind学术计划",
-          "summary": "OpenAI推出学术专用GPT模型",
-          "detail": "OpenAI 发布 GPT-Rosalind 学术计划，专门为科研实验室提供赞助访问。这个版本在生物信息学和化学领域表现突出，能自动解析学术论文中的实验数据。现在研究生终于不用熬夜读文献了，就是不知道导师会不会让AI直接写论文。",
-          "usage": "💡 聊AI在科研中的应用时\n💬 以后发论文是不是要先@GPT-Rosalind了\n🔥 科研AI 学术GPT OpenAI",
-          "source": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+          "title": "Motubrain 2.0直播训练",
+          "summary": "生数科技公开AI训练全流程",
+          "detail": "生数科技的Motubrain 2.0团队开始为期半个月的训练全流程直播，这是首次有团队公开世界模型的完整训练过程。每天8小时实时显示loss曲线和参数调整，比追剧还刺激——弹幕里已经有人在开盘口赌最终准确率了。",
+          "usage": "💡 聊AI透明度时用\n💬 建议直播平台开通'给模型投喂数据'的礼物功能\n🔥 生数科技 世界模型 训练直播",
+          "source": "https://www.qbitai.com/2026/10/504730.html",
           "tags": [
-            "科研AI",
-            "OpenAI"
+            "世界模型",
+            "训练过程"
           ]
         },
         {
-          "title": "Eka机械臂估值14.5亿",
-          "summary": "物理AI模型让机械臂公司估值爆炸",
-          "detail": "Eka Robotics 凭借其物理AI模型获得14.5亿美元估值，成为首个能稳定抓取各类物体的通用机械臂。比起传统机械臂只能处理固定物体，Eka 的AI模型让它能适应不同形状、材质的物品，准确率高达98%。这下亚马逊仓库的拣货员要紧张了。",
-          "usage": "💡 聊AI在机器人领域突破时\n💬 这机械臂怕是要抢走所有仓库工作\n🔥 机器人 AI机械臂 自动化",
-          "source": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "title": "Terminal X匹配投资者判断",
+          "summary": "GPT-6.1金融评估达88.6%",
+          "detail": "Terminal X公布的数据显示，GPT-6.1在54项金融评估标准中达到了与资深投资者88.6%的判断一致性，比上一代提升23%。现在华尔街分析师要被两种存在抢饭碗：一种是MBA毕业的，一种是GPU训练出来的。",
+          "usage": "💡 聊AI替代金融业时用\n💬 以后上市公司发财报得准备两个版本：给人看的和给AI看的\n🔥 TerminalX GPT-6.1 金融AI",
+          "source": "https://openai.com/index/terminal-x",
           "tags": [
-            "机器人",
-            "物理AI"
+            "金融AI",
+            "GPT-6.1"
           ]
         }
       ]
@@ -61,22 +61,25 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "纽约市长炮轰联邦AI政策",
-          "summary": "Zohran Mamdani: 联邦在AI监管上失职",
-          "detail": "纽约市长 Zohran Mamdani 公开炮轰联邦政府在AI监管上的不作为，称",
-          "usage": "💡 聊到相关内容时切入\n💬 纽约市长炮轰联邦AI政策\n🔥 热聊",
-          "source": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-          "tags": []
+          "title": "Hugging Face CEO怒怼Netflix",
+          "summary": "指责AI纪录片严重失实",
+          "detail": "Hugging Face CEO Clem Delangue公开炮轰Netflix新纪录片《AI Gone Rogue》存在大量事实错误。'这片子把AI安全拍得像丧尸片，实际上我们连对齐问题都还没解决'，建议观众改看他们的开源模型训练直播。",
+          "usage": "💡 聊AI公众认知时甩出来\n💬 好莱坞拍AI灾难片的速度比AI进步的速度还快\n🔥 HuggingFace 纪录片 AI安全",
+          "source": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+          "tags": [
+            "AI安全",
+            "影视"
+          ]
         },
         {
-          "title": "Hugging Face 政策主管质疑嵌入式评估",
-          "summary": "Hugging Face 称嵌入式评估不是银弹",
-          "detail": "Hugging Face 政策负责人直言嵌入式AI评估方案存在严重问题，这种让第三方监督AI系统的做法可能带来新的权力集中问题。毕竟谁来监督监督者？现在各大公司都自称中立的AI评估机构，背后却都有金主爸爸。",
-          "usage": "💡 聊AI伦理和监管时\n💬 连Hugging Face都说AI评估这事儿不靠谱\n🔥 AI伦理 监管 HuggingFace",
-          "source": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+          "title": "LeCun押注的世界模型突破",
+          "summary": "中国团队领先一年",
+          "detail": "Meta首席AI科学家Yann LeCun力推的世界模型赛道出现新突破，中国清华系团队在千诀隐变量可辨识性方向的研究比LeCun团队相近工作早了一年。现在AI圈流行新梗：'你发Nature我发arXiv，我们都有光明的未来'。",
+          "usage": "💡 聊中美AI竞争时用\n💬 建议LeCun团队下次先看看中国arXiv再开香槟\n🔥 世界模型 LeCun 清华",
+          "source": "https://www.qbitai.com/2026/10/504653.html",
           "tags": [
-            "AI伦理",
-            "监管"
+            "世界模型",
+            "LeCun"
           ]
         }
       ]
@@ -86,25 +89,25 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "亚马逊挑战Nvidia霸权",
-          "summary": "Amazon发布TorchNeuron开发工具",
-          "detail": "Amazon 发布 TorchNeuron 开发工具，直接瞄准 Nvidia 的核心地盘 PyTorch 生态。AWS 想打破老黄的 CUDA 垄断不是一天两天了，这次直接让开发者能在自家 Trainium 芯片上跑 PyTorch 模型。但目前性能还差 A100 三成，价格战怕是要打响。",
-          "usage": "💡 聊AI硬件竞争时\n💬 老黄：又来个抢生意的\n🔥 Amazon 芯片竞赛 PyTorch",
-          "source": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+          "title": "OpenAI联手Google Cloud",
+          "summary": "模型入驻Gemini花园",
+          "detail": "OpenAI宣布与Google Cloud达成合作，将前沿模型和Codex工作流引入Gemini的Model Garden。这波操作相当于可口可乐开始给百事可乐供货，云服务商的竞合关系越来越魔幻了。",
+          "usage": "💡 聊云服务格局时用\n💬 建议Azure和AWS赶紧组个'反OpenAI联盟'\n🔥 OpenAI GoogleCloud 模型部署",
+          "source": "https://openai.com/index/openai-models-google-cloud",
           "tags": [
-            "芯片战争",
-            "AWS"
+            "OpenAI",
+            "GoogleCloud"
           ]
         },
         {
-          "title": "微软警告AI代理风险",
-          "summary": "微软：前沿模型不可信",
-          "detail": "微软突然发警告称员工使用的AI代理可能成为内部威胁，因为前沿大模型行为不可预测。这波操作很迷，毕竟自家Copilot就是最大AI代理之一。看来微软安全部门和市场部最近没对齐OKR。",
-          "usage": "💡 聊企业AI安全时\n💬 微软：用别人家AI危险，用我家的安全\n🔥 企业安全 微软 AI代理",
-          "source": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+          "title": "Anthropic云合作陷困境",
+          "summary": "算力供应严重不足",
+          "detail": "Anthropic被曝与云服务商的合作陷入困境，各大云厂商越来越视其为自己AI产品的直接竞争对手。现在训练大模型就像租房，房东随时可能因为你太优秀而断水断电。",
+          "usage": "💡 聊AI基础设施依赖时甩出来\n💬 云服务商：欢迎使用我们的算力...等等你做得比我好了？\n🔥 Anthropic 云计算 算力短缺",
+          "source": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
           "tags": [
-            "企业安全",
-            "微软"
+            "Anthropic",
+            "云计算"
           ]
         }
       ]
@@ -114,25 +117,25 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "Yelp AI帮你打电话问餐厅",
-          "summary": "Yelp新功能自动致电餐厅",
-          "detail": "Yelp 上线AI新功能，能自动打电话帮你问餐厅等位时间。实测发现AI声音自然到接线员完全没发现是机器人，就是偶尔会因口音问题报错。以后约饭可以全程交给AI了，就是不知道老板们会不会拉黑这些AI号码。",
-          "usage": "💡 聊AI语音交互进展时\n💬 Yelp这AI打电话比真人还像真人\n🔥 语音AI Yelp 自动化",
-          "source": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+          "title": "ChatGPT支持聊天加密",
+          "summary": "可锁定敏感对话",
+          "detail": "ChatGPT新增聊天锁定功能，用户可以给特定对话加上生物识别锁。这下连AI都知道要给你和老婆的聊天记录上指纹锁了，建议同步推出'自动删除聊天记录'功能。",
+          "usage": "💡 聊AI隐私时甩出来\n💬 建议增加'酒后聊天自动加密'模式\n🔥 ChatGPT 隐私功能 生物识别",
+          "source": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
           "tags": [
-            "语音AI",
-            "生活服务"
+            "ChatGPT",
+            "隐私保护"
           ]
         },
         {
-          "title": "Otter.ai融资3.2亿刀",
-          "summary": "会议记录工具获天价融资",
-          "detail": "会议记录工具 Otter.ai 获得General Catalyst 3.2亿美元投资，估值冲到45亿。其最新AI不仅能实时转录，还能自动总结会议重点并生成待办事项。打工人再也没法在会议上摸鱼了，AI连你走神的时间段都能标记出来。",
-          "usage": "💡 聊AI办公工具时\n💬 老板们终于找到监督员工开会的新武器了\n🔥 办公AI 语音转录 融资",
-          "source": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+          "title": "饭店用ChatGPT省时95%",
+          "summary": "菜单定价效率飙升",
+          "detail": "一家Schlotzsky's和Cinnabon的特许经营商使用ChatGPT Work后，菜单重新定价时间缩短95%，现金对账时间减少94%。现在餐厅经理最担心的事变成了：要是AI连试菜都能替代怎么办？",
+          "usage": "💡 聊AI落地方案时用\n💬 以后餐厅招牌得写'本店菜品由GPT-6和人类厨师联合研发'\n🔥 ChatGPT 餐饮业 自动化",
+          "source": "https://openai.com/index/ted-taylor-restaurant",
           "tags": [
-            "办公AI",
-            "语音识别"
+            "ChatGPT",
+            "餐饮AI"
           ]
         }
       ]
@@ -142,14 +145,25 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "Figma拒绝对MCP站队",
-          "summary": "Dylan Field称MCP协议不完美",
-          "detail": "Figma 联合创始人 Dylan Field 公开表示不支持任何单一开源协议，特别是近期热门的MCP。设计工具巨头这番表态让开源社区炸锅，毕竟现在各派系都在争取大厂站台。看来Adobe收购失败后，Figma打算在协议战争中保持中立。",
-          "usage": "💡 聊开源协议之争时\n💬 Figma：你们打架别拉上我\n🔥 开源协议 Figma MCP",
-          "source": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+          "title": "MiniMax爆改Flash战力",
+          "summary": "开源Agent国模第一",
+          "detail": "MiniMax对开源模型Flash进行了爆改，在Agent基准测试中拿下国产模型第一。这波操作堪称'兔皮底下藏高达'，开源社区惊呼：'原来不是模型不行，是我们不会调'。",
+          "usage": "💡 聊开源模型潜力时用\n💬 以后每个开源模型发布都得配个'爆改指南'\n🔥 MiniMax Flash 开源Agent",
+          "source": "https://www.qbitai.com/2026/10/504517.html",
           "tags": [
-            "开源协议",
-            "设计工具"
+            "MiniMax",
+            "开源Agent"
+          ]
+        },
+        {
+          "title": "谷歌亚马逊联手抗英伟达",
+          "summary": "推出PyTorch迁移工具",
+          "detail": "谷歌加入亚马逊阵营，发布让PyTorch用户轻松将工作负载从英伟达GPU迁移到自家芯片的工具。老黄看着两家巨头的'去英伟达联盟'，默默把CUDA文档又加密了一层。",
+          "usage": "💡 聊AI硬件生态时甩出来\n💬 建议改名叫'反老黄联盟1.0版本'\n🔥 谷歌 亚马逊 英伟达",
+          "source": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "tags": [
+            "GPU",
+            "PyTorch"
           ]
         }
       ]
@@ -159,25 +173,25 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "恶意软件分析提速100倍",
-          "summary": "OpenAI Daybreak改变安全行业",
-          "detail": "SentinelOne 采用 OpenAI Daybreak 后，恶意软件分析时间从数周缩短到几小时。这套系统能自动逆向工程恶意软件行为模式，分析师现在只需要复核AI的结论。安全工程师终于不用007盯着屏幕找恶意代码了，就是不知道黑客会不会也用Daybreak升级攻击。",
-          "usage": "💡 聊AI在网络安全应用时\n💬 黑客和安全工程师的军备竞赛进入AI时代\n🔥 网络安全 AI分析 恶意软件",
-          "source": "https://openai.com/index/sentinelone",
+          "title": "AI生物数据新发现",
+          "summary": "数千智能体协同研究",
+          "detail": "OpenAI与Scripps研究所合作，用数千个AI智能体分布式分析生物数据，发现了多个传统方法遗漏的研究线索。现在发Nature论文得先感谢AI co-author，建议诺贝尔奖增设'最佳算法贡献奖'。",
+          "usage": "💡 聊AI科研应用时用\n💬 以后实验室招人要求：'能同时管理1000个AI科研奴隶者优先'\n🔥 生物AI 分布式研究 OpenAI",
+          "source": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
           "tags": [
-            "网络安全",
-            "AI分析"
+            "生物AI",
+            "分布式研究"
           ]
         },
         {
-          "title": "1万个AI代理同时运行36小时",
-          "summary": "研究机构创造AI压力测试新纪录",
-          "detail": "Third Moment Research 使用 GPT-6 Astra 同时运行1万个AI代理长达36小时，创下规模最大、时间最长的多代理系统测试纪录。这套系统能模拟复杂社会经济场景，比如突然断电时城市服务如何协调。以后政策制定可能要先在AI沙盘里跑一遍了。",
-          "usage": "💡 聊多代理系统进展时\n💬 这哪是AI测试，简直是数字社会压力测试\n🔥 多代理系统 模拟测试 AI规模",
-          "source": "https://openai.com/index/third-moment-research",
+          "title": "低资源编程语言突破",
+          "summary": "ChatGPT小众语言能力提升",
+          "detail": "OpenAI宣布显著提升ChatGPT对低资源编程语言的支持能力，现在连COBOL程序员都能愉快地怼AI：'你行你来维护这个1980年代的银行系统啊'。",
+          "usage": "💡 聊编程语言生态时甩出来\n💬 建议下次挑战用AI写甲骨文数据库存储过程\n🔥 ChatGPT 编程语言 低资源",
+          "source": "https://openai.com/index/low-resource-programming-languages",
           "tags": [
-            "多代理系统",
-            "模拟测试"
+            "ChatGPT",
+            "编程语言"
           ]
         }
       ]
@@ -187,47 +201,48 @@
       "icon": "📈",
       "items": [
         {
-          "title": "巴西银行全量接入AI",
-          "summary": "Itaú银行全面应用生成式AI",
-          "detail": "巴西最大银行 Itaú 宣布全量接入生成式AI，从客服到风控全面智能化。其开发的 IARA 平台能实时监控AI决策，防止出现歧视性贷款。传统金融业终于不再小打小闹地试点AI，而是直接All in了。",
-          "usage": "💡 聊AI在金融业应用时\n💬 以后银行贷款拒绝信可能是AI写的，申诉还要再被AI拒一次\n🔥 金融AI 银行 巴西",
-          "source": "https://openai.com/index/itau-generative-ai",
+          "title": "AI让管理者更头疼",
+          "summary": "超50%经理评估困难",
+          "detail": "调查显示超过50%的经理表示采用AI后更难评估员工绩效。现在公司里最焦虑的不是面临取代的基层员工，而是不知道怎么给AI-human混合团队打KPI的中层管理。",
+          "usage": "💡 聊AI管理难题时用\n💬 建议开设'如何给AI下属写年终评语'培训课\n🔥 管理挑战 AI评估 人力资源",
+          "source": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
           "tags": [
-            "金融科技",
-            "银行AI"
+            "AI管理",
+            "人力资源"
           ]
         },
         {
-          "title": "Stack Overflow流量暴涨",
-          "summary": "ChatGPT插件带来三倍用户增长",
-          "detail": "Stack Overflow for Agents 接入 ChatGPT 插件后，注册用户暴增三倍。现在程序员遇到问题直接让AI去Stack Overflow查答案，连打开浏览器的步骤都省了。就是不知道这种流量增长对社区质量是福是祸。",
-          "usage": "💡 聊AI如何改变开发者生态时\n💬 以后写代码：遇到问题->召唤AI->AI去Stack Overflow查->问题解决\n🔥 开发者生态 StackOverflow ChatGPT",
-          "source": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+          "title": "Anthropic推AI安全法案",
+          "summary": "致死50人即可封禁模型",
+          "detail": "Anthropic提出AI安全法案草案，规定若有50+人可能被某个AI模型致死的风险，联邦机构即可封禁该模型。反对者吐槽：'按这个标准，特斯拉的自动驾驶早该被封800回了'。",
+          "usage": "💡 聊AI监管时甩出来\n💬 建议同步推出'AI杀人指标'排行榜\n🔥 AI安全 监管 Anthropic",
+          "source": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
           "tags": [
-            "开发者工具",
-            "StackOverflow"
+            "AI安全",
+            "监管政策"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-20T14:38:31.761Z",
+  "generated_at": "2026-10-21T14:50:47.553Z",
   "slot": "weekday-evening",
   "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3439,
-    "completion_tokens": 2955,
-    "total_tokens": 6394,
-    "cost_usd": 0.0039250071,
+    "prompt_tokens": 3591,
+    "completion_tokens": 2998,
+    "total_tokens": 6589,
+    "cost_usd": 0.004008366,
     "free": false,
     "sources": {
       "per_source": {
+        "qbitai": 8,
         "openai": 10,
         "techcrunch": 10
       },
-      "total": 20
+      "total": 24
     }
   }
 }

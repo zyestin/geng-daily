@@ -1,39 +1,51 @@
 {
   "categories": [
     {
-      "name": "🎬 追剧指南",
-      "icon": "🎬",
+      "name": "土味情话",
+      "icon": "😘",
       "items": [
         {
-          "title": "伟大远征大揭秘",
-          "summary": "追剧时也能聊出新花样！",
-          "detail": "最近在追《伟大远征》吗？我发现里面的角色就像程序代码，调试得好才能顺利运行。你觉得谁最像个bug？我觉得是那位总是出错的角色，哈哈！",
-          "usage": "💡 找到她看的剧时机 \n💬 '最近在追《伟大远征》吗？你觉得剧中哪个角色最像bug？' \n🔥 剧名 演员",
-          "source": "https://m.baidu.com/s?word=%E4%BC%9F%E5%A4%A7%E8%BF%9C%E5%BE%81+%E7%B2%BE%E7%A5%9E%E6%B0%B8%E7%BB%AD",
+          "title": "长征情话",
+          "summary": "结合热点，甜蜜告白",
+          "detail": "结合热搜'走好新时代的长征路'，可以说：'媳妇，咱们的爱情就像长征路，虽然有时艰难，但每一步都走得坚定。你是我心中的红星，照亮我前行的路。'",
+          "usage": "💡 日常聊天时\n💬 媳妇，咱们的爱情就像长征路，虽然有时艰难，但每一步都走得坚定。你是我心中的红星，照亮我前行的路。\n🔥 长征 红星 坚定",
+          "source": "https://m.baidu.com/s?word=%E8%B5%B0%E5%A5%BD%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84%E9%95%BF%E5%BE%81%E8%B7%AF&sa=fyb_news",
           "tags": [
-            "追剧",
-            "幽默",
-            "讨论"
+            "长征",
+            "红星",
+            "坚定"
+          ]
+        },
+        {
+          "title": "手机情话",
+          "summary": "结合热点，甜蜜告白",
+          "detail": "结合热搜'为何手机卖不动了'，可以说：'媳妇，手机卖不动是因为它们都不如你吸引人。你是我心中永远的爆款，每天都想把你捧在手心。'",
+          "usage": "💡 日常聊天时\n💬 媳妇，手机卖不动是因为它们都不如你吸引人。你是我心中永远的爆款，每天都想把你捧在手心。\n🔥 手机 爆款 吸引",
+          "source": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BD%95%E6%89%8B%E6%9C%BA%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news",
+          "tags": [
+            "手机",
+            "爆款",
+            "吸引"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-20T14:34:54.071Z",
+  "generated_at": "2026-10-21T14:48:24.605Z",
   "slot": "weekday-evening",
   "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
-    "model": "openai/gpt-4o-mini",
-    "actual_model": "openai/gpt-4o-mini",
-    "prompt_tokens": 3284,
-    "completion_tokens": 2782,
-    "total_tokens": 6066,
-    "cost_usd": 0.0021618,
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2972,
+    "completion_tokens": 2749,
+    "total_tokens": 5721,
+    "cost_usd": 0.0035928891,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 15,
-      "published": 1
+      "dropped_orphans": 14,
+      "published": 2
     },
     "sources": {
       "per_source": {

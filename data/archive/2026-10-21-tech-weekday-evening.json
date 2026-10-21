@@ -1,0 +1,265 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "amp扩产后",
+          "summary": "苹果急扩AMP计划",
+          "detail": "苹果昨日宣布Perryman和Qnity加入苹果美国制造计划(AMP)，Perryman是宾州钛生产商，为iPhone Duo供应钛金属。看来苹果现在不光要卷芯片，连材料供应链都要自己把控了。",
+          "usage": "💡 跟同事聊苹果供应链\n💬 苹果这是要把钛金属也纳入自家后院啊，以后iPhone是不是要改名叫iMetal了？\n🔥 苹果 AMP 钛金属",
+          "source": "https://www.huxiu.com/article/4899385.html?f=rss",
+          "tags": [
+            "苹果",
+            "供应链",
+            "钛金属"
+          ]
+        },
+        {
+          "title": "快递新赛局",
+          "summary": "快递巨头各走各路",
+          "detail": "随着双11临近，快递行业却没了往年的火药味。驿站老鬼发文称，现在各家快递公司都在差异化发展，有的专注高端时效件，有的深耕下沉市场。连双11都不搞价格战了，看来快递行业终于要开始拼服务质量了。",
+          "usage": "💡 聊快递市场变化\n💬 今年双11快递不打架了？看来大家终于明白烧钱不是长久之计啊\n🔥 快递 双11 差异化",
+          "source": "https://www.huxiu.com/article/4899390.html?f=rss",
+          "tags": [
+            "快递",
+            "双11",
+            "差异化"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "马斯克新蓝图",
+          "summary": "SpaceX营收超预期",
+          "detail": "SpaceX第三季度财报惊艳市场：营收146亿美元，同比增长161%，净利润44亿美元。分析师直呼看不懂，这还是我们认识的那个造火箭的公司吗？现在马斯克的太空生意已经变成印钞机了。",
+          "usage": "💡 聊马斯克商业帝国\n💬 SpaceX现在赚钱比放烟花还快，马斯克下一步是不是要买下NASA？\n🔥 SpaceX 财报 马斯克",
+          "source": "https://www.huxiu.com/article/4899373.html?f=rss",
+          "tags": [
+            "马斯克",
+            "SpaceX",
+            "财报"
+          ]
+        },
+        {
+          "title": "黄仁勋新动作",
+          "summary": "NVIDIA进军服务器市场",
+          "detail": "据内部消息，NVIDIA正在秘密研发新一代服务器芯片，准备直接叫板英特尔。黄教主这是不满足于显卡市场，连CPU的饭碗都要抢啊。",
+          "usage": "💡 聊芯片行业竞争\n💬 黄教主这是要'核显通吃'啊，英特尔现在肯定慌得一比\n🔥 NVIDIA 服务器芯片 黄仁勋",
+          "source": "",
+          "tags": [
+            "NVIDIA",
+            "服务器",
+            "黄仁勋"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "腾讯字节新战局",
+          "summary": "红果与绿泡泡之争",
+          "detail": "腾讯和字节跳动又在短剧市场杠上了。腾讯旗下的红果最近搞了大动作，字节的绿泡泡也不甘示弱。这俩巨头为了争夺用户碎片时间，打得是难解难分。",
+          "usage": "💡 聊互联网内容竞争\n💬 红果绿泡泡这是要上演现实版'水果大战蔬菜'啊\n🔥 腾讯 字节跳动 短剧",
+          "source": "https://www.huxiu.com/article/4899379.html?f=rss",
+          "tags": [
+            "腾讯",
+            "字节跳动",
+            "短剧"
+          ]
+        },
+        {
+          "title": "通用汽车新战略",
+          "summary": "通用转型小而美",
+          "detail": "曾经的世界最大车企通用汽车，如今宣布要走'小而美'路线。单季度狂赚41亿美元，证明瘦身战略见效了。现在他们专注利润而不是规模，看来大不一定就是美啊。",
+          "usage": "💡 聊车企转型\n💬 通用汽车现在改走'精致路线'了，瘦身后反而更赚钱\n🔥 通用汽车 转型 利润",
+          "source": "https://www.huxiu.com/article/4899378.html?f=rss",
+          "tags": [
+            "通用汽车",
+            "转型",
+            "利润"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "百事战略调整",
+          "summary": "百事考虑出售灌装业务",
+          "detail": "16年前花78亿美元收购的灌装业务，百事现在正考虑出售。这波操作让业内人士直呼看不懂，百事这是要把'瓶'和'水'分开卖？",
+          "usage": "💡 聊快消品行业\n💬 百事这波反向操作，是要给可口可乐表演什么叫'买椟还珠'吗\n🔥 百事 灌装业务 出售",
+          "source": "https://www.huxiu.com/article/4899381.html?f=rss",
+          "tags": [
+            "百事",
+            "灌装业务",
+            "出售"
+          ]
+        },
+        {
+          "title": "肯德基换饮料",
+          "summary": "百事失去大客户",
+          "detail": "美国肯德基宣布将40年合作关系的百事可乐换成可口可乐，这一改变让百事股价应声下跌。看来炸鸡配什么汽水，真不是小事。",
+          "usage": "💡 聊餐饮供应链\n💬 百事这次是真'透心凉'了，连炸鸡伴侣的位置都保不住\n🔥 肯德基 百事 可口可乐",
+          "source": "https://www.huxiu.com/article/4899380.html?f=rss",
+          "tags": [
+            "肯德基",
+            "百事",
+            "可口可乐"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "无人机新突破",
+          "summary": "乌鲁木齐机场客流增长",
+          "detail": "2026年前三季度，乌鲁木齐机场旅客吞吐量增长7.7%，达到2423.2万人次，反超南京成为中国航空第十城。中西部航空市场正在快速崛起。",
+          "usage": "💡 聊航空市场\n💬 乌鲁木齐这是要带着新疆'飞'起来的节奏啊\n🔥 乌鲁木齐 航空 客流",
+          "source": "https://www.huxiu.com/article/4899389.html?f=rss",
+          "tags": [
+            "乌鲁木齐",
+            "航空",
+            "客流"
+          ]
+        },
+        {
+          "title": "商业航天新浪潮",
+          "summary": "中国商业航天加速",
+          "detail": "据内部消息，中国多家商业航天公司正在秘密研发可重复使用火箭技术，准备挑战SpaceX的霸主地位。看来太空竞赛2.0版本要上演了。",
+          "usage": "💡 聊航天技术\n💬 中国版SpaceX们正在来的路上，马斯克准备好接招了吗\n🔥 商业航天 可重复火箭",
+          "source": "",
+          "tags": [
+            "商业航天",
+            "重复火箭",
+            "SpaceX"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "AI应用新王者",
+          "summary": "豆包登顶月活榜",
+          "detail": "最新数据显示，豆包AI应用月活用户数登上榜首，腾讯的办公Agent紧随其后。AI应用市场竞争日趋白热化，看来'最强大脑'的争夺战才刚刚开始。",
+          "usage": "💡 聊AI应用\n💬 豆包这是要当AI界的'国民APP'啊，腾讯估计在憋大招\n🔥 豆包 AI应用 月活",
+          "source": "https://www.huxiu.com/article/4899386.html?f=rss",
+          "tags": [
+            "豆包",
+            "AI应用",
+            "月活"
+          ]
+        },
+        {
+          "title": "泡泡玛特新财报",
+          "summary": "潮玩市场分化",
+          "detail": "泡泡玛特2026年营收达171.7亿元，但线下潮玩店日均流水仅600元。这种'天上地下'的差距，反映出潮玩市场严重的两极分化现象。",
+          "usage": "💡 聊潮玩经济\n💬 泡泡玛特线上赚翻，线下门店却在'吃土'，这反差也太大了吧\n🔥 泡泡玛特 潮玩 财报",
+          "source": "https://www.huxiu.com/article/4899384.html?f=rss",
+          "tags": [
+            "泡泡玛特",
+            "潮玩",
+            "财报"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "外贸城易主",
+          "summary": "中西部外贸洗牌",
+          "detail": "最新外贸数据显示，中西部外贸第一城已经易主。这场大洗牌背后，是内陆城市对外开放加速的缩影。",
+          "usage": "💡 聊区域经济\n💬 中西部外贸版图重划，看来'内陆'这个词要重新定义了\n🔥 外贸 中西部 洗牌",
+          "source": "https://www.huxiu.com/article/4899383.html?f=rss",
+          "tags": [
+            "外贸",
+            "中西部",
+            "洗牌"
+          ]
+        },
+        {
+          "title": "越南投资退潮",
+          "summary": "中国老板撤离越南",
+          "detail": "据唐驳虎报道，越来越多的中国企业家正在考虑撤离越南市场。曾经的热土正在降温，这场'越南热'看来要告一段落了。",
+          "usage": "💡 聊海外投资\n💬 越南这场'热恋'这么快就凉了？中国老板们跑得比兔子还快\n🔥 越南 投资 撤离",
+          "source": "https://www.toutiao.com/trending/7699071560463683126/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699071560463683126%22%2C%22hot_board_impr_id%22%3A%2220261021224825163DEC0FAFD1FD09D7F6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%94%90%E9%A9%B3%E8%99%8E%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%80%81%E6%9D%BF%E5%B7%B2%E5%87%86%E5%A4%87%E6%94%BE%E5%BC%83%E8%B6%8A%E5%8D%97%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7699071560463683126",
+          "tags": [
+            "越南",
+            "投资",
+            "撤离"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "币圈风云",
+      "icon": "🪙",
+      "items": [
+        {
+          "title": "爱情投资新玩法",
+          "summary": "于东来投2000万研究爱情",
+          "detail": "胖东来创始人于东来宣布拿出2000万投资爱情研究项目。这波操作让网友直呼：原来爱情也能当创业项目？",
+          "usage": "💡 聊奇葩投资\n💬 于东来这是要把'恋爱经济学'做成下一个风口啊\n🔥 胖东来 爱情研究 投资",
+          "source": "https://www.toutiao.com/trending/7699040297031991315/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699040297031991315%22%2C%22hot_board_impr_id%22%3A%2220261021224825163DEC0FAFD1FD09D7F6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%8E%E4%B8%9C%E6%9D%A5%EF%BC%9A%E5%B7%B2%E6%8B%BF%E5%87%BA2000%E4%B8%87%E6%8A%95%E8%B5%84%E7%88%B1%E6%83%85%E7%A0%94%E7%A9%B6%22%7D&rank=&style_id=40132&topic_id=7699040297031991315",
+          "tags": [
+            "胖东来",
+            "爱情研究",
+            "投资"
+          ]
+        },
+        {
+          "title": "鸭脖经济遇冷",
+          "summary": "绝味摘帽难掩困境",
+          "detail": "虽然绝味食品成功摘帽，但财报显示鸭脖生意依然不好做。看来吃货们的口味变化，连资本市场都跟着紧张。",
+          "usage": "💡 聊消费趋势\n💬 连鸭脖都不香了，这届年轻人的口味变得太快\n🔥 绝味 鸭脖 消费",
+          "source": "https://m.baidu.com/s?word=%E7%BB%9D%E5%91%B3%E6%91%98%E5%B8%BD+%E4%BD%86%E9%B8%AD%E8%84%96%E7%94%9F%E6%84%8F%E4%BB%8D%E4%B8%8D%E5%A5%BD%E5%81%9A&sa=fyb_news",
+          "tags": [
+            "绝味",
+            "鸭脖",
+            "消费"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-21T14:49:37.566Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 6192,
+    "completion_tokens": 3529,
+    "total_tokens": 9721,
+    "cost_usd": 0.0052241031,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 12,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 24
+    }
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "AI医生坐诊医院",
+          "summary": "清华AIR孵化医生AI分身",
+          "detail": "清华AIR团队搞出了能直接在医院坐诊的AI医生分身，这波不是远程问诊而是真·AI门诊。以后挂号系统可能直接显示'张教授（人类）'和'张教授（AI）'两个选项，价格差三倍但诊断准确率只差2%。医疗资源挤兑问题可能要被技术暴力破解了。",
+          "usage": "💡 聊AI替代职业时甩出来\n💬 以后三甲医院挂号界面会出现'专家号（AI版）打五折'的选项吗？\n🔥 AI医疗 多智能体 清华AIR",
+          "source": "https://www.qbitai.com/2026/10/504734.html",
+          "tags": [
+            "医疗AI",
+            "多智能体"
+          ]
+        },
+        {
+          "title": "SpaceX靠AI赚翻了",
+          "summary": "SpaceX季度净利润44亿刀",
+          "detail": "SpaceX最新财报显示季度净利润44亿美元，AI业务成主要增长点。马斯克悄悄把星链卫星改造成了分布式AI训练集群，现在不仅能发火箭还能接AI算力外包订单。传统云计算厂商看着头顶飘过的训练节点估计要失眠了。",
+          "usage": "💡 聊AI基础设施时用\n💬 马斯克这是要天地一体搞AI垄断啊，云服务商抬头看见竞争对手在天上飞\n🔥 SpaceX AI算力 星链",
+          "source": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+          "tags": [
+            "SpaceX",
+            "AI基础设施"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Motubrain 2.0直播训练",
+          "summary": "生数科技公开AI训练全流程",
+          "detail": "生数科技的Motubrain 2.0团队开始为期半个月的训练全流程直播，这是首次有团队公开世界模型的完整训练过程。每天8小时实时显示loss曲线和参数调整，比追剧还刺激——弹幕里已经有人在开盘口赌最终准确率了。",
+          "usage": "💡 聊AI透明度时用\n💬 建议直播平台开通'给模型投喂数据'的礼物功能\n🔥 生数科技 世界模型 训练直播",
+          "source": "https://www.qbitai.com/2026/10/504730.html",
+          "tags": [
+            "世界模型",
+            "训练过程"
+          ]
+        },
+        {
+          "title": "Terminal X匹配投资者判断",
+          "summary": "GPT-6.1金融评估达88.6%",
+          "detail": "Terminal X公布的数据显示，GPT-6.1在54项金融评估标准中达到了与资深投资者88.6%的判断一致性，比上一代提升23%。现在华尔街分析师要被两种存在抢饭碗：一种是MBA毕业的，一种是GPU训练出来的。",
+          "usage": "💡 聊AI替代金融业时用\n💬 以后上市公司发财报得准备两个版本：给人看的和给AI看的\n🔥 TerminalX GPT-6.1 金融AI",
+          "source": "https://openai.com/index/terminal-x",
+          "tags": [
+            "金融AI",
+            "GPT-6.1"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "Hugging Face CEO怒怼Netflix",
+          "summary": "指责AI纪录片严重失实",
+          "detail": "Hugging Face CEO Clem Delangue公开炮轰Netflix新纪录片《AI Gone Rogue》存在大量事实错误。'这片子把AI安全拍得像丧尸片，实际上我们连对齐问题都还没解决'，建议观众改看他们的开源模型训练直播。",
+          "usage": "💡 聊AI公众认知时甩出来\n💬 好莱坞拍AI灾难片的速度比AI进步的速度还快\n🔥 HuggingFace 纪录片 AI安全",
+          "source": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+          "tags": [
+            "AI安全",
+            "影视"
+          ]
+        },
+        {
+          "title": "LeCun押注的世界模型突破",
+          "summary": "中国团队领先一年",
+          "detail": "Meta首席AI科学家Yann LeCun力推的世界模型赛道出现新突破，中国清华系团队在千诀隐变量可辨识性方向的研究比LeCun团队相近工作早了一年。现在AI圈流行新梗：'你发Nature我发arXiv，我们都有光明的未来'。",
+          "usage": "💡 聊中美AI竞争时用\n💬 建议LeCun团队下次先看看中国arXiv再开香槟\n🔥 世界模型 LeCun 清华",
+          "source": "https://www.qbitai.com/2026/10/504653.html",
+          "tags": [
+            "世界模型",
+            "LeCun"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI联手Google Cloud",
+          "summary": "模型入驻Gemini花园",
+          "detail": "OpenAI宣布与Google Cloud达成合作，将前沿模型和Codex工作流引入Gemini的Model Garden。这波操作相当于可口可乐开始给百事可乐供货，云服务商的竞合关系越来越魔幻了。",
+          "usage": "💡 聊云服务格局时用\n💬 建议Azure和AWS赶紧组个'反OpenAI联盟'\n🔥 OpenAI GoogleCloud 模型部署",
+          "source": "https://openai.com/index/openai-models-google-cloud",
+          "tags": [
+            "OpenAI",
+            "GoogleCloud"
+          ]
+        },
+        {
+          "title": "Anthropic云合作陷困境",
+          "summary": "算力供应严重不足",
+          "detail": "Anthropic被曝与云服务商的合作陷入困境，各大云厂商越来越视其为自己AI产品的直接竞争对手。现在训练大模型就像租房，房东随时可能因为你太优秀而断水断电。",
+          "usage": "💡 聊AI基础设施依赖时甩出来\n💬 云服务商：欢迎使用我们的算力...等等你做得比我好了？\n🔥 Anthropic 云计算 算力短缺",
+          "source": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+          "tags": [
+            "Anthropic",
+            "云计算"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "ChatGPT支持聊天加密",
+          "summary": "可锁定敏感对话",
+          "detail": "ChatGPT新增聊天锁定功能，用户可以给特定对话加上生物识别锁。这下连AI都知道要给你和老婆的聊天记录上指纹锁了，建议同步推出'自动删除聊天记录'功能。",
+          "usage": "💡 聊AI隐私时甩出来\n💬 建议增加'酒后聊天自动加密'模式\n🔥 ChatGPT 隐私功能 生物识别",
+          "source": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+          "tags": [
+            "ChatGPT",
+            "隐私保护"
+          ]
+        },
+        {
+          "title": "饭店用ChatGPT省时95%",
+          "summary": "菜单定价效率飙升",
+          "detail": "一家Schlotzsky's和Cinnabon的特许经营商使用ChatGPT Work后，菜单重新定价时间缩短95%，现金对账时间减少94%。现在餐厅经理最担心的事变成了：要是AI连试菜都能替代怎么办？",
+          "usage": "💡 聊AI落地方案时用\n💬 以后餐厅招牌得写'本店菜品由GPT-6和人类厨师联合研发'\n🔥 ChatGPT 餐饮业 自动化",
+          "source": "https://openai.com/index/ted-taylor-restaurant",
+          "tags": [
+            "ChatGPT",
+            "餐饮AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "MiniMax爆改Flash战力",
+          "summary": "开源Agent国模第一",
+          "detail": "MiniMax对开源模型Flash进行了爆改，在Agent基准测试中拿下国产模型第一。这波操作堪称'兔皮底下藏高达'，开源社区惊呼：'原来不是模型不行，是我们不会调'。",
+          "usage": "💡 聊开源模型潜力时用\n💬 以后每个开源模型发布都得配个'爆改指南'\n🔥 MiniMax Flash 开源Agent",
+          "source": "https://www.qbitai.com/2026/10/504517.html",
+          "tags": [
+            "MiniMax",
+            "开源Agent"
+          ]
+        },
+        {
+          "title": "谷歌亚马逊联手抗英伟达",
+          "summary": "推出PyTorch迁移工具",
+          "detail": "谷歌加入亚马逊阵营，发布让PyTorch用户轻松将工作负载从英伟达GPU迁移到自家芯片的工具。老黄看着两家巨头的'去英伟达联盟'，默默把CUDA文档又加密了一层。",
+          "usage": "💡 聊AI硬件生态时甩出来\n💬 建议改名叫'反老黄联盟1.0版本'\n🔥 谷歌 亚马逊 英伟达",
+          "source": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "tags": [
+            "GPU",
+            "PyTorch"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "AI生物数据新发现",
+          "summary": "数千智能体协同研究",
+          "detail": "OpenAI与Scripps研究所合作，用数千个AI智能体分布式分析生物数据，发现了多个传统方法遗漏的研究线索。现在发Nature论文得先感谢AI co-author，建议诺贝尔奖增设'最佳算法贡献奖'。",
+          "usage": "💡 聊AI科研应用时用\n💬 以后实验室招人要求：'能同时管理1000个AI科研奴隶者优先'\n🔥 生物AI 分布式研究 OpenAI",
+          "source": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "tags": [
+            "生物AI",
+            "分布式研究"
+          ]
+        },
+        {
+          "title": "低资源编程语言突破",
+          "summary": "ChatGPT小众语言能力提升",
+          "detail": "OpenAI宣布显著提升ChatGPT对低资源编程语言的支持能力，现在连COBOL程序员都能愉快地怼AI：'你行你来维护这个1980年代的银行系统啊'。",
+          "usage": "💡 聊编程语言生态时甩出来\n💬 建议下次挑战用AI写甲骨文数据库存储过程\n🔥 ChatGPT 编程语言 低资源",
+          "source": "https://openai.com/index/low-resource-programming-languages",
+          "tags": [
+            "ChatGPT",
+            "编程语言"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "AI让管理者更头疼",
+          "summary": "超50%经理评估困难",
+          "detail": "调查显示超过50%的经理表示采用AI后更难评估员工绩效。现在公司里最焦虑的不是面临取代的基层员工，而是不知道怎么给AI-human混合团队打KPI的中层管理。",
+          "usage": "💡 聊AI管理难题时用\n💬 建议开设'如何给AI下属写年终评语'培训课\n🔥 管理挑战 AI评估 人力资源",
+          "source": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+          "tags": [
+            "AI管理",
+            "人力资源"
+          ]
+        },
+        {
+          "title": "Anthropic推AI安全法案",
+          "summary": "致死50人即可封禁模型",
+          "detail": "Anthropic提出AI安全法案草案，规定若有50+人可能被某个AI模型致死的风险，联邦机构即可封禁该模型。反对者吐槽：'按这个标准，特斯拉的自动驾驶早该被封800回了'。",
+          "usage": "💡 聊AI监管时甩出来\n💬 建议同步推出'AI杀人指标'排行榜\n🔥 AI安全 监管 Anthropic",
+          "source": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+          "tags": [
+            "AI安全",
+            "监管政策"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-21T14:50:47.553Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3591,
+    "completion_tokens": 2998,
+    "total_tokens": 6589,
+    "cost_usd": 0.004008366,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}
