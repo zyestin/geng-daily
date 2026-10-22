@@ -5,62 +5,30 @@
       "icon": "📰",
       "items": [
         {
-          "title": "AI挖PHP漏洞",
-          "summary": "AI挖出藏了十几年的PHP漏洞",
-          "detail": "网络安全界昨晚炸锅了——AI竟然挖出了一个藏了十几年的PHP底层漏洞，这波操作直接让安全研究员们集体怀疑人生。以后程序员们可能要先给AI磕个头再写代码了。",
-          "usage": "💡 同事抱怨bug难找时\n💬 AI连夜挖出程序员祖传漏洞，这波属于是弑父了\n🔥 AI 网络安全 PHP漏洞",
-          "src_id": 10,
+          "title": "宁王惊魂日",
+          "summary": "宁德时代暴跌12%",
+          "detail": "新能源龙头宁德时代发布三季度报后股价闪崩12%，市值蒸发超千亿。分析师称其面临规模与利润的第一次分岔路口，动力电池行业拐点可能提前到来。家人们谁懂啊，宁王这波直接把创业板带沟里了。",
+          "usage": "💡 同事聊股票时切入\n💬 宁王今天把创业板都带崩了\n🔥 宁德时代 动力电池 股价暴跌",
+          "src_id": 2,
           "tags": [
-            "AI",
-            "网络安全",
-            "编程"
+            "新能源",
+            "股市",
+            "宁德时代"
           ],
-          "source": "https://www.huxiu.com/article/4899419.html?f=rss"
+          "source": "https://www.huxiu.com/article/4899726.html?f=rss"
         },
         {
-          "title": "中国限制盾构机出口",
-          "summary": "中国限制盾构机出口影响印度基建",
-          "detail": "中国突然限制盾构机出口，印度基建项目直接傻眼。要知道印度地铁70%的盾构机都来自中国，这下莫迪可能要重温手挖隧道的快乐了。",
-          "usage": "💡 聊基建话题时\n💬 三哥：说好的中国制造随便买呢？\n🔥 盾构机 印度 出口限制",
-          "src_id": 14,
+          "title": "双11战况",
+          "summary": "电商平台分化加剧",
+          "detail": "今年双11出现明显分化，京东天猫继续神仙打架，拼多多抖音闷声发财。最惨的是中小商家，被平台算法和头部主播双重挤压。建议各位程序员今晚清空购物车，毕竟明天可能就被裁了（不是",
+          "usage": "💡 午休聊购物时抛出\n💬 听说今年双11中小商家快被卷死了\n🔥 双11 电商 价格战",
+          "src_id": 1,
           "tags": [
-            "基建",
-            "国际贸易",
-            "印度"
+            "电商",
+            "双11",
+            "消费"
           ],
-          "source": "https://www.toutiao.com/trending/7699137678452723254/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699137678452723254%22%2C%22hot_board_impr_id%22%3A%22202610220945207E04577BE2EB40D4AA32%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E9%99%90%E5%88%B6%E7%9B%BE%E6%9E%84%E6%9C%BA%E5%87%BA%E5%8F%A3%E5%AF%B9%E5%8D%B0%E5%BA%A6%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7%22%7D&rank=&style_id=40132&topic_id=7699137678452723254"
-        }
-      ]
-    },
-    {
-      "name": "大佬动态",
-      "icon": "🎤",
-      "items": [
-        {
-          "title": "马斯克AI警告",
-          "summary": "马斯克：AI比人类聪明百万倍时我们怎么掌舵",
-          "detail": "马斯克最新访谈又放狠话：'当AI比人类聪明百万倍，我们凭什么认为自己还能掌舵？' 但网友发现他边说边给自己的xAI公司招兵买马——合着这波是恐吓式招聘？",
-          "usage": "💡 讨论AI威胁论时\n💬 马老板：AI太危险了，所以得让我先控制\n🔥 马斯克 AI威胁 访谈",
-          "src_id": 4,
-          "tags": [
-            "马斯克",
-            "AI",
-            "访谈"
-          ],
-          "source": "https://www.huxiu.com/article/4899436.html?f=rss"
-        },
-        {
-          "title": "黄仁勋新动作",
-          "summary": "英伟达秘密研发AI眼镜",
-          "detail": "据传黄仁勋暗中布局AI硬件赛道，英伟达正在研发带芯片的智能眼镜。网友吐槽：以后打游戏卡顿是不是要怪眼睛没眨对频率？",
-          "usage": "💡 聊可穿戴设备时\n💬 老黄：显卡装不进手机？那我塞进眼镜里\n🔥 英伟达 AI眼镜 黄仁勋",
-          "src_id": 11,
-          "tags": [
-            "英伟达",
-            "硬件",
-            "AI"
-          ],
-          "source": "https://www.huxiu.com/article/4899424.html?f=rss"
+          "source": "https://www.huxiu.com/article/4899734.html?f=rss"
         }
       ]
     },
@@ -69,30 +37,17 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "宁德时代跌倒",
-          "summary": "宁德时代市值蒸发万亿",
-          "detail": "锂电池巨头宁德时代三季度利润增速下滑，市值直接蒸发上万亿。网友神评：'宁王'变'宁亡'，特斯拉转身就牵了比亚迪的手。",
-          "usage": "💡 聊新能源股票时\n💬 宁德时代：曾经的我你爱理不理，现在的我你...还是别理了\n🔥 宁德时代 锂电池 市值蒸发",
-          "src_id": 3,
+          "title": "字节拆中层",
+          "summary": "梁汝波动刀组织架构",
+          "detail": "字节CEO梁汝波在全员信中点名批评中层管理者脱离业务，被解读为裁员前兆。打工人瑟瑟发抖：原来我们不是螺丝钉，是随时能拆的乐高零件啊！",
+          "usage": "💡 聊大厂裁员时引用\n💬 字节现在连中层都保不住了\n🔥 字节跳动 裁员 组织架构",
+          "src_id": 11,
           "tags": [
-            "宁德时代",
-            "新能源",
-            "股市"
+            "字节跳动",
+            "裁员",
+            "管理"
           ],
-          "source": "https://www.huxiu.com/article/4899437.html?f=rss"
-        },
-        {
-          "title": "数字人民币升级",
-          "summary": "数字人民币更换技术架构",
-          "detail": "金融街论坛爆出大消息：数字人民币悄悄换了'户口本'，底层技术架构全面升级。以后抢红包可能真要拼网速了。",
-          "usage": "💡 聊移动支付时\n💬 央行：微信支付宝你们慢点跑，我换双鞋就来\n🔥 数字人民币 金融科技 央行",
-          "src_id": 6,
-          "tags": [
-            "数字货币",
-            "金融",
-            "央行"
-          ],
-          "source": "https://www.huxiu.com/article/4899427.html?f=rss"
+          "source": "https://www.huxiu.com/article/4899705.html?f=rss"
         }
       ]
     },
@@ -101,17 +56,30 @@
       "icon": "🔀",
       "items": [
         {
-          "title": "金融科技大裁员",
-          "summary": "硅基智能大规模裁员",
-          "detail": "金融科技赛道急刹车，硅基智能被爆裁员30%。网友调侃：AI伸向钱袋子的手被监管铁拳打了回来。",
-          "usage": "💡 聊就业市场时\n💬 硅基智能：钱没骗到...不是，没赚到，先裁为敬\n🔥 硅基智能 裁员 金融科技",
-          "src_id": 9,
+          "title": "宁德时代地震",
+          "summary": "技术副总突然离职",
+          "detail": "在股价暴跌同日，宁德时代动力电池首席技术官吴凯宣布离职，引发行业震动。业内人士称这与三季度研发投入下降有关，建议改名叫'宁跑跑'算了。",
+          "usage": "💡 聊新能源行业时补充\n💬 宁王这是要技术性熊市啊\n🔥 宁德时代 离职 高管变动",
+          "src_id": 2,
           "tags": [
-            "裁员",
-            "金融科技",
-            "AI"
+            "宁德时代",
+            "人事",
+            "电池"
           ],
-          "source": "https://www.huxiu.com/article/4899231.html?f=rss"
+          "source": "https://www.huxiu.com/article/4899726.html?f=rss"
+        },
+        {
+          "title": "港股IPO寒冬",
+          "summary": "152家企业上市失效",
+          "detail": "港交所最新数据显示152家企业上市申请失效，包含多家科技公司。创业者哀嚎：现在上市比AI通过图灵测试还难，要不改行送外卖算了？",
+          "usage": "💡 聊创业融资时吐槽\n💬 现在港股IPO比西天取经难\n🔥 港股 IPO 失效",
+          "src_id": 6,
+          "tags": [
+            "港股",
+            "上市",
+            "科技"
+          ],
+          "source": "https://www.huxiu.com/article/4899715.html?f=rss"
         }
       ]
     },
@@ -120,17 +88,30 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "AI入侵安全界",
-          "summary": "AI颠覆传统网络安全",
-          "detail": "AI不仅能写代码，现在还会找漏洞了。安全专家哀嚎：我们研究了十几年的攻防手段，AI一晚上全破解。建议以后黑客比赛改成AI格斗大赛。",
-          "usage": "💡 聊技术颠覆时\n💬 网络安全：从前慢，找个漏洞要好几年\n🔥 AI 网络安全 技术颠覆",
-          "src_id": 10,
+          "title": "具身智能大战",
+          "summary": "OpenAI入局机器人",
+          "detail": "OpenAI被曝组建具身智能团队，要与谷歌DeepMind抢机器人赛道。网友辣评：建议先给GPT装个机械臂，让它体验下搬砖的福报。",
+          "usage": "💡 聊AI进展时抛梗\n💬 硅谷大佬开始卷实体机器人了\n🔥 OpenAI 机器人 具身智能",
+          "src_id": 7,
           "tags": [
             "AI",
-            "网络安全",
-            "黑客"
+            "机器人",
+            "OpenAI"
           ],
-          "source": "https://www.huxiu.com/article/4899419.html?f=rss"
+          "source": "https://www.huxiu.com/article/4899714.html?f=rss"
+        },
+        {
+          "title": "400km高铁要来了",
+          "summary": "CR450测试破纪录",
+          "detail": "中国中车宣布CR450动车组试验速度突破400km/h，网友神评论：建议改名叫'地表飞行器'，毕竟飞机延误时它真能比航班快。",
+          "usage": "💡 看到基建新闻时玩梗\n💬 这速度够我从北京到上海吃午饭了\n🔥 高铁 CR450 速度纪录",
+          "src_id": 21,
+          "tags": [
+            "高铁",
+            "交通",
+            "中国制造"
+          ],
+          "source": "https://www.toutiao.com/trending/7699455738569051667/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699455738569051667%22%2C%22hot_board_impr_id%22%3A%2220261022224643FBA5C97B5F3EFB4E21A0%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%B6%E9%80%9F400%E5%85%AC%E9%87%8C%E7%9A%84%E9%AB%98%E9%93%81%E7%9C%9F%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7699455738569051667"
         }
       ]
     },
@@ -139,30 +120,30 @@
       "icon": "📱",
       "items": [
         {
-          "title": "塔斯汀卖披萨",
-          "summary": "塔斯汀跨界开披萨店",
-          "detail": "汉堡品牌塔斯汀不务正业，在福建悄悄开起披萨店，主打6寸一人食。网友：下次是不是要在披萨里夹肉夹馍？",
-          "usage": "💡 聊餐饮跨界时\n💬 塔斯汀：汉堡卷不动了，改卷披萨\n🔥 塔斯汀 披萨 跨界",
-          "src_id": 1,
+          "title": "AI拼图翻车",
+          "summary": "算法败给纯白地狱",
+          "detail": "程序员用AI挑战1000片纯白拼图，结果5小时就系统崩溃。建议各大厂赶紧把这个案例写进校招题：请问如何让AI理解人类的无聊？",
+          "usage": "💡 聊AI局限性时举例\n💬 连AI都拼不过人类的手残\n🔥 AI 拼图 算法",
+          "src_id": 9,
           "tags": [
-            "餐饮",
-            "跨界",
-            "快餐"
+            "AI",
+            "测试",
+            "娱乐"
           ],
-          "source": "https://www.huxiu.com/article/4899440.html?f=rss"
+          "source": "https://www.huxiu.com/article/4899709.html?f=rss"
         },
         {
-          "title": "小天才不务正业",
-          "summary": "小天才手表涉足教育硬件",
-          "detail": "儿童手表起家的小天才又开始折腾教育硬件，家长吐槽：能不能专心做好防沉迷？别整这些花活。",
-          "usage": "💡 吐槽儿童产品时\n💬 小天才：做手表哪有卖网课赚钱\n🔥 小天才 教育硬件 儿童产品",
-          "src_id": 22,
+          "title": "Web危机",
+          "summary": "70%网站存在漏洞",
+          "detail": "安全机构警告全球70%网站受新漏洞影响，程序员纷纷表示：这不是漏洞，是给黑客发的双11邀请函。",
+          "usage": "💡 遇到系统报错时调侃\n💬 今天你被漏洞了吗\n🔥 网络安全 漏洞 黑客",
+          "src_id": 15,
           "tags": [
-            "教育硬件",
-            "儿童产品",
-            "智能穿戴"
+            "安全",
+            "网站",
+            "漏洞"
           ],
-          "source": "https://www.toutiao.com/trending/7699010926602620479/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699010926602620479%22%2C%22hot_board_impr_id%22%3A%22202610220945207E04577BE2EB40D4AA32%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E2%80%9C%E5%B0%8F%E5%A4%A9%E6%89%8D%E2%80%9D%E5%B0%B1%E4%B8%8D%E8%83%BD%E5%AE%89%E5%AE%89%E5%BF%83%E5%BF%83%E5%81%9A%E5%9D%97%E8%A1%A8%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7699010926602620479"
+          "source": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%8370%25%E7%BD%91%E7%AB%99%E9%83%BD%E5%8D%B1%E9%99%A9%E4%BA%86&sa=fyb_news"
         }
       ]
     },
@@ -171,51 +152,50 @@
       "icon": "🎬",
       "items": [
         {
-          "title": "平台割韭菜",
-          "summary": "商家被关停70万打水漂",
-          "detail": "某平台关停商家后70万保证金拒不退还，完美演绎'拔网线式收割'。建议下次改名叫'韭菜养殖基地'。",
-          "usage": "💡 聊平台乱象时\n💬 平台：钱进了我口袋就是我的\n🔥 平台乱象 保证金 维权",
-          "src_id": 2,
+          "title": "金粒门神话",
+          "summary": "零食店排队长过茶颜",
+          "detail": "新消费品牌金粒门上海首店开业引发排队潮，400平店面被挤爆。投资人说这是'零食界的喜茶'，打工人反问：所以它家员工也要背销售KPI吗？",
+          "usage": "💡 聊新消费时举例\n💬 现在连买零食都要排队了\n🔥 金粒门 新消费 排队",
+          "src_id": 8,
           "tags": [
             "创业",
-            "平台经济",
-            "维权"
+            "零售",
+            "消费"
           ],
-          "source": "https://www.huxiu.com/article/4899438.html?f=rss"
-        }
-      ]
-    },
-    {
-      "name": "币圈风云",
-      "icon": "🪙",
-      "items": [
+          "source": "https://www.huxiu.com/article/4899712.html?f=rss"
+        },
         {
-          "title": "数字人民币突袭",
-          "summary": "数字人民币技术升级",
-          "detail": "数字人民币突然更换技术架构，币圈大佬集体傻眼。网友：央妈这是要给加密货币上上强度。",
-          "usage": "💡 聊加密货币时\n💬 央行：听说你们喜欢去中心化？来试试我的中心化铁拳\n🔥 数字人民币 加密货币 央行",
-          "src_id": 6,
+          "title": "AI影视革命",
+          "summary": "制片人重算成本账",
+          "detail": "影视圈开始用AI替代部分实拍，某剧组用狗血短剧训练模型后惊呼：这AI比编剧还会制造家庭伦理矛盾！建议下次直接让AI领金马奖。",
+          "usage": "💡 聊影视行业时玩梗\n💬 以后烂片可以甩锅AI了\n🔥 AI 影视 短剧",
+          "src_id": 5,
           "tags": [
-            "数字货币",
-            "金融",
-            "区块链"
+            "AI",
+            "影视",
+            "创业"
           ],
-          "source": "https://www.huxiu.com/article/4899427.html?f=rss"
+          "source": "https://www.huxiu.com/article/4899694.html?f=rss"
         }
       ]
     }
   ],
-  "generated_at": "2026-10-22T01:46:19.263Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-10-22T14:51:46.806Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 6124,
-    "completion_tokens": 1818,
-    "total_tokens": 7942,
-    "cost_usd": 0.0034464942,
+    "prompt_tokens": 5674,
+    "completion_tokens": 2311,
+    "total_tokens": 7985,
+    "cost_usd": 0.0038378133,
     "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 5,
+      "published": 11
+    },
     "sources": {
       "per_source": {
         "kr36": 0,
@@ -223,7 +203,7 @@
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 24
+      "total": 23
     }
   }
 }

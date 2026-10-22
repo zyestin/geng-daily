@@ -5,27 +5,25 @@
       "icon": "💥",
       "items": [
         {
-          "title": "PHP 末日降临",
-          "summary": "OpenAI 和谷歌联手发现 PHP 远古漏洞",
-          "detail": "OpenAI 和谷歌的 Wiz 团队最近发现了一系列 PHP 的古老安全漏洞，这些漏洞可能引发全球范围内的安全危机。AI 不仅发现了这些漏洞，还提出了修复方案，但这依然让整个互联网陷入了恐慌。PHP 开发者们正在紧急修复，但这次的漏洞影响范围之广，足以被称为『PHP 末日』。",
-          "usage": "💡 程序员聊安全漏洞时\n💬 OpenAI 和谷歌联手发现的 PHP 漏洞，堪称『PHP 末日』！\n🔥 PHP 安全漏洞 OpenAI 谷歌",
-          "source": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+          "title": "DeepSeek 150亿融资",
+          "summary": "美国限制令后中国最大AI融资",
+          "detail": "美国刚发布AI芯片限制令，DeepSeek反手就拿下150亿美元融资——相当于3个OpenAI最新的融资额。这波操作直接把'制裁=打压'的逻辑掀翻：中国市场自有其输血能力。现在压力给到美国投资人：你们投还是不投？",
+          "usage": "💡 聊地缘科技博弈时甩出\n💬 DeepSeek这150亿刀直接给美国投资人上强度\n🔥 DeepSeek 融资 地缘博弈",
+          "source": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
           "tags": [
-            "PHP",
-            "安全漏洞",
-            "OpenAI"
+            "融资",
+            "地缘政治"
           ]
         },
         {
-          "title": "Walmart 拥抱 AI",
-          "summary": "Walmart 向 AI 购物代理敞开大门",
-          "detail": "当亚马逊还在阻挠 AI 购物代理时，Walmart 已经决定全面拥抱 AI。Walmart 推出了一个全新的 AI 购物代理平台，允许 AI 代理在网站上进行购物和交易。这一举措不仅让 Walmart 在 AI 领域领先一步，还可能重塑未来的电商格局。亚马逊的防守策略和 Walmart 的进攻姿态，形成了鲜明对比。",
-          "usage": "💡 聊电商 AI 应用时\n💬 Walmart 直接向 AI 购物代理敞开大门，亚马逊还在防守呢！\n🔥 Walmart AI 购物 亚马逊",
-          "source": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+          "title": "蚂蚁决策模型夺冠",
+          "summary": "国产决策模型超微软Jev",
+          "detail": "蚂蚁数科LingDT-Decision-1.0在标准测试集上准确率碾压微软和Jev的同类产品。现在金融风控后台的画风要变了：以前是人审规则+AI辅助，现在变成AI拍板+人类兜底——银行风控专员手里的拒贷按钮，快变成摆设了。",
+          "usage": "💡 聊金融AI应用时抛出来\n💬 以后信用卡拒贷可能是AI先斩后奏\n🔥 蚂蚁数科 决策模型 金融风控",
+          "source": "https://www.qbitai.com/2026/10/504879.html",
           "tags": [
-            "Walmart",
-            "AI 购物",
-            "亚马逊"
+            "金融科技",
+            "决策模型"
           ]
         }
       ]
@@ -35,27 +33,25 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "Flint 发布",
-          "summary": "Recursive 推出 AI 构建的编程模型",
-          "detail": "Recursive 发布了 Flint，一款完全由 AI 构建的笔记本电脑级编程模型。Flint 不仅小巧轻便，还能在本地运行，极大地降低了开发者对云端资源的依赖。Recursive 表示，Flint 的大部分代码都是由其自身的 AI 系统编写的，标志着 AI 自我进化的新里程碑。",
-          "usage": "💡 聊本地化 AI 模型时\n💬 Recursive 发布的 Flint，居然是 AI 自己写的代码！\n🔥 Flint Recursive AI 编程",
-          "source": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+          "title": "Xing4意图理解模型",
+          "summary": "电信AI实验室开源专用模型",
+          "detail": "中电信AI实验室放出的Xing4.0-29B-Intent专攻意图理解，既能做选择题（分类）也能做填空题（补全）。实测点外卖场景的歧义句解析准确率比Llama3高17%——以后对客服AI说'不要辣的'，它终于不会反问'您是要微辣还是中辣'了。",
+          "usage": "💡 聊语义理解时举例\n💬 建议所有外卖APP立即接入这个防智障模型\n🔥 意图理解 中电信AI 语义解析",
+          "source": "https://www.qbitai.com/2026/10/504832.html",
           "tags": [
-            "Flint",
-            "Recursive",
-            "AI 编程"
+            "NLP",
+            "开源模型"
           ]
         },
         {
-          "title": "MemT 1.0",
-          "summary": "MemT 1.0 原生焊入 Transformer",
-          "detail": "MemT 1.0 的发布标志着 Transformer 模型的『记忆』问题得到了根本性解决。MemT 1.0 将记忆机制原生嵌入 Transformer 架构，使得模型在处理长文本时能够更好地记住上下文信息。这一技术突破不仅提升了模型的性能，还为未来的 AI 应用打开了新的大门。",
-          "usage": "💡 聊模型架构创新时\n💬 MemT 1.0 直接把记忆焊进了 Transformer，长文本处理终于有救了！\n🔥 MemT Transformer 记忆",
-          "source": "https://www.qbitai.com/2026/10/504456.html",
+          "title": "Flint笔记本编程模型",
+          "summary": "AI训练的AI编程助手",
+          "detail": "初创公司Recursive用自家AI训练出能在笔记本跑的编程模型Flint，体积只有CodeLlama-7B的1/3但Python解题正确率相当。程序员们要面对的终极讽刺：以后写代码优化提示词的工作，可能被另一个AI优化得更好。",
+          "usage": "💡 吐槽编程AI进化时用\n💬 建议Flint下次迭代目标：自己写Release Notes\n🔥 轻量级 编程辅助 元学习",
+          "source": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
           "tags": [
-            "MemT",
-            "Transformer",
-            "记忆机制"
+            "编程助手",
+            "模型压缩"
           ]
         }
       ]
@@ -65,27 +61,25 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "Jas Khaira",
-          "summary": "Blackstone AI 负责人谈市场恐慌",
-          "detail": "Blackstone 的 AI 负责人 Jas Khaira 最近表示，市场上对 AI 建设债务的恐慌被过度夸大了。他指出，Blackstone 作为全球最大的私募股权公司之一，并未因为市场波动而感到恐慌，反而看到了 AI 建设的巨大潜力。Khaira 的言论无疑为当下的 AI 投资热潮注入了一剂强心针。",
-          "usage": "💡 聊 AI 投资时\n💬 Blackstone 的 Jas Khaira 说：AI 建设债务的恐慌被过度夸大了！\n🔥 Blackstone Jas Khaira AI 投资",
-          "source": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+          "title": "马斯克称FSD领先",
+          "summary": "特斯拉CEO再放豪言",
+          "detail": "特斯拉Q3利润跌50%的情况下，马斯克依然强调FSD在中国会'遥遥领先'。考虑到其70万付费用户年增长和轻舟智驾10-20万车型的攻城略地，这话听着像在给自己打气——毕竟资本市场现在更信'能用'而不是'能吹'。",
+          "usage": "💡 讨论自动驾驶竞争时引用\n💬 马斯克说FSD在中国领先的样子，像极了发布会前的罗永浩\n🔥 特斯拉 FSD 自动驾驶",
+          "source": "https://www.qbitai.com/2026/10/504841.html",
           "tags": [
-            "Blackstone",
-            "Jas Khaira",
-            "AI 投资"
+            "自动驾驶",
+            "特斯拉"
           ]
         },
         {
-          "title": "AI 管理难题",
-          "summary": "AI 让管理者头痛不已",
-          "detail": "最近的一项调查显示，超过 50% 的管理者表示，在采用 AI 后，评估员工工作变得更加困难。AI 虽然提高了生产力，但也带来了新的管理挑战。管理者们正在寻找新的方法来平衡 AI 带来的效率和评估难题。",
-          "usage": "💡 聊 AI 管理挑战时\n💬 AI 提高了生产力，但让管理者评估员工工作变得更难了！\n🔥 AI 管理 生产力 评估",
-          "source": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+          "title": "黑石AI负责人发声",
+          "summary": "私募巨头不惧AI债务风险",
+          "detail": "黑石集团AI负责人Jas Khaira公开表示市场对AI基建债务的担忧过头。考虑到他们刚投了30亿给Ambient AI硬件，这话翻译过来就是：'我们的AI赌桌筹码还没堆够，庄家怎么能喊停？'",
+          "usage": "💡 聊AI投资泡沫时提\n💬 资本家说风险可控≈我还能加杠杆\n🔥 黑石集团 AI投资 债务风险",
+          "source": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
           "tags": [
-            "AI 管理",
-            "生产力",
-            "评估"
+            "AI投资",
+            "金融风险"
           ]
         }
       ]
@@ -95,27 +89,25 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "OpenAI + Google Cloud",
-          "summary": "OpenAI 模型入驻 Google Cloud",
-          "detail": "OpenAI 和 Google Cloud 宣布合作，将 OpenAI 的前沿模型和 Codex 工作流引入 Google Cloud 的 Model Garden。这一合作不仅加强了 OpenAI 在云服务领域的布局，还为开发者提供了更多的模型选择和灵活性。",
-          "usage": "💡 聊云服务合作时\n💬 OpenAI 和 Google Cloud 联手，Model Garden 迎来新成员！\n🔥 OpenAI Google Cloud Codex",
+          "title": "OpenAI结盟谷歌云",
+          "summary": "死对头突然握手言和",
+          "detail": "OpenAI模型即将登陆Google Cloud的Model Garden，连Codex工作流都打包送上。云服务商从互挖墙脚到资源共享，说明一个真理：当大家都打不过AWS时，敌人的敌人就是朋友。",
+          "usage": "💡 聊云计算格局时用\n💬 Azure用户现在可以理直气壮问微软：说好的独家呢？\n🔥 OpenAI 谷歌云 云计算",
           "source": "https://openai.com/index/openai-models-google-cloud",
           "tags": [
-            "OpenAI",
-            "Google Cloud",
-            "Codex"
+            "云计算",
+            "战略合作"
           ]
         },
         {
-          "title": "Meta Muse",
-          "summary": "Meta Muse 用户突破 1000 万",
-          "detail": "Meta 宣布其 AI 应用 Muse 的用户数量已突破 1000 万，购物和个人生产力是其用户最常使用的功能。Meta 表示，Muse 的成功标志着其在 AI 领域的进一步扩展，未来将继续优化用户体验。",
-          "usage": "💡 聊 Meta AI 应用时\n💬 Meta Muse 用户破千万，购物和生产力功能大受欢迎！\n🔥 Meta Muse AI 应用",
-          "source": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+          "title": "沃尔玛拥抱AI代理",
+          "summary": "与亚马逊唱反调",
+          "detail": "当亚马逊严防死守AI购物代理时，沃尔玛反其道推出AI代理专用API。零售巨头的算法战争进入新阶段：一方怕薅羊毛，一方想赚算力钱——你封杀AI的样子，像极了当年实体店抵制网购。",
+          "usage": "💡 聊电商AI化时对比\n💬 建议阿里京东学习沃尔玛：与其抵抗不如收过路费\n🔥 零售AI 亚马逊 代理战争",
+          "source": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
           "tags": [
-            "Meta",
-            "Muse",
-            "AI 应用"
+            "电商",
+            "AI代理"
           ]
         }
       ]
@@ -125,27 +117,25 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "ChatGPT 广告",
-          "summary": "ChatGPT 广告扩展至 26 国",
-          "detail": "OpenAI 宣布 ChatGPT 广告平台已扩展至 26 个新国家，超过 10 万广告商正在使用该平台。ChatGPT 的广告系统利用 LLM 技术理解用户意图，确保广告的及时性和相关性。这一扩展标志着 ChatGPT 在商业化道路上迈出了重要一步。",
-          "usage": "💡 聊 AI 商业化时\n💬 ChatGPT 广告平台扩展至 26 国，10 万广告商已入驻！\n🔥 ChatGPT 广告 LLM",
-          "source": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "title": "Claude Duet上线",
+          "summary": "Anthropic押注智能体",
+          "detail": "Anthropic悄悄开放Claude Duet的等候名单，主打多智能体协作。实测写代码时主Agent负责架构，子Agent自动补单元测试——程序员离'只写注释就能跑'的梦想又近一步，当然bug也更具系统性了。",
+          "usage": "💡 演示AI编程时安利\n💬 建议改名叫Claude交响乐团：一个指挥带八个声部\n🔥 Anthropic 多智能体 编程辅助",
+          "source": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
           "tags": [
-            "ChatGPT",
-            "广告",
-            "LLM"
+            "编程工具",
+            "智能体"
           ]
         },
         {
-          "title": "Meshy Edit",
-          "summary": "Meshy 推出 AI 3D 模型编辑工具",
-          "detail": "Meshy 推出了 Meshy Edit，一款基于全新自研 AI 模型的 3D 模型编辑工具。用户只需圈选修改区域并描述改动，约一分钟即可生成新模型，未选中区域保持原样。这一工具极大简化了 3D 模型的编辑流程，为设计师和开发者提供了全新的创作方式。",
-          "usage": "💡 聊 3D 设计工具时\n💬 Meshy Edit：一句话搞定 3D 模型局部编辑！\n🔥 Meshy Edit 3D 模型 AI",
-          "source": "https://www.qbitai.com/2026/10/504415.html",
+          "title": "ChatGPT广告扩张",
+          "summary": "26国新增广告市场",
+          "detail": "ChatAds业务新增26个国家，10万广告主已入驻。现在AI聊天的商业模式越发清晰：前半场烧钱教育用户习惯，后半场用他们的对话数据精准收割——互联网流量变现的套路，AI时代换汤不换药。",
+          "usage": "💡 聊AI商业化时举例\n💬 以后和ChatGPT聊天跳出广告：根据您刚才的焦虑情绪推荐心理咨询\n🔥 OpenAI 广告 商业化",
+          "source": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
           "tags": [
-            "Meshy Edit",
-            "3D 模型",
-            "AI"
+            "商业化",
+            "广告系统"
           ]
         }
       ]
@@ -155,27 +145,25 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "TokenFleet",
-          "summary": "TokenFleet 调度框架发布",
-          "detail": "是石科技发布了 TokenFleet 调度框架，将首 Token 延迟降低了 32.4%。这一框架不仅提升了国产推理模型的效率，还为大规模 AI 应用的部署提供了新的解决方案。TokenFleet 的发布标志着国产 AI 技术在调度优化领域的又一重大突破。",
-          "usage": "💡 聊国产 AI 技术时\n💬 TokenFleet 调度框架发布，首 Token 延迟降了 32.4%！\n🔥 TokenFleet 调度 国产 AI",
-          "source": "https://www.qbitai.com/2026/10/504421.html",
+          "title": "清华系世界模型",
+          "summary": "比LeCun早一年的研究",
+          "detail": "生数科技的MotoBrain 2.0直播世界模型训练过程，其隐变量可辨识性研究比LeCun团队早一年。现在机器人学习物理规律就像人类婴儿：不用海量试错，看几遍直播就能get重力概念——建议物理老师集体观摩。",
+          "usage": "💡 讨论AI学习机制时引用\n💬 这直播应该放寒假作业：每天观察AI怎么理解摩擦力\n🔥 世界模型 具身智能 物理学习",
+          "source": "https://www.qbitai.com/2026/10/504730.html",
           "tags": [
-            "TokenFleet",
-            "调度",
-            "国产 AI"
+            "世界模型",
+            "机器人"
           ]
         },
         {
-          "title": "Blacksmith 独角兽",
-          "summary": "Blacksmith 估值突破 10 亿美元",
-          "detail": "Blacksmith 在红杉资本领投的 C 轮融资中，估值突破 10 亿美元，成为新晋独角兽。Blacksmith 的平台允许企业更高效地构建和测试 AI 代码，其独特的技术优势吸引了大量投资者的关注。",
-          "usage": "💡 聊 AI 融资时\n💬 Blacksmith 估值破 10 亿，红杉领投的 C 轮融资！\n🔥 Blacksmith 独角兽 红杉",
-          "source": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+          "title": "电信开源意图模型",
+          "summary": "专攻语义理解的29B模型",
+          "detail": "中电信开源的Xing4.0-29B-Intent把意图理解拆解成填空题+选择题，在客服场景的准确率碾压通用模型。运营商终于想通了：与其让用户和'人工智障'对骂，不如把专项模型当5G增值服务卖。",
+          "usage": "💡 吐槽客服AI时对比\n💬 建议三大运营商套餐新增'防智障'选项+20元/月\n🔥 电信AI 意图理解 开源模型",
+          "source": "https://www.qbitai.com/2026/10/504832.html",
           "tags": [
-            "Blacksmith",
-            "独角兽",
-            "红杉"
+            "电信AI",
+            "语义理解"
           ]
         }
       ]
@@ -185,27 +173,25 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "AI 生物数据",
-          "summary": "AI 助力生物数据研究",
-          "detail": "OpenAI、PerturbAI 和 Scripps Research 合作，利用分布式 AI 代理在复杂生物数据中发现了新的研究线索。这一突破不仅加速了生物学研究的进程，还为未来的 AI 在科研领域的应用提供了新的方向。",
-          "usage": "💡 聊 AI 科研应用时\n💬 OpenAI 和 Scripps Research 联手，AI 代理助力生物数据研究！\n🔥 OpenAI Scripps 生物数据",
+          "title": "OpenAI生物数据挖掘",
+          "summary": "数千AI代理协同科研",
+          "detail": "OpenAI联合Scripps研究所用分布式AI代理筛生物数据，发现多个药物靶点新线索。这研究最颠覆的点在于：科学家以后可能只需要设计实验框架，具体的数据大海捞针工作交给AI群殴——科研民工的移液枪要生锈了。",
+          "usage": "💡 聊AI+科学时举例\n💬 建议下次诺贝奖增设'最佳AI协作者'奖项\n🔥 生物医学 分布式AI 药物研发",
           "source": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
           "tags": [
-            "OpenAI",
-            "Scripps",
-            "生物数据"
+            "AI科研",
+            "生物医学"
           ]
         },
         {
-          "title": "Cloudflare + OpenAI",
-          "summary": "Cloudflare 联手 OpenAI 发现漏洞",
-          "detail": "Cloudflare 使用 OpenAI 的 Daybreak 技术来发现漏洞并提出修复方案。这一合作不仅提升了 Cloudflare 的安全防御能力，还为 AI 在网络安全领域的应用提供了新的范例。",
-          "usage": "💡 聊网络安全时\n💬 Cloudflare 和 OpenAI 联手，AI 发现漏洞并提出修复方案！\n🔥 Cloudflare OpenAI 网络安全",
-          "source": "https://openai.com/index/cloudflare-cyber",
+          "title": "多智能体医疗AI",
+          "summary": "清华AIR医生分身系统",
+          "detail": "清华AIR实验室用多智能体重构医疗AI，不同Agent分别扮演问诊、读片、开药角色。未来医院场景可能是这样：你对着屏幕吐槽症状，后面三个AI分身已经用眼神交流完治疗方案了。",
+          "usage": "💡 讨论AI医疗时举例\n💬 建议AI医生穿白大褂投影：仪式感拉满才能收挂号费\n🔥 医疗AI 多智能体 清华",
+          "source": "https://www.qbitai.com/2026/10/504734.html",
           "tags": [
-            "Cloudflare",
-            "OpenAI",
-            "网络安全"
+            "医疗AI",
+            "多智能体"
           ]
         }
       ]
@@ -215,42 +201,40 @@
       "icon": "📈",
       "items": [
         {
-          "title": "AI 竞争加剧",
-          "summary": "企业争抢 AI 人才",
-          "detail": "飞书豆包工作 AI 先锋未来人才大赛的举办，标志着企业正在争抢会用 AI 做成事的人才。AI 技术的快速发展使得企业对 AI 人才的需求急剧增加，未来的竞争将更加激烈。",
-          "usage": "💡 聊 AI 人才竞争时\n💬 企业争抢 AI 人才，飞书豆包大赛火热进行中！\n🔥 AI 人才 企业竞争",
-          "source": "https://www.qbitai.com/2026/10/504608.html",
+          "title": "Nirva融资3300万",
+          "summary": "只听主人命令的AI吊坠",
+          "detail": "Nirva的AI吊坠拿到3300万美元融资，承诺'只听主人声音'。在Alexa和Siri天天被吐槽偷听的年代，这卖点精准戳中隐私焦虑——就是不知道它会不会把夫妻吵架内容自动生成'情感修复课程'广告。",
+          "usage": "💡 聊隐私与AI时调侃\n💬 建议下一代产品增加'选择性耳聋'模式\n🔥 可穿戴设备 隐私 AI硬件",
+          "source": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
           "tags": [
-            "AI 人才",
-            "企业竞争",
-            "飞书"
+            "AI硬件",
+            "隐私保护"
           ]
         },
         {
-          "title": "AT&T + OpenAI",
-          "summary": "AT&T 与 OpenAI 合作法律工作",
-          "detail": "AT&T 与 OpenAI 合作，利用 AI 技术简化法律知识获取流程。这一合作不仅提升了 AT&T 内部法律团队的工作效率，还为 AI 在法律领域的应用提供了新的可能性。",
-          "usage": "💡 聊 AI 法律应用时\n💬 AT&T 和 OpenAI 合作，AI 助力法律知识获取！\n🔥 AT&T OpenAI 法律",
-          "source": "https://openai.com/index/att-legal",
+          "title": "轻舟智驾攻城略地",
+          "summary": "10-20万车型NOA普及",
+          "detail": "轻舟智驾4个月落地9款车型，把城市NOA杀进10-20万区间。现在买燃油车像用功能机：不是不能用，但总感觉在交'智障税'——建议驾校增设'如何羞辱非智能汽车'选修课。",
+          "usage": "💡 聊智驾普及时抛数据\n💬 以后二手车贩的终极杀价话术：这车居然要自己转弯？\n🔥 自动驾驶 轻舟智驾 性价比",
+          "source": "https://www.qbitai.com/2026/10/504638.html",
           "tags": [
-            "AT&T",
-            "OpenAI",
-            "法律"
+            "自动驾驶",
+            "商业化"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-22T01:47:54.579Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-10-22T14:53:10.186Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3574,
-    "completion_tokens": 3199,
-    "total_tokens": 6773,
-    "cost_usd": 0.0042107589,
+    "prompt_tokens": 3564,
+    "completion_tokens": 3083,
+    "total_tokens": 6647,
+    "cost_usd": 0.0040888556999999996,
     "free": false,
     "sources": {
       "per_source": {

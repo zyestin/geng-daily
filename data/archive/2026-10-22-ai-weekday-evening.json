@@ -1,0 +1,248 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "DeepSeek 150亿融资",
+          "summary": "美国限制令后中国最大AI融资",
+          "detail": "美国刚发布AI芯片限制令，DeepSeek反手就拿下150亿美元融资——相当于3个OpenAI最新的融资额。这波操作直接把'制裁=打压'的逻辑掀翻：中国市场自有其输血能力。现在压力给到美国投资人：你们投还是不投？",
+          "usage": "💡 聊地缘科技博弈时甩出\n💬 DeepSeek这150亿刀直接给美国投资人上强度\n🔥 DeepSeek 融资 地缘博弈",
+          "source": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+          "tags": [
+            "融资",
+            "地缘政治"
+          ]
+        },
+        {
+          "title": "蚂蚁决策模型夺冠",
+          "summary": "国产决策模型超微软Jev",
+          "detail": "蚂蚁数科LingDT-Decision-1.0在标准测试集上准确率碾压微软和Jev的同类产品。现在金融风控后台的画风要变了：以前是人审规则+AI辅助，现在变成AI拍板+人类兜底——银行风控专员手里的拒贷按钮，快变成摆设了。",
+          "usage": "💡 聊金融AI应用时抛出来\n💬 以后信用卡拒贷可能是AI先斩后奏\n🔥 蚂蚁数科 决策模型 金融风控",
+          "source": "https://www.qbitai.com/2026/10/504879.html",
+          "tags": [
+            "金融科技",
+            "决策模型"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Xing4意图理解模型",
+          "summary": "电信AI实验室开源专用模型",
+          "detail": "中电信AI实验室放出的Xing4.0-29B-Intent专攻意图理解，既能做选择题（分类）也能做填空题（补全）。实测点外卖场景的歧义句解析准确率比Llama3高17%——以后对客服AI说'不要辣的'，它终于不会反问'您是要微辣还是中辣'了。",
+          "usage": "💡 聊语义理解时举例\n💬 建议所有外卖APP立即接入这个防智障模型\n🔥 意图理解 中电信AI 语义解析",
+          "source": "https://www.qbitai.com/2026/10/504832.html",
+          "tags": [
+            "NLP",
+            "开源模型"
+          ]
+        },
+        {
+          "title": "Flint笔记本编程模型",
+          "summary": "AI训练的AI编程助手",
+          "detail": "初创公司Recursive用自家AI训练出能在笔记本跑的编程模型Flint，体积只有CodeLlama-7B的1/3但Python解题正确率相当。程序员们要面对的终极讽刺：以后写代码优化提示词的工作，可能被另一个AI优化得更好。",
+          "usage": "💡 吐槽编程AI进化时用\n💬 建议Flint下次迭代目标：自己写Release Notes\n🔥 轻量级 编程辅助 元学习",
+          "source": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+          "tags": [
+            "编程助手",
+            "模型压缩"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "马斯克称FSD领先",
+          "summary": "特斯拉CEO再放豪言",
+          "detail": "特斯拉Q3利润跌50%的情况下，马斯克依然强调FSD在中国会'遥遥领先'。考虑到其70万付费用户年增长和轻舟智驾10-20万车型的攻城略地，这话听着像在给自己打气——毕竟资本市场现在更信'能用'而不是'能吹'。",
+          "usage": "💡 讨论自动驾驶竞争时引用\n💬 马斯克说FSD在中国领先的样子，像极了发布会前的罗永浩\n🔥 特斯拉 FSD 自动驾驶",
+          "source": "https://www.qbitai.com/2026/10/504841.html",
+          "tags": [
+            "自动驾驶",
+            "特斯拉"
+          ]
+        },
+        {
+          "title": "黑石AI负责人发声",
+          "summary": "私募巨头不惧AI债务风险",
+          "detail": "黑石集团AI负责人Jas Khaira公开表示市场对AI基建债务的担忧过头。考虑到他们刚投了30亿给Ambient AI硬件，这话翻译过来就是：'我们的AI赌桌筹码还没堆够，庄家怎么能喊停？'",
+          "usage": "💡 聊AI投资泡沫时提\n💬 资本家说风险可控≈我还能加杠杆\n🔥 黑石集团 AI投资 债务风险",
+          "source": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+          "tags": [
+            "AI投资",
+            "金融风险"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI结盟谷歌云",
+          "summary": "死对头突然握手言和",
+          "detail": "OpenAI模型即将登陆Google Cloud的Model Garden，连Codex工作流都打包送上。云服务商从互挖墙脚到资源共享，说明一个真理：当大家都打不过AWS时，敌人的敌人就是朋友。",
+          "usage": "💡 聊云计算格局时用\n💬 Azure用户现在可以理直气壮问微软：说好的独家呢？\n🔥 OpenAI 谷歌云 云计算",
+          "source": "https://openai.com/index/openai-models-google-cloud",
+          "tags": [
+            "云计算",
+            "战略合作"
+          ]
+        },
+        {
+          "title": "沃尔玛拥抱AI代理",
+          "summary": "与亚马逊唱反调",
+          "detail": "当亚马逊严防死守AI购物代理时，沃尔玛反其道推出AI代理专用API。零售巨头的算法战争进入新阶段：一方怕薅羊毛，一方想赚算力钱——你封杀AI的样子，像极了当年实体店抵制网购。",
+          "usage": "💡 聊电商AI化时对比\n💬 建议阿里京东学习沃尔玛：与其抵抗不如收过路费\n🔥 零售AI 亚马逊 代理战争",
+          "source": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+          "tags": [
+            "电商",
+            "AI代理"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "Claude Duet上线",
+          "summary": "Anthropic押注智能体",
+          "detail": "Anthropic悄悄开放Claude Duet的等候名单，主打多智能体协作。实测写代码时主Agent负责架构，子Agent自动补单元测试——程序员离'只写注释就能跑'的梦想又近一步，当然bug也更具系统性了。",
+          "usage": "💡 演示AI编程时安利\n💬 建议改名叫Claude交响乐团：一个指挥带八个声部\n🔥 Anthropic 多智能体 编程辅助",
+          "source": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+          "tags": [
+            "编程工具",
+            "智能体"
+          ]
+        },
+        {
+          "title": "ChatGPT广告扩张",
+          "summary": "26国新增广告市场",
+          "detail": "ChatAds业务新增26个国家，10万广告主已入驻。现在AI聊天的商业模式越发清晰：前半场烧钱教育用户习惯，后半场用他们的对话数据精准收割——互联网流量变现的套路，AI时代换汤不换药。",
+          "usage": "💡 聊AI商业化时举例\n💬 以后和ChatGPT聊天跳出广告：根据您刚才的焦虑情绪推荐心理咨询\n🔥 OpenAI 广告 商业化",
+          "source": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "tags": [
+            "商业化",
+            "广告系统"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "清华系世界模型",
+          "summary": "比LeCun早一年的研究",
+          "detail": "生数科技的MotoBrain 2.0直播世界模型训练过程，其隐变量可辨识性研究比LeCun团队早一年。现在机器人学习物理规律就像人类婴儿：不用海量试错，看几遍直播就能get重力概念——建议物理老师集体观摩。",
+          "usage": "💡 讨论AI学习机制时引用\n💬 这直播应该放寒假作业：每天观察AI怎么理解摩擦力\n🔥 世界模型 具身智能 物理学习",
+          "source": "https://www.qbitai.com/2026/10/504730.html",
+          "tags": [
+            "世界模型",
+            "机器人"
+          ]
+        },
+        {
+          "title": "电信开源意图模型",
+          "summary": "专攻语义理解的29B模型",
+          "detail": "中电信开源的Xing4.0-29B-Intent把意图理解拆解成填空题+选择题，在客服场景的准确率碾压通用模型。运营商终于想通了：与其让用户和'人工智障'对骂，不如把专项模型当5G增值服务卖。",
+          "usage": "💡 吐槽客服AI时对比\n💬 建议三大运营商套餐新增'防智障'选项+20元/月\n🔥 电信AI 意图理解 开源模型",
+          "source": "https://www.qbitai.com/2026/10/504832.html",
+          "tags": [
+            "电信AI",
+            "语义理解"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "OpenAI生物数据挖掘",
+          "summary": "数千AI代理协同科研",
+          "detail": "OpenAI联合Scripps研究所用分布式AI代理筛生物数据，发现多个药物靶点新线索。这研究最颠覆的点在于：科学家以后可能只需要设计实验框架，具体的数据大海捞针工作交给AI群殴——科研民工的移液枪要生锈了。",
+          "usage": "💡 聊AI+科学时举例\n💬 建议下次诺贝奖增设'最佳AI协作者'奖项\n🔥 生物医学 分布式AI 药物研发",
+          "source": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "tags": [
+            "AI科研",
+            "生物医学"
+          ]
+        },
+        {
+          "title": "多智能体医疗AI",
+          "summary": "清华AIR医生分身系统",
+          "detail": "清华AIR实验室用多智能体重构医疗AI，不同Agent分别扮演问诊、读片、开药角色。未来医院场景可能是这样：你对着屏幕吐槽症状，后面三个AI分身已经用眼神交流完治疗方案了。",
+          "usage": "💡 讨论AI医疗时举例\n💬 建议AI医生穿白大褂投影：仪式感拉满才能收挂号费\n🔥 医疗AI 多智能体 清华",
+          "source": "https://www.qbitai.com/2026/10/504734.html",
+          "tags": [
+            "医疗AI",
+            "多智能体"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "Nirva融资3300万",
+          "summary": "只听主人命令的AI吊坠",
+          "detail": "Nirva的AI吊坠拿到3300万美元融资，承诺'只听主人声音'。在Alexa和Siri天天被吐槽偷听的年代，这卖点精准戳中隐私焦虑——就是不知道它会不会把夫妻吵架内容自动生成'情感修复课程'广告。",
+          "usage": "💡 聊隐私与AI时调侃\n💬 建议下一代产品增加'选择性耳聋'模式\n🔥 可穿戴设备 隐私 AI硬件",
+          "source": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+          "tags": [
+            "AI硬件",
+            "隐私保护"
+          ]
+        },
+        {
+          "title": "轻舟智驾攻城略地",
+          "summary": "10-20万车型NOA普及",
+          "detail": "轻舟智驾4个月落地9款车型，把城市NOA杀进10-20万区间。现在买燃油车像用功能机：不是不能用，但总感觉在交'智障税'——建议驾校增设'如何羞辱非智能汽车'选修课。",
+          "usage": "💡 聊智驾普及时抛数据\n💬 以后二手车贩的终极杀价话术：这车居然要自己转弯？\n🔥 自动驾驶 轻舟智驾 性价比",
+          "source": "https://www.qbitai.com/2026/10/504638.html",
+          "tags": [
+            "自动驾驶",
+            "商业化"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-22T14:53:10.186Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3564,
+    "completion_tokens": 3083,
+    "total_tokens": 6647,
+    "cost_usd": 0.0040888556999999996,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}
