@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "PHP 末日降临",
+          "summary": "OpenAI 和谷歌联手发现 PHP 远古漏洞",
+          "detail": "OpenAI 和谷歌的 Wiz 团队最近发现了一系列 PHP 的古老安全漏洞，这些漏洞可能引发全球范围内的安全危机。AI 不仅发现了这些漏洞，还提出了修复方案，但这依然让整个互联网陷入了恐慌。PHP 开发者们正在紧急修复，但这次的漏洞影响范围之广，足以被称为『PHP 末日』。",
+          "usage": "💡 程序员聊安全漏洞时\n💬 OpenAI 和谷歌联手发现的 PHP 漏洞，堪称『PHP 末日』！\n🔥 PHP 安全漏洞 OpenAI 谷歌",
+          "source": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+          "tags": [
+            "PHP",
+            "安全漏洞",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Walmart 拥抱 AI",
+          "summary": "Walmart 向 AI 购物代理敞开大门",
+          "detail": "当亚马逊还在阻挠 AI 购物代理时，Walmart 已经决定全面拥抱 AI。Walmart 推出了一个全新的 AI 购物代理平台，允许 AI 代理在网站上进行购物和交易。这一举措不仅让 Walmart 在 AI 领域领先一步，还可能重塑未来的电商格局。亚马逊的防守策略和 Walmart 的进攻姿态，形成了鲜明对比。",
+          "usage": "💡 聊电商 AI 应用时\n💬 Walmart 直接向 AI 购物代理敞开大门，亚马逊还在防守呢！\n🔥 Walmart AI 购物 亚马逊",
+          "source": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+          "tags": [
+            "Walmart",
+            "AI 购物",
+            "亚马逊"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Flint 发布",
+          "summary": "Recursive 推出 AI 构建的编程模型",
+          "detail": "Recursive 发布了 Flint，一款完全由 AI 构建的笔记本电脑级编程模型。Flint 不仅小巧轻便，还能在本地运行，极大地降低了开发者对云端资源的依赖。Recursive 表示，Flint 的大部分代码都是由其自身的 AI 系统编写的，标志着 AI 自我进化的新里程碑。",
+          "usage": "💡 聊本地化 AI 模型时\n💬 Recursive 发布的 Flint，居然是 AI 自己写的代码！\n🔥 Flint Recursive AI 编程",
+          "source": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+          "tags": [
+            "Flint",
+            "Recursive",
+            "AI 编程"
+          ]
+        },
+        {
+          "title": "MemT 1.0",
+          "summary": "MemT 1.0 原生焊入 Transformer",
+          "detail": "MemT 1.0 的发布标志着 Transformer 模型的『记忆』问题得到了根本性解决。MemT 1.0 将记忆机制原生嵌入 Transformer 架构，使得模型在处理长文本时能够更好地记住上下文信息。这一技术突破不仅提升了模型的性能，还为未来的 AI 应用打开了新的大门。",
+          "usage": "💡 聊模型架构创新时\n💬 MemT 1.0 直接把记忆焊进了 Transformer，长文本处理终于有救了！\n🔥 MemT Transformer 记忆",
+          "source": "https://www.qbitai.com/2026/10/504456.html",
+          "tags": [
+            "MemT",
+            "Transformer",
+            "记忆机制"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "Jas Khaira",
+          "summary": "Blackstone AI 负责人谈市场恐慌",
+          "detail": "Blackstone 的 AI 负责人 Jas Khaira 最近表示，市场上对 AI 建设债务的恐慌被过度夸大了。他指出，Blackstone 作为全球最大的私募股权公司之一，并未因为市场波动而感到恐慌，反而看到了 AI 建设的巨大潜力。Khaira 的言论无疑为当下的 AI 投资热潮注入了一剂强心针。",
+          "usage": "💡 聊 AI 投资时\n💬 Blackstone 的 Jas Khaira 说：AI 建设债务的恐慌被过度夸大了！\n🔥 Blackstone Jas Khaira AI 投资",
+          "source": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+          "tags": [
+            "Blackstone",
+            "Jas Khaira",
+            "AI 投资"
+          ]
+        },
+        {
+          "title": "AI 管理难题",
+          "summary": "AI 让管理者头痛不已",
+          "detail": "最近的一项调查显示，超过 50% 的管理者表示，在采用 AI 后，评估员工工作变得更加困难。AI 虽然提高了生产力，但也带来了新的管理挑战。管理者们正在寻找新的方法来平衡 AI 带来的效率和评估难题。",
+          "usage": "💡 聊 AI 管理挑战时\n💬 AI 提高了生产力，但让管理者评估员工工作变得更难了！\n🔥 AI 管理 生产力 评估",
+          "source": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+          "tags": [
+            "AI 管理",
+            "生产力",
+            "评估"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI + Google Cloud",
+          "summary": "OpenAI 模型入驻 Google Cloud",
+          "detail": "OpenAI 和 Google Cloud 宣布合作，将 OpenAI 的前沿模型和 Codex 工作流引入 Google Cloud 的 Model Garden。这一合作不仅加强了 OpenAI 在云服务领域的布局，还为开发者提供了更多的模型选择和灵活性。",
+          "usage": "💡 聊云服务合作时\n💬 OpenAI 和 Google Cloud 联手，Model Garden 迎来新成员！\n🔥 OpenAI Google Cloud Codex",
+          "source": "https://openai.com/index/openai-models-google-cloud",
+          "tags": [
+            "OpenAI",
+            "Google Cloud",
+            "Codex"
+          ]
+        },
+        {
+          "title": "Meta Muse",
+          "summary": "Meta Muse 用户突破 1000 万",
+          "detail": "Meta 宣布其 AI 应用 Muse 的用户数量已突破 1000 万，购物和个人生产力是其用户最常使用的功能。Meta 表示，Muse 的成功标志着其在 AI 领域的进一步扩展，未来将继续优化用户体验。",
+          "usage": "💡 聊 Meta AI 应用时\n💬 Meta Muse 用户破千万，购物和生产力功能大受欢迎！\n🔥 Meta Muse AI 应用",
+          "source": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+          "tags": [
+            "Meta",
+            "Muse",
+            "AI 应用"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "ChatGPT 广告",
+          "summary": "ChatGPT 广告扩展至 26 国",
+          "detail": "OpenAI 宣布 ChatGPT 广告平台已扩展至 26 个新国家，超过 10 万广告商正在使用该平台。ChatGPT 的广告系统利用 LLM 技术理解用户意图，确保广告的及时性和相关性。这一扩展标志着 ChatGPT 在商业化道路上迈出了重要一步。",
+          "usage": "💡 聊 AI 商业化时\n💬 ChatGPT 广告平台扩展至 26 国，10 万广告商已入驻！\n🔥 ChatGPT 广告 LLM",
+          "source": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "tags": [
+            "ChatGPT",
+            "广告",
+            "LLM"
+          ]
+        },
+        {
+          "title": "Meshy Edit",
+          "summary": "Meshy 推出 AI 3D 模型编辑工具",
+          "detail": "Meshy 推出了 Meshy Edit，一款基于全新自研 AI 模型的 3D 模型编辑工具。用户只需圈选修改区域并描述改动，约一分钟即可生成新模型，未选中区域保持原样。这一工具极大简化了 3D 模型的编辑流程，为设计师和开发者提供了全新的创作方式。",
+          "usage": "💡 聊 3D 设计工具时\n💬 Meshy Edit：一句话搞定 3D 模型局部编辑！\n🔥 Meshy Edit 3D 模型 AI",
+          "source": "https://www.qbitai.com/2026/10/504415.html",
+          "tags": [
+            "Meshy Edit",
+            "3D 模型",
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "TokenFleet",
+          "summary": "TokenFleet 调度框架发布",
+          "detail": "是石科技发布了 TokenFleet 调度框架，将首 Token 延迟降低了 32.4%。这一框架不仅提升了国产推理模型的效率，还为大规模 AI 应用的部署提供了新的解决方案。TokenFleet 的发布标志着国产 AI 技术在调度优化领域的又一重大突破。",
+          "usage": "💡 聊国产 AI 技术时\n💬 TokenFleet 调度框架发布，首 Token 延迟降了 32.4%！\n🔥 TokenFleet 调度 国产 AI",
+          "source": "https://www.qbitai.com/2026/10/504421.html",
+          "tags": [
+            "TokenFleet",
+            "调度",
+            "国产 AI"
+          ]
+        },
+        {
+          "title": "Blacksmith 独角兽",
+          "summary": "Blacksmith 估值突破 10 亿美元",
+          "detail": "Blacksmith 在红杉资本领投的 C 轮融资中，估值突破 10 亿美元，成为新晋独角兽。Blacksmith 的平台允许企业更高效地构建和测试 AI 代码，其独特的技术优势吸引了大量投资者的关注。",
+          "usage": "💡 聊 AI 融资时\n💬 Blacksmith 估值破 10 亿，红杉领投的 C 轮融资！\n🔥 Blacksmith 独角兽 红杉",
+          "source": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+          "tags": [
+            "Blacksmith",
+            "独角兽",
+            "红杉"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "AI 生物数据",
+          "summary": "AI 助力生物数据研究",
+          "detail": "OpenAI、PerturbAI 和 Scripps Research 合作，利用分布式 AI 代理在复杂生物数据中发现了新的研究线索。这一突破不仅加速了生物学研究的进程，还为未来的 AI 在科研领域的应用提供了新的方向。",
+          "usage": "💡 聊 AI 科研应用时\n💬 OpenAI 和 Scripps Research 联手，AI 代理助力生物数据研究！\n🔥 OpenAI Scripps 生物数据",
+          "source": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "tags": [
+            "OpenAI",
+            "Scripps",
+            "生物数据"
+          ]
+        },
+        {
+          "title": "Cloudflare + OpenAI",
+          "summary": "Cloudflare 联手 OpenAI 发现漏洞",
+          "detail": "Cloudflare 使用 OpenAI 的 Daybreak 技术来发现漏洞并提出修复方案。这一合作不仅提升了 Cloudflare 的安全防御能力，还为 AI 在网络安全领域的应用提供了新的范例。",
+          "usage": "💡 聊网络安全时\n💬 Cloudflare 和 OpenAI 联手，AI 发现漏洞并提出修复方案！\n🔥 Cloudflare OpenAI 网络安全",
+          "source": "https://openai.com/index/cloudflare-cyber",
+          "tags": [
+            "Cloudflare",
+            "OpenAI",
+            "网络安全"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "AI 竞争加剧",
+          "summary": "企业争抢 AI 人才",
+          "detail": "飞书豆包工作 AI 先锋未来人才大赛的举办，标志着企业正在争抢会用 AI 做成事的人才。AI 技术的快速发展使得企业对 AI 人才的需求急剧增加，未来的竞争将更加激烈。",
+          "usage": "💡 聊 AI 人才竞争时\n💬 企业争抢 AI 人才，飞书豆包大赛火热进行中！\n🔥 AI 人才 企业竞争",
+          "source": "https://www.qbitai.com/2026/10/504608.html",
+          "tags": [
+            "AI 人才",
+            "企业竞争",
+            "飞书"
+          ]
+        },
+        {
+          "title": "AT&T + OpenAI",
+          "summary": "AT&T 与 OpenAI 合作法律工作",
+          "detail": "AT&T 与 OpenAI 合作，利用 AI 技术简化法律知识获取流程。这一合作不仅提升了 AT&T 内部法律团队的工作效率，还为 AI 在法律领域的应用提供了新的可能性。",
+          "usage": "💡 聊 AI 法律应用时\n💬 AT&T 和 OpenAI 合作，AI 助力法律知识获取！\n🔥 AT&T OpenAI 法律",
+          "source": "https://openai.com/index/att-legal",
+          "tags": [
+            "AT&T",
+            "OpenAI",
+            "法律"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-22T01:47:54.579Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3574,
+    "completion_tokens": 3199,
+    "total_tokens": 6773,
+    "cost_usd": 0.0042107589,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

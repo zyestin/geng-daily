@@ -1,0 +1,199 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "React 18.3",
+          "summary": "React 18.3 新版本发布",
+          "detail": "React 18.3 带来了多项性能优化和新的钩子函数，特别是对并发模式的支持更加成熟，开发者可以更高效地处理复杂的状态逻辑。",
+          "usage": "你有没有试过 React 18.3 的新钩子函数？听说在并发模式下性能提升了不少，感觉对我们的项目会很有帮助。",
+          "source": "",
+          "tags": [
+            "React",
+            "前端"
+          ]
+        },
+        {
+          "title": "Next.js 15",
+          "summary": "Next.js 15 发布，优化了 SSR",
+          "detail": "Next.js 15 引入了一系列新的 SSR 优化策略，减少了首屏加载时间，并且对 TypeScript 的支持更加完善，开发者体验进一步提升。",
+          "usage": "Next.js 15 的 SSR 优化你试过了吗？听说首屏加载时间明显减少了，感觉对我们的项目会是个好消息。",
+          "source": "",
+          "tags": [
+            "Next.js",
+            "前端"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN 新架构",
+          "summary": "React Native 新架构 Fabric",
+          "detail": "React Native 的新架构 Fabric 提供了更高效的内存管理和渲染性能，特别是在处理复杂 UI 时表现尤为突出，开发者可以期待更流畅的应用体验。",
+          "usage": "你有没有注意到 React Native 的新架构 Fabric？听说在处理复杂 UI 时性能提升了不少，感觉对我们的应用会是个好消息。",
+          "source": "",
+          "tags": [
+            "React Native",
+            "移动端"
+          ]
+        },
+        {
+          "title": "RN 跨端方案",
+          "summary": "React Native 跨端方案更新",
+          "detail": "React Native 最新的跨端方案支持更广泛的原生功能调用，开发者可以更轻松地实现复杂的跨平台功能，减少了开发成本。",
+          "usage": "React Native 的跨端方案最近更新了，听说支持更多原生功能调用了，感觉跨平台开发会更轻松了。",
+          "source": "",
+          "tags": [
+            "React Native",
+            "跨端"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "AI 代码助手",
+          "summary": "AI 代码助手 Cursor 更新",
+          "detail": "Cursor 最近更新了智能代码补全功能，特别是在处理复杂逻辑时能够提供更准确的建议，开发者可以更高效地完成代码编写。",
+          "usage": "你有没有试过 Cursor 最新的智能代码补全功能？听说在处理复杂逻辑时特别给力，感觉对我们的开发效率会有很大提升。",
+          "source": "",
+          "tags": [
+            "AI",
+            "编程"
+          ]
+        },
+        {
+          "title": "AI 生成UI",
+          "summary": "AI 生成 UI 工具 ComfyUI",
+          "detail": "ComfyUI 是一个强大的 AI 生成 UI 工具，支持通过图形化节点界面快速生成复杂的 UI 设计，开发者可以更直观地调整设计细节。",
+          "usage": "你听说过 ComfyUI 吗？听说它可以通过图形化节点界面快速生成复杂的 UI 设计，感觉对我们的设计师会是个好消息。",
+          "source": "https://github.com/Comfy-Org/ComfyUI",
+          "tags": [
+            "AI",
+            "UI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "TS 新特性",
+          "summary": "TypeScript 5.3 新特性",
+          "detail": "TypeScript 5.3 引入了多项新特性，特别是对泛型约束的优化，开发者可以更灵活地处理复杂的类型逻辑，提升了代码的可维护性。",
+          "usage": "你有没有注意到 TypeScript 5.3 的新特性？听说泛型约束优化了不少，感觉对我们的项目会是个好消息。",
+          "source": "",
+          "tags": [
+            "TypeScript",
+            "前端"
+          ]
+        },
+        {
+          "title": "JS 提案",
+          "summary": "JavaScript 新提案 TC39",
+          "detail": "TC39 最近提出了多项 JavaScript 新提案，特别是对异步处理的支持更加完善，开发者可以期待更高效的异步编程体验。",
+          "usage": "你关注过 TC39 的新提案吗？听说对异步处理的支持更加完善了，感觉对我们的项目会是个好消息。",
+          "source": "",
+          "tags": [
+            "JavaScript",
+            "前端"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "Ponytail",
+          "summary": "AI 代理工具 Ponytail",
+          "detail": "Ponytail 是一个让 AI 代理像最懒的高级开发者一样思考的工具，目标是生成最简洁的代码，开发者可以更高效地完成项目。",
+          "usage": "你听说过 Ponytail 吗？听说它能让 AI 代理像最懒的高级开发者一样思考，简直是我这种懒人的福音啊！",
+          "source": "https://github.com/DietrichGebert/ponytail",
+          "tags": [
+            "AI",
+            "开源"
+          ]
+        },
+        {
+          "title": "Orca",
+          "summary": "多代理协作工具 Orca",
+          "detail": "Orca 是一个支持多种 AI 代理协作的工具，开发者可以同时运行多个代理来完成复杂的编码任务，提升了开发效率。",
+          "usage": "你试过 Orca 吗？听说它支持多种 AI 代理协作，感觉对我们的开发效率会有很大提升。",
+          "source": "https://github.com/stablyai/orca",
+          "tags": [
+            "AI",
+            "开源"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "AI 写的代码",
+          "summary": "如何处理 AI 写的代码",
+          "detail": "很多开发者在使用 AI 工具生成代码时，发现自己并不完全理解生成的代码逻辑，这种情况怎么处理成了热门话题。",
+          "usage": "你有没有遇到过 AI 写的代码自己不理解的情况？感觉这是个双刃剑，快速生成代码的同时也带来了理解成本的提升。",
+          "source": "https://news.ycombinator.com/item?id=50151036",
+          "tags": [
+            "AI",
+            "编程"
+          ]
+        },
+        {
+          "title": "PHP 安全",
+          "summary": "PHP 安全漏洞修复",
+          "detail": "PHP 最新版本修复了两个严重的安全漏洞，引发了开发者社区的热议，大家纷纷讨论如何更好地保障代码安全。",
+          "usage": "你关注过 PHP 最新的安全漏洞修复吗？听说这次的问题还挺严重的，感觉对我们的项目会是个重要的提示。",
+          "source": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+          "tags": [
+            "PHP",
+            "安全"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-22T01:45:19.552Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2092,
+    "completion_tokens": 1613,
+    "total_tokens": 3705,
+    "cost_usd": 0.0021977739,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}
