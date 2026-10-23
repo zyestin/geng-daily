@@ -5,30 +5,58 @@
       "icon": "📰",
       "items": [
         {
-          "title": "宁王惊魂日",
-          "summary": "宁德时代暴跌12%",
-          "detail": "新能源龙头宁德时代发布三季度报后股价闪崩12%，市值蒸发超千亿。分析师称其面临规模与利润的第一次分岔路口，动力电池行业拐点可能提前到来。家人们谁懂啊，宁王这波直接把创业板带沟里了。",
-          "usage": "💡 同事聊股票时切入\n💬 宁王今天把创业板都带崩了\n🔥 宁德时代 动力电池 股价暴跌",
-          "src_id": 2,
+          "title": "iPhone限购",
+          "summary": "iPhone Duo每人限购2部",
+          "detail": "苹果新款iPhone Duo今日正式开售，但每人限购2部，黄牛们恐怕要哭了。这次苹果明显是为了防止黄牛囤货，但消费者也表示不解：为啥不能多买几部送人？",
+          "usage": "💡 同事聊新手机 \n 💬 iPhone Duo限购2部，黄牛凉凉 \n 🔥 iPhone Duo 限购 黄牛",
+          "source": "https://www.toutiao.com/trending/7699646244972400179/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699646244972400179%22%2C%22hot_board_impr_id%22%3A%22202610230948347CA6BC55DC7B98F2C826%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22iPhone+Duo%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%94%AE+%E6%AF%8F%E4%BA%BA%E9%99%90%E8%B4%AD2%E9%83%A8%22%7D&rank=&style_id=40132&topic_id=7699646244972400179",
           "tags": [
-            "新能源",
-            "股市",
-            "宁德时代"
-          ],
-          "source": "https://www.huxiu.com/article/4899726.html?f=rss"
+            "iPhone",
+            "限购",
+            "黄牛"
+          ]
         },
         {
-          "title": "双11战况",
-          "summary": "电商平台分化加剧",
-          "detail": "今年双11出现明显分化，京东天猫继续神仙打架，拼多多抖音闷声发财。最惨的是中小商家，被平台算法和头部主播双重挤压。建议各位程序员今晚清空购物车，毕竟明天可能就被裁了（不是",
-          "usage": "💡 午休聊购物时抛出\n💬 听说今年双11中小商家快被卷死了\n🔥 双11 电商 价格战",
-          "src_id": 1,
+          "title": "西藏地震",
+          "summary": "西藏7.0级地震已致16死",
+          "detail": "西藏那曲发生7.0级地震，已致16人死亡，54人受伤。救援工作正在紧张进行中，全国各地的救援队伍已陆续抵达灾区。",
+          "usage": "💡 同事聊时事 \n 💬 西藏地震已致16死，救援进行中 \n 🔥 西藏地震 救援 伤亡",
+          "source": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E9%82%A3%E6%9B%B2%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B416%E6%AD%BB54%E4%BC%A4&sa=fyb_news",
           "tags": [
-            "电商",
-            "双11",
-            "消费"
-          ],
-          "source": "https://www.huxiu.com/article/4899734.html?f=rss"
+            "西藏",
+            "地震",
+            "救援"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "马斯克发推",
+          "summary": "马斯克吐槽AI盗版",
+          "detail": "马斯克发推吐槽AI盗版软件泛滥，称这是对原创者的极大不尊重。他还呼吁开发者们加强对AI技术的保护，防止被盗版。",
+          "usage": "💡 同事聊AI \n 💬 马斯克吐槽AI盗版，开发者要小心 \n 🔥 马斯克 AI 盗版",
+          "source": "https://www.huxiu.com/article/4899489.html?f=rss",
+          "tags": [
+            "马斯克",
+            "AI",
+            "盗版"
+          ]
+        },
+        {
+          "title": "黄仁勋演讲",
+          "summary": "黄仁勋谈芯片未来",
+          "detail": "NVIDIA CEO黄仁勋在2026金融街论坛年会上发表演讲，谈到芯片技术的未来发展趋势，强调了AI芯片的重要性。",
+          "usage": "💡 同事聊芯片 \n 💬 黄仁勋谈芯片未来，AI芯片是关键 \n 🔥 黄仁勋 芯片 AI",
+          "source": "https://www.huxiu.com/article/4899761.html?f=rss",
+          "tags": [
+            "黄仁勋",
+            "芯片",
+            "AI"
+          ]
         }
       ]
     },
@@ -37,17 +65,28 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "字节拆中层",
-          "summary": "梁汝波动刀组织架构",
-          "detail": "字节CEO梁汝波在全员信中点名批评中层管理者脱离业务，被解读为裁员前兆。打工人瑟瑟发抖：原来我们不是螺丝钉，是随时能拆的乐高零件啊！",
-          "usage": "💡 聊大厂裁员时引用\n💬 字节现在连中层都保不住了\n🔥 字节跳动 裁员 组织架构",
-          "src_id": 11,
+          "title": "奥迪换帅",
+          "summary": "奥迪中国新总裁上任",
+          "detail": "奥迪中国宣布新总裁上任，这是五年内的第三任总裁。奥迪电动化进程缓慢，新总裁能否带领奥迪走出困境，值得关注。",
+          "usage": "💡 同事聊汽车 \n 💬 奥迪中国又换总裁，电动化路在何方？ \n 🔥 奥迪 总裁 电动化",
+          "source": "https://www.huxiu.com/article/4899785.html?f=rss",
           "tags": [
-            "字节跳动",
-            "裁员",
-            "管理"
-          ],
-          "source": "https://www.huxiu.com/article/4899705.html?f=rss"
+            "奥迪",
+            "总裁",
+            "电动化"
+          ]
+        },
+        {
+          "title": "可口可乐新品",
+          "summary": "可口可乐推黄精可乐",
+          "detail": "可口可乐与武当山联名推出黄精可乐，仅在武当山线下门店发售，三天内售罄。网友们纷纷调侃：这是要给可乐加点“仙气”？",
+          "usage": "💡 同事聊新品 \n 💬 可口可乐推黄精可乐，网友：仙气满满 \n 🔥 可口可乐 黄精 新品",
+          "source": "https://www.huxiu.com/article/4899777.html?f=rss",
+          "tags": [
+            "可口可乐",
+            "黄精",
+            "新品"
+          ]
         }
       ]
     },
@@ -56,62 +95,16 @@
       "icon": "🔀",
       "items": [
         {
-          "title": "宁德时代地震",
-          "summary": "技术副总突然离职",
-          "detail": "在股价暴跌同日，宁德时代动力电池首席技术官吴凯宣布离职，引发行业震动。业内人士称这与三季度研发投入下降有关，建议改名叫'宁跑跑'算了。",
-          "usage": "💡 聊新能源行业时补充\n💬 宁王这是要技术性熊市啊\n🔥 宁德时代 离职 高管变动",
-          "src_id": 2,
+          "title": "奥迪裁员",
+          "summary": "奥迪中国裁员500人",
+          "detail": "奥迪中国宣布裁员500人，主要涉及销售和市场部门。这是奥迪电动化转型的一部分，但员工们表示不理解：电动化不是应该增员吗？",
+          "usage": "💡 同事聊裁员 \n 💬 奥迪中国裁员500人，电动化转型代价 \n 🔥 奥迪 裁员 电动化",
+          "source": "https://www.huxiu.com/article/4899785.html?f=rss",
           "tags": [
-            "宁德时代",
-            "人事",
-            "电池"
-          ],
-          "source": "https://www.huxiu.com/article/4899726.html?f=rss"
-        },
-        {
-          "title": "港股IPO寒冬",
-          "summary": "152家企业上市失效",
-          "detail": "港交所最新数据显示152家企业上市申请失效，包含多家科技公司。创业者哀嚎：现在上市比AI通过图灵测试还难，要不改行送外卖算了？",
-          "usage": "💡 聊创业融资时吐槽\n💬 现在港股IPO比西天取经难\n🔥 港股 IPO 失效",
-          "src_id": 6,
-          "tags": [
-            "港股",
-            "上市",
-            "科技"
-          ],
-          "source": "https://www.huxiu.com/article/4899715.html?f=rss"
-        }
-      ]
-    },
-    {
-      "name": "前沿探索",
-      "icon": "🚀",
-      "items": [
-        {
-          "title": "具身智能大战",
-          "summary": "OpenAI入局机器人",
-          "detail": "OpenAI被曝组建具身智能团队，要与谷歌DeepMind抢机器人赛道。网友辣评：建议先给GPT装个机械臂，让它体验下搬砖的福报。",
-          "usage": "💡 聊AI进展时抛梗\n💬 硅谷大佬开始卷实体机器人了\n🔥 OpenAI 机器人 具身智能",
-          "src_id": 7,
-          "tags": [
-            "AI",
-            "机器人",
-            "OpenAI"
-          ],
-          "source": "https://www.huxiu.com/article/4899714.html?f=rss"
-        },
-        {
-          "title": "400km高铁要来了",
-          "summary": "CR450测试破纪录",
-          "detail": "中国中车宣布CR450动车组试验速度突破400km/h，网友神评论：建议改名叫'地表飞行器'，毕竟飞机延误时它真能比航班快。",
-          "usage": "💡 看到基建新闻时玩梗\n💬 这速度够我从北京到上海吃午饭了\n🔥 高铁 CR450 速度纪录",
-          "src_id": 21,
-          "tags": [
-            "高铁",
-            "交通",
-            "中国制造"
-          ],
-          "source": "https://www.toutiao.com/trending/7699455738569051667/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699455738569051667%22%2C%22hot_board_impr_id%22%3A%2220261022224643FBA5C97B5F3EFB4E21A0%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%B6%E9%80%9F400%E5%85%AC%E9%87%8C%E7%9A%84%E9%AB%98%E9%93%81%E7%9C%9F%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7699455738569051667"
+            "奥迪",
+            "裁员",
+            "电动化"
+          ]
         }
       ]
     },
@@ -120,30 +113,28 @@
       "icon": "📱",
       "items": [
         {
-          "title": "AI拼图翻车",
-          "summary": "算法败给纯白地狱",
-          "detail": "程序员用AI挑战1000片纯白拼图，结果5小时就系统崩溃。建议各大厂赶紧把这个案例写进校招题：请问如何让AI理解人类的无聊？",
-          "usage": "💡 聊AI局限性时举例\n💬 连AI都拼不过人类的手残\n🔥 AI 拼图 算法",
-          "src_id": 9,
+          "title": "iPhone Duo",
+          "summary": "iPhone Duo正式开售",
+          "detail": "苹果新款iPhone Duo今日正式开售，主打双屏设计，每人限购2部。虽然设计创新，但消费者对价格表示不满：双屏就要卖这么贵？",
+          "usage": "💡 同事聊新手机 \n 💬 iPhone Duo今天开售，双屏设计但贵得离谱 \n 🔥 iPhone Duo 双屏 限购",
+          "source": "https://www.toutiao.com/trending/7699646244972400179/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699646244972400179%22%2C%22hot_board_impr_id%22%3A%22202610230948347CA6BC55DC7B98F2C826%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22iPhone+Duo%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%94%AE+%E6%AF%8F%E4%BA%BA%E9%99%90%E8%B4%AD2%E9%83%A8%22%7D&rank=&style_id=40132&topic_id=7699646244972400179",
           "tags": [
-            "AI",
-            "测试",
-            "娱乐"
-          ],
-          "source": "https://www.huxiu.com/article/4899709.html?f=rss"
+            "iPhone Duo",
+            "双屏",
+            "限购"
+          ]
         },
         {
-          "title": "Web危机",
-          "summary": "70%网站存在漏洞",
-          "detail": "安全机构警告全球70%网站受新漏洞影响，程序员纷纷表示：这不是漏洞，是给黑客发的双11邀请函。",
-          "usage": "💡 遇到系统报错时调侃\n💬 今天你被漏洞了吗\n🔥 网络安全 漏洞 黑客",
-          "src_id": 15,
+          "title": "飞行滑板",
+          "summary": "手搓飞行滑板走红",
+          "detail": "一名男生手搓飞行滑板走红网络，但他回应假飞传闻称：“我只是想让大家看到科技的无限可能。”网友纷纷表示：这才是真正的技术宅！",
+          "usage": "💡 同事聊黑科技 \n 💬 手搓飞行滑板走红，技术宅的浪漫 \n 🔥 飞行滑板 技术宅 黑科技",
+          "source": "https://m.baidu.com/s?word=%E6%89%8B%E6%90%93%E9%A3%9E%E8%A1%8C%E6%BB%91%E6%9D%BF%E8%B5%B0%E7%BA%A2%E7%94%B7%E7%94%9F%E5%9B%9E%E5%BA%94%E5%81%87%E9%A3%9E%E4%BC%A0%E9%97%BB&sa=fyb_news",
           "tags": [
-            "安全",
-            "网站",
-            "漏洞"
-          ],
-          "source": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%8370%25%E7%BD%91%E7%AB%99%E9%83%BD%E5%8D%B1%E9%99%A9%E4%BA%86&sa=fyb_news"
+            "飞行滑板",
+            "技术宅",
+            "黑科技"
+          ]
         }
       ]
     },
@@ -152,44 +143,42 @@
       "icon": "🎬",
       "items": [
         {
-          "title": "金粒门神话",
-          "summary": "零食店排队长过茶颜",
-          "detail": "新消费品牌金粒门上海首店开业引发排队潮，400平店面被挤爆。投资人说这是'零食界的喜茶'，打工人反问：所以它家员工也要背销售KPI吗？",
-          "usage": "💡 聊新消费时举例\n💬 现在连买零食都要排队了\n🔥 金粒门 新消费 排队",
-          "src_id": 8,
+          "title": "融资翻盘",
+          "summary": "茶百道IPO被暂停",
+          "detail": "茶百道IPO因涉嫌操纵被香港证监会暂停，创始人表示将全力配合调查。这次事件引发了资本市场的广泛关注。",
+          "usage": "💡 同事聊创业 \n 💬 茶百道IPO被暂停，创始人表态配合调查 \n 🔥 茶百道 IPO 暂停",
+          "source": "https://www.huxiu.com/article/4899782.html?f=rss",
           "tags": [
-            "创业",
-            "零售",
-            "消费"
-          ],
-          "source": "https://www.huxiu.com/article/4899712.html?f=rss"
+            "茶百道",
+            "IPO",
+            "暂停"
+          ]
         },
         {
-          "title": "AI影视革命",
-          "summary": "制片人重算成本账",
-          "detail": "影视圈开始用AI替代部分实拍，某剧组用狗血短剧训练模型后惊呼：这AI比编剧还会制造家庭伦理矛盾！建议下次直接让AI领金马奖。",
-          "usage": "💡 聊影视行业时玩梗\n💬 以后烂片可以甩锅AI了\n🔥 AI 影视 短剧",
-          "src_id": 5,
+          "title": "创始人恩怨",
+          "summary": "扬子江药业争议",
+          "detail": "扬子江药业因蓝芩喉糖配料表争议陷入舆论风波，创始人表示将重新审视产品定位。网友调侃：这不是不懂，是装不懂。",
+          "usage": "💡 同事聊品牌 \n 💬 扬子江药业争议，创始人表态重新审视 \n 🔥 扬子江药业 蓝芩 争议",
+          "source": "https://www.huxiu.com/article/4899776.html?f=rss",
           "tags": [
-            "AI",
-            "影视",
-            "创业"
-          ],
-          "source": "https://www.huxiu.com/article/4899694.html?f=rss"
+            "扬子江药业",
+            "蓝芩",
+            "争议"
+          ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-22T14:51:46.806Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-10-23T01:53:13.911Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 5674,
-    "completion_tokens": 2311,
-    "total_tokens": 7985,
-    "cost_usd": 0.0038378133,
+    "prompt_tokens": 4975,
+    "completion_tokens": 3314,
+    "total_tokens": 8289,
+    "cost_usd": 0.0046896768000000005,
     "free": false,
     "quality": {
       "degraded": true,
@@ -203,7 +192,7 @@
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 23
+      "total": 20
     }
   }
 }

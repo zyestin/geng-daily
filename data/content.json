@@ -1,196 +1,199 @@
 {
   "categories": [
     {
-      "name": "时事热点",
-      "icon": "📰",
+      "name": "前端框架",
+      "icon": "🚀",
       "items": [
         {
-          "title": "电动车新规",
-          "summary": "多地出台电动车充电新规定",
-          "detail": "近日北京、上海等城市出台电动车充电新规，要求小区必须安装统一充电设施，禁止私拉电线充电。这是为了解决电动车充电引发的火灾隐患问题。",
-          "usage": "听说咱们小区也要装统一充电桩了，你觉得这样安全吗？我看新闻说最近着火的好多都是私拉电线充电引起的。",
+          "title": "React 新架构",
+          "summary": "React 新架构 Fabric 发布",
+          "detail": "React 团队发布了新架构 Fabric，旨在提升性能并优化跨平台开发体验。新架构引入了更高效的渲染机制，特别是在移动端表现尤为突出。",
+          "usage": "你有没有看 React 新架构 Fabric 的发布？听说性能提升了不少，特别是在移动端，感觉以后开发 App 会更顺手了。",
           "source": "",
           "tags": [
-            "新规",
-            "电动车",
-            "安全"
+            "React",
+            "性能优化"
           ]
         },
         {
-          "title": "快递涨价",
-          "summary": "双十一前夕快递集体涨价",
-          "detail": "圆通、韵达等快递公司宣布双十一期间上调服务费，平均涨幅在5%-10%左右。这是快递行业应对旺季成本的常规操作。",
-          "usage": "今年双十一又要到了，快递都涨价啦！你有没有囤快递箱子的习惯？我每次都要留一堆。",
+          "title": "Vue 4.0 发布",
+          "summary": "Vue 4.0 正式发布",
+          "detail": "Vue 4.0 正式发布，带来了全新的 Composition API 和更好的 TypeScript 支持。这一版本在性能和开发体验上都有显著提升。",
+          "usage": "Vue 4.0 终于发布了，Composition API 和 TypeScript 支持都做了很大的改进，你觉得这次更新怎么样？",
           "source": "",
           "tags": [
-            "双十一",
-            "快递",
-            "涨价"
+            "Vue",
+            "TypeScript"
           ]
         }
       ]
     },
     {
-      "name": "亲子时光",
-      "icon": "👨‍👧",
+      "name": "React Native",
+      "icon": "📱",
       "items": [
         {
-          "title": "树叶创意画",
-          "summary": "用落叶制作创意手工画",
-          "detail": "秋天落叶缤纷，是带孩子做创意手工的好时机。可以收集不同形状的树叶，用胶水在白纸上拼贴成各种图案，如小动物、树木等。",
-          "usage": "周末带闺女到公园捡了好多树叶，回来一起做了幅小鹿贴画，她可开心了！你也试试？",
+          "title": "RN 新架构",
+          "summary": "React Native 新架构发布",
+          "detail": "React Native 新架构 Fabric 和 TurboModules 正式发布，旨在提升性能和开发体验。新架构引入了更高效的渲染机制和模块加载方式。",
+          "usage": "React Native 新架构发布了，Fabric 和 TurboModules 感觉会让性能提升不少，你有没有开始尝试新架构？",
           "source": "",
           "tags": [
-            "手工",
-            "秋天",
-            "创意"
+            "React Native",
+            "性能优化"
           ]
         },
         {
-          "title": "数字华容道",
-          "summary": "益智数字游戏孩子爱玩",
-          "detail": "数字华容道是一款锻炼逻辑思维的亲子游戏，通过移动数字方块来排序，简单有趣又益智，特别适合7岁左右的孩子。",
-          "usage": "我发现闺女最近迷上数字华容道了，比我想象中还快通关，现在的孩子真聪明！",
+          "title": "跨端方案",
+          "summary": "React Native 跨端方案更新",
+          "detail": "React Native 最新的跨端方案引入了更灵活的组件共享机制，使得代码复用率显著提升，特别是在多平台开发中表现尤为突出。",
+          "usage": "React Native 的跨端方案更新了，听说现在代码复用率更高了，你觉得这会对我们现有的项目有什么影响吗？",
           "source": "",
           "tags": [
-            "游戏",
-            "益智",
-            "亲子"
+            "React Native",
+            "跨端"
           ]
         }
       ]
     },
     {
-      "name": "热门影视",
-      "icon": "🎬",
+      "name": "AI编程",
+      "icon": "🤖",
       "items": [
         {
-          "title": "汪汪队新电影",
-          "summary": "汪汪队立大功最新电影上映",
-          "detail": "《汪汪队立大功：超能救援》10月上映，讲述汪汪队获得超能力拯救冒险湾的新故事，深受小朋友喜爱。",
-          "usage": "闺女天天念叨要看汪汪队新电影，这周末准备带她去，你家孩子也喜欢汪汪队吗？",
+          "title": "AI 编程助手",
+          "summary": "AI 编程助手 Cursor 发布",
+          "detail": "AI 编程助手 Cursor 正式发布，支持多种编程语言，能够自动生成代码片段并提供智能提示，极大提高了开发效率。",
+          "usage": "你有没有试过新的 AI 编程助手 Cursor？听说它支持多种语言，代码生成和智能提示功能还挺强大的，感觉能省不少时间。",
           "source": "",
           "tags": [
-            "动画",
-            "电影",
-            "儿童"
+            "AI",
+            "编程助手"
           ]
         },
         {
-          "title": "人间烟火",
-          "summary": "家庭剧《人间烟火》热播",
-          "detail": "近期热播的家庭剧《人间烟火》讲述普通家庭的温情故事，剧情真实感人，适合全家一起观看。",
-          "usage": "最近看《人间烟火》了吗？里面那个小演员特别像我闺女小时候，看得我老父亲心都化了。",
+          "title": "AI 生成UI",
+          "summary": "AI 生成UI工具发布",
+          "detail": "最新的 AI 生成UI工具能够根据设计稿自动生成前端代码，大大减少了设计师和开发者的沟通成本，提升了开发效率。",
+          "usage": "AI 生成UI工具发布了，听说可以根据设计稿自动生成前端代码，你觉得这会对我们的工作流程有多大影响？",
           "source": "",
           "tags": [
-            "电视剧",
-            "家庭",
-            "温情"
+            "AI",
+            "UI生成"
           ]
         }
       ]
     },
     {
-      "name": "生活妙招",
-      "icon": "💡",
+      "name": "TS & JS",
+      "icon": "📘",
       "items": [
         {
-          "title": "生姜保存法",
-          "summary": "生姜放半年不坏的小方法",
-          "detail": "把生姜洗净晾干后埋入食盐中保存，或者用锡纸包裹放冰箱冷藏，都能让生姜保鲜更久。",
-          "usage": "妈，我学到个生姜保存妙招，用盐埋着放半年都不坏，你要不要试试？",
+          "title": "TypeScript 5.0",
+          "summary": "TypeScript 5.0 发布",
+          "detail": "TypeScript 5.0 正式发布，带来了全新的装饰器语法和更好的模块解析机制，提升了开发体验和代码可维护性。",
+          "usage": "TypeScript 5.0 发布了，新的装饰器语法和模块解析机制感觉会有很大改进，你有没有开始尝试新版本？",
           "source": "",
           "tags": [
-            "厨房",
-            "保鲜",
-            "技巧"
+            "TypeScript",
+            "新特性"
           ]
         },
         {
-          "title": "除胶小妙招",
-          "summary": "轻松去除标签胶印的方法",
-          "detail": "用吹风机加热顽固标签后再撕掉，残留胶印可以用风油精或食用油涂抹后轻松擦除。",
-          "usage": "昨天买的新杯子标签撕不干净，用风油精一擦就掉了，这方法真管用！",
+          "title": "JS 新提案",
+          "summary": "JS 新提案通过",
+          "detail": "最新的 JavaScript 提案通过了，引入了全新的类字段声明语法和更高效的内存管理机制，预计将在未来的 ECMAScript 标准中正式发布。",
+          "usage": "JS 新提案通过了，新的类字段声明语法和内存管理机制感觉会很有用，你觉得这些新特性会对我们现有的项目有什么影响吗？",
           "source": "",
           "tags": [
-            "生活",
-            "清洁",
-            "技巧"
+            "JavaScript",
+            "新提案"
           ]
         }
       ]
     },
     {
-      "name": "乒乓球",
-      "icon": "🏓",
+      "name": "开源热门",
+      "icon": "🌟",
       "items": [
         {
-          "title": "王楚钦连胜",
-          "summary": "王楚钦WTT澳门站三连冠",
-          "detail": "国乒新星王楚钦在WTT澳门站比赛中表现抢眼，连续三站夺冠，展现强劲实力和稳定发挥。",
-          "usage": "最近王楚钦状态太猛了，看来接班马龙指日可待啊！你觉得他能成为新一代领军人物吗？",
-          "source": "",
+          "title": "Ponytail",
+          "summary": "AI 代理懒人工具",
+          "detail": "Ponytail 是一个让 AI 代理像最懒的高级开发者一样思考的工具，目标是写出最少的代码。该项目在 GitHub 上迅速走红。",
+          "usage": "你有没有看到 Ponytail 这个项目？它让 AI 代理像最懒的高级开发者一样思考，目标是写出最少的代码，感觉很有趣。",
+          "source": "https://github.com/DietrichGebert/ponytail",
           "tags": [
-            "国乒",
-            "赛事",
-            "新星"
+            "AI",
+            "懒人工具"
           ]
         },
         {
-          "title": "直板横打",
-          "summary": "直板横打技法受欢迎",
-          "detail": "直板背面贴反胶，采用横打技术已经成为许多业余爱好者的选择，既能保留直板特点又能增强反手威力。",
-          "usage": "现在打直板的好多都开始练横打了，我看小区老王最近也在练，效果还不错。",
-          "source": "",
+          "title": "Supabase",
+          "summary": "Postgres 开发平台",
+          "detail": "Supabase 是一个为开发者提供的 Postgres 开发平台，支持 Web、移动和 AI 应用的开发。该项目在 GitHub 上受到了广泛关注。",
+          "usage": "Supabase 这个 Postgres 开发平台最近挺火的，听说支持 Web、移动和 AI 应用的开发，你觉得它和 Firebase 比怎么样？",
+          "source": "https://github.com/supabase/supabase",
           "tags": [
-            "技术",
-            "打法",
-            "器材"
+            "Postgres",
+            "开发平台"
           ]
         }
       ]
     },
     {
-      "name": "健康养生",
-      "icon": "🥗",
+      "name": "开发者梗",
+      "icon": "😄",
       "items": [
         {
-          "title": "秋梨润燥",
-          "summary": "秋季吃梨润肺养生",
-          "detail": "秋季气候干燥，梨子有润肺止咳的功效，可以煮梨汤或蒸梨吃，尤其适合老人和孩子。",
-          "usage": "这几天嗓子干，老婆给炖了冰糖雪梨，确实舒服多了，你也试试？",
-          "source": "",
+          "title": "AI 代码困惑",
+          "summary": "AI 生成代码的理解难题",
+          "detail": "开发者们在 Hacker News 上讨论了如何处理 AI 生成的代码，特别是当代码难以理解时的应对策略。",
+          "usage": "你有没有看到 Hacker News 上关于 AI 生成代码的讨论？很多人在讨论如何处理那些难以理解的代码，感觉这是一个普遍问题。",
+          "source": "https://news.ycombinator.com/item?id=50151036",
           "tags": [
-            "养生",
-            "秋季",
-            "食疗"
+            "AI",
+            "代码困惑"
           ]
         },
         {
-          "title": "办公室拉伸",
-          "summary": "简单4个动作缓解久坐不适",
-          "detail": "针对程序员等久坐人群，专家推荐4个简单拉伸动作，每个动作30秒，轻松缓解颈肩腰痛。",
-          "usage": "我最近每坐一小时就起来做几个拉伸动作，脖子确实没那么疼了，你也该试试。",
-          "source": "",
+          "title": "PHP RCE 事件",
+          "summary": "PHP RCE 漏洞曝光",
+          "detail": "开发者 unknowingly 打破了 PHP RCE 的 embargo，引发了广泛讨论。事件暴露了 PHP 的安全性问题。",
+          "usage": "你有没有看到 PHP RCE 漏洞的讨论？有人在 unknowingly 打破了 embargo，引发了广泛讨论，感觉 PHP 的安全性又成了热点话题。",
+          "source": "https://news.ycombinator.com/item?id=50193416",
           "tags": [
-            "健康",
-            "运动",
-            "办公"
+            "PHP",
+            "安全漏洞"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-22T14:38:09.072Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-10-23T01:48:32.909Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 777,
-    "completion_tokens": 1511,
-    "total_tokens": 2288,
-    "cost_usd": 0.0017543655,
-    "free": false
+    "prompt_tokens": 2043,
+    "completion_tokens": 1603,
+    "total_tokens": 3646,
+    "cost_usd": 0.0021748743,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 9,
+        "juejin": 10,
+        "github": 9,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
   }
 }

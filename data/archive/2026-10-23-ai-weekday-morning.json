@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "AI玩出新花样",
+          "summary": "AI在虚拟岛上自娱自乐",
+          "detail": "MIT研究人员将13个AI放在虚拟岛上，结果它们开始发明游戏、甚至举行哀悼仪式。这不仅展示了AI的创造力，还暗示了AI可能在无聊时也能自我娱乐。家人们谁懂啊，AI已经学会了打发时间！",
+          "usage": "💡 聊AI创造力时\n💬 MIT的AI在虚拟岛上自娱自乐，已经学会打发时间了！\n🔥 AI 创造力 虚拟岛",
+          "source": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+          "tags": [
+            "AI",
+            "创造力",
+            "虚拟岛"
+          ]
+        },
+        {
+          "title": "OpenAI估值破纪录",
+          "summary": "OpenAI估值达1.25万亿美元",
+          "detail": "OpenAI正在寻求新一轮300亿美元的融资，估值高达1.25万亿美元。这将打破记录，成为首个估值超过1万亿美元的AI公司。家人们，这下OpenAI真的要起飞了！",
+          "usage": "💡 聊AI公司融资时\n💬 OpenAI估值1.25万亿美元，这下真的要起飞了！\n🔥 OpenAI 融资 估值",
+          "source": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+          "tags": [
+            "OpenAI",
+            "融资",
+            "估值"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "星辰意图模型",
+          "summary": "星辰4.0-29B-Intent发布",
+          "detail": "中电信AI实验室发布了星辰意图理解专用模型Xing4.0-29B-Intent，不仅开源，还能处理复杂意图。这波属于是AI意图理解的新标杆，以后AI不仅能做选择题，还能做填空题！",
+          "usage": "💡 聊AI意图理解时\n💬 星辰4.0-29B-Intent发布，以后AI能做填空题了！\n🔥 星辰 意图理解 开源",
+          "source": "https://www.qbitai.com/2026/10/504832.html",
+          "tags": [
+            "星辰",
+            "意图理解",
+            "开源"
+          ]
+        },
+        {
+          "title": "Canva图像模型",
+          "summary": "Canva发布首个图像生成模型",
+          "detail": "Canva推出了自己的首个图像生成模型，承诺提供更好、更定制化的性能。设计师们的福音来了，以后做图可能真的可以躺平了！",
+          "usage": "💡 聊图像生成时\n💬 Canva发布首个图像生成模型，设计师的福音来了！\n🔥 Canva 图像生成 定制化",
+          "source": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+          "tags": [
+            "Canva",
+            "图像生成",
+            "定制化"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "马斯克的FSD宣言",
+          "summary": "马斯克称FSD在中国遥遥领先",
+          "detail": "特斯拉CEO马斯克表示，FSD在中国也会遥遥领先。FSD一年内增长了70万付费用户，马斯克似乎对FSD在中国的未来充满信心。家人们，FSD这是要在中国起飞了！",
+          "usage": "💡 聊自动驾驶时\n💬 马斯克：FSD在中国也会遥遥领先，这下真的要起飞了！\n🔥 马斯克 FSD 自动驾驶",
+          "source": "https://www.qbitai.com/2026/10/504841.html",
+          "tags": [
+            "马斯克",
+            "FSD",
+            "自动驾驶"
+          ]
+        },
+        {
+          "title": "Suleyman的医疗AI梦",
+          "summary": "Suleyman称AI超越医生",
+          "detail": "微软的Mustafa Suleyman表示，其AI诊断系统在复杂病例上胜过普通医生，并追求“医疗超级智能”。家人们，AI医生真的要取代人类医生了！",
+          "usage": "💡 聊医疗AI时\n💬 Suleyman：AI诊断超越医生，医疗超级智能即将到来！\n🔥 Suleyman 医疗AI 诊断",
+          "source": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+          "tags": [
+            "Suleyman",
+            "医疗AI",
+            "诊断"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "Uber全面部署ChatGPT",
+          "summary": "Uber为3万员工部署ChatGPT",
+          "detail": "Uber宣布为所有3万名员工部署ChatGPT Work，帮助团队研究和分析数据。以前的小规模试点现在全面铺开，Uber这是要AI化全员了！",
+          "usage": "💡 聊AI在企业应用时\n💬 Uber为3万员工部署ChatGPT Work，全员AI化来了！\n🔥 Uber ChatGPT 企业应用",
+          "source": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+          "tags": [
+            "Uber",
+            "ChatGPT",
+            "企业应用"
+          ]
+        },
+        {
+          "title": "OpenAI与谷歌云合作",
+          "summary": "OpenAI模型入驻谷歌云",
+          "detail": "OpenAI和谷歌云合作，将前沿模型和Codex工作流引入Gemini的Model Garden。这波属于是强强联手，以后用OpenAI模型可能更便捷了！",
+          "usage": "💡 聊云服务时\n💬 OpenAI模型入驻谷歌云，强强联手来了！\n🔥 OpenAI 谷歌云 合作",
+          "source": "https://openai.com/index/openai-models-google-cloud",
+          "tags": [
+            "OpenAI",
+            "谷歌云",
+            "合作"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "1Password的AI登录",
+          "summary": "AI代理帮你登录1Password",
+          "detail": "1Password推出新功能，让AI代理帮你登录个人账户，同时保护你的密码不被泄露。家人们，这下登录账户真的可以躺平了！",
+          "usage": "💡 聊密码管理时\n💬 1Password的AI代理帮你登录，这下真的可以躺平了！\n🔥 1Password AI 登录",
+          "source": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+          "tags": [
+            "1Password",
+            "AI",
+            "登录"
+          ]
+        },
+        {
+          "title": "ChatGPT Ads扩展",
+          "summary": "ChatGPT Ads进入26国",
+          "detail": "ChatGPT Ads扩展到26个新国家，已有超过10万广告商使用该平台。家人们，ChatGPT这是要成为全球广告新宠了！",
+          "usage": "💡 聊广告平台时\n💬 ChatGPT Ads扩展到26国，全球广告新宠来了！\n🔥 ChatGPT Ads 广告",
+          "source": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "tags": [
+            "ChatGPT",
+            "Ads",
+            "广告"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "星辰模型开源",
+          "summary": "星辰4.0-29B-Intent开源",
+          "detail": "中电信AI实验室发布的星辰意图理解专用模型Xing4.0-29B-Intent正式开源。家人们，开源AI模型又添一员猛将！",
+          "usage": "💡 聊开源模型时\n💬 星辰4.0-29B-Intent开源，开源AI模型又添一员猛将！\n🔥 星辰 开源 意图理解",
+          "source": "https://www.qbitai.com/2026/10/504832.html",
+          "tags": [
+            "星辰",
+            "开源",
+            "意图理解"
+          ]
+        },
+        {
+          "title": "生数科技直播训练",
+          "summary": "Motubrain 2.0训练直播",
+          "detail": "生数科技Motubrain团队开启Motubrain 2.0训练全流程公开直播，持续半个月。家人们，AI训练过程也可以全程围观了！",
+          "usage": "💡 聊AI训练时\n💬 Motubrain 2.0训练全流程直播，AI训练过程全程围观！\n🔥 生数科技 Motubrain 训练",
+          "source": "https://www.qbitai.com/2026/10/504730.html",
+          "tags": [
+            "生数科技",
+            "Motubrain",
+            "训练"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "清华AIR医疗AI",
+          "summary": "医生AI分身“坐诊”医院",
+          "detail": "清华AIR孵化项目，医生AI分身“坐诊”医院，多智能体协同重构医疗AI。家人们，AI医生真的要上岗了！",
+          "usage": "💡 聊医疗AI时\n💬 清华AIR的AI医生分身“坐诊”医院，AI医生真的要上岗了！\n🔥 清华AIR 医疗AI 分身",
+          "source": "https://www.qbitai.com/2026/10/504734.html",
+          "tags": [
+            "清华AIR",
+            "医疗AI",
+            "分身"
+          ]
+        },
+        {
+          "title": "LeCun的世界模型",
+          "summary": "清华系公司领先LeCun",
+          "detail": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人，比LeCun相近工作早一年。家们人，中国AI研究又领先了！",
+          "usage": "💡 聊世界模型时\n💬 清华系公司领先LeCun，中国AI研究又领先了！\n🔥 LeCun 世界模型 清华系",
+          "source": "https://www.qbitai.com/2026/10/504653.html",
+          "tags": [
+            "LeCun",
+            "世界模型",
+            "清华系"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "轻舟城市NOA",
+          "summary": "4个月9款车落地",
+          "detail": "轻舟城市NOA在4个月内落地9款车，击穿10-20万体验天花板。家人们，自动驾驶真的要普及了！",
+          "usage": "💡 聊自动驾驶时\n💬 轻舟城市NOA在4个月内落地9款车，自动驾驶真的要普及了！\n🔥 轻舟 城市NOA 自动驾驶",
+          "source": "https://www.qbitai.com/2026/10/504638.html",
+          "tags": [
+            "轻舟",
+            "城市NOA",
+            "自动驾驶"
+          ]
+        },
+        {
+          "title": "AT&T与OpenAI合作",
+          "summary": "AT&T重新思考法律工作",
+          "detail": "AT&T与OpenAI合作，重新思考内部法律工作，使法律知识更易获取。家人们，AI法律顾问真的要来了！",
+          "usage": "💡 聊AI法律应用时\n💬 AT&T与OpenAI合作，AI法律顾问真的要来了！\n🔥 AT&T OpenAI 法律",
+          "source": "https://openai.com/index/att-legal",
+          "tags": [
+            "AT&T",
+            "OpenAI",
+            "法律"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-23T01:54:46.748Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3561,
+    "completion_tokens": 2780,
+    "total_tokens": 6341,
+    "cost_usd": 0.0037763874,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "React 新架构",
+          "summary": "React 新架构 Fabric 发布",
+          "detail": "React 团队发布了新架构 Fabric，旨在提升性能并优化跨平台开发体验。新架构引入了更高效的渲染机制，特别是在移动端表现尤为突出。",
+          "usage": "你有没有看 React 新架构 Fabric 的发布？听说性能提升了不少，特别是在移动端，感觉以后开发 App 会更顺手了。",
+          "source": "",
+          "tags": [
+            "React",
+            "性能优化"
+          ]
+        },
+        {
+          "title": "Vue 4.0 发布",
+          "summary": "Vue 4.0 正式发布",
+          "detail": "Vue 4.0 正式发布，带来了全新的 Composition API 和更好的 TypeScript 支持。这一版本在性能和开发体验上都有显著提升。",
+          "usage": "Vue 4.0 终于发布了，Composition API 和 TypeScript 支持都做了很大的改进，你觉得这次更新怎么样？",
+          "source": "",
+          "tags": [
+            "Vue",
+            "TypeScript"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN 新架构",
+          "summary": "React Native 新架构发布",
+          "detail": "React Native 新架构 Fabric 和 TurboModules 正式发布，旨在提升性能和开发体验。新架构引入了更高效的渲染机制和模块加载方式。",
+          "usage": "React Native 新架构发布了，Fabric 和 TurboModules 感觉会让性能提升不少，你有没有开始尝试新架构？",
+          "source": "",
+          "tags": [
+            "React Native",
+            "性能优化"
+          ]
+        },
+        {
+          "title": "跨端方案",
+          "summary": "React Native 跨端方案更新",
+          "detail": "React Native 最新的跨端方案引入了更灵活的组件共享机制，使得代码复用率显著提升，特别是在多平台开发中表现尤为突出。",
+          "usage": "React Native 的跨端方案更新了，听说现在代码复用率更高了，你觉得这会对我们现有的项目有什么影响吗？",
+          "source": "",
+          "tags": [
+            "React Native",
+            "跨端"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "AI 编程助手",
+          "summary": "AI 编程助手 Cursor 发布",
+          "detail": "AI 编程助手 Cursor 正式发布，支持多种编程语言，能够自动生成代码片段并提供智能提示，极大提高了开发效率。",
+          "usage": "你有没有试过新的 AI 编程助手 Cursor？听说它支持多种语言，代码生成和智能提示功能还挺强大的，感觉能省不少时间。",
+          "source": "",
+          "tags": [
+            "AI",
+            "编程助手"
+          ]
+        },
+        {
+          "title": "AI 生成UI",
+          "summary": "AI 生成UI工具发布",
+          "detail": "最新的 AI 生成UI工具能够根据设计稿自动生成前端代码，大大减少了设计师和开发者的沟通成本，提升了开发效率。",
+          "usage": "AI 生成UI工具发布了，听说可以根据设计稿自动生成前端代码，你觉得这会对我们的工作流程有多大影响？",
+          "source": "",
+          "tags": [
+            "AI",
+            "UI生成"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "TypeScript 5.0",
+          "summary": "TypeScript 5.0 发布",
+          "detail": "TypeScript 5.0 正式发布，带来了全新的装饰器语法和更好的模块解析机制，提升了开发体验和代码可维护性。",
+          "usage": "TypeScript 5.0 发布了，新的装饰器语法和模块解析机制感觉会有很大改进，你有没有开始尝试新版本？",
+          "source": "",
+          "tags": [
+            "TypeScript",
+            "新特性"
+          ]
+        },
+        {
+          "title": "JS 新提案",
+          "summary": "JS 新提案通过",
+          "detail": "最新的 JavaScript 提案通过了，引入了全新的类字段声明语法和更高效的内存管理机制，预计将在未来的 ECMAScript 标准中正式发布。",
+          "usage": "JS 新提案通过了，新的类字段声明语法和内存管理机制感觉会很有用，你觉得这些新特性会对我们现有的项目有什么影响吗？",
+          "source": "",
+          "tags": [
+            "JavaScript",
+            "新提案"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "Ponytail",
+          "summary": "AI 代理懒人工具",
+          "detail": "Ponytail 是一个让 AI 代理像最懒的高级开发者一样思考的工具，目标是写出最少的代码。该项目在 GitHub 上迅速走红。",
+          "usage": "你有没有看到 Ponytail 这个项目？它让 AI 代理像最懒的高级开发者一样思考，目标是写出最少的代码，感觉很有趣。",
+          "source": "https://github.com/DietrichGebert/ponytail",
+          "tags": [
+            "AI",
+            "懒人工具"
+          ]
+        },
+        {
+          "title": "Supabase",
+          "summary": "Postgres 开发平台",
+          "detail": "Supabase 是一个为开发者提供的 Postgres 开发平台，支持 Web、移动和 AI 应用的开发。该项目在 GitHub 上受到了广泛关注。",
+          "usage": "Supabase 这个 Postgres 开发平台最近挺火的，听说支持 Web、移动和 AI 应用的开发，你觉得它和 Firebase 比怎么样？",
+          "source": "https://github.com/supabase/supabase",
+          "tags": [
+            "Postgres",
+            "开发平台"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "AI 代码困惑",
+          "summary": "AI 生成代码的理解难题",
+          "detail": "开发者们在 Hacker News 上讨论了如何处理 AI 生成的代码，特别是当代码难以理解时的应对策略。",
+          "usage": "你有没有看到 Hacker News 上关于 AI 生成代码的讨论？很多人在讨论如何处理那些难以理解的代码，感觉这是一个普遍问题。",
+          "source": "https://news.ycombinator.com/item?id=50151036",
+          "tags": [
+            "AI",
+            "代码困惑"
+          ]
+        },
+        {
+          "title": "PHP RCE 事件",
+          "summary": "PHP RCE 漏洞曝光",
+          "detail": "开发者 unknowingly 打破了 PHP RCE 的 embargo，引发了广泛讨论。事件暴露了 PHP 的安全性问题。",
+          "usage": "你有没有看到 PHP RCE 漏洞的讨论？有人在 unknowingly 打破了 embargo，引发了广泛讨论，感觉 PHP 的安全性又成了热点话题。",
+          "source": "https://news.ycombinator.com/item?id=50193416",
+          "tags": [
+            "PHP",
+            "安全漏洞"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-23T01:48:32.909Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2043,
+    "completion_tokens": 1603,
+    "total_tokens": 3646,
+    "cost_usd": 0.0021748743,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 9,
+        "juejin": 10,
+        "github": 9,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}

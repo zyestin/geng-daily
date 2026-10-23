@@ -1,0 +1,198 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "iPhone限购",
+          "summary": "iPhone Duo每人限购2部",
+          "detail": "苹果新款iPhone Duo今日正式开售，但每人限购2部，黄牛们恐怕要哭了。这次苹果明显是为了防止黄牛囤货，但消费者也表示不解：为啥不能多买几部送人？",
+          "usage": "💡 同事聊新手机 \n 💬 iPhone Duo限购2部，黄牛凉凉 \n 🔥 iPhone Duo 限购 黄牛",
+          "source": "https://www.toutiao.com/trending/7699646244972400179/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699646244972400179%22%2C%22hot_board_impr_id%22%3A%22202610230948347CA6BC55DC7B98F2C826%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22iPhone+Duo%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%94%AE+%E6%AF%8F%E4%BA%BA%E9%99%90%E8%B4%AD2%E9%83%A8%22%7D&rank=&style_id=40132&topic_id=7699646244972400179",
+          "tags": [
+            "iPhone",
+            "限购",
+            "黄牛"
+          ]
+        },
+        {
+          "title": "西藏地震",
+          "summary": "西藏7.0级地震已致16死",
+          "detail": "西藏那曲发生7.0级地震，已致16人死亡，54人受伤。救援工作正在紧张进行中，全国各地的救援队伍已陆续抵达灾区。",
+          "usage": "💡 同事聊时事 \n 💬 西藏地震已致16死，救援进行中 \n 🔥 西藏地震 救援 伤亡",
+          "source": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E9%82%A3%E6%9B%B2%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B416%E6%AD%BB54%E4%BC%A4&sa=fyb_news",
+          "tags": [
+            "西藏",
+            "地震",
+            "救援"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "马斯克发推",
+          "summary": "马斯克吐槽AI盗版",
+          "detail": "马斯克发推吐槽AI盗版软件泛滥，称这是对原创者的极大不尊重。他还呼吁开发者们加强对AI技术的保护，防止被盗版。",
+          "usage": "💡 同事聊AI \n 💬 马斯克吐槽AI盗版，开发者要小心 \n 🔥 马斯克 AI 盗版",
+          "source": "https://www.huxiu.com/article/4899489.html?f=rss",
+          "tags": [
+            "马斯克",
+            "AI",
+            "盗版"
+          ]
+        },
+        {
+          "title": "黄仁勋演讲",
+          "summary": "黄仁勋谈芯片未来",
+          "detail": "NVIDIA CEO黄仁勋在2026金融街论坛年会上发表演讲，谈到芯片技术的未来发展趋势，强调了AI芯片的重要性。",
+          "usage": "💡 同事聊芯片 \n 💬 黄仁勋谈芯片未来，AI芯片是关键 \n 🔥 黄仁勋 芯片 AI",
+          "source": "https://www.huxiu.com/article/4899761.html?f=rss",
+          "tags": [
+            "黄仁勋",
+            "芯片",
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "奥迪换帅",
+          "summary": "奥迪中国新总裁上任",
+          "detail": "奥迪中国宣布新总裁上任，这是五年内的第三任总裁。奥迪电动化进程缓慢，新总裁能否带领奥迪走出困境，值得关注。",
+          "usage": "💡 同事聊汽车 \n 💬 奥迪中国又换总裁，电动化路在何方？ \n 🔥 奥迪 总裁 电动化",
+          "source": "https://www.huxiu.com/article/4899785.html?f=rss",
+          "tags": [
+            "奥迪",
+            "总裁",
+            "电动化"
+          ]
+        },
+        {
+          "title": "可口可乐新品",
+          "summary": "可口可乐推黄精可乐",
+          "detail": "可口可乐与武当山联名推出黄精可乐，仅在武当山线下门店发售，三天内售罄。网友们纷纷调侃：这是要给可乐加点“仙气”？",
+          "usage": "💡 同事聊新品 \n 💬 可口可乐推黄精可乐，网友：仙气满满 \n 🔥 可口可乐 黄精 新品",
+          "source": "https://www.huxiu.com/article/4899777.html?f=rss",
+          "tags": [
+            "可口可乐",
+            "黄精",
+            "新品"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "奥迪裁员",
+          "summary": "奥迪中国裁员500人",
+          "detail": "奥迪中国宣布裁员500人，主要涉及销售和市场部门。这是奥迪电动化转型的一部分，但员工们表示不理解：电动化不是应该增员吗？",
+          "usage": "💡 同事聊裁员 \n 💬 奥迪中国裁员500人，电动化转型代价 \n 🔥 奥迪 裁员 电动化",
+          "source": "https://www.huxiu.com/article/4899785.html?f=rss",
+          "tags": [
+            "奥迪",
+            "裁员",
+            "电动化"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "iPhone Duo",
+          "summary": "iPhone Duo正式开售",
+          "detail": "苹果新款iPhone Duo今日正式开售，主打双屏设计，每人限购2部。虽然设计创新，但消费者对价格表示不满：双屏就要卖这么贵？",
+          "usage": "💡 同事聊新手机 \n 💬 iPhone Duo今天开售，双屏设计但贵得离谱 \n 🔥 iPhone Duo 双屏 限购",
+          "source": "https://www.toutiao.com/trending/7699646244972400179/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699646244972400179%22%2C%22hot_board_impr_id%22%3A%22202610230948347CA6BC55DC7B98F2C826%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22iPhone+Duo%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%94%AE+%E6%AF%8F%E4%BA%BA%E9%99%90%E8%B4%AD2%E9%83%A8%22%7D&rank=&style_id=40132&topic_id=7699646244972400179",
+          "tags": [
+            "iPhone Duo",
+            "双屏",
+            "限购"
+          ]
+        },
+        {
+          "title": "飞行滑板",
+          "summary": "手搓飞行滑板走红",
+          "detail": "一名男生手搓飞行滑板走红网络，但他回应假飞传闻称：“我只是想让大家看到科技的无限可能。”网友纷纷表示：这才是真正的技术宅！",
+          "usage": "💡 同事聊黑科技 \n 💬 手搓飞行滑板走红，技术宅的浪漫 \n 🔥 飞行滑板 技术宅 黑科技",
+          "source": "https://m.baidu.com/s?word=%E6%89%8B%E6%90%93%E9%A3%9E%E8%A1%8C%E6%BB%91%E6%9D%BF%E8%B5%B0%E7%BA%A2%E7%94%B7%E7%94%9F%E5%9B%9E%E5%BA%94%E5%81%87%E9%A3%9E%E4%BC%A0%E9%97%BB&sa=fyb_news",
+          "tags": [
+            "飞行滑板",
+            "技术宅",
+            "黑科技"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "融资翻盘",
+          "summary": "茶百道IPO被暂停",
+          "detail": "茶百道IPO因涉嫌操纵被香港证监会暂停，创始人表示将全力配合调查。这次事件引发了资本市场的广泛关注。",
+          "usage": "💡 同事聊创业 \n 💬 茶百道IPO被暂停，创始人表态配合调查 \n 🔥 茶百道 IPO 暂停",
+          "source": "https://www.huxiu.com/article/4899782.html?f=rss",
+          "tags": [
+            "茶百道",
+            "IPO",
+            "暂停"
+          ]
+        },
+        {
+          "title": "创始人恩怨",
+          "summary": "扬子江药业争议",
+          "detail": "扬子江药业因蓝芩喉糖配料表争议陷入舆论风波，创始人表示将重新审视产品定位。网友调侃：这不是不懂，是装不懂。",
+          "usage": "💡 同事聊品牌 \n 💬 扬子江药业争议，创始人表态重新审视 \n 🔥 扬子江药业 蓝芩 争议",
+          "source": "https://www.huxiu.com/article/4899776.html?f=rss",
+          "tags": [
+            "扬子江药业",
+            "蓝芩",
+            "争议"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-23T01:53:13.911Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 4975,
+    "completion_tokens": 3314,
+    "total_tokens": 8289,
+    "cost_usd": 0.0046896768000000005,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 5,
+      "published": 11
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 12,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 20
+    }
+  }
+}
