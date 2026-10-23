@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "name": "土味情话",
+      "icon": "😘",
+      "items": [
+        {
+          "title": "西藏地震",
+          "summary": "西藏地震情话",
+          "detail": "西藏巴青地震，你可以跟媳妇说：'西藏地震了，我的心也被你震得七上八下。'",
+          "usage": "💡 她提到地震时\n💬 西藏地震了，我的心也被你震得七上八下。\n🔥 西藏 地震 七上八下",
+          "source": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E5%B7%B4%E9%9D%92%E5%9C%B0%E9%9C%87%E4%B8%BA%E4%B8%80%E6%AC%A1%E6%8B%89%E5%BC%A0%E5%9E%8B%E7%A0%B4%E8%A3%82&sa=fyb_news",
+          "tags": [
+            "西藏",
+            "地震",
+            "七上八下"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-23T14:31:33.403Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3027,
+    "completion_tokens": 2532,
+    "total_tokens": 5559,
+    "cost_usd": 0.0033838182,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 15,
+      "published": 1
+    },
+    "sources": {
+      "per_source": {
+        "baidu": 20
+      },
+      "total": 15
+    }
+  }
+}

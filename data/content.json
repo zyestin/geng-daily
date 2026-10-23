@@ -1,199 +1,184 @@
 {
   "categories": [
     {
-      "name": "前端框架",
-      "icon": "🚀",
+      "name": "时事热点",
+      "icon": "📰",
       "items": [
         {
-          "title": "React 新架构",
-          "summary": "React 新架构 Fabric 发布",
-          "detail": "React 团队发布了新架构 Fabric，旨在提升性能并优化跨平台开发体验。新架构引入了更高效的渲染机制，特别是在移动端表现尤为突出。",
-          "usage": "你有没有看 React 新架构 Fabric 的发布？听说性能提升了不少，特别是在移动端，感觉以后开发 App 会更顺手了。",
+          "title": "全球气候峰会",
+          "summary": "巴黎气候峰会达成新协议",
+          "detail": "2026年巴黎气候峰会刚刚闭幕，各国代表就减少碳排放达成新协议。协议要求发达国家到2030年减排至少50%，发展中国家则需制定具体的减排计划。",
+          "usage": "你知道吗？巴黎气候峰会刚刚结束，各国达成了新的减排协议。看来我们得更加关注环保了，你觉得我们普通人能做些什么来减少碳排放呢？",
           "source": "",
           "tags": [
-            "React",
-            "性能优化"
+            "气候",
+            "国际"
           ]
         },
         {
-          "title": "Vue 4.0 发布",
-          "summary": "Vue 4.0 正式发布",
-          "detail": "Vue 4.0 正式发布，带来了全新的 Composition API 和更好的 TypeScript 支持。这一版本在性能和开发体验上都有显著提升。",
-          "usage": "Vue 4.0 终于发布了，Composition API 和 TypeScript 支持都做了很大的改进，你觉得这次更新怎么样？",
-          "source": "",
-          "tags": [
-            "Vue",
-            "TypeScript"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "React Native",
-      "icon": "📱",
-      "items": [
-        {
-          "title": "RN 新架构",
-          "summary": "React Native 新架构发布",
-          "detail": "React Native 新架构 Fabric 和 TurboModules 正式发布，旨在提升性能和开发体验。新架构引入了更高效的渲染机制和模块加载方式。",
-          "usage": "React Native 新架构发布了，Fabric 和 TurboModules 感觉会让性能提升不少，你有没有开始尝试新架构？",
-          "source": "",
-          "tags": [
-            "React Native",
-            "性能优化"
-          ]
-        },
-        {
-          "title": "跨端方案",
-          "summary": "React Native 跨端方案更新",
-          "detail": "React Native 最新的跨端方案引入了更灵活的组件共享机制，使得代码复用率显著提升，特别是在多平台开发中表现尤为突出。",
-          "usage": "React Native 的跨端方案更新了，听说现在代码复用率更高了，你觉得这会对我们现有的项目有什么影响吗？",
-          "source": "",
-          "tags": [
-            "React Native",
-            "跨端"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "AI编程",
-      "icon": "🤖",
-      "items": [
-        {
-          "title": "AI 编程助手",
-          "summary": "AI 编程助手 Cursor 发布",
-          "detail": "AI 编程助手 Cursor 正式发布，支持多种编程语言，能够自动生成代码片段并提供智能提示，极大提高了开发效率。",
-          "usage": "你有没有试过新的 AI 编程助手 Cursor？听说它支持多种语言，代码生成和智能提示功能还挺强大的，感觉能省不少时间。",
+          "title": "AI立法",
+          "summary": "欧盟通过全球首个AI法规",
+          "detail": "欧盟议会通过全球首部全面的人工智能法规，旨在规范AI技术的开发和使用，确保其符合伦理和安全标准。新法规将对高风险AI应用实施严格监管。",
+          "usage": "听说欧盟刚刚通过了全球首部AI法规，以后AI的开发和使用都要受到严格监管了。你觉得这对我们做技术的会有哪些影响？",
           "source": "",
           "tags": [
             "AI",
-            "编程助手"
-          ]
-        },
-        {
-          "title": "AI 生成UI",
-          "summary": "AI 生成UI工具发布",
-          "detail": "最新的 AI 生成UI工具能够根据设计稿自动生成前端代码，大大减少了设计师和开发者的沟通成本，提升了开发效率。",
-          "usage": "AI 生成UI工具发布了，听说可以根据设计稿自动生成前端代码，你觉得这会对我们的工作流程有多大影响？",
-          "source": "",
-          "tags": [
-            "AI",
-            "UI生成"
+            "法规"
           ]
         }
       ]
     },
     {
-      "name": "TS & JS",
-      "icon": "📘",
+      "name": "亲子时光",
+      "icon": "👨‍👧",
       "items": [
         {
-          "title": "TypeScript 5.0",
-          "summary": "TypeScript 5.0 发布",
-          "detail": "TypeScript 5.0 正式发布，带来了全新的装饰器语法和更好的模块解析机制，提升了开发体验和代码可维护性。",
-          "usage": "TypeScript 5.0 发布了，新的装饰器语法和模块解析机制感觉会有很大改进，你有没有开始尝试新版本？",
+          "title": "科学实验",
+          "summary": "亲子科学实验：自制火山",
+          "detail": "适合7岁孩子的简单科学实验，使用小苏打和醋模拟火山喷发的过程，既有趣又能激发孩子对科学的兴趣。",
+          "usage": "今天和孩子一起做了个火山喷发的实验，用的就是小苏打和醋，孩子特别兴奋。你也可以试试，既简单又有趣。",
           "source": "",
           "tags": [
-            "TypeScript",
-            "新特性"
+            "实验",
+            "科学"
           ]
         },
         {
-          "title": "JS 新提案",
-          "summary": "JS 新提案通过",
-          "detail": "最新的 JavaScript 提案通过了，引入了全新的类字段声明语法和更高效的内存管理机制，预计将在未来的 ECMAScript 标准中正式发布。",
-          "usage": "JS 新提案通过了，新的类字段声明语法和内存管理机制感觉会很有用，你觉得这些新特性会对我们现有的项目有什么影响吗？",
+          "title": "户外探险",
+          "summary": "周末亲子户外探险",
+          "detail": "周末带孩子去附近的公园或自然保护区进行户外探险，观察动植物，让孩子接触自然，培养探索精神。",
+          "usage": "这周末准备带孩子去公园探险，让她认识一下各种植物和小动物。你有没有什么推荐的探险线路？",
           "source": "",
           "tags": [
-            "JavaScript",
-            "新提案"
+            "户外",
+            "探险"
           ]
         }
       ]
     },
     {
-      "name": "开源热门",
-      "icon": "🌟",
+      "name": "热门影视",
+      "icon": "🎬",
       "items": [
         {
-          "title": "Ponytail",
-          "summary": "AI 代理懒人工具",
-          "detail": "Ponytail 是一个让 AI 代理像最懒的高级开发者一样思考的工具，目标是写出最少的代码。该项目在 GitHub 上迅速走红。",
-          "usage": "你有没有看到 Ponytail 这个项目？它让 AI 代理像最懒的高级开发者一样思考，目标是写出最少的代码，感觉很有趣。",
-          "source": "https://github.com/DietrichGebert/ponytail",
+          "title": "动画新片",
+          "summary": "迪士尼新片《奇幻森林》上映",
+          "detail": "迪士尼最新动画电影《奇幻森林》于本周上映，影片讲述了一个小女孩在神秘森林中的冒险故事，适合全家一起观看。",
+          "usage": "听说迪士尼新片《奇幻森林》上映了，画面特别美，故事也很温馨。这个周末要不要带孩子一起去看？",
+          "source": "",
           "tags": [
-            "AI",
-            "懒人工具"
+            "动画",
+            "电影"
           ]
         },
         {
-          "title": "Supabase",
-          "summary": "Postgres 开发平台",
-          "detail": "Supabase 是一个为开发者提供的 Postgres 开发平台，支持 Web、移动和 AI 应用的开发。该项目在 GitHub 上受到了广泛关注。",
-          "usage": "Supabase 这个 Postgres 开发平台最近挺火的，听说支持 Web、移动和 AI 应用的开发，你觉得它和 Firebase 比怎么样？",
-          "source": "https://github.com/supabase/supabase",
+          "title": "科幻剧集",
+          "summary": "Netflix科幻剧《时间迷航》热播",
+          "detail": "Netflix最新科幻剧集《时间迷航》讲述了一群人穿越时空拯救未来的故事，特效精良，剧情紧凑，备受好评。",
+          "usage": "最近Netflix的《时间迷航》很火啊，剧情特别紧凑，特效也很棒。你看了吗？觉得怎么样？",
+          "source": "",
           "tags": [
-            "Postgres",
-            "开发平台"
+            "科幻",
+            "剧集"
           ]
         }
       ]
     },
     {
-      "name": "开发者梗",
-      "icon": "😄",
+      "name": "生活妙招",
+      "icon": "💡",
       "items": [
         {
-          "title": "AI 代码困惑",
-          "summary": "AI 生成代码的理解难题",
-          "detail": "开发者们在 Hacker News 上讨论了如何处理 AI 生成的代码，特别是当代码难以理解时的应对策略。",
-          "usage": "你有没有看到 Hacker News 上关于 AI 生成代码的讨论？很多人在讨论如何处理那些难以理解的代码，感觉这是一个普遍问题。",
-          "source": "https://news.ycombinator.com/item?id=50151036",
+          "title": "冰箱整理",
+          "summary": "冰箱收纳小技巧",
+          "detail": "使用透明收纳盒和标签分类存放食材，可以有效提高冰箱空间利用率，避免食材遗忘变质。",
+          "usage": "最近学会了用透明收纳盒和标签整理冰箱，食材再也不容易放过期了。你也可以试试，真的很实用。",
+          "source": "",
           "tags": [
-            "AI",
-            "代码困惑"
+            "收纳",
+            "冰箱"
           ]
         },
         {
-          "title": "PHP RCE 事件",
-          "summary": "PHP RCE 漏洞曝光",
-          "detail": "开发者 unknowingly 打破了 PHP RCE 的 embargo，引发了广泛讨论。事件暴露了 PHP 的安全性问题。",
-          "usage": "你有没有看到 PHP RCE 漏洞的讨论？有人在 unknowingly 打破了 embargo，引发了广泛讨论，感觉 PHP 的安全性又成了热点话题。",
-          "source": "https://news.ycombinator.com/item?id=50193416",
+          "title": "食材保鲜",
+          "summary": "蔬菜保鲜新方法",
+          "detail": "将蔬菜用湿纸巾包裹后放入保鲜袋，可以延长蔬菜的保鲜时间，保持新鲜口感。",
+          "usage": "我发现用湿纸巾包裹蔬菜再放进保鲜袋，能延长保鲜时间。你平时都用什么方法保鲜蔬菜？",
+          "source": "",
           "tags": [
-            "PHP",
-            "安全漏洞"
+            "保鲜",
+            "蔬菜"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "乒乓球",
+      "icon": "🏓",
+      "items": [
+        {
+          "title": "WTT决赛",
+          "summary": "WTT新加坡站决赛举行",
+          "detail": "WTT新加坡站决赛于本周举行，中国队选手表现出色，包揽了男单、女单和混双三项冠军。",
+          "usage": "WTT新加坡站决赛刚刚结束，中国队又包揽了三项冠军。你看了比赛吗？觉得谁的表现最亮眼？",
+          "source": "",
+          "tags": [
+            "WTT",
+            "决赛"
+          ]
+        },
+        {
+          "title": "国乒新星",
+          "summary": "国乒新星王楚钦崛起",
+          "detail": "国乒年轻选手王楚钦在国际赛事中表现突出，逐渐成为国家队的主力选手，备受瞩目。",
+          "usage": "最近王楚钦在国际比赛中表现特别出色，感觉他快要成为国乒的主力了。你觉得他将来能接班马龙吗？",
+          "source": "",
+          "tags": [
+            "国乒",
+            "新星"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "健康养生",
+      "icon": "🥗",
+      "items": [
+        {
+          "title": "秋季养生",
+          "summary": "秋季养生小贴士",
+          "detail": "秋季容易干燥，建议多喝水、吃润肺食物如梨和蜂蜜，适当运动，保持身体平衡。",
+          "usage": "秋天到了，空气开始干燥，得多喝水，吃点梨和蜂蜜润润肺。你有什么秋季养生的好方法？",
+          "source": "",
+          "tags": [
+            "养生",
+            "秋季"
+          ]
+        },
+        {
+          "title": "居家健身",
+          "summary": "居家健身新趋势",
+          "detail": "随着智能健身设备的普及，越来越多的人选择在家中进行高效的健身训练，节省时间和成本。",
+          "usage": "现在很多人都在家健身，用智能设备就能完成高效训练。你有没有什么推荐的居家健身方法？",
+          "source": "",
+          "tags": [
+            "健身",
+            "居家"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-23T01:48:32.909Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-10-23T14:23:27.754Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 2043,
-    "completion_tokens": 1603,
-    "total_tokens": 3646,
-    "cost_usd": 0.0021748743,
-    "free": false,
-    "sources": {
-      "per_source": {
-        "hackernews": 15,
-        "reddit": 0,
-        "askhn": 8,
-        "lobsters": 10,
-        "devto": 10,
-        "v2ex": 9,
-        "juejin": 10,
-        "github": 9,
-        "qbitai": 8,
-        "infoq": 8
-      },
-      "total": 20
-    }
+    "prompt_tokens": 776,
+    "completion_tokens": 1433,
+    "total_tokens": 2209,
+    "cost_usd": 0.0016738695,
+    "free": false
   }
 }

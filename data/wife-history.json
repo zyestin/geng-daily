@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "key": "2026-10-23-wife-weekday-evening",
+      "date": "2026-10-23",
+      "slot": "wife-weekday-evening",
+      "slot_label": "工作日傍晚 · 生活时光",
+      "generated_at": "2026-10-23T14:31:33.403Z",
+      "weekday": "星期五",
+      "file": "archive/2026-10-23-wife-weekday-evening.json",
+      "topic_count": 1,
+      "category_names": [
+        "土味情话"
+      ]
+    },
+    {
       "key": "2026-10-22-wife-weekday-evening",
       "date": "2026-10-22",
       "slot": "wife-weekday-evening",
@@ -1065,5 +1078,5 @@
       ]
     }
   ],
-  "updated_at": "2026-10-22T14:46:42.219Z"
+  "updated_at": "2026-10-23T14:31:33.410Z"
 }

@@ -5,27 +5,27 @@
       "icon": "📰",
       "items": [
         {
-          "title": "iPhone限购",
-          "summary": "iPhone Duo每人限购2部",
-          "detail": "苹果新款iPhone Duo今日正式开售，但每人限购2部，黄牛们恐怕要哭了。这次苹果明显是为了防止黄牛囤货，但消费者也表示不解：为啥不能多买几部送人？",
-          "usage": "💡 同事聊新手机 \n 💬 iPhone Duo限购2部，黄牛凉凉 \n 🔥 iPhone Duo 限购 黄牛",
-          "source": "https://www.toutiao.com/trending/7699646244972400179/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699646244972400179%22%2C%22hot_board_impr_id%22%3A%22202610230948347CA6BC55DC7B98F2C826%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22iPhone+Duo%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%94%AE+%E6%AF%8F%E4%BA%BA%E9%99%90%E8%B4%AD2%E9%83%A8%22%7D&rank=&style_id=40132&topic_id=7699646244972400179",
+          "title": "双11快递大变革",
+          "summary": "AI助力双11，快递服务全面升级。",
+          "detail": "2026年10月23日，随着双11的到来，快递行业迎来了AI全面上岗的时代。今年的快递不仅速度更快，服务也更智能，消费者可以通过智能助手更便捷地选择服务。快递员从繁重的操作中解放出来，焦虑的消费者们则期待着更愉快的购物体验。家人们，是否已经准备好迎接这个科技化的双11？",
+          "usage": "💡 双11期间提到快递时 \n💬 今年双11，快递全靠AI，够科技吧！ \n🔥 双11 AI 快递",
+          "source": "https://www.huxiu.com/article/4900034.html?f=rss",
           "tags": [
-            "iPhone",
-            "限购",
-            "黄牛"
+            "双11",
+            "快递",
+            "AI"
           ]
         },
         {
-          "title": "西藏地震",
-          "summary": "西藏7.0级地震已致16死",
-          "detail": "西藏那曲发生7.0级地震，已致16人死亡，54人受伤。救援工作正在紧张进行中，全国各地的救援队伍已陆续抵达灾区。",
-          "usage": "💡 同事聊时事 \n 💬 西藏地震已致16死，救援进行中 \n 🔥 西藏地震 救援 伤亡",
-          "source": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E9%82%A3%E6%9B%B2%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B416%E6%AD%BB54%E4%BC%A4&sa=fyb_news",
+          "title": "AI神曲爆红",
+          "summary": "外行用AI创作神曲，点击量突破亿。",
+          "detail": "10月22日晚，王琨喆用AI创作了一首神曲，居然得到了1.2亿点击量！这位音乐外行却凭借AI的强大能力创造出了让人惊艳的作品，瞬间让无数网友惊叹，原来AI可以这么好用！看来，未来的音乐市场要变天了，咱们的程序员也可以试试用代码写歌了！",
+          "usage": "💡 聊到AI时可以提起 \n💬 AI外行都能写神曲，咱们还等啥？ \n🔥 AI 音乐 点击量",
+          "source": "https://www.huxiu.com/article/4900035.html?f=rss",
           "tags": [
-            "西藏",
-            "地震",
-            "救援"
+            "AI",
+            "音乐",
+            "创作"
           ]
         }
       ]
@@ -35,57 +35,15 @@
       "icon": "🎤",
       "items": [
         {
-          "title": "马斯克发推",
-          "summary": "马斯克吐槽AI盗版",
-          "detail": "马斯克发推吐槽AI盗版软件泛滥，称这是对原创者的极大不尊重。他还呼吁开发者们加强对AI技术的保护，防止被盗版。",
-          "usage": "💡 同事聊AI \n 💬 马斯克吐槽AI盗版，开发者要小心 \n 🔥 马斯克 AI 盗版",
-          "source": "https://www.huxiu.com/article/4899489.html?f=rss",
+          "title": "马斯克语出惊人",
+          "summary": "马斯克称Optimus将在2027年交付。",
+          "detail": "在特斯拉的三季度财报电话会上，马斯克透露，Optimus人形机器人将于2027年开始交付。这一消息引发了科技圈的热议，大家都在猜测，马斯克到底能不能实现这个宏伟的目标。毕竟，大家对特斯拉的承诺已经见怪不怪了！马斯克的这番话，简直像是在给2027年预热！",
+          "usage": "💡 听到机器人话题时 \n💬 马斯克说Optimus等到2027年才能交付，期待吗？ \n🔥 特斯拉 马斯克 机器人",
+          "source": "https://www.huxiu.com/article/4900032.html?f=rss",
           "tags": [
             "马斯克",
-            "AI",
-            "盗版"
-          ]
-        },
-        {
-          "title": "黄仁勋演讲",
-          "summary": "黄仁勋谈芯片未来",
-          "detail": "NVIDIA CEO黄仁勋在2026金融街论坛年会上发表演讲，谈到芯片技术的未来发展趋势，强调了AI芯片的重要性。",
-          "usage": "💡 同事聊芯片 \n 💬 黄仁勋谈芯片未来，AI芯片是关键 \n 🔥 黄仁勋 芯片 AI",
-          "source": "https://www.huxiu.com/article/4899761.html?f=rss",
-          "tags": [
-            "黄仁勋",
-            "芯片",
-            "AI"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "巨头动向",
-      "icon": "🏢",
-      "items": [
-        {
-          "title": "奥迪换帅",
-          "summary": "奥迪中国新总裁上任",
-          "detail": "奥迪中国宣布新总裁上任，这是五年内的第三任总裁。奥迪电动化进程缓慢，新总裁能否带领奥迪走出困境，值得关注。",
-          "usage": "💡 同事聊汽车 \n 💬 奥迪中国又换总裁，电动化路在何方？ \n 🔥 奥迪 总裁 电动化",
-          "source": "https://www.huxiu.com/article/4899785.html?f=rss",
-          "tags": [
-            "奥迪",
-            "总裁",
-            "电动化"
-          ]
-        },
-        {
-          "title": "可口可乐新品",
-          "summary": "可口可乐推黄精可乐",
-          "detail": "可口可乐与武当山联名推出黄精可乐，仅在武当山线下门店发售，三天内售罄。网友们纷纷调侃：这是要给可乐加点“仙气”？",
-          "usage": "💡 同事聊新品 \n 💬 可口可乐推黄精可乐，网友：仙气满满 \n 🔥 可口可乐 黄精 新品",
-          "source": "https://www.huxiu.com/article/4899777.html?f=rss",
-          "tags": [
-            "可口可乐",
-            "黄精",
-            "新品"
+            "特斯拉",
+            "机器人"
           ]
         }
       ]
@@ -95,95 +53,47 @@
       "icon": "🔀",
       "items": [
         {
-          "title": "奥迪裁员",
-          "summary": "奥迪中国裁员500人",
-          "detail": "奥迪中国宣布裁员500人，主要涉及销售和市场部门。这是奥迪电动化转型的一部分，但员工们表示不理解：电动化不是应该增员吗？",
-          "usage": "💡 同事聊裁员 \n 💬 奥迪中国裁员500人，电动化转型代价 \n 🔥 奥迪 裁员 电动化",
-          "source": "https://www.huxiu.com/article/4899785.html?f=rss",
+          "title": "硅谷VC裁员潮",
+          "summary": "知名VC裁员，反映市场冷淡。",
+          "detail": "近日，硅谷一家知名VC宣布将在年末前裁员20%。这番操作引发了业界的广泛关注，大家都在揣测，这是在为即将到来的市场低迷做准备，还是在为下一轮的投资战略进行调整？不管怎么说，VC的裁员潮已经显现出硅谷投资的寒意，程序员们，准备好迎接挑战了吗？",
+          "usage": "💡 聊到投资时提到 \n💬 硅谷VC竟然裁员20%，市场真是越来越冷了。 \n🔥 VC 裁员 投资",
+          "source": "https://www.huxiu.com/article/4900028.html?f=rss",
           "tags": [
-            "奥迪",
-            "裁员",
-            "电动化"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "新品发布",
-      "icon": "📱",
-      "items": [
-        {
-          "title": "iPhone Duo",
-          "summary": "iPhone Duo正式开售",
-          "detail": "苹果新款iPhone Duo今日正式开售，主打双屏设计，每人限购2部。虽然设计创新，但消费者对价格表示不满：双屏就要卖这么贵？",
-          "usage": "💡 同事聊新手机 \n 💬 iPhone Duo今天开售，双屏设计但贵得离谱 \n 🔥 iPhone Duo 双屏 限购",
-          "source": "https://www.toutiao.com/trending/7699646244972400179/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699646244972400179%22%2C%22hot_board_impr_id%22%3A%22202610230948347CA6BC55DC7B98F2C826%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22iPhone+Duo%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%94%AE+%E6%AF%8F%E4%BA%BA%E9%99%90%E8%B4%AD2%E9%83%A8%22%7D&rank=&style_id=40132&topic_id=7699646244972400179",
-          "tags": [
-            "iPhone Duo",
-            "双屏",
-            "限购"
+            "投资",
+            "VC",
+            "裁员"
           ]
         },
         {
-          "title": "飞行滑板",
-          "summary": "手搓飞行滑板走红",
-          "detail": "一名男生手搓飞行滑板走红网络，但他回应假飞传闻称：“我只是想让大家看到科技的无限可能。”网友纷纷表示：这才是真正的技术宅！",
-          "usage": "💡 同事聊黑科技 \n 💬 手搓飞行滑板走红，技术宅的浪漫 \n 🔥 飞行滑板 技术宅 黑科技",
-          "source": "https://m.baidu.com/s?word=%E6%89%8B%E6%90%93%E9%A3%9E%E8%A1%8C%E6%BB%91%E6%9D%BF%E8%B5%B0%E7%BA%A2%E7%94%B7%E7%94%9F%E5%9B%9E%E5%BA%94%E5%81%87%E9%A3%9E%E4%BC%A0%E9%97%BB&sa=fyb_news",
+          "title": "娃哈哈掌门人辞职",
+          "summary": "娃哈哈新掌门辞职，企业动荡不安。",
+          "detail": "2026年10月，娃哈哈的90后掌门被曝辞职，企业面临动荡的局面。此事引发了广泛讨论，大家纷纷猜测背后的原因。是公司战略问题？还是个人原因？不管怎样，这一变动似乎预示着娃哈哈的未来会更加不确定！同事们，这可真是企业内斗的好剧本呀！",
+          "usage": "💡 聊到企业时可以聊 \n💬 娃哈哈掌门人辞职，未来真是难以预测啊。 \n🔥 娃哈哈 辞职 企业动荡",
+          "source": "https://m.baidu.com/s?word=90%E5%90%8E%E6%8E%8C%E9%97%A8%E8%A2%AB%E6%9B%9D%E8%BE%9E%E8%81%8C+%E5%A8%83%E5%93%88%E5%93%88%E4%B8%BA%E4%BD%95%E8%B5%B7%E5%8A%A8%E8%8D%A1&sa=fyb_news",
           "tags": [
-            "飞行滑板",
-            "技术宅",
-            "黑科技"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "创业大戏",
-      "icon": "🎬",
-      "items": [
-        {
-          "title": "融资翻盘",
-          "summary": "茶百道IPO被暂停",
-          "detail": "茶百道IPO因涉嫌操纵被香港证监会暂停，创始人表示将全力配合调查。这次事件引发了资本市场的广泛关注。",
-          "usage": "💡 同事聊创业 \n 💬 茶百道IPO被暂停，创始人表态配合调查 \n 🔥 茶百道 IPO 暂停",
-          "source": "https://www.huxiu.com/article/4899782.html?f=rss",
-          "tags": [
-            "茶百道",
-            "IPO",
-            "暂停"
-          ]
-        },
-        {
-          "title": "创始人恩怨",
-          "summary": "扬子江药业争议",
-          "detail": "扬子江药业因蓝芩喉糖配料表争议陷入舆论风波，创始人表示将重新审视产品定位。网友调侃：这不是不懂，是装不懂。",
-          "usage": "💡 同事聊品牌 \n 💬 扬子江药业争议，创始人表态重新审视 \n 🔥 扬子江药业 蓝芩 争议",
-          "source": "https://www.huxiu.com/article/4899776.html?f=rss",
-          "tags": [
-            "扬子江药业",
-            "蓝芩",
-            "争议"
+            "娃哈哈",
+            "辞职",
+            "企业动荡"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-23T01:53:13.911Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-10-23T14:36:27.433Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
-    "model": "deepseek/deepseek-chat",
-    "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 4975,
-    "completion_tokens": 3314,
-    "total_tokens": 8289,
-    "cost_usd": 0.0046896768000000005,
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 6107,
+    "completion_tokens": 3504,
+    "total_tokens": 9611,
+    "cost_usd": 0.0030184499999999998,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 5,
-      "published": 11
+      "dropped_orphans": 11,
+      "published": 5
     },
     "sources": {
       "per_source": {
@@ -192,7 +102,7 @@
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 20
+      "total": 23
     }
   }
 }
