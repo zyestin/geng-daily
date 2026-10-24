@@ -1,0 +1,265 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "苹果折叠屏黄牛哭了",
+          "summary": "首款折叠屏iPhone遇冷，黄牛亏本甩卖",
+          "detail": "苹果首款折叠屏iPhone发售首日，北京华贸中心店外的黄牛报价直接跳水。临近中午，有黄牛表示要亏本甩卖，原因是消费者对这款定价过高的新品并不买账。网友调侃：果粉的钱包终于学会了说No。",
+          "usage": "💡 同事讨论新手机时\n💬 苹果这次连黄牛都养不活了\n🔥 苹果 折叠屏 黄牛",
+          "source": "https://www.huxiu.com/article/4900045.html?f=rss",
+          "tags": [
+            "苹果",
+            "折叠屏",
+            "黄牛"
+          ]
+        },
+        {
+          "title": "大二生AI创业疑云",
+          "summary": "浙江大二学生AI创业两个月赚60万引争议",
+          "detail": "杭州电视台报道称浙江某大二学生通过AI创业两个月赚60万，引发网络热议。经查实，该学生实为某AI公司代理人，所谓创业实为推销已有产品。网友吐槽：现在连学生创业都要玩资本套路了？",
+          "usage": "💡 聊AI创业泡沫时\n💬 现在学生创业都要先学会PPT造假了\n🔥 AI创业 学生 造假",
+          "source": "https://www.huxiu.com/article/4900116.html?f=rss",
+          "tags": [
+            "AI",
+            "创业",
+            "造假"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "黄仁勋的AI豪赌",
+          "summary": "黄仁勋联合供应链开启AI产业链大扩产",
+          "detail": "NVIDIA CEO黄仁勋在GTC柏林大会宣布，将联合供应链伙伴开启AI产业链大扩产，涵盖CPO、基板等关键环节。业内人士调侃：老黄这是要把全世界的算力都包圆了。",
+          "usage": "💡 聊AI芯片时\n💬 老黄这是要当AI时代的石油大亨啊\n🔥 黄仁勋 AI 芯片",
+          "source": "https://www.huxiu.com/article/4900106.html?f=rss",
+          "tags": [
+            "黄仁勋",
+            "AI",
+            "NVIDIA"
+          ]
+        },
+        {
+          "title": "孙正义的违约保险",
+          "summary": "华尔街给软银买违约保险",
+          "detail": "孙正义持续押注AI的同时，软银5年期信用违约互换(CDS)价格飙升至432个基点，创2020年以来新高。华尔街已经开始为软银可能的违约买保险，网友戏称：孙正义的AI梦需要先买份保险。",
+          "usage": "💡 聊AI投资风险时\n💬 孙正义的AI梦值多少钱？保险公司的报价是432个基点\n🔥 孙正义 软银 AI",
+          "source": "https://www.huxiu.com/article/4900105.html?f=rss",
+          "tags": [
+            "孙正义",
+            "软银",
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "字节开启省钱模式",
+          "summary": "字节分批更换办公椅削减成本",
+          "detail": "字节跳动计划从今年8月至明年二季度，分批更换北京、上海等工区的办公椅。这被外界解读为大厂进入'纯过日子'时代的标志。网友吐槽：互联网寒冬，连椅子都要分期付款了。",
+          "usage": "💡 聊互联网寒冬时\n💬 字节的椅子都要分期换了，你们的工位还好吗？\n🔥 字节跳动 裁员 成本",
+          "source": "https://www.huxiu.com/article/4900109.html?f=rss",
+          "tags": [
+            "字节跳动",
+            "裁员",
+            "成本"
+          ]
+        },
+        {
+          "title": "大族激光AI丰收",
+          "summary": "大族系两家上市公司业绩狂飙",
+          "detail": "深圳装备大佬高云峰旗下的大族激光发布2026年三季报，前三季度营收利润双增长，主要得益于押中AI赛道。但股价较最高点仍腰斩，网友调侃：业绩好不如故事讲得好。",
+          "usage": "💡 聊上市公司财报时\n💬 大族激光的AI故事讲得不错，就是股价不太买账\n🔥 大族激光 AI 财报",
+          "source": "https://www.huxiu.com/article/4900102.html?f=rss",
+          "tags": [
+            "大族激光",
+            "AI",
+            "财报"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "储能行业大洗牌",
+          "summary": "1元/Wh价格战劈开储能行业",
+          "detail": "9月储能采招同比大增88%，但碳酸锂期货创年内新低，2小时储能EPC均价环比降15%。行业人士表示1元/Wh已成生死线，小厂商纷纷出局。网友吐槽：新能源也逃不过价格战的宿命。",
+          "usage": "💡 聊新能源行业时\n💬 1块钱一度电的时代来了，但厂商可能要饿死了\n🔥 储能 价格战 新能源",
+          "source": "https://www.huxiu.com/article/4900113.html?f=rss",
+          "tags": [
+            "储能",
+            "价格战",
+            "新能源"
+          ]
+        },
+        {
+          "title": "数据采集商寒冬",
+          "summary": "具身智能兴起冲击数据采集行业",
+          "detail": "随着具身智能兴起，机器人公司为融资制造假订单，数据采集行业陷入降价、转包困境。一位数据采集商坦言：'这门生意明年会是什么光景，还很难说。'网友戏称：AI要吃饭，数据采集商要喝西北风。",
+          "usage": "💡 聊AI数据行业时\n💬 AI越智能，数据民工越难混\n🔥 具身智能 数据采集 AI",
+          "source": "https://www.huxiu.com/article/4900108.html?f=rss",
+          "tags": [
+            "具身智能",
+            "数据采集",
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "AI打工人2.0",
+          "summary": "AI开始抢分析师饭碗",
+          "detail": "设想一位分析师正在赶报告，AI能自动完成数据归类、图表建议和初步结论。防冷涂的蜡在新书中预言，AI将重构白领工作方式。网友自嘲：以后上班就是给AI改错别字了。",
+          "usage": "💡 聊AI取代工作时\n💬 以后我们的工作就是给AI当校对员了\n🔥 AI 分析师 失业",
+          "source": "https://www.huxiu.com/article/4900115.html?f=rss",
+          "tags": [
+            "AI",
+            "职场",
+            "自动化"
+          ]
+        },
+        {
+          "title": "Personal Agent混战",
+          "summary": "Q4最热闹的AI领域开打",
+          "detail": "Personal Agent成为Q4最热闹的AI战场，Meta的Muse、OpenAI等巨头纷纷入局。海外独角兽分析称这是'最互联网'的AI命题。网友调侃：AI助理多了，选择困难症患者更困难了。",
+          "usage": "💡 聊AI应用时\n💬 选择困难症患者：这么多AI助理我该选哪个？\n🔥 PersonalAgent AI Meta",
+          "source": "https://www.huxiu.com/article/4899942.html?f=rss",
+          "tags": [
+            "PersonalAgent",
+            "AI",
+            "Meta"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "苹果折叠屏翻车",
+          "summary": "首款折叠iPhone黄牛都嫌弃",
+          "detail": "苹果首款折叠屏iPhone发售即遇冷，北京华贸店外的黄牛表示要亏本甩卖。这款被寄予厚望的新品因定价过高和实用性存疑遭遇滑铁卢。果粉纷纷表示：这次真的买不动了。",
+          "usage": "💡 聊苹果新品时\n💬 连黄牛都不收的苹果，你买吗？\n🔥 苹果 折叠屏 iPhone",
+          "source": "https://www.huxiu.com/article/4900045.html?f=rss",
+          "tags": [
+            "苹果",
+            "折叠屏",
+            "iPhone"
+          ]
+        },
+        {
+          "title": "AI办公椅来了",
+          "summary": "字节给椅子装上智能系统",
+          "detail": "字节跳动更换办公椅的计划引发热议，据悉新椅子将搭载智能系统，可监测员工久坐时间。网友吐槽：以后连椅子都会提醒你'该起来卷了'。",
+          "usage": "💡 聊智能硬件时\n💬 字节的智能椅子：你已连续工作8小时，建议立即离职\n🔥 字节跳动 智能硬件 椅子",
+          "source": "https://www.huxiu.com/article/4900109.html?f=rss",
+          "tags": [
+            "字节跳动",
+            "智能硬件",
+            "椅子"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "AI创业神话破灭",
+          "summary": "大二生60万创业实为代理",
+          "detail": "杭州电视台报道的'大二学生AI创业两个月赚60万'事件反转，当事人实为某AI公司代理人。这出创业神话的破灭引发对AI创业泡沫的讨论。网友调侃：现在连学生创业都要先学会PPT造假了。",
+          "usage": "💡 聊创业泡沫时\n💬 建议大学开设《如何制作创业神话PPT》课程\n🔥 AI创业 造假 学生",
+          "source": "https://www.huxiu.com/article/4900116.html?f=rss",
+          "tags": [
+            "AI",
+            "创业",
+            "造假"
+          ]
+        },
+        {
+          "title": "农家乐2.0逆袭",
+          "summary": "被嫌弃的农家乐杀回来了",
+          "detail": "曾经被年轻人抛弃的农家乐以新面貌回归，重庆南山的农家乐周末一位难求。深氪新消费分析认为，都市人渴望逃离数字生活的需求催生了这一现象。网友感叹：最后我们还是活成了父母的样子。",
+          "usage": "💡 聊消费趋势时\n💬 都市白领周末新去处：假装在种地\n🔥 农家乐 消费 年轻人",
+          "source": "https://www.huxiu.com/article/4900110.html?f=rss",
+          "tags": [
+            "农家乐",
+            "消费",
+            "年轻人"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "币圈风云",
+      "icon": "🪙",
+      "items": [
+        {
+          "title": "孙宇晨买保险",
+          "summary": "软银CDS价格创新高",
+          "detail": "孙正义持续加注AI投资的同时，软银5年期信用违约互换(CDS)价格升至432个基点，创2020年以来新高。这意味着市场对软银违约风险的担忧加剧。币圈人士调侃：孙宇晨要不要也买一份？",
+          "usage": "💡 聊币圈风险时\n💬 孙正义的AI赌局连保险公司都看不下去了\n🔥 孙正义 软银 风险",
+          "source": "https://www.huxiu.com/article/4900105.html?f=rss",
+          "tags": [
+            "孙正义",
+            "软银",
+            "风险"
+          ]
+        },
+        {
+          "title": "AI吸金大法",
+          "summary": "黄仁勋联手供应链扩产",
+          "detail": "NVIDIA CEO黄仁勋宣布联合供应链伙伴开启AI产业链大扩产，涵盖CPO、基板等环节。业内称这是AI投资虹吸市场流动性的最新例证。币圈玩家感叹：AI才是真·资金盘。",
+          "usage": "💡 聊资金流向时\n💬 黄仁勋：让AI的泡沫来得更猛烈些吧\n🔥 NVIDIA AI 投资",
+          "source": "https://www.huxiu.com/article/4900106.html?f=rss",
+          "tags": [
+            "NVIDIA",
+            "AI",
+            "投资"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-24T05:23:52.362Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 6098,
+    "completion_tokens": 2856,
+    "total_tokens": 8954,
+    "cost_usd": 0.0045075924000000005,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 12,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 23
+    }
+  }
+}

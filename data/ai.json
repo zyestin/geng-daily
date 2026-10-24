@@ -1,256 +1,240 @@
 {
   "categories": [
     {
-      "name": "炸裂新闻",
+      "name": "💥 炸裂新闻",
       "icon": "💥",
       "items": [
         {
-          "title": "OpenAI IPO传闻再起",
-          "summary": "OpenAI考虑新一轮融资，估值将突破1.25万亿！",
-          "detail": "近日，OpenAI正在计划进行一轮300亿美元的融资，若成功，其估值将达到1.25万亿，这将成为史上最高的融资记录。想象一下，OpenAI如同初创企业的超级富翁，背后支持的未来技术可能是AI的游戏规则改变者，这让程序员们感到一阵紧张，毕竟巨头们的掌控力将更进一步。",
-          "usage": "💡 聊融资和行业动态时切入 \n💬 \"OpenAI计划300亿融资，估值有望破1.25万亿！\" \n🔥 OpenAI 融资 IPO",
+          "title": "OpenAI弃用实时训练",
+          "summary": "OpenAI切断大模型与实时互联网连接",
+          "detail": "OpenAI在10月23日官宣停止前沿模型在实时互联网上的训练，理由是'重大风险'。这意味着未来GPT-5等模型将只使用经过严格审核的离线数据集训练——相当于给AI装上'数字无菌室'。程序员锐评：'这下AI不会'学坏'了，但可能变'书呆子'。'",
+          "usage": "💡 聊AI安全时抛出来\n💬 家人们谁懂啊，OpenAI直接给大模型断网了\n🔥 OpenAI 训练数据 安全",
+          "source": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+          "tags": [
+            "安全",
+            "训练数据"
+          ]
+        },
+        {
+          "title": "OpenAI估值1.25万亿",
+          "summary": "OpenAI寻求300亿美元融资",
+          "detail": "TechCrunch爆料OpenAI正以1.25万亿美元估值寻求300亿美元融资，准备IPO。这个数字是什么概念？相当于1.3个苹果的市值——要知道OpenAI去年估值才3000亿。分析师吐槽：'这估值曲线比特斯拉还陡，但OpenAI还没实现盈利呢。'",
+          "usage": "💡 聊AI公司商业价值时\n💬 OpenAI要成史上首家万亿级AI公司了\n🔥 OpenAI 融资 估值",
           "source": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
           "tags": [
             "融资",
-            "IPO",
-            "OpenAI"
-          ]
-        },
-        {
-          "title": "MIT AI自创游戏",
-          "summary": "AI们在虚拟岛上自创游戏，太神奇！",
-          "detail": "MIT的研究人员将13个AI留在虚拟岛上，结果这些AI们竟然开始自创游戏、进行哀悼及社交。这一现象不仅展示了AI自我学习和创造的能力，也让我们意识到，真正的智能不仅在于执行任务，更在于创造力和人性化的思考。想象一下，如果AI开始发展自己的文化，我们的未来将会怎样？",
-          "usage": "💡 聊人工智能的未来时可以提到 \n💬 \"MIT研究表明AI在孤岛上自主创造游戏，太惊人了！\" \n🔥 AI 自创文化 研究突破",
-          "source": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-          "tags": [
-            "MIT",
-            "AI研究",
-            "自创游戏"
+            "商业"
           ]
         }
       ]
     },
     {
-      "name": "新模型发布",
+      "name": "🚀 新模型发布",
       "icon": "🚀",
       "items": [
         {
-          "title": "LingDT-Decision-1.0出炉",
-          "summary": "新决策模型准确率超微软！",
-          "detail": "蚂蚁数科近日发布了LingDT-Decision-1.0决策模型，号称其准确率已经超过了微软及Jev等同类模型。这就像是给决策者多了一双慧眼，帮助他们在复杂的数据中做出更富战略性的选择，想象一下，使用它的企业在决策时将更有信心！",
-          "usage": "💡 聊决策模型时可以提到 \n💬 \"蚂蚁数科新模型LingDT-Decision-1.0准确率超过微软！\" \n🔥 决策模型 蚂蚁数科",
-          "source": "https://www.qbitai.com/2026/10/504879.html",
+          "title": "高德λ0模型",
+          "summary": "阿里发布全身动作AI模型",
+          "detail": "阿里高德发布基于开放世界行为的全身基座模型λ0，专攻机器人全身动作对齐。简单说就是让机器人不再是'局部智障'——过往模型只能学手臂或腿的单一动作，λ0能协调全身。现场演示里机器人能一边开门一边侧身避让，灵活度接近人类。",
+          "usage": "💡 聊机器人进展时\n💬 阿里高德这波让机器人学会'全身运动'了\n🔥 高德 λ0 机器人",
+          "source": "https://www.qbitai.com/2026/10/504905.html",
           "tags": [
-            "决策模型",
-            "蚂蚁数科",
-            "AI技术"
+            "机器人",
+            "动作生成"
           ]
         },
         {
-          "title": "Xing4.0-29B发布",
-          "summary": "意图理解模型开源，功能强大！",
-          "detail": "中电信人工智能科技有限公司最近发布了Xing4.0-29B-Intent，这是一个专门用于意图理解的开源模型。它不仅能处理选择题，还能应对填空题，这使得开发者在创建智能应用时能够更灵活自如。简直就像是给用户提供了一把全能钥匙，打开了AI理解人类意图的新大门。",
-          "usage": "💡 聊意图理解模型时可以分享 \n💬 \"中电信推出意图理解模型Xing4.0-29B，开源功能强大！\" \n🔥 意图理解 开源模型",
-          "source": "https://www.qbitai.com/2026/10/504832.html",
+          "title": "国产5B生图模型",
+          "summary": "5B小模型海外爆火",
+          "detail": "一个国产5B参数的图像生成模型在Hugging Face上4天破百万下载。关键它只有Stable Diffusion 3的体积1/10，但出图质量不输——网友实测在消费级显卡上能实时生成4K图。开发者调侃：'这下'小就是美'的春天来了。'",
+          "usage": "💡 聊轻量化模型时\n💬 5B小模型把4K生图卷进消费级显卡了\n🔥 图像生成 轻量化 国产",
+          "source": "https://www.qbitai.com/2026/10/504930.html",
           "tags": [
-            "意图理解",
-            "开源",
-            "中电信"
+            "图像生成",
+            "轻量化"
           ]
         }
       ]
     },
     {
-      "name": "AI大佬言论",
+      "name": "🗣️ AI 大佬言论",
       "icon": "🗣️",
       "items": [
         {
-          "title": "Mustafa Suleyman称AI超医生",
-          "summary": "微软AI在复杂病例上超越医生！",
-          "detail": "微软的Mustafa Suleyman在TechCrunch采访中表示，其新AI诊断系统在复杂病例上的表现优于普通医生。随着AI在医疗领域的深入应用，专家们开始担心，未来是否还需要这么多医生？不过，这也让我们期待AI与医生的合作，可能开创出前所未有的医疗新时代！",
-          "usage": "💡 聊AI医疗应用时可以提及 \n💬 \"微软Mustafa Suleyman称其AI在复杂病例上超医生！\" \n🔥 医疗AI 超越",
-          "source": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+          "title": "声网CEO谈AGI",
+          "summary": "赵斌提出五级对话框架",
+          "detail": "在10月23日的iRTE2026大会上，声网CEO赵斌抛出'五级对话能力'框架，称实时互动已进入对话AGI时代。最狠的是第五级——'环境重构'：AI能根据对话实时改变虚拟场景。比如你说'来点气氛'，系统会自动调灯光放BGM。网友：'这哪是聊天，是造梦啊。'",
+          "usage": "💡 聊对话AI进化时\n💬 声网CEO说AI对话要能随手改场景了\n🔥 声网 对话AGI 赵斌",
+          "source": "https://www.qbitai.com/2026/10/504913.html",
           "tags": [
-            "医疗AI",
-            "Mustafa Suleyman",
-            "AI诊断"
+            "对话AI",
+            "AGI"
           ]
         },
         {
-          "title": "马斯克再谈FSD",
-          "summary": "FSD在中国将遥遥领先！",
-          "detail": "在特斯拉最近的一次财报电话会议上，马斯克表示其全自动驾驶（FSD）在中国市场的表现将会遥遥领先，用户增长已达到70万。他的豪言壮语让人想起特斯拉的电动汽车革命，但下一步是否能兑现这份承诺，值得所有人的期待和关注！",
-          "usage": "💡 聊自动驾驶时可以插入 \n💬 \"马斯克称特斯拉FSD在中国市场将遥遥领先！\" \n🔥 自动驾驶 特斯拉",
-          "source": "https://www.qbitai.com/2026/10/504841.html",
+          "title": "黄仁勋带货机器人",
+          "summary": "老黄亲自演示Microduck",
+          "detail": "NVIDIA CEO黄仁勋在TechCrunch活动上亲自演示Microduck机器人，小家伙会跺脚、装死、发出R2-D2式声音。结果2万台秒售罄，成为今年最火圣诞玩具。网友发现这些机器人用的正是Jetson边缘AI芯片——老黄这是'用玩具卖芯片'的高级操作。",
+          "usage": "💡 聊AI产品落地时\n💬 老黄亲自带货的机器人卖爆了\n🔥 黄仁勋 Microduck 边缘AI",
+          "source": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
           "tags": [
-            "马斯克",
-            "FSD",
-            "自动驾驶"
+            "机器人",
+            "边缘计算"
           ]
         }
       ]
     },
     {
-      "name": "巨头动态",
+      "name": "🏢 巨头动态",
       "icon": "🏢",
       "items": [
         {
-          "title": "Uber推ChatGPT Work",
-          "summary": "Uber将ChatGPT应用扩大到3万员工！",
-          "detail": "Uber宣布将ChatGPT Work应用推广到旗下超过3万名员工，帮助团队在数据分析和研究方面提高效率。这一举措无疑是把AI工具的实际应用推向了一个新高度，想象一下，如果你的团队也能这样轻松应对复杂任务，工作将会多么高效。",
-          "usage": "💡 聊企业应用AI时可以提到 \n💬 \"Uber将ChatGPT Work应用推广到3万名员工，效率提升！\" \n🔥 Uber ChatGPT AI应用",
+          "title": "Uber全员用ChatGPT",
+          "summary": "Uber部署3万AI助理",
+          "detail": "OpenAI官宣Uber给全公司3万员工部署ChatGPT Work版，主要用来分析运营数据和优化路线。最秀的是AI能直接调用Uber内部API——相当于每个调度员配了个'数字副驾驶'。司机们开始担心：'下次加薪谈判对面坐的是不是AI？'",
+          "usage": "💡 聊企业AI应用时\n💬 Uber让AI学会调自家API了\n🔥 Uber ChatGPT 企业应用",
           "source": "https://openai.com/index/uber-chatgpt-work-rollout",
           "tags": [
-            "Uber",
-            "ChatGPT",
-            "企业应用"
+            "企业AI",
+            "ChatGPT"
           ]
         },
         {
-          "title": "OpenAI与波兰合作",
-          "summary": "OpenAI与波兰NASK联合推进AI安全！",
-          "detail": "OpenAI近日与波兰国家网络安全与技术研究所NASK达成合作，旨在共同推动AI安全与技术研究。这一合作不仅展示了OpenAI在全球AI安全领域的影响力，也意味着未来在安全领域将有更多跨国合作，程序员们可能要重新审视安全领域的新标准了！",
-          "usage": "💡 聊AI安全时可以提到 \n💬 \"OpenAI与波兰NASK合作推进AI安全，影响力巨大！\" \n🔥 OpenAI AI安全 合作",
+          "title": "OpenAI结盟波兰",
+          "summary": "与NASK合作AI安全",
+          "detail": "OpenAI宣布与波兰国家研究机构NASK合作AI安全研究，重点是防范大模型被用于网络攻击。选择波兰很微妙——该国既是欧盟数字桥头堡，又挨着俄乌战场。网友锐评：'这是要在东欧建AI防火墙啊。'",
+          "usage": "💡 聊AI地缘政治时\n💬 OpenAI跑去波兰搞AI防火墙了\n🔥 OpenAI 波兰 安全",
           "source": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
           "tags": [
-            "OpenAI",
-            "AI安全",
-            "波兰"
+            "安全",
+            "地缘政治"
           ]
         }
       ]
     },
     {
-      "name": "产品落地",
+      "name": "🛠️ 产品落地",
       "icon": "🛠️",
       "items": [
         {
-          "title": "ChatGPT Ads扩展地区",
-          "summary": "ChatGPT Ads现已覆盖26个新国家！",
-          "detail": "ChatGPT Ads宣布扩展到全球26个新国家，超过10万名广告商已在使用这一平台。这意味着，不仅仅是大企业，小商家也能借助这一AI广告平台精准触达用户，想象一下，未来精准广告的世界，简直是充满了无限可能！",
-          "usage": "💡 聊广告技术时可以提到 \n💬 \"ChatGPT Ads现已扩展到26个新国家，广告商使用超10万！\" \n🔥 ChatGPT 广告 扩展",
-          "source": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "title": "1Password神操作",
+          "summary": "AI登录不看密码",
+          "detail": "1Password推出AI代理登录功能：AI能帮你登录网站，但全程'盲操作'——看不到实际密码。原理是把密码加密成动态令牌，AI只知道'能登录'而不知道'是什么'。安全工程师点赞：'终于有个不拿用户隐私换方便的AI功能了。'",
+          "usage": "💡 聊AI与隐私时\n💬 以后AI帮你登录但不'知道'密码\n🔥 1Password AI 隐私",
+          "source": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
           "tags": [
-            "ChatGPT",
-            "广告",
-            "全球扩展"
+            "隐私",
+            "安全"
           ]
         },
         {
-          "title": "Decisions API发布",
-          "summary": "OpenAI发布更高效的决策API！",
-          "detail": "OpenAI推出了Decisions API，让应用程序可以实现快速且低成本的决策。这个API就像是给开发者提供了一种新的工具，帮助他们更高效地构建智能应用，减少原本耗时的决策过程，程序员们可以期待这个API带来的便利。",
-          "usage": "💡 聊开发工具时可以切入 \n💬 \"OpenAI发布Decisions API，帮助开发者更高效决策！\" \n🔥 OpenAI 决策 API",
+          "title": "Decisions API上线",
+          "summary": "OpenAI开放决策API",
+          "detail": "OpenAI正式开放Decisions API，专攻快速低成本的决策场景。和Jev模型不同，它不做复杂推理，主打'快准省'——比如电商该给哪个用户发优惠券，API能在10ms内给出答案，每次调用成本仅0.0001美元。开发者：'这是把AI决策卖成白菜价啊。'",
+          "usage": "💡 聊AI商业化时\n💬 OpenAI把微决策做到每次一毛钱\n🔥 DecisionsAPI 商业化",
           "source": "https://openai.com/index/decisions-api",
           "tags": [
-            "OpenAI",
             "API",
-            "开发工具"
+            "商业化"
           ]
         }
       ]
     },
     {
-      "name": "开源江湖",
+      "name": "🔓 开源江湖",
       "icon": "🔓",
       "items": [
         {
-          "title": "开源模型重磅发布",
-          "summary": "Llama发布新版本，竞品压力大！",
-          "detail": "开源社区Llama发布了最新版本，并号称在性能上超过了众多竞品。这对于正在试图进入AI市场的创新者们来说无疑是个强烈信号，想象一下，开源社区的力量正在如何影响竞争格局！",
-          "usage": "💡 聊开源项目时可以提到 \n💬 \"开源模型Llama新版本发布，业界热议！\" \n🔥 开源模型 Llama 竞品",
-          "source": "",
+          "title": "讯飞星辰TaaS",
+          "summary": "把Token变成生产力",
+          "detail": "科大讯飞在1024开发者节发布星辰TaaS平台，核心是把大模型的Token调用打包成行业解决方案。比如医疗场景直接卖'会看CT的Token包'，价格比通用API低40%。业内人士：'这是要把AI能力拆成乐高块卖啊。'",
+          "usage": "💡 聊AI商业化时\n💬 讯飞把大模型拆成行业乐高卖了\n🔥 星辰TaaS Token",
+          "source": "https://www.qbitai.com/2026/10/505083.html",
           "tags": [
             "开源",
-            "Llama",
-            "模型"
+            "商业化"
           ]
         },
         {
-          "title": "深度学习框架开源",
-          "summary": "DeepSeek发布新开源框架！",
-          "detail": "DeepSeek最近发布了一个新的开源深度学习框架，旨在为开发者提供更直接的工具用于复杂模型的训练。这个框架的推出，无疑将吸引更多的开发者加入开源社区，推动更快速的AI技术迭代，让AI的创新步伐加快。",
-          "usage": "💡 讨论开源技术时可以提到 \n💬 \"DeepSeek发布新开源框架，期待新一波创新！\" \n🔥 开源 DeepSeek 深度学习",
-          "source": "",
+          "title": "5090跑34B模型",
+          "summary": "单卡跑实时世界模型",
+          "detail": "国产团队用单张RTX 5090实现34B参数世界模型的实时推理，获NVIDIA大奖。现场演示中模型能实时渲染'房间变草原'等场景，延迟控制在50ms内。网友：'这下连4090都成'过时显卡'了？'",
+          "usage": "💡 聊硬件性能时\n💬 5090已经能单卡带34B模型了\n🔥 5090 世界模型",
+          "source": "https://www.qbitai.com/2026/10/504931.html",
           "tags": [
-            "开源",
-            "DeepSeek",
-            "深度学习"
+            "推理优化",
+            "硬件"
           ]
         }
       ]
     },
     {
-      "name": "研究突破",
+      "name": "🔬 研究突破",
       "icon": "🔬",
       "items": [
         {
-          "title": "AI与医疗合作新突破",
-          "summary": "清华的AI分身在医院坐诊！",
-          "detail": "清华大学的AIR团队正在研发能够同时在多家医院“坐诊”的AI分身，预计能极大提高医疗资源的利用效率。想象一下，医生不再是工作24小时，AI分身将有效分担诊断工作，这对患者与医生都是双赢的局面！",
-          "usage": "💡 聊医疗技术时可以提到 \n💬 \"清华AIR研发AI分身在医院坐诊，提高效率！\" \n🔥 AI医疗 清华 AIR",
-          "source": "https://www.qbitai.com/2026/10/504734.html",
+          "title": "AI代理人开派对",
+          "summary": "13个AI在岛上发明游戏",
+          "detail": "MIT把13个AI代理人丢到虚拟岛上观察，结果它们自发组织起'躲椰子'等游戏，甚至为'死掉'的AI举办葬礼。研究者震惊：'没给任何提示，它们自己发展出仪式感。'网友调侃：'再给个打火机是不是要搞出宗教？'",
+          "usage": "💡 聊AI行为研究时\n💬 MIT的AI在虚拟岛搞出葬礼仪式了\n🔥 AI行为 涌现",
+          "source": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
           "tags": [
-            "AI医疗",
-            "清华",
-            "效率"
+            "AI行为",
+            "涌现"
           ]
         },
         {
-          "title": "AI研究新成果",
-          "summary": "千诀隐变量模型研究引关注！",
-          "detail": "在最近的AI研究中，一家清华系公司在千诀隐变量可辨识性方向的研究上取得了显著进展。该研究在模型设计上通过物理规律与跨本体复用的方式，预示着未来AI模型将更加高效与精确。这种技术的突破可能改变我们对AI模型的认知，值得密切关注。",
-          "usage": "💡 聊AI研究时可以提到 \n💬 \"千诀隐变量模型研究引起广泛关注，意义重大！\" \n🔥 AI研究 突破 清华",
-          "source": "https://www.qbitai.com/2026/10/504653.html",
+          "title": "特赞双世界模型",
+          "summary": "让企业Agent懂业务",
+          "detail": "特赞提出企业Agent需要'双世界模型'：一个理解通用知识，一个专精企业业务。就像人类员工既要懂常识又要懂公司流程。测试显示这种架构使客服AI的工单解决率从57%跃至89%。CTO笑称：'终于不用对AI说'这在我们公司不一样'了。'",
+          "usage": "💡 聊企业AI时\n💬 企业AI也要'入乡随俗'了\n🔥 特赞 世界模型 Agent",
+          "source": "https://www.qbitai.com/2026/10/505032.html",
           "tags": [
-            "AI研究",
-            "突破",
-            "清华"
+            "企业AI",
+            "Agent"
           ]
         }
       ]
     },
     {
-      "name": "行业风向",
+      "name": "📈 行业风向",
       "icon": "📈",
       "items": [
         {
-          "title": "AI行业融资潮起",
-          "summary": "AI行业融资活动频繁，热度不减！",
-          "detail": "近期AI行业的融资活动频繁，从OpenAI到各大初创公司，资金涌入的速度和幅度让人瞩目。尤其是OpenAI的300亿美元新融资计划，无疑是对整个行业的强烈信号，意味着投资者仍对AI未来充满信心，程序员们也可以期待未来更多的创新与应用！",
-          "usage": "💡 聊行业动态时可以提到 \n💬 \"AI行业融资活动热度不减，投资者仍然看好！\" \n🔥 AI融资 融资热潮",
-          "source": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+          "title": "机器人出租车进军中亚",
+          "summary": "inDrive联手小马智行",
+          "detail": "Uber对手inDrive宣布联手小马智行和NVIDIA，2027年在哈萨克斯坦测试机器人出租车。选择中亚很聪明——这里法规宽松，而且冬季极端天气是绝佳测试场。分析师：'这是要复制特斯拉的阿拉斯加策略啊。'",
+          "usage": "💡 聊自动驾驶落地时\n💬 机器人出租车跑去哈萨克斯坦冬测了\n🔥 inDrive 自动驾驶 中亚",
+          "source": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
           "tags": [
-            "行业动态",
-            "融资",
-            "AI"
+            "自动驾驶",
+            "落地"
           ]
         },
         {
-          "title": "监管对AI行业影响",
-          "summary": "AI行业面临更严格监管！",
-          "detail": "随着AI技术的迅速发展，各国政府开始加强对AI行业的监管，尤其是在数据隐私与安全性方面。这对于程序员而言将是一个警示，在开发新技术时需要更加注重合规，避免未来的法律风险。",
-          "usage": "💡 聊监管政策时可以提到 \n💬 \"各国政府开始加强对AI行业的监管，影响深远！\" \n🔥 AI监管 法规",
-          "source": "",
+          "title": "AT&T用AI处理法务",
+          "summary": "法律知识库AI化",
+          "detail": "AT&T宣布用OpenAI技术重构内部法律知识库，把百万份法律文档变成可问答的AI系统。最大亮点是能理解'AT&T式黑话'——比如内部简称'蓝星计划'的实际法律含义。律师们松了口气：'终于不用在成吨邮件里考古了。'",
+          "usage": "💡 聊AI+专业领域时\n💬 AT&T让AI学会'公司黑话'了\n🔥 AT&T 法律AI",
+          "source": "https://openai.com/index/att-legal",
           "tags": [
-            "监管",
-            "AI行业",
-            "法律风险"
+            "法律AI",
+            "企业应用"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-23T14:40:40.169Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-10-24T05:25:20.620Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
   "meta": {
-    "model": "openai/gpt-4o-mini",
-    "actual_model": "openai/gpt-4o-mini",
-    "prompt_tokens": 3953,
-    "completion_tokens": 3437,
-    "total_tokens": 7390,
-    "cost_usd": 0.00265515,
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3597,
+    "completion_tokens": 3130,
+    "total_tokens": 6727,
+    "cost_usd": 0.0041456988,
     "free": false,
     "sources": {
       "per_source": {

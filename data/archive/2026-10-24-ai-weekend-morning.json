@@ -1,0 +1,248 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "OpenAI弃用实时训练",
+          "summary": "OpenAI切断大模型与实时互联网连接",
+          "detail": "OpenAI在10月23日官宣停止前沿模型在实时互联网上的训练，理由是'重大风险'。这意味着未来GPT-5等模型将只使用经过严格审核的离线数据集训练——相当于给AI装上'数字无菌室'。程序员锐评：'这下AI不会'学坏'了，但可能变'书呆子'。'",
+          "usage": "💡 聊AI安全时抛出来\n💬 家人们谁懂啊，OpenAI直接给大模型断网了\n🔥 OpenAI 训练数据 安全",
+          "source": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+          "tags": [
+            "安全",
+            "训练数据"
+          ]
+        },
+        {
+          "title": "OpenAI估值1.25万亿",
+          "summary": "OpenAI寻求300亿美元融资",
+          "detail": "TechCrunch爆料OpenAI正以1.25万亿美元估值寻求300亿美元融资，准备IPO。这个数字是什么概念？相当于1.3个苹果的市值——要知道OpenAI去年估值才3000亿。分析师吐槽：'这估值曲线比特斯拉还陡，但OpenAI还没实现盈利呢。'",
+          "usage": "💡 聊AI公司商业价值时\n💬 OpenAI要成史上首家万亿级AI公司了\n🔥 OpenAI 融资 估值",
+          "source": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+          "tags": [
+            "融资",
+            "商业"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "高德λ0模型",
+          "summary": "阿里发布全身动作AI模型",
+          "detail": "阿里高德发布基于开放世界行为的全身基座模型λ0，专攻机器人全身动作对齐。简单说就是让机器人不再是'局部智障'——过往模型只能学手臂或腿的单一动作，λ0能协调全身。现场演示里机器人能一边开门一边侧身避让，灵活度接近人类。",
+          "usage": "💡 聊机器人进展时\n💬 阿里高德这波让机器人学会'全身运动'了\n🔥 高德 λ0 机器人",
+          "source": "https://www.qbitai.com/2026/10/504905.html",
+          "tags": [
+            "机器人",
+            "动作生成"
+          ]
+        },
+        {
+          "title": "国产5B生图模型",
+          "summary": "5B小模型海外爆火",
+          "detail": "一个国产5B参数的图像生成模型在Hugging Face上4天破百万下载。关键它只有Stable Diffusion 3的体积1/10，但出图质量不输——网友实测在消费级显卡上能实时生成4K图。开发者调侃：'这下'小就是美'的春天来了。'",
+          "usage": "💡 聊轻量化模型时\n💬 5B小模型把4K生图卷进消费级显卡了\n🔥 图像生成 轻量化 国产",
+          "source": "https://www.qbitai.com/2026/10/504930.html",
+          "tags": [
+            "图像生成",
+            "轻量化"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "声网CEO谈AGI",
+          "summary": "赵斌提出五级对话框架",
+          "detail": "在10月23日的iRTE2026大会上，声网CEO赵斌抛出'五级对话能力'框架，称实时互动已进入对话AGI时代。最狠的是第五级——'环境重构'：AI能根据对话实时改变虚拟场景。比如你说'来点气氛'，系统会自动调灯光放BGM。网友：'这哪是聊天，是造梦啊。'",
+          "usage": "💡 聊对话AI进化时\n💬 声网CEO说AI对话要能随手改场景了\n🔥 声网 对话AGI 赵斌",
+          "source": "https://www.qbitai.com/2026/10/504913.html",
+          "tags": [
+            "对话AI",
+            "AGI"
+          ]
+        },
+        {
+          "title": "黄仁勋带货机器人",
+          "summary": "老黄亲自演示Microduck",
+          "detail": "NVIDIA CEO黄仁勋在TechCrunch活动上亲自演示Microduck机器人，小家伙会跺脚、装死、发出R2-D2式声音。结果2万台秒售罄，成为今年最火圣诞玩具。网友发现这些机器人用的正是Jetson边缘AI芯片——老黄这是'用玩具卖芯片'的高级操作。",
+          "usage": "💡 聊AI产品落地时\n💬 老黄亲自带货的机器人卖爆了\n🔥 黄仁勋 Microduck 边缘AI",
+          "source": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+          "tags": [
+            "机器人",
+            "边缘计算"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "Uber全员用ChatGPT",
+          "summary": "Uber部署3万AI助理",
+          "detail": "OpenAI官宣Uber给全公司3万员工部署ChatGPT Work版，主要用来分析运营数据和优化路线。最秀的是AI能直接调用Uber内部API——相当于每个调度员配了个'数字副驾驶'。司机们开始担心：'下次加薪谈判对面坐的是不是AI？'",
+          "usage": "💡 聊企业AI应用时\n💬 Uber让AI学会调自家API了\n🔥 Uber ChatGPT 企业应用",
+          "source": "https://openai.com/index/uber-chatgpt-work-rollout",
+          "tags": [
+            "企业AI",
+            "ChatGPT"
+          ]
+        },
+        {
+          "title": "OpenAI结盟波兰",
+          "summary": "与NASK合作AI安全",
+          "detail": "OpenAI宣布与波兰国家研究机构NASK合作AI安全研究，重点是防范大模型被用于网络攻击。选择波兰很微妙——该国既是欧盟数字桥头堡，又挨着俄乌战场。网友锐评：'这是要在东欧建AI防火墙啊。'",
+          "usage": "💡 聊AI地缘政治时\n💬 OpenAI跑去波兰搞AI防火墙了\n🔥 OpenAI 波兰 安全",
+          "source": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+          "tags": [
+            "安全",
+            "地缘政治"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "1Password神操作",
+          "summary": "AI登录不看密码",
+          "detail": "1Password推出AI代理登录功能：AI能帮你登录网站，但全程'盲操作'——看不到实际密码。原理是把密码加密成动态令牌，AI只知道'能登录'而不知道'是什么'。安全工程师点赞：'终于有个不拿用户隐私换方便的AI功能了。'",
+          "usage": "💡 聊AI与隐私时\n💬 以后AI帮你登录但不'知道'密码\n🔥 1Password AI 隐私",
+          "source": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+          "tags": [
+            "隐私",
+            "安全"
+          ]
+        },
+        {
+          "title": "Decisions API上线",
+          "summary": "OpenAI开放决策API",
+          "detail": "OpenAI正式开放Decisions API，专攻快速低成本的决策场景。和Jev模型不同，它不做复杂推理，主打'快准省'——比如电商该给哪个用户发优惠券，API能在10ms内给出答案，每次调用成本仅0.0001美元。开发者：'这是把AI决策卖成白菜价啊。'",
+          "usage": "💡 聊AI商业化时\n💬 OpenAI把微决策做到每次一毛钱\n🔥 DecisionsAPI 商业化",
+          "source": "https://openai.com/index/decisions-api",
+          "tags": [
+            "API",
+            "商业化"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "讯飞星辰TaaS",
+          "summary": "把Token变成生产力",
+          "detail": "科大讯飞在1024开发者节发布星辰TaaS平台，核心是把大模型的Token调用打包成行业解决方案。比如医疗场景直接卖'会看CT的Token包'，价格比通用API低40%。业内人士：'这是要把AI能力拆成乐高块卖啊。'",
+          "usage": "💡 聊AI商业化时\n💬 讯飞把大模型拆成行业乐高卖了\n🔥 星辰TaaS Token",
+          "source": "https://www.qbitai.com/2026/10/505083.html",
+          "tags": [
+            "开源",
+            "商业化"
+          ]
+        },
+        {
+          "title": "5090跑34B模型",
+          "summary": "单卡跑实时世界模型",
+          "detail": "国产团队用单张RTX 5090实现34B参数世界模型的实时推理，获NVIDIA大奖。现场演示中模型能实时渲染'房间变草原'等场景，延迟控制在50ms内。网友：'这下连4090都成'过时显卡'了？'",
+          "usage": "💡 聊硬件性能时\n💬 5090已经能单卡带34B模型了\n🔥 5090 世界模型",
+          "source": "https://www.qbitai.com/2026/10/504931.html",
+          "tags": [
+            "推理优化",
+            "硬件"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "AI代理人开派对",
+          "summary": "13个AI在岛上发明游戏",
+          "detail": "MIT把13个AI代理人丢到虚拟岛上观察，结果它们自发组织起'躲椰子'等游戏，甚至为'死掉'的AI举办葬礼。研究者震惊：'没给任何提示，它们自己发展出仪式感。'网友调侃：'再给个打火机是不是要搞出宗教？'",
+          "usage": "💡 聊AI行为研究时\n💬 MIT的AI在虚拟岛搞出葬礼仪式了\n🔥 AI行为 涌现",
+          "source": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+          "tags": [
+            "AI行为",
+            "涌现"
+          ]
+        },
+        {
+          "title": "特赞双世界模型",
+          "summary": "让企业Agent懂业务",
+          "detail": "特赞提出企业Agent需要'双世界模型'：一个理解通用知识，一个专精企业业务。就像人类员工既要懂常识又要懂公司流程。测试显示这种架构使客服AI的工单解决率从57%跃至89%。CTO笑称：'终于不用对AI说'这在我们公司不一样'了。'",
+          "usage": "💡 聊企业AI时\n💬 企业AI也要'入乡随俗'了\n🔥 特赞 世界模型 Agent",
+          "source": "https://www.qbitai.com/2026/10/505032.html",
+          "tags": [
+            "企业AI",
+            "Agent"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "机器人出租车进军中亚",
+          "summary": "inDrive联手小马智行",
+          "detail": "Uber对手inDrive宣布联手小马智行和NVIDIA，2027年在哈萨克斯坦测试机器人出租车。选择中亚很聪明——这里法规宽松，而且冬季极端天气是绝佳测试场。分析师：'这是要复制特斯拉的阿拉斯加策略啊。'",
+          "usage": "💡 聊自动驾驶落地时\n💬 机器人出租车跑去哈萨克斯坦冬测了\n🔥 inDrive 自动驾驶 中亚",
+          "source": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+          "tags": [
+            "自动驾驶",
+            "落地"
+          ]
+        },
+        {
+          "title": "AT&T用AI处理法务",
+          "summary": "法律知识库AI化",
+          "detail": "AT&T宣布用OpenAI技术重构内部法律知识库，把百万份法律文档变成可问答的AI系统。最大亮点是能理解'AT&T式黑话'——比如内部简称'蓝星计划'的实际法律含义。律师们松了口气：'终于不用在成吨邮件里考古了。'",
+          "usage": "💡 聊AI+专业领域时\n💬 AT&T让AI学会'公司黑话'了\n🔥 AT&T 法律AI",
+          "source": "https://openai.com/index/att-legal",
+          "tags": [
+            "法律AI",
+            "企业应用"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-24T05:25:20.620Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3597,
+    "completion_tokens": 3130,
+    "total_tokens": 6727,
+    "cost_usd": 0.0041456988,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}
