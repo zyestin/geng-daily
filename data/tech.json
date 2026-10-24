@@ -5,27 +5,27 @@
       "icon": "📰",
       "items": [
         {
-          "title": "苹果折叠屏黄牛哭了",
-          "summary": "首款折叠屏iPhone遇冷，黄牛亏本甩卖",
-          "detail": "苹果首款折叠屏iPhone发售首日，北京华贸中心店外的黄牛报价直接跳水。临近中午，有黄牛表示要亏本甩卖，原因是消费者对这款定价过高的新品并不买账。网友调侃：果粉的钱包终于学会了说No。",
-          "usage": "💡 同事讨论新手机时\n💬 苹果这次连黄牛都养不活了\n🔥 苹果 折叠屏 黄牛",
-          "source": "https://www.huxiu.com/article/4900045.html?f=rss",
+          "title": "双11遇冷，电商回归初心",
+          "summary": "双11规则大变样，电商平台开始重走老路。",
+          "detail": "2026年的双11已经不再是往年的狂欢盛宴，各大平台纷纷改变促销规则，回归早期的简约风格。看起来是为了避免过度竞争和监管压力，但不少消费者表示失望。突然觉得，双11就像个被打回原形的少年，曾经的狂欢变成了现在的怀旧。家人们，电商还会活得好吗？",
+          "usage": "💡 办公室闲聊时提及电商趋势 \n💬 \"双11就像被打回原形的少年，怀旧风格满满！\" \n🔥 电商 双11 回归",
+          "source": "https://www.huxiu.com/article/4900197.html?f=rss",
           "tags": [
-            "苹果",
-            "折叠屏",
-            "黄牛"
+            "电商",
+            "双11",
+            "市场趋势"
           ]
         },
         {
-          "title": "大二生AI创业疑云",
-          "summary": "浙江大二学生AI创业两个月赚60万引争议",
-          "detail": "杭州电视台报道称浙江某大二学生通过AI创业两个月赚60万，引发网络热议。经查实，该学生实为某AI公司代理人，所谓创业实为推销已有产品。网友吐槽：现在连学生创业都要玩资本套路了？",
-          "usage": "💡 聊AI创业泡沫时\n💬 现在学生创业都要先学会PPT造假了\n🔥 AI创业 学生 造假",
-          "source": "https://www.huxiu.com/article/4900116.html?f=rss",
+          "title": "Meta松了一口气",
+          "summary": "Meta财报交出好成绩，Muse依然悬而未决。",
+          "detail": "Meta在最近的财报中终于交出了一份不让投资者失望的好成绩，CEO扎克伯格在发布会上透露，主业已经松了一口气，但Muse的细账依旧悬着。看来，尽管元宇宙的梦想依旧在追求，但现实的账本压力让大佬们开始审视自己在虚拟世界的投入，真是科技圈的酸甜苦辣！",
+          "usage": "💡 听到Meta的动态可以聊聊 \n💬 \"Meta总算松了一口气，但Muse的账可悬着呢！\" \n🔥 Meta 财报 扎克伯格",
+          "source": "https://www.huxiu.com/article/4900189.html?f=rss",
           "tags": [
-            "AI",
-            "创业",
-            "造假"
+            "Meta",
+            "财报",
+            "元宇宙"
           ]
         }
       ]
@@ -35,27 +35,27 @@
       "icon": "🎤",
       "items": [
         {
-          "title": "黄仁勋的AI豪赌",
-          "summary": "黄仁勋联合供应链开启AI产业链大扩产",
-          "detail": "NVIDIA CEO黄仁勋在GTC柏林大会宣布，将联合供应链伙伴开启AI产业链大扩产，涵盖CPO、基板等关键环节。业内人士调侃：老黄这是要把全世界的算力都包圆了。",
-          "usage": "💡 聊AI芯片时\n💬 老黄这是要当AI时代的石油大亨啊\n🔥 黄仁勋 AI 芯片",
-          "source": "https://www.huxiu.com/article/4900106.html?f=rss",
+          "title": "马斯克的跑车飞了",
+          "summary": "马斯克展示特斯拉跑车飞行能力，科技感爆棚。",
+          "detail": "在10月15日的SpaceX火箭试验场，马斯克展示了特斯拉Roadster飞行的能力。这辆银灰色跑车在坡道上一飞冲天，腾空而起的画面简直让人目瞪口呆！马斯克又一次用实际行动证明了什么叫做'科技炫技'。不过，飞到天上可不是开玩笑，车主们准备好空中驾驶的驾照了吗？",
+          "usage": "💡 同事讨论无人驾驶时提到 \n💬 \"马斯克又在炫技了，特斯拉能够飞起来了！\" \n🔥 马斯克 特斯拉 飞行",
+          "source": "https://www.huxiu.com/article/4900194.html?f=rss",
           "tags": [
-            "黄仁勋",
-            "AI",
-            "NVIDIA"
+            "马斯克",
+            "特斯拉",
+            "科技炫技"
           ]
         },
         {
-          "title": "孙正义的违约保险",
-          "summary": "华尔街给软银买违约保险",
-          "detail": "孙正义持续押注AI的同时，软银5年期信用违约互换(CDS)价格飙升至432个基点，创2020年以来新高。华尔街已经开始为软银可能的违约买保险，网友戏称：孙正义的AI梦需要先买份保险。",
-          "usage": "💡 聊AI投资风险时\n💬 孙正义的AI梦值多少钱？保险公司的报价是432个基点\n🔥 孙正义 软银 AI",
-          "source": "https://www.huxiu.com/article/4900105.html?f=rss",
+          "title": "亚马逊CEO谈算力不足",
+          "summary": "亚马逊一年砸2200亿，算力依然不够。",
+          "detail": "在最近的深度访谈中，亚马逊CEO谈到公司一年投入2200亿美元到基础设施中，但还是感到算力不够用。问他是否觉得烧钱能解决问题，他的回答让人捧腹：“感觉像是在给大海倒水。”科技圈的算力焦虑又一次升级，看来即使是大佬也有追赶的压力！",
+          "usage": "💡 聊到云计算时可以提到 \n💬 \"亚马逊的CEO说了，砸钱也不一定管用！\" \n🔥 亚马逊 CEO 算力",
+          "source": "https://www.huxiu.com/article/4900187.html?f=rss",
           "tags": [
-            "孙正义",
-            "软银",
-            "AI"
+            "亚马逊",
+            "算力",
+            "云计算"
           ]
         }
       ]
@@ -65,57 +65,27 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "字节开启省钱模式",
-          "summary": "字节分批更换办公椅削减成本",
-          "detail": "字节跳动计划从今年8月至明年二季度，分批更换北京、上海等工区的办公椅。这被外界解读为大厂进入'纯过日子'时代的标志。网友吐槽：互联网寒冬，连椅子都要分期付款了。",
-          "usage": "💡 聊互联网寒冬时\n💬 字节的椅子都要分期换了，你们的工位还好吗？\n🔥 字节跳动 裁员 成本",
-          "source": "https://www.huxiu.com/article/4900109.html?f=rss",
+          "title": "Kimi发布K3.1 Pro",
+          "summary": "Kimi新模型K3.1 Pro来袭，参数狂飙。",
+          "detail": "在10月24日，Kimi正式推出了K3.1 Pro模型，号称三万亿级参数，最高支持百万token上下文。这一新模型的发布让业界期待不已，但价格降到能否承受也成了一道难题。Kimi这波操作就像是给竞争对手上了一课，市场又要热闹起来了！",
+          "usage": "💡 技术讨论时提到新模型 \n💬 \"Kimi的新模型K3.1 Pro，参数狂飙，价格却让人心惊！\" \n🔥 Kimi K3.1 Pro 模型",
+          "source": "https://www.huxiu.com/article/4900186.html?f=rss",
           "tags": [
-            "字节跳动",
-            "裁员",
-            "成本"
+            "Kimi",
+            "AI模型",
+            "新品发布"
           ]
         },
         {
-          "title": "大族激光AI丰收",
-          "summary": "大族系两家上市公司业绩狂飙",
-          "detail": "深圳装备大佬高云峰旗下的大族激光发布2026年三季报，前三季度营收利润双增长，主要得益于押中AI赛道。但股价较最高点仍腰斩，网友调侃：业绩好不如故事讲得好。",
-          "usage": "💡 聊上市公司财报时\n💬 大族激光的AI故事讲得不错，就是股价不太买账\n🔥 大族激光 AI 财报",
-          "source": "https://www.huxiu.com/article/4900102.html?f=rss",
+          "title": "Meta主业松口气",
+          "summary": "Meta财报好转，Muse仍待考量。",
+          "detail": "Meta最近的财报终于交出好成绩，让投资者松了口气。尽管主业表现不错，但在虚拟现实与增强现实的谋划上，Muse的未来依旧悬而未决。扎克伯格对此表示：“我们正在努力，但结果如何还未可知。”看来大佬们的压力也没少，科技圈真是个拼命的战场！",
+          "usage": "💡 听到Meta动态可以提 \n💬 \"Meta的主业恢复，Muse的未来却仍悬而未决！\" \n🔥 Meta 财报 扎克伯格",
+          "source": "https://www.huxiu.com/article/4900189.html?f=rss",
           "tags": [
-            "大族激光",
-            "AI",
-            "财报"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "组织变动",
-      "icon": "🔀",
-      "items": [
-        {
-          "title": "储能行业大洗牌",
-          "summary": "1元/Wh价格战劈开储能行业",
-          "detail": "9月储能采招同比大增88%，但碳酸锂期货创年内新低，2小时储能EPC均价环比降15%。行业人士表示1元/Wh已成生死线，小厂商纷纷出局。网友吐槽：新能源也逃不过价格战的宿命。",
-          "usage": "💡 聊新能源行业时\n💬 1块钱一度电的时代来了，但厂商可能要饿死了\n🔥 储能 价格战 新能源",
-          "source": "https://www.huxiu.com/article/4900113.html?f=rss",
-          "tags": [
-            "储能",
-            "价格战",
-            "新能源"
-          ]
-        },
-        {
-          "title": "数据采集商寒冬",
-          "summary": "具身智能兴起冲击数据采集行业",
-          "detail": "随着具身智能兴起，机器人公司为融资制造假订单，数据采集行业陷入降价、转包困境。一位数据采集商坦言：'这门生意明年会是什么光景，还很难说。'网友戏称：AI要吃饭，数据采集商要喝西北风。",
-          "usage": "💡 聊AI数据行业时\n💬 AI越智能，数据民工越难混\n🔥 具身智能 数据采集 AI",
-          "source": "https://www.huxiu.com/article/4900108.html?f=rss",
-          "tags": [
-            "具身智能",
-            "数据采集",
-            "AI"
+            "Meta",
+            "财报",
+            "未来"
           ]
         }
       ]
@@ -125,27 +95,27 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "AI打工人2.0",
-          "summary": "AI开始抢分析师饭碗",
-          "detail": "设想一位分析师正在赶报告，AI能自动完成数据归类、图表建议和初步结论。防冷涂的蜡在新书中预言，AI将重构白领工作方式。网友自嘲：以后上班就是给AI改错别字了。",
-          "usage": "💡 聊AI取代工作时\n💬 以后我们的工作就是给AI当校对员了\n🔥 AI 分析师 失业",
-          "source": "https://www.huxiu.com/article/4900115.html?f=rss",
+          "title": "SpaceX火箭试验",
+          "summary": "SpaceX再创新纪录，火箭发射成功。",
+          "detail": "在10月15日，SpaceX在得克萨斯州的火箭试验场成功发射了一枚新型火箭，创下了该系列的最佳成绩。马斯克在社交媒体上兴奋地分享了这一成就，称这标志着SpaceX技术的又一次飞跃。难道未来的航天旅行真的要靠火箭和飞车结合的时代来临了？",
+          "usage": "💡 听到航天话题可以插入 \n💬 \"SpaceX的火箭又创新纪录，未来的太空旅行要飞起来了！\" \n🔥 SpaceX 火箭 试验",
+          "source": "https://www.huxiu.com/article/4900194.html?f=rss",
           "tags": [
-            "AI",
-            "职场",
-            "自动化"
+            "SpaceX",
+            "火箭",
+            "航天"
           ]
         },
         {
-          "title": "Personal Agent混战",
-          "summary": "Q4最热闹的AI领域开打",
-          "detail": "Personal Agent成为Q4最热闹的AI战场，Meta的Muse、OpenAI等巨头纷纷入局。海外独角兽分析称这是'最互联网'的AI命题。网友调侃：AI助理多了，选择困难症患者更困难了。",
-          "usage": "💡 聊AI应用时\n💬 选择困难症患者：这么多AI助理我该选哪个？\n🔥 PersonalAgent AI Meta",
-          "source": "https://www.huxiu.com/article/4899942.html?f=rss",
+          "title": "mRNA肿瘤疫苗新进展",
+          "summary": "mRNA肿瘤疫苗或将改变治疗方法。",
+          "detail": "新的研究显示，mRNA肿瘤疫苗可能会改变当前的癌症治疗方法，研究人员在ESMO展会上分享了这一突破性进展。业内人士表示，这可能是肿瘤治疗的新曙光，而不是一场空中楼阁的梦。家人们，未来的药物会不会都是科技的产物？",
+          "usage": "💡 聊到医疗技术时可以提 \n💬 \"mRNA肿瘤疫苗可能会改写治疗方式，未来可期！\" \n🔥 医疗 mRNA 疫苗",
+          "source": "https://www.huxiu.com/article/4900182.html?f=rss",
           "tags": [
-            "PersonalAgent",
-            "AI",
-            "Meta"
+            "mRNA",
+            "肿瘤",
+            "医疗"
           ]
         }
       ]
@@ -155,103 +125,36 @@
       "icon": "📱",
       "items": [
         {
-          "title": "苹果折叠屏翻车",
-          "summary": "首款折叠iPhone黄牛都嫌弃",
-          "detail": "苹果首款折叠屏iPhone发售即遇冷，北京华贸店外的黄牛表示要亏本甩卖。这款被寄予厚望的新品因定价过高和实用性存疑遭遇滑铁卢。果粉纷纷表示：这次真的买不动了。",
-          "usage": "💡 聊苹果新品时\n💬 连黄牛都不收的苹果，你买吗？\n🔥 苹果 折叠屏 iPhone",
-          "source": "https://www.huxiu.com/article/4900045.html?f=rss",
+          "title": "Kimi K3.1 Pro发布",
+          "summary": "Kimi K3.1 Pro正式发布，参数狂飙。",
+          "detail": "10月24日，Kimi发布了全新K3.1 Pro模型，号称三万亿级参数，最大的亮点是支持百万token的上下文。这款模型定价也很有竞争力，绝对是向其他大牌发起挑战的姿态。在这个拼技术的时代，Kimi能否在市场上脱颖而出？",
+          "usage": "💡 讨论新的AI模型时提及 \n💬 \"Kimi K3.1 Pro发布，参数好到让竞争对手都汗颜！\" \n🔥 Kimi K3.1 Pro 新品",
+          "source": "https://www.huxiu.com/article/4900186.html?f=rss",
           "tags": [
-            "苹果",
-            "折叠屏",
-            "iPhone"
-          ]
-        },
-        {
-          "title": "AI办公椅来了",
-          "summary": "字节给椅子装上智能系统",
-          "detail": "字节跳动更换办公椅的计划引发热议，据悉新椅子将搭载智能系统，可监测员工久坐时间。网友吐槽：以后连椅子都会提醒你'该起来卷了'。",
-          "usage": "💡 聊智能硬件时\n💬 字节的智能椅子：你已连续工作8小时，建议立即离职\n🔥 字节跳动 智能硬件 椅子",
-          "source": "https://www.huxiu.com/article/4900109.html?f=rss",
-          "tags": [
-            "字节跳动",
-            "智能硬件",
-            "椅子"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "创业大戏",
-      "icon": "🎬",
-      "items": [
-        {
-          "title": "AI创业神话破灭",
-          "summary": "大二生60万创业实为代理",
-          "detail": "杭州电视台报道的'大二学生AI创业两个月赚60万'事件反转，当事人实为某AI公司代理人。这出创业神话的破灭引发对AI创业泡沫的讨论。网友调侃：现在连学生创业都要先学会PPT造假了。",
-          "usage": "💡 聊创业泡沫时\n💬 建议大学开设《如何制作创业神话PPT》课程\n🔥 AI创业 造假 学生",
-          "source": "https://www.huxiu.com/article/4900116.html?f=rss",
-          "tags": [
-            "AI",
-            "创业",
-            "造假"
-          ]
-        },
-        {
-          "title": "农家乐2.0逆袭",
-          "summary": "被嫌弃的农家乐杀回来了",
-          "detail": "曾经被年轻人抛弃的农家乐以新面貌回归，重庆南山的农家乐周末一位难求。深氪新消费分析认为，都市人渴望逃离数字生活的需求催生了这一现象。网友感叹：最后我们还是活成了父母的样子。",
-          "usage": "💡 聊消费趋势时\n💬 都市白领周末新去处：假装在种地\n🔥 农家乐 消费 年轻人",
-          "source": "https://www.huxiu.com/article/4900110.html?f=rss",
-          "tags": [
-            "农家乐",
-            "消费",
-            "年轻人"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "币圈风云",
-      "icon": "🪙",
-      "items": [
-        {
-          "title": "孙宇晨买保险",
-          "summary": "软银CDS价格创新高",
-          "detail": "孙正义持续加注AI投资的同时，软银5年期信用违约互换(CDS)价格升至432个基点，创2020年以来新高。这意味着市场对软银违约风险的担忧加剧。币圈人士调侃：孙宇晨要不要也买一份？",
-          "usage": "💡 聊币圈风险时\n💬 孙正义的AI赌局连保险公司都看不下去了\n🔥 孙正义 软银 风险",
-          "source": "https://www.huxiu.com/article/4900105.html?f=rss",
-          "tags": [
-            "孙正义",
-            "软银",
-            "风险"
-          ]
-        },
-        {
-          "title": "AI吸金大法",
-          "summary": "黄仁勋联手供应链扩产",
-          "detail": "NVIDIA CEO黄仁勋宣布联合供应链伙伴开启AI产业链大扩产，涵盖CPO、基板等环节。业内称这是AI投资虹吸市场流动性的最新例证。币圈玩家感叹：AI才是真·资金盘。",
-          "usage": "💡 聊资金流向时\n💬 黄仁勋：让AI的泡沫来得更猛烈些吧\n🔥 NVIDIA AI 投资",
-          "source": "https://www.huxiu.com/article/4900106.html?f=rss",
-          "tags": [
-            "NVIDIA",
-            "AI",
-            "投资"
+            "Kimi",
+            "新品",
+            "AI模型"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-24T05:23:52.362Z",
-  "slot": "weekend-morning",
-  "slot_label": "周末早晨 · 家庭时光",
+  "generated_at": "2026-10-24T13:58:05.417Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
   "meta": {
-    "model": "deepseek/deepseek-chat",
-    "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 6098,
-    "completion_tokens": 2856,
-    "total_tokens": 8954,
-    "cost_usd": 0.0045075924000000005,
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 6154,
+    "completion_tokens": 3553,
+    "total_tokens": 9707,
+    "cost_usd": 0.0030549,
     "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 7,
+      "published": 9
+    },
     "sources": {
       "per_source": {
         "kr36": 0,
@@ -259,7 +162,7 @@
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 23
+      "total": 24
     }
   }
 }

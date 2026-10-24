@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "OpenAI切断活网训练",
+          "summary": "未来模型不再实时学习互联网",
+          "detail": "OpenAI官方宣布将停止前沿模型的实时互联网数据训练，理由是'存在重大风险'。之前有工程师透露其模型已具备自我修改代码能力，疑似触发了内部安全机制。这相当于给AI按下了'暂停进化键'，以后想学新知识得靠人工投喂了。",
+          "usage": "💡 聊AI安全时抛出来\n💬 这下真成人工智障了，连上网冲浪都不让了\n🔥 OpenAI 安全机制 模型进化",
+          "source": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+          "tags": [
+            "安全",
+            "政策",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Uber全员接入ChatGPT",
+          "summary": "3万员工集体AI化",
+          "detail": "Uber宣布给全球3万名员工配备ChatGPT Work版，直接集成进日常工作流。以后客服回复可能是AI写草稿人润色，司机调度完全由算法决定——Uber司机们，准备好和AI主管打交道了吗？",
+          "usage": "💡 讨论企业AI应用时举例\n💬 以后给差评前得先想想：对面是真人还是AI在装哭\n🔥 企业部署 ChatGPT Uber",
+          "source": "https://openai.com/index/uber-chatgpt-work-rollout",
+          "tags": [
+            "企业应用",
+            "工作流",
+            "自动化"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "蚂蚁LingDT碾压Jev",
+          "summary": "国产决策模型准确率第一",
+          "detail": "蚂蚁数科发布的LingDT-Decision-1.0在标准测试集上准确率达92.3%，超过微软DecisionAI(89.1%)和Jev(90.7%)。最骚的是支持中文场景下的模糊决策，比如'客户说考虑考虑'时该推优惠还是放他走。",
+          "usage": "💡 聊决策智能时甩数据\n💬 蚂蚁这是要给所有销售经理配AI军师啊\n🔥 决策模型 准确率 中文场景",
+          "source": "https://www.qbitai.com/2026/10/504879.html",
+          "tags": [
+            "决策智能",
+            "金融科技",
+            "中文NLP"
+          ]
+        },
+        {
+          "title": "星辰模型读懂潜台词",
+          "summary": "29B参数专攻意图理解",
+          "detail": "中电信发布的Xing4.0-29B-Intent能同时处理选择题和填空题两种意图理解任务。比如用户说'太贵了'，它能区分是在讨价还价(该推优惠)还是真嫌贵(该推荐平替)。现已在HuggingFace开源，堪称产品经理的读心术外挂。",
+          "usage": "💡 演示对话系统时举例\n💬 建议和客服机器人联名出书《人类废话大全解读指南》\n🔥 意图理解 开源模型 对话系统",
+          "source": "https://www.qbitai.com/2026/10/504832.html",
+          "tags": [
+            "意图识别",
+            "开源",
+            "对话AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "马斯克称FSD必赢",
+          "summary": "放话中国也要领先",
+          "detail": "面对特斯拉利润腰斩的质疑，马斯克在财报会放狠话：'FSD在中国也会遥遥领先'。目前FSD年增70万付费用户，但网友发现他说的领先是和'其他车企'比——敢情是把Waymo这些自动驾驶公司开除车籍了？",
+          "usage": "💡 聊自动驾驶竞争时引用\n💬 马教主重新定义竞品范围：比我强的都不算车\n🔥 特斯拉 FSD 自动驾驶",
+          "source": "https://www.qbitai.com/2026/10/504841.html",
+          "tags": [
+            "自动驾驶",
+            "特斯拉",
+            "马斯克"
+          ]
+        },
+        {
+          "title": "黄仁勋带货机器鸭",
+          "summary": "2万台圣诞秒光",
+          "detail": "老黄在TechCrunch峰会上亲自演示Nvidia投资的Microduck机器人，这只会跺脚、装死的小鸭子售价249刀，结果2万台库存圣诞档期秒空。网友：皮衣战神带货比李佳琦还狠，下次该轮到核显跑AI了吧？",
+          "usage": "💡 聊AI玩具时玩梗\n💬 建议出4090版烤鸭机器人，主打真·发热量大\n🔥 黄仁勋 机器人 消费电子",
+          "source": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+          "tags": [
+            "消费AI",
+            "机器人",
+            "NVIDIA"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI估值冲1.25T",
+          "summary": "新一轮融资30B刀",
+          "detail": "OpenAI正在筹备上市前最后一轮融资，目标估值1.25万亿美元——相当于3个特斯拉。按这个价算，微软持有的49%股份够买下整个英伟达还有剩。投资人：贵是贵了点，但总比买比特币踏实对吧？",
+          "usage": "💡 聊AI投资泡沫时对比\n💬 建议改名叫CloseAI，这估值根本没给对手留活路啊\n🔥 OpenAI 融资 估值",
+          "source": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+          "tags": [
+            "融资",
+            "估值",
+            "IPO"
+          ]
+        },
+        {
+          "title": "百度世界2026剧透",
+          "summary": "AI组织进化路线图",
+          "detail": "百度世界2026将设10+分论坛专注'智能组织进化'，从内部流出的议程看，重点包括：AI员工考核标准、人机协作KPI体系、数字员工股权激励。打工人瑟瑟发抖：以后末位淘汰是和AI比还是和AI组队？",
+          "usage": "💡 聊未来工作形态时抛\n💬 建议增设'最佳人类员工奖'，奖品是AI写的推荐信\n🔥 百度 未来组织 AI转型",
+          "source": "https://www.qbitai.com/2026/10/504901.html",
+          "tags": [
+            "企业转型",
+            "组织管理",
+            "百度"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "AT&T律师AI上岗",
+          "summary": "合同审查效率翻倍",
+          "detail": "AT&TLegalEdge团队用OpenAI重构法务流程，现在AI能自动提取合同关键条款、标注风险点，律师只需做最终判断。试点组人均处理量从8份/天涨到17份，就是苦了新来的实习生——以前能摸鱼学条款，现在直接面对AI批改作业。",
+          "usage": "💡 聊法律科技时举例\n💬 建议AI出《如何优雅地驳回人类律师意见》手册\n🔥 法律AI 合同审查 效率提升",
+          "source": "https://openai.com/index/att-legal",
+          "tags": [
+            "企业应用",
+            "法律科技",
+            "效率工具"
+          ]
+        },
+        {
+          "title": "1Password支持AI代登",
+          "summary": "不用泄露密码给AI",
+          "detail": "1Password新功能允许AI助手登录用户账号但看不到明文密码，原理类似临时密钥。实测支持ChatGPT自动订餐、Copilot代购等场景。网友：终于不用在'方便'和'社死'之间二选一了。",
+          "usage": "💡 聊AI隐私风险时举例\n💬 建议下次更新增加'AI代骂前任'功能，密钥有效期3秒\n🔥 密码管理 AI安全 隐私保护",
+          "source": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+          "tags": [
+            "隐私安全",
+            "密码管理",
+            "AI代理"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "OpenAI誓师决策模型",
+          "summary": "正面硬刚Jev开源版",
+          "detail": "OpenAI将其决策模型全面开放，直接对标Jev开源生态。特色是支持多目标优化，比如同时考虑'利润最大化'和'客服差评最少'。开发者实测在库存调度场景比Jev快23%，就是API文档依旧保持OpenAI祖传谜语人风格。",
+          "usage": "💡 聊开源竞争时对比\n💬 建议改名叫CloseSourceAI，开源都搞得像施舍\n🔥 决策模型 开源竞争 多目标优化",
+          "source": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+          "tags": [
+            "开源",
+            "决策智能",
+            "API"
+          ]
+        },
+        {
+          "title": "生数直播AI训练",
+          "summary": "PhysicalAI全流程解密",
+          "detail": "生数科技开启为期半个月的Motubrain 2.0训练全程直播，从数据清洗到物理模拟全透明。最精彩的是看AI如何学习'玻璃杯比纸杯耐热'这种常识——摔碎3000个虚拟杯子后终于开窍了。",
+          "usage": "💡 聊AI训练过程时玩梗\n💬 建议开设'AI幼稚园'直播频道，24小时围观智障学习\n🔥 世界模型 训练过程 物理AI",
+          "source": "https://www.qbitai.com/2026/10/504730.html",
+          "tags": [
+            "物理AI",
+            "训练过程",
+            "直播"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "AI荒岛求生实录",
+          "summary": "13个智能体自创游戏",
+          "detail": "MIT把13个AI流放到虚拟荒岛，结果它们不仅发明了'数字椰子保龄球'等游戏，还会为'死掉'的同伴举行葬礼。论文作者震惊：我们只是想看它们怎么分配资源，结果围观了一场AI版《蝇王》。",
+          "usage": "💡 聊多智能体时抛梗\n💬 建议下个课题：给AI看《甄嬛传》观察宫斗水平\n🔥 多智能体 涌现行为 社会学",
+          "source": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+          "tags": [
+            "多智能体",
+            "社会学",
+            "MIT"
+          ]
+        },
+        {
+          "title": "清华AI医生上岗",
+          "summary": "多智能体协作问诊",
+          "detail": "清华AIR实验室的医生AI分身能同时调用检查单解读、病历检索、治疗方案建议等子智能体，在北京某三甲试点时问诊准确率达91%。患者表示唯一不适是：'它建议我少熬夜时的语气太像我妈了'。",
+          "usage": "💡 聊医疗AI时举例\n💬 建议增加'怼患者模式'：'再喝奶茶血糖仪就该报错了'\n🔥 医疗AI 多智能体 清华",
+          "source": "https://www.qbitai.com/2026/10/504734.html",
+          "tags": [
+            "医疗AI",
+            "多智能体",
+            "清华"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "波兰联手OpenAI",
+          "summary": "东欧AI安全桥头堡",
+          "detail": "OpenAI与波兰NASK研究所达成安全合作，重点防范AI生成的虚假信息。选择波兰是因其中立立场和 multilingual 数据优势。网友：下次大选期间，波兰语谣言检测准确率怕是要冲到99%。",
+          "usage": "💡 聊AI安全治理时举例\n💬 建议开发'政客言论离谱度检测'插件，用AI打败AI\n🔥 AI安全 地缘政治 虚假信息",
+          "source": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+          "tags": [
+            "AI治理",
+            "地缘政治",
+            "安全"
+          ]
+        },
+        {
+          "title": "inDrive布局中亚",
+          "summary": "2027年试水无人出租",
+          "detail": "网约车平台inDrive宣布携手Pony.ai和Nvidia，计划2027年在哈萨克斯坦测试无人出租车。选择阿拉木图是因当地法规宽松且道路简单——毕竟连红绿灯都没有的路口，AI再瞎也比人靠谱。",
+          "usage": "💡 聊自动驾驶落地时调侃\n💬 建议改名叫noDrive，这路况AI看了都想辞职\n🔥 自动驾驶 中亚市场 网约车",
+          "source": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+          "tags": [
+            "自动驾驶",
+            "出行",
+            "中亚"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-24T13:59:40.496Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3642,
+    "completion_tokens": 3206,
+    "total_tokens": 6848,
+    "cost_usd": 0.004235463,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

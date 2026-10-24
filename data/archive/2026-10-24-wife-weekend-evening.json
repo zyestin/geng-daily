@@ -1,0 +1,72 @@
+{
+  "categories": [
+    {
+      "name": "🎬 追剧指南",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "《尚公主》的口碑崩塌",
+          "summary": "吐槽编剧，剧情真是错得离谱。",
+          "detail": "最近大家都在吐槽《尚公主》的编剧水平，说剧情像是喝了假酒，醉得一塌糊涂。你觉得编剧是不是想挑战我们的智商？要不我们一起追剧，我帮你捡掉落的智商？",
+          "usage": "💡 找她一起追剧的时候 \n💬 \"最近《尚公主》的编剧被喷得很惨，剧情都能让我喝酒了，你觉得呢？\" \n🔥 编剧 吐槽",
+          "source": "https://m.baidu.com/s?word=%E3%80%8A%E5%B0%9A%E5%85%AC%E4%B8%BB%E3%80%8B%E7%BC%96%E5%89%A7%E6%B0%B4%E5%B9%B3%E8%A2%AB%E5%90%90%E6%A7%8D",
+          "tags": [
+            "追剧",
+            "吐槽"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "😘 土味情话",
+      "icon": "😘",
+      "items": [
+        {
+          "title": "超级话题情话",
+          "summary": "把热搜变成情话！",
+          "detail": "听说金正恩最近访问丹东，想问你：在我心里，你是不是比金正恩还重要？因为你不仅能把我拉到最远的地方，还能让我心跳加速！",
+          "usage": "💡 聊到热门话题时 \n💬 \"金正恩还能有你重要吗？你才是我心目中的第一！\" \n🔥 金正恩 情话",
+          "source": "https://m.baidu.com/s?word=%E9%87%91%E6%AD%A3%E6%81%A9%E8%AE%BF%E9%97%AE%E4%B8%B9%E4%B8%9C",
+          "tags": [
+            "情话",
+            "热搜"
+          ]
+        },
+        {
+          "title": "婚姻数据情话",
+          "summary": "用数据调侃爱情！",
+          "detail": "根据新闻，31省份婚姻数据公布了，看来我们得准备好数据，证明我们是最幸福的一对，因为你就是我的婚姻数据里唯一的正数！",
+          "usage": "💡 聊到婚姻话题时 \n💬 \"根据婚姻数据，我们的幸福感应该是100%！\" \n🔥 婚姻 数据",
+          "source": "https://m.baidu.com/s?word=31%E7%9C%81%E4%BB%BD2025%E5%B9%B4%E5%A9%9A%E5%A7%BB%E6%95%B0%E6%8D%AE%E5%85%AC%E5%B8%83",
+          "tags": [
+            "情话",
+            "婚姻"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-24T13:54:40.211Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 3155,
+    "completion_tokens": 2763,
+    "total_tokens": 5918,
+    "cost_usd": 0.00213105,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 13,
+      "published": 3
+    },
+    "sources": {
+      "per_source": {
+        "baidu": 20
+      },
+      "total": 15
+    }
+  }
+}

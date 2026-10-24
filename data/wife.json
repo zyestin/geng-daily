@@ -1,94 +1,66 @@
 {
   "categories": [
     {
-      "name": "追剧指南",
+      "name": "🎬 追剧指南",
       "icon": "🎬",
       "items": [
         {
-          "title": "皇帝变脸记",
-          "summary": "黄海冰演皇帝被错认樊少皇，笑到面膜裂",
-          "detail": "老婆快看《嫁金钗》，黄海冰演的皇帝被观众集体认成樊少皇，弹幕全是'这确定不是虚竹穿越了？'。建议你敷面膜时看，笑到面膜移位还能说是剧情需要。我们程序员看剧就爱找穿帮镜头，但这次连皇帝的脸都穿帮了！",
-          "usage": "💡 她敷面膜时聊剧情\n💬 老婆我发现个重大BUG！黄海冰的脸部识别系统版本号对不上樊少皇的\n🔥 黄海冰 樊少皇 脸盲",
-          "source": "https://m.baidu.com/s?word=%E9%BB%84%E6%B5%B7%E5%86%B0%E6%BC%94%E3%80%8A%E5%AB%81%E9%87%91%E9%92%97%E3%80%8B%E7%9A%87%E5%B8%9D%E8%A2%AB%E9%94%99%E8%AE%A4%E6%A8%8A%E5%B0%91%E7%9A%87&sa=fyb_news",
+          "title": "《尚公主》的口碑崩塌",
+          "summary": "吐槽编剧，剧情真是错得离谱。",
+          "detail": "最近大家都在吐槽《尚公主》的编剧水平，说剧情像是喝了假酒，醉得一塌糊涂。你觉得编剧是不是想挑战我们的智商？要不我们一起追剧，我帮你捡掉落的智商？",
+          "usage": "💡 找她一起追剧的时候 \n💬 \"最近《尚公主》的编剧被喷得很惨，剧情都能让我喝酒了，你觉得呢？\" \n🔥 编剧 吐槽",
+          "source": "https://m.baidu.com/s?word=%E3%80%8A%E5%B0%9A%E5%85%AC%E4%B8%BB%E3%80%8B%E7%BC%96%E5%89%A7%E6%B0%B4%E5%B9%B3%E8%A2%AB%E5%90%90%E6%A7%8D",
           "tags": [
-            "古装剧",
-            "明星撞脸"
-          ]
-        },
-        {
-          "title": "发型保卫战",
-          "summary": "赵丽颖直播发型翻车，程序员解法亮了",
-          "detail": "赵丽颖团队回应发型争议说'在洗了'，这危机公关堪比我们程序员修BUG——'已知问题，正在处理'。建议看回放时注意弹幕，比春晚还精彩，有网友说'这是用五仁月饼当发胶了吧'。下次你吐槽我发型时，我就说'在洗了在洗了'。",
-          "usage": "💡 她做头发时\n💬 宝贝我给你买了同款洗发水，叫「404 Not Found」\n🔥 赵丽颖 发型 危机公关",
-          "source": "https://m.baidu.com/s?word=%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%96%B9%E5%9B%9E%E5%BA%94%E7%9B%B4%E6%92%AD%E5%8F%91%E5%9E%8B%E4%BA%89%E8%AE%AE%EF%BC%9A%E5%9C%A8%E6%B4%97%E4%BA%86&sa=fyb_news",
-          "tags": [
-            "明星八卦",
-            "幽默化解"
+            "追剧",
+            "吐槽"
           ]
         }
       ]
     },
     {
-      "name": "土味情话",
+      "name": "😘 土味情话",
       "icon": "😘",
       "items": [
         {
-          "title": "卫星级浪漫",
-          "summary": "用一箭六星发射爱心",
-          "detail": "结合今天中国成功发射一箭六星的热搜：'老婆你知道为什么火箭能一箭六星吗？因为像我这样的直男，要把周一到周六的'我爱你'一次性发射给你，周日留给你回传信号。' 说的时候要比划火箭升天动作。",
-          "usage": "💡 看科技新闻时\n💬 申请对接你的空间站，我的爱心已突破第二宇宙速度\n🔥 航天梗 硬核浪漫",
-          "source": "https://m.baidu.com/s?word=%E7%A5%9D%E8%B4%BA%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E5%85%AD%E6%98%9F&sa=fyb_news",
+          "title": "超级话题情话",
+          "summary": "把热搜变成情话！",
+          "detail": "听说金正恩最近访问丹东，想问你：在我心里，你是不是比金正恩还重要？因为你不仅能把我拉到最远的地方，还能让我心跳加速！",
+          "usage": "💡 聊到热门话题时 \n💬 \"金正恩还能有你重要吗？你才是我心目中的第一！\" \n🔥 金正恩 情话",
+          "source": "https://m.baidu.com/s?word=%E9%87%91%E6%AD%A3%E6%81%A9%E8%AE%BF%E9%97%AE%E4%B8%B9%E4%B8%9C",
           "tags": [
-            "时事热点",
-            "geek浪漫"
+            "情话",
+            "热搜"
           ]
         },
         {
-          "title": "孤儿车告白",
-          "summary": "把新能源段子变成甜蜜暴击",
-          "detail": "蹭'孤儿车'热搜：'那些没人修的新能源车就像遇见你之前的我——电量满格但找不到充电桩。现在我的系统提示：找到终身免费快充站，是否绑定？[确定][确定]' 配合手机充电动作。",
-          "usage": "💡 她手机充电时\n💬 检测到最佳充电接口（突然亲脸颊）\n🔥 科技梗 甜蜜互动",
-          "source": "https://m.baidu.com/s?word=%E6%95%B0%E5%8D%81%E4%B8%87%E8%BE%86%E6%96%B0%E8%83%BD%E6%BA%90%E2%80%9C%E5%AD%A4%E5%84%BF%E8%BD%A6%E2%80%9D%E8%B0%81%E8%B4%9F%E8%B4%A3%E4%BF%AE&sa=fyb_news",
+          "title": "婚姻数据情话",
+          "summary": "用数据调侃爱情！",
+          "detail": "根据新闻，31省份婚姻数据公布了，看来我们得准备好数据，证明我们是最幸福的一对，因为你就是我的婚姻数据里唯一的正数！",
+          "usage": "💡 聊到婚姻话题时 \n💬 \"根据婚姻数据，我们的幸福感应该是100%！\" \n🔥 婚姻 数据",
+          "source": "https://m.baidu.com/s?word=31%E7%9C%81%E4%BB%BD2025%E5%B9%B4%E5%A9%9A%E5%A7%BB%E6%95%B0%E6%8D%AE%E5%85%AC%E5%B8%83",
           "tags": [
-            "时事改编",
-            "程序员幽默"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "她的世界",
-      "icon": "🌟",
-      "items": [
-        {
-          "title": "帆布鞋哲学",
-          "summary": "用代码思维聊时尚趋势",
-          "detail": "当她说年轻人抛弃帆布鞋热搜时，立刻接：'这就像我们程序员从jQuery转向Vue，不是帆布鞋不好，是脚需要新的框架。不过老婆你的AJ1就像经典Python，永不过时' 然后蹲下假装给她擦鞋。",
-          "usage": "💡 她买新鞋时\n💬 经过严谨测试，你脚长的像完美API接口\n🔥 时尚梗 技术类比",
-          "source": "https://m.baidu.com/s?word=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%AD%A4%E5%9C%A8%E6%8A%9B%E5%BC%83%E5%B8%86%E5%B8%83%E9%9E%8B&sa=fyb_news",
-          "tags": [
-            "潮流解读",
-            "跨次元"
+            "情话",
+            "婚姻"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-24T05:22:40.597Z",
-  "slot": "weekend-morning",
-  "slot_label": "周末早晨 · 家庭时光",
+  "generated_at": "2026-10-24T13:54:40.211Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
   "meta": {
-    "model": "deepseek/deepseek-chat",
-    "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3008,
-    "completion_tokens": 3252,
-    "total_tokens": 6260,
-    "cost_usd": 0.0041195916,
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 3155,
+    "completion_tokens": 2763,
+    "total_tokens": 5918,
+    "cost_usd": 0.00213105,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 11,
-      "published": 5
+      "dropped_orphans": 13,
+      "published": 3
     },
     "sources": {
       "per_source": {
