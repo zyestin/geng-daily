@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "key": "2026-10-25-wife-weekend-morning",
+      "date": "2026-10-25",
+      "slot": "wife-weekend-morning",
+      "slot_label": "周末早晨 · 家庭时光",
+      "generated_at": "2026-10-25T05:44:17.839Z",
+      "weekday": "星期日",
+      "file": "archive/2026-10-25-wife-weekend-morning.json",
+      "topic_count": 4,
+      "category_names": [
+        "🎬 追剧指南",
+        "😘 土味情话"
+      ]
+    },
+    {
       "key": "2026-10-24-wife-weekend-morning",
       "date": "2026-10-24",
       "slot": "wife-weekend-morning",
@@ -1107,5 +1121,5 @@
       ]
     }
   ],
-  "updated_at": "2026-10-24T13:54:40.218Z"
+  "updated_at": "2026-10-25T05:44:17.843Z"
 }
