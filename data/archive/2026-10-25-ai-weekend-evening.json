@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "OpenAI断网训练",
+          "summary": "OpenAI宣布停止使用实时互联网数据训练前沿模型",
+          "detail": "OpenAI官方宣布将停止在实时互联网数据上训练前沿模型，理由是'重大风险'。这距离其工程师公开表示'网络数据已无法满足需求'仅过去几周。意味着未来模型训练将完全依赖精选数据集——程序员再也不用担心自己写的技术博客突然变成AI毒教材了。",
+          "usage": "💡 聊AI数据质量时用\n💬 OpenAI这是要把模型养成温室里的花朵啊\n🔥 OpenAI 数据隔离 训练风险",
+          "source": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+          "tags": [
+            "OpenAI",
+            "模型训练",
+            "数据安全"
+          ]
+        },
+        {
+          "title": "特斯拉AI医生",
+          "summary": "清华AIR孵化医生AI分身坐诊医院",
+          "detail": "清华AIR孵化的多智能体医疗系统已落地医院，医生AI分身可以独立完成分诊和初步诊断。据实测，在常见病诊断准确率上已经超过实习医生水平——以后去医院可能会遇到'请先向我的数字分身描述症状'的名场面。",
+          "usage": "💡 聊AI医疗应用时甩出来\n💬 建议给AI医生开发'不耐烦'表情包功能\n🔥 医疗AI 多智能体 清华AIR",
+          "source": "https://www.qbitai.com/2026/10/504734.html",
+          "tags": [
+            "医疗AI",
+            "多智能体",
+            "清华"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "蚂蚁决策模型",
+          "summary": "蚂蚁发布LingDT决策模型准确率超微软",
+          "detail": "蚂蚁数科发布的LingDT-Decision-1.0在商业决策任务上准确率达到92.3%，超过微软同类型产品3个百分点。最骚的是它支持'后悔机制'——当发现决策错误时会自动回溯并重建决策路径，堪称企业级Ctrl+Z。",
+          "usage": "💡 聊商业AI时用\n💬 建议给这个模型配个'老板骂我时自动装死'功能\n🔥 蚂蚁数科 决策AI 商业智能",
+          "source": "https://www.qbitai.com/2026/10/504879.html",
+          "tags": [
+            "蚂蚁集团",
+            "决策模型",
+            "商业AI"
+          ]
+        },
+        {
+          "title": "电信意图模型",
+          "summary": "电信发布Xing4.0意图理解模型",
+          "detail": "中电信AI实验室开源的Xing4.0-29B-Intent模型首次实现'选择题'和'填空题'双模式理解。在客户服务场景测试中，对用户隐含需求的识别率比前代提升47%——以后跟客服AI斗智斗勇的难度要升级了。",
+          "usage": "💡 聊NLP进展时抛出来\n💬 建议训练它识别'我要投诉'背后的真实意图是'我要折扣'\n🔥 意图识别 电信AI 开源模型",
+          "source": "https://www.qbitai.com/2026/10/504832.html",
+          "tags": [
+            "中国电信",
+            "NLP",
+            "开源模型"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "马斯克放狠话",
+          "summary": "马斯克称FSD在中国也会遥遥领先",
+          "detail": "在特斯拉财报电话会上，马斯克针对中国市场竞争表示：'FSD一年增长70万付费用户，在中国也会保持遥遥领先。'考虑到蔚小理等本土玩家的追赶速度，这话说得就像'我的WinRAR压缩速度肯定比云存储快'。",
+          "usage": "💡 聊自动驾驶时引用\n💬 建议给马斯克的'遥遥领先'申请声音商标\n🔥 特斯拉 FSD 马斯克",
+          "source": "https://www.qbitai.com/2026/10/504841.html",
+          "tags": [
+            "马斯克",
+            "特斯拉",
+            "自动驾驶"
+          ]
+        },
+        {
+          "title": "AI政见分歧",
+          "summary": "研究显示Grok偏共和党GPT偏民主党",
+          "detail": "最新研究发现，当被强制要求选择时，Grok的AI模型81%情况下推荐共和党候选人，而OpenAI的GPT-4o则73%倾向民主党。这下好了，连AI都要先问'你支持红队还是蓝队'才能好好聊天。",
+          "usage": "💡 聊AI偏见时举例\n💬 建议开发'政治立场校准滑块'功能\n🔥 AI偏见 政治倾向 Grok",
+          "source": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+          "tags": [
+            "Grok",
+            "GPT",
+            "AI伦理"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI结盟波兰",
+          "summary": "OpenAI与波兰NASK达成AI安全合作",
+          "detail": "OpenAI宣布与波兰国家研究机构NASK合作推进AI安全研究，重点在内容审核和网络安全方向。考虑到波兰在欧盟的地缘位置，这相当于在AI军备竞赛中找了个精通多国语言的哨兵。",
+          "usage": "💡 聊AI安全时提及\n💬 建议训练AI用波兰语骂人时自动触发安全机制\n🔥 OpenAI 波兰 AI安全",
+          "source": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+          "tags": [
+            "OpenAI",
+            "AI安全",
+            "国际合作"
+          ]
+        },
+        {
+          "title": "Uber全员AI",
+          "summary": "Uber为3万员工部署ChatGPT Work",
+          "detail": "Uber开始向全球3万名员工全面部署ChatGPT Work版本，重点支持数据分析和市场研究。最实用的可能是自动生成'您的订单正在绕路中'的合理化解释模板。",
+          "usage": "💡 聊企业AI应用时举例\n💬 建议开发'如何优雅地向乘客解释溢价'专项功能\n🔥 Uber 企业AI ChatGPT",
+          "source": "https://openai.com/index/uber-chatgpt-work-rollout",
+          "tags": [
+            "Uber",
+            "企业AI",
+            "ChatGPT"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "Block语音克隆",
+          "summary": "Block新语音模型可本地运行",
+          "detail": "Block发布的新语音模型能在M4 Max芯片上本地运行，音色拟真度让测试者惊呼'这绝对是我妈在说话'。唯一的bug是当你说'我没钱了'时，它会自动切换成催债模式。",
+          "usage": "💡 聊语音AI时举例\n💬 建议增加'识别亲妈唠叨自动静音'功能\n🔥 语音合成 本地推理 Block",
+          "source": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "tags": [
+            "Block",
+            "语音合成",
+            "端侧AI"
+          ]
+        },
+        {
+          "title": "AI短信管家",
+          "summary": "TechCrunch盘点最火短信AI助手",
+          "detail": "TechCrunch最新盘点显示，能常驻短信的AI助手已成新趋势，其中最受欢迎的是能自动把老板的'尽快完成'翻译成'明天再说'的职场求生型助手。",
+          "usage": "💡 聊AI助手时引用\n💬 建议开发'女朋友说没关系时实际意思解析'插件\n🔥 AI助手 短信代理 语义理解",
+          "source": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "tags": [
+            "AI助手",
+            "短信代理",
+            "语义理解"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "电信开源意图模型",
+          "summary": "中电信开源29B意图理解模型",
+          "detail": "中电信AI实验室开源的Xing4.0-29B-Intent采用商用友好的Apache 2.0协议，在客服场景测试中成功识别出87%的'我要退订'实际意思是'给我优惠就继续用'。",
+          "usage": "💡 聊中文NLP时推荐\n💬 建议增加'识别程序员说没事时的手抖程度'指标\n🔥 开源模型 意图理解 电信AI",
+          "source": "https://www.qbitai.com/2026/10/504832.html",
+          "tags": [
+            "开源模型",
+            "NLP",
+            "中国电信"
+          ]
+        },
+        {
+          "title": "AI坟场更新",
+          "summary": "TechCrunch盘点失败AI项目",
+          "detail": "TechCrunch更新'AI坟场'名单，从苹果屡次跳票的Siri重做到OpenAI混乱的'超级应用'发布。最有教育意义的失败案例是那个承诺'完全理解用户需求'的客服AI——它最后因为压力过大主动关闭了自己。",
+          "usage": "💡 聊AI泡沫时举例\n💬 建议给所有AI项目添加'抑郁自评量表'\n🔥 AI失败案例 产品死亡 技术泡沫",
+          "source": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "tags": [
+            "AI失败",
+            "产品死亡",
+            "案例分析"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "世界模型落地",
+          "summary": "清华系公司世界模型植入机器人",
+          "detail": "生数科技将世界模型成功植入实体机器人，比LeCun团队相似工作早一年完成。这些机器人能理解'把掉在地上的饼干捡起来'实际意思是'偷吃时要记得擦嘴'。",
+          "usage": "💡 聊具身智能时举例\n💬 建议训练机器人理解'马上到'的真实时间单位\n🔥 世界模型 具身智能 清华系",
+          "source": "https://www.qbitai.com/2026/10/504653.html",
+          "tags": [
+            "世界模型",
+            "机器人",
+            "具身智能"
+          ]
+        },
+        {
+          "title": "Physical AI直播",
+          "summary": "生数科技直播Physical AI训练过程",
+          "detail": "生数科技开启为期半个月的Motubrain 2.0训练全流程直播，观众可以看到AI如何从'把机械臂当苍蝇拍'进步到'优雅地倒咖啡'。建议倍速观看，否则前72小时都是机械臂在抽风。",
+          "usage": "💡 聊AI训练过程时推荐\n💬 建议增加'AI卖萌求点赞'的实时互动功能\n🔥 PhysicalAI 训练直播 生数科技",
+          "source": "https://www.qbitai.com/2026/10/504730.html",
+          "tags": [
+            "PhysicalAI",
+            "训练过程",
+            "生数科技"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "百度世界前瞻",
+          "summary": "百度世界2026将办10+AI分论坛",
+          "detail": "百度世界2026大会将设十余个AI主题分论坛，从智能制造到智慧医疗全覆盖。最受期待的可能是'如何让AI汇报时不说正确的废话'工作坊。",
+          "usage": "💡 聊国内AI会议时提及\n💬 建议设置'一键生成领导讲话'体验区\n🔥 百度世界 行业大会 AI论坛",
+          "source": "https://www.qbitai.com/2026/10/504901.html",
+          "tags": [
+            "百度",
+            "行业大会",
+            "AI趋势"
+          ]
+        },
+        {
+          "title": "鸭子机器人爆火",
+          "summary": "NVIDIA CEO带货Microduck售罄",
+          "detail": "NVIDIA黄仁勋演示的Microduck机器人成为圣诞爆款，2万台秒售罄。这些会'装死'的鸭子唯一的问题是充电时会发出'我要吃显卡'的奇怪需求。",
+          "usage": "💡 聊AI玩具时举例\n💬 建议开发'挖矿时嘎嘎叫'的特别版\n🔥 AI玩具 Microduck 黄仁勋",
+          "source": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+          "tags": [
+            "AI玩具",
+            "Microduck",
+            "NVIDIA"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-25T14:18:45.858Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3611,
+    "completion_tokens": 3035,
+    "total_tokens": 6646,
+    "cost_usd": 0.0040515759,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

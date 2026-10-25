@@ -1,245 +1,148 @@
 {
   "categories": [
     {
-      "name": "今日头条",
+      "name": "📰 今日头条",
       "icon": "📰",
       "items": [
         {
-          "title": "马斯克疯狂合并计划",
-          "summary": "SpaceX与特斯拉或将合并",
-          "detail": "马斯克又双叒叕搞事情了！据英国《金融时报》报道，这位硅谷钢铁侠正推动SpaceX与特斯拉潜在合并，准备打造一个超级AI帝国。家人们谁懂啊，这波操作堪称'星际特斯拉'计划，以后买电动车送火星船票吗？",
-          "usage": "💡 同事讨论马斯克最新动向时\n💬 马斯克要把特斯拉和SpaceX合并，这是要造变形金刚啊！\n🔥 马斯克 SpaceX 特斯拉",
-          "source": "https://www.huxiu.com/article/4900246.html?f=rss",
+          "title": "CoreWeave崩盘",
+          "summary": "英伟达亲儿子变垃圾债",
+          "detail": "曾被誉为“英伟达亲儿子”的CoreWeave，最近因为债务问题被标为“垃圾债”。这家公司一度风光无限，靠着英伟达的GPU资源快速崛起，但没想到今年资金链断裂，直接崩盘。老黄（黄仁勋）的GPU再牛，也救不了它。",
+          "usage": "💡 聊到英伟达或GPU市场\n💬 CoreWeave从亲儿子变垃圾债，老黄的GPU也救不了它\n🔥 CoreWeave 英伟达 垃圾债",
+          "source": "https://www.huxiu.com/article/4900315.html?f=rss",
           "tags": [
-            "马斯克",
-            "SpaceX",
-            "特斯拉"
+            "CoreWeave",
+            "英伟达",
+            "垃圾债"
           ]
         },
         {
-          "title": "面板行业集体涨价",
-          "summary": "AI大模型带动面板需求暴涨",
-          "detail": "AI大模型狂飙突进，没想到把面板行业给带火了！各大面板厂商集体发函涨价，但下游厂商都快哭了：'你们涨价一时爽，我们成本火葬场'。这波操作堪称'AI吃肉，面板喝汤'，不知道最后买单的是不是又是消费者？",
-          "usage": "💡 聊到硬件涨价时\n💬 AI火爆连面板都跟着涨价，这波属于产业链连环套啊\n🔥 面板 涨价 AI大模型",
-          "source": "https://www.huxiu.com/article/4900251.html?f=rss",
+          "title": "AI短剧试水",
+          "summary": "AI短剧颠覆长剧市场",
+          "detail": "AI短剧今年火了，靠着无CP女主、赛博朋克、无限流等新题材，直接颠覆了传统长剧市场。2025年AI短剧品类从44个扩展到65个，新增21个，简直就是短剧界的“文艺复兴”。",
+          "usage": "💡 聊到AI或影视行业\n💬 AI短剧今年火了，传统长剧瑟瑟发抖\n🔥 AI短剧 赛博朋克 无限流",
+          "source": "https://www.huxiu.com/article/4900307.html?f=rss",
           "tags": [
-            "面板",
-            "AI",
-            "涨价"
+            "AI短剧",
+            "赛博朋克",
+            "无限流"
           ]
         }
       ]
     },
     {
-      "name": "大佬动态",
+      "name": "🎤 大佬动态",
       "icon": "🎤",
       "items": [
         {
-          "title": "马斯克的AI帝国梦",
-          "summary": "马斯克要打造超级AI帝国",
-          "detail": "马斯克不仅想把特斯拉和SpaceX合并，还想打造一个超级AI帝国。这位科技狂人又开启了'画饼模式'，说要让人工智能、机器人技术和太空探索完美结合。吃瓜群众纷纷表示：'这饼画得比SpaceX的火箭还大'！",
-          "usage": "💡 聊到AI未来发展时\n💬 马斯克又要搞大事情，想把AI、机器人和太空探索全包圆了\n🔥 马斯克 AI 机器人",
-          "source": "https://www.huxiu.com/article/4900246.html?f=rss",
+          "title": "马斯克又怼人",
+          "summary": "马斯克怒喷特朗普",
+          "detail": "马斯克最近在一次采访中怒喷特朗普，说他“毫无逻辑”。两位大佬的恩怨由来已久，这次马斯克直接点名批评，火药味十足。",
+          "usage": "💡 聊到大佬互怼\n💬 马斯克又开怼了，这次是特朗普\n🔥 马斯克 特朗普 互怼",
+          "source": "https://www.toutiao.com/trending/7700572569123966502/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700572569123966502%22%2C%22hot_board_impr_id%22%3A%22202610252211537364FE5133D5D7C42D81%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%A5%E5%B7%B4%E9%A9%AC%E6%80%92%E5%96%B7%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E4%B8%BA%E4%BD%95%E4%BA%8B%22%7D&rank=&style_id=40132&topic_id=7700572569123966502",
           "tags": [
             "马斯克",
-            "AI",
-            "SpaceX"
+            "特朗普",
+            "互怼"
+          ]
+        },
+        {
+          "title": "黄仁勋低调",
+          "summary": "黄仁勋不谈CoreWeave",
+          "detail": "CoreWeave崩盘后，黄仁勋一直保持低调，没有公开评论。外界猜测老黄可能对CoreWeave的崩盘早有预感，毕竟他是英伟达的掌舵人。",
+          "usage": "💡 聊到CoreWeave或英伟达\n💬 老黄这次很低调，CoreWeave崩盘他一句话没说\n🔥 黄仁勋 CoreWeave 英伟达",
+          "source": "https://www.huxiu.com/article/4900315.html?f=rss",
+          "tags": [
+            "黄仁勋",
+            "CoreWeave",
+            "英伟达"
           ]
         }
       ]
     },
     {
-      "name": "巨头动向",
+      "name": "🏢 巨头动向",
       "icon": "🏢",
       "items": [
         {
-          "title": "快狗打车败走内地",
-          "summary": "同城货运第一股遭遇滑铁卢",
-          "detail": "曾经的同城货运'第一股'快狗打车在内地市场节节败退，被货拉拉、滴滴货运按在地上摩擦。这波属于典型的'起了个大早，赶了个晚集'，现在连抽佣都快抽不动了，建议改名叫'慢狗打车'算了！",
-          "usage": "💡 聊到互联网企业生存现状时\n💬 快狗打车都快变成死狗打车了，这市场竞争也太惨烈了\n🔥 快狗打车 同城货运 竞争",
-          "source": "https://www.huxiu.com/article/4900242.html?f=rss",
+          "title": "微软采购AI算力",
+          "summary": "微软狂买AI算力",
+          "detail": "微软最近大举采购AI算力，准备在云计算和AI领域再下一城。据悉，微软已经签下了多个大单，目标是在未来几年内成为AI算力市场的领头羊。",
+          "usage": "💡 聊到AI或云计算\n💬 微软这次下血本了，狂买AI算力\n🔥 微软 AI算力 云计算",
+          "source": "https://www.huxiu.com/article/4900312.html?f=rss",
           "tags": [
-            "快狗打车",
-            "同城货运",
-            "竞争"
-          ]
-        },
-        {
-          "title": "面板厂商集体涨价",
-          "summary": "AI带动面板行业迎来涨价潮",
-          "detail": "AI大模型火爆，连带着面板行业也跟着起飞。各大面板厂商最近集体发函涨价，但这波'AI吃肉，面板喝汤'的操作让下游厂商苦不堪言。建议下次发布会把主题定为'如何在不涨价的情况下继续生存'！",
-          "usage": "💡 聊到供应链问题时\n💬 面板厂商集体涨价，下游厂商怕是要集体上吊了\n🔥 面板 涨价 AI",
-          "source": "https://www.huxiu.com/article/4900251.html?f=rss",
-          "tags": [
-            "面板",
-            "涨价",
-            "供应链"
+            "微软",
+            "AI算力",
+            "云计算"
           ]
         }
       ]
     },
     {
-      "name": "组织变动",
-      "icon": "🔀",
-      "items": [
-        {
-          "title": "机器人公司IPO危机",
-          "summary": "具身机器人公司上市困难重重",
-          "detail": "一家准备通过港股18C特专科技通道上市的具身机器人公司，现在员工们都开始担心自己的期权要变成'空气权'了。老板最近不仅烧香拜佛，还翻起了旧账，生怕估值继续往下掉。这波操作堪称'上市版密室逃脱'！",
-          "usage": "💡 聊到创业公司融资难时\n💬 机器人公司老板都开始烧香拜佛了，这届创业者太难了\n🔥 机器人 IPO 估值",
-          "source": "https://www.huxiu.com/article/4900249.html?f=rss",
-          "tags": [
-            "机器人",
-            "IPO",
-            "创业"
-          ]
-        },
-        {
-          "title": "快狗打车收缩战线",
-          "summary": "同城货运市场竞争加剧",
-          "detail": "快狗打车在内地市场节节败退，现在基本处于'躺平'状态。面对货拉拉、滴滴货运的围剿，快狗怕是很快就要变成'流浪狗'了。这波属于典型的'起了个大早，赶了个晚集'，建议改名'慢狗打车'更贴切！",
-          "usage": "💡 聊到互联网企业生存现状时\n💬 快狗打车都快变成死狗打车了，这市场竞争也太惨烈了\n🔥 快狗打车 同城货运 竞争",
-          "source": "https://www.huxiu.com/article/4900242.html?f=rss",
-          "tags": [
-            "快狗打车",
-            "同城货运",
-            "竞争"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "前沿探索",
-      "icon": "🚀",
-      "items": [
-        {
-          "title": "马斯克的星际梦想",
-          "summary": "SpaceX与特斯拉或合并",
-          "detail": "马斯克想把SpaceX和特斯拉合并的消息一出，科技圈直接炸锅。这波操作堪称'星际特斯拉'计划，以后买电动车是不是要送火星船票？建议下次发布会直接改在SpaceX火箭发射现场举办！",
-          "usage": "💡 聊到SpaceX最新动向时\n💬 马斯克要把特斯拉和SpaceX合并，这是要造变形金刚啊！\n🔥 马斯克 SpaceX 特斯拉",
-          "source": "https://www.huxiu.com/article/4900246.html?f=rss",
-          "tags": [
-            "马斯克",
-            "SpaceX",
-            "特斯拉"
-          ]
-        },
-        {
-          "title": "机器人行业寒冬",
-          "summary": "具身机器人公司估值缩水",
-          "detail": "机器人行业最近不太好过，一家准备港股上市的具身机器人公司，现在估值缩水严重，老板都开始烧香拜佛了。这波操作堪称'科技与玄学的完美结合'，建议下次直接请道士来做法！",
-          "usage": "💡 聊到机器人行业发展时\n💬 现在机器人公司老板都开始烧香拜佛了，科技行业也不好混啊\n🔥 机器人 IPO 估值",
-          "source": "https://www.huxiu.com/article/4900249.html?f=rss",
-          "tags": [
-            "机器人",
-            "IPO",
-            "创业"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "新品发布",
-      "icon": "📱",
-      "items": [
-        {
-          "title": "面板涨价风暴",
-          "summary": "AI带动面板行业集体涨价",
-          "detail": "AI大模型火爆，没想到把面板行业给带飞了！各大厂商集体发函涨价，但下游厂商都快哭了：'你们涨价一时爽，我们成本火葬场'。建议下次发布会主题定为'如何在涨价中活下去'！",
-          "usage": "💡 聊到硬件价格波动时\n💬 面板厂商集体涨价，下游厂商怕是要集体上吊了\n🔥 面板 涨价 AI",
-          "source": "https://www.huxiu.com/article/4900251.html?f=rss",
-          "tags": [
-            "面板",
-            "涨价",
-            "供应链"
-          ]
-        },
-        {
-          "title": "快狗打车节节败退",
-          "summary": "同城货运市场竞争白热化",
-          "detail": "曾经的同城货运'第一股'快狗打车，现在在内地市场被货拉拉、滴滴货运按在地上摩擦。这波属于典型的'起了个大早，赶了个晚集'，建议改名叫'慢狗打车'更符合现状！",
-          "usage": "💡 聊到互联网企业竞争时\n💬 快狗打车都快变成死狗打车了，这市场竞争也太惨烈了\n🔥 快狗打车 同城货运 竞争",
-          "source": "https://www.huxiu.com/article/4900242.html?f=rss",
-          "tags": [
-            "快狗打车",
-            "同城货运",
-            "竞争"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "创业大戏",
+      "name": "🎬 创业大戏",
       "icon": "🎬",
       "items": [
         {
-          "title": "机器人公司IPO困局",
-          "summary": "具身机器人公司上市受阻",
-          "detail": "一家准备港股上市的具身机器人公司，现在估值不断缩水，员工们都在担心期权变废纸。老板已经开始烧香拜佛，生怕公司变成'具尸机器人'。这波操作堪称'创业版密室逃脱'！",
-          "usage": "💡 聊到创业公司融资难时\n💬 机器人公司老板都开始烧香拜佛了，这届创业者太难了\n🔥 机器人 IPO 估值",
-          "source": "https://www.huxiu.com/article/4900249.html?f=rss",
+          "title": "CoreWeave崩盘",
+          "summary": "CoreWeave从巅峰跌落",
+          "detail": "CoreWeave曾是英伟达的亲儿子，靠着GPU资源迅速崛起，但今年因为资金链断裂，直接崩盘。这场创业大戏从巅峰跌落的剧情，比电视剧还精彩。",
+          "usage": "💡 聊到CoreWeave或创业\n💬 CoreWeave从巅峰跌落，比电视剧还精彩\n🔥 CoreWeave 创业 崩盘",
+          "source": "https://www.huxiu.com/article/4900315.html?f=rss",
           "tags": [
-            "机器人",
-            "IPO",
-            "创业"
+            "CoreWeave",
+            "创业",
+            "崩盘"
           ]
         },
         {
-          "title": "快狗打车的陨落",
-          "summary": "同城货运第一股节节败退",
-          "detail": "曾经风光无限的同城货运'第一股'快狗打车，现在在内地市场被货拉拉、滴滴货运按在地上摩擦。这波属于典型的'起了个大早，赶了个晚集'，建议改名叫'慢狗打车'更符合现状！",
-          "usage": "💡 聊到互联网企业竞争时\n💬 快狗打车都快变成死狗打车了，这市场竞争也太惨烈了\n🔥 快狗打车 同城货运 竞争",
-          "source": "https://www.huxiu.com/article/4900242.html?f=rss",
+          "title": "AI短剧崛起",
+          "summary": "AI短剧颠覆传统",
+          "detail": "AI短剧今年突然崛起，靠着无CP女主、赛博朋克等新题材，直接颠覆了传统长剧市场。这场创业大戏堪称短剧界的“文艺复兴”。",
+          "usage": "💡 聊到AI短剧\n💬 AI短剧今年火了，传统长剧瑟瑟发抖\n🔥 AI短剧 赛博朋克 文艺复兴",
+          "source": "https://www.huxiu.com/article/4900307.html?f=rss",
           "tags": [
-            "快狗打车",
-            "同城货运",
-            "竞争"
+            "AI短剧",
+            "赛博朋克",
+            "文艺复兴"
           ]
         }
       ]
     },
     {
-      "name": "币圈风云",
+      "name": "🪙 币圈风云",
       "icon": "🪙",
       "items": [
         {
-          "title": "无合适素材",
-          "summary": "今日无重要币圈新闻",
-          "detail": "今日币圈异常安静，连孙宇晨都没出来搞事情，建议各位币圈大佬学习马斯克，搞点大新闻出来！",
-          "usage": "💡 聊到币圈动态时\n💬 今天币圈咋这么安静，连孙宇晨都没出来搞事情\n🔥 币圈 孙宇晨 马斯克",
-          "source": "",
+          "title": "币圈大迁徙",
+          "summary": "币圈资金大规模转移",
+          "detail": "币圈最近发生了大规模的资金迁徙，超万亿元的资金从一种加密货币转向另一种。这场迁徙背后，是币圈新一波的洗牌。",
+          "usage": "💡 聊到币圈或资金流动\n💬 币圈又大迁徙了，超万亿资金在流动\n🔥 币圈 资金迁徙 加密货币",
+          "source": "https://m.baidu.com/s?word=%E8%B6%85%E4%B8%87%E4%BA%BF%E5%85%83%E5%AD%98%E6%AC%BE%E2%80%9C%E5%A4%A7%E8%BF%81%E5%BE%99%E2%80%9D&sa=fyb_news",
           "tags": [
             "币圈",
-            "孙宇晨",
-            "马斯克"
-          ]
-        },
-        {
-          "title": "无合适素材2",
-          "summary": "今日无重要币圈新闻",
-          "detail": "币圈今日无大事发生，建议各位大佬向马斯克学习，搞点合并、收购之类的大新闻，不要整天只知道喊单！",
-          "usage": "💡 聊到加密货币时\n💬 今天币圈静悄悄，建议各位大佬向马斯克学习搞事情\n🔥 币圈 马斯克 收购",
-          "source": "",
-          "tags": [
-            "币圈",
-            "马斯克",
-            "收购"
+            "资金迁徙",
+            "加密货币"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-25T05:45:25.457Z",
-  "slot": "weekend-morning",
-  "slot_label": "周末早晨 · 家庭时光",
+  "generated_at": "2026-10-25T14:17:41.966Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 5756,
-    "completion_tokens": 2917,
-    "total_tokens": 8673,
-    "cost_usd": 0.0044823123,
+    "prompt_tokens": 5449,
+    "completion_tokens": 2976,
+    "total_tokens": 8425,
+    "cost_usd": 0.0044639838,
     "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 8,
+      "published": 8
+    },
     "sources": {
       "per_source": {
         "kr36": 0,
@@ -247,7 +150,7 @@
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 24
+      "total": 21
     }
   }
 }

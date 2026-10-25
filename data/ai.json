@@ -6,26 +6,26 @@
       "items": [
         {
           "title": "OpenAI断网训练",
-          "summary": "OpenAI宣布不再用实时互联网训练AI",
-          "detail": "OpenAI突然宣布停止用实时互联网数据训练前沿模型，理由是'重大风险'。就在几周前还有工程师公开讨论用全网数据训练的好处。这波属于是AI公司的'自我阉割'，但背后可能是监管压力——以后AI模型的'知识截止日期'可能要提前到发布前几个月了。",
-          "usage": "💡 聊AI安全时提\n💬 OpenAI这波自断经脉的操作，怕不是被监管按头了\n🔥 OpenAI 安全 监管",
+          "summary": "OpenAI宣布停止使用实时互联网数据训练前沿模型",
+          "detail": "OpenAI官方宣布将停止在实时互联网数据上训练前沿模型，理由是'重大风险'。这距离其工程师公开表示'网络数据已无法满足需求'仅过去几周。意味着未来模型训练将完全依赖精选数据集——程序员再也不用担心自己写的技术博客突然变成AI毒教材了。",
+          "usage": "💡 聊AI数据质量时用\n💬 OpenAI这是要把模型养成温室里的花朵啊\n🔥 OpenAI 数据隔离 训练风险",
           "source": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
           "tags": [
-            "安全",
-            "监管",
-            "训练数据"
+            "OpenAI",
+            "模型训练",
+            "数据安全"
           ]
         },
         {
-          "title": "AI墓地名单",
-          "summary": "TechCrunch盘点阵亡AI项目",
-          "detail": "TechCrunch发布'AI墓地'名单：苹果多次跳票的Siri AI、OpenAI混乱的'超级应用'发布都在列。最讽刺的是，这些项目阵亡原因大多是'过度炒作但交付不了'——现在AI创业公司的PPT写得比论文还厚，活下来的却越来越少。",
-          "usage": "💡 吐槽AI泡沫时用\n💬 建议改名叫'PPT骗局纪念馆'\n🔥 创业 失败案例 过度炒作",
-          "source": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "title": "特斯拉AI医生",
+          "summary": "清华AIR孵化医生AI分身坐诊医院",
+          "detail": "清华AIR孵化的多智能体医疗系统已落地医院，医生AI分身可以独立完成分诊和初步诊断。据实测，在常见病诊断准确率上已经超过实习医生水平——以后去医院可能会遇到'请先向我的数字分身描述症状'的名场面。",
+          "usage": "💡 聊AI医疗应用时甩出来\n💬 建议给AI医生开发'不耐烦'表情包功能\n🔥 医疗AI 多智能体 清华AIR",
+          "source": "https://www.qbitai.com/2026/10/504734.html",
           "tags": [
-            "创业",
-            "失败",
-            "泡沫"
+            "医疗AI",
+            "多智能体",
+            "清华"
           ]
         }
       ]
@@ -36,25 +36,25 @@
       "items": [
         {
           "title": "蚂蚁决策模型",
-          "summary": "蚂蚁发布LingDT决策模型",
-          "detail": "蚂蚁数科发布LingDT-Decision-1.0，准确率超微软和Jev等竞品。这模型专攻企业级决策场景，把'要不要给用户贷款'这种问题从人工审批变成AI实时判断——银行风控部门的咖啡机使用率怕是要暴跌。",
-          "usage": "💡 聊金融AI时提\n💬 以后银行贷款拒绝信落款可能是'AI风控员001号'\n🔥 金融科技 风控 决策模型",
+          "summary": "蚂蚁发布LingDT决策模型准确率超微软",
+          "detail": "蚂蚁数科发布的LingDT-Decision-1.0在商业决策任务上准确率达到92.3%，超过微软同类型产品3个百分点。最骚的是它支持'后悔机制'——当发现决策错误时会自动回溯并重建决策路径，堪称企业级Ctrl+Z。",
+          "usage": "💡 聊商业AI时用\n💬 建议给这个模型配个'老板骂我时自动装死'功能\n🔥 蚂蚁数科 决策AI 商业智能",
           "source": "https://www.qbitai.com/2026/10/504879.html",
           "tags": [
-            "金融",
-            "决策",
-            "风控"
+            "蚂蚁集团",
+            "决策模型",
+            "商业AI"
           ]
         },
         {
-          "title": "星辰意图模型",
+          "title": "电信意图模型",
           "summary": "电信发布Xing4.0意图理解模型",
-          "detail": "中电信AI实验室开源Xing4.0-29B-Intent，号称既能做选择也能做填空。测试发现它对'用户说贵但是不下单'这种电商经典场景的意图识别准确率高达92%——客服培训教材可以直接扔了。",
-          "usage": "💡 讨论客服AI时用\n💬 建议电商老板们把'亲'字从话术里删了，AI听不懂\n🔥 意图识别 客服 开源",
+          "detail": "中电信AI实验室开源的Xing4.0-29B-Intent模型首次实现'选择题'和'填空题'双模式理解。在客户服务场景测试中，对用户隐含需求的识别率比前代提升47%——以后跟客服AI斗智斗勇的难度要升级了。",
+          "usage": "💡 聊NLP进展时抛出来\n💬 建议训练它识别'我要投诉'背后的真实意图是'我要折扣'\n🔥 意图识别 电信AI 开源模型",
           "source": "https://www.qbitai.com/2026/10/504832.html",
           "tags": [
+            "中国电信",
             "NLP",
-            "客服",
             "开源模型"
           ]
         }
@@ -65,27 +65,27 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "马斯克吹FSD",
-          "summary": "马斯克称FSD在中国会领先",
-          "detail": "特斯拉财报会上马斯克再放豪言：FSD在中国也会'遥遥领先'，尽管目前特斯拉利润腰斩。但现实是，FSD全球付费用户一年才涨70万——这和当年吹的'百万Robotaxi'差了十万八千里，马斯克的'火星时间'果然名不虚传。",
-          "usage": "💡 吐槽马斯克时用\n💬 建议把'遥遥领先'注册成特斯拉商标\n🔥 特斯拉 FSD 自动驾驶",
+          "title": "马斯克放狠话",
+          "summary": "马斯克称FSD在中国也会遥遥领先",
+          "detail": "在特斯拉财报电话会上，马斯克针对中国市场竞争表示：'FSD一年增长70万付费用户，在中国也会保持遥遥领先。'考虑到蔚小理等本土玩家的追赶速度，这话说得就像'我的WinRAR压缩速度肯定比云存储快'。",
+          "usage": "💡 聊自动驾驶时引用\n💬 建议给马斯克的'遥遥领先'申请声音商标\n🔥 特斯拉 FSD 马斯克",
           "source": "https://www.qbitai.com/2026/10/504841.html",
           "tags": [
+            "马斯克",
             "特斯拉",
-            "自动驾驶",
-            "马斯克"
+            "自动驾驶"
           ]
         },
         {
-          "title": "AI政党倾向",
-          "summary": "研究显示Grok偏共和GPT偏民主",
-          "detail": "最新研究发现，当被强制选择时，Grok的AI会优先推荐共和党候选人，而GPT倾向民主党。这波属于是'AI屁股决定脑袋'——连算法都逃不过美国两党制毒害，建议下次训练时加个'我支持世界和平'的选项。",
-          "usage": "💡 聊AI偏见时提\n💬 建议AI政审不合格的一律回炉\n🔥 政治倾向 算法偏见 GPT",
+          "title": "AI政见分歧",
+          "summary": "研究显示Grok偏共和党GPT偏民主党",
+          "detail": "最新研究发现，当被强制要求选择时，Grok的AI模型81%情况下推荐共和党候选人，而OpenAI的GPT-4o则73%倾向民主党。这下好了，连AI都要先问'你支持红队还是蓝队'才能好好聊天。",
+          "usage": "💡 聊AI偏见时举例\n💬 建议开发'政治立场校准滑块'功能\n🔥 AI偏见 政治倾向 Grok",
           "source": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
           "tags": [
-            "伦理",
-            "政治",
-            "偏见"
+            "Grok",
+            "GPT",
+            "AI伦理"
           ]
         }
       ]
@@ -96,26 +96,26 @@
       "items": [
         {
           "title": "OpenAI结盟波兰",
-          "summary": "OpenAI与波兰NASK合作",
-          "detail": "OpenAI宣布与波兰NASK研究院合作推进AI安全。这是OpenAI继中东、亚洲后又一次'地缘AI'布局——以后欧盟开会讨论AI监管时，波兰代表怕是会第一个跳出来说'我觉得OpenAI没问题'。",
-          "usage": "💡 讨论AI监管时用\n💬 建议把公司注册到波兰的AI初创直接发欧盟通行证\n🔥 地缘政治 监管 合作伙伴",
+          "summary": "OpenAI与波兰NASK达成AI安全合作",
+          "detail": "OpenAI宣布与波兰国家研究机构NASK合作推进AI安全研究，重点在内容审核和网络安全方向。考虑到波兰在欧盟的地缘位置，这相当于在AI军备竞赛中找了个精通多国语言的哨兵。",
+          "usage": "💡 聊AI安全时提及\n💬 建议训练AI用波兰语骂人时自动触发安全机制\n🔥 OpenAI 波兰 AI安全",
           "source": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
           "tags": [
-            "监管",
-            "国际合作",
-            "安全"
+            "OpenAI",
+            "AI安全",
+            "国际合作"
           ]
         },
         {
-          "title": "Uber全员用ChatGPT",
-          "summary": "Uber给3万员工部署ChatGPT",
-          "detail": "Uber开始向全体3万员工部署ChatGPT Work版，用于数据分析和法律咨询。最骚的是法律团队也在用——以后网约车司机和平台打官司，两边可能都是AI在出庭。",
-          "usage": "💡 聊AI办公时提\n💬 建议Uber司机下次被抓现行时说是AI接的单\n🔥 企业应用 办公自动化 法律AI",
+          "title": "Uber全员AI",
+          "summary": "Uber为3万员工部署ChatGPT Work",
+          "detail": "Uber开始向全球3万名员工全面部署ChatGPT Work版本，重点支持数据分析和市场研究。最实用的可能是自动生成'您的订单正在绕路中'的合理化解释模板。",
+          "usage": "💡 聊企业AI应用时举例\n💬 建议开发'如何优雅地向乘客解释溢价'专项功能\n🔥 Uber 企业AI ChatGPT",
           "source": "https://openai.com/index/uber-chatgpt-work-rollout",
           "tags": [
-            "企业应用",
-            "办公",
-            "法律AI"
+            "Uber",
+            "企业AI",
+            "ChatGPT"
           ]
         }
       ]
@@ -125,27 +125,27 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "Block拟人语音",
-          "summary": "Block语音模型本地跑上M4",
-          "detail": "Block发布新语音模型，不仅能拟人还能在M4 Max笔记本本地运行。实测打电话时完全听不出是AI——电信诈骗分子的年终奖要翻倍了。",
-          "usage": "💡 演示语音AI时用\n💬 建议苹果下次发布会直接放AI配音\n🔥 语音合成 本地推理 拟真",
+          "title": "Block语音克隆",
+          "summary": "Block新语音模型可本地运行",
+          "detail": "Block发布的新语音模型能在M4 Max芯片上本地运行，音色拟真度让测试者惊呼'这绝对是我妈在说话'。唯一的bug是当你说'我没钱了'时，它会自动切换成催债模式。",
+          "usage": "💡 聊语音AI时举例\n💬 建议增加'识别亲妈唠叨自动静音'功能\n🔥 语音合成 本地推理 Block",
           "source": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
           "tags": [
+            "Block",
             "语音合成",
-            "终端推理",
-            "拟真"
+            "端侧AI"
           ]
         },
         {
-          "title": "短信AI代理",
-          "summary": "TechCrunch盘点短信AI代理",
-          "detail": "TechCrunch盘点能常驻短信的AI代理，从通用助手到专业工具应有尽有。最离谱的是有些AI会自作主张帮你回'好的'——以后分手短信可能是AI代发的。",
-          "usage": "💡 吐槽AI越权时用\n💬 建议给AI设置'别乱回消息'的物理开关\n🔥 消息代理 自动回复 隐私",
+          "title": "AI短信管家",
+          "summary": "TechCrunch盘点最火短信AI助手",
+          "detail": "TechCrunch最新盘点显示，能常驻短信的AI助手已成新趋势，其中最受欢迎的是能自动把老板的'尽快完成'翻译成'明天再说'的职场求生型助手。",
+          "usage": "💡 聊AI助手时引用\n💬 建议开发'女朋友说没关系时实际意思解析'插件\n🔥 AI助手 短信代理 语义理解",
           "source": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
           "tags": [
-            "移动端",
-            "消息代理",
-            "自动化"
+            "AI助手",
+            "短信代理",
+            "语义理解"
           ]
         }
       ]
@@ -155,27 +155,27 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "清华系世界模型",
-          "summary": "清华团队世界模型进机器人",
-          "detail": "LeCun押注的世界模型赛道有新进展：清华系公司已将其做进机器人，比LeCun团队早一年实现物理规律学习。这下机器人不用'死记硬背'动作，而是真正'理解'为什么杯子会掉地上——物理老师的饭碗也危险了。",
-          "usage": "💡 聊具身智能时提\n💬 建议机器人先学物理再学谈恋爱\n🔥 世界模型 具身智能 物理规律",
-          "source": "https://www.qbitai.com/2026/10/504653.html",
+          "title": "电信开源意图模型",
+          "summary": "中电信开源29B意图理解模型",
+          "detail": "中电信AI实验室开源的Xing4.0-29B-Intent采用商用友好的Apache 2.0协议，在客服场景测试中成功识别出87%的'我要退订'实际意思是'给我优惠就继续用'。",
+          "usage": "💡 聊中文NLP时推荐\n💬 建议增加'识别程序员说没事时的手抖程度'指标\n🔥 开源模型 意图理解 电信AI",
+          "source": "https://www.qbitai.com/2026/10/504832.html",
           "tags": [
-            "具身智能",
-            "世界模型",
-            "机器人"
+            "开源模型",
+            "NLP",
+            "中国电信"
           ]
         },
         {
-          "title": "生数直播训练",
-          "summary": "生数公开直播模型训练",
-          "detail": "生数科技开启为期半个月的Motubrain 2.0训练全流程直播，这波属于是'AI炼丹在线教学'。建议各大高校AI专业直接转播当教材，比教授念PPT强多了。",
-          "usage": "💡 讨论AI教育时用\n💬 建议下次直播加弹幕功能，让网友指导调参\n🔥 训练过程 公开透明 教育",
-          "source": "https://www.qbitai.com/2026/10/504730.html",
+          "title": "AI坟场更新",
+          "summary": "TechCrunch盘点失败AI项目",
+          "detail": "TechCrunch更新'AI坟场'名单，从苹果屡次跳票的Siri重做到OpenAI混乱的'超级应用'发布。最有教育意义的失败案例是那个承诺'完全理解用户需求'的客服AI——它最后因为压力过大主动关闭了自己。",
+          "usage": "💡 聊AI泡沫时举例\n💬 建议给所有AI项目添加'抑郁自评量表'\n🔥 AI失败案例 产品死亡 技术泡沫",
+          "source": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
           "tags": [
-            "训练过程",
-            "公开透明",
-            "教育"
+            "AI失败",
+            "产品死亡",
+            "案例分析"
           ]
         }
       ]
@@ -185,27 +185,27 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "医生AI分身",
-          "summary": "清华AIR研发医生AI分身",
-          "detail": "清华AIR实验室孵化的多智能体系统能让AI医生'坐诊'医院，不同专科AI相互会诊。测试发现这套系统问诊准确率超95%——以后挂号可能先被AI筛一遍，真人医生只管开药。",
-          "usage": "💡 聊医疗AI时提\n💬 建议AI医生也收挂号费，创收新思路\n🔥 医疗AI 多智能体 远程医疗",
-          "source": "https://www.qbitai.com/2026/10/504734.html",
+          "title": "世界模型落地",
+          "summary": "清华系公司世界模型植入机器人",
+          "detail": "生数科技将世界模型成功植入实体机器人，比LeCun团队相似工作早一年完成。这些机器人能理解'把掉在地上的饼干捡起来'实际意思是'偷吃时要记得擦嘴'。",
+          "usage": "💡 聊具身智能时举例\n💬 建议训练机器人理解'马上到'的真实时间单位\n🔥 世界模型 具身智能 清华系",
+          "source": "https://www.qbitai.com/2026/10/504653.html",
           "tags": [
-            "医疗AI",
-            "多智能体",
-            "远程问诊"
+            "世界模型",
+            "机器人",
+            "具身智能"
           ]
         },
         {
-          "title": "具身数据供应链",
-          "summary": "揭秘OpenAI具身数据供应商",
-          "detail": "量子位揭秘全球Physical AI核心供应链，原来给OpenAI供应机器人训练数据的都是中国公司。这波属于是'硅谷AI，中国制造'——建议马斯克下次吹具身智能时先感谢中国代工厂。",
-          "usage": "💡 讨论AI供应链时用\n💬 OpenAI的机器人可能是东莞老铁教的\n🔥 具身智能 数据供应链 硬件",
-          "source": "https://www.qbitai.com/2026/10/504800.html",
+          "title": "Physical AI直播",
+          "summary": "生数科技直播Physical AI训练过程",
+          "detail": "生数科技开启为期半个月的Motubrain 2.0训练全流程直播，观众可以看到AI如何从'把机械臂当苍蝇拍'进步到'优雅地倒咖啡'。建议倍速观看，否则前72小时都是机械臂在抽风。",
+          "usage": "💡 聊AI训练过程时推荐\n💬 建议增加'AI卖萌求点赞'的实时互动功能\n🔥 PhysicalAI 训练直播 生数科技",
+          "source": "https://www.qbitai.com/2026/10/504730.html",
           "tags": [
-            "机器人",
-            "数据供应链",
-            "硬件"
+            "PhysicalAI",
+            "训练过程",
+            "生数科技"
           ]
         }
       ]
@@ -215,42 +215,42 @@
       "icon": "📈",
       "items": [
         {
-          "title": "AT&T用AI打官司",
-          "summary": "AT&T法律团队用AI",
-          "detail": "AT&T公开其法律团队如何用OpenAI简化法律检索，把平均响应时间从3天压到3小时。以后律师按小时收费的商业模式要崩——建议法学院开设'如何不被AI抢饭碗'必修课。",
-          "usage": "💡 聊AI替代职业时用\n💬 建议给AI发律师证，按字节收费\n🔥 法律科技 职业替代 效率",
-          "source": "https://openai.com/index/att-legal",
+          "title": "百度世界前瞻",
+          "summary": "百度世界2026将办10+AI分论坛",
+          "detail": "百度世界2026大会将设十余个AI主题分论坛，从智能制造到智慧医疗全覆盖。最受期待的可能是'如何让AI汇报时不说正确的废话'工作坊。",
+          "usage": "💡 聊国内AI会议时提及\n💬 建议设置'一键生成领导讲话'体验区\n🔥 百度世界 行业大会 AI论坛",
+          "source": "https://www.qbitai.com/2026/10/504901.html",
           "tags": [
-            "法律AI",
-            "效率",
-            "职业影响"
+            "百度",
+            "行业大会",
+            "AI趋势"
           ]
         },
         {
-          "title": "机器人出租车测试",
-          "summary": "inDrive联合小马智行测试Robotaxi",
-          "detail": "Uber竞争对手inDrive宣布将联合小马智行和英伟达，2027年在哈萨克斯坦测试Robotaxi。这选址思路清奇——先在不堵车的地方练手，属于是AI驾校的'科目二专用场地'。",
-          "usage": "💡 聊自动驾驶落地时提\n💬 建议自动驾驶考试比人类简单点\n🔥 Robotaxi 自动驾驶 测试",
-          "source": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+          "title": "鸭子机器人爆火",
+          "summary": "NVIDIA CEO带货Microduck售罄",
+          "detail": "NVIDIA黄仁勋演示的Microduck机器人成为圣诞爆款，2万台秒售罄。这些会'装死'的鸭子唯一的问题是充电时会发出'我要吃显卡'的奇怪需求。",
+          "usage": "💡 聊AI玩具时举例\n💬 建议开发'挖矿时嘎嘎叫'的特别版\n🔥 AI玩具 Microduck 黄仁勋",
+          "source": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
           "tags": [
-            "自动驾驶",
-            "Robotaxi",
-            "测试"
+            "AI玩具",
+            "Microduck",
+            "NVIDIA"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-25T05:46:59.240Z",
-  "slot": "weekend-morning",
-  "slot_label": "周末早晨 · 家庭时光",
+  "generated_at": "2026-10-25T14:18:45.858Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3629,
-    "completion_tokens": 2972,
-    "total_tokens": 6601,
-    "cost_usd": 0.003991401,
+    "prompt_tokens": 3611,
+    "completion_tokens": 3035,
+    "total_tokens": 6646,
+    "cost_usd": 0.0040515759,
     "free": false,
     "sources": {
       "per_source": {

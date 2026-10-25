@@ -1,0 +1,156 @@
+{
+  "categories": [
+    {
+      "name": "📰 今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "CoreWeave崩盘",
+          "summary": "英伟达亲儿子变垃圾债",
+          "detail": "曾被誉为“英伟达亲儿子”的CoreWeave，最近因为债务问题被标为“垃圾债”。这家公司一度风光无限，靠着英伟达的GPU资源快速崛起，但没想到今年资金链断裂，直接崩盘。老黄（黄仁勋）的GPU再牛，也救不了它。",
+          "usage": "💡 聊到英伟达或GPU市场\n💬 CoreWeave从亲儿子变垃圾债，老黄的GPU也救不了它\n🔥 CoreWeave 英伟达 垃圾债",
+          "source": "https://www.huxiu.com/article/4900315.html?f=rss",
+          "tags": [
+            "CoreWeave",
+            "英伟达",
+            "垃圾债"
+          ]
+        },
+        {
+          "title": "AI短剧试水",
+          "summary": "AI短剧颠覆长剧市场",
+          "detail": "AI短剧今年火了，靠着无CP女主、赛博朋克、无限流等新题材，直接颠覆了传统长剧市场。2025年AI短剧品类从44个扩展到65个，新增21个，简直就是短剧界的“文艺复兴”。",
+          "usage": "💡 聊到AI或影视行业\n💬 AI短剧今年火了，传统长剧瑟瑟发抖\n🔥 AI短剧 赛博朋克 无限流",
+          "source": "https://www.huxiu.com/article/4900307.html?f=rss",
+          "tags": [
+            "AI短剧",
+            "赛博朋克",
+            "无限流"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🎤 大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "马斯克又怼人",
+          "summary": "马斯克怒喷特朗普",
+          "detail": "马斯克最近在一次采访中怒喷特朗普，说他“毫无逻辑”。两位大佬的恩怨由来已久，这次马斯克直接点名批评，火药味十足。",
+          "usage": "💡 聊到大佬互怼\n💬 马斯克又开怼了，这次是特朗普\n🔥 马斯克 特朗普 互怼",
+          "source": "https://www.toutiao.com/trending/7700572569123966502/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700572569123966502%22%2C%22hot_board_impr_id%22%3A%22202610252211537364FE5133D5D7C42D81%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%A5%E5%B7%B4%E9%A9%AC%E6%80%92%E5%96%B7%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E4%B8%BA%E4%BD%95%E4%BA%8B%22%7D&rank=&style_id=40132&topic_id=7700572569123966502",
+          "tags": [
+            "马斯克",
+            "特朗普",
+            "互怼"
+          ]
+        },
+        {
+          "title": "黄仁勋低调",
+          "summary": "黄仁勋不谈CoreWeave",
+          "detail": "CoreWeave崩盘后，黄仁勋一直保持低调，没有公开评论。外界猜测老黄可能对CoreWeave的崩盘早有预感，毕竟他是英伟达的掌舵人。",
+          "usage": "💡 聊到CoreWeave或英伟达\n💬 老黄这次很低调，CoreWeave崩盘他一句话没说\n🔥 黄仁勋 CoreWeave 英伟达",
+          "source": "https://www.huxiu.com/article/4900315.html?f=rss",
+          "tags": [
+            "黄仁勋",
+            "CoreWeave",
+            "英伟达"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "微软采购AI算力",
+          "summary": "微软狂买AI算力",
+          "detail": "微软最近大举采购AI算力，准备在云计算和AI领域再下一城。据悉，微软已经签下了多个大单，目标是在未来几年内成为AI算力市场的领头羊。",
+          "usage": "💡 聊到AI或云计算\n💬 微软这次下血本了，狂买AI算力\n🔥 微软 AI算力 云计算",
+          "source": "https://www.huxiu.com/article/4900312.html?f=rss",
+          "tags": [
+            "微软",
+            "AI算力",
+            "云计算"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🎬 创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "CoreWeave崩盘",
+          "summary": "CoreWeave从巅峰跌落",
+          "detail": "CoreWeave曾是英伟达的亲儿子，靠着GPU资源迅速崛起，但今年因为资金链断裂，直接崩盘。这场创业大戏从巅峰跌落的剧情，比电视剧还精彩。",
+          "usage": "💡 聊到CoreWeave或创业\n💬 CoreWeave从巅峰跌落，比电视剧还精彩\n🔥 CoreWeave 创业 崩盘",
+          "source": "https://www.huxiu.com/article/4900315.html?f=rss",
+          "tags": [
+            "CoreWeave",
+            "创业",
+            "崩盘"
+          ]
+        },
+        {
+          "title": "AI短剧崛起",
+          "summary": "AI短剧颠覆传统",
+          "detail": "AI短剧今年突然崛起，靠着无CP女主、赛博朋克等新题材，直接颠覆了传统长剧市场。这场创业大戏堪称短剧界的“文艺复兴”。",
+          "usage": "💡 聊到AI短剧\n💬 AI短剧今年火了，传统长剧瑟瑟发抖\n🔥 AI短剧 赛博朋克 文艺复兴",
+          "source": "https://www.huxiu.com/article/4900307.html?f=rss",
+          "tags": [
+            "AI短剧",
+            "赛博朋克",
+            "文艺复兴"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🪙 币圈风云",
+      "icon": "🪙",
+      "items": [
+        {
+          "title": "币圈大迁徙",
+          "summary": "币圈资金大规模转移",
+          "detail": "币圈最近发生了大规模的资金迁徙，超万亿元的资金从一种加密货币转向另一种。这场迁徙背后，是币圈新一波的洗牌。",
+          "usage": "💡 聊到币圈或资金流动\n💬 币圈又大迁徙了，超万亿资金在流动\n🔥 币圈 资金迁徙 加密货币",
+          "source": "https://m.baidu.com/s?word=%E8%B6%85%E4%B8%87%E4%BA%BF%E5%85%83%E5%AD%98%E6%AC%BE%E2%80%9C%E5%A4%A7%E8%BF%81%E5%BE%99%E2%80%9D&sa=fyb_news",
+          "tags": [
+            "币圈",
+            "资金迁徙",
+            "加密货币"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-25T14:17:41.966Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 5449,
+    "completion_tokens": 2976,
+    "total_tokens": 8425,
+    "cost_usd": 0.0044639838,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 8,
+      "published": 8
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 12,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 21
+    }
+  }
+}
