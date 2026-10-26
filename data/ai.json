@@ -5,25 +5,27 @@
       "icon": "💥",
       "items": [
         {
-          "title": "OpenAI断网训练",
-          "summary": "OpenAI宣布停止实时互联网训练",
-          "detail": "OpenAI宣布将不再使用实时互联网数据训练前沿模型，理由是'重大风险'。就在几周前，其工程师刚表示用实时数据训练是解决AI幻觉的最佳方式。这下好了，新模型可能比人类还像老干部——知识库停留在某个'稳定版本'。安全工程师们松了口气：至少不会被自家AI教坏。",
-          "usage": "💡 聊AI安全时甩出来\n💬 以后ChatGPT的知识要像老干部学习班一样'稳定'了\n🔥 OpenAI 训练策略 安全风险",
-          "source": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+          "title": "Anthropic 上市",
+          "summary": "Anthropic 正式申请 IPO",
+          "detail": "Anthropic 正式提交 IPO 申请，披露了飙升的收入和巨额亏损。这家 AI 巨头的公开募股标志着 AI 行业的成熟和资本市场的认可。Anthropic 的主要收入来源是企业客户和开发者，但其亏损也引发了市场对其长期盈利能力的质疑。",
+          "usage": "💡 讨论 AI 公司上市时机\n💬 Anthropic 上市了，但亏损这么大，能撑多久？\n🔥 Anthropic IPO 亏损",
+          "source": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
           "tags": [
-            "OpenAI",
-            "AI安全"
+            "Anthropic",
+            "IPO",
+            "AI"
           ]
         },
         {
-          "title": "蚂蚁决策模型称王",
-          "summary": "蚂蚁LingDT超越微软决策模型",
-          "detail": "蚂蚁数科发布LingDT-Decision-1.0决策模型，准确率超越微软和Jev等老牌选手。这下企业开会可以改流程了：先让AI做决策，高管们只管鼓掌就行。据内部测试，AI做决定比人类快23倍，而且不会在会议上打瞌睡。",
-          "usage": "💡 聊企业决策数字化时抛出来\n💬 以后董事会可以直接放个决策AI，董事们专心鼓掌\n🔥 蚂蚁数科 决策模型 企业AI",
-          "source": "https://www.qbitai.com/2026/10/504879.html",
+          "title": "Fanatics + OpenAI",
+          "summary": "OpenAI 助力 Fanatics 提升粉丝体验",
+          "detail": "Fanatics 与 OpenAI 合作，利用 AI 技术帮助粉丝完成比赛日的服装搭配。OpenAI 的 Shop the Look 功能正在测试中，旨在提升粉丝购物体验。这一合作展示了 AI 在零售和体育行业的应用潜力。",
+          "usage": "💡 讨论 AI 在零售应用\n💬 Fanatics 用 OpenAI 帮你搞定比赛日穿搭\n🔥 Fanatics OpenAI Shop the Look",
+          "source": "https://openai.com/index/fanatics-streamline-fan-experience",
           "tags": [
-            "蚂蚁数科",
-            "决策AI"
+            "Fanatics",
+            "OpenAI",
+            "零售"
           ]
         }
       ]
@@ -33,25 +35,27 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "星辰4.0意图模型",
-          "summary": "电信发布Xing4.0意图理解模型",
-          "detail": "中电信发布并开源Xing4.0-29B-Intent意图理解模型，号称能同时'做选择题'和'做填空题'。测试显示其理解用户真实意图的准确率比前代提升37%，特别是在识别'随便'='必须让我满意'这类人类特有表达时表现突出。以后客服系统能听懂'我没事'背后的怒气值了。",
-          "usage": "💡 聊NLP进展时用\n💬 终于有AI能听懂女生说'随便'不是真的随便了\n🔥 中电信 意图理解 开源模型",
-          "source": "https://www.qbitai.com/2026/10/504832.html",
+          "title": "Grok AI 新作",
+          "summary": "Grok 发布 AI 生成《Odyssey》片段",
+          "detail": "Grok 发布了由其 AI 生成的首部影片《Odyssey》的前七分钟片段。虽然画面尚可，但缺乏艺术性和人类情感。这一发布展示了 AI 在内容创作领域的潜力，但也引发了关于 AI 是否能真正替代人类创作者的讨论。",
+          "usage": "💡 讨论 AI 生成内容\n💬 Grok 的 AI 电影《Odyssey》看起来还行，但少了点艺术感\n🔥 Grok AI Odyssey",
+          "source": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
           "tags": [
-            "NLP",
-            "开源"
+            "Grok",
+            "AI 生成",
+            "Odyssey"
           ]
         },
         {
-          "title": "Block真人语音模型",
-          "summary": "Block新语音模型以假乱真",
-          "detail": "Block发布新款语音模型，能在MacBook M4 Max上本地运行，听起来和真人几乎没区别。测试者表示唯一破绽是它不会像人类那样突然咳嗽或清嗓子。这下电话诈骗要升级了——骗子可能先让AI和你聊半小时培养感情。",
-          "usage": "💡 聊语音合成时抛出\n💬 以后接诈骗电话前得先问'你能咳嗽一下吗'\n🔥 Block 语音合成 本地推理",
+          "title": "Block 新语音",
+          "summary": "Block 发布新语音模型",
+          "detail": "Block 发布了一款新语音模型，声音与人类极为相似。这款模型可以在 MacBook M4 Max 上本地运行，展示了 AI 在语音合成领域的最新进展。Block 的这一突破可能会对语音助手和语音交互应用产生重大影响。",
+          "usage": "💡 讨论 AI 语音合成\n💬 Block 的语音模型听起来几乎和人一样\n🔥 Block 语音模型",
           "source": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
           "tags": [
-            "语音合成",
-            "本地AI"
+            "Block",
+            "语音模型",
+            "AI"
           ]
         }
       ]
@@ -61,25 +65,27 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "马斯克称FSD中国领先",
-          "summary": "马斯克:FSD在中国遥遥领先",
-          "detail": "特斯拉财报会上马斯克表示FSD在中国也会'遥遥领先'，尽管特斯拉利润腰斩。FSD一年增长70万付费用户，但网友吐槽：'在深圳测试时等红灯的时间确实遥遥领先'。现在压力给到中国车企：到底是被超车还是被碰瓷？",
-          "usage": "💡 聊自动驾驶时用\n💬 马斯克的'遥遥领先'和余承东的哪个更遥遥领先\n🔥 马斯克 FSD 自动驾驶",
-          "source": "https://www.qbitai.com/2026/10/504841.html",
+          "title": "AI 零回报",
+          "summary": "Apollo 经济学家称 AI 零回报",
+          "detail": "Apollo 经济学家表示，尽管 AI 投资巨大，但大多数公司并未从中获得财务回报。这一言论引发了对 AI 技术实际商业价值的质疑，尤其是在当前 AI 热潮中，许多公司可能并未真正获得预期的收益。",
+          "usage": "💡 讨论 AI 投资回报\n💬 Apollo 经济学家说 AI 投资零回报，你怎么看？\n🔥 AI 零回报 Apollo",
+          "source": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
           "tags": [
-            "特斯拉",
-            "自动驾驶"
+            "Apollo",
+            "AI 回报",
+            "投资"
           ]
         },
         {
-          "title": "Apollo经济学家炮轰AI",
-          "summary": "专家:AI对多数公司零回报",
-          "detail": "Apollo经济学家直言不讳：'尽管大量投资和广泛炒作，AI对多数公司带来零财务回报'。此言一出科技圈炸锅，但财报季数据似乎佐证这点——除了几家巨头，多数公司AI投入都打了水漂。所以问题来了：是你不会用AI，还是AI本来就不会用？",
-          "usage": "💡 聊AI商业化时甩出来\n💬 建议把'数字化转型'改成'数字化跳坑'\n🔥 AI商业 投资回报 行业泡沫",
-          "source": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+          "title": "声网 CEO 言论",
+          "summary": "声网 CEO 提出五级对话能力框架",
+          "detail": "在 iRTE2026 实时智能大会上，声网 CEO 赵斌提出了五级对话能力框架，标志着实时互动迈入对话 AGI 时代。这一框架展示了 AI 在实时对话和互动领域的最新进展，可能会对未来的 AI 应用产生深远影响。",
+          "usage": "💡 讨论 AI 对话框架\n💬 声网 CEO 提出五级对话能力框架，AGI 时代来了\n🔥 声网 五级对话 AGI",
+          "source": "https://www.qbitai.com/2026/10/504913.html",
           "tags": [
-            "AI商业",
-            "行业分析"
+            "声网",
+            "五级对话",
+            "AGI"
           ]
         }
       ]
@@ -89,25 +95,27 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "Uber全员部署ChatGPT",
-          "summary": "Uber为3万员工配ChatGPT Work",
-          "detail": "Uber宣布为超过3万名员工部署ChatGPT Work版，帮助团队研究、分析数据和编写代码。司机们纷纷表示担忧：'以后是不是AI也要来抢单了？'公司回应称AI只服务内部，但网友发现最新版App的接单速度快得不像人类。",
-          "usage": "💡 聊企业AI应用时用\n💬 建议Uber司机也装个GPT，和AI抢单看谁手速快\n🔥 Uber 企业AI ChatGPT",
+          "title": "OpenAI + Uber",
+          "summary": "Uber 全员接入 ChatGPT Work",
+          "detail": "Uber 宣布向所有 3 万名员工提供 ChatGPT Work，帮助他们进行研究和数据分析。这一举措展示了 OpenAI 在企业应用中的广泛潜力，也标志着跨行业 AI 合作的深入发展。",
+          "usage": "💡 讨论 AI 企业应用\n💬 Uber 全员用 ChatGPT Work 处理数据\n🔥 Uber ChatGPT Work",
           "source": "https://openai.com/index/uber-chatgpt-work-rollout",
           "tags": [
             "Uber",
-            "企业AI"
+            "OpenAI",
+            "ChatGPT"
           ]
         },
         {
-          "title": "OpenAI与波兰合作安全",
-          "summary": "OpenAI联手波兰搞AI安全",
-          "detail": "OpenAI与波兰NASK研究所合作推进AI安全研究，重点加强防护措施和技术。网友神评论：'选波兰是因为他们的网络安全工程师工资只要硅谷的1/3吧'。OpenAI最近安全动作频频，毕竟谁都不想训练出个会说波兰语的SKYNET。",
-          "usage": "💡 聊AI安全合作时用\n💬 建议给AI学波兰语，这样造反时至少能听懂\n🔥 OpenAI 国际合作 AI安全",
+          "title": "OpenAI + NASK",
+          "summary": "OpenAI 与波兰 NASK 合作",
+          "detail": "OpenAI 与波兰的 NASK 合作，共同推进 AI 安全和安全技术研究。这一合作旨在加强 AI 技术的安全和可靠性，展示了 OpenAI 在 AI 安全领域的全球布局。",
+          "usage": "💡 讨论 AI 安全合作\n💬 OpenAI 和波兰 NASK 联手搞 AI 安全\n🔥 OpenAI NASK AI 安全",
           "source": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
           "tags": [
             "OpenAI",
-            "AI安全"
+            "NASK",
+            "AI 安全"
           ]
         }
       ]
@@ -117,25 +125,27 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "Decisions API上线",
-          "summary": "OpenAI发布决策API",
-          "detail": "OpenAI推出Decisions API，号称能提供'快速、专注、低成本的决策'。测试显示它能比人类快400倍做决定，但有个小问题——当被问'午饭吃什么'时，它依然会回答'随便'。产品经理解释这是因为完美模拟了人类行为模式。",
-          "usage": "💡 聊AI产品化时甩出来\n💬 建议给决策API加个'午饭盲盒'模式\n🔥 OpenAI API 产品化",
-          "source": "https://openai.com/index/decisions-api",
+          "title": "科大讯飞 TaaS",
+          "summary": "科大讯飞首发星辰 TaaS 平台",
+          "detail": "科大讯飞在 2026 全球开发者节上发布了星辰 TaaS 平台，旨在将 Token 转化为各行各业的生产力。这一平台展示了 AI 技术在产业应用中的潜力，可能会推动 AI 技术的更广泛落地。",
+          "usage": "💡 讨论 AI 平台应用\n💬 科大讯飞的星辰 TaaS 平台来了\n🔥 科大讯飞 TaaS",
+          "source": "https://www.qbitai.com/2026/10/505083.html",
           "tags": [
-            "OpenAI",
-            "API"
+            "科大讯飞",
+            "TaaS",
+            "AI"
           ]
         },
         {
-          "title": "AT&T用AI改造法务",
-          "summary": "AT&T法律团队接入OpenAI",
-          "detail": "AT&T法律部门与OpenAI合作，用AI简化法律知识查询。律师们纷纷表示工作轻松多了，虽然偶尔AI会把'保密协议'解释成'你可以把秘密告诉AI'。但至少不用再翻三大本纸质法典了——除非AI死机。",
-          "usage": "💡 聊AI+专业服务时用\n💬 以后打官司先问'你的AI系统昨晚宕机了吗'\n🔥 AT&T 法律AI OpenAI",
-          "source": "https://openai.com/index/att-legal",
+          "title": "高德 λ0",
+          "summary": "高德发布全身基座模型 λ0",
+          "detail": "阿里巴巴旗下高德发布了首个基于开放世界行为的全身基座模型 λ0，推动机器人从局部学习迈向全身动作对齐。这一发布展示了 AI 技术在机器人领域的最新进展，可能会对未来的机器人应用产生重大影响。",
+          "usage": "💡 讨论 AI 机器人\n💬 高德的 λ0 模型让机器人全身对齐\n🔥 高德 λ0 机器人",
+          "source": "https://www.qbitai.com/2026/10/504905.html",
           "tags": [
-            "AT&T",
-            "法律AI"
+            "高德",
+            "λ0",
+            "机器人"
           ]
         }
       ]
@@ -145,25 +155,27 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "Xing4.0开源",
-          "summary": "电信开源意图理解模型",
-          "detail": "中电信将Xing4.0-29B-Intent模型开源，主打意图理解能力。开发者实测发现它能准确识别'改天请你吃饭'约等于'这辈子别见了'这类社交黑话。开源社区建议下一步开发'老板说再想想'的真实含义解析模块。",
-          "usage": "💡 聊中文NLP开源时用\n💬 建议增加'程序员说马上好'倒计时功能\n🔥 中电信 开源模型 NLP",
-          "source": "https://www.qbitai.com/2026/10/504832.html",
+          "title": "国产 5B 爆火",
+          "summary": "国产 5B 生图模型海外爆火",
+          "detail": "国产 5B 生图模型在海外突然爆火，4 天内下载量超过百万。这一现象展示了中国 AI 技术在国际市场上的竞争力，也引发了关于开源模型商业化的讨论。",
+          "usage": "💡 讨论开源模型\n💬 国产 5B 生图模型海外爆火，4 天百万下载\n🔥 5B 生图 开源",
+          "source": "https://www.qbitai.com/2026/10/504930.html",
           "tags": [
-            "开源",
-            "NLP"
+            "5B",
+            "生图",
+            "开源"
           ]
         },
         {
-          "title": "AI墓地清单",
-          "summary": "TechCrunch整理AI失败项目",
-          "detail": "TechCrunch整理了一份'AI墓地'清单，记录那些没能活下来的项目和初创公司。从苹果屡次延期的Siri AI到OpenAI混乱的'超级应用'发布应有尽有。看完清单的创业者纷纷表示：'原来我们不是最惨的'。",
-          "usage": "💡 聊创业风险时甩出来\n💬 建议AI墓地增加'扫墓功能'，定期悼念死去的PPT\n🔥 创业失败 AI泡沫",
+          "title": "AI 坟墓",
+          "summary": "TechCrunch 列出 AI 坟墓",
+          "detail": "TechCrunch 列举了一系列未能成功的 AI 项目和初创公司，包括苹果屡次推迟的 Siri AI 和 OpenAI 混乱的“超级应用”发布。这一清单展示了 AI 行业的高风险和不确定性。",
+          "usage": "💡 讨论 AI 失败案例\n💬 TechCrunch 列出了那些没成功的 AI 项目\n🔥 AI 坟墓 TechCrunch",
           "source": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
           "tags": [
-            "创业",
-            "失败案例"
+            "AI 坟墓",
+            "TechCrunch",
+            "失败"
           ]
         }
       ]
@@ -173,25 +185,27 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "清华医生AI分身",
-          "summary": "清华研发多智能体医疗AI",
-          "detail": "清华AIR实验室孵化的医疗AI系统采用多智能体协同架构，已经在北京多家医院'坐诊'。它能同时扮演初诊医生、资深专家和病历管理员，唯一不会的是像人类医生那样开'多喝热水'的处方。患者评价：'至少不会嫌我描述症状太啰嗦'。",
-          "usage": "💡 聊AI+医疗时用\n💬 建议给AI医生加个'假装看手表'的功能\n🔥 医疗AI 多智能体 清华",
-          "source": "https://www.qbitai.com/2026/10/504734.html",
+          "title": "OpenAI 存储扩容",
+          "summary": "OpenAI 扩容存储服务数十亿用户",
+          "detail": "OpenAI 发布了一篇关于如何扩容其存储服务以支持数十亿 ChatGPT 用户的博客文章。文章详细介绍了 Habitat 系统的多租户架构、全球缓存和 Azure Cosmos DB 的应用，展示了 OpenAI 在基础设施方面的技术实力。",
+          "usage": "💡 讨论 AI 基础设施\n💬 OpenAI 如何扩容支持数十亿用户？\n🔥 OpenAI 存储扩容",
+          "source": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
           "tags": [
-            "医疗AI",
-            "多智能体"
+            "OpenAI",
+            "存储",
+            "扩容"
           ]
         },
         {
-          "title": "生数直播AI训练",
-          "summary": "生数公开Physical AI训练",
-          "detail": "生数科技开启为期半个月的Motubrain 2.0训练全流程直播，公开Physical AI训练过程。观众可以看到AI如何从'连球都拿不住'进化到'能玩转魔方'，就像围观一个AI版本的'变形计'。团队称这是为了'消除AI训练的神秘感'，但网友担心：'看多了会觉得自己还不如AI努力'。",
-          "usage": "💡 聊机器人学习时甩出来\n💬 建议给AI训练加个'家长监工'模式\n🔥 Physical AI 机器人学习 生数",
-          "source": "https://www.qbitai.com/2026/10/504730.html",
+          "title": "企业 AI 模型",
+          "summary": "特赞提企业 AI 需要双世界模型",
+          "detail": "特赞提出企业 AI 需要两个世界模型，以真正理解业务。这一观点展示了 AI 在企业应用中的复杂性，也提出了如何让 AI 更好地服务于企业需求的思考。",
+          "usage": "💡 讨论企业 AI\n💬 特赞说企业 AI 需要双世界模型\n🔥 特赞 双世界模型",
+          "source": "https://www.qbitai.com/2026/10/505032.html",
           "tags": [
-            "机器人",
-            "AI训练"
+            "特赞",
+            "企业 AI",
+            "双世界模型"
           ]
         }
       ]
@@ -201,40 +215,42 @@
       "icon": "📈",
       "items": [
         {
-          "title": "Grok生成电影片段",
-          "summary": "Grok发布AI生成电影片段",
-          "detail": "Grok发布了其AI生成的《奥德赛》前7分钟片段，效果被评价为'还行，只要你不追求艺术性、灵感或人文关怀'。显然AI还没学会人类导演的把戏——在平淡剧情里突然来个爆炸场面。影评人表示：'至少比特斯拉的自动驾驶靠谱点'。",
-          "usage": "💡 聊生成式AI时用\n💬 建议AI导演先学学如何把广告拍得像电影\n🔥 Grok 生成式AI 影视",
-          "source": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+          "title": "AI 设备热潮",
+          "summary": "TechCrunch 列出热门 AI 设备",
+          "detail": "TechCrunch 列举了当前最热的 AI 穿戴设备和配件，包括 Muse Charm、Bee、Friend、Plaud 等。这一清单展示了 AI 技术在硬件领域的广泛应用，也预示了未来 AI 设备的多元化发展。",
+          "usage": "💡 讨论 AI 硬件\n💬 这些 AI 穿戴设备火了\n🔥 AI 穿戴设备 TechCrunch",
+          "source": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
           "tags": [
-            "Grok",
-            "生成式AI"
+            "AI 设备",
+            "TechCrunch",
+            "穿戴"
           ]
         },
         {
-          "title": "AI穿戴设备盘点",
-          "summary": "TechCrunch推荐AI穿戴设备",
-          "detail": "TechCrunch盘点了当下最火的AI穿戴设备，从Muse Charm到Plaud等应有尽有。这些设备能监测你的情绪、提醒你呼吸，甚至帮你编借口推掉约会。唯一的问题是——戴着它们看起来都像《星际迷航》里的临时演员。",
-          "usage": "💡 聊硬件趋势时甩出来\n💬 建议AI眼镜增加'假装在听'模式\n🔥 可穿戴设备 AI硬件",
-          "source": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+          "title": "AI 短信助手",
+          "summary": "TechCrunch 列出 AI 短信助手",
+          "detail": "TechCrunch 列出了最值得关注的 AI 短信助手，展示了 AI 在文本交互和自动化领域的应用。这些助手可以帮助用户处理日常短信，展示了 AI 在日常生活中的广泛应用。",
+          "usage": "💡 讨论 AI 应用\n💬 这些 AI 助手可以住在你的短信里\n🔥 AI 短信助手 TechCrunch",
+          "source": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
           "tags": [
-            "可穿戴设备",
-            "AI硬件"
+            "AI 短信",
+            "TechCrunch",
+            "助手"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-26T01:39:17.958Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-10-26T16:31:32.216Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3571,
-    "completion_tokens": 3170,
-    "total_tokens": 6741,
-    "cost_usd": 0.0041801544,
+    "prompt_tokens": 3496,
+    "completion_tokens": 2906,
+    "total_tokens": 6402,
+    "cost_usd": 0.0038892726000000002,
     "free": false,
     "sources": {
       "per_source": {

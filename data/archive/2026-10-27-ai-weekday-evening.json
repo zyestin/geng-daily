@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "Anthropic 上市",
+          "summary": "Anthropic 正式申请 IPO",
+          "detail": "Anthropic 正式提交 IPO 申请，披露了飙升的收入和巨额亏损。这家 AI 巨头的公开募股标志着 AI 行业的成熟和资本市场的认可。Anthropic 的主要收入来源是企业客户和开发者，但其亏损也引发了市场对其长期盈利能力的质疑。",
+          "usage": "💡 讨论 AI 公司上市时机\n💬 Anthropic 上市了，但亏损这么大，能撑多久？\n🔥 Anthropic IPO 亏损",
+          "source": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+          "tags": [
+            "Anthropic",
+            "IPO",
+            "AI"
+          ]
+        },
+        {
+          "title": "Fanatics + OpenAI",
+          "summary": "OpenAI 助力 Fanatics 提升粉丝体验",
+          "detail": "Fanatics 与 OpenAI 合作，利用 AI 技术帮助粉丝完成比赛日的服装搭配。OpenAI 的 Shop the Look 功能正在测试中，旨在提升粉丝购物体验。这一合作展示了 AI 在零售和体育行业的应用潜力。",
+          "usage": "💡 讨论 AI 在零售应用\n💬 Fanatics 用 OpenAI 帮你搞定比赛日穿搭\n🔥 Fanatics OpenAI Shop the Look",
+          "source": "https://openai.com/index/fanatics-streamline-fan-experience",
+          "tags": [
+            "Fanatics",
+            "OpenAI",
+            "零售"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Grok AI 新作",
+          "summary": "Grok 发布 AI 生成《Odyssey》片段",
+          "detail": "Grok 发布了由其 AI 生成的首部影片《Odyssey》的前七分钟片段。虽然画面尚可，但缺乏艺术性和人类情感。这一发布展示了 AI 在内容创作领域的潜力，但也引发了关于 AI 是否能真正替代人类创作者的讨论。",
+          "usage": "💡 讨论 AI 生成内容\n💬 Grok 的 AI 电影《Odyssey》看起来还行，但少了点艺术感\n🔥 Grok AI Odyssey",
+          "source": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+          "tags": [
+            "Grok",
+            "AI 生成",
+            "Odyssey"
+          ]
+        },
+        {
+          "title": "Block 新语音",
+          "summary": "Block 发布新语音模型",
+          "detail": "Block 发布了一款新语音模型，声音与人类极为相似。这款模型可以在 MacBook M4 Max 上本地运行，展示了 AI 在语音合成领域的最新进展。Block 的这一突破可能会对语音助手和语音交互应用产生重大影响。",
+          "usage": "💡 讨论 AI 语音合成\n💬 Block 的语音模型听起来几乎和人一样\n🔥 Block 语音模型",
+          "source": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "tags": [
+            "Block",
+            "语音模型",
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "AI 零回报",
+          "summary": "Apollo 经济学家称 AI 零回报",
+          "detail": "Apollo 经济学家表示，尽管 AI 投资巨大，但大多数公司并未从中获得财务回报。这一言论引发了对 AI 技术实际商业价值的质疑，尤其是在当前 AI 热潮中，许多公司可能并未真正获得预期的收益。",
+          "usage": "💡 讨论 AI 投资回报\n💬 Apollo 经济学家说 AI 投资零回报，你怎么看？\n🔥 AI 零回报 Apollo",
+          "source": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+          "tags": [
+            "Apollo",
+            "AI 回报",
+            "投资"
+          ]
+        },
+        {
+          "title": "声网 CEO 言论",
+          "summary": "声网 CEO 提出五级对话能力框架",
+          "detail": "在 iRTE2026 实时智能大会上，声网 CEO 赵斌提出了五级对话能力框架，标志着实时互动迈入对话 AGI 时代。这一框架展示了 AI 在实时对话和互动领域的最新进展，可能会对未来的 AI 应用产生深远影响。",
+          "usage": "💡 讨论 AI 对话框架\n💬 声网 CEO 提出五级对话能力框架，AGI 时代来了\n🔥 声网 五级对话 AGI",
+          "source": "https://www.qbitai.com/2026/10/504913.html",
+          "tags": [
+            "声网",
+            "五级对话",
+            "AGI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI + Uber",
+          "summary": "Uber 全员接入 ChatGPT Work",
+          "detail": "Uber 宣布向所有 3 万名员工提供 ChatGPT Work，帮助他们进行研究和数据分析。这一举措展示了 OpenAI 在企业应用中的广泛潜力，也标志着跨行业 AI 合作的深入发展。",
+          "usage": "💡 讨论 AI 企业应用\n💬 Uber 全员用 ChatGPT Work 处理数据\n🔥 Uber ChatGPT Work",
+          "source": "https://openai.com/index/uber-chatgpt-work-rollout",
+          "tags": [
+            "Uber",
+            "OpenAI",
+            "ChatGPT"
+          ]
+        },
+        {
+          "title": "OpenAI + NASK",
+          "summary": "OpenAI 与波兰 NASK 合作",
+          "detail": "OpenAI 与波兰的 NASK 合作，共同推进 AI 安全和安全技术研究。这一合作旨在加强 AI 技术的安全和可靠性，展示了 OpenAI 在 AI 安全领域的全球布局。",
+          "usage": "💡 讨论 AI 安全合作\n💬 OpenAI 和波兰 NASK 联手搞 AI 安全\n🔥 OpenAI NASK AI 安全",
+          "source": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+          "tags": [
+            "OpenAI",
+            "NASK",
+            "AI 安全"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "科大讯飞 TaaS",
+          "summary": "科大讯飞首发星辰 TaaS 平台",
+          "detail": "科大讯飞在 2026 全球开发者节上发布了星辰 TaaS 平台，旨在将 Token 转化为各行各业的生产力。这一平台展示了 AI 技术在产业应用中的潜力，可能会推动 AI 技术的更广泛落地。",
+          "usage": "💡 讨论 AI 平台应用\n💬 科大讯飞的星辰 TaaS 平台来了\n🔥 科大讯飞 TaaS",
+          "source": "https://www.qbitai.com/2026/10/505083.html",
+          "tags": [
+            "科大讯飞",
+            "TaaS",
+            "AI"
+          ]
+        },
+        {
+          "title": "高德 λ0",
+          "summary": "高德发布全身基座模型 λ0",
+          "detail": "阿里巴巴旗下高德发布了首个基于开放世界行为的全身基座模型 λ0，推动机器人从局部学习迈向全身动作对齐。这一发布展示了 AI 技术在机器人领域的最新进展，可能会对未来的机器人应用产生重大影响。",
+          "usage": "💡 讨论 AI 机器人\n💬 高德的 λ0 模型让机器人全身对齐\n🔥 高德 λ0 机器人",
+          "source": "https://www.qbitai.com/2026/10/504905.html",
+          "tags": [
+            "高德",
+            "λ0",
+            "机器人"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "国产 5B 爆火",
+          "summary": "国产 5B 生图模型海外爆火",
+          "detail": "国产 5B 生图模型在海外突然爆火，4 天内下载量超过百万。这一现象展示了中国 AI 技术在国际市场上的竞争力，也引发了关于开源模型商业化的讨论。",
+          "usage": "💡 讨论开源模型\n💬 国产 5B 生图模型海外爆火，4 天百万下载\n🔥 5B 生图 开源",
+          "source": "https://www.qbitai.com/2026/10/504930.html",
+          "tags": [
+            "5B",
+            "生图",
+            "开源"
+          ]
+        },
+        {
+          "title": "AI 坟墓",
+          "summary": "TechCrunch 列出 AI 坟墓",
+          "detail": "TechCrunch 列举了一系列未能成功的 AI 项目和初创公司，包括苹果屡次推迟的 Siri AI 和 OpenAI 混乱的“超级应用”发布。这一清单展示了 AI 行业的高风险和不确定性。",
+          "usage": "💡 讨论 AI 失败案例\n💬 TechCrunch 列出了那些没成功的 AI 项目\n🔥 AI 坟墓 TechCrunch",
+          "source": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "tags": [
+            "AI 坟墓",
+            "TechCrunch",
+            "失败"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "OpenAI 存储扩容",
+          "summary": "OpenAI 扩容存储服务数十亿用户",
+          "detail": "OpenAI 发布了一篇关于如何扩容其存储服务以支持数十亿 ChatGPT 用户的博客文章。文章详细介绍了 Habitat 系统的多租户架构、全球缓存和 Azure Cosmos DB 的应用，展示了 OpenAI 在基础设施方面的技术实力。",
+          "usage": "💡 讨论 AI 基础设施\n💬 OpenAI 如何扩容支持数十亿用户？\n🔥 OpenAI 存储扩容",
+          "source": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+          "tags": [
+            "OpenAI",
+            "存储",
+            "扩容"
+          ]
+        },
+        {
+          "title": "企业 AI 模型",
+          "summary": "特赞提企业 AI 需要双世界模型",
+          "detail": "特赞提出企业 AI 需要两个世界模型，以真正理解业务。这一观点展示了 AI 在企业应用中的复杂性，也提出了如何让 AI 更好地服务于企业需求的思考。",
+          "usage": "💡 讨论企业 AI\n💬 特赞说企业 AI 需要双世界模型\n🔥 特赞 双世界模型",
+          "source": "https://www.qbitai.com/2026/10/505032.html",
+          "tags": [
+            "特赞",
+            "企业 AI",
+            "双世界模型"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "AI 设备热潮",
+          "summary": "TechCrunch 列出热门 AI 设备",
+          "detail": "TechCrunch 列举了当前最热的 AI 穿戴设备和配件，包括 Muse Charm、Bee、Friend、Plaud 等。这一清单展示了 AI 技术在硬件领域的广泛应用，也预示了未来 AI 设备的多元化发展。",
+          "usage": "💡 讨论 AI 硬件\n💬 这些 AI 穿戴设备火了\n🔥 AI 穿戴设备 TechCrunch",
+          "source": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+          "tags": [
+            "AI 设备",
+            "TechCrunch",
+            "穿戴"
+          ]
+        },
+        {
+          "title": "AI 短信助手",
+          "summary": "TechCrunch 列出 AI 短信助手",
+          "detail": "TechCrunch 列出了最值得关注的 AI 短信助手，展示了 AI 在文本交互和自动化领域的应用。这些助手可以帮助用户处理日常短信，展示了 AI 在日常生活中的广泛应用。",
+          "usage": "💡 讨论 AI 应用\n💬 这些 AI 助手可以住在你的短信里\n🔥 AI 短信助手 TechCrunch",
+          "source": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "tags": [
+            "AI 短信",
+            "TechCrunch",
+            "助手"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-26T16:31:32.216Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3496,
+    "completion_tokens": 2906,
+    "total_tokens": 6402,
+    "cost_usd": 0.0038892726000000002,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

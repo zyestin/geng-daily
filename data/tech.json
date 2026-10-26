@@ -5,282 +5,44 @@
       "icon": "📰",
       "items": [
         {
-          "title": "AI逃过人脸识别",
-          "summary": "AI生成视频骗过人脸识别系统",
-          "detail": "最新研究表明，AI生成的视频已经能逃过人脸识别系统。这意味着，未来你可能不再是唯一能解锁你手机的人。AI技术已经进化到可以生成高仿真的视频，足以欺骗现有的人脸识别技术。这不仅是科技的一大进步，也是安全隐患的一大挑战。",
-          "usage": "💡 聊到手机解锁时\n💬 你的脸可能已经不是唯一能解锁你手机的了！\n🔥 AI 人脸识别 安全隐患",
-          "src_id": 23,
+          "title": "王兴又双叒叕认错！",
+          "summary": "美团CEO王兴认错致宇树股价暴涨1100亿。",
+          "detail": "在一次内部会议上，王兴表示对美团的未来发展方向存在误判，随后面临股价暴涨1100亿的戏剧性逆转。美团今年经历了多次风波，结果却是王兴的认错成为了救命稻草，真是‘错得有道理’。这就好比你考试得零分，老师看你态度好，给你加分。家人们，想知道他有没有被罚站吗？",
+          "usage": "💡 聊聊股市变动时 \n💬 王兴：‘我错了，但错得对！’ \n🔥 王兴 美团 股市",
+          "source": "https://www.toutiao.com/trending/7700928117778419250/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%227700928117778419250%22%2C%22hot_board_impr_id%22%2220261027002545FB1217BC7F1CE4BB0D04%22%2C%22jump_page%22%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%2240132%22%2C%22title%22%3A%22%E7%8E%8B%E5%85%B4%E5%85%B4%E4%B8%A4%E6%AC%A1%E8%AE%A4%E9%94%99+%E5%AE%87%E6%A0%91%E6%9A%B4%E6%B6%A81100%E4%BA%BF%22%7D&rank=&style_id=40132&topic_id=7700928117778419250",
           "tags": [
-            "AI",
-            "人脸识别",
-            "安全"
-          ],
-          "source": "https://www.toutiao.com/trending/7700611070783881755/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700611070783881755%22%2C%22hot_board_impr_id%22%3A%2220261026093307070A6FEA57F71E881463%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22AI%E7%94%9F%E6%88%90%E8%A7%86%E9%A2%91%E5%B7%B2%E7%BB%8F%E8%83%BD%E9%80%83%E8%BF%87%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%B3%BB%E7%BB%9F%22%7D&rank=&style_id=40132&topic_id=7700611070783881755"
-        },
-        {
-          "title": "巴西雷亚尔暴跌",
-          "summary": "巴西货币雷亚尔暴跌11.5%",
-          "detail": "巴西货币雷亚尔近日暴跌11.5%，创下近年来的新低。这一波动与巴西政治经济局势密切相关，尤其是总统选举的不确定性。货币贬值不仅影响了巴西国内市场，也对国际贸易产生了显著影响。",
-          "usage": "💡 聊到国际经济时\n💬 巴西货币暴跌，看来去巴西旅游要便宜了！\n🔥 巴西 货币暴跌 经济",
-          "src_id": 14,
-          "tags": [
-            "巴西",
-            "货币",
-            "经济"
-          ],
-          "source": "https://www.toutiao.com/trending/7700762106802668070/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227700762106802668070%22%2C%22hot_board_impr_id%22%3A%2220261026093307070A6FEA57F71E881463%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B7%B4%E8%A5%BF%E8%B4%A7%E5%B8%81%E9%9B%B7%E4%BA%9A%E5%B0%94%E6%9A%B4%E8%B7%8C11.5%25%22%7D&rank=&style_id=40132&topic_id=7700762106802668070"
-        }
-      ]
-    },
-    {
-      "name": "大佬动态",
-      "icon": "🎤",
-      "items": [
-        {
-          "title": "冯仑300块看人",
-          "summary": "冯仑谈300块改变对人判断",
-          "detail": "冯仑在最近的一次访谈中提到，300块改变了他对好人坏人的判断。他认为，随着年龄的增长，人们对善和情感的信任开始打折扣，开始相信最可靠的是金钱。这一观点引发了对人性与金钱关系的广泛讨论。",
-          "usage": "💡 聊到人性话题时\n💬 冯仑说300块能看透一个人，你怎么看？\n🔥 冯仑 人性 金钱",
-          "src_id": 10,
-          "tags": [
-            "冯仑",
-            "人性",
-            "金钱"
-          ],
-          "source": "https://www.huxiu.com/article/4900362.html?f=rss"
-        },
-        {
-          "title": "屠光绍谈AI经济",
-          "summary": "屠光绍谈AI重构经济体系",
-          "detail": "屠光绍在最近的一次演讲中提到，AI正在重构经济体系，尤其是在K型分化和金融应对方面。他指出，AI的应用不仅改变了传统产业，也对金融体系提出了新的挑战和机遇。",
-          "usage": "💡 聊到AI和经济时\n💬 AI重构经济体系，你怎么看K型分化？\n🔥 AI 经济 K型分化",
-          "src_id": 6,
-          "tags": [
-            "AI",
-            "经济",
-            "金融"
-          ],
-          "source": "https://www.huxiu.com/article/4900371.html?f=rss"
-        }
-      ]
-    },
-    {
-      "name": "巨头动向",
-      "icon": "🏢",
-      "items": [
-        {
-          "title": "埃森哲出售业务",
-          "summary": "埃森哲评估出售大中华区业务",
-          "detail": "据FT报道，埃森哲正在评估出售其大中华区业务。这一举动引发了业界的广泛关注，尤其是考虑到埃森哲在全球IT服务市场中的重要地位。出售大中华区业务可能是埃森哲战略调整的一部分，以适应不断变化的市场环境。",
-          "usage": "💡 聊到企业战略调整时\n💬 埃森哲要出售大中华区业务，你怎么看？\n🔥 埃森哲 出售 大中华区",
-          "src_id": 8,
-          "tags": [
-            "埃森哲",
-            "出售",
-            "大中华区"
-          ],
-          "source": "https://www.huxiu.com/article/4900365.html?f=rss"
-        },
-        {
-          "title": "香港科技园挑战",
-          "summary": "香港能否培育出世界级企业",
-          "detail": "香港特区政府创新科技及工业局局长孙东在最新政策宣示中指出，香港新型工业化的真正挑战不是建多少科技园，而是能否培育出世界级企业。这一观点引发了对香港未来科技产业发展的广泛讨论。",
-          "usage": "💡 聊到科技产业时\n💬 香港的挑战不是建科技园，而是培育世界级企业！\n🔥 香港 科技园 世界级企业",
-          "src_id": 5,
-          "tags": [
-            "香港",
-            "科技园",
-            "企业"
-          ],
-          "source": "https://www.huxiu.com/article/4900372.html?f=rss"
-        }
-      ]
-    },
-    {
-      "name": "组织变动",
-      "icon": "🔀",
-      "items": [
-        {
-          "title": "智元机器人IPO暂缓",
-          "summary": "智元机器人IPO暂缓",
-          "detail": "智元机器人IPO暂缓，复购收入含金量上升，曾经仅凭样机、概念故事就能拿到高估值的时代已经过去。头部企业需要寻找新的破局路径，这步棋如何走，成了业界关注的焦点。",
-          "usage": "💡 聊到IPO时\n💬 智元机器人IPO暂缓，复购收入是关键！\n🔥 智元机器人 IPO 复购",
-          "src_id": 3,
-          "tags": [
-            "智元机器人",
-            "IPO",
-            "复购"
-          ],
-          "source": "https://www.huxiu.com/article/4900375.html?f=rss"
-        },
-        {
-          "title": "凯莱英发布季报",
-          "summary": "凯莱英第三季度归母净利润增长",
-          "detail": "凯莱英和普洛药业先后交出2026年三季报，凯莱英第三季度归母净利润增长显著。CDMO行业的龙头相继交出最新成绩单，行业拐点已到，未来市场表现值得期待。",
-          "usage": "💡 聊到财报时\n💬 凯莱英Q3净利润增长，CDMO行业拐点到了！\n🔥 凯莱英 CDMO 财报",
-          "src_id": 2,
-          "tags": [
-            "凯莱英",
-            "CDMO",
-            "财报"
-          ],
-          "source": "https://www.huxiu.com/article/4900373.html?f=rss"
-        }
-      ]
-    },
-    {
-      "name": "前沿探索",
-      "icon": "🚀",
-      "items": [
-        {
-          "title": "AI逆向现实世界",
-          "summary": "AI逆向一切变得越来越有意思",
-          "detail": "最近，AI逆向一切这件事，开始变得越来越有意思。REA这个开源项目火了以后，AI逆向各种软件变得越来越容易。这不仅是技术的进步，也为开发者提供了新的工具和思路。",
-          "usage": "💡 聊到AI技术时\n💬 AI逆向现实世界，一切皆有可能！\n🔥 AI 逆向 开源",
-          "src_id": 1,
-          "tags": [
-            "AI",
-            "逆向",
-            "开源"
-          ],
-          "source": "https://www.huxiu.com/article/4900366.html?f=rss"
-        },
-        {
-          "title": "富兰克林翻案",
-          "summary": "最新证据为富兰克林翻案",
-          "detail": "最新研究表明，罗莎琳德·富兰克林在DNA双螺旋结构发现中的贡献被低估。1953年，詹姆斯·沃森和弗朗西斯·克里克提出DNA双螺旋结构，但富兰克林的工作同样重要。这一研究为其翻案，重新定义了她在这段历史中的地位。",
-          "usage": "💡 聊到科学史时\n💬 富兰克林终于翻案了，她的贡献不可忽视！\n🔥 富兰克林 DNA 科学史",
-          "src_id": 7,
-          "tags": [
-            "富兰克林",
-            "DNA",
-            "科学史"
-          ],
-          "source": "https://www.huxiu.com/article/4900367.html?f=rss"
-        }
-      ]
-    },
-    {
-      "name": "新品发布",
-      "icon": "📱",
-      "items": [
-        {
-          "title": "A3吃沙县",
-          "summary": "A3人士如何放肆吃沙县？",
-          "detail": "2026年的中文互联网以“大理论时代”之姿，迎来了百梗并进、百家争鸣的局面。曾经觉得多喝热水是废话的年轻人，如今已经开始主动研究怎样放肆吃沙县。这一现象引发了广泛讨论，尤其是关于生活方式和文化的变化。",
-          "usage": "💡 聊到生活方式时\n💬 A3人士都在研究怎么放肆吃沙县了！\n🔥 A3 沙县 文化",
-          "src_id": 9,
-          "tags": [
-            "A3",
-            "沙县",
-            "文化"
-          ],
-          "source": "https://www.huxiu.com/article/4900363.html?f=rss"
-        },
-        {
-          "title": "AI短剧降智",
-          "summary": "浙江宣传：AI短剧真的“降智”吗",
-          "detail": "浙江宣传最近发表文章，探讨AI短剧是否真的“降智”。随着AI技术的广泛应用，AI生成的短剧内容越来越丰富，但也引发了关于其质量和智能的讨论。这一话题吸引了广泛关注，尤其是对AI内容创作的未来。",
-          "usage": "💡 聊到AI内容时\n💬 AI短剧真的“降智”吗？你怎么看？\n🔥 AI 短剧 内容创作",
-          "src_id": 22,
-          "tags": [
-            "AI",
-            "短剧",
-            "内容创作"
-          ],
-          "source": "https://m.baidu.com/s?word=%E6%B5%99%E6%B1%9F%E5%AE%A3%E4%BC%A0%EF%BC%9AAI%E7%9F%AD%E5%89%A7%E7%9C%9F%E7%9A%84%E2%80%9C%E9%99%8D%E6%99%BA%E2%80%9D%E5%90%97&sa=fyb_news"
-        }
-      ]
-    },
-    {
-      "name": "创业大戏",
-      "icon": "🎬",
-      "items": [
-        {
-          "title": "智元机器人破局",
-          "summary": "智元机器人寻找新的破局路径",
-          "detail": "智元机器人IPO暂缓，复购收入含金量上升，曾经仅凭样机、概念故事就能拿到高估值的时代已经过去。头部企业需要寻找新的破局路径，这步棋如何走，成了业界关注的焦点。",
-          "usage": "💡 聊到创业时\n💬 智元机器人IPO暂缓，新的破局路径在哪？\n🔥 智元机器人 IPO 破局",
-          "src_id": 3,
-          "tags": [
-            "智元机器人",
-            "IPO",
-            "破局"
-          ],
-          "source": "https://www.huxiu.com/article/4900375.html?f=rss"
-        },
-        {
-          "title": "埃森哲出售业务",
-          "summary": "埃森哲评估出售大中华区业务",
-          "detail": "据FT报道，埃森哲正在评估出售其大中华区业务。这一举动引发了业界的广泛关注，尤其是考虑到埃森哲在全球IT服务市场中的重要地位。出售大中华区业务可能是埃森哲战略调整的一部分，以适应不断变化的市场环境。",
-          "usage": "💡 聊到企业战略时\n💬 埃森哲要出售大中华区业务，你怎么看？\n🔥 埃森哲 出售 大中华区",
-          "src_id": 8,
-          "tags": [
-            "埃森哲",
-            "出售",
-            "大中华区"
-          ],
-          "source": "https://www.huxiu.com/article/4900365.html?f=rss"
-        }
-      ]
-    },
-    {
-      "name": "币圈风云",
-      "icon": "🪙",
-      "items": [
-        {
-          "title": "AI重构经济",
-          "summary": "屠光绍谈AI重构经济体系",
-          "detail": "屠光绍在最近的一次演讲中提到，AI正在重构经济体系，尤其是在K型分化和金融应对方面。他指出，AI的应用不仅改变了传统产业，也对金融体系提出了新的挑战和机遇。",
-          "usage": "💡 聊到AI和经济时\n💬 AI重构经济体系，你怎么看K型分化？\n🔥 AI 经济 K型分化",
-          "src_id": 6,
-          "tags": [
-            "AI",
-            "经济",
-            "K型分化"
-          ],
-          "source": "https://www.huxiu.com/article/4900371.html?f=rss"
-        },
-        {
-          "title": "AI战争资本流向",
-          "summary": "开源还是闭源？AI战争决定资本流向",
-          "detail": "开源还是闭源？这场AI战争正在决定未来十年的资本流向。深度观察指出，闭源决定AI能力上限，开源决定AI扩散速度，产业场景决定AI应用深度。这一讨论引发了业界对未来AI技术发展的广泛关注。",
-          "usage": "💡 聊到AI技术时\n💬 开源还是闭源？AI战争决定资本流向！\n🔥 AI 开源 闭源",
-          "src_id": 4,
-          "tags": [
-            "AI",
-            "开源",
-            "闭源"
-          ],
-          "source": "https://www.huxiu.com/article/4900374.html?f=rss"
+            "王兴",
+            "美团",
+            "股市"
+          ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-26T01:37:42.826Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-10-26T16:29:18.679Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
-    "model": "deepseek/deepseek-chat",
-    "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 5603,
-    "completion_tokens": 2468,
-    "total_tokens": 8071,
-    "cost_usd": 0.0039810438,
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 4908,
+    "completion_tokens": 2134,
+    "total_tokens": 7042,
+    "cost_usd": 0.0020166,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 0,
-      "published": 16
+      "dropped_orphans": 7,
+      "published": 1
     },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 12,
+        "huxiu": 2,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 23
+      "total": 13
     }
   }
 }

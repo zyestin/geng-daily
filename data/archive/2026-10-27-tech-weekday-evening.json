@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "王兴又双叒叕认错！",
+          "summary": "美团CEO王兴认错致宇树股价暴涨1100亿。",
+          "detail": "在一次内部会议上，王兴表示对美团的未来发展方向存在误判，随后面临股价暴涨1100亿的戏剧性逆转。美团今年经历了多次风波，结果却是王兴的认错成为了救命稻草，真是‘错得有道理’。这就好比你考试得零分，老师看你态度好，给你加分。家人们，想知道他有没有被罚站吗？",
+          "usage": "💡 聊聊股市变动时 \n💬 王兴：‘我错了，但错得对！’ \n🔥 王兴 美团 股市",
+          "source": "https://www.toutiao.com/trending/7700928117778419250/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%227700928117778419250%22%2C%22hot_board_impr_id%22%2220261027002545FB1217BC7F1CE4BB0D04%22%2C%22jump_page%22%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%2240132%22%2C%22title%22%3A%22%E7%8E%8B%E5%85%B4%E5%85%B4%E4%B8%A4%E6%AC%A1%E8%AE%A4%E9%94%99+%E5%AE%87%E6%A0%91%E6%9A%B4%E6%B6%A81100%E4%BA%BF%22%7D&rank=&style_id=40132&topic_id=7700928117778419250",
+          "tags": [
+            "王兴",
+            "美团",
+            "股市"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-26T16:29:18.679Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 4908,
+    "completion_tokens": 2134,
+    "total_tokens": 7042,
+    "cost_usd": 0.0020166,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 7,
+      "published": 1
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 2,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 13
+    }
+  }
+}
