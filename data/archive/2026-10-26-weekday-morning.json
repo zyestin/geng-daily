@@ -1,0 +1,133 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Next.js 13.4 发布",
+          "summary": "Next.js 最新版本带来新特性。",
+          "detail": "Next.js 13.4 刚刚推出，新增了内置的SVG支持和更好的构建性能。这一版本旨在简化开发者的工作流程，并提升页面加载速度，对大型项目尤其有益。",
+          "usage": "你听说Next.js 13.4刚发布吗？里面有不错的SVG支持，谁会不喜欢提速呢？",
+          "source": "",
+          "tags": [
+            "Next.js",
+            "前端框架"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN Fabric 新架构更新",
+          "summary": "React Native 新架构逐步推广。",
+          "detail": "React Native 的新架构Fabric正在逐步推广，提供更优的性能和更流畅的用户体验。开发者们普遍认为这是解决当前RN性能瓶颈的重要一步。",
+          "usage": "上周看到React Native的Fabric架构推广消息了吗？大家都说这会让性能提升不少，真希望尽快用上。",
+          "source": "",
+          "tags": [
+            "React Native",
+            "新架构"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "开源AI Agent发布",
+          "summary": "新开源AI Agent，操作简单。",
+          "detail": "开源项目Cindy提供了一种开箱即用的AI代理，开发者无需复杂配置即可使用。这个项目的出现引起了技术圈的广泛关注，大家对其应用前景十分看好。",
+          "usage": "你听说过Cindy这个开源AI代理吗？据说操作超简单，未来可能会改变我们开发的方式。",
+          "source": "https://github.com/makecindy/cindy",
+          "tags": [
+            "AI",
+            "开源"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "Linux基金会AI垃圾报告",
+          "summary": "Linux基金会发布AI代码质量报告。",
+          "detail": "最新报告显示，四分之一的Pull Request被认为是“AI垃圾”。尽管AI写代码的速度提升了52%，但开源维护者的工作负担却加重了，不少开发者对此表示担忧。",
+          "usage": "最近Linux基金会发布了一份关于AI代码的报告，竟称四分之一的PR是“AI垃圾”，你怎么看？",
+          "source": "https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB",
+          "tags": [
+            "TypeScript",
+            "JavaScript"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "Nutlope/hallmark项目",
+          "summary": "新开源项目，抗AI设计技能提升。",
+          "detail": "这个项目旨在提升AI生成代码的设计能力，帮助开发者更好地把控设计质量。获得了不少关注，尤其是在AI逐渐普及的背景下。",
+          "usage": "你看到Nutlope/hallmark这个项目了吗？它可以帮助提升AI生成的设计质量，听起来挺有意思的。",
+          "source": "https://github.com/Nutlope/hallmark",
+          "tags": [
+            "开源",
+            "设计"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "程序员心声",
+          "summary": "程序员们的真挚吐槽。",
+          "detail": "最近在技术社区上，有不少程序员吐槽工作中的“代码审查”，普遍认为这是开发者最大的痛点之一，尤其是面对大量AI生成的代码时。",
+          "usage": "你有没有觉得代码审查真是程序员的噩梦？尤其是现在AI写的代码，审核起来更加麻烦了！",
+          "source": "",
+          "tags": [
+            "程序员",
+            "开发文化"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-26T01:33:06.281Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 2335,
+    "completion_tokens": 1008,
+    "total_tokens": 3343,
+    "cost_usd": 0.0009550499999999999,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 9,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}
