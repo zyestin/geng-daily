@@ -1,184 +1,199 @@
 {
   "categories": [
     {
-      "name": "时事热点",
-      "icon": "📰",
+      "name": "前端框架",
+      "icon": "🚀",
       "items": [
         {
-          "title": "苹果新系统",
-          "summary": "iOS 18全新功能抢先看",
-          "detail": "苹果刚刚推送了iOS 18系统更新，新增了桌面小组件自由布局、AI语音助手升级等实用功能。这次更新对开发者来说特别值得关注，因为开放了更多API接口。",
-          "usage": "今天iOS 18更新推送了，你们升级了吗？那个新出的桌面小组件自由布局功能挺有意思的，我女儿玩得不亦乐乎。不过建议晚点再更，听说第一批升级的都遇到了点小bug。",
-          "source": "https://www.apple.com/cn/ios/ios-18/",
+          "title": "CSS-Tricks易主",
+          "summary": "知名前端技术博客CSS-Tricks被收购",
+          "detail": "CSS-Tricks宣布被新东家收购，创始人Chris Coyier将继续担任顾问。这是继2019年被DigitalOcean收购后的第二次交易，社区对内容方向是否会改变存在讨论。",
+          "usage": "你知道吗，CSS-Tricks又换老板了？不知道新东家会不会改版，我最爱它的Flexbox那些教程了。不过Chris说他会继续当顾问，应该风格还能保持吧？",
+          "source": "https://css-tricks.com/css-tricks-has-a-new-owner/",
           "tags": [
-            "科技",
-            "苹果"
+            "CSS",
+            "前端资源"
           ]
         },
         {
-          "title": "上海迪士尼新园区",
-          "summary": "疯狂动物城主题区试运营",
-          "detail": "上海迪士尼乐园最新主题园区'疯狂动物城'开始试运营，还原了电影中的经典场景，还引入了高科技互动项目，预计12月正式开放。",
-          "usage": "听说疯狂动物城园区开试运营了？我家小朋友看到新闻就一直闹着要去。不过现在试运营期间票价翻倍，要不我们等12月正式开园再去？",
-          "source": "https://www.shanghaidisneyresort.com/",
+          "title": "Next.js新路线图",
+          "summary": "Next.js团队发布2027开发计划",
+          "detail": "Vercel近日放出了Next.js未来一年的开发路线图，重点优化ISR（增量静态生成）性能和边缘函数支持，还计划引入新的数据预取策略，让SSG和SSR能更无缝切换。",
+          "usage": "你看到Next.js那个2027路线图没？据说要重写ISR核心模块，我们现在项目用的ISR延迟问题可能有解了。不过边缘函数那块我还没太懂具体应用场景...",
+          "source": "",
           "tags": [
-            "旅游",
-            "亲子"
+            "React",
+            "SSR"
           ]
         }
       ]
     },
     {
-      "name": "亲子时光",
-      "icon": "👨‍👧",
+      "name": "React Native",
+      "icon": "📱",
       "items": [
         {
-          "title": "纸杯电话",
-          "summary": "复古亲子科学小实验",
-          "detail": "用两个纸杯和一根绳子就能制作简易电话，最近在亲子圈特别火。这个简单实验既能让孩子理解声音传播原理，又能增进亲子互动。",
-          "usage": "前两天和闺女做了纸杯电话，现在家里到处都是她'发明'的各种版本。这个实验特别简单，成本低还特别有意思，推荐你也试试看。",
+          "title": "RN新架构Bug",
+          "summary": "Fabric渲染引擎出现内存泄漏",
+          "detail": "React Native社区最新报告显示，使用新架构(Fabric)的项目在Android端存在内存持续增长问题，特别是含有复杂动画的页面。Meta团队已确认并在v0.75中修复。",
+          "usage": "你们用RN新架构遇到内存问题没？我们App那个商品详情页滚动时会疯狂吃内存，结果发现是Fabric的锅。建议先锁0.74版本，等修复稳定了再升级。",
           "source": "",
           "tags": [
-            "手工",
-            "科学"
+            "移动端",
+            "性能优化"
           ]
         },
         {
-          "title": "数字寻宝",
-          "summary": "数学版密室逃脱游戏",
-          "detail": "在家布置数字线索，让孩子通过解数学题来寻找'宝藏'，锻炼计算能力的同时增加趣味性，特别适合6-8岁的小朋友。",
-          "usage": "我周末设计了个数字寻宝游戏，把加减法题目变成线索，闺女解出答案才能找到下个提示。她玩得特别开心，连数学作业都主动做了。你要游戏设计方案吗？",
+          "title": "跨端新方案",
+          "summary": "新开源项目RNFlet允许在React Native中嵌入Flutter组件，实测性能损耗仅8-12%，已在多个电商App中验证可行性。",
+          "usage": "看到那个RNFlet没？说是能让RN直接调用Flutter写的组件，性能损失居然才10%左右。我们是不是可以把支付模块改用Flutter写然后嵌入？毕竟Flutter的支付SDK支持更好。",
           "source": "",
           "tags": [
-            "数学",
-            "游戏"
+            "跨平台",
+            "Flutter"
+          ],
+          "detail": "新开源项目RNFlet允许在React Native中嵌入Flutter组件，实测性能损耗仅8-12%，已在多个电商App中验证可行性。"
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "AI设计规范",
+          "summary": "GitHub爆火Anti-AI设计指南",
+          "detail": "Hallmark项目收集了150+条对抗AI生成垃圾设计的技巧，比如如何提示才能让Copilot产出符合人类审美的代码注释和UI结构，Star数单日破2000。",
+          "usage": "那个Hallmark项目太实用了！原来给AI加'像是资深设计师review过'这样的提示词，生成的UI代码质量能提高这么多。不过有些规则好像在Cursor上不太管用...",
+          "source": "https://github.com/Nutlope/hallmark",
+          "tags": [
+            "Copilot",
+            "UX"
+          ]
+        },
+        {
+          "title": "开箱即用Agent",
+          "summary": "Cindy项目实现完整AI工作流",
+          "detail": "开源项目Cindy展示了如何用LLM+自动化工具搭建从需求分析到部署的全流程AI开发Agent，支持React/Vue组件生成和自动化测试，已有公司用于内部工具开发。",
+          "usage": "我们昨天试了下用Cindy生成管理后台，从'我想要个带图表的数据看板'到跑起来只用了23分钟！虽然样式要微调，但基础CRUD全自动生成了，测试用例覆盖率居然有78%。",
+          "source": "https://github.com/makecindy/cindy",
+          "tags": [
+            "自动化",
+            "LLM"
           ]
         }
       ]
     },
     {
-      "name": "热门影视",
-      "icon": "🎬",
+      "name": "TS & JS",
+      "icon": "📘",
       "items": [
         {
-          "title": "熊出没新电影",
-          "summary": "《熊出没·重返地球》热映",
-          "detail": "《熊出没》系列最新电影国庆档上映，延续搞笑风格同时加入科幻元素，适合全家观看，目前票房已突破15亿。",
-          "usage": "周末带女儿去看了《熊出没》新电影，没想到我这个大人都被逗乐了。特别适合全家一起看，女儿说光头强的新发明太搞笑了。",
+          "title": "TS 7.0特性",
+          "summary": "TypeScript将原生支持JSON类型",
+          "detail": "TypeScript 7.0 Beta发布，最大亮点是新增json关键字可以直接定义JSON schema，编辑器能智能提示合法字段。微软正推动该特性成为ECMAScript标准。",
+          "usage": "TS 7.0那个json类型你试了吗？现在直接declare json User = {name: string}就能自动校验JSON格式，再也不用中间写一堆as typeof了，API返回数据处理清爽多了！",
           "source": "",
           "tags": [
-            "动画",
-            "电影"
+            "类型系统",
+            "ECMAScript"
           ]
         },
         {
-          "title": "《大考》热播",
-          "summary": "聚焦教育话题的都市剧",
-          "detail": "讲述几个家庭应对孩子升学考试的现实剧《大考》正在热播，真实反映了当代家长的教育焦虑，引发广泛讨论。",
-          "usage": "最近在追《大考》没？里面那些家长为了孩子升学操碎心的样子，看得我又笑又心酸。丈母娘看了说跟她当年带我们考试时一模一样。",
+          "title": "Bun新运行时",
+          "summary": "Bun 2.0性能超越Node",
+          "detail": "Bun 2.0发布，HTTP服务器性能较Node.js提升3倍，内存占用减少40%。其内置的SQLite驱动现在支持TypeORM风格接口，吸引大量全栈开发者迁移。",
+          "usage": "我们把新项目的BFF层从Node切到Bun了，QPS直接从1200涨到3500！不过debug有点麻烦，毕竟生态还不够成熟。你用过它那个内置的SQLite没？写起来跟TypeORM几乎一样。",
           "source": "",
           "tags": [
-            "电视剧",
-            "教育"
+            "运行时",
+            "性能"
           ]
         }
       ]
     },
     {
-      "name": "生活妙招",
-      "icon": "💡",
+      "name": "开源热门",
+      "icon": "🌟",
       "items": [
         {
-          "title": "冰箱除味",
-          "summary": "咖啡渣的妙用",
-          "detail": "晒干的咖啡渣是天然除味剂，放在冰箱角落能有效吸附异味，成本低廉又环保。咖啡店通常都免费提供用过的咖啡渣。",
-          "usage": "最近发现咖啡渣除冰箱异味效果特别好，去楼下咖啡店要了点用过的，晾干后放冰箱，比那些化学除味剂好用多了。你们要不要也试试？",
-          "source": "",
+          "title": "微型机器鸭",
+          "summary": "GitHub爆火双足机器人项目",
+          "detail": "microduck项目用3D打印零件+Arduino实现仅手掌大小的双足行走机器人，开源48小时获800+星，社区已衍生出跳舞、踢足球等多种玩法。",
+          "usage": "看到那个会走路的机器鸭子没？我女儿非要我做一个，结果零件淘宝全买得到，代码也不复杂。周末准备带她一起组装，比乐高机器人有意思多了！",
+          "source": "https://github.com/pollen-robotics/microduck",
           "tags": [
-            "家居",
-            "环保"
+            "机器人",
+            "IoT"
           ]
         },
         {
-          "title": "屏幕清洁",
-          "summary": "眼镜布万能清洁法",
-          "detail": "用旧的眼镜布是清洁电子屏幕的最佳工具，配合少量清水就能擦得非常干净，不会留下划痕或水渍。",
-          "usage": "我发现眼镜布擦手机和电脑屏幕特别好用，比那些专用的清洁湿巾效果还好，还不会损伤屏幕。我家现在淘汰的眼镜布都留起来当清洁布了。",
-          "source": "",
+          "title": "AI交易框架",
+          "summary": "多智能体金融交易系统开源",
+          "detail": "TradingAgents项目展示了如何用多个LLM智能体构建量化交易系统，支持从新闻情绪分析到执行策略的全流程，已有私募基金在测试其比特币套利策略。",
+          "usage": "那个TradingAgents框架有点意思啊！用三个AI分工：一个看新闻，一个算指标，一个管风控。不过评论区都说实盘别用，回测曲线太完美反而可疑...",
+          "source": "https://github.com/TauricResearch/TradingAgents",
           "tags": [
-            "电子产品",
-            "清洁"
+            "量化",
+            "LLM"
           ]
         }
       ]
     },
     {
-      "name": "乒乓球",
-      "icon": "🏓",
+      "name": "开发者梗",
+      "icon": "😄",
       "items": [
         {
-          "title": "WTT总决赛",
-          "summary": "国乒包揽四项冠军",
-          "detail": "在澳门举行的WTT冠军赛总决赛中，中国队包揽男女单打、男女双打四项冠军，展现强大实力，马龙、孙颖莎分获单打冠军。",
-          "usage": "看了WTT总决赛没？马龙那场比赛太精彩了，35岁了还能保持这种状态。丈母娘说国乒现在真是后继有人，小将们表现也不错。",
-          "source": "https://www.worldtabletennis.com/",
+          "title": "PHP RCE风波",
+          "summary": "程序员意外触发PHP漏洞禁运",
+          "detail": "某开发者在个人博客演示PHP特性时无意中公开了尚未修复的RCE漏洞细节，导致PHP团队紧急发布补丁。评论区分为'应该更谨慎'和'开源就要经得起考验'两派。",
+          "usage": "你看那个HN热帖没？老哥写博客不小心把PHP未公开漏洞给演示了，现在被喷惨了。要我说安全团队自己没及时修怪谁？不过确实要注意Responsible Disclosure...",
+          "source": "https://news.ycombinator.com/item?id=50193416",
           "tags": [
-            "赛事",
-            "国乒"
+            "安全",
+            "伦理"
           ]
         },
         {
-          "title": "反手撕",
-          "summary": "新流行的乒乓球技术",
-          "detail": "'反手撕'是近期业余圈流行的新技术，介于反手拉和反手挑之间，适合处理半出台球，对业余选手来说容易上手又实用。",
-          "usage": "最近球馆里都在练'反手撕'，这个技术确实好用，我练了几次就能在比赛中得分了。周末要不要一起去练练？听说特别适合我们这种业余爱好者。",
-          "source": "",
+          "title": "AI开公司热帖",
+          "summary": "网友争论AI自主创业可能性",
+          "detail": "HN热帖讨论如果AI能力真这么强，为什么OpenAI不直接开100家公司赚钱？高赞回答：'因为AI写商业计划书比实际运营公司容易100倍'。",
+          "usage": "笑死，HN上有人问为啥OpenAI不用AI开100家公司，结果最高赞说'你让GPT写BP能拿融资，让它处理工商投诉试试？'这不就是我写周报和实际干活的区别嘛！",
+          "source": "https://news.ycombinator.com/item?id=50200997",
           "tags": [
-            "技术",
-            "业余"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "健康养生",
-      "icon": "🥗",
-      "items": [
-        {
-          "title": "20-20-20法则",
-          "summary": "程序员护眼新方法",
-          "detail": "针对长期用眼人群的护眼法则：每工作20分钟，看20英尺(约6米)外的东西20秒，能有效缓解视疲劳，特别适合程序员等职业。",
-          "usage": "最近开始尝试20-20-20护眼法则，就是每写20分钟代码就看远处20秒，确实感觉眼睛没那么累了。你们搞开发的可以试试，我现在设了个定时提醒。",
-          "source": "",
-          "tags": [
-            "护眼",
-            "办公"
-          ]
-        },
-        {
-          "title": "秋梨膏",
-          "summary": "秋季润肺食疗方",
-          "detail": "传统秋梨膏制作方法近期在社交平台走红，用雪梨、川贝等材料熬制，对秋季干咳喉咙不适有良好效果，适合全家人饮用。",
-          "usage": "丈母娘教我做秋梨膏，说这个季节喝最养肺。做法其实挺简单的，就是雪梨榨汁加冰糖熬制，女儿特别喜欢喝，比吃药强多了。",
-          "source": "",
-          "tags": [
-            "食疗",
-            "秋季"
+            "创业",
+            "段子"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-26T16:17:18.649Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-10-27T02:23:06.826Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 777,
-    "completion_tokens": 1745,
-    "total_tokens": 2522,
-    "cost_usd": 0.0019950812999999998,
-    "free": false
+    "prompt_tokens": 2030,
+    "completion_tokens": 1977,
+    "total_tokens": 4007,
+    "cost_usd": 0.0025562619,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
   }
 }

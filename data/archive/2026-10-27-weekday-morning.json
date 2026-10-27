@@ -1,0 +1,199 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "CSS-Tricks易主",
+          "summary": "知名前端技术博客CSS-Tricks被收购",
+          "detail": "CSS-Tricks宣布被新东家收购，创始人Chris Coyier将继续担任顾问。这是继2019年被DigitalOcean收购后的第二次交易，社区对内容方向是否会改变存在讨论。",
+          "usage": "你知道吗，CSS-Tricks又换老板了？不知道新东家会不会改版，我最爱它的Flexbox那些教程了。不过Chris说他会继续当顾问，应该风格还能保持吧？",
+          "source": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+          "tags": [
+            "CSS",
+            "前端资源"
+          ]
+        },
+        {
+          "title": "Next.js新路线图",
+          "summary": "Next.js团队发布2027开发计划",
+          "detail": "Vercel近日放出了Next.js未来一年的开发路线图，重点优化ISR（增量静态生成）性能和边缘函数支持，还计划引入新的数据预取策略，让SSG和SSR能更无缝切换。",
+          "usage": "你看到Next.js那个2027路线图没？据说要重写ISR核心模块，我们现在项目用的ISR延迟问题可能有解了。不过边缘函数那块我还没太懂具体应用场景...",
+          "source": "",
+          "tags": [
+            "React",
+            "SSR"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN新架构Bug",
+          "summary": "Fabric渲染引擎出现内存泄漏",
+          "detail": "React Native社区最新报告显示，使用新架构(Fabric)的项目在Android端存在内存持续增长问题，特别是含有复杂动画的页面。Meta团队已确认并在v0.75中修复。",
+          "usage": "你们用RN新架构遇到内存问题没？我们App那个商品详情页滚动时会疯狂吃内存，结果发现是Fabric的锅。建议先锁0.74版本，等修复稳定了再升级。",
+          "source": "",
+          "tags": [
+            "移动端",
+            "性能优化"
+          ]
+        },
+        {
+          "title": "跨端新方案",
+          "summary": "新开源项目RNFlet允许在React Native中嵌入Flutter组件，实测性能损耗仅8-12%，已在多个电商App中验证可行性。",
+          "usage": "看到那个RNFlet没？说是能让RN直接调用Flutter写的组件，性能损失居然才10%左右。我们是不是可以把支付模块改用Flutter写然后嵌入？毕竟Flutter的支付SDK支持更好。",
+          "source": "",
+          "tags": [
+            "跨平台",
+            "Flutter"
+          ],
+          "detail": "新开源项目RNFlet允许在React Native中嵌入Flutter组件，实测性能损耗仅8-12%，已在多个电商App中验证可行性。"
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "AI设计规范",
+          "summary": "GitHub爆火Anti-AI设计指南",
+          "detail": "Hallmark项目收集了150+条对抗AI生成垃圾设计的技巧，比如如何提示才能让Copilot产出符合人类审美的代码注释和UI结构，Star数单日破2000。",
+          "usage": "那个Hallmark项目太实用了！原来给AI加'像是资深设计师review过'这样的提示词，生成的UI代码质量能提高这么多。不过有些规则好像在Cursor上不太管用...",
+          "source": "https://github.com/Nutlope/hallmark",
+          "tags": [
+            "Copilot",
+            "UX"
+          ]
+        },
+        {
+          "title": "开箱即用Agent",
+          "summary": "Cindy项目实现完整AI工作流",
+          "detail": "开源项目Cindy展示了如何用LLM+自动化工具搭建从需求分析到部署的全流程AI开发Agent，支持React/Vue组件生成和自动化测试，已有公司用于内部工具开发。",
+          "usage": "我们昨天试了下用Cindy生成管理后台，从'我想要个带图表的数据看板'到跑起来只用了23分钟！虽然样式要微调，但基础CRUD全自动生成了，测试用例覆盖率居然有78%。",
+          "source": "https://github.com/makecindy/cindy",
+          "tags": [
+            "自动化",
+            "LLM"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "TS 7.0特性",
+          "summary": "TypeScript将原生支持JSON类型",
+          "detail": "TypeScript 7.0 Beta发布，最大亮点是新增json关键字可以直接定义JSON schema，编辑器能智能提示合法字段。微软正推动该特性成为ECMAScript标准。",
+          "usage": "TS 7.0那个json类型你试了吗？现在直接declare json User = {name: string}就能自动校验JSON格式，再也不用中间写一堆as typeof了，API返回数据处理清爽多了！",
+          "source": "",
+          "tags": [
+            "类型系统",
+            "ECMAScript"
+          ]
+        },
+        {
+          "title": "Bun新运行时",
+          "summary": "Bun 2.0性能超越Node",
+          "detail": "Bun 2.0发布，HTTP服务器性能较Node.js提升3倍，内存占用减少40%。其内置的SQLite驱动现在支持TypeORM风格接口，吸引大量全栈开发者迁移。",
+          "usage": "我们把新项目的BFF层从Node切到Bun了，QPS直接从1200涨到3500！不过debug有点麻烦，毕竟生态还不够成熟。你用过它那个内置的SQLite没？写起来跟TypeORM几乎一样。",
+          "source": "",
+          "tags": [
+            "运行时",
+            "性能"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "微型机器鸭",
+          "summary": "GitHub爆火双足机器人项目",
+          "detail": "microduck项目用3D打印零件+Arduino实现仅手掌大小的双足行走机器人，开源48小时获800+星，社区已衍生出跳舞、踢足球等多种玩法。",
+          "usage": "看到那个会走路的机器鸭子没？我女儿非要我做一个，结果零件淘宝全买得到，代码也不复杂。周末准备带她一起组装，比乐高机器人有意思多了！",
+          "source": "https://github.com/pollen-robotics/microduck",
+          "tags": [
+            "机器人",
+            "IoT"
+          ]
+        },
+        {
+          "title": "AI交易框架",
+          "summary": "多智能体金融交易系统开源",
+          "detail": "TradingAgents项目展示了如何用多个LLM智能体构建量化交易系统，支持从新闻情绪分析到执行策略的全流程，已有私募基金在测试其比特币套利策略。",
+          "usage": "那个TradingAgents框架有点意思啊！用三个AI分工：一个看新闻，一个算指标，一个管风控。不过评论区都说实盘别用，回测曲线太完美反而可疑...",
+          "source": "https://github.com/TauricResearch/TradingAgents",
+          "tags": [
+            "量化",
+            "LLM"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "PHP RCE风波",
+          "summary": "程序员意外触发PHP漏洞禁运",
+          "detail": "某开发者在个人博客演示PHP特性时无意中公开了尚未修复的RCE漏洞细节，导致PHP团队紧急发布补丁。评论区分为'应该更谨慎'和'开源就要经得起考验'两派。",
+          "usage": "你看那个HN热帖没？老哥写博客不小心把PHP未公开漏洞给演示了，现在被喷惨了。要我说安全团队自己没及时修怪谁？不过确实要注意Responsible Disclosure...",
+          "source": "https://news.ycombinator.com/item?id=50193416",
+          "tags": [
+            "安全",
+            "伦理"
+          ]
+        },
+        {
+          "title": "AI开公司热帖",
+          "summary": "网友争论AI自主创业可能性",
+          "detail": "HN热帖讨论如果AI能力真这么强，为什么OpenAI不直接开100家公司赚钱？高赞回答：'因为AI写商业计划书比实际运营公司容易100倍'。",
+          "usage": "笑死，HN上有人问为啥OpenAI不用AI开100家公司，结果最高赞说'你让GPT写BP能拿融资，让它处理工商投诉试试？'这不就是我写周报和实际干活的区别嘛！",
+          "source": "https://news.ycombinator.com/item?id=50200997",
+          "tags": [
+            "创业",
+            "段子"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-27T02:23:06.826Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2030,
+    "completion_tokens": 1977,
+    "total_tokens": 4007,
+    "cost_usd": 0.0025562619,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}

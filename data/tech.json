@@ -5,44 +5,225 @@
       "icon": "📰",
       "items": [
         {
-          "title": "王兴又双叒叕认错！",
-          "summary": "美团CEO王兴认错致宇树股价暴涨1100亿。",
-          "detail": "在一次内部会议上，王兴表示对美团的未来发展方向存在误判，随后面临股价暴涨1100亿的戏剧性逆转。美团今年经历了多次风波，结果却是王兴的认错成为了救命稻草，真是‘错得有道理’。这就好比你考试得零分，老师看你态度好，给你加分。家人们，想知道他有没有被罚站吗？",
-          "usage": "💡 聊聊股市变动时 \n💬 王兴：‘我错了，但错得对！’ \n🔥 王兴 美团 股市",
-          "source": "https://www.toutiao.com/trending/7700928117778419250/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%227700928117778419250%22%2C%22hot_board_impr_id%22%2220261027002545FB1217BC7F1CE4BB0D04%22%2C%22jump_page%22%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%2240132%22%2C%22title%22%3A%22%E7%8E%8B%E5%85%B4%E5%85%B4%E4%B8%A4%E6%AC%A1%E8%AE%A4%E9%94%99+%E5%AE%87%E6%A0%91%E6%9A%B4%E6%B6%A81100%E4%BA%BF%22%7D&rank=&style_id=40132&topic_id=7700928117778419250",
+          "title": "AI一夜通关",
+          "summary": "OpenAI模型秒解世界级难题",
+          "detail": "OpenAI宣布其模型一次性解决三项困扰人类几十年的世界级难题，其中包含数学界著名的'王的猜想'。AI用几天时间就交卷了，而人类数学家们花了几十年还没完全搞定。这波AI直接给人类上了一课：你们慢慢想，我先下班了。",
+          "usage": "💡 聊AI进展时\n💬 OpenAI让AI几天搞定数学家几十年没解决的难题，卷王本王了\n🔥 OpenAI 数学难题 AI突破",
+          "source": "https://www.huxiu.com/article/4900690.html?f=rss",
           "tags": [
-            "王兴",
-            "美团",
-            "股市"
+            "AI",
+            "OpenAI",
+            "数学"
+          ]
+        },
+        {
+          "title": "Anthropic烧钱大赛",
+          "summary": "每天烧2亿美元的AI公司",
+          "detail": "Anthropic首次公开招股书，显示其ARR（年化经常性收入）达650亿美元，但净亏损高达800亿美元。这家AI公司每天要烧掉2亿美元，堪称史上最强'烧钱机器'。投资人：这哪是创业，这是参加'谁能更快把钱烧完'大赛吧？",
+          "usage": "💡 聊AI公司烧钱时\n💬 Anthropic每天烧2亿刀，这烧钱速度比特斯拉放烟花还快\n🔥 Anthropic 招股书 AI烧钱",
+          "source": "https://www.huxiu.com/article/4900693.html?f=rss",
+          "tags": [
+            "AI",
+            "Anthropic",
+            "烧钱"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "百合网创始人要饭",
+          "summary": "百合网慕岩朋友圈化缘",
+          "detail": "百合网创始人慕岩被曝在朋友圈'化缘要饭'，这位曾经撮合无数姻缘的月老，如今亲自示范了什么叫'创业艰难百战多'。网友：这是要把'百合网'改成'百家饭网'的节奏？",
+          "usage": "💡 聊创业艰难时\n💬 百合网创始人都在朋友圈要饭了，这届创业者太难了\n🔥 百合网 慕岩 创业艰难",
+          "source": "https://m.baidu.com/s?word=%E7%99%BE%E5%90%88%E7%BD%91%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%85%95%E5%B2%A9%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8C%96%E7%BC%98%E8%A6%81%E9%A5%AD&sa=fyb_news",
+          "tags": [
+            "百合网",
+            "慕岩",
+            "创业"
+          ]
+        },
+        {
+          "title": "张贵兵的审美课",
+          "summary": "奇瑞副总谈女性买车",
+          "detail": "奇瑞汽车常务副总裁张贵兵最新发言称，很多女性客户'第一眼看到这个汽车'就决定买不买，技术参数反而不重要。这位直男高管终于悟了：汽车圈的内卷，已经从发动机卷到颜值了。",
+          "usage": "💡 聊汽车营销时\n💬 奇瑞副总说女性买车看脸不看参数，理工男终于开窍了\n🔥 奇瑞 张贵兵 汽车营销",
+          "source": "https://www.huxiu.com/article/4900414.html?f=rss",
+          "tags": [
+            "奇瑞",
+            "张贵兵",
+            "汽车"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "AI自媒体大乱斗",
+          "summary": "科技圈钓鱼佬扎堆",
+          "detail": "科技圈最热闹的不是大模型发布会，而是突然涌现的AI垂直账号。前房地产自媒体、前美妆博主纷纷转型AI，堪称'鱼塘边上挤满了钓鱼佬'。网友：建议这些号先互相比拼下，看谁的AI写得最好。",
+          "usage": "💡 聊自媒体乱象时\n💬 现在AI自媒体比AI公司还多，建议他们先PK一下\n🔥 AI自媒体 转型 内卷",
+          "source": "https://www.huxiu.com/article/4900686.html?f=rss",
+          "tags": [
+            "AI",
+            "自媒体",
+            "转型"
+          ]
+        },
+        {
+          "title": "东鹏饮料分手姆巴佩",
+          "summary": "终止与球星全部合作",
+          "detail": "东鹏饮料突然宣布终止与足球巨星姆巴佩的全部合作，这波操作让吃瓜群众一脸问号。网友神评：是不是姆总监要价太高，东鹏发现还不如把钱拿来多买几箱红牛？",
+          "usage": "💡 聊品牌代言时\n💬 东鹏和姆巴佩分手了，可能是因为发现请明星不如多发几箱饮料\n🔥 东鹏饮料 姆巴佩 代言",
+          "source": "https://m.baidu.com/s?word=%E4%B8%9C%E9%B9%8F%E9%A5%AE%E6%96%99%EF%BC%9A%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%85%A8%E9%83%A8%E5%90%88%E4%BD%9C&sa=fyb_news",
+          "tags": [
+            "东鹏饮料",
+            "姆巴佩",
+            "品牌"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "投资人急了",
+          "summary": "催机器人公司IPO",
+          "detail": "某机器人公司早期投资人开始催促被投企业推进IPO，这家估值数百亿的灵巧手机器人公司可能被迫'拔苗助长'。网友：机器人还没长大，投资人的钱包先等不及了。",
+          "usage": "💡 聊创投圈时\n💬 机器人还没学会走路呢，投资人就想让它跑IPO了\n🔥 机器人 IPO 创投",
+          "source": "https://www.huxiu.com/article/4900691.html?f=rss",
+          "tags": [
+            "机器人",
+            "IPO",
+            "创投"
+          ]
+        },
+        {
+          "title": "具身智能最大敌人",
+          "summary": "不是技术是吃灰",
+          "detail": "具身智能面临的最大挑战不是技术难题，而是产品'吃灰'的尴尬。业内人士透露，很多机器人买回家后不久就被闲置。网友：原来机器人和健身卡是同一个命运啊。",
+          "usage": "💡 聊机器人产品时\n💬 具身智能最大的敌人是吃灰，和我的健身卡一毛一样\n🔥 具身智能 机器人 吃灰",
+          "source": "https://www.huxiu.com/article/4900414.html?f=rss",
+          "tags": [
+            "具身智能",
+            "机器人",
+            "产品"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "番茄VS收割机",
+          "summary": "机器人农业新难题",
+          "detail": "从能扛住收割机的番茄到让AI反复失败的透明塑料袋，机器人进入现实世界的障碍比预想更多。最新研究发现，改造一个纸箱的成本可能比研发新算法还高。农业科技：说好的高科技呢？怎么在跟塑料袋较劲？",
+          "usage": "💡 聊机器人落地时\n💬 现在最先进的AI连塑料袋都搞不定，我平衡了\n🔥 机器人 农业 落地难题",
+          "source": "https://www.huxiu.com/article/4900684.html?f=rss",
+          "tags": [
+            "机器人",
+            "农业",
+            "AI"
+          ]
+        },
+        {
+          "title": "非洲科技观察",
+          "summary": "在乌干达打球的IT人",
+          "detail": "一位在非洲工作三年的IT从业者记录下当地科技生活，最近正参加乌干达'中资杯'球赛。他吐槽抽签手气差，抽在了死亡小组。网友：在非洲搞IT还要会打球，这届程序员太难了。",
+          "usage": "💡 聊海外工作见闻时\n💬 在非洲搞IT还得会打球，建议简历新增'体育特长'\n🔥 非洲 IT 海外工作",
+          "source": "https://www.huxiu.com/article/4900687.html?f=rss",
+          "tags": [
+            "非洲",
+            "程序员",
+            "海外"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "航空公司新'服务'",
+          "summary": "投诉多就改服务标准",
+          "detail": "航空公司被曝处理投诉的秘诀是：不解决问题，而是直接修改服务标准。多位高管认为只要标准降低，投诉就不算投诉。乘客：原来不是服务变好了，是标准变低了？",
+          "usage": "💡 聊服务行业乱象时\n💬 航空公司这波操作秀啊，解决不了问题就解决标准\n🔥 航空公司 服务标准 投诉",
+          "source": "https://www.huxiu.com/article/4900694.html?f=rss",
+          "tags": [
+            "航空公司",
+            "服务",
+            "投诉"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "63年跟拍纪录片",
+          "summary": "富孩子与穷孩子人生",
+          "detail": "英国ITV制作的《人生七年》纪录片跟拍了不同阶层孩子63年的人生轨迹，被称'史上最长寿纪录片'。最新一集显示，富人家的孩子依然富有，穷人家的孩子...还是穷。网友：这纪录片拍的是人生还是宿命？",
+          "usage": "💡 聊社会话题时\n💬 看了63年纪录片发现：投胎真是门技术活\n🔥 纪录片 阶层固化 人生七年",
+          "source": "https://www.huxiu.com/article/4900700.html?f=rss",
+          "tags": [
+            "纪录片",
+            "社会",
+            "阶层"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "币圈风云",
+      "icon": "🪙",
+      "items": [
+        {
+          "title": "美债风暴",
+          "summary": "资金大迁移进行时",
+          "detail": "美债大涨引发资金大迁移，市场何时止跌成为焦点。分析师指出，真正的流动性拐点还得看美联储是否转向降息。币圈玩家：这波动，比过山车还刺激。",
+          "usage": "💡 聊金融波动时\n💬 美债这波动，币圈老韭菜都直呼内行\n🔥 美债 金融市场 波动",
+          "source": "https://www.huxiu.com/article/4900077.html?f=rss",
+          "tags": [
+            "美债",
+            "金融",
+            "市场"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-26T16:29:18.679Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-10-27T02:24:51.259Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
-    "model": "openai/gpt-4o-mini",
-    "actual_model": "openai/gpt-4o-mini",
-    "prompt_tokens": 4908,
-    "completion_tokens": 2134,
-    "total_tokens": 7042,
-    "cost_usd": 0.0020166,
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 5759,
+    "completion_tokens": 2574,
+    "total_tokens": 8333,
+    "cost_usd": 0.0041302404000000004,
     "free": false,
-    "quality": {
-      "degraded": true,
-      "dropped_orphans": 7,
-      "published": 1
-    },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 2,
+        "huxiu": 12,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 13
+      "total": 23
     }
   }
 }
