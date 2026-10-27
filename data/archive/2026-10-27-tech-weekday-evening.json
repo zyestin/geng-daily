@@ -5,44 +5,116 @@
       "icon": "📰",
       "items": [
         {
-          "title": "王兴又双叒叕认错！",
-          "summary": "美团CEO王兴认错致宇树股价暴涨1100亿。",
-          "detail": "在一次内部会议上，王兴表示对美团的未来发展方向存在误判，随后面临股价暴涨1100亿的戏剧性逆转。美团今年经历了多次风波，结果却是王兴的认错成为了救命稻草，真是‘错得有道理’。这就好比你考试得零分，老师看你态度好，给你加分。家人们，想知道他有没有被罚站吗？",
-          "usage": "💡 聊聊股市变动时 \n💬 王兴：‘我错了，但错得对！’ \n🔥 王兴 美团 股市",
-          "source": "https://www.toutiao.com/trending/7700928117778419250/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%227700928117778419250%22%2C%22hot_board_impr_id%22%2220261027002545FB1217BC7F1CE4BB0D04%22%2C%22jump_page%22%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%2240132%22%2C%22title%22%3A%22%E7%8E%8B%E5%85%B4%E5%85%B4%E4%B8%A4%E6%AC%A1%E8%AE%A4%E9%94%99+%E5%AE%87%E6%A0%91%E6%9A%B4%E6%B6%A81100%E4%BA%BF%22%7D&rank=&style_id=40132&topic_id=7700928117778419250",
+          "title": "AI洗牌富豪榜",
+          "summary": "张一鸣6700亿登顶",
+          "detail": "AI时代，财富榜也要重新洗牌了！最新富豪榜显示，字节跳动创始人张一鸣以6700亿身家登顶，远超第二名梁文锋的2800亿。这波AI红利，真是让大佬们身价飞涨。不过话说回来，AI这么能打，未来会不会直接把富豪榜给AI接管了？",
+          "usage": "💡 聊AI时代财富变化\n💬 AI洗牌富豪榜，张一鸣6700亿登顶\n🔥 AI 富豪榜 张一鸣",
+          "source": "https://www.huxiu.com/article/4900930.html?f=rss",
           "tags": [
-            "王兴",
-            "美团",
-            "股市"
+            "AI",
+            "富豪榜"
+          ]
+        },
+        {
+          "title": "17岁AI天才",
+          "summary": "年薪700万",
+          "detail": "别人家17岁在研究高考题，这位17岁AI天才已经开始研究AI模型了！最近，一位17岁的AI研究员被曝收到了700万年薪的邀约。这不禁让人感慨：AI时代，年龄真不是问题，关键是脑子够不够用。不过，这年薪要是真的，怕是连马斯克都要投来羡慕的眼光了。",
+          "usage": "💡 聊AI领域的新秀\n💬 17岁AI天才年薪700万\n🔥 AI 天才 年薪",
+          "source": "https://www.toutiao.com/trending/7701221553450598938/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701221553450598938%22%2C%22hot_board_impr_id%22%3A%2220261027233926C1189F95F84B0F6950F1%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2217%E5%B2%81AI%E7%A0%94%E7%A9%B6%E5%91%98%E8%A2%AB%E6%9B%9D%E8%8E%B7700%E4%B8%87%E5%B9%B4%E8%96%AA%E9%82%80%E7%BA%A6%22%7D&rank=&style_id=40132&topic_id=7701221553450598938",
+          "tags": [
+            "AI",
+            "天才"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "苹果折叠屏翻车",
+          "summary": "首款折叠屏遇挫",
+          "detail": "苹果的首款折叠屏手机还没上市就遇到了麻烦！据内部消息，这款手机在测试中出现了严重的屏幕折叠问题，导致上市计划被迫推迟。网友调侃：'苹果这是要给三星一个翻盘的机会吗？'",
+          "usage": "💡 聊苹果新品翻车\n💬 苹果折叠屏翻车，上市延期\n🔥 苹果 折叠屏 翻车",
+          "source": "https://www.toutiao.com/trending/7701324668954742299/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701324668954742299%22%2C%22hot_board_impr_id%22%3A%2220261027233926C1189F95F84B0F6950F1%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E2%80%9C%E5%87%BA%E5%B8%88%E4%B8%8D%E5%88%A9%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7701324668954742299",
+          "tags": [
+            "苹果",
+            "折叠屏"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "苹果折叠屏翻车",
+          "summary": "首款折叠屏遇挫",
+          "detail": "苹果的首款折叠屏手机还没上市就遇到了麻烦！据内部消息，这款手机在测试中出现了严重的屏幕折叠问题，导致上市计划被迫推迟。网友调侃：'苹果这是要给三星一个翻盘的机会吗？'",
+          "usage": "💡 聊苹果新品翻车\n💬 苹果折叠屏翻车，上市延期\n🔥 苹果 折叠屏 翻车",
+          "source": "https://www.toutiao.com/trending/7701324668954742299/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701324668954742299%22%2C%22hot_board_impr_id%22%3A%2220261027233926C1189F95F84B0F6950F1%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E2%80%9C%E5%87%BA%E5%B8%88%E4%B8%8D%E5%88%A9%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7701324668954742299",
+          "tags": [
+            "苹果",
+            "折叠屏"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "泡泡玛特遇冷",
+          "summary": "LABUBU退潮",
+          "detail": "泡泡玛特最新财报显示，LABUBU系列的销量大幅下滑，整体业绩也出现了明显下滑。网友们纷纷表示：'LABUBU的热度过去了，泡泡玛特还能靠什么？'不过，泡泡玛特表示，未来将推出更多新IP，试图挽回局面。",
+          "usage": "💡 聊IP热潮退去\n💬 泡泡玛特LABUBU退潮，业绩下滑\n🔥 泡泡玛特 LABUBU 业绩",
+          "source": "https://www.huxiu.com/article/4900913.html?f=rss",
+          "tags": [
+            "泡泡玛特",
+            "LABUBU"
+          ]
+        },
+        {
+          "title": "AI创业公司倒闭",
+          "summary": "半年亏807亿",
+          "detail": "一家AI创业公司半年收入163亿美元，但净亏损却高达807亿美元。创始人表示：'AI行业的竞争太激烈，我们不得不暂时退出市场。'网友们调侃：'这亏损速度，怕是连马斯克都hold不住。'",
+          "usage": "💡 聊AI创业困境\n💬 AI创业公司半年亏807亿\n🔥 AI 创业 亏损",
+          "source": "https://www.huxiu.com/article/4900921.html?f=rss",
+          "tags": [
+            "AI",
+            "创业"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-26T16:29:18.679Z",
+  "generated_at": "2026-10-27T15:46:05.233Z",
   "slot": "weekday-evening",
   "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
-    "model": "openai/gpt-4o-mini",
-    "actual_model": "openai/gpt-4o-mini",
-    "prompt_tokens": 4908,
-    "completion_tokens": 2134,
-    "total_tokens": 7042,
-    "cost_usd": 0.0020166,
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 5869,
+    "completion_tokens": 3733,
+    "total_tokens": 9602,
+    "cost_usd": 0.0053508177,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 7,
-      "published": 1
+      "dropped_orphans": 10,
+      "published": 6
     },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 2,
+        "huxiu": 12,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 13
+      "total": 24
     }
   }
 }
