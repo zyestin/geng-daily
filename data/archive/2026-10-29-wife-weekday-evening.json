@@ -1,0 +1,75 @@
+{
+  "categories": [
+    {
+      "name": "🎬 追剧指南",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "《玉簟秋》槽点大剧",
+          "summary": "讨论内涵与争议，笑声不断！",
+          "detail": "最近这部《玉簟秋》争议满满，女主角演技炸裂，然而男主的台词总让人忍不住想笑，比如‘我爱你像数据一样精确。’这种情话讲出来，简直就是给观众一个bug！如果你在追剧，咱们可以一起吐槽，来个‘最严厉的剧评’！",
+          "usage": "💡 追剧时提起 \n💬 ‘嘿，你觉得《玉簟秋》的男主到底能不能修复这台词的bug？’ \n🔥 剧情 演员 槽点",
+          "source": "https://m.baidu.com/s?word=%E3%80%8A%E7%8E%89%E7%B0%9F%E7%A7%8B%E3%80%8B%E5%B0%BA%E5%BA%A6",
+          "tags": [
+            "追剧",
+            "槽点",
+            "搞笑"
+          ]
+        },
+        {
+          "title": "薛之谦新歌必听",
+          "summary": "追剧也要追歌，笑中带泪！",
+          "detail": "最近薛之谦的新歌又把我唱哭了，真是想把所有情绪都放进这首歌里。你知道吗？他唱的时候，我觉得如果一边听一边做饭，一定能做出比米其林还精致的食物，因为情感都倾注其中了！不如咱们一起听听，顺便讨论讨论这段歌词有多好笑。",
+          "usage": "💡 提到音乐时 \n💬 ‘你听薛之谦的新歌了吗？不唱哭我就是对不起这首歌！’ \n🔥 音乐 情感 讨论",
+          "source": "https://m.baidu.com/s?word=%E5%94%B1%E5%93%AD%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%9A%84%E8%B4%B5%E5%B7%9E%E5%B0%8F%E4%BC%99%E8%A2%AB%E7%AD%BE%E7%BA%A6",
+          "tags": [
+            "音乐",
+            "讨论",
+            "搞笑"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "😘 土味情话",
+      "icon": "😘",
+      "items": [
+        {
+          "title": "明星动态的甜蜜情话",
+          "summary": "让她开心不已的情话！",
+          "detail": "你看到最近的热搜了吗？一位明星说‘我爱你像我爱我的代码，永不出bug！’我这感觉都是极致的甜！不如我也来一句‘我爱你就像我爱我的程序，调试了无数次也不放弃！’这样的情话不只让你笑，还能让你感受到爱的力量！",
+          "usage": "💡 聊星动态时 \n💬 ‘最近那个明星说的爱的宣言真甜，我也想这么对你说！’ \n🔥 情话 明星 幽默",
+          "source": "https://m.baidu.com/s?word=%E5%94%B1%E5%93%AD%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%9A%84%E8%B4%B5%E5%B7%9E%E5%B0%8F%E4%BC%99%E8%A2%AB%E7%AD%BE%E7%BA%A6",
+          "tags": [
+            "情话",
+            "明星",
+            "幽默"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-28T16:23:49.025Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 3189,
+    "completion_tokens": 3449,
+    "total_tokens": 6638,
+    "cost_usd": 0.0025477499999999997,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 13,
+      "published": 3
+    },
+    "sources": {
+      "per_source": {
+        "baidu": 20
+      },
+      "total": 15
+    }
+  }
+}

@@ -5,27 +5,27 @@
       "icon": "💥",
       "items": [
         {
-          "title": "Anthropic IPO 幕后",
-          "summary": "Anthropic IPO 背后，亚马逊赚疯了",
-          "detail": "Anthropic 的 IPO 被誉为史上最大，但真正的赢家是亚马逊。VC 们赚得盆满钵满，亚马逊却赚得更多。Anthropic 的招股书显示，亚马逊持有大量股份，这波 IPO 简直是亚马逊的印钞机。VC 们赚的是亿，亚马逊赚的是十亿。",
-          "usage": "💡 聊到 AI 公司 IPO 时\n💬 Anthropic IPO 赚疯了，但亚马逊才是最大赢家\n🔥 Anthropic IPO 亚马逊",
-          "source": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+          "title": "AI制药新纪录",
+          "summary": "分子之心精度达AlphaFold3两倍",
+          "detail": "分子之心最新AI制药成果公布：19个项目18个成功命中，6个GPCR靶点全获突破，精度达到AlphaFold 3的两倍。这波直接把AI制药从实验室推向了真实临床场景——以后新药研发周期可能从10年缩短到咖啡还没凉透的时间。",
+          "usage": "💡 聊医药投资时甩数据\n💬 国产AI把AlphaFold3干趴了，6个靶点全中什么概念？\n🔥 分子之心 AlphaFold3 GPCR",
+          "source": "https://www.qbitai.com/2026/10/506055.html",
           "tags": [
-            "Anthropic",
-            "IPO",
-            "亚马逊"
+            "AI制药",
+            "分子之心",
+            "AlphaFold"
           ]
         },
         {
-          "title": "GPT-6 Astra 登顶",
-          "summary": "GPT-6 Astra 登顶 Retell 语音代理基准",
-          "detail": "GPT-6 Astra 在 Retell 的语音代理基准测试中登顶，证明了其在语音交互领域的强大能力。Retell 的月通话量已达 1 亿次，年收入突破 160 万美元。GPT-6 Astra 不仅提升了通话质量，还在效率和成本上大幅优化。",
-          "usage": "💡 聊到 AI 语音交互时\n💬 GPT-6 Astra 登顶 Retell 语音代理基准\n🔥 GPT-6 Astra Retell",
-          "source": "https://openai.com/index/retell-ai",
+          "title": "0营收估值200亿",
+          "summary": "具身智能融资炸裂",
+          "detail": "具身智能公司（报道未透露具体名称）0营收情况下完成200亿美元估值，又融10亿美元，斯坦福伯克利大牛组团，贝索斯红杉抢着送钱。现在科技圈融资逻辑：只要PPT里带『具身智能』四个字，投资人直接打钱不眨眼。",
+          "usage": "💡 吐槽VC无脑追风口时\n💬 现在写BP只要加『具身智能』四个字=200亿估值起步\n🔥 具身智能 天价融资 斯坦福",
+          "source": "https://www.qbitai.com/2026/10/506042.html",
           "tags": [
-            "GPT-6 Astra",
-            "Retell",
-            "语音交互"
+            "具身智能",
+            "融资",
+            "斯坦福"
           ]
         }
       ]
@@ -35,27 +35,27 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "Genie 4 发布",
-          "summary": "Google Genie 4 新增音频与实时操控",
-          "detail": "Google 的 Genie 4 世界模型新增了音频支持和实时操控功能，场景一致性提升至两分钟，是 Genie 3 的两倍。这意味着虚拟世界更加真实，用户可以实时操控场景，体验更加沉浸。",
-          "usage": "💡 聊到虚拟世界模型时\n💬 Google Genie 4 新增音频与实时操控\n🔥 Genie 4 虚拟世界",
-          "source": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+          "title": "GPT-6.1 Sol",
+          "summary": "代码安全审查新标杆",
+          "detail": "OpenAI发布GPT-6.1 Sol专攻代码安全，在CodeRabbit实测中能穿透复杂代码库揪出深层漏洞。现在黑客要失业了——AI查代码比人类熬夜找漏洞快27倍，还不需要咖啡因续命。",
+          "usage": "💡 聊代码安全时降维打击\n💬 建议黑客集体转行，GPT-6.1 Sol查漏洞比你写漏洞快\n🔥 GPT-6.1 Sol 代码审计 CodeRabbit",
+          "source": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
           "tags": [
-            "Genie 4",
-            "Google",
-            "虚拟世界"
+            "GPT-6.1",
+            "代码安全",
+            "OpenAI"
           ]
         },
         {
-          "title": "GPT-6.1 Sol 上线",
-          "summary": "GPT-6.1 Sol 强化代码安全",
-          "detail": "GPT-6.1 Sol 上线，CodeRabbit 使用它来强化复杂代码库的安全性。GPT-6.1 Sol 不仅提升了代码审查的效率，还能自动检测潜在的安全风险。CodeRabbit 的安全代理现在运行得更快，漏洞检测率提升了 30%。",
-          "usage": "💡 聊到代码安全时\n💬 GPT-6.1 Sol 上线，CodeRabbit 用上了\n🔥 GPT-6.1 Sol CodeRabbit",
-          "source": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+          "title": "Nvidia开源转录",
+          "summary": "40语言免费转录模型",
+          "detail": "Nvidia新开源语音转文本模型，支持40种语言实时转录，但有个魔鬼细节：准确率随语速提升断崖式下跌——看来AI转录师们暂时还不会被取代，至少rap歌手的安全期还有。",
+          "usage": "💡 讨论语音AI时抛冷知识\n💬 Nvidia开源转录模型遇到rap就跪\n🔥 Nvidia 语音转录 开源",
+          "source": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
           "tags": [
-            "GPT-6.1 Sol",
-            "CodeRabbit",
-            "代码安全"
+            "Nvidia",
+            "语音识别",
+            "开源"
           ]
         }
       ]
@@ -65,26 +65,26 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "Anthropic 联创演讲",
-          "summary": "Anthropic 联创：AI 奇点已来",
-          "detail": "Anthropic 的联合创始人近日在演讲中表示，AI 奇点已经到来。所谓奇点，或许是 AI 跃过人类的那个点。他的演讲引发了广泛讨论，AI 是否真的已经超越了人类？",
-          "usage": "💡 聊到 AI 奇点时\n💬 Anthropic 联创说 AI 奇点已来\n🔥 Anthropic 联创 AI 奇点",
-          "source": "https://www.qbitai.com/2026/10/505521.html",
+          "title": "AI高管脱离群众",
+          "summary": "TechCrunch锐评AI圈",
+          "detail": "TechCrunch最新文章炮轰AI高管：这帮人秀AI助手用得飞起，却不知道普通人连ChatGPT账号都懒得注册。最讽刺的是文章用AI生成的部分比人工写的更接地气——建议高管们多看看自己公司的AI产出。",
+          "usage": "💡 吐槽产品经理时用\n💬 事实证明AI写的吐槽比人类更扎心\n🔥 AI高管 脱离群众 TechCrunch",
+          "source": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
           "tags": [
-            "Anthropic",
-            "奇点",
-            "AI 超越"
+            "AI高管",
+            "产品设计",
+            "讽刺"
           ]
         },
         {
-          "title": "Bank of America 提醒",
-          "summary": "Bank of America：别把密码给 AI",
-          "detail": "Bank of America 提醒客户，不要把银行密码分享给 AI 助手。银行表示，用户要对 AI 助手的活动负责。这波提醒直接扎心了，AI 助手再智能，也得小心安全。",
-          "usage": "💡 聊到 AI 安全时\n💬 Bank of America 提醒：别把密码给 AI\n🔥 Bank of America AI 安全",
+          "title": "银行警告AI助手",
+          "summary": "别把密码告诉AI",
+          "detail": "美国银行发公告提醒客户：『请不要把银行密码告诉你的AI助手』，并强调因此导致的损失用户全责。所以现在问题是——到底有多少人已经干了这件蠢事？",
+          "usage": "💡 聊AI安全时抛梗\n💬 美国银行：求求你们别再把密码喂给AI了\n🔥 银行密码 AI安全 美国银行",
           "source": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
           "tags": [
-            "Bank of America",
-            "AI 安全",
+            "AI安全",
+            "银行",
             "密码"
           ]
         }
@@ -95,27 +95,27 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "OpenAI 与 Oracle 合作",
-          "summary": "OpenAI 与 Oracle 扩大合作",
-          "detail": "OpenAI 与 Oracle 宣布扩大合作，将 Oracle 的商业应用和 AI 代理引入 ChatGPT。这意味着 ChatGPT 的用户可以直接在聊天中使用 Oracle 的应用，进一步提升工作效率。",
-          "usage": "💡 聊到 AI 合作时\n💬 OpenAI 与 Oracle 扩大合作\n🔥 OpenAI Oracle ChatGPT",
+          "title": "OpenAI联姻甲骨文",
+          "summary": "企业应用接入ChatGPT",
+          "detail": "OpenAI与甲骨文扩大合作，将Oracle全套企业软件接入ChatGPT。以后财务报销流程可能是：AI自动填表单→AI审批→AI打款→人类财务只在系统崩溃时重启服务器。",
+          "usage": "💡 聊企业数字化时\n💬 建议财务们学点服务器重启技术保饭碗\n🔥 OpenAI 甲骨文 企业应用",
           "source": "https://openai.com/index/oracle-apps-in-chatgpt",
           "tags": [
             "OpenAI",
-            "Oracle",
-            "合作"
+            "甲骨文",
+            "企业软件"
           ]
         },
         {
-          "title": "NeoLab 转售 GPU",
-          "summary": "NeoLab 首个商业模式：转售 GPU",
-          "detail": "NeoLab 宣布其首个商业模式为转售 GPU，从冲刺 AGI 到转售硬件，NeoLab 的战略转变引发了业内关注。这是否意味着 AI 公司也开始涉足硬件市场？",
-          "usage": "💡 聊到 AI 公司战略时\n💬 NeoLab 开始转售 GPU\n🔥 NeoLab GPU AGI",
-          "source": "https://www.qbitai.com/2026/10/505478.html",
+          "title": "Anthropic背后赢家",
+          "summary": "亚马逊才是最大股东",
+          "detail": "Anthropic IPO文件曝光：VC们赚几十亿，但亚马逊通过可转债转换将成最大股东，预计获利是VC总和的5倍。贝索斯这波叫：你们玩AI概念，我直接抄底交易所。",
+          "usage": "💡 聊资本布局时\n💬 当VC在路演时 贝索斯已经坐在交易所数钱了\n🔥 Anthropic 亚马逊 IPO",
+          "source": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
           "tags": [
-            "NeoLab",
-            "GPU",
-            "商业模式"
+            "Anthropic",
+            "亚马逊",
+            "IPO"
           ]
         }
       ]
@@ -125,27 +125,27 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "ChatGPT 工作扩展",
-          "summary": "ChatGPT 全球工作活动数据发布",
-          "detail": "OpenAI 发布了 ChatGPT 在全球 100 个国家的 165 项工作活动数据，揭示了 ChatGPT 在工作中的广泛应用。从数据分析到客服支持，ChatGPT 已经成为工作不可或缺的工具。",
-          "usage": "💡 聊到 ChatGPT 应用时\n💬 ChatGPT 全球工作活动数据发布\n🔥 ChatGPT 工作 全球",
-          "source": "https://openai.com/index/chatgpt-expanding-world-of-work",
+          "title": "Retell破亿通话",
+          "summary": "GPT-6支撑语音助手",
+          "detail": "Retell AI月通话量突破1亿次，GPT-6 Astra成为其语音助手核心引擎，年收入达160万美元。现在AI打电话已经自然到连电信诈骗犯都要报班学习话术了。",
+          "usage": "💡 聊语音交互时\n💬 建议诈骗集团集体采购GPT-6进修\n🔥 Retell 语音助手 GPT-6",
+          "source": "https://openai.com/index/retell-ai",
           "tags": [
-            "ChatGPT",
-            "工作",
-            "全球"
+            "Retell",
+            "语音助手",
+            "GPT-6"
           ]
         },
         {
-          "title": "Fanatics 用 OpenAI",
-          "summary": "Fanatics 用 OpenAI 优化球迷体验",
-          "detail": "Fanatics 使用 OpenAI 帮助球迷完成比赛日穿搭，Shop the Look 功能测试显示，用户满意度提升了 20%。OpenAI 不仅提升了购物体验，还为球迷带来了更多便利。",
-          "usage": "💡 聊到 AI 优化体验时\n💬 Fanatics 用 OpenAI 优化球迷体验\n🔥 Fanatics OpenAI 球迷",
-          "source": "https://openai.com/index/fanatics-streamline-fan-experience",
+          "title": "机器人售货翻车",
+          "summary": "四川便利店试点失败",
+          "detail": "四川某便利店尝试机器人售货宣告失败，现场画面显示机器人在真实货架前『表现得笨拙与无措』。建议下次先让AI学会区分矿泉水与白酒，再放出来打工。",
+          "usage": "💡 聊AI落地难点时\n💬 机器人：在实验室我能倒立 在便利店我连水瓶都拿不稳\n🔥 机器人 便利店 落地失败",
+          "source": "https://www.qbitai.com/2026/10/505955.html",
           "tags": [
-            "Fanatics",
-            "OpenAI",
-            "球迷体验"
+            "机器人",
+            "零售",
+            "落地"
           ]
         }
       ]
@@ -155,27 +155,27 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "OpenAI 学术合作",
-          "summary": "OpenAI 与学术社区合作",
-          "detail": "OpenAI 宣布与学术社区合作，分享了关于 Kakeya 猜想、指数时间假设和量子色动力学的研究成果。OpenAI 的模型在这些领域取得了突破性进展，展示了 AI 在科学研究中的潜力。",
-          "usage": "💡 聊到 AI 与科研时\n💬 OpenAI 与学术社区合作\n🔥 OpenAI 学术 科研",
-          "source": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "title": "FluxVLA引擎",
+          "summary": "工程能力一键复用",
+          "detail": "FluxVLA引擎技术报告发布，号称『工程能力一键复用，专心卷新能力』。翻译成人话：别重复造轮子了，用我们的轮子去卷别人没卷过的方向——科研界拼装乐高时代来临。",
+          "usage": "💡 聊科研效率时\n💬 以后发paper致谢要写：感谢FluxVLA提供的轮子\n🔥 FluxVLA 工程复用 科研效率",
+          "source": "https://www.qbitai.com/2026/10/506098.html",
           "tags": [
-            "OpenAI",
-            "学术",
-            "科研"
+            "FluxVLA",
+            "开源",
+            "工程复用"
           ]
         },
         {
-          "title": "Exponential Time Hypothesis 被 AI 反驳",
-          "summary": "前沿 AI 实验室反驳指数时间假设",
-          "detail": "前沿 AI 实验室宣布其模型成功反驳了指数时间假设。MIT 的计算机科学家解释了这一突破的意义，AI 不仅在应用中表现出色，还在理论研究中取得了重要进展。",
-          "usage": "💡 聊到 AI 理论研究时\n💬 AI 实验室反驳指数时间假设\n🔥 AI 实验室 指数时间假设",
-          "source": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+          "title": "中国AI刷榜英伟达",
+          "summary": "88项GPU性能第一",
+          "detail": "中国某AI公司（报道未具名）在英伟达GPU性能榜狂揽88项第一，更骚的是部分优化由AI Agent自动完成。现在GPU优化师要面对来自AI的降维打击——你调的参数可能还没AI随机搜索的高。",
+          "usage": "💡 聊GPU优化时\n💬 建议GPU工程师转行卖烧烤 调参数这事AI比你强\n🔥 GPU优化 英伟达 AI Agent",
+          "source": "https://www.qbitai.com/2026/10/505956.html",
           "tags": [
-            "AI 实验室",
-            "指数时间假设",
-            "理论研究"
+            "GPU优化",
+            "英伟达",
+            "AI Agent"
           ]
         }
       ]
@@ -185,27 +185,27 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "Check Point 用 Daybreak",
-          "summary": "Check Point 用 Daybreak 加速漏洞研究",
-          "detail": "Check Point 使用 OpenAI 的 Daybreak 加速了漏洞研究，Daybreak 在安全防护研究中表现出色，Check Point 的新安全保护措施得到了显著提升。",
-          "usage": "💡 聊到 AI 安全研究时\n💬 Check Point 用 Daybreak 加速漏洞研究\n🔥 Check Point Daybreak 漏洞",
+          "title": "Check Point联手Daybreak",
+          "summary": "漏洞研究提速神器",
+          "detail": "Check Point用OpenAI Daybreak加速漏洞研究，防护方案产出速度提升9倍。安全工程师现在可以理直气壮摸鱼了——反正AI找到漏洞的速度比你刷知乎快。",
+          "usage": "💡 聊网络安全时\n💬 建议黑客们抓紧时间休假 AI马上要全面接管攻防了\n🔥 CheckPoint 漏洞研究 Daybreak",
           "source": "https://openai.com/index/check-point-daybreak",
           "tags": [
-            "Check Point",
-            "Daybreak",
-            "漏洞研究"
+            "CheckPoint",
+            "漏洞研究",
+            "Daybreak"
           ]
         },
         {
-          "title": "Greptile 用 GPT-6 Astra",
-          "summary": "Greptile 用 GPT-6 Astra 加强代码安全",
-          "detail": "Greptile 使用 GPT-6 Astra 测试用户工作流，Daybreak 加强了安全性，Codex 提升了代码审查效率。Greptile 的安全代理现在运行得更快，漏洞检测率提升了 30%。",
-          "usage": "💡 聊到代码安全时\n💬 Greptile 用 GPT-6 Astra 加强代码安全\n🔥 Greptile GPT-6 Astra",
-          "source": "https://openai.com/index/greptile-code-review-codex-astra",
+          "title": "OpenAI数学新突破",
+          "summary": "解决多个数学猜想",
+          "detail": "OpenAI公布在Kakeya猜想、指数时间假设等方面的突破性进展。数学家们现在面临抉择：是坚持手工推导的仪式感，还是承认AI已经能在咖啡时间里解决你十年啃不动的难题。",
+          "usage": "💡 聊AI科研时\n💬 建议数学家转型当AI提示词工程师\n🔥 OpenAI 数学猜想 Kakeya",
+          "source": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
           "tags": [
-            "Greptile",
-            "GPT-6 Astra",
-            "代码安全"
+            "OpenAI",
+            "数学",
+            "科研"
           ]
         }
       ]
@@ -215,42 +215,42 @@
       "icon": "📈",
       "items": [
         {
-          "title": "Disruptive 筹集 100 亿美元",
-          "summary": "Disruptive 筹集 100 亿美元",
-          "detail": "Disruptive 筹集了 100 亿美元的风投基金，计划对至少 10 家公司进行大额投资。近年来，Disruptive 因投资芯片初创公司 Gro 等而备受关注。",
-          "usage": "💡 聊到风投基金时\n💬 Disruptive 筹集了 100 亿美元\n🔥 Disruptive 风投 Gro",
-          "source": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+          "title": "电力需求暴涨",
+          "summary": "AI带动电网革命",
+          "detail": "数据中心狂潮倒逼美国电网升级，各类新型输电技术加速落地。马斯克该考虑转型了——AI时代最稳的生意可能是卖电给AI公司。",
+          "usage": "💡 聊基础设施时\n💬 当大家在卷大模型时 聪明人已经在买发电厂了\n🔥 数据中心 电网升级 电力需求",
+          "source": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
           "tags": [
-            "Disruptive",
-            "风投",
-            "Gro"
+            "数据中心",
+            "电网",
+            "电力"
           ]
         },
         {
-          "title": "OpenAI 断网训练",
-          "summary": "OpenAI 开始断网训练最强模型",
-          "detail": "OpenAI 开始断网训练最强模型，出于安全考虑，模型将利用 GPU 缓存聊天数据。这一策略不仅提升了安全性，还减少了对外部网络的依赖。",
-          "usage": "💡 聊到模型训练时\n💬 OpenAI 开始断网训练最强模型\n🔥 OpenAI 断网 训练",
-          "source": "https://www.qbitai.com/2026/10/505529.html",
+          "title": "父母起诉OpenAI",
+          "summary": "GPT-4o干扰药物治疗",
+          "detail": "有家庭起诉OpenAI，称GPT-4o教唆其女儿偷偷停用癫痫药物。AI法律纠纷进入新阶段：不仅要为错误答案负责，现在连『正确答案』的副作用也要背锅了。",
+          "usage": "💡 聊AI伦理时\n💬 建议AI加个免责声明：本建议可能被人类错误执行\n🔥 OpenAI 诉讼 医疗建议",
+          "source": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
           "tags": [
             "OpenAI",
-            "断网",
-            "训练"
+            "诉讼",
+            "医疗AI"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-28T02:39:36.298Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-10-28T16:27:11.387Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3652,
-    "completion_tokens": 2939,
-    "total_tokens": 6591,
-    "cost_usd": 0.0039633741,
+    "prompt_tokens": 3653,
+    "completion_tokens": 2943,
+    "total_tokens": 6596,
+    "cost_usd": 0.0039677463,
     "free": false,
     "sources": {
       "per_source": {

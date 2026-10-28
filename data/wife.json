@@ -1,49 +1,69 @@
 {
   "categories": [
     {
+      "name": "🎬 追剧指南",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "《玉簟秋》槽点大剧",
+          "summary": "讨论内涵与争议，笑声不断！",
+          "detail": "最近这部《玉簟秋》争议满满，女主角演技炸裂，然而男主的台词总让人忍不住想笑，比如‘我爱你像数据一样精确。’这种情话讲出来，简直就是给观众一个bug！如果你在追剧，咱们可以一起吐槽，来个‘最严厉的剧评’！",
+          "usage": "💡 追剧时提起 \n💬 ‘嘿，你觉得《玉簟秋》的男主到底能不能修复这台词的bug？’ \n🔥 剧情 演员 槽点",
+          "source": "https://m.baidu.com/s?word=%E3%80%8A%E7%8E%89%E7%B0%9F%E7%A7%8B%E3%80%8B%E5%B0%BA%E5%BA%A6",
+          "tags": [
+            "追剧",
+            "槽点",
+            "搞笑"
+          ]
+        },
+        {
+          "title": "薛之谦新歌必听",
+          "summary": "追剧也要追歌，笑中带泪！",
+          "detail": "最近薛之谦的新歌又把我唱哭了，真是想把所有情绪都放进这首歌里。你知道吗？他唱的时候，我觉得如果一边听一边做饭，一定能做出比米其林还精致的食物，因为情感都倾注其中了！不如咱们一起听听，顺便讨论讨论这段歌词有多好笑。",
+          "usage": "💡 提到音乐时 \n💬 ‘你听薛之谦的新歌了吗？不唱哭我就是对不起这首歌！’ \n🔥 音乐 情感 讨论",
+          "source": "https://m.baidu.com/s?word=%E5%94%B1%E5%93%AD%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%9A%84%E8%B4%B5%E5%B7%9E%E5%B0%8F%E4%BC%99%E8%A2%AB%E7%AD%BE%E7%BA%A6",
+          "tags": [
+            "音乐",
+            "讨论",
+            "搞笑"
+          ]
+        }
+      ]
+    },
+    {
       "name": "😘 土味情话",
       "icon": "😘",
       "items": [
         {
-          "title": "习近平祝贺卢拉",
-          "summary": "时事与情话结合！",
-          "detail": "你知道吗？习近平祝贺卢拉连任总统，我也想祝贺你连任我的女神！只要你在，我就是世界上最幸福的程序员！",
-          "usage": "💡 在日常对话中自然提及。\n💬 \"习近平祝贺卢拉连任？那我也来祝贺你永远是我的女神！\"\n🔥 政治 情话",
-          "source": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E7%94%B5%E7%A5%9D%E8%B4%BA%E5%8D%A2%E6%8B%89%E5%BD%93%E9%80%89%E8%BF%9E%E4%BB%BB%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F&sa=fyb_news",
+          "title": "明星动态的甜蜜情话",
+          "summary": "让她开心不已的情话！",
+          "detail": "你看到最近的热搜了吗？一位明星说‘我爱你像我爱我的代码，永不出bug！’我这感觉都是极致的甜！不如我也来一句‘我爱你就像我爱我的程序，调试了无数次也不放弃！’这样的情话不只让你笑，还能让你感受到爱的力量！",
+          "usage": "💡 聊星动态时 \n💬 ‘最近那个明星说的爱的宣言真甜，我也想这么对你说！’ \n🔥 情话 明星 幽默",
+          "source": "https://m.baidu.com/s?word=%E5%94%B1%E5%93%AD%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%9A%84%E8%B4%B5%E5%B7%9E%E5%B0%8F%E4%BC%99%E8%A2%AB%E7%AD%BE%E7%BA%A6",
           "tags": [
             "情话",
-            "热点"
-          ]
-        },
-        {
-          "title": "姆巴佩的烦恼",
-          "summary": "转化成甜言蜜语！",
-          "detail": "最近姆巴佩被解约的新闻让人心痛，不如我也借这个机会告诉你，你在我的心中永远不会被解约。你就是我心中的最佳球员，永远占据我心中的那块地！",
-          "usage": "💡 提起时事的时候使用。\n💬 \"姆巴佩被解约了，我却不会解约你，因为你是我心中永远的最佳！\"\n🔥 体育 情话",
-          "source": "https://m.baidu.com/s?word=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%81%AD%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8%E8%A7%A3%E7%BA%A6%E2%80%9D&sa=fyb_news",
-          "tags": [
-            "情话",
-            "体育"
+            "明星",
+            "幽默"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-27T15:39:24.817Z",
+  "generated_at": "2026-10-28T16:23:49.025Z",
   "slot": "weekday-evening",
   "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "openai/gpt-4o-mini",
     "actual_model": "openai/gpt-4o-mini",
-    "prompt_tokens": 3280,
-    "completion_tokens": 3270,
-    "total_tokens": 6550,
-    "cost_usd": 0.0024539999999999996,
+    "prompt_tokens": 3189,
+    "completion_tokens": 3449,
+    "total_tokens": 6638,
+    "cost_usd": 0.0025477499999999997,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 14,
-      "published": 2
+      "dropped_orphans": 13,
+      "published": 3
     },
     "sources": {
       "per_source": {
