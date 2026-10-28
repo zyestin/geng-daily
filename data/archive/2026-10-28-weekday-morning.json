@@ -1,0 +1,199 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "ThinkRail 新 IDE",
+          "summary": "JetBrains 推出轻量级定制化 IDE",
+          "detail": "JetBrains 新发布的 ThinkRail 是一个轻量级、高度可定制的 IDE，旨在根据开发者工作方式自动调整。特点是 'Vibe Coding' 体验，号称能提升编码氛围感。",
+          "usage": "你觉得这种 '氛围感编码' 概念是噱头还是真有用？之前 JetBrains 家的 IDE 都太重了，这次轻量化不知道实际体验如何？",
+          "source": "https://github.com/JetBrains/thinkrail",
+          "tags": [
+            "IDE",
+            "JetBrains",
+            "开发工具"
+          ]
+        },
+        {
+          "title": "Ghostty 1.4 发布",
+          "summary": "终端工具重大更新",
+          "detail": "Ghostty 1.4 带来了多项终端增强功能，包括更好的分屏管理、主题系统重构，支持实时协作编辑。评论区热议其是否能取代 iTerm2。",
+          "usage": "你们用终端工具最看重什么功能？Ghostty 说自己是 '终端的未来'，但我觉得分屏管理再强也比不上 tmux 吧？",
+          "source": "https://ghostty.org/docs/install/release-notes/1-4-0",
+          "tags": [
+            "终端",
+            "开发工具",
+            "Shell"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "Fabric 性能实测",
+          "summary": "新架构性能提升明显",
+          "detail": "React Native 新架构 Fabric 在多款中低端设备实测显示，列表滚动性能提升 40%，内存占用减少 25%。但社区反馈升级成本较高。",
+          "usage": "你们项目升级 Fabric 了吗？我们还在观望，听说要改的 Native 代码不少，但看这性能数据又很馋...",
+          "source": "",
+          "tags": [
+            "性能优化",
+            "RN架构",
+            "跨平台"
+          ]
+        },
+        {
+          "title": "RN 热更新新方案",
+          "summary": "CodePush 替代方案涌现",
+          "detail": "随着微软逐步弃用 CodePush，开源社区出现多个替代方案，如 React Native 官方推荐的 Reploy，支持差分更新和回滚保障。",
+          "usage": "热更新你们现在用的什么方案？听说 CodePush 要凉了，新出的这些方案测试过没？",
+          "source": "",
+          "tags": [
+            "热更新",
+            "部署",
+            "RN生态"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "Anti-AI 设计技能",
+          "summary": "对抗AI生成代码的辅助工具",
+          "detail": "Hallmark 项目提供了一套对抗 AI 生成代码 '套路化' 的设计技能，通过训练 Claude、Cursor 等模型产生更有个性的代码设计。",
+          "usage": "现在 AI 生成的代码都太模板化了，这个工具说能训练出 '有设计感' 的代码，你信吗？我试了下好像就是加强了注释和变量命名...",
+          "source": "https://github.com/Nutlope/hallmark",
+          "tags": [
+            "AI编程",
+            "代码质量",
+            "设计模式"
+          ]
+        },
+        {
+          "title": "Anthropic 巨额亏损",
+          "summary": "史上最亏AI公司IPO",
+          "detail": "Anthropic 公开招股书显示年亏损达58亿美元，创AI公司记录。但创始人仍掌握50.1%投票权，被戏称'最富兄妹的烧钱游戏'。",
+          "usage": "看新闻没？Anthropic一年亏掉半个拼多多！但人家兄妹俩根本不在乎，反正钱多烧着玩...这种商业模式真的可持续吗？",
+          "source": "https://www.qbitai.com/2026/10/505551.html",
+          "tags": [
+            "AI商业",
+            "创业",
+            "大模型"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "Python JIT 被弃",
+          "summary": "实验性JIT编译器移除",
+          "detail": "Python 核心团队决定移除实验性的 JIT 编译器，认为其带来的性能提升有限且维护成本过高。社区争议是否该坚持纯解释执行路线。",
+          "usage": "Python 又把JIT移除了，说维护成本太高。TypeScript现在都有JIT了，Python这是要一条路走到黑啊？",
+          "source": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+          "tags": [
+            "Python",
+            "JIT",
+            "性能"
+          ]
+        },
+        {
+          "title": "Bun 1.3 性能飞跃",
+          "summary": "JavaScript 运行时新版本",
+          "detail": "Bun 1.3 发布，基准测试显示其HTTP服务器性能比Node.js快3倍，内存占用仅为Deno的60%，成为新的性能标杆。",
+          "usage": "你们生产环境敢用Bun吗？跑分是真猛，但生态还是差Node不少。我试了下连prisma都用不了...",
+          "source": "",
+          "tags": [
+            "JavaScript",
+            "运行时",
+            "性能"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "DeepTutor 爆火",
+          "summary": "个性化AI导师系统",
+          "detail": "HKU开源的DeepTutor提供终身个性化编程辅导，能根据学习者特点动态调整教学策略，GitHub 一周暴涨 1500+ star。",
+          "usage": "这个AI导师项目挺有意思，号称能'读懂你的编程习惯'。我试了下教React，它居然能发现我老忘记写useEffect依赖项...",
+          "source": "https://github.com/HKUDS/DeepTutor",
+          "tags": [
+            "AI教育",
+            "个性化",
+            "学习"
+          ]
+        },
+        {
+          "title": "Cindy AI Agent",
+          "summary": "开箱即用AI助手",
+          "detail": "Cindy 是一个开源AI Agent框架，承诺'想到就能做到'，内置工作流引擎和插件系统，特别适合自动化重复开发任务。",
+          "usage": "现在AI Agent满天飞，这个Cindy说能直接处理'帮我优化这个React组件'这种模糊需求，吹得有点神了...",
+          "source": "https://github.com/makecindy/cindy",
+          "tags": [
+            "AI Agent",
+            "自动化",
+            "开源"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "Stack Overflow 新梗",
+          "summary": "'先重启再问'成新梗",
+          "detail": "Stack Overflow 最新数据统计显示，超过30%的问题最终解决方案是'重启试试'，网友制作'RTFB (Restart The F**king Browser)'表情包疯传。",
+          "usage": "现在帮新人debug我都直接说'先重启再问我'，省时省力。上次一个样式问题真是重启chrome就好了...",
+          "source": "",
+          "tags": [
+            "Debug",
+            "程序员幽默",
+            "StackOverflow"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-28T02:33:38.107Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2092,
+    "completion_tokens": 1847,
+    "total_tokens": 3939,
+    "cost_usd": 0.0024384897,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 9,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}

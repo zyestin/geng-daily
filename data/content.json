@@ -1,196 +1,199 @@
 {
   "categories": [
     {
-      "name": "时事热点",
-      "icon": "📰",
+      "name": "前端框架",
+      "icon": "🚀",
       "items": [
         {
-          "title": "iPhone 18 爆料",
-          "summary": "苹果新机渲染图提前曝光",
-          "detail": "知名爆料人Jon Prosser放出iPhone 18 Pro Max概念图，采用无接口全无线设计，摄像头模组升级为六眼蜘蛛造型，支持脑电波解锁，预计2027年9月发布。",
-          "usage": "你们看到了吗？iPhone 18设计图都出来了，连充电口都取消了，以后充电得用眼神交流了。不过这个六摄像头设计，感觉像是在手机背面装了个蜘蛛...",
-          "source": "",
+          "title": "ThinkRail 新 IDE",
+          "summary": "JetBrains 推出轻量级定制化 IDE",
+          "detail": "JetBrains 新发布的 ThinkRail 是一个轻量级、高度可定制的 IDE，旨在根据开发者工作方式自动调整。特点是 'Vibe Coding' 体验，号称能提升编码氛围感。",
+          "usage": "你觉得这种 '氛围感编码' 概念是噱头还是真有用？之前 JetBrains 家的 IDE 都太重了，这次轻量化不知道实际体验如何？",
+          "source": "https://github.com/JetBrains/thinkrail",
           "tags": [
-            "科技",
-            "苹果",
-            "手机"
+            "IDE",
+            "JetBrains",
+            "开发工具"
           ]
         },
         {
-          "title": "火星移民抽签",
-          "summary": "NASA开放首批火星定居申请",
-          "detail": "NASA宣布启动'火星2029'计划，即日起接受全球志愿者报名，通过抽签选出100名幸运儿参与人类首次火星定居计划，单程票不包回程。",
-          "usage": "听说了吗？NASA在搞火星移民抽奖，中奖了就能去火星定居，不过去了就回不来了。要是抽中了你去不去？我觉得丈母娘肯定想去，毕竟她说地球上都没人陪她打乒乓球了...",
-          "source": "",
+          "title": "Ghostty 1.4 发布",
+          "summary": "终端工具重大更新",
+          "detail": "Ghostty 1.4 带来了多项终端增强功能，包括更好的分屏管理、主题系统重构，支持实时协作编辑。评论区热议其是否能取代 iTerm2。",
+          "usage": "你们用终端工具最看重什么功能？Ghostty 说自己是 '终端的未来'，但我觉得分屏管理再强也比不上 tmux 吧？",
+          "source": "https://ghostty.org/docs/install/release-notes/1-4-0",
           "tags": [
-            "太空",
-            "NASA",
-            "移民"
+            "终端",
+            "开发工具",
+            "Shell"
           ]
         }
       ]
     },
     {
-      "name": "亲子时光",
-      "icon": "👨‍👧",
+      "name": "React Native",
+      "icon": "📱",
       "items": [
         {
-          "title": "磁力片新玩法",
-          "summary": "用磁力片搭建可动摩天轮",
-          "detail": "国外家长分享的磁力片创意玩法，通过特殊拼接方式可以制作出能旋转的摩天轮模型，既锻炼孩子空间想象力又培养动手能力。",
-          "usage": "宝贝，今天爸爸学了个新玩法，咱们用磁力片搭个会转的摩天轮好不好？你看这个结构特别神奇，转起来的时候像真的一样！",
+          "title": "Fabric 性能实测",
+          "summary": "新架构性能提升明显",
+          "detail": "React Native 新架构 Fabric 在多款中低端设备实测显示，列表滚动性能提升 40%，内存占用减少 25%。但社区反馈升级成本较高。",
+          "usage": "你们项目升级 Fabric 了吗？我们还在观望，听说要改的 Native 代码不少，但看这性能数据又很馋...",
           "source": "",
           "tags": [
-            "玩具",
-            "手工",
-            "创意"
+            "性能优化",
+            "RN架构",
+            "跨平台"
           ]
         },
         {
-          "title": "科学小实验",
-          "summary": "厨房里的火山爆发",
-          "detail": "用小苏打、醋和洗洁精就能在家模拟火山喷发场景，安全有趣的化学小实验，适合7岁儿童理解基础化学反应。",
-          "usage": "来，爸爸教你做个超酷的实验！把这三样东西混在一起，看——轰！我们家的'火山'喷发啦！记得离远点，小心被'岩浆'溅到哦～",
+          "title": "RN 热更新新方案",
+          "summary": "CodePush 替代方案涌现",
+          "detail": "随着微软逐步弃用 CodePush，开源社区出现多个替代方案，如 React Native 官方推荐的 Reploy，支持差分更新和回滚保障。",
+          "usage": "热更新你们现在用的什么方案？听说 CodePush 要凉了，新出的这些方案测试过没？",
           "source": "",
           "tags": [
-            "科学",
-            "实验",
-            "趣味"
+            "热更新",
+            "部署",
+            "RN生态"
           ]
         }
       ]
     },
     {
-      "name": "热门影视",
-      "icon": "🎬",
+      "name": "AI编程",
+      "icon": "🤖",
       "items": [
         {
-          "title": "哆啦A梦新剧场版",
-          "summary": "大雄的星际奥运会",
-          "detail": "最新哆啦A梦剧场版讲述大雄参加在外星举办的星际奥运会，与外星小朋友展开趣味竞赛的故事，延续经典又充满新意。",
-          "usage": "这周末带宝贝去看新出的哆啦A梦电影吧，听说这次大雄要去外星参加运动会，肯定特别搞笑。你不是最喜欢哆啦A梦的任意门吗？这次还有太空版呢！",
-          "source": "",
+          "title": "Anti-AI 设计技能",
+          "summary": "对抗AI生成代码的辅助工具",
+          "detail": "Hallmark 项目提供了一套对抗 AI 生成代码 '套路化' 的设计技能，通过训练 Claude、Cursor 等模型产生更有个性的代码设计。",
+          "usage": "现在 AI 生成的代码都太模板化了，这个工具说能训练出 '有设计感' 的代码，你信吗？我试了下好像就是加强了注释和变量命名...",
+          "source": "https://github.com/Nutlope/hallmark",
           "tags": [
-            "动画",
-            "电影",
-            "亲子"
+            "AI编程",
+            "代码质量",
+            "设计模式"
           ]
         },
         {
-          "title": "家有乒乓",
-          "summary": "国手家庭的育儿日常",
-          "detail": "纪录片跟拍马龙、许昕等乒乓球国手的家庭生活，展现世界冠军们如何平衡训练比赛与教养子女。",
-          "usage": "妈，你看新出的《家有乒乓》了吗？马龙教孩子打球的片段特别逗，世界冠军教自己孩子也愁得直挠头，跟你教我打球时的表情一模一样！",
-          "source": "",
+          "title": "Anthropic 巨额亏损",
+          "summary": "史上最亏AI公司IPO",
+          "detail": "Anthropic 公开招股书显示年亏损达58亿美元，创AI公司记录。但创始人仍掌握50.1%投票权，被戏称'最富兄妹的烧钱游戏'。",
+          "usage": "看新闻没？Anthropic一年亏掉半个拼多多！但人家兄妹俩根本不在乎，反正钱多烧着玩...这种商业模式真的可持续吗？",
+          "source": "https://www.qbitai.com/2026/10/505551.html",
           "tags": [
-            "纪录片",
-            "乒乓球",
-            "育儿"
+            "AI商业",
+            "创业",
+            "大模型"
           ]
         }
       ]
     },
     {
-      "name": "生活妙招",
-      "icon": "💡",
+      "name": "TS & JS",
+      "icon": "📘",
       "items": [
         {
-          "title": "冰箱除味新招",
-          "summary": "咖啡渣秒变除味剂",
-          "detail": "喝完的咖啡渣晾干后装进纱布袋放入冰箱，不仅能吸附异味，还会散发淡淡咖啡香，环保又经济。",
-          "source": "",
-          "usage": "老婆，我发现个好东西！以后咱们喝剩的咖啡渣别扔，晾干了放冰箱里，比买的除味剂还好用，关键是一点都不浪费。",
+          "title": "Python JIT 被弃",
+          "summary": "实验性JIT编译器移除",
+          "detail": "Python 核心团队决定移除实验性的 JIT 编译器，认为其带来的性能提升有限且维护成本过高。社区争议是否该坚持纯解释执行路线。",
+          "usage": "Python 又把JIT移除了，说维护成本太高。TypeScript现在都有JIT了，Python这是要一条路走到黑啊？",
+          "source": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
           "tags": [
-            "环保",
-            "厨房",
-            "省钱"
+            "Python",
+            "JIT",
+            "性能"
           ]
         },
         {
-          "title": "充电头收纳术",
-          "summary": "利用鞋盒做充电站",
-          "detail": "将旧鞋盒改造成多格充电站，每个格子贴标签区分手机、平板等设备，桌面瞬间整洁有序。",
-          "usage": "看我今天改造的这个充电站，用旧鞋盒做的，每个充电头都有自己的'房间'，再也不用担心线缠在一起了。要不要给你手机也分配个'VIP包厢'？",
+          "title": "Bun 1.3 性能飞跃",
+          "summary": "JavaScript 运行时新版本",
+          "detail": "Bun 1.3 发布，基准测试显示其HTTP服务器性能比Node.js快3倍，内存占用仅为Deno的60%，成为新的性能标杆。",
+          "usage": "你们生产环境敢用Bun吗？跑分是真猛，但生态还是差Node不少。我试了下连prisma都用不了...",
           "source": "",
           "tags": [
-            "整理",
-            "DIY",
-            "创意"
+            "JavaScript",
+            "运行时",
+            "性能"
           ]
         }
       ]
     },
     {
-      "name": "乒乓球",
-      "icon": "🏓",
+      "name": "开源热门",
+      "icon": "🌟",
       "items": [
         {
-          "title": "马龙复出首秀",
-          "summary": "38岁老将再夺公开赛冠军",
-          "detail": "退役两年的马龙复出参加WTT捷克公开赛，以全胜战绩夺冠，展现宝刀不老的实力。",
-          "usage": "妈，马龙又夺冠了！38岁了还能这么猛，这状态保持得也太好了。您平时打球是不是也偷偷学了他的绝招？",
-          "source": "",
+          "title": "DeepTutor 爆火",
+          "summary": "个性化AI导师系统",
+          "detail": "HKU开源的DeepTutor提供终身个性化编程辅导，能根据学习者特点动态调整教学策略，GitHub 一周暴涨 1500+ star。",
+          "usage": "这个AI导师项目挺有意思，号称能'读懂你的编程习惯'。我试了下教React，它居然能发现我老忘记写useEffect依赖项...",
+          "source": "https://github.com/HKUDS/DeepTutor",
           "tags": [
-            "赛事",
-            "马龙",
-            "复出"
+            "AI教育",
+            "个性化",
+            "学习"
           ]
         },
         {
-          "title": "AI乒乓球教练",
-          "summary": "智能发球机可模仿对手",
-          "detail": "新款智能发球机可录入不同选手的技术特征，模仿马龙、张继科等知名选手的发球旋转和节奏。",
-          "usage": "现在这科技真厉害，买台发球机都能模拟马龙的发球了。妈，要不要给您弄一台？让'AI马龙'天天陪您练球，比真人教练还耐心呢！",
-          "source": "",
+          "title": "Cindy AI Agent",
+          "summary": "开箱即用AI助手",
+          "detail": "Cindy 是一个开源AI Agent框架，承诺'想到就能做到'，内置工作流引擎和插件系统，特别适合自动化重复开发任务。",
+          "usage": "现在AI Agent满天飞，这个Cindy说能直接处理'帮我优化这个React组件'这种模糊需求，吹得有点神了...",
+          "source": "https://github.com/makecindy/cindy",
           "tags": [
-            "装备",
-            "科技",
-            "训练"
+            "AI Agent",
+            "自动化",
+            "开源"
           ]
         }
       ]
     },
     {
-      "name": "健康养生",
-      "icon": "🥗",
+      "name": "开发者梗",
+      "icon": "😄",
       "items": [
         {
-          "title": "番茄时钟法",
-          "summary": "25分钟工作5分钟休息",
-          "detail": "研究表明25分钟专注工作后短暂休息5分钟的工作节奏，能显著提高效率并减少眼睛和颈椎疲劳。",
-          "usage": "最近我试了个番茄工作法，写代码25分钟就起来活动5分钟，效率反而高了，脖子也没以前那么酸了。你要不要也试试？",
+          "title": "Stack Overflow 新梗",
+          "summary": "'先重启再问'成新梗",
+          "detail": "Stack Overflow 最新数据统计显示，超过30%的问题最终解决方案是'重启试试'，网友制作'RTFB (Restart The F**king Browser)'表情包疯传。",
+          "usage": "现在帮新人debug我都直接说'先重启再问我'，省时省力。上次一个样式问题真是重启chrome就好了...",
           "source": "",
           "tags": [
-            "效率",
-            "办公",
-            "健康"
-          ]
-        },
-        {
-          "title": "护眼零食",
-          "summary": "蓝莓胡萝卜小食盒",
-          "detail": "营养师推荐将蓝莓和小胡萝卜切块混合作为办公零食，富含花青素和维生素A，缓解长时间用眼疲劳。",
-          "usage": "老婆，我给你准备了护眼小零食，蓝莓配胡萝卜，专治程序员眼疲劳。我试过了，比枸杞泡水好吃多了，就是吃完别对着电脑照镜子——牙齿会变蓝！",
-          "source": "",
-          "tags": [
-            "护眼",
-            "零食",
-            "健康"
+            "Debug",
+            "程序员幽默",
+            "StackOverflow"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-27T15:31:07.967Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-10-28T02:33:38.107Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 777,
-    "completion_tokens": 1718,
-    "total_tokens": 2495,
-    "cost_usd": 0.0019673064,
-    "free": false
+    "prompt_tokens": 2092,
+    "completion_tokens": 1847,
+    "total_tokens": 3939,
+    "cost_usd": 0.0024384897,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 9,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
   }
 }
