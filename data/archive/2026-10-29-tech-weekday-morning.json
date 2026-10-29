@@ -1,0 +1,78 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "谷歌三季报不尽人意",
+          "summary": "谷歌三季报核心指标全线下滑，股价应声下跌。",
+          "detail": "在2026年10月29日，谷歌发布了三季度财报。令人失望的是，搜索、云计算和利润等核心指标均未达到预期。这也让谷歌备受压力，外界纷纷质疑其未来发展策略。真是‘印钞机’都得为此担心了，家人们谁懂啊！",
+          "usage": "💡 和同事聊聊谷歌财报不好，顺便抱怨一下公司业绩 \n💬 \"谷歌的财报让我想起了我们公司的季度总结，都是不温不火啊\" \n🔥 谷歌 三季报 财报",
+          "source": "https://www.huxiu.com/article/4901335.html?f=rss",
+          "tags": [
+            "财经",
+            "谷歌",
+            "财报"
+          ]
+        },
+        {
+          "title": "常州微亿智造IPO降速",
+          "summary": "微亿智造IPO再陷‘冷静期’，市场反应平淡。",
+          "detail": "2026年10月25日，常州微亿智造宣布降速赴港IPO，市场称之为“工业具身智能第一股”。这家公司的动向引发了市场的关注，但显然在经历了一年的热潮后，目前的反应却是罕见的冷静。听说投资者们正准备一桶冷水，看看能不能激起点波澜。",
+          "usage": "💡 聊聊IPO市场的变化，可以引入微亿智造的例子 \n💬 \"微亿智造降速IPO，这事怎么看？\" \n🔥 IPO 冷静期 工业智能",
+          "source": "https://www.huxiu.com/article/4901319.html?f=rss",
+          "tags": [
+            "IPO",
+            "行业动态",
+            "市场"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "灵光推出国产Muse",
+          "summary": "灵光公司发布了首款国产Muse，反响热烈。",
+          "detail": "灵光公司在2026年10月28日发布了旗下首款国产Muse，这是他们在AI领域的大胆尝试，旨在为用户提供完美的个性化服务。虽然产品初期反响热烈，但不少用户仍在期盼更多的功能更新，真是“期待与失望”的轮回。",
+          "usage": "💡 聊聊灵光新Muse的发布，调侃产品功能 \n💬 \"灵光的Muse终于来了，大家都期待啥功能呢？\" \n🔥 灵光 Muse AI",
+          "source": "https://www.huxiu.com/article/4900988.html?f=rss",
+          "tags": [
+            "灵光",
+            "Muse",
+            "AI"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-29T02:46:27.310Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 5760,
+    "completion_tokens": 3435,
+    "total_tokens": 9195,
+    "cost_usd": 0.0029249999999999996,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 13,
+      "published": 3
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 12,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 21
+    }
+  }
+}

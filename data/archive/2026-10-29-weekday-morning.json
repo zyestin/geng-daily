@@ -1,0 +1,199 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Next.js新动向",
+          "summary": "Next.js团队透露下个大版本将专注编译优化",
+          "detail": "Next.js团队在最近的AMA中透露,下一个大版本将专注于编译时优化,目标是大幅提升冷启动速度和构建性能。社区猜测可能会引入类似Svelte的编译时优化策略。",
+          "usage": "听说Next.js下个版本要搞编译优化？我看群里说冷启动速度可能要提升40%以上，你们觉得他们能实现吗？",
+          "source": "",
+          "tags": [
+            "Next.js",
+            "编译优化"
+          ]
+        },
+        {
+          "title": "Vue4路线图",
+          "summary": "Vue4将彻底重构响应式系统",
+          "detail": "Vue官方在RFC中透露，Vue4将彻底重构响应式系统，采用更高效的内存管理机制，同时保持API兼容性。性能测试显示在大型应用中有望提升30%渲染速度。",
+          "usage": "Vue4要重写响应式系统了，虽然API不变但底层全换。你们觉得这种'换引擎不改外观'的做法靠谱吗？我同事说这就像给老车换电动发动机。",
+          "source": "",
+          "tags": [
+            "Vue",
+            "响应式"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN新架构",
+          "summary": "React Native新架构性能实测提升40%",
+          "detail": "React Native的新架构(Fabric)已在多个大型应用中落地，实测显示列表滚动性能提升40%，内存占用减少25%。但升级过程仍存在不少坑需要注意。",
+          "usage": "你们项目升级RN新架构了吗？我们刚升完，列表性能确实好很多，但遇到几个奇怪的Native模块兼容性问题，折腾了一周才搞定。",
+          "source": "",
+          "tags": [
+            "React Native",
+            "性能优化"
+          ]
+        },
+        {
+          "title": "跨端新选择",
+          "summary": "新兴跨端框架挑战RN地位",
+          "detail": "新兴框架Uni-app和Taro3持续发力，在性能评测中已接近React Native水平，同时保留更接近网页的开发体验，给企业技术选型带来新选择。",
+          "tags": [
+            "跨端",
+            "性能对比"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 跨端新选择\n🔥 跨端 性能对比",
+          "source": ""
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "AI设计助手",
+          "summary": "GitHub热榜AI设计技能项目火了",
+          "detail": "GitHub热门项目ai-design-skills提供了一套完整的AI辅助设计工作流，从Figma插件到代码生成一气呵成，star数三天破2000。",
+          "usage": "最近用那个ai-design-skills了吗？直接把Figma设计转成React代码还挺准的，就是生成的className有点魔性，全是ai-前缀哈哈哈。",
+          "source": "https://github.com/elayadesign/ai-design-skills",
+          "tags": [
+            "AI设计",
+            "Figma"
+          ]
+        },
+        {
+          "title": "AI编程革命",
+          "summary": "Cursor最新版本(context-aware coding)能根据项目上下文进行智能补全，在TypeScript项目中准确率惊人，有人用它半天写完平时三天的工作量。",
+          "usage": "Cursor现在能记住整个项目上下文了，我昨天写Redux的时候它连action type都能自动补全，吓得我赶紧检查是不是偷偷联网了。",
+          "source": "",
+          "tags": [
+            "Cursor",
+            "智能编程"
+          ],
+          "detail": "Cursor最新版本(context-aware coding)能根据项目上下文进行智能补全，在TypeScript项目中准确率惊人，有人用它半天写完平时三天的工作量。"
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "TS5.3亮点",
+          "summary": "TypeScript 5.3优化大型项目体验",
+          "detail": "TypeScript 5.3重点优化了大型项目的编辑体验，类型检查速度提升20%，同时改进了泛型推导逻辑，解决了多个长期存在的痛点问题。",
+          "usage": "升了TS5.3没？我们项目编译快了挺多，不过最香的是那个更好的泛型推导，再也不用写那么多as了，VSCode的提示也聪明多了。",
+          "source": "",
+          "tags": [
+            "TypeScript",
+            "编译"
+          ]
+        },
+        {
+          "title": "Bun挑战Node",
+          "summary": "Bun 2.0性能碾压Node.js",
+          "detail": "Bun 2.0在最新基准测试中，HTTP服务性能达到Node.js的3倍，启动速度快5倍，内置的SQLite支持也让开发轻量级应用更加方便。",
+          "tags": [
+            "Bun",
+            "运行时"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Bun挑战Node\n🔥 Bun 运行时",
+          "source": ""
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "DeepTutor爆火",
+          "summary": "个性化AI导师项目star暴涨",
+          "detail": "HKUDS/DeepTutor项目提供终身个性化编程教学，能根据开发者水平动态调整教学内容，发布一周获得3000+ star，成为GitHub周榜第一。",
+          "usage": "那个DeepTutor项目看了吗？说是能根据你写代码的习惯调整教学，我试了下它居然发现我写React老忘记清理effect，太吓人了...",
+          "source": "https://github.com/HKUDS/DeepTutor",
+          "tags": [
+            "AI教学",
+            "GitHub"
+          ]
+        },
+        {
+          "title": "机器人开源",
+          "summary": "人形机器人全套图纸开源",
+          "detail": "国内团队开源了完整的人形机器人设计，从机械结构到运动算法全部公开，GitHub仓库包含详细制造指南，硬件成本可控制在1万元以内。",
+          "usage": "看到那个人形机器人开源项目了吗？从关节设计到步态算法全公开了，评论区有人说要给自己做一个端茶倒水的，笑死。",
+          "source": "https://www.qbitai.com/2026/10/505865.html",
+          "tags": [
+            "机器人",
+            "开源硬件"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "AI代码审查",
+          "summary": "AI开始给人类代码写评论了",
+          "detail": "有开发者用GPT-4模拟资深程序员给新手代码写review，结果生成的评论过于真实，包括'这个函数写得比我前任还复杂'等神吐槽，引发热议。",
+          "usage": "看到那个用AI写code review的帖子没？简直太损了，有个评论说'这段代码完美诠释了什么叫面向工资编程'，哈哈哈太扎心了。",
+          "source": "",
+          "tags": [
+            "AI",
+            "幽默"
+          ]
+        },
+        {
+          "title": "程序员带娃",
+          "summary": "技术人独特的育儿方式",
+          "detail": "推特热门话题#DevParents展示了程序员如何用技术思维育儿，有人给3岁孩子讲递归概念，还有人用Git管理孩子的作业版本，引发广泛共鸣。",
+          "usage": "看到那些程序员带娃的段子了吗？有个爸爸用console.log教孩子认字，输出'你好世界'，结果孩子学会的第一句话是'undefined'...",
+          "source": "",
+          "tags": [
+            "程序员",
+            "育儿"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-29T02:43:06.059Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2046,
+    "completion_tokens": 1671,
+    "total_tokens": 3717,
+    "cost_usd": 0.0022455981,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}
