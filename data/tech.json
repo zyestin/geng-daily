@@ -5,74 +5,62 @@
       "icon": "📰",
       "items": [
         {
-          "title": "谷歌三季报不尽人意",
-          "summary": "谷歌三季报核心指标全线下滑，股价应声下跌。",
-          "detail": "在2026年10月29日，谷歌发布了三季度财报。令人失望的是，搜索、云计算和利润等核心指标均未达到预期。这也让谷歌备受压力，外界纷纷质疑其未来发展策略。真是‘印钞机’都得为此担心了，家人们谁懂啊！",
-          "usage": "💡 和同事聊聊谷歌财报不好，顺便抱怨一下公司业绩 \n💬 \"谷歌的财报让我想起了我们公司的季度总结，都是不温不火啊\" \n🔥 谷歌 三季报 财报",
-          "source": "https://www.huxiu.com/article/4901335.html?f=rss",
+          "title": "华为阔直板销量破百万",
+          "summary": "华为阔直板上市50天销量超100万台！",
+          "detail": "华为近日宣布，其阔直板自上市以来，50天内销量突破100万台，这个成绩在市场上引起了不小的轰动。分析人士认为，这标志着华为在平板市场的强劲复苏，而其独特的产品定位与强大的品牌影响力成为关键。家人们，华为又双叒叕给我们带来了惊喜，看来这个冬天准备迎接更多的平板用户！",
+          "usage": "💡 聊到华为产品时引入 \n💬 \"华为阔直板上市50天出货量超100万台！\" \n🔥 华为 阔直板 销量",
+          "source": "https://www.toutiao.com/trending/7701927417300091442/?category_name=topic_innerflow&event_type=hot_board",
           "tags": [
-            "财经",
-            "谷歌",
-            "财报"
-          ]
-        },
-        {
-          "title": "常州微亿智造IPO降速",
-          "summary": "微亿智造IPO再陷‘冷静期’，市场反应平淡。",
-          "detail": "2026年10月25日，常州微亿智造宣布降速赴港IPO，市场称之为“工业具身智能第一股”。这家公司的动向引发了市场的关注，但显然在经历了一年的热潮后，目前的反应却是罕见的冷静。听说投资者们正准备一桶冷水，看看能不能激起点波澜。",
-          "usage": "💡 聊聊IPO市场的变化，可以引入微亿智造的例子 \n💬 \"微亿智造降速IPO，这事怎么看？\" \n🔥 IPO 冷静期 工业智能",
-          "source": "https://www.huxiu.com/article/4901319.html?f=rss",
-          "tags": [
-            "IPO",
-            "行业动态",
-            "市场"
+            "华为",
+            "阔直板",
+            "销量"
           ]
         }
       ]
     },
     {
-      "name": "新品发布",
-      "icon": "📱",
+      "name": "创业大戏",
+      "icon": "🎬",
       "items": [
         {
-          "title": "灵光推出国产Muse",
-          "summary": "灵光公司发布了首款国产Muse，反响热烈。",
-          "detail": "灵光公司在2026年10月28日发布了旗下首款国产Muse，这是他们在AI领域的大胆尝试，旨在为用户提供完美的个性化服务。虽然产品初期反响热烈，但不少用户仍在期盼更多的功能更新，真是“期待与失望”的轮回。",
-          "usage": "💡 聊聊灵光新Muse的发布，调侃产品功能 \n💬 \"灵光的Muse终于来了，大家都期待啥功能呢？\" \n🔥 灵光 Muse AI",
-          "source": "https://www.huxiu.com/article/4900988.html?f=rss",
+          "title": "王石携万科旧将创业",
+          "summary": "75岁王石再次创业，携万科旧部开新局！",
+          "detail": "王石在75岁高龄时选择重返创业，携手万科的旧将启动新项目，令人瞩目。这份执着和热情让很多人感叹，看来只要有梦想，年龄不是问题！家人们，看来我们也要激励自己，不断追逐梦想，永不言老！",
+          "usage": "💡 聊到创业故事时分享 \n💬 \"王石75岁再次创业，携万科旧将开新局！\" \n🔥 王石 创业 万科",
+          "source": "https://www.toutiao.com/trending/7701966143396823562/?category_name=topic_innerflow&event_type=hot_board",
           "tags": [
-            "灵光",
-            "Muse",
-            "AI"
+            "王石",
+            "创业",
+            "万科"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-29T02:46:27.310Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-10-29T16:31:36.213Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "openai/gpt-4o-mini",
     "actual_model": "openai/gpt-4o-mini",
-    "prompt_tokens": 5760,
-    "completion_tokens": 3435,
-    "total_tokens": 9195,
-    "cost_usd": 0.0029249999999999996,
+    "prompt_tokens": 5226,
+    "completion_tokens": 1827,
+    "total_tokens": 7053,
+    "cost_usd": 0.0018800999999999998,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 13,
-      "published": 3
+      "dropped_orphans": 6,
+      "published": 2
     },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 12,
+        "huxiu": 2,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 21
+      "total": 13
     }
   }
 }

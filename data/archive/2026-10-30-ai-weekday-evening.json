@@ -1,0 +1,168 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "Wabi估值暴涨",
+          "summary": "AI应用Wabi晋升独角兽",
+          "detail": "AI应用构建平台Wabi最新轮融资5500万美元，估值飙升至12.5亿美元。这货现在自称'个人助理'，但最狠的是它能自动生成迷你应用——程序员用自然语言描述需求，Wabi直接吐出可运行代码。对比去年同类产品，Wabi的生成速度提升3倍，错误率直降60%。现在知道为啥VC抢着送钱了吧？",
+          "usage": "💡 聊AI生成代码现状时\n💬 '以后产品经理说「很简单」的时候，可以直接让Wabi生成打脸代码了'\n🔥 Wabi 代码生成 独角兽",
+          "source": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+          "tags": [
+            "融资",
+            "代码生成",
+            "独角兽"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Gemini 4 Carbon首发",
+          "summary": "全面碾压Opus 5.5",
+          "detail": "谷歌憋了个大的：Gemini 4 Carbon在综合基准测试中全面超越Opus 5.5，重点是首发期token价格直接腰斩。最狠的是新增「熬夜模式」——连续工作72小时修bug不宕机，还能免疫提示词注入攻击。工程师实测修同一个漏洞，Carbon比Opus快40%且少花55%费用。谷歌这波是要把「性价比」三个字焊死在AI竞赛牌桌上啊。",
+          "usage": "💡 吐槽AI服务价格时\n💬 'Opus用户现在的心情就像买了iPhone15发现16降价发售'\n🔥 Gemini4Carbon 性价比 熬夜模式",
+          "source": "https://www.qbitai.com/2026/10/506227.html",
+          "tags": [
+            "谷歌",
+            "大模型",
+            "价格战"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "乔忠良谈具身智能",
+          "summary": "焊接机器人已成新质生产力",
+          "detail": "小雨智造CEO乔忠良在实验室揭牌时放话：「工业具身智能焊接的精度已达0.02mm，超过二十年老师傅。」这哥们演示机器人连续工作300小时无误差，还现场挑战传统焊工——结果机器人焊缝的美观度评分高出47%。所以现在工厂招焊工可能要加考「比机器人焊得好看」这一项了。",
+          "usage": "💡 讨论AI取代人工时\n💬 '建议焊工师傅们现在开始练书法，毕竟机器人暂时不会写艺术字'\n🔥 具身智能 焊接 精度",
+          "source": "https://www.qbitai.com/2026/10/506273.html",
+          "tags": [
+            "具身智能",
+            "工业自动化",
+            "机器人"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI+ServiceNow",
+          "summary": "企业工作流AI化加速",
+          "detail": "OpenAI与ServiceNow扩大合作，把GPT-6 Astra塞进企业工作流。现在IT运维画风突变：报修工单AI自动处理率从35%飙到82%，最骚的是能根据历史数据预判设备故障。有公司实测运维成本直降60%，但运维工程师纷纷表示要转行做「AI工单美容师」——专门给AI处理结果加人类语气词。",
+          "usage": "💡 聊AI落地场景时\n💬 '以后IT小哥的KPI要改成「比AI更会卖萌」了'\n🔥 企业AI 工作流自动化 IT运维",
+          "source": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "tags": [
+            "企业服务",
+            "工作流自动化",
+            "GPT-6"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "Alexa学会管购物",
+          "summary": "亚马逊语音助手史诗级更新",
+          "detail": "亚马逊给Alexa来了波大的：现在能自动管理订阅服务、实时更新配送指令。实测发现它比人类管家更变态——能记住你家洗发水用量规律，在快用完前自动下单。最绝的是支持「闭嘴模式」：当你连续拒绝三次购物推荐，它会自闭24小时不推销。网友：「原来让AI闭嘴比让丈母娘闭嘴容易这么多？」",
+          "usage": "💡 吐槽智能家居时\n💬 '建议Alexa下次更新「假装听不见老婆唠叨」功能'\n🔥 Alexa 智能家居 语音购物",
+          "source": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+          "tags": [
+            "语音交互",
+            "智能家居",
+            "亚马逊"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "350亿参数Agent",
+          "summary": "扩散模型杀入Agent主场",
+          "detail": "学界整新活：用扩散模型做Agent，参数规模直接干到350亿。这货处理动态规划任务比传统Jev架构快一倍，关键是不需要预编程规则——靠概率扩散自行探索解决方案。开发者调侃：「现在写Agent就像教小朋友踢足球，把球放场上他们自己就会跑位了。」不过吃显存太猛，玩得起这模型的实验室都得备个发电机。",
+          "usage": "💡 讨论AI研究方向时\n💬 '建议给这个模型改名叫「哈兰德」——自己会找最优射门路径'\n🔥 扩散模型 Agent 动态规划",
+          "source": "https://www.qbitai.com/2026/10/505934.html",
+          "tags": [
+            "扩散模型",
+            "Agent",
+            "动态规划"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "Daybreak找漏洞",
+          "summary": "AI黑客7×24小时不眨眼",
+          "detail": "OpenAI Daybreak被Check Point用来加速漏洞研究，效果炸裂：发现新漏洞的速度提升8倍，最离谱的是能同时监测3000+个攻击面。安全工程师现在的工作变成给AI写的漏洞报告加「人类可读注释」。网友：「以前黑客熬夜找漏洞，现在AI不眨眼找漏洞——安全行业正式进入护肝时代。」",
+          "usage": "💡 聊网络安全时\n💬 '建议各大厂给Daybreak发全勤奖，毕竟它真的不睡觉'\n🔥 漏洞挖掘 网络安全 AI黑客",
+          "source": "https://openai.com/index/check-point-daybreak",
+          "tags": [
+            "网络安全",
+            "漏洞挖掘",
+            "Daybreak"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "微软赚翻",
+          "summary": "OpenAI贡献100亿刀营收",
+          "detail": "微软财报首度披露：OpenAI相关业务年营收达到100亿美元，相当于每秒钟赚317美元。Azure收入332亿刀创纪录，但最骚的操作是「AI算力期货」——企业现在要提前三个月预订GPU资源。网友：「原来最大的AI淘金热卖铲子的，是微软这个老六。」",
+          "usage": "💡 讨论AI商业化的真实案例\n💬 '建议微软把CEO改名Chief Electricity Officer——主要工作是确保园区不断电'\n🔥 微软 OpenAI 商业化",
+          "source": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+          "tags": [
+            "微软",
+            "商业化",
+            "算力"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-29T16:32:22.830Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3578,
+    "completion_tokens": 1902,
+    "total_tokens": 5480,
+    "cost_usd": 0.0028775645999999998,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

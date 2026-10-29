@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "华为阔直板销量破百万",
+          "summary": "华为阔直板上市50天销量超100万台！",
+          "detail": "华为近日宣布，其阔直板自上市以来，50天内销量突破100万台，这个成绩在市场上引起了不小的轰动。分析人士认为，这标志着华为在平板市场的强劲复苏，而其独特的产品定位与强大的品牌影响力成为关键。家人们，华为又双叒叕给我们带来了惊喜，看来这个冬天准备迎接更多的平板用户！",
+          "usage": "💡 聊到华为产品时引入 \n💬 \"华为阔直板上市50天出货量超100万台！\" \n🔥 华为 阔直板 销量",
+          "source": "https://www.toutiao.com/trending/7701927417300091442/?category_name=topic_innerflow&event_type=hot_board",
+          "tags": [
+            "华为",
+            "阔直板",
+            "销量"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "王石携万科旧将创业",
+          "summary": "75岁王石再次创业，携万科旧部开新局！",
+          "detail": "王石在75岁高龄时选择重返创业，携手万科的旧将启动新项目，令人瞩目。这份执着和热情让很多人感叹，看来只要有梦想，年龄不是问题！家人们，看来我们也要激励自己，不断追逐梦想，永不言老！",
+          "usage": "💡 聊到创业故事时分享 \n💬 \"王石75岁再次创业，携万科旧将开新局！\" \n🔥 王石 创业 万科",
+          "source": "https://www.toutiao.com/trending/7701966143396823562/?category_name=topic_innerflow&event_type=hot_board",
+          "tags": [
+            "王石",
+            "创业",
+            "万科"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-29T16:31:36.213Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 5226,
+    "completion_tokens": 1827,
+    "total_tokens": 7053,
+    "cost_usd": 0.0018800999999999998,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 6,
+      "published": 2
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 2,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 13
+    }
+  }
+}
