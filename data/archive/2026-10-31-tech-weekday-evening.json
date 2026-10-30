@@ -1,0 +1,161 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "AI跑偏论",
+          "summary": "人民日报警惕中国AI跑偏",
+          "detail": "人民日报发文称，近期有声音质疑中国AI发展跑偏，呼吁警惕这种论调。文章指出，中国AI技术正稳步推进，不应被片面观点误导。家人们谁懂啊，AI跑偏论又来了，这次人民日报都下场了。",
+          "usage": "💡 聊AI发展时\n💬 人民日报都说了，AI跑偏论要警惕\n🔥 AI跑偏 人民日报",
+          "source": "https://www.toutiao.com/trending/7701987261797482550/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701987261797482550%22%2C%22hot_board_impr_id%22%3A%222026103100205247F249695D6AD3A9423F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E8%AD%A6%E6%83%95%E2%80%9C%E4%B8%AD%E5%9B%BDAI%E8%B7%91%E5%81%8F%E8%AE%BA%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7701987261797482550",
+          "tags": [
+            "AI",
+            "人民日报"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "大冰翻红",
+          "summary": "作家大冰否认靠直播翻红",
+          "detail": "作家大冰近日接受采访时表示，自己并非靠直播翻红，而是靠作品赢得读者。他调侃道，直播只是锦上添花，真正让他红的还是那些年的书。家人们谁懂啊，大冰这是在说直播不重要吗？",
+          "usage": "💡 聊作家转型时\n💬 大冰说了，他不是靠直播翻红的\n🔥 大冰 直播 翻红",
+          "source": "https://m.baidu.com/s?word=%E4%BD%9C%E5%AE%B6%E5%A4%A7%E5%86%B0+%E4%B8%8D%E6%98%AF%E9%9D%A0%E7%9B%B4%E6%92%AD%E7%BF%BB%E7%BA%A2&sa=fyb_news",
+          "tags": [
+            "大冰",
+            "直播"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "DeepSeek Cyber",
+          "summary": "DeepSeek网络安全模型Cyber曝光",
+          "detail": "市场上流传着DeepSeek网络安全模型Cyber的消息。多名技术开发者在DeepSeek官网前端JS中发现Cyber相关入口，社区也流出了灰度状态的测试链接。家人们谁懂啊，DeepSeek这是要搞大事啊！",
+          "usage": "💡 聊网络安全时\n💬 DeepSeek的Cyber模型曝光了\n🔥 DeepSeek Cyber 网络安全",
+          "source": "https://www.huxiu.com/article/4901849.html?f=rss",
+          "tags": [
+            "DeepSeek",
+            "网络安全"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "共享儿女",
+          "summary": "街道试点“共享儿女”",
+          "detail": "某街道试点“共享儿女”项目，最低每月199元，旨在解决老年人孤独问题。家人们谁懂啊，这年头连儿女都能共享了！",
+          "usage": "💡 聊养老话题时\n💬 街道试点“共享儿女”，最低199元每月\n🔥 共享儿女 养老",
+          "source": "https://m.baidu.com/s?word=%E8%A1%97%E9%81%93%E8%AF%95%E7%82%B9%E2%80%9C%E5%85%B1%E4%BA%AB%E5%84%BF%E5%A5%B3%E2%80%9D%EF%BC%9A%E6%9C%80%E4%BD%8E199%E5%85%83%E6%AF%8F%E6%9C%88&sa=fyb_news",
+          "tags": [
+            "共享儿女",
+            "养老"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "黄金大跌",
+          "summary": "黄金大跌，铜价创新高",
+          "detail": "近期黄金价格大幅下跌，而铜价却创下新高。分析人士指出，这与全球经济复苏和新能源产业发展密切相关。家人们谁懂啊，黄金不香了，铜才是真香！",
+          "usage": "💡 聊金融市场时\n💬 黄金大跌，铜价创新高\n🔥 黄金 铜价 金融",
+          "source": "https://www.toutiao.com/trending/7701487346830557220/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701487346830557220%22%2C%22hot_board_impr_id%22%3A%222026103100205247F249695D6AD3A9423F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%BB%84%E9%87%91%E5%A4%A7%E8%B7%8C+%E9%93%9C%E4%BB%B7%E4%B8%BA%E4%BD%95%E5%88%9B%E6%96%B0%E9%AB%98%22%7D&rank=&style_id=40132&topic_id=7701487346830557220",
+          "tags": [
+            "黄金",
+            "铜价"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "生娃不花钱",
+          "summary": "全国实现生娃基本不花钱",
+          "detail": "今年全国实现生娃基本不花钱，医保政策全面覆盖，减轻了家庭生育负担。家人们谁懂啊，生娃终于不用花钱了！",
+          "usage": "💡 聊生育政策时\n💬 今年全国实现生娃基本不花钱\n🔥 生娃 医保",
+          "source": "https://www.toutiao.com/trending/7701865571654258218/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701865571654258218%22%2C%22hot_board_impr_id%22%3A%222026103100205247F249695D6AD3A9423F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E5%AE%9E%E7%8E%B0%E7%94%9F%E5%A8%83%E5%9F%BA%E6%9C%AC%E4%B8%8D%E8%8A%B1%E9%92%B1%22%7D&rank=&style_id=40132&topic_id=7701865571654258218",
+          "tags": [
+            "生娃",
+            "医保"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "股票群无声",
+          "summary": "股票群再度“鸦雀无声”",
+          "detail": "近期股票市场波动较大，多个股票群再度“鸦雀无声”，投资者纷纷选择观望。家人们谁懂啊，股票群又沉默了！",
+          "usage": "💡 聊股市时\n💬 股票群再度“鸦雀无声”\n🔥 股票群 股市",
+          "source": "https://m.baidu.com/s?word=%E8%82%A1%E7%A5%A8%E7%BE%A4%E5%86%8D%E5%BA%A6%E2%80%9C%E9%B8%A6%E9%9B%80%E6%97%A0%E5%A3%B0%E2%80%9D&sa=fyb_news",
+          "tags": [
+            "股票群",
+            "股市"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "币圈风云",
+      "icon": "🪙",
+      "items": [
+        {
+          "title": "乌克兰低头",
+          "summary": "邵永灵：乌克兰低头了",
+          "detail": "邵永灵指出，乌克兰在国际压力下不得不低头，接受某些不利条件。家人们谁懂啊，乌克兰这是扛不住了！",
+          "usage": "💡 聊国际局势时\n💬 邵永灵：乌克兰低头了\n🔥 乌克兰 邵永灵",
+          "source": "https://www.toutiao.com/trending/7702449996901142070/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227702449996901142070%22%2C%22hot_board_impr_id%22%3A%222026103100205247F249695D6AD3A9423F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%82%B5%E6%B0%B8%E7%81%B5%EF%BC%9A%E4%B9%8C%E5%85%8B%E5%85%B0%E4%BD%8E%E5%A4%B4%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7702449996901142070",
+          "tags": [
+            "乌克兰",
+            "邵永灵"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-30T16:22:52.944Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 4557,
+    "completion_tokens": 3130,
+    "total_tokens": 7687,
+    "cost_usd": 0.0043928028,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 2,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 13
+    }
+  }
+}

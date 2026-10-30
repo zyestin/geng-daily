@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "GPT-6 Astra 登顶",
+          "summary": "GPT-6 Astra 语音代理评测第一",
+          "detail": "GPT-6 Astra 在 Retell 的语音代理评测中登顶，帮助 Retell 实现了 1.6M 美元的年收入。这意味着 GPT-6 Astra 在语音交互领域已经达到了新的高度，未来可能在客服、语音助手等场景中广泛应用。",
+          "usage": "💡 聊天时提到语音助手\n💬 GPT-6 Astra 在 Retell 的语音代理评测中登顶，年收入 1.6M 美元\n🔥 GPT-6 Astra Retell 语音代理",
+          "source": "https://openai.com/index/retell-ai",
+          "tags": [
+            "GPT-6 Astra",
+            "语音代理",
+            "Retell"
+          ]
+        },
+        {
+          "title": "英伟达视频增强",
+          "summary": "英伟达发布 4K 视频增强方案",
+          "detail": "英伟达与麻省理工学院团队发布视频增强项目 Open-H3-Regenerate-2K 的模型权重，最高支持 4K 重生成。这项技术将大幅提升视频质量，未来可能在影视制作、视频监控等领域广泛应用。",
+          "usage": "💡 聊天时提到视频处理\n💬 英伟达发布 4K 视频增强方案，未来影视制作更轻松\n🔥 英伟达 4K 视频增强",
+          "source": "https://www.qbitai.com/2026/10/506743.html",
+          "tags": [
+            "英伟达",
+            "视频增强",
+            "4K"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Claude 新模型",
+          "summary": "Claude 新模型 Fable 曝光",
+          "detail": "Claude 新模型 Fable 曝光，预计将带来更强大的代码生成和自然语言处理能力。与上一代相比，Fable 在处理复杂任务时表现出更高的准确性和效率，开发者期待其在实际应用中的表现。",
+          "usage": "💡 聊天时提到代码生成\n💬 Claude 新模型 Fable 曝光，期待实际应用\n🔥 Claude Fable 代码生成",
+          "source": "https://www.qbitai.com/2026/10/506674.html",
+          "tags": [
+            "Claude",
+            "Fable",
+            "代码生成"
+          ]
+        },
+        {
+          "title": "STEPX Neo 升级",
+          "summary": "STEPX Neo 智能体手机首次升级",
+          "detail": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级，智能体能力持续释放。此次升级将进一步提升手机的智能化水平，未来可能在智能终端领域广泛应用。",
+          "usage": "💡 聊天时提到智能终端\n💬 STEPX Neo 智能体手机首次升级，智能化水平提升\n🔥 STEPX Neo 智能体手机",
+          "source": "https://www.qbitai.com/2026/10/506554.html",
+          "tags": [
+            "STEPX Neo",
+            "智能体手机",
+            "升级"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "Tyler Shultz 警告",
+          "summary": "Theranos 吹哨人 AI 警告",
+          "detail": "Theranos 吹哨人 Tyler Shultz 警告，AI 热潮是“欺骗人的大好机会”。他提醒人们警惕 AI 领域的夸大宣传和虚假承诺，特别是在医疗和金融等敏感领域。",
+          "usage": "💡 聊天时提到 AI 风险\n💬 Theranos 吹哨人警告：AI 热潮是欺骗人的大好机会\n🔥 Tyler Shultz AI 风险",
+          "source": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+          "tags": [
+            "Tyler Shultz",
+            "AI 风险",
+            "Theranos"
+          ]
+        },
+        {
+          "title": "Jassy 谈 AWS",
+          "summary": "AWS 目标是 1T 美元业务",
+          "detail": "亚马逊 CEO Andy Jassy 表示，AWS 的目标是成为第一个 1T 美元收入的业务。他指出，为了实现这一目标，AWS 将在 AI 云计算领域进行大规模投资。",
+          "usage": "💡 聊天时提到云计算\n💬 AWS 目标是 1T 美元业务，AI 云计算投资是关键\n🔥 AWS Andy Jassy 云计算",
+          "source": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+          "tags": [
+            "AWS",
+            "Andy Jassy",
+            "云计算"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI 与 ServiceNow",
+          "summary": "OpenAI 与 ServiceNow 扩展合作",
+          "detail": "OpenAI 与 ServiceNow 扩展合作，将 OpenAI 模型和代理引入 ServiceNow 企业工作流。这一合作将进一步提升企业自动化和智能化水平，未来可能在多个行业中广泛应用。",
+          "usage": "💡 聊天时提到企业自动化\n💬 OpenAI 与 ServiceNow 扩展合作，提升企业自动化\n🔥 OpenAI ServiceNow 自动化",
+          "source": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "tags": [
+            "OpenAI",
+            "ServiceNow",
+            "企业自动化"
+          ]
+        },
+        {
+          "title": "商汤稳居 MaaS 第二",
+          "summary": "商汤大装置蝉联 MaaS 第二",
+          "detail": "在大模型私有化市场，商汤大装置以 9.4% 的市场份额，再次稳居第二位。商汤在大模型领域的技术实力和市场份额持续领先，未来可能在多个行业中广泛应用。",
+          "usage": "💡 聊天时提到大模型\n💬 商汤大装置蝉联 MaaS 第二，市场份额 9.4%\n🔥 商汤大装置 MaaS",
+          "source": "https://www.qbitai.com/2026/10/506550.html",
+          "tags": [
+            "商汤",
+            "大装置",
+            "MaaS"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "Credit Saison 试点",
+          "summary": "Credit Saison ChatGPT 试点成功",
+          "detail": "Credit Saison 的 ChatGPT Enterprise 试点实现了 954% 的 ROI。这一成功案例展示了 AI 在企业中的巨大潜力，未来可能在更多行业中得到应用。",
+          "usage": "💡 聊天时提到企业 AI\n💬 Credit Saison ChatGPT 试点成功，ROI 954%\n🔥 Credit Saison ChatGPT 试点",
+          "source": "https://openai.com/index/credit-saison",
+          "tags": [
+            "Credit Saison",
+            "ChatGPT",
+            "试点"
+          ]
+        },
+        {
+          "title": "DoorDash AI 订单",
+          "summary": "DoorDash 收到数百 AI 订单",
+          "detail": "DoorDash 表示，目前仅收到“数百”来自 AI 代理的订单。这表明 AI 在订单处理中的应用仍处于早期阶段，但未来可能有更大的发展空间。",
+          "usage": "💡 聊天时提到 AI 订单\n💬 DoorDash 收到数百 AI 订单，应用仍处早期\n🔥 DoorDash AI 订单",
+          "source": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+          "tags": [
+            "DoorDash",
+            "AI 订单",
+            "早期应用"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "英伟达开源视频增强",
+          "summary": "英伟达开源 4K 视频增强方案",
+          "detail": "英伟达与麻省理工学院团队在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重，最高支持 4K 重生成。这一开源方案将推动视频处理技术的发展，未来可能在多个行业中广泛应用。",
+          "usage": "💡 聊天时提到视频处理\n💬 英伟达开源 4K 视频增强方案，推动技术发展\n🔥 英伟达 开源 4K 视频增强",
+          "source": "https://www.qbitai.com/2026/10/506743.html",
+          "tags": [
+            "英伟达",
+            "开源",
+            "4K 视频增强"
+          ]
+        },
+        {
+          "title": "RSI 登顶 OCR",
+          "summary": "国产开源 OCR 登顶全球",
+          "detail": "RSI 立大功！国产开源 OCR 登顶全球第一，1.3B OXR 重塑 OCR 技术。这一突破展示了国产开源技术在全球 OCR 领域的领先地位，未来可能在多个行业中广泛应用。",
+          "usage": "💡 聊天时提到 OCR\n💬 国产开源 OCR 登顶全球，1.3B OXR 重塑技术\n🔥 RSI OCR 开源",
+          "source": "https://www.qbitai.com/2026/10/506686.html",
+          "tags": [
+            "RSI",
+            "OCR",
+            "开源"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "清华大学具身智能",
+          "summary": "清华提出具身智能新路径",
+          "detail": "清华大学联合无问芯穹、智元提出具身智能规模化落地新路径，让机器人成为彼此的“老师”。这一研究突破将推动具身智能技术的发展，未来可能在多个行业中广泛应用。",
+          "usage": "💡 聊天时提到机器人\n💬 清华提出具身智能新路径，机器人互学互教\n🔥 清华大学 具身智能",
+          "source": "https://www.qbitai.com/2026/10/506662.html",
+          "tags": [
+            "清华大学",
+            "具身智能",
+            "机器人"
+          ]
+        },
+        {
+          "title": "Runware AI 数据中心",
+          "summary": "Runware 预制 AI 数据中心",
+          "detail": "Runware 正在建造工厂，以流水线方式生产预制 AI 数据中心。这一创新模式将大幅降低 AI 数据中心的建造成本和时间，未来可能在 AI 基础设施领域广泛应用。",
+          "usage": "💡 聊天时提到 AI 基础设施\n💬 Runware 预制 AI 数据中心，降低成本和时间\n🔥 Runware AI 数据中心",
+          "source": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+          "tags": [
+            "Runware",
+            "AI 数据中心",
+            "预制"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "MEET2027 报名开启",
+          "summary": "MEET2027 报名通道正式开启",
+          "detail": "MEET2027 报名通道正式开启，首批重磅嘉宾已就位。这场 AI 领域的盛会将吸引全球顶尖专家和企业的参与，展示最新的技术突破和行业趋势。",
+          "usage": "💡 聊天时提到 AI 大会\n💬 MEET2027 报名开启，重磅嘉宾已就位\n🔥 MEET2027 AI 大会",
+          "source": "https://www.qbitai.com/2026/10/506609.html",
+          "tags": [
+            "MEET2027",
+            "AI 大会",
+            "报名"
+          ]
+        },
+        {
+          "title": "Reddit 转向登录体验",
+          "summary": "Reddit 转向登录体验",
+          "detail": "随着 AI 改变了人们在线查找信息的方式，Reddit 正在重新思考其开放网络根源，转向登录体验以保护内容。这一变化将影响 Reddit 的用户体验和内容策略。",
+          "usage": "💡 聊天时提到社交媒体\n💬 Reddit 转向登录体验，保护内容\n🔥 Reddit 登录体验",
+          "source": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+          "tags": [
+            "Reddit",
+            "登录体验",
+            "内容保护"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-30T16:25:07.731Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3631,
+    "completion_tokens": 2920,
+    "total_tokens": 6551,
+    "cost_usd": 0.0039384234,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

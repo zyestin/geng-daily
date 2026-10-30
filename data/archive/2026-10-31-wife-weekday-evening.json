@@ -1,0 +1,83 @@
+{
+  "categories": [
+    {
+      "name": "追剧指南",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "杨幂张小斐抢后排",
+          "summary": "明星合影背后的笑点",
+          "detail": "杨幂和张小斐的合影成了全网热议，两人抢后排的场面真是笑料百出。媳妇看完肯定会觉得：\"这俩明明颜值在线，干嘛非要往后躲？\"你可以趁机吐槽：\"她们抢后排的样子，像极了咱家吃饭时抢最后一块红烧肉的我。\"",
+          "usage": "💡 饭后闲聊时\n💬 今天看到杨幂张小斐抢后排的新闻，感觉她们像是咱家的红烧肉争夺战\n🔥 明星 合影 幽默",
+          "source": "https://m.baidu.com/s?word=%E6%9D%A8%E5%B9%82%E5%BC%A0%E5%B0%8F%E6%96%90%E5%90%88%E5%BD%B1%E4%BA%92%E6%8E%A8%E6%8A%A2%E5%90%8E%E6%8E%92&sa=fyb_news",
+          "tags": [
+            "明星",
+            "搞笑"
+          ]
+        },
+        {
+          "title": "当爱已成往事",
+          "summary": "经典剧情的现代解读",
+          "detail": "《当爱已成往事》最近夯爆了，剧情虽然老套，但情感细腻得让人欲罢不能。媳妇看完可能会感慨：\"爱情真是让人捉摸不透。\"你可以接话：\"对啊，就像我每次修BUG，明明觉得很简单，结果却越修越复杂。\"",
+          "usage": "💡 她追剧时\n💬 这剧让我想起修BUG的感觉，明明很简单，却越修越复杂\n🔥 电视剧 爱情 搞笑",
+          "source": "https://m.baidu.com/s?word=%E3%80%8A%E5%BD%93%E7%88%B1%E5%B7%B2%E6%88%90%E5%BE%80%E4%BA%8B%E3%80%8B%E5%A4%AF%E7%88%86%E4%BA%86&sa=fyb_news",
+          "tags": [
+            "电视剧",
+            "情感"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "土味情话",
+      "icon": "😘",
+      "items": [
+        {
+          "title": "共享儿女",
+          "summary": "幽默解读新政策",
+          "detail": "看到共享儿女的新闻，你可以跟媳妇说：\"咱家女儿这么可爱，199元一个月太便宜了，得加价！\"",
+          "usage": "💡 聊天时\n💬 咱家女儿这么可爱，199元一个月太便宜了，得加价！\n🔥 共享儿女 幽默 家庭",
+          "source": "https://m.baidu.com/s?word=%E8%A1%97%E9%81%93%E8%AF%95%E7%82%B9%E2%80%9C%E5%85%B1%E4%BA%AB%E5%84%BF%E5%A5%B3%E2%80%9D%EF%BC%9A%E6%9C%80%E4%BD%8E199%E5%85%83%E6%AF%8F%E6%9C%88&sa=fyb_news",
+          "tags": [
+            "共享儿女",
+            "幽默"
+          ]
+        },
+        {
+          "title": "退款友谊",
+          "summary": "友谊也能退款？",
+          "detail": "看到退款的风吹到友谊界，你可以调侃：\"咱俩的友谊要是能退款，我肯定不退，因为你太值了！\"",
+          "usage": "💡 聊天时\n💬 咱俩的友谊要是能退款，我肯定不退，因为你太值了！\n🔥 退款 友谊 幽默",
+          "source": "https://m.baidu.com/s?word=%E9%80%80%E6%AC%BE%E7%9A%84%E9%A3%8E%E7%AB%9F%E7%84%B6%E5%90%B9%E5%88%B0%E4%BA%86%E5%8F%8B%E8%B0%8A%E7%95%8C&sa=fyb_news",
+          "tags": [
+            "退款",
+            "友谊"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-30T16:20:51.654Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2968,
+    "completion_tokens": 2590,
+    "total_tokens": 5558,
+    "cost_usd": 0.0034282962,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 12,
+      "published": 4
+    },
+    "sources": {
+      "per_source": {
+        "baidu": 20
+      },
+      "total": 15
+    }
+  }
+}

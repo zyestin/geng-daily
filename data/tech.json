@@ -5,30 +5,15 @@
       "icon": "📰",
       "items": [
         {
-          "title": "币圈惊魂夜",
-          "summary": "币安被盗58亿美元史上最大黑客攻击",
-          "detail": "北京时间10月30日凌晨，币安遭遇加密史上最大规模黑客攻击，58亿美元不翼而飞。黑客利用智能合约漏洞发起闪电贷攻击，整个过程仅持续20分钟。更讽刺的是，事发时币安CEO赵长鹏正在推特上晒晚餐照片，网友调侃'这顿饭价值50亿美金'。目前币安已暂停所有提现功能。",
-          "usage": "💡 程序员聊系统安全\n💬 '听说币安的智能合约比我的年终奖还脆弱'\n🔥 币安 黑客 赵长鹏",
-          "src_id": 1,
+          "title": "AI跑偏论",
+          "summary": "人民日报警惕中国AI跑偏",
+          "detail": "人民日报发文称，近期有声音质疑中国AI发展跑偏，呼吁警惕这种论调。文章指出，中国AI技术正稳步推进，不应被片面观点误导。家人们谁懂啊，AI跑偏论又来了，这次人民日报都下场了。",
+          "usage": "💡 聊AI发展时\n💬 人民日报都说了，AI跑偏论要警惕\n🔥 AI跑偏 人民日报",
+          "source": "https://www.toutiao.com/trending/7701987261797482550/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701987261797482550%22%2C%22hot_board_impr_id%22%3A%222026103100205247F249695D6AD3A9423F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E8%AD%A6%E6%83%95%E2%80%9C%E4%B8%AD%E5%9B%BDAI%E8%B7%91%E5%81%8F%E8%AE%BA%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7701987261797482550",
           "tags": [
-            "加密货币",
-            "网络安全",
-            "币安"
-          ],
-          "source": "https://www.huxiu.com/article/4901599.html?f=rss"
-        },
-        {
-          "title": "谷歌暴跌",
-          "summary": "Alphabet单日蒸发5000亿美元",
-          "detail": "谷歌母公司Alphabet昨日股价暴跌13%，创2004年上市以来最大单日跌幅，相当于跌掉两个小米集团的市值。导火索是财报显示云业务增速骤降，而隔壁微软Azure还在稳步增长。网友神评：'谷歌搜索框现在最该出现的建议是：如何阻止股价下跌'。皮查伊紧急宣布全公司进入'冲刺状态'。",
-          "usage": "💡 对比云计算三巨头\n💬 '建议谷歌开发股价防跌补丁'\n🔥 谷歌 云计算 股价",
-          "src_id": 5,
-          "tags": [
-            "谷歌",
-            "股市",
-            "云计算"
-          ],
-          "source": "https://www.huxiu.com/article/4901575.html?f=rss"
+            "AI",
+            "人民日报"
+          ]
         }
       ]
     },
@@ -37,30 +22,15 @@
       "icon": "🎤",
       "items": [
         {
-          "title": "马斯克新赌局",
-          "summary": "SpaceX星舰竞速50年前老火箭",
-          "detail": "马斯克发推回应'为何现代火箭比50年前慢'的争议：'我们正在造能装1000人的星际公交车，不是阿波罗时代的跑车'。网友翻出他2012年吹嘘'十年内火星票价50万美元'的旧帖，发现现在连地球轨道游都还没普及。老马立刻回怼：'知道为什么吗？因为该死的监管！'",
-          "usage": "💡 聊马斯克经典跳票\n💬 '马老板的星际巴士还在等OTA升级'\n🔥 马斯克 星舰 NASA",
-          "src_id": 10,
+          "title": "大冰翻红",
+          "summary": "作家大冰否认靠直播翻红",
+          "detail": "作家大冰近日接受采访时表示，自己并非靠直播翻红，而是靠作品赢得读者。他调侃道，直播只是锦上添花，真正让他红的还是那些年的书。家人们谁懂啊，大冰这是在说直播不重要吗？",
+          "usage": "💡 聊作家转型时\n💬 大冰说了，他不是靠直播翻红的\n🔥 大冰 直播 翻红",
+          "source": "https://m.baidu.com/s?word=%E4%BD%9C%E5%AE%B6%E5%A4%A7%E5%86%B0+%E4%B8%8D%E6%98%AF%E9%9D%A0%E7%9B%B4%E6%92%AD%E7%BF%BB%E7%BA%A2&sa=fyb_news",
           "tags": [
-            "马斯克",
-            "SpaceX",
-            "星舰"
-          ],
-          "source": "https://www.huxiu.com/article/4901047.html?f=rss"
-        },
-        {
-          "title": "Kimi三度道歉",
-          "summary": "半年内第三次公开致歉",
-          "detail": "月之暗面Kimi团队又双叒道歉了！这次是因为海外营销被扒出使用AI生成假用户评价，此前还发生过数据偷跑、模型降智等翻车事件。创始人杨植麟每次道歉都写小作文，本次获封'道歉区最卷CEO'。网友锐评：'建议开发个道歉GPT，毕竟刚需'。",
-          "usage": "💡 AI公司公关灾难\n💬 '建议Kimi下次道歉用自己模型生成'\n🔥 Kimi 杨植麟 AI",
-          "src_id": 11,
-          "tags": [
-            "Kimi",
-            "AI",
-            "公关"
-          ],
-          "source": "https://www.huxiu.com/article/4901563.html?f=rss"
+            "大冰",
+            "直播"
+          ]
         }
       ]
     },
@@ -69,30 +39,15 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "短剧屠榜",
-          "summary": "红果日活碾压四大视频平台",
-          "detail": "抖音旗下红果短剧日活1.68亿，已经超过爱优腾芒四大长视频平台日活总和（1.55亿）。但抖音官方连忙表态：'我们不做内容，只是搬运工'。业内人士吐槽：'这就好比说美团不生产外卖，只配送'。现在各平台都在疯狂上马'土味总裁爱上我'剧集，B站up主开始制作《论如何在90秒内演完甄嬛传》。",
-          "usage": "💡 长短视频之争\n💬 '建议爱奇艺改名叫爱短剧'\n🔥 红果 短剧 抖音",
-          "src_id": 3,
+          "title": "DeepSeek Cyber",
+          "summary": "DeepSeek网络安全模型Cyber曝光",
+          "detail": "市场上流传着DeepSeek网络安全模型Cyber的消息。多名技术开发者在DeepSeek官网前端JS中发现Cyber相关入口，社区也流出了灰度状态的测试链接。家人们谁懂啊，DeepSeek这是要搞大事啊！",
+          "usage": "💡 聊网络安全时\n💬 DeepSeek的Cyber模型曝光了\n🔥 DeepSeek Cyber 网络安全",
+          "source": "https://www.huxiu.com/article/4901849.html?f=rss",
           "tags": [
-            "红果",
-            "抖音",
-            "短剧"
-          ],
-          "source": "https://www.huxiu.com/article/4901589.html?f=rss"
-        },
-        {
-          "title": "听花酒专利",
-          "summary": "争议白酒获欧美认证",
-          "detail": "曾因'太上老君托梦'广告被群嘲的听花酒，近日拿下欧美专利局认证的'酒精减害'技术专利。网友发现其专利说明书长达200页，核心结论就一句：'我们的酒喝多了不太伤身'。业内人士表示：'这就像给香烟装过滤嘴然后申请健康专利'。",
-          "usage": "💡 奇葩专利鉴赏\n💬 '建议申请诺贝尔防醉奖'\n🔥 听花酒 专利 白酒",
-          "src_id": 2,
-          "tags": [
-            "听花酒",
-            "专利",
-            "白酒"
-          ],
-          "source": "https://www.huxiu.com/article/4901590.html?f=rss"
+            "DeepSeek",
+            "网络安全"
+          ]
         }
       ]
     },
@@ -101,30 +56,15 @@
       "icon": "🔀",
       "items": [
         {
-          "title": "谷歌急刹车",
-          "summary": "云业务全体进入冲刺状态",
-          "detail": "在创纪录股价暴跌后，皮查伊宣布谷歌云全体员工立即进入'冲刺状态'，取消所有非必要休假。内部邮件显示将重组三个技术团队，但未说明是否裁员。谷歌员工吐槽：'上次说冲刺的是百度自动驾驶部门，然后他们就冲刺进了裁员名单'。",
-          "usage": "💡 大厂组织调整\n💬 '谷歌云的冲刺=阿里的996？'\n🔥 谷歌云 重组 皮查伊",
-          "src_id": 5,
+          "title": "共享儿女",
+          "summary": "街道试点“共享儿女”",
+          "detail": "某街道试点“共享儿女”项目，最低每月199元，旨在解决老年人孤独问题。家人们谁懂啊，这年头连儿女都能共享了！",
+          "usage": "💡 聊养老话题时\n💬 街道试点“共享儿女”，最低199元每月\n🔥 共享儿女 养老",
+          "source": "https://m.baidu.com/s?word=%E8%A1%97%E9%81%93%E8%AF%95%E7%82%B9%E2%80%9C%E5%85%B1%E4%BA%AB%E5%84%BF%E5%A5%B3%E2%80%9D%EF%BC%9A%E6%9C%80%E4%BD%8E199%E5%85%83%E6%AF%8F%E6%9C%88&sa=fyb_news",
           "tags": [
-            "谷歌",
-            "重组",
-            "云计算"
-          ],
-          "source": "https://www.huxiu.com/article/4901575.html?f=rss"
-        },
-        {
-          "title": "迪士尼换帅",
-          "summary": "传奇CEO艾格三度出山",
-          "detail": "迪士尼董事会紧急召回71岁的罗伯特·艾格第三次出任CEO，接替表现不佳的包正博。网友戏称这是'王子复仇记3.0版'，此前艾格分别在2005年和2012年两度临危受命。流媒体业务持续亏损成为导火索，Disney+被调侃是'吞金鼠'。",
-          "usage": "💡 大佬复出潮流\n💬 '建议库克也学习下三进三出'\n🔥 迪士尼 艾格 CEO",
-          "src_id": 0,
-          "tags": [
-            "迪士尼",
-            "CEO",
-            "流媒体"
-          ],
-          "source": ""
+            "共享儿女",
+            "养老"
+          ]
         }
       ]
     },
@@ -133,30 +73,15 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "火箭龟速之谜",
-          "summary": "现代科技跑不过阿波罗",
-          "detail": "NASA最新报告显示，当前最先进的SpaceX星舰速度仍不及50年前的土星五号火箭。专家解释：'现在追求的是可回收和低成本，不是速度'。马斯克反驳称：'用特斯拉和马车比速度公平吗？' 网友补刀：'但您的特斯拉确实经常召回'。",
-          "usage": "💡 科技进步方向\n💬 '建议马斯克先解决地球上的OTA'\n🔥 火箭 星舰 NASA",
-          "src_id": 10,
+          "title": "黄金大跌",
+          "summary": "黄金大跌，铜价创新高",
+          "detail": "近期黄金价格大幅下跌，而铜价却创下新高。分析人士指出，这与全球经济复苏和新能源产业发展密切相关。家人们谁懂啊，黄金不香了，铜才是真香！",
+          "usage": "💡 聊金融市场时\n💬 黄金大跌，铜价创新高\n🔥 黄金 铜价 金融",
+          "source": "https://www.toutiao.com/trending/7701487346830557220/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701487346830557220%22%2C%22hot_board_impr_id%22%3A%222026103100205247F249695D6AD3A9423F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%BB%84%E9%87%91%E5%A4%A7%E8%B7%8C+%E9%93%9C%E4%BB%B7%E4%B8%BA%E4%BD%95%E5%88%9B%E6%96%B0%E9%AB%98%22%7D&rank=&style_id=40132&topic_id=7701487346830557220",
           "tags": [
-            "火箭",
-            "SpaceX",
-            "NASA"
-          ],
-          "source": "https://www.huxiu.com/article/4901047.html?f=rss"
-        },
-        {
-          "title": "生病时长预警",
-          "summary": "多活9年病2年",
-          "detail": "最新研究显示人类预期寿命增加9年，但其中近2年将处于带病状态。科学家解释这是'医疗进步的副作用'。打工人表示：'就是说要多打9年工，其中2年还得带病上岗？' 互联网公司HR已经开始研究'病假GPT'应对未来需求。",
-          "usage": "💡 未来职场健康\n💬 '建议把带病工作写进OKR'\n🔥 寿命 医疗 职场",
-          "src_id": 6,
-          "tags": [
-            "寿命",
-            "医疗",
-            "职场"
-          ],
-          "source": "https://www.huxiu.com/article/4901573.html?f=rss"
+            "黄金",
+            "铜价"
+          ]
         }
       ]
     },
@@ -165,30 +90,15 @@
       "icon": "📱",
       "items": [
         {
-          "title": "抖音造'核弹'",
-          "summary": "红果App日活破纪录",
-          "detail": "抖音悄悄上线的红果短剧App日活突破1.68亿，人均单日使用时长高达72分钟。产品最大的创新是'自动续播下一集'按钮比'退出'按钮大3倍，网友吐槽：'这是电子牢房设计范式'。爱优腾芒现已集体上线'土味剧情生成器'功能反击。",
-          "usage": "💡 沉迷机制设计\n💬 '建议给红果加个保释金功能'\n🔥 红果 抖音 短剧",
-          "src_id": 3,
+          "title": "生娃不花钱",
+          "summary": "全国实现生娃基本不花钱",
+          "detail": "今年全国实现生娃基本不花钱，医保政策全面覆盖，减轻了家庭生育负担。家人们谁懂啊，生娃终于不用花钱了！",
+          "usage": "💡 聊生育政策时\n💬 今年全国实现生娃基本不花钱\n🔥 生娃 医保",
+          "source": "https://www.toutiao.com/trending/7701865571654258218/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701865571654258218%22%2C%22hot_board_impr_id%22%3A%222026103100205247F249695D6AD3A9423F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E5%AE%9E%E7%8E%B0%E7%94%9F%E5%A8%83%E5%9F%BA%E6%9C%AC%E4%B8%8D%E8%8A%B1%E9%92%B1%22%7D&rank=&style_id=40132&topic_id=7701865571654258218",
           "tags": [
-            "红果",
-            "短剧",
-            "抖音"
-          ],
-          "source": "https://www.huxiu.com/article/4901589.html?f=rss"
-        },
-        {
-          "title": "AI白酒开挂",
-          "summary": "听花酒获欧美专利",
-          "detail": "号称用AI配方的听花酒近日获得欧美'酒精减害'专利，其宣传语从'太上老君托梦'升级为'爱因斯坦质能方程'。专利文件显示，该酒能降低52.3%的肝损伤——实验用的是每天只喝1ml的老鼠。网友建议：'下次试试用AI生成临床报告'。",
-          "usage": "💡 科技与传统碰撞\n💬 '建议开发防醉AI眼镜'\n🔥 听花酒 AI 专利",
-          "src_id": 2,
-          "tags": [
-            "听花酒",
-            "AI",
-            "专利"
-          ],
-          "source": "https://www.huxiu.com/article/4901590.html?f=rss"
+            "生娃",
+            "医保"
+          ]
         }
       ]
     },
@@ -197,30 +107,15 @@
       "icon": "🎬",
       "items": [
         {
-          "title": "短剧逆袭记",
-          "summary": "抖音系碾压长视频",
-          "detail": "成立仅3年的红果短剧，用'霸总文学+土味特效'的组合拳，把爱优腾芒这些长视频老贵族打得找不着北。最讽刺的是，这些平台现在纷纷高薪挖角抖音短剧编导，上演现实版'打不过就加入'。业内人士感慨：'这就像麦当劳开始卖煎饼果子'。",
-          "usage": "💡 行业颠覆案例\n💬 '建议优酷改名优短'\n🔥 红果 短剧 抖音",
-          "src_id": 3,
+          "title": "股票群无声",
+          "summary": "股票群再度“鸦雀无声”",
+          "detail": "近期股票市场波动较大，多个股票群再度“鸦雀无声”，投资者纷纷选择观望。家人们谁懂啊，股票群又沉默了！",
+          "usage": "💡 聊股市时\n💬 股票群再度“鸦雀无声”\n🔥 股票群 股市",
+          "source": "https://m.baidu.com/s?word=%E8%82%A1%E7%A5%A8%E7%BE%A4%E5%86%8D%E5%BA%A6%E2%80%9C%E9%B8%A6%E9%9B%80%E6%97%A0%E5%A3%B0%E2%80%9D&sa=fyb_news",
           "tags": [
-            "红果",
-            "短剧",
-            "抖音"
-          ],
-          "source": "https://www.huxiu.com/article/4901589.html?f=rss"
-        },
-        {
-          "title": "Kimi翻车史",
-          "summary": "半年道歉三次的AI公司",
-          "detail": "月之暗面Kimi创造新纪录：半年内为数据偷跑、模型降智、海外造假连发三次道歉信，被网友封为'道歉赛博菩萨'。最绝的是每次道歉都带着产品更新，上演'打一巴掌给个甜枣'的连续剧。投资人表示：'至少他们迭代速度比道德底线下降得快'。",
-          "usage": "💡 AI公司成长烦恼\n💬 '建议他们开发道歉SaaS'\n🔥 Kimi AI 道歉",
-          "src_id": 11,
-          "tags": [
-            "Kimi",
-            "AI",
-            "创业"
-          ],
-          "source": "https://www.huxiu.com/article/4901563.html?f=rss"
+            "股票群",
+            "股市"
+          ]
         }
       ]
     },
@@ -229,53 +124,38 @@
       "icon": "🪙",
       "items": [
         {
-          "title": "币安午夜惊魂",
-          "summary": "58亿美元闪电蒸发",
-          "detail": "币安遭遇加密货币史上最大盗币案，黑客20分钟内搬空58亿美元，期间赵长鹏还在晒美食照片。最骚操作是盗币发生后，平台首先冻结的是普通用户提现而不是黑客地址。币圈老韭菜表示：'这告诉我们一个道理——别把鸡蛋放在一个去中心化的篮子里'。",
-          "usage": "💡 交易所安全话题\n💬 '建议币安改名叫币危'\n🔥 币安 黑客 赵长鹏",
-          "src_id": 1,
+          "title": "乌克兰低头",
+          "summary": "邵永灵：乌克兰低头了",
+          "detail": "邵永灵指出，乌克兰在国际压力下不得不低头，接受某些不利条件。家人们谁懂啊，乌克兰这是扛不住了！",
+          "usage": "💡 聊国际局势时\n💬 邵永灵：乌克兰低头了\n🔥 乌克兰 邵永灵",
+          "source": "https://www.toutiao.com/trending/7702449996901142070/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227702449996901142070%22%2C%22hot_board_impr_id%22%3A%222026103100205247F249695D6AD3A9423F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%82%B5%E6%B0%B8%E7%81%B5%EF%BC%9A%E4%B9%8C%E5%85%8B%E5%85%B0%E4%BD%8E%E5%A4%B4%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7702449996901142070",
           "tags": [
-            "币安",
-            "黑客",
-            "加密货币"
-          ],
-          "source": "https://www.huxiu.com/article/4901599.html?f=rss"
-        },
-        {
-          "title": "孙宇晨蹭热点",
-          "summary": "第一时间表示要援助币安",
-          "detail": "币安被盗后，孙宇晨第一时间发推表示波场愿意提供5亿美元流动性支持，结果被扒出这金额还不到他日常炒作的零头。网友翻出他此前'收购谷歌'的豪言壮语，调侃道：'建议孙哥先把币安买了'。",
-          "usage": "💡 币圈行为艺术\n💬 '建议孙哥开个蹭热点培训班'\n🔥 孙宇晨 波场 币安",
-          "src_id": 0,
-          "tags": [
-            "孙宇晨",
-            "波场",
-            "币安"
-          ],
-          "source": ""
+            "乌克兰",
+            "邵永灵"
+          ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-30T02:52:16.572Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-10-30T16:22:52.944Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 4629,
-    "completion_tokens": 3067,
-    "total_tokens": 7696,
-    "cost_usd": 0.0043465275,
+    "prompt_tokens": 4557,
+    "completion_tokens": 3130,
+    "total_tokens": 7687,
+    "cost_usd": 0.0043928028,
     "free": false,
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 12,
+        "huxiu": 2,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 21
+      "total": 13
     }
   }
 }
