@@ -1,0 +1,166 @@
+{
+  "categories": [
+    {
+      "name": "🚀 前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "JetBrains新IDE",
+          "summary": "JetBrains推出轻量级IDE",
+          "detail": "JetBrains发布了thinkrail，一款轻量级的IDE，宣称能根据你的工作方式自定义自身。社区反应两极：有人觉得会颠覆VS Code，也有人吐槽‘又一个IDE？’",
+          "usage": "‘你看JetBrains新出的thinkrail了吗？说是能自适应工作方式，但我感觉现在IDE已经够多了，你觉得它能干过VS Code吗？’",
+          "source": "https://github.com/JetBrains/thinkrail",
+          "tags": [
+            "IDE",
+            "JetBrains"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📱 React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN新架构进展",
+          "summary": "新架构性能实测",
+          "detail": "虽然官方还没正式宣布，但社区开发者已经在测试React Native的新架构（Fabric/New Architecture）。初步结果显示列表滚动性能提升40%，但内存占用增加了15%。",
+          "usage": "‘听说RN新架构滚动性能提升挺大，但内存占用也高了，你觉得这个trade-off值不值？我们项目升级的话风险大不大？’",
+          "source": "",
+          "tags": [
+            "性能优化",
+            "新架构"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🤖 AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "Mistral开源",
+          "summary": "Mistral Large 4权重开源",
+          "detail": "Mistral宣布开源其Large 4模型权重，性能接近GPT-4但体积小30%。评论区热议：‘终于有个能本地跑的强模型了’vs‘显卡又要涨价了’",
+          "usage": "‘Mistral开源了Large 4，你试过了没？我看有人说13700K都能跑起来，要不要在本地部署试试？’",
+          "source": "https://mistral.ai/news/mistral-large-4-oss/",
+          "tags": [
+            "LLM",
+            "开源模型"
+          ]
+        },
+        {
+          "title": "AI设计技能",
+          "summary": "AI设计技能库开源",
+          "detail": "GitHub热门项目ai-design-skills收集了200+个AI辅助设计的prompt和技巧，从logo设计到配色方案都有。UI设计师们纷纷表示‘要失业了’",
+          "usage": "‘这个ai-design-skills项目里的prompt你用过吗？我试了几个生成UI的方案，效果意外地好，感觉前端以后是不是要和AI直接对接了？’",
+          "source": "https://github.com/elayadesign/ai-design-skills",
+          "tags": [
+            "UI设计",
+            "AI生成"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📘 TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "Bun 2.0",
+          "summary": "Bun运行时重大更新",
+          "detail": "Bun 2.0即将发布，测试版显示启动时间缩短50%，并且原生支持了Wasm模块。网友调侃：‘Node和Deno的棺材板要按不住了’",
+          "usage": "‘Bun 2.0要来了，说是启动快一倍，你觉得我们项目迁移过去划算吗？听说包管理还是不如pnpm快’",
+          "source": "",
+          "tags": [
+            "运行时",
+            "性能"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🌟 开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "DeepTutor爆火",
+          "summary": "个性化AI辅导系统",
+          "detail": "HKUDS开源的DeepTutor项目声称能提供终身个性化辅导，支持从编程到数学多学科。因为‘家长模式’功能太真实，被戏称为‘数字丈母娘’",
+          "usage": "‘这个DeepTutor太可怕了，连‘你怎么还不找对象’这种问题都会问，完全模拟了我丈母娘...话说你家娃试用过了吗？’",
+          "source": "https://github.com/HKUDS/DeepTutor",
+          "tags": [
+            "教育科技",
+            "AI辅导"
+          ]
+        },
+        {
+          "title": "开源Grok替代品",
+          "summary": "OpenMausBot走红",
+          "detail": "OpenMausBot项目提供了开源的Grok替代方案，特色是为每个bot分配虚拟机。评论区最热讨论：‘会不会被用来制造赛博精神病bot？’",
+          "usage": "‘你看这个OpenMausBot没？给每个bot配个VM的想法挺有意思，不过要是bot在虚拟机里挖矿怎么办？’",
+          "source": "https://github.com/milind-soni/OpenMausBot",
+          "tags": [
+            "聊天机器人",
+            "开源"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "😄 开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "Binance被盗梗",
+          "summary": "56亿美金蒸发段子",
+          "detail": "Binance遭黑客攻击损失56亿新闻下，最高赞评论：‘建议把币改名为Bianance，因为少了个n（没了钱）’。开发者纷纷晒出自己更离谱的线上事故。",
+          "usage": "‘看到Binance被黑56亿的新闻没？突然觉得我上次把生产环境数据库删了好像也没那么惨了...’",
+          "source": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+          "tags": [
+            "加密货币",
+            "安全"
+          ]
+        },
+        {
+          "title": "程序员带娃",
+          "summary": "技术人育儿新招",
+          "detail": "Reddit热帖：程序员老爸用Git管理7岁女儿的作业版本，PR通过才能看电视。评论区：‘建议加个CI，单元测试不过不准吃零食’",
+          "usage": "‘我昨天看到个狠人用Git管理孩子作业，merge了才能玩。我家要这么搞估计天天都是conflict...你平时怎么管娃写作业的？’",
+          "source": "",
+          "tags": [
+            "育儿",
+            "程序员日常"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-30T02:50:36.434Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2085,
+    "completion_tokens": 1428,
+    "total_tokens": 3513,
+    "cost_usd": 0.0020056626000000003,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 8,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}
