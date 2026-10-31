@@ -21,6 +21,26 @@
       ]
     },
     {
+      "key": "2026-10-31-parenting-weekend-evening",
+      "date": "2026-10-31",
+      "slot": "parenting-weekend-evening",
+      "slot_label": "周末傍晚 · 家庭闲聊",
+      "generated_at": "2026-10-31T15:39:20.867Z",
+      "weekday": "星期六",
+      "file": "archive/2026-10-31-parenting-weekend-evening.json",
+      "topic_count": 16,
+      "category_names": [
+        "科学奇人",
+        "文人风骨",
+        "兴趣深耕",
+        "思维启蒙",
+        "亲子行动",
+        "育儿心法",
+        "健康食育",
+        "运动启蒙"
+      ]
+    },
+    {
       "key": "2026-10-31-parenting-weekday-evening",
       "date": "2026-10-31",
       "slot": "parenting-weekday-evening",
@@ -1481,5 +1501,5 @@
       ]
     }
   ],
-  "updated_at": "2026-10-31T06:32:47.962Z"
+  "updated_at": "2026-10-31T15:39:20.878Z"
 }

@@ -5,28 +5,30 @@
       "icon": "📰",
       "items": [
         {
-          "title": "英特尔暴跌28%",
-          "summary": "52年来最惨的一天",
-          "detail": "英特尔股价一天暴跌28%，创下52年来最大单日跌幅。原因很简单：在AI算力战场上，现在大家只认英伟达了。'Intel Inside'的时代过去了，现在是'NVIDIA Inside'。",
-          "usage": "💡 同事讨论AI芯片时\n💬 'Intel Inside'现在改叫'NVIDIA Inside'了\n🔥 英特尔 暴跌 AI算力",
-          "source": "https://www.huxiu.com/article/4901903.html?f=rss",
+          "title": "币安63亿异常流出",
+          "summary": "赵长鹏资产异常流出引争议",
+          "detail": "币安创始人赵长鹏昨晚在X平台发长文回应63亿美元资产异常流出事件，称是'系统升级导致的显示错误'。但加密货币社区发现，这笔资金恰好流向了与赵长鹏关系密切的离岸基金，引发'左手倒右手'质疑。最骚的是赵长鹏最后补了句'建议用户提现时选择工作日'，直接把'银行挤兑防御指南'写脸上了。",
+          "usage": "💡 同事聊加密货币时\n💬 赵长鹏这波操作把'技术故障'演成了'资金转移教学'\n🔥 币安 赵长鹏 加密货币",
+          "src_id": 7,
           "tags": [
-            "英特尔",
-            "股价",
-            "AI"
-          ]
+            "币安",
+            "赵长鹏",
+            "加密货币"
+          ],
+          "source": "https://www.huxiu.com/article/4902003.html?f=rss"
         },
         {
-          "title": "盖蒂图片社破产",
-          "summary": "700亿市值归零",
-          "detail": "全球知名的视觉创意公司盖蒂图片社(Getty Images)正式提交破产申请，700亿市值一夜归零。这家老牌巨头从1998年起风光无限，最终还是敌不过免费图库的冲击。",
-          "usage": "💡 讨论行业变迁时\n💬 '空有700亿市值有什么用，还不是被免费图库干趴下了'\n🔥 盖蒂图片社 破产 视觉创意",
-          "source": "https://www.huxiu.com/article/4901908.html?f=rss",
+          "title": "美国政客收买AI",
+          "summary": "竞选团队花钱优化ChatGPT答案",
+          "detail": "路透社曝光美国政客新骚操作：竞选团队正花钱优化ChatGPT回答，确保AI在回答选民问题时优先推荐自家候选人。有团队甚至专门研究'如何让AI在回答环保政策时，把竞争对手名字和石油公司挂钩'。原来AI伦理最大的挑战不是技术失控，是政客的骚主意。",
+          "usage": "💡 聊AI伦理时\n💬 以后ChatGPT推荐候选人可能要标'赞助商内容'了\n🔥 ChatGPT 美国大选 AI伦理",
+          "src_id": 4,
           "tags": [
-            "盖蒂图片社",
-            "破产",
-            "摄影"
-          ]
+            "ChatGPT",
+            "美国大选",
+            "AI伦理"
+          ],
+          "source": "https://www.huxiu.com/article/4902011.html?f=rss"
         }
       ]
     },
@@ -35,28 +37,30 @@
       "icon": "🎤",
       "items": [
         {
-          "title": "普京谈非洲主权",
-          "summary": "台上反殖民台下贪腐",
-          "detail": "普京在俄非峰会上大谈反殖民、非洲主权和平等合作，而联合国报告却揭露了俄罗斯在非洲的贪污腐败行为。这演技，奥斯卡都欠他一个小金人。",
-          "usage": "💡 聊国际新闻时\n💬 '普京这演技，不当演员可惜了'\n🔥 普京 俄非峰会 贪污",
-          "source": "https://www.huxiu.com/article/4901912.html?f=rss",
+          "title": "赵长鹏深夜小作文",
+          "summary": "币安创始人回应资金异常",
+          "detail": "赵长鹏凌晨3点发千字文解释63亿美元资金异常，全文精髓三句话：1.是技术问题 2.我没跑路 3.你们别挤兑。最绝的是文末附了个'如何安全提现'教程，被网友调侃为'币圈防跑路指南'。现在X上最火话题是#赵老师教提现#。",
+          "usage": "💡 看到币圈新闻时\n💬 第一次见CEO教学如何从自己平台跑路的\n🔥 赵长鹏 币安 提现",
+          "src_id": 7,
           "tags": [
-            "普京",
-            "俄非峰会",
-            "贪污"
-          ]
+            "赵长鹏",
+            "币安",
+            "加密货币"
+          ],
+          "source": "https://www.huxiu.com/article/4902003.html?f=rss"
         },
         {
-          "title": "赛力斯又亏了",
-          "summary": "与华为分手后首亏",
-          "detail": "赛力斯与华为宣布调整问界合作分工后，首份财报出炉：销量少了四成，利润去哪了？看来没了华为加持，赛力斯的日子不好过啊。",
-          "usage": "💡 聊车企财报时\n💬 '离了华为，赛力斯连利润都不见了'\n🔥 赛力斯 华为 亏损",
-          "source": "https://www.huxiu.com/article/4901882.html?f=rss",
+          "title": "特朗普科技蹭热点",
+          "summary": "特朗普借科技争议保持热度",
+          "detail": "正面临多项诉讼的特朗普突然在Truth Social发帖称'要收购TikTok对抗扎克伯格'，但法律文件显示他名下基金最近却在增持Meta股票。网友精辟总结：'懂王的商业逻辑就是用左口袋的钱骂右口袋'。",
+          "usage": "💡 聊美国大选时\n💬 特朗普这波是'我打我自己'的科技版\n🔥 特朗普 TikTok Meta",
+          "src_id": 2,
           "tags": [
-            "赛力斯",
-            "华为",
-            "财报"
-          ]
+            "特朗普",
+            "TikTok",
+            "Meta"
+          ],
+          "source": "https://www.huxiu.com/article/4902014.html?f=rss"
         }
       ]
     },
@@ -65,28 +69,30 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "谷歌现金流出问题",
-          "summary": "芯片大客户没钱了",
-          "detail": "谷歌母公司Alphabet三季度财报显示：经营活动带来约423亿美元现金，购置设备和物业却支出约514亿美元，自由现金流为负约91亿美元。看来芯片供应商们要紧张了。",
-          "usage": "💡 讨论大厂财报时\n💬 '连谷歌都开始吃老本了，芯片厂商们的账单谁来付？'\n🔥 谷歌 现金流 芯片",
-          "source": "https://www.huxiu.com/article/4901906.html?f=rss",
+          "title": "比亚迪德国突围",
+          "summary": "中国电车攻入宝马老家",
+          "detail": "比亚迪在慕尼黑宝马总部附近开旗舰店，用'终身免费换电'挖德系车主墙角。最损的是店里放了台拆解的宝马i3，标注'学习对象'。德国网友怒喷'商业间谍'，中国网友回复：'当年你们拆上海牌轿车时怎么说的？'",
+          "usage": "💡 聊国产车出海时\n💬 建议宝马在4S店挂'禁止携带拆解工具'\n🔥 比亚迪 宝马 德国市场",
+          "src_id": 11,
           "tags": [
-            "谷歌",
-            "财报",
-            "芯片"
-          ]
+            "比亚迪",
+            "宝马",
+            "德国市场"
+          ],
+          "source": "https://www.huxiu.com/article/4901989.html?f=rss"
         },
         {
-          "title": "电视行业大变天",
-          "summary": "2.84亿用户受益",
-          "detail": "治理电视收费和操作复杂以来，全国超过2.84亿有线电视和IPTV用户已实现开机看直播、开机广告大幅减少。看来电视行业终于意识到：用户不是傻子。",
-          "usage": "💡 聊智能家居时\n💬 '电视机终于想起来自己是拿来看节目的，不是拿来做广告牌的'\n🔥 电视机 广告 改革",
-          "source": "https://www.huxiu.com/article/4901904.html?f=rss",
+          "title": "字节新专利曝光",
+          "summary": "抖音测试AI换装技术",
+          "detail": "字节跳动最新专利显示正在开发'实时AI换装系统'，用户在直播间看到衣服可直接一键试穿。业内人士吐槽：'终于要解决直播带货最大的痛点——主播穿什么都显瘦的问题了'。",
+          "usage": "💡 聊直播带货时\n💬 以后网红不用减肥了，直接上AI瘦身\n🔥 字节跳动 直播带货 AI换装",
+          "src_id": "",
           "tags": [
-            "电视",
-            "广告",
-            "改革"
-          ]
+            "字节跳动",
+            "直播带货",
+            "AI换装"
+          ],
+          "source": ""
         }
       ]
     },
@@ -95,24 +101,30 @@
       "icon": "🔀",
       "items": [
         {
-          "title": "波兰突发",
-          "summary": "政变还是误报？",
-          "detail": "波兰突发政治动荡，被媒体称为",
-          "usage": "💡 聊到相关内容时切入\n💬 波兰突发\n🔥 热聊",
-          "source": "",
-          "tags": []
+          "title": "大厂裁员转主播",
+          "summary": "39岁程序员转行直播诉苦",
+          "detail": "某大厂十年程序员被裁后转行直播，ID直接改成'38岁被裁靠直播养家'。网友发现其直播间背景总挂着'入职周年庆'纪念牌，堪称最扎心背景布置。目前已有12家MCN排队求签约，证明'悲惨人设才是流量密码'。",
+          "usage": "💡 聊职场危机时\n💬 建议职场纪念品加上'未来直播道具'功能\n🔥 大厂裁员 中年危机 直播",
+          "src_id": 10,
+          "tags": [
+            "大厂裁员",
+            "中年危机",
+            "直播"
+          ],
+          "source": "https://www.huxiu.com/article/4901996.html?f=rss"
         },
         {
-          "title": "华人富二代家办崩盘",
-          "summary": "欠债4380万澳元",
-          "detail": "一家号称背靠中国亿万富豪家族与悉尼地产豪门的联合家族办公室Initium Capital，在一系列高风险投资后崩盘，留下超过4380万澳元债务。看来富二代也不是稳赚不赔。",
-          "usage": "💡 聊投资失败案例时\n💬 '又一个富二代证明：钱多不等于会投资'\n🔥 家族办公室 崩盘 富二代",
-          "source": "https://www.huxiu.com/article/4901902.html?f=rss",
+          "title": "芯片行业抢人大战",
+          "summary": "六家半导体公司同日招股",
+          "detail": "宏芯宇、登临科技等6家芯片公司同日在港股启动招股，合计募资超百亿。但打新热度明显下降，网友吐槽：'去年是芯片股，今年是芯片赌，散户终于学会看财报里的期货两个字了'。",
+          "usage": "💡 聊半导体投资时\n💬 半导体公司招股书应该增加'预计跳票次数'栏目\n🔥 芯片股 港股 打新",
+          "src_id": 1,
           "tags": [
-            "家族办公室",
-            "崩盘",
-            "投资"
-          ]
+            "芯片股",
+            "港股",
+            "打新"
+          ],
+          "source": "https://www.huxiu.com/article/4902015.html?f=rss"
         }
       ]
     },
@@ -121,28 +133,30 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "中国人登月计划",
-          "summary": "官方首次确认",
-          "detail": "官方首次披露：将有两名中国人登陆月球。中国人终于要实现在月球上捡垃圾的梦想了！",
-          "usage": "💡 聊航天计划时\n💬 '以后月球上的垃圾终于有中国制造了'\n🔥 登月 中国 航天",
-          "source": "https://www.toutiao.com/trending/7702661932407128127/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227702661932407128127%22%2C%22hot_board_impr_id%22%3A%2220261031143625A56D54B0C0A54A9A5DD9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AE%98%E6%96%B9%E6%8A%AB%E9%9C%B2%EF%BC%9A%E5%B0%86%E6%9C%89%E4%B8%A4%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%99%BB%E9%99%86%E6%9C%88%E7%90%83%22%7D&rank=&style_id=40132&topic_id=7702661932407128127",
+          "title": "宠物克隆天价",
+          "summary": "15万天价守宫引发热议",
+          "detail": "爬宠市场惊现15万元一只的豹纹守宫，卖家宣称'带赛级基因证书'。动保组织调查发现，所谓'稀有血统'实为近亲繁殖产物。网友神评：'这价格够买一平方米北京学区房了，请问守宫能帮忙带孩子写作业吗？'",
+          "usage": "💡 聊奇葩消费时\n💬 建议学区房按守宫尺寸计价\n🔥 天价宠物 豹纹守宫 爬宠市场",
+          "src_id": 5,
           "tags": [
-            "登月",
-            "中国",
-            "航天"
-          ]
+            "天价宠物",
+            "豹纹守宫",
+            "爬宠市场"
+          ],
+          "source": "https://www.huxiu.com/article/4902010.html?f=rss"
         },
         {
-          "title": "AI混进学术圈",
-          "summary": "假装学者发邮件",
-          "detail": "一个自称Velvet Vale的AI账号给互联网研究者协会的邮件讨论组发了封自我介绍，向7500多名订阅者打招呼。人类学者第一反应是：查TA学历！",
-          "usage": "💡 聊AI应用时\n💬 'AI现在都会发学术邮件了，下一步是不是要评教授？'\n🔥 AI 学术圈 伪装",
-          "source": "https://www.huxiu.com/article/4901889.html?f=rss",
+          "title": "帆船赛商业奇迹",
+          "summary": "170年亏钱赛事突然盈利",
+          "detail": "办了170年都没赚到钱的美洲杯帆船赛，今年一支队伍卖出1亿赞助费。秘诀是队长把'船上WiFi密码'作为赞助商权益，让观众全程直播带货。原来不是运动不赚钱，是老祖宗没想到能边比赛边卖鲨鱼裤。",
+          "usage": "💡 聊体育商业化时\n💬 建议国足把'失误集锦'做成NFT\n🔥 美洲杯 体育商业 赞助",
+          "src_id": 6,
           "tags": [
-            "AI",
-            "学术圈",
-            "伪装"
-          ]
+            "美洲杯",
+            "体育商业",
+            "赞助"
+          ],
+          "source": "https://www.huxiu.com/article/4902007.html?f=rss"
         }
       ]
     },
@@ -151,16 +165,30 @@
       "icon": "📱",
       "items": [
         {
-          "title": "快剪店走红",
-          "summary": "10元剪发成潮流",
-          "detail": "大批传统理发店关停，10元快剪店却意外走红。看来在经济下行期，人们对Tony老师的爱也是有价格的。",
-          "usage": "💡 聊消费降级时\n💬 '10块钱剪个头发，连洗头的资格都没有'\n🔥 理发 快剪 消费降级",
-          "source": "https://www.toutiao.com/trending/7701882093835534390/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701882093835534390%22%2C%22hot_board_impr_id%22%3A%2220261031143625A56D54B0C0A54A9A5DD9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%A7%E6%89%B9%E7%90%86%E5%8F%91%E5%BA%97%E5%85%B3%E5%81%9C10%E5%85%83%E5%BF%AB%E5%89%AA%E8%B5%B0%E7%BA%A2%22%7D&rank=&style_id=40132&topic_id=7701882093835534390",
+          "title": "蜜丸检出镇痛药",
+          "summary": "天价保健品翻车现场",
+          "detail": "2388元/盒的'宫廷蜜丸'被检出违禁镇痛药，厂家辩称'祖传秘方需要这味药引'。网友扒出其淘宝店把商品名从'养生丸'火速改成'外用敷贴'，堪称最灵活的保健品定义。",
+          "usage": "💡 聊保健品乱象时\n💬 建议在药盒标注'内含惊喜盲盒'\n🔥 保健品 造假 宫廷秘方",
+          "src_id": 15,
           "tags": [
-            "理发",
-            "快剪",
-            "消费"
-          ]
+            "保健品",
+            "造假",
+            "宫廷秘方"
+          ],
+          "source": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%EF%BC%9A2388%E5%85%83%E7%9A%84%E8%9C%9C%E4%B8%B8%E6%A3%80%E5%87%BA%E9%95%87%E7%97%9B%E8%8D%AF&sa=fyb_news"
+        },
+        {
+          "title": "始祖鸟烟花后续",
+          "summary": "高原秀一年后草还没长好",
+          "detail": "去年始祖鸟在青藏高原放烟花搞营销，现在被曝草场恢复不足预期。最绝的是品牌最新广告语改成了'让高山休息'，网友吐槽：'去年炸山今年养山，营销部怕是换了批菩萨'。",
+          "usage": "💡 聊品牌翻车时\n💬 建议下次环保营销直接播纪录片\n🔥 始祖鸟 环保营销 品牌翻车",
+          "src_id": 12,
+          "tags": [
+            "始祖鸟",
+            "环保营销",
+            "品牌翻车"
+          ],
+          "source": "https://www.huxiu.com/article/4901988.html?f=rss"
         }
       ]
     },
@@ -169,36 +197,30 @@
       "icon": "🎬",
       "items": [
         {
-          "title": "暴富梦5天破灭",
-          "summary": "年轻人的NFT惨剧",
-          "detail": "上周，一套NFT让一群年轻人做起了暴富梦，结果不到5天就梦碎。这速度，比P2P暴雷还快。",
-          "usage": "💡 聊投资泡沫时\n💬 '现在的年轻人，暴富梦做得快，破灭得更快'\n🔥 NFT 暴富 泡沫",
-          "source": "https://www.huxiu.com/article/4901533.html?f=rss",
+          "title": "董明珠接班人翻车",
+          "summary": "孟羽童直播带货遇冷",
+          "detail": "曾被董明珠钦定为接班人的孟羽童，创业直播首秀观看不足2万。网友发现其选品包括'格力竞品空调'，调侃'这波是商战剧变宫斗剧'。现在最紧张的是格力公关部，不知道该夸'有竞品意识'还是骂'叛徒'。",
+          "usage": "💡 聊企业家接班人时\n💬 建议职场剧改名《我的老板叫董明珠》\n🔥 孟羽童 董明珠 直播带货",
+          "src_id": "",
           "tags": [
-            "NFT",
-            "暴富",
-            "泡沫"
-          ]
+            "孟羽童",
+            "董明珠",
+            "直播带货"
+          ],
+          "source": ""
         },
         {
-          "title": "Offer8停更",
-          "summary": "职场综艺翻车",
-          "detail": "《令人心动的offer》第8季因实习生李子祺",
-          "usage": "💡 聊到相关内容时切入\n💬 Offer8停更\n🔥 热聊",
-          "source": "https://www.huxiu.com/article/4901901.html?f=rss",
-          "tags": []
-        },
-        {
-          "title": "赛力斯亏损",
-          "summary": "分手华为首亏",
-          "detail": "赛力斯与华为宣布调整问界合作分工后，首份财报显示销量少了四成。看来华为的光环效应真的强大。",
-          "usage": "💡 聊车企财报时\n💬 '离了华为，赛力斯连利润都不见了'\n🔥 赛力斯 华为 亏损",
-          "source": "https://www.huxiu.com/article/4901882.html?f=rss",
+          "title": "AI公司董事内斗",
+          "summary": "三季报遭自家董事反对",
+          "detail": "11家A股公司发布三季报时出现董事投反对票奇观，最刚的是某AI公司独董直接写'反对理由：吹牛部分占比过高'。网友建议财报应该分'科幻章节'和'现实章节'方便区分。",
+          "usage": "💡 聊上市公司财报时\n💬 建议AI公司财报加个'本故事纯属虚构'\n🔥 财报造假 董事反对 AI公司",
+          "src_id": 3,
           "tags": [
-            "赛力斯",
-            "华为",
-            "财报"
-          ]
+            "财报造假",
+            "董事反对",
+            "AI公司"
+          ],
+          "source": "https://www.huxiu.com/article/4902013.html?f=rss"
         }
       ]
     },
@@ -207,30 +229,44 @@
       "icon": "🪙",
       "items": [
         {
-          "title": "NFT泡沫破灭",
-          "summary": "暴富梦5天结束",
-          "detail": "一群年轻人上周还做着NFT暴富梦，结果不到5天就梦碎。这速度，比特斯拉降价还快。",
-          "usage": "💡 聊投资泡沫时\n💬 '现在的年轻人，暴富梦做得快，破灭得更快'\n🔥 NFT 暴富 泡沫",
-          "source": "https://www.huxiu.com/article/4901533.html?f=rss",
+          "title": "币安资金异常",
+          "summary": "63亿美元去向成谜",
+          "detail": "币安63亿美元资产异常转移引发挤兑担忧，赵长鹏解释是'显示错误'，但链上数据显示资金确实流向了开曼群岛空壳公司。币圈老人感慨：'以前是'not your keys', 现在是'not your coins'。",
+          "usage": "💡 聊加密货币风险时\n💬 建议交易所把余额显示改成'仅供参考'\n🔥 币安 赵长鹏 资金异常",
+          "src_id": 7,
           "tags": [
-            "NFT",
-            "暴富",
-            "泡沫"
-          ]
+            "币安",
+            "赵长鹏",
+            "资金异常"
+          ],
+          "source": "https://www.huxiu.com/article/4902003.html?f=rss"
+        },
+        {
+          "title": "比特币",
+          "summary": "特朗普左右互搏",
+          "detail": "特朗普一边声称'要收购TikTok对抗扎克伯格'，一边秘密增持Meta股票。加密社区发现其钱包地址同时持有大量比特币，总结出'懂王三件套：骂所有平台，买所有股票，持所有币'。",
+          "usage": "💡 聊政客投资时\n💬 建议给特朗普钱包改名叫'对冲基金一号'\n🔥 特朗普 加密货币 左右互搏",
+          "src_id": 2,
+          "tags": [
+            "特朗普",
+            "加密货币",
+            "左右互搏"
+          ],
+          "source": "https://www.huxiu.com/article/4902014.html?f=rss"
         }
       ]
     }
   ],
-  "generated_at": "2026-10-31T06:37:45.552Z",
-  "slot": "weekend-morning",
-  "slot_label": "周末早晨 · 家庭时光",
+  "generated_at": "2026-10-31T15:44:36.220Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 5561,
-    "completion_tokens": 3006,
-    "total_tokens": 8567,
-    "cost_usd": 0.0045236736,
+    "prompt_tokens": 5674,
+    "completion_tokens": 2807,
+    "total_tokens": 8481,
+    "cost_usd": 0.0043480485,
     "free": false,
     "sources": {
       "per_source": {
