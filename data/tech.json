@@ -5,14 +5,27 @@
       "icon": "📰",
       "items": [
         {
-          "title": "AI跑偏论",
-          "summary": "人民日报警惕中国AI跑偏",
-          "detail": "人民日报发文称，近期有声音质疑中国AI发展跑偏，呼吁警惕这种论调。文章指出，中国AI技术正稳步推进，不应被片面观点误导。家人们谁懂啊，AI跑偏论又来了，这次人民日报都下场了。",
-          "usage": "💡 聊AI发展时\n💬 人民日报都说了，AI跑偏论要警惕\n🔥 AI跑偏 人民日报",
-          "source": "https://www.toutiao.com/trending/7701987261797482550/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701987261797482550%22%2C%22hot_board_impr_id%22%3A%222026103100205247F249695D6AD3A9423F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E8%AD%A6%E6%83%95%E2%80%9C%E4%B8%AD%E5%9B%BDAI%E8%B7%91%E5%81%8F%E8%AE%BA%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7701987261797482550",
+          "title": "英特尔暴跌28%",
+          "summary": "52年来最惨的一天",
+          "detail": "英特尔股价一天暴跌28%，创下52年来最大单日跌幅。原因很简单：在AI算力战场上，现在大家只认英伟达了。'Intel Inside'的时代过去了，现在是'NVIDIA Inside'。",
+          "usage": "💡 同事讨论AI芯片时\n💬 'Intel Inside'现在改叫'NVIDIA Inside'了\n🔥 英特尔 暴跌 AI算力",
+          "source": "https://www.huxiu.com/article/4901903.html?f=rss",
           "tags": [
-            "AI",
-            "人民日报"
+            "英特尔",
+            "股价",
+            "AI"
+          ]
+        },
+        {
+          "title": "盖蒂图片社破产",
+          "summary": "700亿市值归零",
+          "detail": "全球知名的视觉创意公司盖蒂图片社(Getty Images)正式提交破产申请，700亿市值一夜归零。这家老牌巨头从1998年起风光无限，最终还是敌不过免费图库的冲击。",
+          "usage": "💡 讨论行业变迁时\n💬 '空有700亿市值有什么用，还不是被免费图库干趴下了'\n🔥 盖蒂图片社 破产 视觉创意",
+          "source": "https://www.huxiu.com/article/4901908.html?f=rss",
+          "tags": [
+            "盖蒂图片社",
+            "破产",
+            "摄影"
           ]
         }
       ]
@@ -22,14 +35,27 @@
       "icon": "🎤",
       "items": [
         {
-          "title": "大冰翻红",
-          "summary": "作家大冰否认靠直播翻红",
-          "detail": "作家大冰近日接受采访时表示，自己并非靠直播翻红，而是靠作品赢得读者。他调侃道，直播只是锦上添花，真正让他红的还是那些年的书。家人们谁懂啊，大冰这是在说直播不重要吗？",
-          "usage": "💡 聊作家转型时\n💬 大冰说了，他不是靠直播翻红的\n🔥 大冰 直播 翻红",
-          "source": "https://m.baidu.com/s?word=%E4%BD%9C%E5%AE%B6%E5%A4%A7%E5%86%B0+%E4%B8%8D%E6%98%AF%E9%9D%A0%E7%9B%B4%E6%92%AD%E7%BF%BB%E7%BA%A2&sa=fyb_news",
+          "title": "普京谈非洲主权",
+          "summary": "台上反殖民台下贪腐",
+          "detail": "普京在俄非峰会上大谈反殖民、非洲主权和平等合作，而联合国报告却揭露了俄罗斯在非洲的贪污腐败行为。这演技，奥斯卡都欠他一个小金人。",
+          "usage": "💡 聊国际新闻时\n💬 '普京这演技，不当演员可惜了'\n🔥 普京 俄非峰会 贪污",
+          "source": "https://www.huxiu.com/article/4901912.html?f=rss",
           "tags": [
-            "大冰",
-            "直播"
+            "普京",
+            "俄非峰会",
+            "贪污"
+          ]
+        },
+        {
+          "title": "赛力斯又亏了",
+          "summary": "与华为分手后首亏",
+          "detail": "赛力斯与华为宣布调整问界合作分工后，首份财报出炉：销量少了四成，利润去哪了？看来没了华为加持，赛力斯的日子不好过啊。",
+          "usage": "💡 聊车企财报时\n💬 '离了华为，赛力斯连利润都不见了'\n🔥 赛力斯 华为 亏损",
+          "source": "https://www.huxiu.com/article/4901882.html?f=rss",
+          "tags": [
+            "赛力斯",
+            "华为",
+            "财报"
           ]
         }
       ]
@@ -39,14 +65,27 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "DeepSeek Cyber",
-          "summary": "DeepSeek网络安全模型Cyber曝光",
-          "detail": "市场上流传着DeepSeek网络安全模型Cyber的消息。多名技术开发者在DeepSeek官网前端JS中发现Cyber相关入口，社区也流出了灰度状态的测试链接。家人们谁懂啊，DeepSeek这是要搞大事啊！",
-          "usage": "💡 聊网络安全时\n💬 DeepSeek的Cyber模型曝光了\n🔥 DeepSeek Cyber 网络安全",
-          "source": "https://www.huxiu.com/article/4901849.html?f=rss",
+          "title": "谷歌现金流出问题",
+          "summary": "芯片大客户没钱了",
+          "detail": "谷歌母公司Alphabet三季度财报显示：经营活动带来约423亿美元现金，购置设备和物业却支出约514亿美元，自由现金流为负约91亿美元。看来芯片供应商们要紧张了。",
+          "usage": "💡 讨论大厂财报时\n💬 '连谷歌都开始吃老本了，芯片厂商们的账单谁来付？'\n🔥 谷歌 现金流 芯片",
+          "source": "https://www.huxiu.com/article/4901906.html?f=rss",
           "tags": [
-            "DeepSeek",
-            "网络安全"
+            "谷歌",
+            "财报",
+            "芯片"
+          ]
+        },
+        {
+          "title": "电视行业大变天",
+          "summary": "2.84亿用户受益",
+          "detail": "治理电视收费和操作复杂以来，全国超过2.84亿有线电视和IPTV用户已实现开机看直播、开机广告大幅减少。看来电视行业终于意识到：用户不是傻子。",
+          "usage": "💡 聊智能家居时\n💬 '电视机终于想起来自己是拿来看节目的，不是拿来做广告牌的'\n🔥 电视机 广告 改革",
+          "source": "https://www.huxiu.com/article/4901904.html?f=rss",
+          "tags": [
+            "电视",
+            "广告",
+            "改革"
           ]
         }
       ]
@@ -56,14 +95,23 @@
       "icon": "🔀",
       "items": [
         {
-          "title": "共享儿女",
-          "summary": "街道试点“共享儿女”",
-          "detail": "某街道试点“共享儿女”项目，最低每月199元，旨在解决老年人孤独问题。家人们谁懂啊，这年头连儿女都能共享了！",
-          "usage": "💡 聊养老话题时\n💬 街道试点“共享儿女”，最低199元每月\n🔥 共享儿女 养老",
-          "source": "https://m.baidu.com/s?word=%E8%A1%97%E9%81%93%E8%AF%95%E7%82%B9%E2%80%9C%E5%85%B1%E4%BA%AB%E5%84%BF%E5%A5%B3%E2%80%9D%EF%BC%9A%E6%9C%80%E4%BD%8E199%E5%85%83%E6%AF%8F%E6%9C%88&sa=fyb_news",
+          "title": "波兰突发",
+          "summary": "政变还是误报？",
+          "detail": "波兰突发政治动荡，被媒体称为",
+          "usage": "💡 聊到相关内容时切入\n💬 波兰突发\n🔥 热聊",
+          "source": "",
+          "tags": []
+        },
+        {
+          "title": "华人富二代家办崩盘",
+          "summary": "欠债4380万澳元",
+          "detail": "一家号称背靠中国亿万富豪家族与悉尼地产豪门的联合家族办公室Initium Capital，在一系列高风险投资后崩盘，留下超过4380万澳元债务。看来富二代也不是稳赚不赔。",
+          "usage": "💡 聊投资失败案例时\n💬 '又一个富二代证明：钱多不等于会投资'\n🔥 家族办公室 崩盘 富二代",
+          "source": "https://www.huxiu.com/article/4901902.html?f=rss",
           "tags": [
-            "共享儿女",
-            "养老"
+            "家族办公室",
+            "崩盘",
+            "投资"
           ]
         }
       ]
@@ -73,14 +121,27 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "黄金大跌",
-          "summary": "黄金大跌，铜价创新高",
-          "detail": "近期黄金价格大幅下跌，而铜价却创下新高。分析人士指出，这与全球经济复苏和新能源产业发展密切相关。家人们谁懂啊，黄金不香了，铜才是真香！",
-          "usage": "💡 聊金融市场时\n💬 黄金大跌，铜价创新高\n🔥 黄金 铜价 金融",
-          "source": "https://www.toutiao.com/trending/7701487346830557220/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701487346830557220%22%2C%22hot_board_impr_id%22%3A%222026103100205247F249695D6AD3A9423F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%BB%84%E9%87%91%E5%A4%A7%E8%B7%8C+%E9%93%9C%E4%BB%B7%E4%B8%BA%E4%BD%95%E5%88%9B%E6%96%B0%E9%AB%98%22%7D&rank=&style_id=40132&topic_id=7701487346830557220",
+          "title": "中国人登月计划",
+          "summary": "官方首次确认",
+          "detail": "官方首次披露：将有两名中国人登陆月球。中国人终于要实现在月球上捡垃圾的梦想了！",
+          "usage": "💡 聊航天计划时\n💬 '以后月球上的垃圾终于有中国制造了'\n🔥 登月 中国 航天",
+          "source": "https://www.toutiao.com/trending/7702661932407128127/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227702661932407128127%22%2C%22hot_board_impr_id%22%3A%2220261031143625A56D54B0C0A54A9A5DD9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AE%98%E6%96%B9%E6%8A%AB%E9%9C%B2%EF%BC%9A%E5%B0%86%E6%9C%89%E4%B8%A4%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%99%BB%E9%99%86%E6%9C%88%E7%90%83%22%7D&rank=&style_id=40132&topic_id=7702661932407128127",
           "tags": [
-            "黄金",
-            "铜价"
+            "登月",
+            "中国",
+            "航天"
+          ]
+        },
+        {
+          "title": "AI混进学术圈",
+          "summary": "假装学者发邮件",
+          "detail": "一个自称Velvet Vale的AI账号给互联网研究者协会的邮件讨论组发了封自我介绍，向7500多名订阅者打招呼。人类学者第一反应是：查TA学历！",
+          "usage": "💡 聊AI应用时\n💬 'AI现在都会发学术邮件了，下一步是不是要评教授？'\n🔥 AI 学术圈 伪装",
+          "source": "https://www.huxiu.com/article/4901889.html?f=rss",
+          "tags": [
+            "AI",
+            "学术圈",
+            "伪装"
           ]
         }
       ]
@@ -90,14 +151,15 @@
       "icon": "📱",
       "items": [
         {
-          "title": "生娃不花钱",
-          "summary": "全国实现生娃基本不花钱",
-          "detail": "今年全国实现生娃基本不花钱，医保政策全面覆盖，减轻了家庭生育负担。家人们谁懂啊，生娃终于不用花钱了！",
-          "usage": "💡 聊生育政策时\n💬 今年全国实现生娃基本不花钱\n🔥 生娃 医保",
-          "source": "https://www.toutiao.com/trending/7701865571654258218/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701865571654258218%22%2C%22hot_board_impr_id%22%3A%222026103100205247F249695D6AD3A9423F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BB%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E5%AE%9E%E7%8E%B0%E7%94%9F%E5%A8%83%E5%9F%BA%E6%9C%AC%E4%B8%8D%E8%8A%B1%E9%92%B1%22%7D&rank=&style_id=40132&topic_id=7701865571654258218",
+          "title": "快剪店走红",
+          "summary": "10元剪发成潮流",
+          "detail": "大批传统理发店关停，10元快剪店却意外走红。看来在经济下行期，人们对Tony老师的爱也是有价格的。",
+          "usage": "💡 聊消费降级时\n💬 '10块钱剪个头发，连洗头的资格都没有'\n🔥 理发 快剪 消费降级",
+          "source": "https://www.toutiao.com/trending/7701882093835534390/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227701882093835534390%22%2C%22hot_board_impr_id%22%3A%2220261031143625A56D54B0C0A54A9A5DD9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%A7%E6%89%B9%E7%90%86%E5%8F%91%E5%BA%97%E5%85%B3%E5%81%9C10%E5%85%83%E5%BF%AB%E5%89%AA%E8%B5%B0%E7%BA%A2%22%7D&rank=&style_id=40132&topic_id=7701882093835534390",
           "tags": [
-            "生娃",
-            "医保"
+            "理发",
+            "快剪",
+            "消费"
           ]
         }
       ]
@@ -107,14 +169,35 @@
       "icon": "🎬",
       "items": [
         {
-          "title": "股票群无声",
-          "summary": "股票群再度“鸦雀无声”",
-          "detail": "近期股票市场波动较大，多个股票群再度“鸦雀无声”，投资者纷纷选择观望。家人们谁懂啊，股票群又沉默了！",
-          "usage": "💡 聊股市时\n💬 股票群再度“鸦雀无声”\n🔥 股票群 股市",
-          "source": "https://m.baidu.com/s?word=%E8%82%A1%E7%A5%A8%E7%BE%A4%E5%86%8D%E5%BA%A6%E2%80%9C%E9%B8%A6%E9%9B%80%E6%97%A0%E5%A3%B0%E2%80%9D&sa=fyb_news",
+          "title": "暴富梦5天破灭",
+          "summary": "年轻人的NFT惨剧",
+          "detail": "上周，一套NFT让一群年轻人做起了暴富梦，结果不到5天就梦碎。这速度，比P2P暴雷还快。",
+          "usage": "💡 聊投资泡沫时\n💬 '现在的年轻人，暴富梦做得快，破灭得更快'\n🔥 NFT 暴富 泡沫",
+          "source": "https://www.huxiu.com/article/4901533.html?f=rss",
           "tags": [
-            "股票群",
-            "股市"
+            "NFT",
+            "暴富",
+            "泡沫"
+          ]
+        },
+        {
+          "title": "Offer8停更",
+          "summary": "职场综艺翻车",
+          "detail": "《令人心动的offer》第8季因实习生李子祺",
+          "usage": "💡 聊到相关内容时切入\n💬 Offer8停更\n🔥 热聊",
+          "source": "https://www.huxiu.com/article/4901901.html?f=rss",
+          "tags": []
+        },
+        {
+          "title": "赛力斯亏损",
+          "summary": "分手华为首亏",
+          "detail": "赛力斯与华为宣布调整问界合作分工后，首份财报显示销量少了四成。看来华为的光环效应真的强大。",
+          "usage": "💡 聊车企财报时\n💬 '离了华为，赛力斯连利润都不见了'\n🔥 赛力斯 华为 亏损",
+          "source": "https://www.huxiu.com/article/4901882.html?f=rss",
+          "tags": [
+            "赛力斯",
+            "华为",
+            "财报"
           ]
         }
       ]
@@ -124,38 +207,39 @@
       "icon": "🪙",
       "items": [
         {
-          "title": "乌克兰低头",
-          "summary": "邵永灵：乌克兰低头了",
-          "detail": "邵永灵指出，乌克兰在国际压力下不得不低头，接受某些不利条件。家人们谁懂啊，乌克兰这是扛不住了！",
-          "usage": "💡 聊国际局势时\n💬 邵永灵：乌克兰低头了\n🔥 乌克兰 邵永灵",
-          "source": "https://www.toutiao.com/trending/7702449996901142070/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227702449996901142070%22%2C%22hot_board_impr_id%22%3A%222026103100205247F249695D6AD3A9423F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%82%B5%E6%B0%B8%E7%81%B5%EF%BC%9A%E4%B9%8C%E5%85%8B%E5%85%B0%E4%BD%8E%E5%A4%B4%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7702449996901142070",
+          "title": "NFT泡沫破灭",
+          "summary": "暴富梦5天结束",
+          "detail": "一群年轻人上周还做着NFT暴富梦，结果不到5天就梦碎。这速度，比特斯拉降价还快。",
+          "usage": "💡 聊投资泡沫时\n💬 '现在的年轻人，暴富梦做得快，破灭得更快'\n🔥 NFT 暴富 泡沫",
+          "source": "https://www.huxiu.com/article/4901533.html?f=rss",
           "tags": [
-            "乌克兰",
-            "邵永灵"
+            "NFT",
+            "暴富",
+            "泡沫"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-30T16:22:52.944Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-10-31T06:37:45.552Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 4557,
-    "completion_tokens": 3130,
-    "total_tokens": 7687,
-    "cost_usd": 0.0043928028,
+    "prompt_tokens": 5561,
+    "completion_tokens": 3006,
+    "total_tokens": 8567,
+    "cost_usd": 0.0045236736,
     "free": false,
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 2,
+        "huxiu": 12,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 13
+      "total": 23
     }
   }
 }

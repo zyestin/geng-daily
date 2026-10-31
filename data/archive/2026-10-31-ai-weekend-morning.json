@@ -1,0 +1,263 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "AI 数据中心的 Nvidia 背书",
+          "summary": "Nvidia 为 West Virginia 的 AI 数据中心背书",
+          "detail": "Nvidia 正在考虑为 Nscale 在 West Virginia 的 AI 数据中心提供背书，这在投资者对 AI 支出感到紧张的情况下，无疑是一剂强心针。Nvidia 的芯片是 AI 数据中心的基石，这一背书不仅增强了投资者的信心，也预示着 AI 基础设施的进一步扩展。",
+          "usage": "💡 聊到 AI 基础设施投资时 \n💬 Nvidia 为 Nscale 的 AI 数据中心背书，这下投资者可以放心了 \n🔥 Nvidia AI数据中心 投资",
+          "source": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+          "tags": [
+            "Nvidia",
+            "数据中心",
+            "投资"
+          ]
+        },
+        {
+          "title": "Intel 股价大跳水",
+          "summary": "Intel 股价暴跌，损失 120 亿美元",
+          "detail": "Intel 的股价在 AI 行业吞噬内存和其他 PC 组件的背景下暴跌，导致政府持有的股份损失了 120 亿美元。这一事件凸显了 AI 行业对传统 PC 市场的冲击，也让人对 Intel 的未来战略产生了疑问。",
+          "usage": "💡 聊到 AI 对传统行业的影响时 \n💬 Intel 股价暴跌，AI 行业吞噬 PC 市场，这下 Intel 压力山大 \n🔥 Intel 股价 AI行业",
+          "source": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+          "tags": [
+            "Intel",
+            "股价",
+            "AI行业"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "OpenAI 更新 Model Spec",
+          "summary": "OpenAI 更新 Model Spec，指导 AI 决策",
+          "detail": "OpenAI 更新了 Model Spec，概述了五个核心价值，以指导更具能力的 AI 做出合理决策。这一更新不仅提升了 AI 的决策能力，也为其在复杂场景中的应用铺平了道路。",
+          "usage": "💡 聊到 AI 决策能力时 \n💬 OpenAI 更新 Model Spec，这下 AI 决策更靠谱了 \n🔥 OpenAI ModelSpec 决策",
+          "source": "https://openai.com/index/updated-model-spec",
+          "tags": [
+            "OpenAI",
+            "ModelSpec",
+            "决策"
+          ]
+        },
+        {
+          "title": "Zest 新 AI 助手",
+          "summary": "Zest 发布 AI 助手，预订餐厅",
+          "detail": "Zest 发布了新的 AI 助手，能够通过文本帮助用户找到餐厅并预订。这一功能结合了每个人的口味，提供了餐厅选择，极大地方便了用户的餐饮决策。",
+          "usage": "💡 聊到 AI 助手时 \n💬 Zest 新 AI 助手，帮你找到最适合的餐厅 \n🔥 Zest AI助手 餐厅预订",
+          "source": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "tags": [
+            "Zest",
+            "AI助手",
+            "餐厅预订"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "Tyler Shultz 警告 AI 热潮",
+          "summary": "Theranos 举报人警告 AI 热潮",
+          "detail": "Theranos 举报人 Tyler Shultz 警告称，AI 热潮是一个欺骗人们的大好机会。他以 Theranos 的教训为例，提醒大家在 AI 时代要警惕那些从未盈利过的公司。",
+          "usage": "💡 聊到 AI 热潮时 \n💬 Tyler Shultz 警告：AI 热潮是大好机会去欺骗人 \n🔥 AI热潮 TylerShultz 警告",
+          "source": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+          "tags": [
+            "AI热潮",
+            "TylerShultz",
+            "警告"
+          ]
+        },
+        {
+          "title": "OpenAI 分享公平使用案例",
+          "summary": "OpenAI 分享公平使用案例",
+          "detail": "OpenAI 分享了由创作者、学者、无障碍倡导者和法律专家撰写的法庭简报摘录，强调了公平使用对每个人的好处。这一分享不仅为 OpenAI 的模型训练提供了法律支持，也推动了 AI 行业的公平使用讨论。",
+          "usage": "💡 聊到 AI 公平使用时 \n💬 OpenAI 分享公平使用案例，这下法律支持更强了 \n🔥 OpenAI 公平使用 法律",
+          "source": "https://openai.com/index/fair-use-benefits-everyone",
+          "tags": [
+            "OpenAI",
+            "公平使用",
+            "法律"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "Anthropic 预计高垃圾评级",
+          "summary": "Anthropic IPO 后预计高垃圾评级",
+          "detail": "据 FT 报道，Anthropic 在 IPO 后预计将获得高垃圾评级。这一预测虽然只是推测，但高垃圾评级无疑会使其融资更加困难。",
+          "usage": "💡 聊到 AI 公司融资时 \n💬 Anthropic IPO 后预计高垃圾评级，这下融资难了 \n🔥 Anthropic IPO 垃圾评级",
+          "source": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+          "tags": [
+            "Anthropic",
+            "IPO",
+            "垃圾评级"
+          ]
+        },
+        {
+          "title": "OpenAI 与 ServiceNow 合作",
+          "summary": "OpenAI 与 ServiceNow 扩展合作",
+          "detail": "OpenAI 和 ServiceNow 扩展了合作伙伴关系，将 OpenAI 的模型和代理引入 ServiceNow 的企业工作流程中。这一合作不仅提升了企业的工作效率，也展示了 AI 在企业应用中的广阔前景。",
+          "usage": "💡 聊到 AI 企业应用时 \n💬 OpenAI 与 ServiceNow 合作，企业工作流程更智能了 \n🔥 OpenAI ServiceNow 企业应用",
+          "source": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "tags": [
+            "OpenAI",
+            "ServiceNow",
+            "企业应用"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "ChatGPT Enterprise ROI 954%",
+          "summary": "ChatGPT Enterprise 试点 ROI 达 954%",
+          "detail": "Credit Saison 的 ChatGPT Enterprise 试点项目实现了 954% 的 ROI。领导和员工共同推动了这一成功，展示了 ChatGPT Enterprise 在企业中的巨大潜力。",
+          "usage": "💡 聊到 AI 企业应用时 \n💬 ChatGPT Enterprise 试点 ROI 954%，这下企业都坐不住了 \n🔥 ChatGPTEnterprise ROI 企业应用",
+          "source": "https://openai.com/index/credit-saison",
+          "tags": [
+            "ChatGPTEnterprise",
+            "ROI",
+            "企业应用"
+          ]
+        },
+        {
+          "title": "Google 卫星数据中心上线",
+          "summary": "Google 首个卫星数据中心上线",
+          "detail": "Google 的首个卫星数据中心上线并开始写诗。这颗卫星运行着 Google DeepMind Gemma 4 模型，展示了 AI 在太空中的新应用。",
+          "usage": "💡 聊到 AI 太空应用时 \n💬 Google 卫星数据中心上线，AI 开始在太空中写诗了 \n🔥 Google 卫星数据中心 AI写诗",
+          "source": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+          "tags": [
+            "Google",
+            "卫星数据中心",
+            "AI写诗"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "Ollie AI 助手关闭",
+          "summary": "隐私 AI 助手 Ollie 关闭",
+          "detail": "随着越来越多的 AI 助手涌入市场，专注于隐私的 AI 助手 Ollie 宣布关闭。这一事件凸显了 AI 助手市场的激烈竞争和隐私保护的重要性。",
+          "usage": "💡 聊到 AI 助手市场时 \n💬 Ollie AI 助手关闭，隐私保护之路任重道远 \n🔥 Ollie AI助手 隐私保护",
+          "source": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+          "tags": [
+            "Ollie",
+            "AI助手",
+            "隐私保护"
+          ]
+        },
+        {
+          "title": "Legora 构建法律操作系统",
+          "summary": "Legora 构建法律操作系统",
+          "detail": "Legora 正在构建法律工作的代理操作系统，使用 OpenAI 的模型、ChatGPT 和 Codex 加速法律工作流程，扩展合同覆盖范围。这一项目展示了 AI 在法律领域的广泛应用前景。",
+          "usage": "💡 聊到 AI 法律应用时 \n💬 Legora 构建法律操作系统，法律工作更高效了 \n🔥 Legora 法律操作系统 AI应用",
+          "source": "https://openai.com/index/legora",
+          "tags": [
+            "Legora",
+            "法律操作系统",
+            "AI应用"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "OpenAI 检测前沿模型失调",
+          "summary": "OpenAI 检测前沿模型失调",
+          "detail": "OpenAI 使用分层监控来检测前沿模型的失调和未经授权的代理行为。这一技术突破不仅提升了模型的安全性，也为其在复杂环境中的应用提供了保障。",
+          "usage": "💡 聊到 AI 模型安全时 \n💬 OpenAI 检测前沿模型失调，这下模型更安全了 \n🔥 OpenAI 模型安全 失调检测",
+          "source": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+          "tags": [
+            "OpenAI",
+            "模型安全",
+            "失调检测"
+          ]
+        },
+        {
+          "title": "Ropes & Gray 开发 AI 尽职调查",
+          "summary": "Ropes & Gray 开发 AI 尽职调查",
+          "detail": "Ropes & Gray 正在与 OpenAI 合作开发用于交易尽职调查的 AI。律师们通过分组文档审查，加速了尽职调查流程。这一项目展示了 AI 在法律尽职调查中的巨大潜力。",
+          "usage": "💡 聊到 AI 法律应用时 \n💬 Ropes & Gray 开发 AI 尽职调查，法律工作更高效了 \n🔥 Ropes&Gray AI 尽职调查",
+          "source": "https://openai.com/index/ropes-gray-ai-diligence",
+          "tags": [
+            "Ropes&Gray",
+            "AI",
+            "尽职调查"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "AI 支出热潮出现裂缝",
+          "summary": "AI 支出热潮出现裂缝",
+          "detail": "尽管大科技公司正在向 AI 基础设施投入数十亿美元，但不断增加的债务、负现金流和增长压力正在导致 AI 支出热潮出现裂缝。这一趋势预示着 AI 行业可能面临调整。",
+          "usage": "💡 聊到 AI 行业投资时 \n💬 AI 支出热潮出现裂缝，行业可能面临调整 \n🔥 AI支出 债务 行业调整",
+          "source": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+          "tags": [
+            "AI支出",
+            "债务",
+            "行业调整"
+          ]
+        },
+        {
+          "title": "TechCrunch Founder Summit",
+          "summary": "TechCrunch Founder Summit 2026",
+          "detail": "TechCrunch Founder Summit 2026 将于 11 月 4 日在波士顿 SoWa Power Station 举行，届时将提供 Braindate 网络连接机会，帮助创始人建立有影响力的联系。",
+          "usage": "💡 聊到 tech 活动时 \n💬 TechCrunch Founder Summit 2026，创始人连接新机会 \n🔥 TechCrunch FounderSummit 网络连接",
+          "source": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+          "tags": [
+            "TechCrunch",
+            "FounderSummit",
+            "网络连接"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-31T06:46:32.022Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3354,
+    "completion_tokens": 3002,
+    "total_tokens": 6356,
+    "cost_usd": 0.003951477,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 20
+    }
+  }
+}

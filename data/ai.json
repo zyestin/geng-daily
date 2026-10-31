@@ -5,27 +5,27 @@
       "icon": "💥",
       "items": [
         {
-          "title": "GPT-6 Astra 登顶",
-          "summary": "GPT-6 Astra 语音代理评测第一",
-          "detail": "GPT-6 Astra 在 Retell 的语音代理评测中登顶，帮助 Retell 实现了 1.6M 美元的年收入。这意味着 GPT-6 Astra 在语音交互领域已经达到了新的高度，未来可能在客服、语音助手等场景中广泛应用。",
-          "usage": "💡 聊天时提到语音助手\n💬 GPT-6 Astra 在 Retell 的语音代理评测中登顶，年收入 1.6M 美元\n🔥 GPT-6 Astra Retell 语音代理",
-          "source": "https://openai.com/index/retell-ai",
+          "title": "AI 数据中心的 Nvidia 背书",
+          "summary": "Nvidia 为 West Virginia 的 AI 数据中心背书",
+          "detail": "Nvidia 正在考虑为 Nscale 在 West Virginia 的 AI 数据中心提供背书，这在投资者对 AI 支出感到紧张的情况下，无疑是一剂强心针。Nvidia 的芯片是 AI 数据中心的基石，这一背书不仅增强了投资者的信心，也预示着 AI 基础设施的进一步扩展。",
+          "usage": "💡 聊到 AI 基础设施投资时 \n💬 Nvidia 为 Nscale 的 AI 数据中心背书，这下投资者可以放心了 \n🔥 Nvidia AI数据中心 投资",
+          "source": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
           "tags": [
-            "GPT-6 Astra",
-            "语音代理",
-            "Retell"
+            "Nvidia",
+            "数据中心",
+            "投资"
           ]
         },
         {
-          "title": "英伟达视频增强",
-          "summary": "英伟达发布 4K 视频增强方案",
-          "detail": "英伟达与麻省理工学院团队发布视频增强项目 Open-H3-Regenerate-2K 的模型权重，最高支持 4K 重生成。这项技术将大幅提升视频质量，未来可能在影视制作、视频监控等领域广泛应用。",
-          "usage": "💡 聊天时提到视频处理\n💬 英伟达发布 4K 视频增强方案，未来影视制作更轻松\n🔥 英伟达 4K 视频增强",
-          "source": "https://www.qbitai.com/2026/10/506743.html",
+          "title": "Intel 股价大跳水",
+          "summary": "Intel 股价暴跌，损失 120 亿美元",
+          "detail": "Intel 的股价在 AI 行业吞噬内存和其他 PC 组件的背景下暴跌，导致政府持有的股份损失了 120 亿美元。这一事件凸显了 AI 行业对传统 PC 市场的冲击，也让人对 Intel 的未来战略产生了疑问。",
+          "usage": "💡 聊到 AI 对传统行业的影响时 \n💬 Intel 股价暴跌，AI 行业吞噬 PC 市场，这下 Intel 压力山大 \n🔥 Intel 股价 AI行业",
+          "source": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
           "tags": [
-            "英伟达",
-            "视频增强",
-            "4K"
+            "Intel",
+            "股价",
+            "AI行业"
           ]
         }
       ]
@@ -35,27 +35,27 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "Claude 新模型",
-          "summary": "Claude 新模型 Fable 曝光",
-          "detail": "Claude 新模型 Fable 曝光，预计将带来更强大的代码生成和自然语言处理能力。与上一代相比，Fable 在处理复杂任务时表现出更高的准确性和效率，开发者期待其在实际应用中的表现。",
-          "usage": "💡 聊天时提到代码生成\n💬 Claude 新模型 Fable 曝光，期待实际应用\n🔥 Claude Fable 代码生成",
-          "source": "https://www.qbitai.com/2026/10/506674.html",
+          "title": "OpenAI 更新 Model Spec",
+          "summary": "OpenAI 更新 Model Spec，指导 AI 决策",
+          "detail": "OpenAI 更新了 Model Spec，概述了五个核心价值，以指导更具能力的 AI 做出合理决策。这一更新不仅提升了 AI 的决策能力，也为其在复杂场景中的应用铺平了道路。",
+          "usage": "💡 聊到 AI 决策能力时 \n💬 OpenAI 更新 Model Spec，这下 AI 决策更靠谱了 \n🔥 OpenAI ModelSpec 决策",
+          "source": "https://openai.com/index/updated-model-spec",
           "tags": [
-            "Claude",
-            "Fable",
-            "代码生成"
+            "OpenAI",
+            "ModelSpec",
+            "决策"
           ]
         },
         {
-          "title": "STEPX Neo 升级",
-          "summary": "STEPX Neo 智能体手机首次升级",
-          "detail": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级，智能体能力持续释放。此次升级将进一步提升手机的智能化水平，未来可能在智能终端领域广泛应用。",
-          "usage": "💡 聊天时提到智能终端\n💬 STEPX Neo 智能体手机首次升级，智能化水平提升\n🔥 STEPX Neo 智能体手机",
-          "source": "https://www.qbitai.com/2026/10/506554.html",
+          "title": "Zest 新 AI 助手",
+          "summary": "Zest 发布 AI 助手，预订餐厅",
+          "detail": "Zest 发布了新的 AI 助手，能够通过文本帮助用户找到餐厅并预订。这一功能结合了每个人的口味，提供了餐厅选择，极大地方便了用户的餐饮决策。",
+          "usage": "💡 聊到 AI 助手时 \n💬 Zest 新 AI 助手，帮你找到最适合的餐厅 \n🔥 Zest AI助手 餐厅预订",
+          "source": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
           "tags": [
-            "STEPX Neo",
-            "智能体手机",
-            "升级"
+            "Zest",
+            "AI助手",
+            "餐厅预订"
           ]
         }
       ]
@@ -65,27 +65,27 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "Tyler Shultz 警告",
-          "summary": "Theranos 吹哨人 AI 警告",
-          "detail": "Theranos 吹哨人 Tyler Shultz 警告，AI 热潮是“欺骗人的大好机会”。他提醒人们警惕 AI 领域的夸大宣传和虚假承诺，特别是在医疗和金融等敏感领域。",
-          "usage": "💡 聊天时提到 AI 风险\n💬 Theranos 吹哨人警告：AI 热潮是欺骗人的大好机会\n🔥 Tyler Shultz AI 风险",
+          "title": "Tyler Shultz 警告 AI 热潮",
+          "summary": "Theranos 举报人警告 AI 热潮",
+          "detail": "Theranos 举报人 Tyler Shultz 警告称，AI 热潮是一个欺骗人们的大好机会。他以 Theranos 的教训为例，提醒大家在 AI 时代要警惕那些从未盈利过的公司。",
+          "usage": "💡 聊到 AI 热潮时 \n💬 Tyler Shultz 警告：AI 热潮是大好机会去欺骗人 \n🔥 AI热潮 TylerShultz 警告",
           "source": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
           "tags": [
-            "Tyler Shultz",
-            "AI 风险",
-            "Theranos"
+            "AI热潮",
+            "TylerShultz",
+            "警告"
           ]
         },
         {
-          "title": "Jassy 谈 AWS",
-          "summary": "AWS 目标是 1T 美元业务",
-          "detail": "亚马逊 CEO Andy Jassy 表示，AWS 的目标是成为第一个 1T 美元收入的业务。他指出，为了实现这一目标，AWS 将在 AI 云计算领域进行大规模投资。",
-          "usage": "💡 聊天时提到云计算\n💬 AWS 目标是 1T 美元业务，AI 云计算投资是关键\n🔥 AWS Andy Jassy 云计算",
-          "source": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+          "title": "OpenAI 分享公平使用案例",
+          "summary": "OpenAI 分享公平使用案例",
+          "detail": "OpenAI 分享了由创作者、学者、无障碍倡导者和法律专家撰写的法庭简报摘录，强调了公平使用对每个人的好处。这一分享不仅为 OpenAI 的模型训练提供了法律支持，也推动了 AI 行业的公平使用讨论。",
+          "usage": "💡 聊到 AI 公平使用时 \n💬 OpenAI 分享公平使用案例，这下法律支持更强了 \n🔥 OpenAI 公平使用 法律",
+          "source": "https://openai.com/index/fair-use-benefits-everyone",
           "tags": [
-            "AWS",
-            "Andy Jassy",
-            "云计算"
+            "OpenAI",
+            "公平使用",
+            "法律"
           ]
         }
       ]
@@ -95,27 +95,27 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "OpenAI 与 ServiceNow",
+          "title": "Anthropic 预计高垃圾评级",
+          "summary": "Anthropic IPO 后预计高垃圾评级",
+          "detail": "据 FT 报道，Anthropic 在 IPO 后预计将获得高垃圾评级。这一预测虽然只是推测，但高垃圾评级无疑会使其融资更加困难。",
+          "usage": "💡 聊到 AI 公司融资时 \n💬 Anthropic IPO 后预计高垃圾评级，这下融资难了 \n🔥 Anthropic IPO 垃圾评级",
+          "source": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+          "tags": [
+            "Anthropic",
+            "IPO",
+            "垃圾评级"
+          ]
+        },
+        {
+          "title": "OpenAI 与 ServiceNow 合作",
           "summary": "OpenAI 与 ServiceNow 扩展合作",
-          "detail": "OpenAI 与 ServiceNow 扩展合作，将 OpenAI 模型和代理引入 ServiceNow 企业工作流。这一合作将进一步提升企业自动化和智能化水平，未来可能在多个行业中广泛应用。",
-          "usage": "💡 聊天时提到企业自动化\n💬 OpenAI 与 ServiceNow 扩展合作，提升企业自动化\n🔥 OpenAI ServiceNow 自动化",
+          "detail": "OpenAI 和 ServiceNow 扩展了合作伙伴关系，将 OpenAI 的模型和代理引入 ServiceNow 的企业工作流程中。这一合作不仅提升了企业的工作效率，也展示了 AI 在企业应用中的广阔前景。",
+          "usage": "💡 聊到 AI 企业应用时 \n💬 OpenAI 与 ServiceNow 合作，企业工作流程更智能了 \n🔥 OpenAI ServiceNow 企业应用",
           "source": "https://openai.com/index/openai-servicenow-partnership-expansion",
           "tags": [
             "OpenAI",
             "ServiceNow",
-            "企业自动化"
-          ]
-        },
-        {
-          "title": "商汤稳居 MaaS 第二",
-          "summary": "商汤大装置蝉联 MaaS 第二",
-          "detail": "在大模型私有化市场，商汤大装置以 9.4% 的市场份额，再次稳居第二位。商汤在大模型领域的技术实力和市场份额持续领先，未来可能在多个行业中广泛应用。",
-          "usage": "💡 聊天时提到大模型\n💬 商汤大装置蝉联 MaaS 第二，市场份额 9.4%\n🔥 商汤大装置 MaaS",
-          "source": "https://www.qbitai.com/2026/10/506550.html",
-          "tags": [
-            "商汤",
-            "大装置",
-            "MaaS"
+            "企业应用"
           ]
         }
       ]
@@ -125,27 +125,27 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "Credit Saison 试点",
-          "summary": "Credit Saison ChatGPT 试点成功",
-          "detail": "Credit Saison 的 ChatGPT Enterprise 试点实现了 954% 的 ROI。这一成功案例展示了 AI 在企业中的巨大潜力，未来可能在更多行业中得到应用。",
-          "usage": "💡 聊天时提到企业 AI\n💬 Credit Saison ChatGPT 试点成功，ROI 954%\n🔥 Credit Saison ChatGPT 试点",
+          "title": "ChatGPT Enterprise ROI 954%",
+          "summary": "ChatGPT Enterprise 试点 ROI 达 954%",
+          "detail": "Credit Saison 的 ChatGPT Enterprise 试点项目实现了 954% 的 ROI。领导和员工共同推动了这一成功，展示了 ChatGPT Enterprise 在企业中的巨大潜力。",
+          "usage": "💡 聊到 AI 企业应用时 \n💬 ChatGPT Enterprise 试点 ROI 954%，这下企业都坐不住了 \n🔥 ChatGPTEnterprise ROI 企业应用",
           "source": "https://openai.com/index/credit-saison",
           "tags": [
-            "Credit Saison",
-            "ChatGPT",
-            "试点"
+            "ChatGPTEnterprise",
+            "ROI",
+            "企业应用"
           ]
         },
         {
-          "title": "DoorDash AI 订单",
-          "summary": "DoorDash 收到数百 AI 订单",
-          "detail": "DoorDash 表示，目前仅收到“数百”来自 AI 代理的订单。这表明 AI 在订单处理中的应用仍处于早期阶段，但未来可能有更大的发展空间。",
-          "usage": "💡 聊天时提到 AI 订单\n💬 DoorDash 收到数百 AI 订单，应用仍处早期\n🔥 DoorDash AI 订单",
-          "source": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+          "title": "Google 卫星数据中心上线",
+          "summary": "Google 首个卫星数据中心上线",
+          "detail": "Google 的首个卫星数据中心上线并开始写诗。这颗卫星运行着 Google DeepMind Gemma 4 模型，展示了 AI 在太空中的新应用。",
+          "usage": "💡 聊到 AI 太空应用时 \n💬 Google 卫星数据中心上线，AI 开始在太空中写诗了 \n🔥 Google 卫星数据中心 AI写诗",
+          "source": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
           "tags": [
-            "DoorDash",
-            "AI 订单",
-            "早期应用"
+            "Google",
+            "卫星数据中心",
+            "AI写诗"
           ]
         }
       ]
@@ -155,27 +155,27 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "英伟达开源视频增强",
-          "summary": "英伟达开源 4K 视频增强方案",
-          "detail": "英伟达与麻省理工学院团队在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重，最高支持 4K 重生成。这一开源方案将推动视频处理技术的发展，未来可能在多个行业中广泛应用。",
-          "usage": "💡 聊天时提到视频处理\n💬 英伟达开源 4K 视频增强方案，推动技术发展\n🔥 英伟达 开源 4K 视频增强",
-          "source": "https://www.qbitai.com/2026/10/506743.html",
+          "title": "Ollie AI 助手关闭",
+          "summary": "隐私 AI 助手 Ollie 关闭",
+          "detail": "随着越来越多的 AI 助手涌入市场，专注于隐私的 AI 助手 Ollie 宣布关闭。这一事件凸显了 AI 助手市场的激烈竞争和隐私保护的重要性。",
+          "usage": "💡 聊到 AI 助手市场时 \n💬 Ollie AI 助手关闭，隐私保护之路任重道远 \n🔥 Ollie AI助手 隐私保护",
+          "source": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
           "tags": [
-            "英伟达",
-            "开源",
-            "4K 视频增强"
+            "Ollie",
+            "AI助手",
+            "隐私保护"
           ]
         },
         {
-          "title": "RSI 登顶 OCR",
-          "summary": "国产开源 OCR 登顶全球",
-          "detail": "RSI 立大功！国产开源 OCR 登顶全球第一，1.3B OXR 重塑 OCR 技术。这一突破展示了国产开源技术在全球 OCR 领域的领先地位，未来可能在多个行业中广泛应用。",
-          "usage": "💡 聊天时提到 OCR\n💬 国产开源 OCR 登顶全球，1.3B OXR 重塑技术\n🔥 RSI OCR 开源",
-          "source": "https://www.qbitai.com/2026/10/506686.html",
+          "title": "Legora 构建法律操作系统",
+          "summary": "Legora 构建法律操作系统",
+          "detail": "Legora 正在构建法律工作的代理操作系统，使用 OpenAI 的模型、ChatGPT 和 Codex 加速法律工作流程，扩展合同覆盖范围。这一项目展示了 AI 在法律领域的广泛应用前景。",
+          "usage": "💡 聊到 AI 法律应用时 \n💬 Legora 构建法律操作系统，法律工作更高效了 \n🔥 Legora 法律操作系统 AI应用",
+          "source": "https://openai.com/index/legora",
           "tags": [
-            "RSI",
-            "OCR",
-            "开源"
+            "Legora",
+            "法律操作系统",
+            "AI应用"
           ]
         }
       ]
@@ -185,27 +185,27 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "清华大学具身智能",
-          "summary": "清华提出具身智能新路径",
-          "detail": "清华大学联合无问芯穹、智元提出具身智能规模化落地新路径，让机器人成为彼此的“老师”。这一研究突破将推动具身智能技术的发展，未来可能在多个行业中广泛应用。",
-          "usage": "💡 聊天时提到机器人\n💬 清华提出具身智能新路径，机器人互学互教\n🔥 清华大学 具身智能",
-          "source": "https://www.qbitai.com/2026/10/506662.html",
+          "title": "OpenAI 检测前沿模型失调",
+          "summary": "OpenAI 检测前沿模型失调",
+          "detail": "OpenAI 使用分层监控来检测前沿模型的失调和未经授权的代理行为。这一技术突破不仅提升了模型的安全性，也为其在复杂环境中的应用提供了保障。",
+          "usage": "💡 聊到 AI 模型安全时 \n💬 OpenAI 检测前沿模型失调，这下模型更安全了 \n🔥 OpenAI 模型安全 失调检测",
+          "source": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
           "tags": [
-            "清华大学",
-            "具身智能",
-            "机器人"
+            "OpenAI",
+            "模型安全",
+            "失调检测"
           ]
         },
         {
-          "title": "Runware AI 数据中心",
-          "summary": "Runware 预制 AI 数据中心",
-          "detail": "Runware 正在建造工厂，以流水线方式生产预制 AI 数据中心。这一创新模式将大幅降低 AI 数据中心的建造成本和时间，未来可能在 AI 基础设施领域广泛应用。",
-          "usage": "💡 聊天时提到 AI 基础设施\n💬 Runware 预制 AI 数据中心，降低成本和时间\n🔥 Runware AI 数据中心",
-          "source": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+          "title": "Ropes & Gray 开发 AI 尽职调查",
+          "summary": "Ropes & Gray 开发 AI 尽职调查",
+          "detail": "Ropes & Gray 正在与 OpenAI 合作开发用于交易尽职调查的 AI。律师们通过分组文档审查，加速了尽职调查流程。这一项目展示了 AI 在法律尽职调查中的巨大潜力。",
+          "usage": "💡 聊到 AI 法律应用时 \n💬 Ropes & Gray 开发 AI 尽职调查，法律工作更高效了 \n🔥 Ropes&Gray AI 尽职调查",
+          "source": "https://openai.com/index/ropes-gray-ai-diligence",
           "tags": [
-            "Runware",
-            "AI 数据中心",
-            "预制"
+            "Ropes&Gray",
+            "AI",
+            "尽职调查"
           ]
         }
       ]
@@ -215,50 +215,49 @@
       "icon": "📈",
       "items": [
         {
-          "title": "MEET2027 报名开启",
-          "summary": "MEET2027 报名通道正式开启",
-          "detail": "MEET2027 报名通道正式开启，首批重磅嘉宾已就位。这场 AI 领域的盛会将吸引全球顶尖专家和企业的参与，展示最新的技术突破和行业趋势。",
-          "usage": "💡 聊天时提到 AI 大会\n💬 MEET2027 报名开启，重磅嘉宾已就位\n🔥 MEET2027 AI 大会",
-          "source": "https://www.qbitai.com/2026/10/506609.html",
+          "title": "AI 支出热潮出现裂缝",
+          "summary": "AI 支出热潮出现裂缝",
+          "detail": "尽管大科技公司正在向 AI 基础设施投入数十亿美元，但不断增加的债务、负现金流和增长压力正在导致 AI 支出热潮出现裂缝。这一趋势预示着 AI 行业可能面临调整。",
+          "usage": "💡 聊到 AI 行业投资时 \n💬 AI 支出热潮出现裂缝，行业可能面临调整 \n🔥 AI支出 债务 行业调整",
+          "source": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
           "tags": [
-            "MEET2027",
-            "AI 大会",
-            "报名"
+            "AI支出",
+            "债务",
+            "行业调整"
           ]
         },
         {
-          "title": "Reddit 转向登录体验",
-          "summary": "Reddit 转向登录体验",
-          "detail": "随着 AI 改变了人们在线查找信息的方式，Reddit 正在重新思考其开放网络根源，转向登录体验以保护内容。这一变化将影响 Reddit 的用户体验和内容策略。",
-          "usage": "💡 聊天时提到社交媒体\n💬 Reddit 转向登录体验，保护内容\n🔥 Reddit 登录体验",
-          "source": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+          "title": "TechCrunch Founder Summit",
+          "summary": "TechCrunch Founder Summit 2026",
+          "detail": "TechCrunch Founder Summit 2026 将于 11 月 4 日在波士顿 SoWa Power Station 举行，届时将提供 Braindate 网络连接机会，帮助创始人建立有影响力的联系。",
+          "usage": "💡 聊到 tech 活动时 \n💬 TechCrunch Founder Summit 2026，创始人连接新机会 \n🔥 TechCrunch FounderSummit 网络连接",
+          "source": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
           "tags": [
-            "Reddit",
-            "登录体验",
-            "内容保护"
+            "TechCrunch",
+            "FounderSummit",
+            "网络连接"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-10-30T16:25:07.731Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-10-31T06:46:32.022Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3631,
-    "completion_tokens": 2920,
-    "total_tokens": 6551,
-    "cost_usd": 0.0039384234,
+    "prompt_tokens": 3354,
+    "completion_tokens": 3002,
+    "total_tokens": 6356,
+    "cost_usd": 0.003951477,
     "free": false,
     "sources": {
       "per_source": {
-        "qbitai": 8,
         "openai": 10,
         "techcrunch": 10
       },
-      "total": 24
+      "total": 20
     }
   }
 }
