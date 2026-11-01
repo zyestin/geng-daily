@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "AI 能力再升级！",
+          "summary": "Astra 操作电脑已达人类水平！",
+          "detail": "近日，AI 模型 Astra 宣布其操作电脑的能力已达到人类水平！这意味着 AI 正在逐步取代人类在电脑操作方面的应用，未来可能会在很多行业中看到 AI 完全代替人类完成复杂的操作。试想一下以后办公的时候，根本不用自己动手，鼠标键盘全都交给 AI！",
+          "usage": "💡 聊到 AI 技术进步时 \n💬 \"Astra 操作电脑已达人类水平！\" \n🔥 AI技术 未来趋势",
+          "source": "https://www.qbitai.com/2026/10/506884.html",
+          "tags": [
+            "AI",
+            "创新",
+            "技术进步"
+          ]
+        },
+        {
+          "title": "超能模式来袭！",
+          "summary": "联想天禧AI 4.5全端升级！",
+          "detail": "联想于近日发布了天禧 AI 4.5，标志着其“超能模式”重磅登场！新版本在多功能场景应用上实现了全面升级，能助力职场人士快速完成工作。具体而言，它的效率提升比例达到了40%。想象一下，开会时 AI 可以即时生成会议纪要，直接让你的工作效率翻倍！",
+          "usage": "💡 聊到办公工具时 \n💬 \"联想天禧AI 4.5的效率提升达40%！\" \n🔥 办公效率 AI工具",
+          "source": "https://www.qbitai.com/2026/10/506779.html",
+          "tags": [
+            "产品发布",
+            "AI",
+            "职场"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Claude Code取消5小时限制！",
+          "summary": "用户体验大幅提升，限时解禁！",
+          "detail": "Claude 宣布取消了之前的5小时限制，首批Ultra用户享受解禁待遇。这意味着用户可以在各类任务中不再受到时间限制，使用体验显著提升。想象一下，以前你必须在5小时内完成任务，现在可以随心所欲地使用，更像是把“加班”功能变成了“随心所欲”！",
+          "usage": "💡 聊到AI助手时 \n💬 \"Claude 取消了5小时限制！\" \n🔥 用户体验 AI助手",
+          "source": "https://www.qbitai.com/2026/10/506855.html",
+          "tags": [
+            "模型更新",
+            "用户体验",
+            "AI助手"
+          ]
+        },
+        {
+          "title": "智元双模型霸榜！",
+          "summary": "智元的双模型强势崛起！",
+          "detail": "智元最近推出了双模型，在多个榜单上斩获第一，展现出强大的模型能力。与市场上竞品相比，其性能提升了近25%。这对程序员来说意味着更快速的开发迭代和更高的代码质量，简直是编程界的一场革命！",
+          "usage": "💡 聊到编程工具时 \n💬 \"智元的双模型强势霸榜！\" \n🔥 模型性能 编程工具",
+          "source": "https://www.qbitai.com/2026/10/506819.html",
+          "tags": [
+            "模型发布",
+            "AI",
+            "编程"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "库克谈 AI 现状！",
+          "summary": "苹果 CEO 强调不追求 AI 炫技！",
+          "detail": "苹果新任 CEO 近日表示，公司不会为了 AI 而 AI。他强调苹果更关注的是如何将 AI 融入实用性以及提升用户体验，而不是单纯的技术展示。这展现了苹果在 AI 领域的谨慎和对用户需求的重视，未来可能会通过更贴近用户的产品来打破市场格局。",
+          "usage": "💡 聊到苹果产品时 \n💬 \"我们不想为了 AI 而 AI！\" \n🔥 AI策略 用户体验",
+          "source": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+          "tags": [
+            "苹果",
+            "大佬言论",
+            "AI战略"
+          ]
+        },
+        {
+          "title": "OpenAI 推出新规范！",
+          "summary": "OpenAI 概述模型的新核心价值观！",
+          "detail": "OpenAI 近日推出了更新的模型规范，强调了五大核心价值观以指导更强大、更有益的 AI。该规范不仅为开发者指明了方向，还促进了更安全的技术应用，展现了 OpenAI 在伦理方向上的责任感，未来将为行业树立标杆。",
+          "usage": "💡 聊到OpenAI时 \n💬 \"我们更新了模型的新核心价值观！\" \n🔥 道德责任 AI发展",
+          "source": "https://openai.com/index/updated-model-spec",
+          "tags": [
+            "OpenAI",
+            "模型规范",
+            "伦理"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI 拓宽合作！",
+          "summary": "OpenAI 与 ServiceNow 扩大合作！",
+          "detail": "OpenAI 最近与 ServiceNow 扩大了合作范围，将其模型和代理集成到 ServiceNow 的工作流程中。这意味着企业在自动化流程方面将会获得更多的帮助，提升工作效率，从而让公司更专注于创新，而非繁琐的日常操作，未来值得期待！",
+          "usage": "💡 聊到企业服务时 \n💬 \"OpenAI 与 ServiceNow 扩大合作！\" \n🔥 企业服务 合作",
+          "source": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "tags": [
+            "OpenAI",
+            "合作",
+            "企业服务"
+          ]
+        },
+        {
+          "title": "Nvidia 参与数据中心！",
+          "summary": "Nvidia 或将担任 Nscale 数据中心的共签署方！",
+          "detail": "在AI支出受到投资者担忧的情况下，Nvidia 正在考虑作为西弗吉尼亚州 Nscale AI 数据中心的共签署方。这将有助于缓解市场对资金配置的紧张情绪，进一步加强 Nvidia 在AI基础设施领域的地位，可能会吸引更多投资者的关注。",
+          "usage": "💡 聊到投资时 \n💬 \"Nvidia 可能会担任 Nscale 数据中心的共签署方！\" \n🔥 投资 动态",
+          "source": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+          "tags": [
+            "Nvidia",
+            "数据中心",
+            "投资"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "ChatGPT 增强青少年保护！",
+          "summary": "OpenAI 加强青少年保护机制！",
+          "detail": "OpenAI 近日发布了社区安全报告，宣布将通过扩展保护措施来增强 ChatGPT 对青少年的保护。这包括更早的干预机制和更多的内容过滤，意在为用户提供更安全的使用环境。相较于以往的版本，安全性得到了显著提升，保障了用户的心理健康。",
+          "usage": "💡 聊到AI安全时 \n💬 \"OpenAI 加强了青少年保护机制！\" \n🔥 用户安全 AI保护",
+          "source": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+          "tags": [
+            "ChatGPT",
+            "用户安全",
+            "保护措施"
+          ]
+        },
+        {
+          "title": "百度 APP 实现自我进化！",
+          "summary": "百度 APP 新增 AI 搜索功能！",
+          "detail": "百度应用发布了四项 AI 升级，其中搜索功能实现了递归自我进化。这意味着用户在使用搜索时，能够得到越来越精准的结果，减少了信息过载的问题，简直是为广大用户减轻了负担，未来的搜索体验将更具个性化。",
+          "usage": "💡 聊到搜索引擎时 \n💬 \"百度 APP 搜索实现递归自我进化！\" \n🔥 搜索引擎 AI升级",
+          "source": "https://www.qbitai.com/2026/10/506771.html",
+          "tags": [
+            "百度",
+            "搜索",
+            "AI升级"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "Llama 开源新版本！",
+          "summary": "Llama 新版本亮相！",
+          "detail": "Llama 宣布新版本开源，增加了对多语言支持的投入。与之前的版本相比，性能提升了30%。这为开发者提供了更广泛的应用场景，特别是在国际化项目中，开发者可以更便捷地为不同用户定制化应用，提升了开发效率。",
+          "usage": "💡 聊到开源时 \n💬 \"Llama 发布新版本，支持多语言！\" \n🔥 开源 Llama",
+          "source": "",
+          "tags": [
+            "开源",
+            "Llama",
+            "多语言"
+          ]
+        },
+        {
+          "title": "Qwen 开放模型！",
+          "summary": "Qwen 模型向公众开放！",
+          "detail": "Qwen 近日宣布其核心模型对外开放，这意味着开发者可以自由使用和修改。这将推动开源社区的进一步发展，吸引更多开发者参与到 AI 的创新中，未来可能会带来更多的应用场景，让我们拭目以待。",
+          "usage": "💡 聊到开源社区时 \n💬 \"Qwen 开放模型，开发者可自由使用！\" \n🔥 开源 Qwen",
+          "source": "",
+          "tags": [
+            "开源",
+            "Qwen",
+            "开发者"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "AI 零帧手写突破！",
+          "summary": "AI 人类手写再超越！",
+          "detail": "最新研究表明，AI 在零帧起手写算子方面已经超越了 DeepSeek 的人类手写巅峰，速度快了9.8%。这一突破不仅展示了 AI 在推理与应用上的提高，也让我们看到未来可能在教育、文书处理等领域的广泛应用前景，值得关注。",
+          "usage": "💡 聊到技术突破时 \n💬 \"AI 在零帧手写上超越了人类！\" \n🔥 技术突破 AI应用",
+          "source": "https://www.qbitai.com/2026/10/506785.html",
+          "tags": [
+            "技术突破",
+            "AI应用",
+            "研究"
+          ]
+        },
+        {
+          "title": "AI 指导芯片设计！",
+          "summary": "世界模型首次指导设计芯片！",
+          "detail": "最新研究成果表明，世界模型首次成功指导芯片设计，能够实现99%的算力利用率。这标志着 AI 在硬件设计领域的应用取得了重要进展，未来可能会大大降低设计成本，提高设计效率，从而推动智能硬件行业的革命。",
+          "usage": "💡 聊到AI在硬件领域时 \n💬 \"AI 世界模型首次指导设计芯片！\" \n🔥 AI应用 芯片设计",
+          "source": "https://www.qbitai.com/2026/10/506866.html",
+          "tags": [
+            "研究",
+            "芯片设计",
+            "世界模型"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "OpenAI 融资目标下调！",
+          "summary": "OpenAI 近期融资目标不乐观！",
+          "detail": "OpenAI 最近被曝其新一轮融资目标下调，似乎没能达到预期。这可能反映出市场对 AI 投资的谨慎态度，也可能是公司在战略调整上的反思，未来的融资形势仍然值得关注。",
+          "usage": "💡 聊到融资环境时 \n💬 \"OpenAI 融资目标下调了！\" \n🔥 融资动态 AI投资",
+          "source": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+          "tags": [
+            "融资",
+            "OpenAI",
+            "投资"
+          ]
+        },
+        {
+          "title": "NAACP 起诉 xAI！",
+          "summary": "NAACP 对 xAI 数据中心提起诉讼！",
+          "detail": "NAACP 最近对 xAI 提起诉讼，指控其数据中心违反清洁空气法。这一诉讼反映出 AI 行业在环境保护方面面临的挑战，可能会影响企业的运营策略与公众形象，未来应加强合规和透明度。",
+          "usage": "💡 聊到法律问题时 \n💬 \"NAACP 起诉了 xAI！\" \n🔥 法律问题 环保",
+          "source": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+          "tags": [
+            "法律",
+            "环保",
+            "xAI"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-01T07:38:11.450Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 3831,
+    "completion_tokens": 3253,
+    "total_tokens": 7084,
+    "cost_usd": 0.00252645,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

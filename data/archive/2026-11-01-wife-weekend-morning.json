@@ -1,0 +1,55 @@
+{
+  "categories": [
+    {
+      "name": "😘 土味情话",
+      "icon": "😘",
+      "items": [
+        {
+          "title": "用明星动态撩她",
+          "summary": "结合胡歌的甜蜜时刻！",
+          "detail": "最近胡歌参加女儿的幼儿园拔河比赛，想象一下，他在赛场上，满脸微笑，仿佛在说：\"这个小女孩就是我心中的冠军！\" 亲爱的，你也一样，是我人生中的冠军选手！",
+          "usage": "💡 想要调侃的时候 \n💬 \"你就像胡歌的女儿，无论在哪儿都是我心中最靓的！\" \n🔥 明星 情话",
+          "source": "https://m.baidu.com/s?word=%E8%83%A1%E6%AD%8C%E5%8F%82%E5%8A%A0%E5%A5%B3%E5%84%BF%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%8B%94%E6%B2%B3%E6%AF%94%E8%B5%9B&sa=fyb_news",
+          "tags": [
+            "情话",
+            "明星"
+          ]
+        },
+        {
+          "title": "甜蜜的吐槽",
+          "summary": "拿热搜调侃一下！",
+          "detail": "看到新闻说“国羽一哥”石宇奇低调大婚，我想说，嘿，这样的低调我也想要，等以后咱们结婚的时候，我要你的婚纱比她的闪亮十倍！",
+          "usage": "💡 想逗她笑的时候 \n💬 \"国羽一哥都低调结婚了，我也要争取让你变成最闪亮的那颗星！\" \n🔥 婚礼 幽默",
+          "source": "https://m.baidu.com/s?word=%E2%80%9C%E5%9B%BD%E7%BE%BD%E4%B8%80%E5%93%A5%E2%80%9D%E7%9F%B3%E5%AE%87%E5%A5%87%E4%BB%8A%E6%97%A5%E4%BD%8E%E8%B0%83%E5%A4%A7%E5%A9%9A&sa=fyb_news",
+          "tags": [
+            "情话",
+            "婚礼"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-01T07:31:29.949Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 3288,
+    "completion_tokens": 3372,
+    "total_tokens": 6660,
+    "cost_usd": 0.0025164,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 14,
+      "published": 2
+    },
+    "sources": {
+      "per_source": {
+        "baidu": 20
+      },
+      "total": 15
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "categories": [
+    {
+      "name": "📰 今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "币安63亿盗窃案大反转",
+          "summary": "币安追回盗走63亿美元的90%资产！",
+          "detail": "在10月31日，币安宣布成功追回从其热钱包被盗的63亿美元加密资产中的90%。此次盗窃事件引发了整个币圈的关注，许多网友纷纷调侃币安的安全措施终于好使了。虽然仍有部分资金未追回，但币安的迅速反应让不少用户对其信心回暖。家人们，钱包请紧贴好！",
+          "usage": "💡 聊加密货币时 \n💬 \"币安追回盗走63亿美元的90%资产！\" \n🔥 币安 盗窃 加密货币",
+          "source": "https://www.huxiu.com/article/4902062.html?f=rss",
+          "tags": [
+            "币圈",
+            "加密货币",
+            "安全"
+          ]
+        },
+        {
+          "title": "越南电动车销量暴涨",
+          "summary": "越南人买了17.5万辆电动车！",
+          "detail": "2025年，越南本土汽车制造商VinFast公布，越南市场电动车销量达到了惊人的17.5万辆，这个数字让各大厂商都惊掉了下巴。面对全球电动车需求的激增，越南也在悄然崛起，真是让人看到了“人均电动车”的未来。难道以后我们要去越南旅游体验电动车？",
+          "usage": "💡 讨论电动车发展时 \n💬 \"越南2025年电动车销量达17.5万辆！\" \n🔥 电动车 越南 VinFast",
+          "source": "https://www.huxiu.com/article/4902065.html?f=rss",
+          "tags": [
+            "电动车",
+            "越南",
+            "VinFast"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🎤 大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "黄仁勋谈物理AI",
+          "summary": "黄仁勋：物理AI未来可期！",
+          "detail": "在近期的科技大会上，黄仁勋表示物理AI将会重塑未来的科技格局，尽管现在还在探索阶段，但他对其潜力充满信心。这位NVIDIA的CEO总是带着对未来的憧憬，让人忍不住想问，究竟是什么神秘的力量让他如此自信？其实，可能就是AI吧！",
+          "usage": "💡 聊AI和物理AI时 \n💬 \"黄仁勋：物理AI未来可期！\" \n🔥 黄仁勋 AI 物理AI",
+          "source": "https://www.huxiu.com/article/4902064.html?f=rss",
+          "tags": [
+            "黄仁勋",
+            "AI",
+            "物理AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "AI Agent引领算力变革",
+          "summary": "AI Agent设计探索引领算力革命！",
+          "detail": "根据最新研究，AI Agent技术正在迅速发展，并将引领未来算力的变革。AI服务器市场预计在接下来的几年内将持续增长，随着企业越来越依赖AI来提高效率，CPU的角色也开始变得重要起来。这让人不禁想问：未来的程序员是不是要学会和AI\"搭档\"干活了？",
+          "usage": "💡 聊算力和AI时 \n💬 \"AI Agent引领算力革命！\" \n🔥 AI 算力 Agent",
+          "source": "https://www.huxiu.com/article/4902068.html?f=rss",
+          "tags": [
+            "AI",
+            "算力",
+            "服务器"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-01T07:34:55.502Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 6011,
+    "completion_tokens": 3256,
+    "total_tokens": 9267,
+    "cost_usd": 0.0028552499999999997,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 12,
+      "published": 4
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 12,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 24
+    }
+  }
+}
