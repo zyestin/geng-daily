@@ -1,0 +1,139 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "T3Code项目",
+          "summary": "新兴框架项目T3Code受关注。",
+          "detail": "T3Code是一个新兴的前端框架，最近在GitHub上获得了大量的关注和star。它的设计理念让开发者能够快速上手并高效构建项目。许多开发者在尝试后都表示这个框架的学习曲线很平缓。",
+          "usage": "你听说过T3Code吗？最近在GitHub上火得不行，很多开发者都在试用呢！",
+          "source": "https://github.com/pingdotgg/t3code",
+          "tags": [
+            "前端",
+            "框架",
+            "GitHub"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN新架构讨论",
+          "summary": "React Native新架构备受期待。",
+          "detail": "React Native正在推进其Fabric架构的开发，这将提高性能和用户体验。开发者对新架构的讨论热烈，期待其能解决当前RN的一些痛点问题，如启动时间和流畅度。",
+          "usage": "最近在讨论React Native的新架构，大家都觉得会让性能提升不少，你有没有关注？",
+          "source": "",
+          "tags": [
+            "React Native",
+            "架构",
+            "性能"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "HackerTube项目",
+          "summary": "基于视频推荐的编程学习新平台。",
+          "detail": "HackerTube是一个结合Hacker News推荐视频的YouTube平台，致力于为开发者提供高质量的学习内容。这个平台旨在让开发者能够更快找到相关的学习资源。",
+          "usage": "听说过HackerTube吗？它是基于Hacker News推荐的视频平台，学习编程的新选择呢！",
+          "source": "https://karpathy.bearblog.dev/hacker-tube/",
+          "tags": [
+            "AI",
+            "编程",
+            "视频"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "Scribd泄露事件",
+          "summary": "Scribd平台遭遇数据泄露。",
+          "detail": "Scribd最近发生了一起数据泄露事件，影响了大量用户的个人信息。开发者们在讨论如何提高应用的安全性，从而避免类似事件的发生，引发了对当前安全实践的思考。",
+          "usage": "最近Scribd遭到泄露了，你觉得我们在开发的时候应该如何强化安全呢？",
+          "source": "https://news.ycombinator.com/item?id=50312756",
+          "tags": [
+            "安全",
+            "数据泄露",
+            "开发"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "Handy语音识别应用",
+          "summary": "新开源的离线语音识别软件。",
+          "detail": "Handy是一个新的开源语音转文本应用，最大的亮点是它可以在完全离线的情况下运行，非常适合隐私敏感的用户。其简洁的设计和强大的功能吸引了很多开发者的关注。",
+          "usage": "你知道Handy这个开源语音识别应用吗？它支持完全离线操作，感觉非常不错！",
+          "source": "https://github.com/cjpais/Handy",
+          "tags": [
+            "开源",
+            "语音识别",
+            "应用"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "程序员段子",
+          "summary": "程序员日常趣事集锦。",
+          "detail": "最近社区里流传着一些搞笑的程序员段子，比如“作为程序员，我的唯一目标是让代码通过，不是让它美观。”这样的幽默笑话让大家在忙碌的工作中得以放松，增进了团队的气氛。",
+          "usage": "昨晚我看到一个程序员段子，真是笑死我了，有人说他们编代码不是为了美观，而是为了通过，你觉得呢？",
+          "source": "",
+          "tags": [
+            "幽默",
+            "段子",
+            "程序员"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-02T02:46:04.058Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 2121,
+    "completion_tokens": 1078,
+    "total_tokens": 3199,
+    "cost_usd": 0.00096495,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}

@@ -21,6 +21,26 @@
       ]
     },
     {
+      "key": "2026-11-02-ai-weekday-morning",
+      "date": "2026-11-02",
+      "slot": "ai-weekday-morning",
+      "slot_label": "工作日早晨 · 同事聊资",
+      "generated_at": "2026-11-02T02:52:18.358Z",
+      "weekday": "星期一",
+      "file": "archive/2026-11-02-ai-weekday-morning.json",
+      "topic_count": 16,
+      "category_names": [
+        "炸裂新闻",
+        "新模型发布",
+        "AI大佬言论",
+        "巨头动态",
+        "产品落地",
+        "开源江湖",
+        "研究突破",
+        "行业风向"
+      ]
+    },
+    {
       "key": "2026-11-01-ai-weekend-morning",
       "date": "2026-11-01",
       "slot": "ai-weekend-morning",
@@ -2131,5 +2151,5 @@
       ]
     }
   ],
-  "updated_at": "2026-11-01T16:49:59.405Z"
+  "updated_at": "2026-11-02T02:52:18.373Z"
 }
