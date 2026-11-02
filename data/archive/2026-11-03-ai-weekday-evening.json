@@ -1,0 +1,280 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "GPT-6.2 Astra灰测",
+          "summary": "GPT-6.2 Astra开启灰测",
+          "detail": "OpenAI最新大模型GPT-6.2 Astra开启灰度测试！据透露，Astra在操作电脑任务上已达到人类水平，尤其是多步骤复杂任务的完成度远超GPT-5。HuggingFace疑似泄露了权重，下载量已破5000次。Astra的推出意味着AI助手将真正进入日常办公场景，未来可能彻底改变程序员的工作方式。",
+          "usage": "💡 聊GPT-6.2 Astra的灰度测试\n💬 GPT-6.2 Astra灰测开启，操作电脑能力直接起飞！\n🔥 GPT-6.2 Astra 灰测 HuggingFace",
+          "src_id": 16,
+          "tags": [
+            "OpenAI",
+            "GPT-6.2 Astra",
+            "灰测"
+          ],
+          "source": "https://www.qbitai.com/2026/11/507082.html"
+        },
+        {
+          "title": "42AI预测人类行为",
+          "summary": "42AI推出世界模型",
+          "detail": "42AI宣布推出世界模型，声称能够预测人类行为！该公司刚从隐身模式中走出，获得6250万美元融资。世界模型的核心是模拟人类决策过程，甚至能预测未来的行为趋势。虽然听起来像科幻电影，但这种技术可能在营销、金融等领域引发革命。",
+          "usage": "💡 聊42AI的世界模型\n💬 42AI推出世界模型，预测人类行为不再是科幻！\n🔥 42AI 世界模型 预测行为",
+          "src_id": 6,
+          "tags": [
+            "42AI",
+            "世界模型",
+            "预测行为"
+          ],
+          "source": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "商汤SenseNova 6.8 Flash",
+          "summary": "商汤发布新版SenseNova",
+          "detail": "商汤最新发布的SenseNova 6.8 Flash，号称能接住顶级AI翻车的活儿！这款模型在推理速度和准确性上都有显著提升，尤其是在复杂任务的执行上表现突出。最重要的是，它完全免费！对于那些预算有限的中小企业，SenseNova 6.8 Flash无疑是个福音。",
+          "usage": "💡 聊商汤SenseNova 6.8 Flash\n💬 商汤SenseNova 6.8 Flash，免费接住顶级AI翻车的活儿！\n🔥 商汤 SenseNova 6.8 Flash 免费",
+          "src_id": 1,
+          "tags": [
+            "商汤",
+            "SenseNova 6.8 Flash",
+            "免费"
+          ],
+          "source": "https://www.qbitai.com/2026/11/507277.html"
+        },
+        {
+          "title": "Claude Mythos 5.5曝光",
+          "summary": "Claude Mythos 5.5同日曝光",
+          "detail": "Claude Mythos 5.5同日曝光！这款模型在多轮对话和上下文理解上有了显著提升，尤其是对复杂问题的处理能力更强。据悉，Mythos 5.5在处理长篇文本时表现出色，可能成为学术研究和长文档撰写的新利器。",
+          "usage": "💡 聊Claude Mythos 5.5\n💬 Claude Mythos 5.5曝光，长文档处理能力起飞！\n🔥 Claude Mythos 5.5 长文档",
+          "src_id": 16,
+          "tags": [
+            "Claude",
+            "Mythos 5.5",
+            "曝光"
+          ],
+          "source": "https://www.qbitai.com/2026/11/507082.html"
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "马斯克限Grok Bot",
+          "summary": "马斯克限Grok Bot",
+          "detail": "马斯克近日宣布限制Grok Bot的使用，原因是成本“不可持续”。他称Grok Bot是“增长最快的产品”，但也承认高昂的运算成本已经让公司吃不消。这让人不禁思考，AI产品的商业化路径是否真的可行。",
+          "usage": "💡 聊马斯克限制Grok Bot\n💬 马斯克说Grok Bot成本不可持续，AI商业化难啊！\n🔥 马斯克 Grok Bot 成本",
+          "src_id": 9,
+          "tags": [
+            "马斯克",
+            "Grok Bot",
+            "成本"
+          ],
+          "source": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"
+        },
+        {
+          "title": "OpenAI重写大模型法则",
+          "summary": "OpenAI重写大模型法则",
+          "detail": "OpenAI宣布重写大模型法则，第一条就是“忠于人类”！这是为了确保AI的发展始终符合人类的利益。奥特曼表示，未来的AI必须要有明确的价值观和伦理标准，否则后果不堪设想。",
+          "usage": "💡 聊OpenAI重写大模型法则\n💬 OpenAI重写大模型法则，第一条忠于人类！\n🔥 OpenAI 大模型法则 忠于人类",
+          "src_id": 7,
+          "tags": [
+            "OpenAI",
+            "大模型法则",
+            "忠于人类"
+          ],
+          "source": "https://www.qbitai.com/2026/11/507225.html"
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI合并ChatGPT标签",
+          "summary": "OpenAI合并ChatGPT标签",
+          "detail": "OpenAI宣布将ChatGPT的Chat和Work标签合并，用户将共享相同的使用额度。这意味着开发者将无法再分开使用ChatGPT和Codex，未来可能需要对使用量进行更精细的管理。",
+          "usage": "💡 聊OpenAI合并ChatGPT标签\n💬 OpenAI合并ChatGPT标签，开发者要注意使用量了！\n🔥 OpenAI ChatGPT Work标签",
+          "src_id": 18,
+          "tags": [
+            "OpenAI",
+            "ChatGPT",
+            "合并标签"
+          ],
+          "source": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
+        },
+        {
+          "title": "Omen AI收购Aquatic Labs",
+          "summary": "Omen AI收购Aquatic Labs",
+          "detail": "Omen AI宣布以1600万美元收购Aquatic Labs！两家公司都在解决数据中心的水资源问题，这次收购将加强Omen AI在液体冷却技术上的优势。未来，数据中心的能耗问题可能会得到显著改善。",
+          "usage": "💡 聊Omen AI收购Aquatic Labs\n💬 Omen AI收购Aquatic Labs，数据中心能耗问题有望解决！\n🔥 Omen AI Aquatic Labs 收购",
+          "src_id": 12,
+          "tags": [
+            "Omen AI",
+            "Aquatic Labs",
+            "收购"
+          ],
+          "source": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/"
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "Qodo集成Codex",
+          "summary": "Qodo集成Codex",
+          "detail": "Qodo宣布集成Codex，将公司知识和编码标准带入代码审查！开发者现在可以在Codex中捕捉P0级别的问题，极大提升了代码质量。未来，代码审查可能会变得更加智能和高效。",
+          "usage": "💡 聊Qodo集成Codex\n💬 Qodo集成Codex，代码审查智能化了！\n🔥 Qodo Codex 代码审查",
+          "src_id": 8,
+          "tags": [
+            "Qodo",
+            "Codex",
+            "代码审查"
+          ],
+          "source": "https://openai.com/index/qodo-codex-plugin"
+        },
+        {
+          "title": "小米开源AI小玩意",
+          "summary": "小米开源AI小玩意",
+          "detail": "小米开源了一个150元的AI小玩意，不仅能指挥Agent干活，还能控制智能家居！这款设备火了以后，配件价格都开始上涨。未来，智能家居的控制可能会变得更加普及和便捷。",
+          "usage": "💡 聊小米开源AI小玩意\n💬 小米开源AI小玩意，智能家居控制更方便了！\n🔥 小米 开源 AI小玩意",
+          "src_id": 13,
+          "tags": [
+            "小米",
+            "开源",
+            "AI小玩意"
+          ],
+          "source": "https://www.qbitai.com/2026/11/507107.html"
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "小米开源AI设备",
+          "summary": "小米开源AI设备",
+          "detail": "小米开源了一个150元的AI设备，不仅能指挥Agent干活，还能控制智能家居！这款设备火了以后，配件价格都开始上涨。未来，智能家居的控制可能会变得更加普及和便捷。",
+          "usage": "💡 聊小米开源AI设备\n💬 小米开源AI设备，智能家居控制更方便了！\n🔥 小米 开源 AI设备",
+          "src_id": 13,
+          "tags": [
+            "小米",
+            "开源",
+            "AI设备"
+          ],
+          "source": "https://www.qbitai.com/2026/11/507107.html"
+        },
+        {
+          "title": "OpenAI支持robots.txt",
+          "summary": "OpenAI支持robots.txt",
+          "detail": "OpenAI宣布支持robots.txt信号，帮助网站运营商表达AI训练偏好。这意味着网站可以选择是否允许AI抓取数据，数据隐私问题可能会得到更好的保护。",
+          "usage": "💡 聊OpenAI支持robots.txt\n💬 OpenAI支持robots.txt，数据隐私保护更进一步！\n🔥 OpenAI robots.txt 数据隐私",
+          "src_id": 11,
+          "tags": [
+            "OpenAI",
+            "robots.txt",
+            "数据隐私"
+          ],
+          "source": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "LifeVal基准测试",
+          "summary": "OpenAI推出LifeVal基准",
+          "detail": "OpenAI推出LifeVal基准，用于衡量AI在帮助人们完成日常任务上的表现。从财务管理到日常琐事，LifeVal将成为评估AI助手能力的新标准。未来，AI可能会更加贴近人类生活。",
+          "usage": "💡 聊OpenAI的LifeVal基准\n💬 OpenAI推出LifeVal基准，AI助手能力评估有了新标准！\n🔥 OpenAI LifeVal 基准测试",
+          "src_id": 5,
+          "tags": [
+            "OpenAI",
+            "LifeVal",
+            "基准测试"
+          ],
+          "source": "https://openai.com/index/lifeval"
+        },
+        {
+          "title": "世界模型预测行为",
+          "summary": "42AI推出世界模型",
+          "detail": "42AI宣布推出世界模型，声称能够预测人类行为！该公司刚从隐身模式中走出，获得6250万美元融资。世界模型的核心是模拟人类决策过程，甚至能预测未来的行为趋势。虽然听起来像科幻电影，但这种技术可能在营销、金融等领域引发革命。",
+          "usage": "💡 聊42AI的世界模型\n💬 42AI推出世界模型，预测人类行为不再是科幻！\n🔥 42AI 世界模型 预测行为",
+          "src_id": 6,
+          "tags": [
+            "42AI",
+            "世界模型",
+            "预测行为"
+          ],
+          "source": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "央视严选AI创业十骏",
+          "summary": "央视严选AI创业十骏",
+          "detail": "央视严选“中国AI创业十骏”，唯一入选的AI制药公司是清华系！这次评选反映了AI在医疗领域的快速发展和广泛应用。未来，AI可能会在更多传统行业中引发革命。",
+          "usage": "💡 聊央视严选AI创业十骏\n💬 央视严选AI创业十骏，AI制药公司唯一入选！\n🔥 央视 AI创业十骏 AI制药",
+          "src_id": 10,
+          "tags": [
+            "央视",
+            "AI创业十骏",
+            "AI制药"
+          ],
+          "source": "https://www.qbitai.com/2026/11/507150.html"
+        },
+        {
+          "title": "OpenAI数据中心更名",
+          "summary": "OpenAI数据中心更名",
+          "detail": "OpenAI考虑将其数据中心更名为“AI计算园区”！这一更名旨在缓解公众对数据中心的负面印象，未来可能会成为行业标准。",
+          "usage": "💡 聊OpenAI数据中心更名\n💬 OpenAI数据中心更名为AI计算园区，未来或成行业标准！\n🔥 OpenAI AI计算园区 更名",
+          "src_id": 21,
+          "tags": [
+            "OpenAI",
+            "AI计算园区",
+            "更名"
+          ],
+          "source": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-02T20:00:17.604Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3468,
+    "completion_tokens": 2693,
+    "total_tokens": 6161,
+    "cost_usd": 0.0036629523000000002,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

@@ -1,256 +1,272 @@
 {
   "categories": [
     {
-      "name": "炸裂新闻",
+      "name": "💥 炸裂新闻",
       "icon": "💥",
       "items": [
         {
-          "title": "AI 计算校园诞生",
-          "summary": "OpenAI或将数据中心重塑为AI计算校园。",
-          "detail": "OpenAI近日考虑将其数据中心重新品牌为“AI计算校园”。这是因为现有的数据中心形象不佳，而这种新命名可能会提升公众接受度，毕竟听起来更像是科技前沿的实验室。想想过去，谁会愿意去一个阴暗潮湿的数据中心？现在想象一个充满创新、启发灵感的校园！",
-          "usage": "💡 聊聊新型数据中心的概念 \n💬 “OpenAI正在将数据中心重塑为AI计算校园。” \n🔥 AI计算校园 数据中心",
-          "source": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+          "title": "GPT-6.2 Astra灰测",
+          "summary": "GPT-6.2 Astra开启灰测",
+          "detail": "OpenAI最新大模型GPT-6.2 Astra开启灰度测试！据透露，Astra在操作电脑任务上已达到人类水平，尤其是多步骤复杂任务的完成度远超GPT-5。HuggingFace疑似泄露了权重，下载量已破5000次。Astra的推出意味着AI助手将真正进入日常办公场景，未来可能彻底改变程序员的工作方式。",
+          "usage": "💡 聊GPT-6.2 Astra的灰度测试\n💬 GPT-6.2 Astra灰测开启，操作电脑能力直接起飞！\n🔥 GPT-6.2 Astra 灰测 HuggingFace",
+          "src_id": 16,
           "tags": [
             "OpenAI",
-            "数据中心",
-            "重品牌"
-          ]
+            "GPT-6.2 Astra",
+            "灰测"
+          ],
+          "source": "https://www.qbitai.com/2026/11/507082.html"
         },
         {
-          "title": "DeepSeek重磅开源",
-          "summary": "DeepSeek发布Agent底座架构，AI自找Bug。",
-          "detail": "DeepSeek刚刚开源了其Agent底座架构，令人震惊的是，AI现在能够自己找到Bug并提交PR。这意味着，开发者在处理代码问题时，将迎来更高的效率和更少的手动工作。想象一下，程序员们再也不需要熬夜找Bug，AI会主动帮他们解决问题，真是让人松了一口气！",
-          "usage": "💡 分享AI自动找Bug的趋势 \n💬 “AI已经自己找到Bug并提交PR！” \n🔥 DeepSeek 开源 AI",
-          "source": "https://www.qbitai.com/2026/10/506904.html",
+          "title": "42AI预测人类行为",
+          "summary": "42AI推出世界模型",
+          "detail": "42AI宣布推出世界模型，声称能够预测人类行为！该公司刚从隐身模式中走出，获得6250万美元融资。世界模型的核心是模拟人类决策过程，甚至能预测未来的行为趋势。虽然听起来像科幻电影，但这种技术可能在营销、金融等领域引发革命。",
+          "usage": "💡 聊42AI的世界模型\n💬 42AI推出世界模型，预测人类行为不再是科幻！\n🔥 42AI 世界模型 预测行为",
+          "src_id": 6,
           "tags": [
-            "DeepSeek",
-            "开源",
-            "AI"
-          ]
+            "42AI",
+            "世界模型",
+            "预测行为"
+          ],
+          "source": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
         }
       ]
     },
     {
-      "name": "新模型发布",
+      "name": "🚀 新模型发布",
       "icon": "🚀",
       "items": [
         {
-          "title": "Claude紧急叫停",
-          "summary": "Claude停止更新，改版游戏规则。",
-          "detail": "Claude因暗自修改其游戏规则而被迫叫停。新的Harness限制了AI的逆向工程能力，这意味着开发者今后将面临更严苛的使用限制。想象一下，以前AI可以轻松畅玩游戏，现在却要受到束缚，感觉就像是把程序员的双手绑住了！",
-          "usage": "💡 讨论AI逆向工程的变化 \n💬 “Claude因为暗改被迫叫停！” \n🔥 Claude 逆向工程",
-          "source": "https://www.qbitai.com/2026/11/507038.html",
+          "title": "商汤SenseNova 6.8 Flash",
+          "summary": "商汤发布新版SenseNova",
+          "detail": "商汤最新发布的SenseNova 6.8 Flash，号称能接住顶级AI翻车的活儿！这款模型在推理速度和准确性上都有显著提升，尤其是在复杂任务的执行上表现突出。最重要的是，它完全免费！对于那些预算有限的中小企业，SenseNova 6.8 Flash无疑是个福音。",
+          "usage": "💡 聊商汤SenseNova 6.8 Flash\n💬 商汤SenseNova 6.8 Flash，免费接住顶级AI翻车的活儿！\n🔥 商汤 SenseNova 6.8 Flash 免费",
+          "src_id": 1,
           "tags": [
-            "Claude",
-            "更新",
-            "游戏规则"
-          ]
+            "商汤",
+            "SenseNova 6.8 Flash",
+            "免费"
+          ],
+          "source": "https://www.qbitai.com/2026/11/507277.html"
         },
         {
-          "title": "清华新作震撼",
-          "summary": "姚期智团队发布代数世界模型。",
-          "detail": "清华大学姚期智团队发布了一种全新的代数世界模型，能够让AI像牛顿一样思考。这一突破不仅提升了AI的推理能力，还为复杂问题的解决打开了新的大门。想象一下，未来AI在处理物理或数学问题时，能像牛顿那样深刻理解，真是不得了！",
-          "usage": "💡 分享AI如何理解复杂问题 \n💬 “代数世界模型让AI像牛顿一样思考。” \n🔥 清华 AI 模型",
-          "source": "https://www.qbitai.com/2026/11/507031.html",
+          "title": "Claude Mythos 5.5曝光",
+          "summary": "Claude Mythos 5.5同日曝光",
+          "detail": "Claude Mythos 5.5同日曝光！这款模型在多轮对话和上下文理解上有了显著提升，尤其是对复杂问题的处理能力更强。据悉，Mythos 5.5在处理长篇文本时表现出色，可能成为学术研究和长文档撰写的新利器。",
+          "usage": "💡 聊Claude Mythos 5.5\n💬 Claude Mythos 5.5曝光，长文档处理能力起飞！\n🔥 Claude Mythos 5.5 长文档",
+          "src_id": 16,
           "tags": [
-            "清华大学",
-            "AI模型",
-            "代数"
-          ]
+            "Claude",
+            "Mythos 5.5",
+            "曝光"
+          ],
+          "source": "https://www.qbitai.com/2026/11/507082.html"
         }
       ]
     },
     {
-      "name": "AI大佬言论",
+      "name": "🗣️ AI 大佬言论",
       "icon": "🗣️",
       "items": [
         {
-          "title": "库克谈AI战略",
-          "summary": "苹果CEO不愿为AI而AI。",
-          "detail": "苹果新任CEO在最近的一次采访中表示，苹果不想仅仅为AI而开发AI，而是希望每项技术都能为用户带来真正的价值。这种观点引发了行业内的广泛讨论，毕竟在这个AI热潮中，多少公司在追逐趋势却忽视了实用性？",
-          "usage": "💡 聊聊AI与实用性的关系 \n💬 “我们不想为AI而开发AI。” \n🔥 苹果 CEO AI",
-          "source": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+          "title": "马斯克限Grok Bot",
+          "summary": "马斯克限Grok Bot",
+          "detail": "马斯克近日宣布限制Grok Bot的使用，原因是成本“不可持续”。他称Grok Bot是“增长最快的产品”，但也承认高昂的运算成本已经让公司吃不消。这让人不禁思考，AI产品的商业化路径是否真的可行。",
+          "usage": "💡 聊马斯克限制Grok Bot\n💬 马斯克说Grok Bot成本不可持续，AI商业化难啊！\n🔥 马斯克 Grok Bot 成本",
+          "src_id": 9,
           "tags": [
-            "库克",
-            "苹果",
-            "AI战略"
-          ]
+            "马斯克",
+            "Grok Bot",
+            "成本"
+          ],
+          "source": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"
         },
         {
-          "title": "AI能否救CEO",
-          "summary": "Tech界讨论AI对CEO的影响。",
-          "detail": "在最近的一次圆桌讨论中，TechCrunch指出，AI确实能为科技CEO的工作带来便利，但对普通员工而言，其实并没有显著的帮助。这一言论引发了对AI投资的深思——是时候反思AI的真正价值所在，还是继续盲目跟风？",
-          "usage": "💡 讨论AI对普通员工的影响 \n💬 “AI能让CEO的生活更轻松，但普通员工呢？” \n🔥 AI CEO 劳动市场",
-          "source": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+          "title": "OpenAI重写大模型法则",
+          "summary": "OpenAI重写大模型法则",
+          "detail": "OpenAI宣布重写大模型法则，第一条就是“忠于人类”！这是为了确保AI的发展始终符合人类的利益。奥特曼表示，未来的AI必须要有明确的价值观和伦理标准，否则后果不堪设想。",
+          "usage": "💡 聊OpenAI重写大模型法则\n💬 OpenAI重写大模型法则，第一条忠于人类！\n🔥 OpenAI 大模型法则 忠于人类",
+          "src_id": 7,
           "tags": [
-            "AI",
-            "科技CEO",
-            "讨论"
-          ]
+            "OpenAI",
+            "大模型法则",
+            "忠于人类"
+          ],
+          "source": "https://www.qbitai.com/2026/11/507225.html"
         }
       ]
     },
     {
-      "name": "巨头动态",
+      "name": "🏢 巨头动态",
       "icon": "🏢",
       "items": [
         {
-          "title": "OpenAI重启合作",
-          "summary": "OpenAI与ServiceNow扩展合作。",
-          "detail": "OpenAI与ServiceNow宣布扩展其合作，计划将OpenAI的模型和代理引入ServiceNow。这一举动不仅将提高企业工作流的效率，还为AI在企业级应用中的普及铺平了道路。想象未来，当AI帮助企业处理繁杂的任务时，员工们的工作负担将大幅减轻！",
-          "usage": "💡 聊聊AI在企业的应用前景 \n💬 “OpenAI与ServiceNow扩展合作，提升企业工作流。” \n🔥 OpenAI ServiceNow 合作",
-          "source": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "title": "OpenAI合并ChatGPT标签",
+          "summary": "OpenAI合并ChatGPT标签",
+          "detail": "OpenAI宣布将ChatGPT的Chat和Work标签合并，用户将共享相同的使用额度。这意味着开发者将无法再分开使用ChatGPT和Codex，未来可能需要对使用量进行更精细的管理。",
+          "usage": "💡 聊OpenAI合并ChatGPT标签\n💬 OpenAI合并ChatGPT标签，开发者要注意使用量了！\n🔥 OpenAI ChatGPT Work标签",
+          "src_id": 18,
           "tags": [
             "OpenAI",
-            "ServiceNow",
-            "合作"
-          ]
+            "ChatGPT",
+            "合并标签"
+          ],
+          "source": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
         },
         {
-          "title": "Nvidia支持AI数据中心",
-          "summary": "Nvidia考虑担任数据中心的共同签字人。",
-          "detail": "Nvidia正在考虑成为Nscale在西弗吉尼亚AI数据中心的共同签字人。这表明，面对投资者信心不足的局面，拥有强大芯片制造能力的Nvidia将扮演重要角色。想象一下，未来数据中心的建设会因为Nvidia的参与而变得更令人期待！",
-          "usage": "💡 讨论硬件与AI的关系 \n💬 “Nvidia考虑担任Nscale数据中心的共同签字人。” \n🔥 Nvidia 数据中心 AI",
-          "source": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+          "title": "Omen AI收购Aquatic Labs",
+          "summary": "Omen AI收购Aquatic Labs",
+          "detail": "Omen AI宣布以1600万美元收购Aquatic Labs！两家公司都在解决数据中心的水资源问题，这次收购将加强Omen AI在液体冷却技术上的优势。未来，数据中心的能耗问题可能会得到显著改善。",
+          "usage": "💡 聊Omen AI收购Aquatic Labs\n💬 Omen AI收购Aquatic Labs，数据中心能耗问题有望解决！\n🔥 Omen AI Aquatic Labs 收购",
+          "src_id": 12,
           "tags": [
-            "Nvidia",
-            "数据中心",
-            "投资"
-          ]
+            "Omen AI",
+            "Aquatic Labs",
+            "收购"
+          ],
+          "source": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/"
         }
       ]
     },
     {
-      "name": "产品落地",
+      "name": "🛠️ 产品落地",
       "icon": "🛠️",
       "items": [
         {
-          "title": "ChatGPT保护青少年",
-          "summary": "OpenAI增强ChatGPT的青少年保护措施。",
-          "detail": "OpenAI近日公布了针对青少年的安全报告，并扩展了ChatGPT中的暴力防范措施。这一举措旨在为年轻用户提供更安全的使用环境，尤其是在互联网上充斥着各种信息的时代。想象一下，孩子们在使用AI时也能得到更好的保护，这对家庭来说是一份安心！",
-          "usage": "💡 聊聊AI在青少年保护中的作用 \n💬 “OpenAI增强了ChatGPT的青少年保护措施。” \n🔥 ChatGPT 青少年 保护",
-          "source": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+          "title": "Qodo集成Codex",
+          "summary": "Qodo集成Codex",
+          "detail": "Qodo宣布集成Codex，将公司知识和编码标准带入代码审查！开发者现在可以在Codex中捕捉P0级别的问题，极大提升了代码质量。未来，代码审查可能会变得更加智能和高效。",
+          "usage": "💡 聊Qodo集成Codex\n💬 Qodo集成Codex，代码审查智能化了！\n🔥 Qodo Codex 代码审查",
+          "src_id": 8,
           "tags": [
-            "ChatGPT",
-            "青少年",
-            "保护"
-          ]
+            "Qodo",
+            "Codex",
+            "代码审查"
+          ],
+          "source": "https://openai.com/index/qodo-codex-plugin"
         },
         {
-          "title": "ChatGPT企业试点成功",
-          "summary": "Credit Saison使用ChatGPT获得954%投资回报。",
-          "detail": "Credit Saison通过ChatGPT企业版本的试点项目实现了惊人的954%投资回报率。这个案例向我们展示了AI在企业效率提升方面的巨大潜力，想想如果各大企业都能借此优化流程，利润将会有多大提升！",
-          "usage": "💡 分享AI在企业中的成功案例 \n💬 “Credit Saison实现了954%的投资回报。” \n🔥 ChatGPT 企业 投资回报",
-          "source": "https://openai.com/index/credit-saison",
+          "title": "小米开源AI小玩意",
+          "summary": "小米开源AI小玩意",
+          "detail": "小米开源了一个150元的AI小玩意，不仅能指挥Agent干活，还能控制智能家居！这款设备火了以后，配件价格都开始上涨。未来，智能家居的控制可能会变得更加普及和便捷。",
+          "usage": "💡 聊小米开源AI小玩意\n💬 小米开源AI小玩意，智能家居控制更方便了！\n🔥 小米 开源 AI小玩意",
+          "src_id": 13,
           "tags": [
-            "ChatGPT",
-            "企业",
-            "投资回报"
-          ]
+            "小米",
+            "开源",
+            "AI小玩意"
+          ],
+          "source": "https://www.qbitai.com/2026/11/507107.html"
         }
       ]
     },
     {
-      "name": "开源江湖",
+      "name": "🔓 开源江湖",
       "icon": "🔓",
       "items": [
         {
-          "title": "Jev再爆开源热潮",
-          "summary": "Jev的最新成果引发开源热潮。",
-          "detail": "Jev团队最近的成果再次点燃了开源热情。随着越来越多的开发者投身于开源社区，技术共享的理念得到进一步普及，这不仅提升了创新速度，还促进了整个行业的健康发展。想象一下，未来任何人都能在开源平台上找到无数解决方案，这简直是技术的民主化！",
-          "usage": "💡 聊聊开源的重要性 \n💬 “Jev的最新成果再次引发开源热潮。” \n🔥 Jev 开源 热潮",
-          "source": "https://www.qbitai.com/2026/11/506922.html",
+          "title": "小米开源AI设备",
+          "summary": "小米开源AI设备",
+          "detail": "小米开源了一个150元的AI设备，不仅能指挥Agent干活，还能控制智能家居！这款设备火了以后，配件价格都开始上涨。未来，智能家居的控制可能会变得更加普及和便捷。",
+          "usage": "💡 聊小米开源AI设备\n💬 小米开源AI设备，智能家居控制更方便了！\n🔥 小米 开源 AI设备",
+          "src_id": 13,
           "tags": [
-            "Jev",
+            "小米",
             "开源",
-            "热潮"
-          ]
+            "AI设备"
+          ],
+          "source": "https://www.qbitai.com/2026/11/507107.html"
         },
         {
-          "title": "世界模型变革",
-          "summary": "世界模型首次指导芯片设计。",
-          "detail": "世界模型作为一种新的AI思维框架，首次成功指导芯片设计，创造出超大核NPU（700 TOPS），其99%的算力可用。这一创新标志着AI不仅能思考，还可以在工程领域发挥重要作用，未来AI在芯片设计方面的应用将更加广泛，让我们拭目以待！",
-          "usage": "💡 讨论AI在芯片设计中的应用 \n💬 “世界模型首次指导设计芯片！” \n🔥 芯片设计 世界模型 AI",
-          "source": "https://www.qbitai.com/2026/10/506866.html",
+          "title": "OpenAI支持robots.txt",
+          "summary": "OpenAI支持robots.txt",
+          "detail": "OpenAI宣布支持robots.txt信号，帮助网站运营商表达AI训练偏好。这意味着网站可以选择是否允许AI抓取数据，数据隐私问题可能会得到更好的保护。",
+          "usage": "💡 聊OpenAI支持robots.txt\n💬 OpenAI支持robots.txt，数据隐私保护更进一步！\n🔥 OpenAI robots.txt 数据隐私",
+          "src_id": 11,
           "tags": [
-            "世界模型",
-            "芯片设计",
-            "AI"
-          ]
+            "OpenAI",
+            "robots.txt",
+            "数据隐私"
+          ],
+          "source": "https://openai.com/index/helping-websites-express-ai-training-preferences"
         }
       ]
     },
     {
-      "name": "研究突破",
+      "name": "🔬 研究突破",
       "icon": "🔬",
       "items": [
         {
-          "title": "OpenAI检测新技术",
-          "summary": "OpenAI推出新技术检测模型失调。",
-          "detail": "OpenAI近日发布了前沿模型失调监测的新技术，通过多层监控手段来识别和应对未经授权的代理行为。这一技术的推出将大幅提升AI系统的安全性，想象一下，未来AI将更能自我保护，防止被滥用，真是对整个行业的保障！",
-          "usage": "💡 分享AI安全性的重要性 \n💬 “OpenAI推出新技术检测模型失调。” \n🔥 AI安全 监测",
-          "source": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+          "title": "LifeVal基准测试",
+          "summary": "OpenAI推出LifeVal基准",
+          "detail": "OpenAI推出LifeVal基准，用于衡量AI在帮助人们完成日常任务上的表现。从财务管理到日常琐事，LifeVal将成为评估AI助手能力的新标准。未来，AI可能会更加贴近人类生活。",
+          "usage": "💡 聊OpenAI的LifeVal基准\n💬 OpenAI推出LifeVal基准，AI助手能力评估有了新标准！\n🔥 OpenAI LifeVal 基准测试",
+          "src_id": 5,
           "tags": [
             "OpenAI",
-            "监测",
-            "安全"
-          ]
+            "LifeVal",
+            "基准测试"
+          ],
+          "source": "https://openai.com/index/lifeval"
         },
         {
-          "title": "AI思维再突破",
-          "summary": "AI技术思维与代数模型结合。",
-          "detail": "清华大学姚期智教授的团队发布了一项新研究，提出将AI技术思维与代数模型结合，允许AI在面对复杂问题时有更深的理解。这项研究对于未来AI在科学研究、工程开发等领域的应用具有重要意义，简直可以说是迈向了AI的全新高度！",
-          "usage": "💡 聊聊AI与数学的结合 \n💬 “代数世界模型让AI像牛顿一样思考。” \n🔥 AI 数学 研究",
-          "source": "https://www.qbitai.com/2026/11/507031.html",
+          "title": "世界模型预测行为",
+          "summary": "42AI推出世界模型",
+          "detail": "42AI宣布推出世界模型，声称能够预测人类行为！该公司刚从隐身模式中走出，获得6250万美元融资。世界模型的核心是模拟人类决策过程，甚至能预测未来的行为趋势。虽然听起来像科幻电影，但这种技术可能在营销、金融等领域引发革命。",
+          "usage": "💡 聊42AI的世界模型\n💬 42AI推出世界模型，预测人类行为不再是科幻！\n🔥 42AI 世界模型 预测行为",
+          "src_id": 6,
           "tags": [
-            "AI",
-            "代数",
-            "研究"
-          ]
+            "42AI",
+            "世界模型",
+            "预测行为"
+          ],
+          "source": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
         }
       ]
     },
     {
-      "name": "行业风向",
+      "name": "📈 行业风向",
       "icon": "📈",
       "items": [
         {
-          "title": "OpenAI融资目标下调",
-          "summary": "OpenAI最新融资目标未达预期。",
-          "detail": "OpenAI在其最新融资轮中的资金目标下调，显现出市场对AI投资的谨慎态度。这一变化引发了行业的广泛关注，投资者们开始重新评估AI的潜力，想象着未来AI行业可能面临的挑战，是否将影响技术发展的步伐？",
-          "usage": "💡 讨论AI行业的投资趋势 \n💬 “OpenAI的融资目标似乎没有实现。” \n🔥 AI融资 投资趋势",
-          "source": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+          "title": "央视严选AI创业十骏",
+          "summary": "央视严选AI创业十骏",
+          "detail": "央视严选“中国AI创业十骏”，唯一入选的AI制药公司是清华系！这次评选反映了AI在医疗领域的快速发展和广泛应用。未来，AI可能会在更多传统行业中引发革命。",
+          "usage": "💡 聊央视严选AI创业十骏\n💬 央视严选AI创业十骏，AI制药公司唯一入选！\n🔥 央视 AI创业十骏 AI制药",
+          "src_id": 10,
           "tags": [
-            "OpenAI",
-            "融资",
-            "投资"
-          ]
+            "央视",
+            "AI创业十骏",
+            "AI制药"
+          ],
+          "source": "https://www.qbitai.com/2026/11/507150.html"
         },
         {
-          "title": "xAI面临诉讼",
-          "summary": "NAACP诉xAI污染案获法官认可。",
-          "detail": "一名法官批准了NAACP针对xAI数据中心污染的诉讼，指控其违反《清洁空气法》。这一案件的进一步发展将可能对AI行业的环境责任提出新的挑战，想象一下，未来AI企业在追求技术创新的同时，也要兼顾环保责任，这可真是双重考验！",
-          "usage": "💡 讨论AI的环境责任 \n💬 “NAACP诉xAI数据中心污染案获法官认可。” \n🔥 xAI 诉讼 环境责任",
-          "source": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+          "title": "OpenAI数据中心更名",
+          "summary": "OpenAI数据中心更名",
+          "detail": "OpenAI考虑将其数据中心更名为“AI计算园区”！这一更名旨在缓解公众对数据中心的负面印象，未来可能会成为行业标准。",
+          "usage": "💡 聊OpenAI数据中心更名\n💬 OpenAI数据中心更名为AI计算园区，未来或成行业标准！\n🔥 OpenAI AI计算园区 更名",
+          "src_id": 21,
           "tags": [
-            "xAI",
-            "诉讼",
-            "环境责任"
-          ]
+            "OpenAI",
+            "AI计算园区",
+            "更名"
+          ],
+          "source": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
         }
       ]
     }
   ],
-  "generated_at": "2026-11-02T02:52:18.358Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-11-02T20:00:17.604Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
-    "model": "openai/gpt-4o-mini",
-    "actual_model": "openai/gpt-4o-mini",
-    "prompt_tokens": 3694,
-    "completion_tokens": 3393,
-    "total_tokens": 7087,
-    "cost_usd": 0.0025899,
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3468,
+    "completion_tokens": 2693,
+    "total_tokens": 6161,
+    "cost_usd": 0.0036629523000000002,
     "free": false,
     "sources": {
       "per_source": {
