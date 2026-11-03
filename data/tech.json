@@ -5,82 +5,56 @@
       "icon": "📰",
       "items": [
         {
-          "title": "小镇姐弟IPO",
-          "summary": "皇冠新材上市暴涨200%",
-          "detail": "11月3日，皇冠新材在深交所主板上市，发行价16.98元，开盘56元，涨幅超过200%。这家公司客户包括华为、苹果、特斯拉、宁德时代等科技巨头，堪称小镇企业的逆袭典范。",
-          "usage": "💡 同事讨论股票时\n💬 你们看那个小镇姐弟IPO了吗？涨幅200%！\n🔥 皇冠新材 IPO 涨幅",
-          "source": "https://www.huxiu.com/article/4902539.html?f=rss",
+          "title": "特斯拉掉队了",
+          "summary": "特斯拉10月销量跌至第8！",
+          "detail": "特斯拉的销量如同过山车，10月份竟然跌至新能源汽车销量榜第8位，真让人瞠目结舌。这是怎么回事？电动车市场竞争加剧，众多新兴品牌如雨后春笋般冒出，特斯拉的神话在逐渐被打破。家人们，想当年可是风光无限啊，现在竟然得看别人脸色卖车了！",
+          "usage": "💡 上班时可以聊聊特斯拉的竞争力 \n💬 特斯拉竟然跌至销量第八，竞争真激烈！ \n🔥 特斯拉 新能源汽车 竞争",
+          "source": "https://m.baidu.com/s?word=10%E6%9C%88%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E6%A6%9C%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%87%B3%E7%AC%AC8&sa=fyb_news",
           "tags": [
-            "IPO",
-            "科技"
+            "特斯拉",
+            "销量",
+            "电动车"
           ]
         },
         {
-          "title": "苹果压力测试",
-          "summary": "苹果市值重回5万亿",
-          "detail": "苹果市值重回全球第一，突破5万亿关口，但在AI资本开支焦虑的背景下，苹果能否继续保持增长面临压力测试。硅谷科技巨头们都在疯狂砸钱搞AI，苹果却显得格外淡定。",
-          "usage": "💡 讨论苹果新品时\n💬 苹果市值重回第一，但AI焦虑能扛多久？\n🔥 苹果 市值 AI",
-          "source": "https://www.huxiu.com/article/4902520.html?f=rss",
+          "title": "6G来了，离我们还有多远？",
+          "summary": "6G技术开始布局，未来展望引发热议！",
+          "detail": "在科技圈，6G的讨论正如火如荼。行业专家预测，6G将带来更高的速率和更低的延迟，开启新的通讯时代。很多人开始憧憬未来的科技生活，是否能像科幻片一样畅享虚拟现实、全息通讯等前沿技术。不过，还是那句老话，6G离我们还有多远呢？",
+          "usage": "💡 聊聊未来科技的发展方向 \n💬 6G开始布局了，未来会不会更酷啊？ \n🔥 6G 通讯 技术",
+          "source": "https://m.baidu.com/s?word=6G%E6%9D%A5%E4%BA%86+%E7%A6%BB%E6%88%91%E4%BB%AC%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C&sa=fyb_news",
           "tags": [
-            "苹果",
-            "市值"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "创业大戏",
-      "icon": "🎬",
-      "items": [
-        {
-          "title": "泡泡玛特遇冷",
-          "summary": "泡泡玛特收益下降",
-          "detail": "泡泡玛特第三季度收益同比下降45%至50%，美洲市场表现尤为疲软。创始人王宁表示：“我们将调整战略，重新聚焦中国市场。”",
-          "usage": "💡 讨论泡泡玛特时\n💬 泡泡玛特收益暴跌45%，美洲市场凉了\n🔥 泡泡玛特 收益 下降",
-          "source": "https://www.huxiu.com/article/4902529.html?f=rss",
-          "tags": [
-            "泡泡玛特",
-            "收益"
-          ]
-        },
-        {
-          "title": "机器人租赁",
-          "summary": "机器人租赁兴起",
-          "detail": "机器人行业面临落地难题，下游市场却兴起租赁模式。业内调侃：“造不如租，租不如租不起。”",
-          "usage": "💡 讨论机器人时\n💬 机器人租赁火了，造不如租\n🔥 机器人 租赁 行业",
-          "source": "https://www.huxiu.com/article/4902536.html?f=rss",
-          "tags": [
-            "机器人",
-            "租赁"
+            "6G",
+            "科技前沿",
+            "通讯"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-03T04:08:24.329Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-11-03T17:28:16.684Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
-    "model": "deepseek/deepseek-chat",
-    "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 5794,
-    "completion_tokens": 2120,
-    "total_tokens": 7914,
-    "cost_usd": 0.0036722196,
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 4647,
+    "completion_tokens": 3225,
+    "total_tokens": 7872,
+    "cost_usd": 0.00263205,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 12,
-      "published": 4
+      "dropped_orphans": 14,
+      "published": 2
     },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 12,
+        "huxiu": 3,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 24
+      "total": 15
     }
   }
 }

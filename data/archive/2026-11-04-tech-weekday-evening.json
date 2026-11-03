@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "特斯拉掉队了",
+          "summary": "特斯拉10月销量跌至第8！",
+          "detail": "特斯拉的销量如同过山车，10月份竟然跌至新能源汽车销量榜第8位，真让人瞠目结舌。这是怎么回事？电动车市场竞争加剧，众多新兴品牌如雨后春笋般冒出，特斯拉的神话在逐渐被打破。家人们，想当年可是风光无限啊，现在竟然得看别人脸色卖车了！",
+          "usage": "💡 上班时可以聊聊特斯拉的竞争力 \n💬 特斯拉竟然跌至销量第八，竞争真激烈！ \n🔥 特斯拉 新能源汽车 竞争",
+          "source": "https://m.baidu.com/s?word=10%E6%9C%88%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E6%A6%9C%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%87%B3%E7%AC%AC8&sa=fyb_news",
+          "tags": [
+            "特斯拉",
+            "销量",
+            "电动车"
+          ]
+        },
+        {
+          "title": "6G来了，离我们还有多远？",
+          "summary": "6G技术开始布局，未来展望引发热议！",
+          "detail": "在科技圈，6G的讨论正如火如荼。行业专家预测，6G将带来更高的速率和更低的延迟，开启新的通讯时代。很多人开始憧憬未来的科技生活，是否能像科幻片一样畅享虚拟现实、全息通讯等前沿技术。不过，还是那句老话，6G离我们还有多远呢？",
+          "usage": "💡 聊聊未来科技的发展方向 \n💬 6G开始布局了，未来会不会更酷啊？ \n🔥 6G 通讯 技术",
+          "source": "https://m.baidu.com/s?word=6G%E6%9D%A5%E4%BA%86+%E7%A6%BB%E6%88%91%E4%BB%AC%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C&sa=fyb_news",
+          "tags": [
+            "6G",
+            "科技前沿",
+            "通讯"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-03T17:28:16.684Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 4647,
+    "completion_tokens": 3225,
+    "total_tokens": 7872,
+    "cost_usd": 0.00263205,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 14,
+      "published": 2
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 3,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 15
+    }
+  }
+}
