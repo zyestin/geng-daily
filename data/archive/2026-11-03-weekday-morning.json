@@ -1,0 +1,199 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Next.js 新版本",
+          "summary": "Next.js 新版本发布",
+          "detail": "Next.js 最近发布了新版本，带来了许多性能优化和新特性，特别是在SSR和静态生成方面有显著提升。",
+          "usage": "你看了Next.js的新版本了吗？听说SSR和静态生成优化了不少，感觉咱们的项目可以考虑升级一下。",
+          "source": "",
+          "tags": [
+            "Next.js",
+            "SSR"
+          ]
+        },
+        {
+          "title": "SvelteKit 1.0",
+          "summary": "SvelteKit 1.0 正式发布",
+          "detail": "SvelteKit 1.0 终于来了，带来了更好的性能和开发者体验，特别是在构建大型应用时表现突出。",
+          "usage": "SvelteKit 1.0发布了，你试过了吗？听说在大型应用上表现很不错，咱们可以试试看。",
+          "source": "",
+          "tags": [
+            "SvelteKit",
+            "前端"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN 新架构",
+          "summary": "React Native 新架构 Fabric",
+          "detail": "React Native 的新架构 Fabric 已经逐步应用到实际项目中，带来了显著的性能提升和更流畅的用户体验。",
+          "usage": "你们项目用上RN的新架构Fabric了吗？听说性能提升了不少，感觉值得一试。",
+          "source": "",
+          "tags": [
+            "React Native",
+            "Fabric"
+          ]
+        },
+        {
+          "title": "跨端方案",
+          "summary": "React Native 跨端方案讨论",
+          "detail": "React Native 的跨端方案一直是开发者关注的热点，最近社区提出了几种新的解决方案，值得关注。",
+          "usage": "最近RN的跨端方案讨论挺多的，你觉得哪种方案更适合咱们的项目？",
+          "source": "",
+          "tags": [
+            "React Native",
+            "跨端"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "AI 生成UI",
+          "summary": "AI 生成UI工具",
+          "detail": "AI 生成UI的工具越来越成熟，能够根据描述快速生成界面设计，大大提高了开发效率。",
+          "usage": "你试过用AI生成UI吗？最近有个工具挺火的，感觉能省不少时间。",
+          "source": "",
+          "tags": [
+            "AI",
+            "UI"
+          ]
+        },
+        {
+          "title": "Copilot 更新",
+          "summary": "GitHub Copilot 新功能",
+          "detail": "GitHub Copilot 最近更新了一些新功能，包括代码片段生成和错误检测，进一步提升了编码效率。",
+          "usage": "Copilot又更新了，新功能挺实用的，特别是代码片段生成，感觉能提高不少效率。",
+          "source": "",
+          "tags": [
+            "Copilot",
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "TypeScript 5.3",
+          "summary": "TypeScript 5.3 新特性",
+          "detail": "TypeScript 5.3 引入了多项新特性，如更严格的类型检查和更好的模块支持，进一步提升了开发体验。",
+          "usage": "TypeScript 5.3发布了，新特性挺多的，你觉得哪些特性对咱们项目最有帮助？",
+          "source": "",
+          "tags": [
+            "TypeScript",
+            "JS"
+          ]
+        },
+        {
+          "title": "Bun 1.0",
+          "summary": "Bun 1.0 发布",
+          "detail": "Bun 1.0 正式发布，作为一个快速且轻量的JS运行时，它在性能和兼容性上都有显著提升。",
+          "usage": "Bun 1.0发布了，听说性能提升了不少，咱们可以试试看。",
+          "source": "",
+          "tags": [
+            "Bun",
+            "JS"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "GitHub Trending",
+          "summary": "GitHub 热门项目",
+          "detail": "GitHub 今日热门项目包括多个前端和后端框架，以及一些AI相关的工具，值得关注。",
+          "usage": "今天GitHub Trending上有几个项目挺火的，你看了吗？感觉有几个工具挺实用的。",
+          "source": "",
+          "tags": [
+            "GitHub",
+            "开源"
+          ]
+        },
+        {
+          "title": "新开源项目",
+          "summary": "新开源项目发布",
+          "detail": "最近有几个新开源项目发布，涵盖了从AI到前端开发的多个领域，值得关注和尝试。",
+          "usage": "最近有几个新开源项目发布了，你觉得哪个最有潜力？",
+          "source": "",
+          "tags": [
+            "开源",
+            "项目"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "程序员段子",
+          "summary": "程序员段子合集",
+          "detail": "最近程序员社区又涌现出一批新的段子，调侃了日常开发中的各种趣事和痛点。",
+          "usage": "你看了最近程序员的段子吗？有几个还挺搞笑的，感觉说出了我们的心声。",
+          "source": "",
+          "tags": [
+            "段子",
+            "程序员"
+          ]
+        },
+        {
+          "title": "Stack Overflow 梗",
+          "summary": "Stack Overflow 新梗",
+          "detail": "Stack Overflow 上又出现了一些新的梗，主要是围绕代码调试和问题解决的各种搞笑场景。",
+          "usage": "最近Stack Overflow上又有新梗了，特别是关于调试的，感觉挺贴切的。",
+          "source": "",
+          "tags": [
+            "Stack Overflow",
+            "梗"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-03T04:03:10.795Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2035,
+    "completion_tokens": 1357,
+    "total_tokens": 3392,
+    "cost_usd": 0.0019197549000000002,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}

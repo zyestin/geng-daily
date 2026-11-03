@@ -1,0 +1,86 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "小镇姐弟IPO",
+          "summary": "皇冠新材上市暴涨200%",
+          "detail": "11月3日，皇冠新材在深交所主板上市，发行价16.98元，开盘56元，涨幅超过200%。这家公司客户包括华为、苹果、特斯拉、宁德时代等科技巨头，堪称小镇企业的逆袭典范。",
+          "usage": "💡 同事讨论股票时\n💬 你们看那个小镇姐弟IPO了吗？涨幅200%！\n🔥 皇冠新材 IPO 涨幅",
+          "source": "https://www.huxiu.com/article/4902539.html?f=rss",
+          "tags": [
+            "IPO",
+            "科技"
+          ]
+        },
+        {
+          "title": "苹果压力测试",
+          "summary": "苹果市值重回5万亿",
+          "detail": "苹果市值重回全球第一，突破5万亿关口，但在AI资本开支焦虑的背景下，苹果能否继续保持增长面临压力测试。硅谷科技巨头们都在疯狂砸钱搞AI，苹果却显得格外淡定。",
+          "usage": "💡 讨论苹果新品时\n💬 苹果市值重回第一，但AI焦虑能扛多久？\n🔥 苹果 市值 AI",
+          "source": "https://www.huxiu.com/article/4902520.html?f=rss",
+          "tags": [
+            "苹果",
+            "市值"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "泡泡玛特遇冷",
+          "summary": "泡泡玛特收益下降",
+          "detail": "泡泡玛特第三季度收益同比下降45%至50%，美洲市场表现尤为疲软。创始人王宁表示：“我们将调整战略，重新聚焦中国市场。”",
+          "usage": "💡 讨论泡泡玛特时\n💬 泡泡玛特收益暴跌45%，美洲市场凉了\n🔥 泡泡玛特 收益 下降",
+          "source": "https://www.huxiu.com/article/4902529.html?f=rss",
+          "tags": [
+            "泡泡玛特",
+            "收益"
+          ]
+        },
+        {
+          "title": "机器人租赁",
+          "summary": "机器人租赁兴起",
+          "detail": "机器人行业面临落地难题，下游市场却兴起租赁模式。业内调侃：“造不如租，租不如租不起。”",
+          "usage": "💡 讨论机器人时\n💬 机器人租赁火了，造不如租\n🔥 机器人 租赁 行业",
+          "source": "https://www.huxiu.com/article/4902536.html?f=rss",
+          "tags": [
+            "机器人",
+            "租赁"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-03T04:08:24.329Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 5794,
+    "completion_tokens": 2120,
+    "total_tokens": 7914,
+    "cost_usd": 0.0036722196,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 12,
+      "published": 4
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 12,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 24
+    }
+  }
+}

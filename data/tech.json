@@ -5,76 +5,68 @@
       "icon": "📰",
       "items": [
         {
-          "title": "中国公务团组被拘押",
-          "summary": "中国公务团组人员被瑞典警方拘押",
-          "detail": "近日，中国公务团组人员在瑞典被警方拘押，引发广泛关注。具体原因尚未公布，但这一事件已经在中瑞两国之间引起热议。家人们谁懂啊，这波操作有点迷啊！",
-          "usage": "💡 同事聊国际新闻时\n💬 中国公务团组人员在瑞典被拘押，这事有点迷啊！\n🔥 瑞典 拘押 公务团组",
-          "source": "https://www.toutiao.com/trending/7703489065979084809/",
+          "title": "小镇姐弟IPO",
+          "summary": "皇冠新材上市暴涨200%",
+          "detail": "11月3日，皇冠新材在深交所主板上市，发行价16.98元，开盘56元，涨幅超过200%。这家公司客户包括华为、苹果、特斯拉、宁德时代等科技巨头，堪称小镇企业的逆袭典范。",
+          "usage": "💡 同事讨论股票时\n💬 你们看那个小镇姐弟IPO了吗？涨幅200%！\n🔥 皇冠新材 IPO 涨幅",
+          "source": "https://www.huxiu.com/article/4902539.html?f=rss",
           "tags": [
-            "国际新闻",
-            "公务团组"
+            "IPO",
+            "科技"
           ]
         },
         {
-          "title": "黄金价格暴跌",
-          "summary": "黄金价格暴跌背后的全球资本巨变",
-          "detail": "全球黄金价格近期暴跌，背后的原因可能是全球资本市场的重大变化。这波操作让不少投资者措手不及，大家纷纷猜测未来市场的走向。这波动，真是让人摸不着头脑！",
-          "usage": "💡 同事聊投资时\n💬 黄金价格暴跌，全球资本巨变，这波动真是让人摸不着头脑！\n🔥 黄金 暴跌 资本市场",
-          "source": "https://www.toutiao.com/trending/7703560216603790867/",
+          "title": "苹果压力测试",
+          "summary": "苹果市值重回5万亿",
+          "detail": "苹果市值重回全球第一，突破5万亿关口，但在AI资本开支焦虑的背景下，苹果能否继续保持增长面临压力测试。硅谷科技巨头们都在疯狂砸钱搞AI，苹果却显得格外淡定。",
+          "usage": "💡 讨论苹果新品时\n💬 苹果市值重回第一，但AI焦虑能扛多久？\n🔥 苹果 市值 AI",
+          "source": "https://www.huxiu.com/article/4902520.html?f=rss",
           "tags": [
-            "黄金",
-            "资本市场"
+            "苹果",
+            "市值"
           ]
         }
       ]
     },
     {
-      "name": "巨头动向",
-      "icon": "🏢",
+      "name": "创业大戏",
+      "icon": "🎬",
       "items": [
         {
-          "title": "惠普产能回流中国",
-          "summary": "惠普将部分PC生产订单搬回中国",
-          "detail": "惠普、华硕、宏碁等PC巨头正在将部分生产订单搬回中国，这一举动让不少业内人士感到意外。看来，全球电脑制造业正在发生一次出人意料的回流。",
-          "usage": "💡 同事聊制造业时\n💬 惠普们把产能搬回中国，全球电脑制造业正在回流！\n🔥 惠普 产能回流 制造业",
-          "source": "https://www.huxiu.com/article/4902447.html?f=rss",
+          "title": "泡泡玛特遇冷",
+          "summary": "泡泡玛特收益下降",
+          "detail": "泡泡玛特第三季度收益同比下降45%至50%，美洲市场表现尤为疲软。创始人王宁表示：“我们将调整战略，重新聚焦中国市场。”",
+          "usage": "💡 讨论泡泡玛特时\n💬 泡泡玛特收益暴跌45%，美洲市场凉了\n🔥 泡泡玛特 收益 下降",
+          "source": "https://www.huxiu.com/article/4902529.html?f=rss",
           "tags": [
-            "惠普",
-            "制造业",
-            "回流"
+            "泡泡玛特",
+            "收益"
           ]
-        }
-      ]
-    },
-    {
-      "name": "币圈风云",
-      "icon": "🪙",
-      "items": [
+        },
         {
-          "title": "李佳琦卖Token",
-          "summary": "李佳琦直播间半小时卖出2万亿Token",
-          "detail": "李佳琦直播间近期半小时卖出2万亿Token，这一操作让不少币圈人士感到震惊，纷纷表示直播带货的力量真是不可小觑。直播卖Token，李佳琦还真是跨界高手！",
-          "usage": "💡 同事聊直播带货时\n💬 李佳琦直播间半小时卖出2万亿Token，直播带货力量不可小觑！\n🔥 李佳琦 Token 直播带货",
-          "source": "https://m.baidu.com/s?word=%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%8D%96%E5%87%BA2%E4%B8%87%E4%BA%BFToken&sa=fyb_news",
+          "title": "机器人租赁",
+          "summary": "机器人租赁兴起",
+          "detail": "机器人行业面临落地难题，下游市场却兴起租赁模式。业内调侃：“造不如租，租不如租不起。”",
+          "usage": "💡 讨论机器人时\n💬 机器人租赁火了，造不如租\n🔥 机器人 租赁 行业",
+          "source": "https://www.huxiu.com/article/4902536.html?f=rss",
           "tags": [
-            "李佳琦",
-            "Token",
-            "直播带货"
+            "机器人",
+            "租赁"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-02T19:57:32.018Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-03T04:08:24.329Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 4935,
-    "completion_tokens": 2575,
-    "total_tokens": 7510,
-    "cost_usd": 0.0039191715000000005,
+    "prompt_tokens": 5794,
+    "completion_tokens": 2120,
+    "total_tokens": 7914,
+    "cost_usd": 0.0036722196,
     "free": false,
     "quality": {
       "degraded": true,
@@ -84,11 +76,11 @@
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 4,
+        "huxiu": 12,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 16
+      "total": 24
     }
   }
 }

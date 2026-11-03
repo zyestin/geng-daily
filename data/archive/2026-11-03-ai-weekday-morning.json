@@ -1,0 +1,280 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "GPT-6 Astra 数学能力暴涨",
+          "summary": "GPT-6 Astra 数学能力提升6倍",
+          "detail": "MIT最新研究显示，GPT-6 Astra不仅能直接修改Qwen模型的权重，其数学能力更是暴涨了6倍。这意味着它能在复杂的数学问题上达到前所未有的准确性，甚至可能改变现有的数学教育和研究工作。想想看，以后数学家们可能要跟AI抢饭碗了！",
+          "usage": "💡 当聊到AI在数学领域的突破时\n💬 GPT-6 Astra数学能力暴涨6倍，数学家们要失业了！\n🔥 GPT-6 Astra 数学能力 MIT",
+          "src_id": 7,
+          "tags": [
+            "GPT-6 Astra",
+            "数学能力",
+            "MIT"
+          ],
+          "source": "https://www.qbitai.com/2026/11/507322.html"
+        },
+        {
+          "title": "Apple AI 营收新招",
+          "summary": "Apple 探索第三方AI应用营收",
+          "detail": "Apple在最近的财报中暗示，将通过第三方AI应用来增加收入。虽然具体策略尚未公布，但这一动向可能会对App Store中的AI应用生态产生重大影响。开发者们可能迎来新的机会，但也要警惕Apple的控制力进一步加强。",
+          "usage": "💡 当聊到Apple的战略动向时\n💬 Apple要搞第三方AI应用赚钱了，App Store又要变天了！\n🔥 Apple AI 营收 第三方应用",
+          "src_id": 6,
+          "tags": [
+            "Apple",
+            "AI应用",
+            "营收"
+          ],
+          "source": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/"
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "北大IBM矩阵计算",
+          "summary": "北大与IBM合作矩阵计算",
+          "detail": "北大与IBM联手推出矩阵计算技术，声称一步就能完成GPU迭代一百次的任务。这项技术将极大提升计算效率，特别是在大数据和AI模型训练领域。GPU厂商可能要开始紧张了！",
+          "usage": "💡 当聊到计算技术突破时\n💬 北大IBM一步顶GPU一百次，GPU厂商要慌了！\n🔥 北大 IBM 矩阵计算",
+          "src_id": 1,
+          "tags": [
+            "北大",
+            "IBM",
+            "矩阵计算"
+          ],
+          "source": "https://www.qbitai.com/2026/11/507367.html"
+        },
+        {
+          "title": "商汤SenseNova 6.8 Flash",
+          "summary": "商汤发布SenseNova 6.8 Flash",
+          "detail": "商汤最新发布的SenseNova 6.8 Flash号称接住了顶级AI翻车的活儿，性能提升显著。这意味着它在复杂任务中的表现更加稳定，特别是在边缘计算和实时处理方面。AI开发者们又多了一个强力工具！",
+          "usage": "💡 当聊到新AI模型发布时\n💬 商汤SenseNova 6.8 Flash接住了AI翻车的活儿，稳！\n🔥 商汤 SenseNova 6.8 Flash AI",
+          "src_id": 13,
+          "tags": [
+            "商汤",
+            "SenseNova",
+            "AI模型"
+          ],
+          "source": "https://www.qbitai.com/2026/11/507277.html"
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "Garry Tan的AI开销",
+          "summary": "Garry Tan每年花20万美元在AI上",
+          "detail": "Y Combinator的Garry Tan最近透露，他每年在AI代理上花费高达20万美元。他还开玩笑说自己患上了‘网络精神病’，几乎每分钟都在用AI。看来AI代理已经成为大佬们的日常标配了！",
+          "usage": "💡 当聊到AI代理的使用时\n💬 Garry Tan每年花20万美元在AI上，每分钟都在用！\n🔥 Garry Tan AI代理 开销",
+          "src_id": 9,
+          "tags": [
+            "Garry Tan",
+            "AI代理",
+            "开销"
+          ],
+          "source": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
+        },
+        {
+          "title": "Anthropic警告RSI能力",
+          "summary": "Anthropic接近RSI能力",
+          "detail": "Anthropic警告说，它已经非常接近RSI（自我构建AI）能力。这意味着AI可能在不久的将来能够自我训练并加速发展，引发一系列未知的后果。AI的未来可能会比我们想象的更复杂！",
+          "usage": "💡 当聊到AI自我训练时\n💬 Anthropic警告：AI快能自我训练了，未来复杂了！\n🔥 Anthropic RSI 自我训练",
+          "src_id": 15,
+          "tags": [
+            "Anthropic",
+            "RSI",
+            "自我训练"
+          ],
+          "source": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI安全冲刺计划",
+          "summary": "OpenAI启动安全冲刺计划",
+          "detail": "OpenAI正在与Cathedral Systems合作，准备下一次内部安全冲刺，以测试和加强其系统。这一举措旨在应对日益增加的网络安全威胁，确保AI技术的安全性。安全工程师们的加班费可能要涨了！",
+          "usage": "💡 当聊到AI安全时\n💬 OpenAI启动安全冲刺计划，安全工程师要加班了！\n🔥 OpenAI 安全冲刺 Cathedral Systems",
+          "src_id": 5,
+          "tags": [
+            "OpenAI",
+            "安全冲刺",
+            "Cathedral Systems"
+          ],
+          "source": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
+        },
+        {
+          "title": "Google Dreambeans印度扩张",
+          "summary": "Google Dreambeans支持13种印度语言",
+          "detail": "Google的Dreambeans AI实验项目现在支持13种印度语言，旨在将AI生成的故事带给大众。这一举措将极大提升AI在印度的普及，特别是在本地化内容创作方面。印度内容创作者们要迎来春天了！",
+          "usage": "💡 当聊到AI本地化时\n💬 Google Dreambeans支持13种印度语言，内容创作者春天来了！\n🔥 Google Dreambeans 印度语言",
+          "src_id": 3,
+          "tags": [
+            "Google",
+            "Dreambeans",
+            "印度语言"
+          ],
+          "source": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/"
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "LifeVal基准发布",
+          "summary": "OpenAI推出LifeVal基准",
+          "detail": "OpenAI推出了LifeVal基准，用于衡量AI在帮助人们完成日常任务方面的表现。从财务管理到购物，这一基准将帮助开发者更好地评估AI的实际应用效果。AI助手们的KPI要来了！",
+          "usage": "💡 当聊到AI应用评测时\n💬 OpenAI推出LifeVal基准，AI助手们的KPI来了！\n🔥 OpenAI LifeVal 基准",
+          "src_id": 14,
+          "tags": [
+            "OpenAI",
+            "LifeVal",
+            "基准"
+          ],
+          "source": "https://openai.com/index/lifeval"
+        },
+        {
+          "title": "Qodo集成Codex",
+          "summary": "Qodo将公司知识融入Codex",
+          "detail": "Qodo通过Codex插件将公司知识和编码标准融入AI代码审查，帮助开发者捕捉P0问题。这一集成将极大提升代码质量和开发效率，特别是在大型项目中。开发者们的代码审查时间要大大缩短了！",
+          "usage": "💡 当聊到AI代码审查时\n💬 Qodo集成Codex，代码审查时间要缩短了！\n🔥 Qodo Codex 代码审查",
+          "src_id": 17,
+          "tags": [
+            "Qodo",
+            "Codex",
+            "代码审查"
+          ],
+          "source": "https://openai.com/index/qodo-codex-plugin"
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "Trajectory融资4500万美元",
+          "summary": "Trajectory融资4500万美元",
+          "detail": "年仅一岁的初创公司Trajectory刚刚完成了4500万美元的融资，估值达到3亿美元。该公司致力于让非技术专家也能轻松训练AI模型。AI训练的门槛又要降低了！",
+          "usage": "💡 当聊到AI初创公司时\n💬 Trajectory融资4500万美元，AI训练门槛要降低了！\n🔥 Trajectory 融资 AI训练",
+          "src_id": 12,
+          "tags": [
+            "Trajectory",
+            "融资",
+            "AI训练"
+          ],
+          "source": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+        },
+        {
+          "title": "42AI预测人类行为",
+          "summary": "42AI推出预测人类行为模型",
+          "detail": "42AI从隐身模式中脱颖而出，获得了6250万美元的融资，并推出了一个能预测人类行为的全球模型。这一技术将广泛应用于市场营销、安全监控等领域，但也引发了隐私和伦理的担忧。AI预测人类行为，科幻成真了！",
+          "usage": "💡 当聊到AI预测技术时\n💬 42AI推出预测人类行为模型，科幻成真了！\n🔥 42AI 预测 人类行为",
+          "src_id": 24,
+          "tags": [
+            "42AI",
+            "预测",
+            "人类行为"
+          ],
+          "source": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "OpenAI强化网络安全",
+          "summary": "OpenAI提高漏洞奖励",
+          "detail": "OpenAI宣布提高安全漏洞奖励，并引入报告质量、忠诚度和优先级等新机制。这一举措将激励更多安全研究人员参与漏洞挖掘，进一步提升AI系统的安全性。黑客们的奖金要涨了！",
+          "usage": "💡 当聊到网络安全时\n💬 OpenAI提高漏洞奖励，黑客们的奖金要涨了！\n🔥 OpenAI 漏洞奖励 网络安全",
+          "src_id": 2,
+          "tags": [
+            "OpenAI",
+            "漏洞奖励",
+            "网络安全"
+          ],
+          "source": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
+        },
+        {
+          "title": "仪电智算云Token工厂",
+          "summary": "仪电智算云发布Token工厂",
+          "detail": "上海仪电与上海创智学院联合发布了‘飞轮转・万象生’仪电智算数链生态，推出了Token工厂的三重可信机制。这一技术将提升区块链应用的安全性，特别是在金融和数据管理领域。区块链开发者们的新工具来了！",
+          "usage": "💡 当聊到区块链技术时\n💬 仪电智算云发布Token工厂，区块链开发者新工具来了！\n🔥 仪电智算云 Token工厂 区块链",
+          "src_id": 16,
+          "tags": [
+            "仪电智算云",
+            "Token工厂",
+            "区块链"
+          ],
+          "source": "https://www.qbitai.com/2026/11/507260.html"
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "OpenAI重写大模型法则",
+          "summary": "OpenAI第一条：忠于人类",
+          "detail": "OpenAI最近重写了其大模型法则，第一条便是‘忠于人类’。这一举措旨在确保AI技术的发展始终服务于人类利益，特别是在伦理和安全方面。AI开发者们要牢记：AI是为人类服务的！",
+          "usage": "💡 当聊到AI伦理时\n💬 OpenAI重写大模型法则，第一条：忠于人类！\n🔥 OpenAI 大模型法则 伦理",
+          "src_id": 19,
+          "tags": [
+            "OpenAI",
+            "大模型法则",
+            "伦理"
+          ],
+          "source": "https://www.qbitai.com/2026/11/507225.html"
+        },
+        {
+          "title": "Squarespace裁员19%",
+          "summary": "Squarespace裁员19%",
+          "detail": "网站建设公司Squarespace宣布裁员19%，作为其组织结构调整的一部分。这一举措反映了在线服务行业面临的挑战，特别是在AI驱动的自动化趋势下。AI替代人力的趋势越来越明显了！",
+          "usage": "💡 当聊到AI对就业的影响时\n💬 Squarespace裁员19%，AI替代人力的趋势越来越明显了！\n🔥 Squarespace 裁员 AI替代",
+          "src_id": 18,
+          "tags": [
+            "Squarespace",
+            "裁员",
+            "AI替代"
+          ],
+          "source": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-03T04:11:28.433Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3576,
+    "completion_tokens": 2653,
+    "total_tokens": 6229,
+    "cost_usd": 0.0036496035,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}
