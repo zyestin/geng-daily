@@ -5,26 +5,26 @@
       "icon": "💥",
       "items": [
         {
-          "title": "AI 厂长来了",
-          "summary": "AI 接管仓库调度运营",
-          "detail": "AI 不再只是机器人背后的辅助工具，直接当上了仓库厂长！某巨头最新智能仓系统，AI 全面接管调度运营，越干越聪明。这意味着什么？未来你的快递可能要由 AI 厂长亲自指挥机器人打包发货了。",
-          "usage": "💡 聊 AI 应用场景时切入\n💬 以后仓库厂长是 AI，人类只能当副厂长了\n🔥 AI 厂长 智能仓",
+          "title": "AI当厂长",
+          "summary": "AI接管仓库调度运营",
+          "detail": "家人们谁懂啊，AI现在不仅能当码农，还能当厂长了！一家巨头宣布下一代自主智能仓将由AI接管调度运营，仓库越干越聪明。以前的仓库调度还得靠人脑手写Excel，现在AI直接24小时不眨眼地盯着，效率直接起飞。护肝片销量怕是要跌了，仓库工人的加班费也要缩水了。\n\n💡 同事抱怨加班时切入\n💬 你知道吗？AI现在都能当厂长了，仓库调度全靠它！\n🔥 AI仓库调度 自主智能仓",
           "source": "https://www.qbitai.com/2026/11/507507.html",
           "tags": [
-            "AI 厂长",
-            "智能仓"
-          ]
+            "AI仓库",
+            "智能调度"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 AI当厂长\n🔥 AI仓库 智能调度"
         },
         {
-          "title": "AI 数据平台获奖",
-          "summary": "OceanBase 获杰出贡献奖",
-          "detail": "AI 数据平台 OceanBase 在 2026 世界互联网大会上斩获杰出贡献奖，成为业内焦点。这不仅是对其技术实力的认可，更预示着 AI 数据平台将在未来互联网发展中扮演更重要的角色。",
-          "usage": "💡 聊 AI 技术奖项时切入\n💬 OceanBase 获奖，AI 数据平台要起飞了\n🔥 OceanBase 杰出贡献奖",
-          "source": "https://www.qbitai.com/2026/11/507405.html",
+          "title": "AI证明身份",
+          "summary": "Anthropic推AI身份验证",
+          "detail": "Anthropic正在研发FlashProve系统，用来证明AI模型的真实身份。以后你收到的AI回复，可以像验钞一样验明正身，再也不怕遇到山寨AI了。这下AI界也要搞“身份证”了，不知道会不会有AI版的“健康码”？\n\n💡 讨论AI安全性时切入\n💬 Anthropic要给AI发身份证了，以后AI回复都能验真伪！\n🔥 FlashProve AI身份验证",
+          "source": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
           "tags": [
-            "OceanBase",
-            "杰出贡献奖"
-          ]
+            "Anthropic",
+            "AI安全"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 AI证明身份\n🔥 Anthropic AI安全"
         }
       ]
     },
@@ -33,27 +33,26 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "LifeVal 上线",
-          "summary": "OpenAI 推出 LifeVal 基准",
-          "detail": "OpenAI 最新推出的 LifeVal 基准，旨在衡量 AI 在帮助人们完成日常任务方面的表现。从财务管理到健康监测，LifeVal 将成为评估 AI 实用性的新标准，标志着 AI 正逐步渗透到生活的方方面面。",
-          "usage": "💡 聊 AI 评测基准时切入\n💬 LifeVal 上线，AI 评测有了新标准\n🔥 LifeVal OpenAI 基准",
-          "source": "https://openai.com/index/lifeval",
+          "title": "Fal估值翻倍",
+          "summary": "Fal估值达160亿美元",
+          "detail": "AI推理初创公司Fal的估值翻倍至160亿美元，直接起飞！这家成立仅五年的公司刚融资13亿美元，由Bessemer领投。AI推理需求激增，Fal的服务器都快被挤爆了。这下英伟达又要笑醒了，GPU价格怕是又要涨。\n\n💡 聊AI硬件需求时切入\n💬 Fal估值翻倍到160亿，AI推理需求炸了！\n🔥 Fal AI推理 估值翻倍",
+          "source": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
           "tags": [
-            "LifeVal",
-            "评测基准"
-          ]
+            "Fal",
+            "AI推理"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Fal估值翻倍\n🔥 Fal AI推理"
         },
         {
-          "title": "Dreambeans 登陆印度",
-          "summary": "Google Dreambeans 支持 13 种印度语言",
-          "detail": "Google 的 Dreambeans AI 实验项目现已支持 13 种印度语言，旨在将 AI 生成的个人故事带给更多用户。这不仅是对语言多样性的尊重，更是 Google 在全球 AI 竞赛中的重要一步。",
-          "usage": "💡 聊 AI 语言支持时切入\n💬 Dreambeans 支持 13 种印度语言，Google 全球 AI 竞赛又进一步\n🔥 Dreambeans Google 印度",
-          "source": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+          "title": "小米模型获奖",
+          "summary": "小米具身基座模型获奖",
+          "detail": "小米的具身基座模型斩获2026世界互联网大会“领先科技奖”。这模型能让AI像人一样感知和操作物理世界，简直是AI界的“触觉大师”。以后AI不仅能跟你聊天，还能帮你搬砖了！\n\n💡 讨论AI模型进展时切入\n💬 小米的具身基座模型获奖了，AI终于有“触觉”了！\n🔥 小米 具身基座 领先科技奖",
+          "source": "https://www.qbitai.com/2026/11/507396.html",
           "tags": [
-            "Dreambeans",
-            "Google",
-            "印度"
-          ]
+            "小米",
+            "具身基座"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 小米模型获奖\n🔥 小米 具身基座"
         }
       ]
     },
@@ -62,27 +61,26 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "Dan Driscoll 加盟 OpenAI",
-          "summary": "Dan Driscoll 任 OpenAI 高级顾问",
-          "detail": "OpenAI 近日任命 Dan Driscoll 为高级顾问，负责国家安全现代化相关 AI 事务。这位前国家安全局高官的加盟，意味着 OpenAI 在国家安全领域的 AI 应用将迈出重要一步。",
-          "usage": "💡 聊 AI 安全时切入\n💬 Dan Driscoll 加盟 OpenAI，国家安全 AI 应用要加速了\n🔥 Dan Driscoll OpenAI 国家安全",
-          "source": "https://openai.com/index/dan-driscoll-joins-openai",
+          "title": "奥特曼新任命",
+          "summary": "OpenAI任命新首席事务官",
+          "detail": "OpenAI CEO奥特曼宣布任命Jill Hazelbaker为首席企业事务官，负责全球沟通和政策事务。看来OpenAI要在全球范围内大展拳脚了，政策游说团队也要扩招了。\n\n💡 聊AI政策时切入\n💬 OpenAI新任命首席企业事务官，政策游说要起飞了！\n🔥 OpenAI Jill Hazelbaker 首席事务官",
+          "source": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
           "tags": [
-            "Dan Driscoll",
             "OpenAI",
-            "国家安全"
-          ]
+            "奥特曼"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 奥特曼新任命\n🔥 OpenAI 奥特曼"
         },
         {
-          "title": "Anthropic 的算力困境",
-          "summary": "Anthropic 算力经济仍不乐观",
-          "detail": "Anthropic 近日透露，其算力经济状况仍不乐观，尽管其他方面在改善。这反映出当前 AI 公司在算力成本控制上的普遍难题，未来 AI 发展或将在算力经济上迎来更大挑战。",
-          "usage": "💡 聊 AI 经济时切入\n💬 Anthropic 算力经济不乐观，AI 算力成本难题待解\n🔥 Anthropic 算力经济",
+          "title": "Anthropic算力困境",
+          "summary": "Anthropic算力成本上升",
+          "detail": "Anthropic的算力成本不降反升，CEO Dario Amodei表示公司正在努力应对这一困境。AI模型的训练成本太高了，Anthropic的服务器账单怕是天文数字。这下英伟达又要笑醒一次了。\n\n💡 讨论AI成本时切入\n💬 Anthropic算力成本飙升，AI训练太烧钱了！\n🔥 Anthropic Dario Amodei 算力成本",
           "source": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
           "tags": [
             "Anthropic",
-            "算力经济"
-          ]
+            "算力成本"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Anthropic算力困境\n🔥 Anthropic 算力成本"
         }
       ]
     },
@@ -91,27 +89,26 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "微软与 OpenAI 合作",
-          "summary": "微软深化与 OpenAI 合作",
-          "detail": "微软正计划进一步深化与 OpenAI 的合作，共同开发下一代 AI 技术。这一合作不仅将巩固微软在 AI 领域的地位，还可能引发新一轮的 AI 技术竞赛。",
-          "usage": "💡 聊 AI 巨头合作时切入\n💬 微软与 OpenAI 深化合作，AI 竞赛要升级了\n🔥 微软 OpenAI 合作",
-          "source": "https://openai.com/index/dan-driscoll-joins-openai",
+          "title": "Cisco联手OpenAI",
+          "summary": "Cisco用OpenAI强化安全",
+          "detail": "Cisco宣布将OpenAI模型集成到其网络安全系统中，用AI强化企业安全防护。以前的安全防护靠人工规则，现在AI直接24小时不眨眼地盯着，黑客怕是睡不着了。\n\n💡 讨论AI安全时切入\n💬 Cisco联手OpenAI，AI安全防护要起飞了！\n🔥 Cisco OpenAI 网络安全",
+          "source": "https://openai.com/index/cisco-cyber",
           "tags": [
-            "微软",
-            "OpenAI",
-            "合作"
-          ]
+            "Cisco",
+            "OpenAI"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Cisco联手OpenAI\n🔥 Cisco OpenAI"
         },
         {
-          "title": "小米双料大奖",
-          "summary": "小米斩获乌镇峰会双料大奖",
-          "detail": "在 2026 世界互联网大会上，小米集团及其基座模型分别斩获“杰出贡献奖”和“领先科技奖”。这不仅是对小米技术创新的认可，更是小米在 AI 领域实力的有力证明。",
-          "usage": "💡 聊 AI 奖项时切入\n💬 小米双料大奖，AI 领域实力被认可\n🔥 小米 双料大奖",
-          "source": "https://www.qbitai.com/2026/11/507396.html",
+          "title": "Palantir商业收入超政府",
+          "summary": "Palantir商业收入首超政府",
+          "detail": "Palantir的美国商业收入首次超过政府收入，标志着这家数据巨头正在向商业市场转型。以前靠政府订单吃饭，现在商业市场也要大展拳脚了。\n\n💡 讨论AI商业化时切入\n💬 Palantir商业收入超政府，AI商业化要起飞了！\n🔥 Palantir 商业收入 AI商业化",
+          "source": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
           "tags": [
-            "小米",
-            "双料大奖"
-          ]
+            "Palantir",
+            "AI商业化"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Palantir商业收入超政府\n🔥 Palantir AI商业化"
         }
       ]
     },
@@ -120,26 +117,26 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "苹果手表 AI 新功能",
-          "summary": "苹果手表 AI 功能开启测试",
-          "detail": "苹果手表的最新 AI 功能——“对话倒带”和“总结回顾”已进入测试阶段。这意味着用户可以通过手表轻松回顾对话内容，AI 正逐步成为日常生活中的得力助手。",
-          "usage": "💡 聊 AI 新功能时切入\n💬 苹果手表 AI 新功能测试中，对话回顾更方便了\n🔥 苹果手表 AI 功能",
-          "source": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+          "title": "Netflix AI推荐",
+          "summary": "Netflix推AI情绪推荐",
+          "detail": "Netflix推出AI Discover标签，根据用户情绪推荐影片。以后再也不用纠结看什么了，AI直接读懂你的心情，推荐最适合的片子。这下Netflix的算法工程师可以躺平了。\n\n💡 聊流媒体时切入\n💬 Netflix推AI情绪推荐，算法工程师要躺平了！\n🔥 Netflix AI推荐 情绪分析",
+          "source": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
           "tags": [
-            "苹果手表",
-            "AI 功能"
-          ]
+            "Netflix",
+            "AI推荐"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Netflix AI推荐\n🔥 Netflix AI推荐"
         },
         {
-          "title": "Heimstaden 的 AI 转型",
-          "summary": "Heimstaden 用 AI 改造房地产管理",
-          "detail": "Heimstaden 正利用 OpenAI 的 ChatGPT Enterprise 和 Codex 改造房地产管理流程。这意味着未来的房产管理将更加智能高效，AI 正在重塑传统行业。",
-          "usage": "💡 聊 AI 行业应用时切入\n💬 Heimstaden 用 AI 改造房地产管理，传统行业也要智能化了\n🔥 Heimstaden OpenAI 房地产",
-          "source": "https://openai.com/index/heimstaden",
+          "title": "ChatGPT助力工程设计",
+          "summary": "ChatGPT加速工程设计",
+          "detail": "OpenAI宣布ChatGPT和Codex正在加速CAD、PCB设计和仿真等工程设计流程。以前工程师熬夜画图，现在AI直接帮忙搞定，效率翻倍。这下工程师的护肝片销量怕是要跌了。\n\n💡 聊AI工具时切入\n💬 ChatGPT助力工程设计，工程师的护肝片要滞销了！\n🔥 ChatGPT Codex 工程设计",
+          "source": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
           "tags": [
-            "Heimstaden",
-            "AI 房地产"
-          ]
+            "ChatGPT",
+            "工程设计"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 ChatGPT助力工程设计\n🔥 ChatGPT 工程设计"
         }
       ]
     },
@@ -148,28 +145,26 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "Qodo 插件上线",
-          "summary": "Qodo 将公司知识融入 Codex",
-          "detail": "Qodo 最新插件将公司知识和编码标准融入 Codex，帮助开发者捕获 P0 级问题。这意味着开源 AI 工具正在变得更专业可靠，未来 AI 开发将更加高效。",
-          "usage": "💡 聊 AI 插件时切入\n💬 Qodo 插件上线，Codex 更专业了\n🔥 Qodo Codex 插件",
-          "source": "https://openai.com/index/qodo-codex-plugin",
-          "tags": [
-            "Qodo",
-            "Codex",
-            "插件"
-          ]
-        },
-        {
-          "title": "Git 新后端 Pando",
-          "summary": "OpenAI 推出 Git 兼容后端 Pando",
-          "detail": "OpenAI 最新推出的 Pando，是一个为 Codex 开发规模设计的 Git 兼容后端。这不仅提升了开发效率，更为大规模 AI 项目提供了有力支持。",
-          "usage": "💡 聊 AI 开发工具时切入\n💬 Pando 上线，Git 兼容后端助力大规模 AI 开发\n🔥 Pando Git 后端",
+          "title": "OpenAI开源Git后端",
+          "summary": "OpenAI开源Git兼容后端",
+          "detail": "OpenAI开源了Pando，一个Git兼容的后端，旨在支持Codex开发所需的规模。这下GitHub要紧张了，OpenAI直接来抢地盘了。\n\n💡 聊开源工具时切入\n💬 OpenAI开源Git后端，GitHub要紧张了！\n🔥 OpenAI Pando Git后端",
           "source": "https://openai.com/index/scaling-git-at-openai",
           "tags": [
-            "Pando",
-            "Git",
-            "后端"
-          ]
+            "OpenAI",
+            "Pando"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 OpenAI开源Git后端\n🔥 OpenAI Pando"
+        },
+        {
+          "title": "Google AI工具限制",
+          "summary": "Google限制学校AI工具",
+          "detail": "Google宣布学校可以选择禁用AI工具，但代价是放弃Google搜索。这下学校要纠结了，AI工具和搜索二选一，怎么选都是痛。\n\n💡 讨论AI教育时切入\n💬 Google限制学校AI工具，搜索和AI二选一！\n🔥 Google AI限制 学校",
+          "source": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+          "tags": [
+            "Google",
+            "AI限制"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Google AI工具限制\n🔥 Google AI限制"
         }
       ]
     },
@@ -178,26 +173,26 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "AI 生产力系统",
-          "summary": "AI 下一程是生产力系统之争",
-          "detail": "随着 AI 模型普及，未来竞争焦点将转向生产力系统。这意味着，谁能构建更高效的 AI 生产力系统，谁就能在下一轮 AI 竞赛中占据优势。",
-          "usage": "💡 聊 AI 未来趋势时切入\n💬 AI 下一程是生产力系统之争，谁能构建最有效的系统？\n🔥 AI 生产力系统",
-          "source": "https://www.qbitai.com/2026/11/507448.html",
+          "title": "OpenAI安全加固",
+          "summary": "OpenAI启动安全加固计划",
+          "detail": "OpenAI宣布与Cathedral Systems合作，启动下一轮内部安全加固计划。这下OpenAI的安全工程师要忙疯了，加班加点加固系统。\n\n💡 讨论AI安全时切入\n💬 OpenAI启动安全加固计划，安全工程师要加班了！\n🔥 OpenAI 安全加固 Cathedral Systems",
+          "source": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
           "tags": [
-            "AI",
-            "生产力系统"
-          ]
+            "OpenAI",
+            "安全加固"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 OpenAI安全加固\n🔥 OpenAI 安全加固"
         },
         {
-          "title": "苹果新产品曝光",
-          "summary": "苹果新产品已在中国试点",
-          "detail": "苹果最新产品已在中国的公共场所试点使用，这意味着苹果正加速布局 AI 硬件市场。未来，AI 硬件或将迎来新一轮爆发。",
-          "usage": "💡 聊 AI 硬件时切入\n💬 苹果新产品在中国试点，AI 硬件市场要热了\n🔥 苹果 AI 硬件",
-          "source": "https://www.qbitai.com/2026/11/507410.html",
+          "title": "OceanBase获奖",
+          "summary": "OceanBase获杰出贡献奖",
+          "detail": "AI数据平台OceanBase在2026世界互联网大会上获得杰出贡献奖。这下OceanBase的技术团队要笑醒了，奖杯拿到手软。\n\n💡 讨论AI数据平台时切入\n💬 OceanBase获杰出贡献奖，技术团队笑醒了！\n🔥 OceanBase 杰出贡献奖",
+          "source": "https://www.qbitai.com/2026/11/507405.html",
           "tags": [
-            "苹果",
-            "AI 硬件"
-          ]
+            "OceanBase",
+            "杰出贡献奖"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 OceanBase获奖\n🔥 OceanBase 杰出贡献奖"
         }
       ]
     },
@@ -206,40 +201,40 @@
       "icon": "📈",
       "items": [
         {
-          "title": "谷歌 AI 工具限制",
-          "summary": "谷歌将限制学校使用 AI 工具",
-          "detail": "谷歌宣布学校可以选择禁用其 AI 工具，但同时将失去搜索功能。这一政策反映了谷歌在教育领域对 AI 应用的谨慎态度，未来 AI 教育工具或将面临更多监管。",
-          "usage": "💡 聊 AI 教育应用时切入\n💬 谷歌限制学校使用 AI 工具，AI 教育应用或面临更多监管\n🔥 谷歌 AI 教育",
-          "source": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+          "title": "Ballistic融资",
+          "summary": "Ballistic融资4.9亿美元",
+          "detail": "网络安全风投公司Ballistic Ventures计划融资4.9亿美元，瞄准AI驱动的网络安全市场。这下网络安全初创公司要笑醒了，融资机会来了。\n\n💡 讨论AI融资时切入\n💬 Ballistic融资4.9亿，网络安全市场要起飞了！\n🔥 Ballistic Ventures 网络安全",
+          "source": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
           "tags": [
-            "谷歌",
-            "AI 教育"
-          ]
+            "Ballistic",
+            "网络安全"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Ballistic融资\n🔥 Ballistic 网络安全"
         },
         {
-          "title": "苹果 AI 营收策略",
-          "summary": "苹果或通过第三方 AI 应用增收",
-          "detail": "苹果正考虑通过与第三方 AI 应用合作增加营收。这意味着未来苹果生态系统将更加开放，AI 应用开发者或将迎来新机遇。",
-          "usage": "💡 聊 AI 营收模式时切入\n💬 苹果或通过第三方 AI 应用增收，开发者机会来了\n🔥 苹果 AI 营收",
-          "source": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+          "title": "数据中心用旧引擎",
+          "summary": "数据中心转向旧喷气引擎",
+          "detail": "由于电力供应紧张，数据中心开始转向旧喷气引擎作为备用电源。这下数据中心要变成飞机场了，噪音怕是吵死人。\n\n💡 讨论AI基础设施时切入\n💬 数据中心用旧喷气引擎，这下要变飞机场了！\n🔥 数据中心 旧喷气引擎",
+          "source": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
           "tags": [
-            "苹果",
-            "AI 营收"
-          ]
+            "数据中心",
+            "喷气引擎"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 数据中心用旧引擎\n🔥 数据中心 喷气引擎"
         }
       ]
     }
   ],
-  "generated_at": "2026-11-03T17:31:34.012Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-04T03:17:32.586Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
     "prompt_tokens": 3507,
-    "completion_tokens": 2768,
-    "total_tokens": 6275,
-    "cost_usd": 0.0037501433999999998,
+    "completion_tokens": 2807,
+    "total_tokens": 6314,
+    "cost_usd": 0.0037902626999999998,
     "free": false,
     "sources": {
       "per_source": {

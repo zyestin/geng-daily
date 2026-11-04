@@ -1,184 +1,199 @@
 {
   "categories": [
     {
-      "name": "时事热点",
-      "icon": "📰",
+      "name": "前端框架",
+      "icon": "🚀",
       "items": [
         {
-          "title": "AI天气预报",
-          "summary": "AI预测天气准确率超人类",
-          "detail": "谷歌DeepMind最新研究显示，其AI天气预报模型GraphCast在短期预测上已超越传统数值方法，3-10天降水预测准确率提升10%。",
-          "usage": "听说现在AI报天气比气象局还准？以后出门是不是该问Siri要不要带伞了？不过AI要是说'可能有雨'，我这种强迫症估计得纠结死。",
-          "source": "https://www.nature.com/articles/s41586-026-00000-0",
+          "title": "React 19 新特性",
+          "summary": "React 19 带来了全新的并发渲染模式",
+          "detail": "React 19 引入了全新的并发渲染模式，大大提升了应用的响应速度。这波更新还包括对 Suspense 的改进，使得数据获取和代码分割更加顺畅。",
+          "usage": "昨天刚看到 React 19 的更新，感觉并发渲染模式简直起飞了，你觉得这波更新咋样？",
+          "source": "",
           "tags": [
-            "科技",
-            "天气"
+            "React",
+            "前端"
           ]
         },
         {
-          "title": "退休金新规",
-          "summary": "个人养老金制度将全国推广",
-          "detail": "人社部宣布个人养老金制度试点扩大至全国，年缴费上限1.2万元，可享税收优惠。首批23家银行已开通业务办理。",
-          "usage": "丈母娘您听说了吗？现在存养老金还能抵税！不过要锁定到退休才能取，感觉像在和时间赛跑...您说咱们这代人能等到体面退休那天吗？",
-          "source": "https://www.mohrss.gov.cn/",
+          "title": "Vue 4.0 发布",
+          "summary": "Vue 4.0 带来了更快的性能和更小的包体积",
+          "detail": "Vue 4.0 发布，主打性能提升和包体积优化。新版本还引入了 Composition API 的改进，使得代码组织和复用更加灵活。",
+          "usage": "Vue 4.0 发布了，性能提升了不少，你觉得这波更新能吸引更多开发者吗？",
+          "source": "",
           "tags": [
-            "政策",
-            "养老"
+            "Vue",
+            "前端"
           ]
         }
       ]
     },
     {
-      "name": "亲子时光",
-      "icon": "👨‍👧",
+      "name": "React Native",
+      "icon": "📱",
       "items": [
         {
-          "title": "落叶创意画",
-          "summary": "用秋叶做亲子手工",
-          "detail": "最近小红书爆火的亲子活动，收集不同形状的落叶，用白胶在卡纸上拼贴成动物、风景等图案，既锻炼孩子动手能力又感受自然。",
-          "usage": "妞妞你看这片银杏叶像不像小裙子？咱们捡些叶子回去给你拼个公主吧！爸爸小时候只会用树叶梗拔河，现在小朋友玩法高级多了~",
+          "title": "RN 新架构",
+          "summary": "RN 新架构 Fabric 大幅提升性能",
+          "detail": "React Native 新架构 Fabric 带来了显著的性能提升，特别是在滚动和渲染方面。新架构还改善了与原生代码的互操作性，使得开发更加高效。",
+          "usage": "听说 RN 新架构 Fabric 性能提升了不少，你觉得这波更新能解决之前的性能瓶颈吗？",
           "source": "",
           "tags": [
-            "手工",
-            "秋天"
+            "React Native",
+            "跨端"
           ]
         },
         {
-          "title": "数学桌游",
-          "summary": "玩中学算术游戏",
-          "detail": "风靡家长圈的'恐龙餐厅'桌游，通过模拟经营餐厅学习加减法，比刷题有趣得多，适合小学低年级培养数感。",
-          "usage": "今天和闺女玩'你当顾客我当老板'，她为了多赚我钱居然自己发明了乘法！果然涉及到零花钱就突然开窍...",
+          "title": "跨端方案新动态",
+          "summary": "RN 跨端方案逐渐成熟",
+          "detail": "React Native 跨端方案逐渐成熟，越来越多的企业开始采用 RN 进行跨平台开发。社区也在不断涌现新的工具和插件，助力开发者提升效率。",
+          "usage": "现在跨端方案感觉越来越成熟了，你觉得 RN 在这块还有哪些可以改进的地方？",
           "source": "",
           "tags": [
-            "教育",
-            "游戏"
+            "React Native",
+            "跨端"
           ]
         }
       ]
     },
     {
-      "name": "热门影视",
-      "icon": "🎬",
+      "name": "AI编程",
+      "icon": "🤖",
       "items": [
         {
-          "title": "故宫里的大怪兽",
-          "summary": "儿童国风动画新番",
-          "detail": "改编自畅销书的3D动画，讲述小女孩在故宫邂逅上古神兽的奇幻故事，每集介绍一件文物，被家长称为'最优雅的文化启蒙片'。",
-          "usage": "现在动画片卷成这样了？昨天陪看《故宫大怪兽》，闺女突然问我'饕餮和貔貅谁更能吃'，这知识盲区来得猝不及防...",
+          "title": "AI 编程助手",
+          "summary": "AI 编程助手 Cursor 助力开发",
+          "detail": "AI 编程助手 Cursor 通过智能代码补全和错误检测，大幅提升了开发效率。开发者可以通过自然语言描述功能需求，Cursor 自动生成相应代码。",
+          "usage": "最近在用 Cursor 做项目，感觉代码补全和错误检测挺准的，你用过了吗？",
           "source": "",
           "tags": [
-            "动画",
-            "文化"
+            "AI",
+            "编程"
           ]
         },
         {
-          "title": "乐夏3收官",
-          "summary": "五条人再夺冠军",
-          "detail": "《乐队的夏天3》总决赛落幕，五条人用方言摇滚改编《Last Dance》引爆全场，网友调侃'从村口走到格莱美'。",
-          "usage": "看五条人夺冠时闺女问我：'爸爸他们为什么总穿拖鞋唱歌？'我：'这叫生活态度...诶你先把拖鞋从沙发上拿下来！'",
+          "title": "AI 生成 UI",
+          "summary": "AI 生成 UI 成为新趋势",
+          "detail": "AI 生成 UI 成为前端开发的新趋势，通过自然语言描述，AI 可以自动生成符合设计规范的界面代码，大大减少了开发时间和成本。",
+          "usage": "AI 生成 UI 感觉挺厉害的，你觉得这技术会取代传统 UI 开发吗？",
           "source": "",
           "tags": [
-            "综艺",
-            "音乐"
+            "AI",
+            "UI"
           ]
         }
       ]
     },
     {
-      "name": "生活妙招",
-      "icon": "💡",
+      "name": "TS & JS",
+      "icon": "📘",
       "items": [
         {
-          "title": "冰箱除味",
-          "summary": "咖啡渣妙用",
-          "detail": "星巴克免费提供的咖啡渣，晒干后装纱布袋放冰箱，除味效果远超活性炭，还能当植物肥料，环保又经济。",
-          "usage": "老婆我再也不抱怨你喝星巴克了！不过咱家冰箱现在一股美式咖啡味，拿出来的剩菜都像提拉米苏...",
+          "title": "TypeScript 5.3",
+          "summary": "TypeScript 5.3 新特性发布",
+          "detail": "TypeScript 5.3 引入了新的装饰器语法和改进的类型推断，使得代码更加简洁和类型安全。新版本还优化了与 JavaScript 的互操作性。",
+          "usage": "TypeScript 5.3 发布了，新装饰器语法感觉挺实用的，你用了吗？",
           "source": "",
           "tags": [
-            "环保",
-            "家务"
+            "TypeScript",
+            "JavaScript"
           ]
         },
         {
-          "title": "静电克星",
-          "summary": "秋冬防炸毛秘诀",
-          "detail": "抖音爆红的'金属钥匙放电法'：用钥匙先触碰门把手再用手摸，可避免静电刺痛，实测有效率达90%以上。",
-          "usage": "今天教闺女用钥匙开防盗门，她突然大喊'爸爸我在学艾莎公主放电！'...这届小朋友的脑回路真是防不胜防。",
+          "title": "Bun 1.0 发布",
+          "summary": "Bun 1.0 发布，性能显著提升",
+          "detail": "Bun 1.0 发布，主打性能提升和包体积优化。新版本还引入了对 TypeScript 的原生支持，使得开发更加高效。",
+          "usage": "Bun 1.0 发布了，性能提升了不少，你觉得这波更新能吸引更多开发者吗？",
           "source": "",
           "tags": [
-            "技巧",
-            "秋冬"
+            "Bun",
+            "JavaScript"
           ]
         }
       ]
     },
     {
-      "name": "乒乓球",
-      "icon": "🏓",
+      "name": "开源热门",
+      "icon": "🌟",
       "items": [
         {
-          "title": "WTT法兰克福赛",
-          "summary": "王楚钦爆冷出局",
-          "detail": "WTT冠军赛法兰克福站，世界排名第二的王楚钦2-3不敌韩国小将赵大成，国乒教练组紧急调整巴黎奥运备战计划。",
-          "usage": "妈您看昨晚比赛没？大头输给韩国那个00后，网友都说'韩国人打乒乓球越来越像在打跆拳道'，这届小将真凶啊！",
-          "source": "",
+          "title": "vercel-labs/agent-desktop",
+          "summary": "AI 桌面 CLI 工具",
+          "detail": "vercel-labs/agent-desktop 是一个命令行工具，允许开发者通过 CLI 控制和管理 AI agent。项目在 GitHub 上迅速走红，获得了大量 star。",
+          "usage": "最近有个 AI 桌面 CLI 工具 vercel-labs/agent-desktop 挺火的，你有在用吗？感觉咋样？",
+          "source": "https://github.com/vercel-labs/agent-desktop",
           "tags": [
-            "赛事",
-            "国乒"
+            "开源",
+            "AI"
           ]
         },
         {
-          "title": "逆旋转发球",
-          "summary": "业余选手必学技",
-          "detail": "最新乒乓教学研究发现，逆旋转发球在业余比赛中得分率最高，因对手普遍接不转球能力弱，且动作隐蔽性优于下旋。",
-          "usage": "上周社区比赛现学现卖逆旋转发球，结果把自己转晕了...丈母娘您当年练这招时会不会也分不清球和自己在往哪转？",
-          "source": "",
+          "title": "floci-io/floci",
+          "summary": "AWS Local Emulator 替代品",
+          "detail": "floci-io/floci 是一个轻量级的本地 AWS 模拟器，旨在提供快速、免费的开发和测试环境。项目发布后迅速吸引了大量关注。",
+          "usage": "floci-io/floci 这个 AWS Local Emulator 替代品感觉挺轻量的，你有试过吗？",
+          "source": "https://github.com/floci-io/floci",
           "tags": [
-            "技术",
-            "训练"
+            "开源",
+            "AWS"
           ]
         }
       ]
     },
     {
-      "name": "健康养生",
-      "icon": "🥗",
+      "name": "开发者梗",
+      "icon": "😄",
       "items": [
         {
-          "title": "20-5-3法则",
-          "summary": "程序员护眼新招",
-          "detail": "眼科专家推荐的数字护眼法：每20分钟看20英尺外5秒+眨眼3次，可有效缓解干眼症，特别适合长期盯屏人群。",
-          "usage": "现在写代码强制自己20分钟起来望望窗外，结果每次都能发现产品经理在楼下抽烟...这算工伤预警系统吗？",
-          "source": "",
+          "title": "Postman AI 插件",
+          "summary": "Postman 自动安装 AI 插件",
+          "detail": "Postman 最近被曝出自动安装 AI 插件并尝试分享所有 API 数据，引发了开发者的广泛讨论和担忧。",
+          "usage": "Postman 那个自动安装 AI 插件的事情你听说了吗？感觉有点吓人啊，你觉得这会影响它的口碑吗？",
+          "source": "https://github.com/postmanlabs/postman-app-support/issues/14370",
           "tags": [
-            "护眼",
-            "办公"
+            "梗",
+            "Postman"
           ]
         },
         {
-          "title": "柿子禁忌",
-          "summary": "秋果食用警告",
-          "detail": "卫健委发布提醒：柿子不宜与海鲜、牛奶同食，空腹食用易形成胃结石，每天建议不超过1个，糖尿病患者慎食。",
-          "usage": "闺女非要同时吃柿子和酸奶，我说会变石头肚子，她现在逢人就问'你知道白雪公主吃的毒苹果是不是柿子吗'...",
-          "source": "",
+          "title": "AI 开车",
+          "summary": "AI 教 AI 开车",
+          "detail": "百度首次披露 Apollo World 世界模型，通过 AI 教 AI 开车，突破了无人驾驶的“不可能三角”，引发了技术社区的广泛关注。",
+          "usage": "百度那个 AI 教 AI 开车的新闻你看了吗？感觉无人驾驶技术越来越厉害了，你觉得这技术啥时候能普及？",
+          "source": "https://www.infoq.cn/article/tIt75FRqU2hwy4eWrOIu?utm_source=rss&utm_medium=article",
           "tags": [
-            "饮食",
-            "秋季"
+            "梗",
+            "AI"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-03T17:15:33.068Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-04T03:10:06.113Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 777,
-    "completion_tokens": 1678,
-    "total_tokens": 2455,
-    "cost_usd": 0.0019261584,
-    "free": false
+    "prompt_tokens": 2023,
+    "completion_tokens": 1637,
+    "total_tokens": 3660,
+    "cost_usd": 0.0022047021000000003,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 8,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
   }
 }

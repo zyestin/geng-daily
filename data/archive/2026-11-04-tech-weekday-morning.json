@@ -1,0 +1,108 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "iPhone天气bug",
+          "summary": "iPhone天气显示下周五-32℃",
+          "detail": "苹果天气应用近日出现bug，多地用户发现天气预报显示下周五气温将低至-32℃，这显然不科学。网友调侃：'苹果这是要开发南极市场了吗？' 苹果尚未官方回应，但已经有不少用户表示需要紧急更新系统。",
+          "usage": "💡 同事抱怨天气冷时\n💬 苹果天气预报说下周五零下32℃，准备穿羽绒服上班吧！\n🔥 iPhone 天气bug 苹果",
+          "source": "https://www.toutiao.com/trending/7704052680632598537/",
+          "tags": [
+            "iPhone",
+            "天气bug",
+            "苹果"
+          ]
+        },
+        {
+          "title": "瑞幸财报亮眼",
+          "summary": "瑞幸单季狂赚21亿",
+          "detail": "瑞幸咖啡日前公布2026年第三季度财报，单季营收21亿人民币，创历史新高。然而，财报也显示老店销售额大跌11%，新店扩张速度过快导致整体盈利能力下降。市场分析认为，瑞幸的'开店狂飙'战略可能已经开始反噬。",
+          "usage": "💡 同事喝咖啡时\n💬 瑞幸这季度赚了21亿，但老店销售额大跌11%，看来开店太快也不好啊！\n🔥 瑞幸 财报 咖啡",
+          "source": "https://www.huxiu.com/article/4902835.html?f=rss",
+          "tags": [
+            "瑞幸",
+            "财报",
+            "咖啡"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "苹果新智能",
+          "summary": "国行iPhone用上Apple智能",
+          "detail": "苹果近日宣布，国行iPhone将首次搭载Apple智能功能，这是自2024年WWDC首次亮相以来的重要进展。不过，用户反馈称该功能还不够完善，期待未来的更新。",
+          "usage": "💡 同事用iPhone时\n💬 国行iPhone终于用上Apple智能了，虽然还不够好，但总算有进展了！\n🔥 苹果 iPhone 智能",
+          "source": "https://www.huxiu.com/article/4902850.html?f=rss",
+          "tags": [
+            "苹果",
+            "iPhone",
+            "智能"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "坚果易主",
+          "summary": "坚果投影创始人股权被拍卖",
+          "detail": "坚果投影创始人胡震宇持有的火乐科技13.6207%股权近日被深圳市南山区人民法院强制拍卖，标志着坚果投影大屏替代逻辑正在失效。市场分析认为，坚果投影的未来发展面临重大挑战。",
+          "usage": "💡 同事讨论投影时\n💬 坚果投影创始人股权被拍卖了，看来大屏替代逻辑失效了！\n🔥 坚果 投影 股权",
+          "source": "https://www.huxiu.com/article/4902828.html?f=rss",
+          "tags": [
+            "坚果",
+            "投影",
+            "股权"
+          ]
+        },
+        {
+          "title": "瑞幸开店狂飙",
+          "summary": "瑞幸开店速度过快",
+          "detail": "瑞幸咖啡近年来疯狂开店，但其最新财报显示老店销售额大跌11%，市场分析认为瑞幸的'开店狂飙'战略可能已经开始反噬，未来盈利能力堪忧。",
+          "usage": "💡 同事讨论咖啡时\n💬 瑞幸开店太快，老店销售额大跌11%，看来疯狂扩张也有风险啊！\n🔥 瑞幸 开店 销售额",
+          "source": "https://www.huxiu.com/article/4902835.html?f=rss",
+          "tags": [
+            "瑞幸",
+            "开店",
+            "销售额"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-04T03:14:43.715Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 5780,
+    "completion_tokens": 2397,
+    "total_tokens": 8177,
+    "cost_usd": 0.0039535659,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 11,
+      "published": 5
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 12,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 24
+    }
+  }
+}

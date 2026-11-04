@@ -5,56 +5,104 @@
       "icon": "📰",
       "items": [
         {
-          "title": "特斯拉掉队了",
-          "summary": "特斯拉10月销量跌至第8！",
-          "detail": "特斯拉的销量如同过山车，10月份竟然跌至新能源汽车销量榜第8位，真让人瞠目结舌。这是怎么回事？电动车市场竞争加剧，众多新兴品牌如雨后春笋般冒出，特斯拉的神话在逐渐被打破。家人们，想当年可是风光无限啊，现在竟然得看别人脸色卖车了！",
-          "usage": "💡 上班时可以聊聊特斯拉的竞争力 \n💬 特斯拉竟然跌至销量第八，竞争真激烈！ \n🔥 特斯拉 新能源汽车 竞争",
-          "source": "https://m.baidu.com/s?word=10%E6%9C%88%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E6%A6%9C%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%87%B3%E7%AC%AC8&sa=fyb_news",
+          "title": "iPhone天气bug",
+          "summary": "iPhone天气显示下周五-32℃",
+          "detail": "苹果天气应用近日出现bug，多地用户发现天气预报显示下周五气温将低至-32℃，这显然不科学。网友调侃：'苹果这是要开发南极市场了吗？' 苹果尚未官方回应，但已经有不少用户表示需要紧急更新系统。",
+          "usage": "💡 同事抱怨天气冷时\n💬 苹果天气预报说下周五零下32℃，准备穿羽绒服上班吧！\n🔥 iPhone 天气bug 苹果",
+          "source": "https://www.toutiao.com/trending/7704052680632598537/",
           "tags": [
-            "特斯拉",
-            "销量",
-            "电动车"
+            "iPhone",
+            "天气bug",
+            "苹果"
           ]
         },
         {
-          "title": "6G来了，离我们还有多远？",
-          "summary": "6G技术开始布局，未来展望引发热议！",
-          "detail": "在科技圈，6G的讨论正如火如荼。行业专家预测，6G将带来更高的速率和更低的延迟，开启新的通讯时代。很多人开始憧憬未来的科技生活，是否能像科幻片一样畅享虚拟现实、全息通讯等前沿技术。不过，还是那句老话，6G离我们还有多远呢？",
-          "usage": "💡 聊聊未来科技的发展方向 \n💬 6G开始布局了，未来会不会更酷啊？ \n🔥 6G 通讯 技术",
-          "source": "https://m.baidu.com/s?word=6G%E6%9D%A5%E4%BA%86+%E7%A6%BB%E6%88%91%E4%BB%AC%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C&sa=fyb_news",
+          "title": "瑞幸财报亮眼",
+          "summary": "瑞幸单季狂赚21亿",
+          "detail": "瑞幸咖啡日前公布2026年第三季度财报，单季营收21亿人民币，创历史新高。然而，财报也显示老店销售额大跌11%，新店扩张速度过快导致整体盈利能力下降。市场分析认为，瑞幸的'开店狂飙'战略可能已经开始反噬。",
+          "usage": "💡 同事喝咖啡时\n💬 瑞幸这季度赚了21亿，但老店销售额大跌11%，看来开店太快也不好啊！\n🔥 瑞幸 财报 咖啡",
+          "source": "https://www.huxiu.com/article/4902835.html?f=rss",
           "tags": [
-            "6G",
-            "科技前沿",
-            "通讯"
+            "瑞幸",
+            "财报",
+            "咖啡"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "苹果新智能",
+          "summary": "国行iPhone用上Apple智能",
+          "detail": "苹果近日宣布，国行iPhone将首次搭载Apple智能功能，这是自2024年WWDC首次亮相以来的重要进展。不过，用户反馈称该功能还不够完善，期待未来的更新。",
+          "usage": "💡 同事用iPhone时\n💬 国行iPhone终于用上Apple智能了，虽然还不够好，但总算有进展了！\n🔥 苹果 iPhone 智能",
+          "source": "https://www.huxiu.com/article/4902850.html?f=rss",
+          "tags": [
+            "苹果",
+            "iPhone",
+            "智能"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "坚果易主",
+          "summary": "坚果投影创始人股权被拍卖",
+          "detail": "坚果投影创始人胡震宇持有的火乐科技13.6207%股权近日被深圳市南山区人民法院强制拍卖，标志着坚果投影大屏替代逻辑正在失效。市场分析认为，坚果投影的未来发展面临重大挑战。",
+          "usage": "💡 同事讨论投影时\n💬 坚果投影创始人股权被拍卖了，看来大屏替代逻辑失效了！\n🔥 坚果 投影 股权",
+          "source": "https://www.huxiu.com/article/4902828.html?f=rss",
+          "tags": [
+            "坚果",
+            "投影",
+            "股权"
+          ]
+        },
+        {
+          "title": "瑞幸开店狂飙",
+          "summary": "瑞幸开店速度过快",
+          "detail": "瑞幸咖啡近年来疯狂开店，但其最新财报显示老店销售额大跌11%，市场分析认为瑞幸的'开店狂飙'战略可能已经开始反噬，未来盈利能力堪忧。",
+          "usage": "💡 同事讨论咖啡时\n💬 瑞幸开店太快，老店销售额大跌11%，看来疯狂扩张也有风险啊！\n🔥 瑞幸 开店 销售额",
+          "source": "https://www.huxiu.com/article/4902835.html?f=rss",
+          "tags": [
+            "瑞幸",
+            "开店",
+            "销售额"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-03T17:28:16.684Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-04T03:14:43.715Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
-    "model": "openai/gpt-4o-mini",
-    "actual_model": "openai/gpt-4o-mini",
-    "prompt_tokens": 4647,
-    "completion_tokens": 3225,
-    "total_tokens": 7872,
-    "cost_usd": 0.00263205,
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 5780,
+    "completion_tokens": 2397,
+    "total_tokens": 8177,
+    "cost_usd": 0.0039535659,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 14,
-      "published": 2
+      "dropped_orphans": 11,
+      "published": 5
     },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 3,
+        "huxiu": 12,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 15
+      "total": 24
     }
   }
 }
