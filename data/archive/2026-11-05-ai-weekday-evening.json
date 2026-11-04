@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "百度无人车开挂",
+          "summary": "百度无人车实时推演全局",
+          "detail": "百度无人车搞出了“黑客帝国”级别的世界模型，能够实时推演全局，跑一天相当于三年的数据积累。这意味着无人车不仅能感知周围环境，还能预测未来几分钟甚至几小时的交通状况。以前无人车只能在限定区域内测试，现在直接进入全局推演模式，简直是开了外挂。",
+          "usage": "💡 聊无人车技术突破时\n💬 百度无人车现在能实时推演全局，跑一天顶三年！\n🔥 百度 无人车 黑客帝国",
+          "source": "https://www.qbitai.com/2026/11/507647.html",
+          "tags": [
+            "无人车",
+            "百度",
+            "AI"
+          ]
+        },
+        {
+          "title": "OpenAI收购Pierre",
+          "summary": "OpenAI收购Pierre公司",
+          "detail": "OpenAI宣布收购Pierre Computer Company，进一步扩展Codex工具在构建和理解代码方面的能力。这家公司专注于开发高级代码分析和生成工具，收购后将直接提升Codex的代码生成和理解能力。程序员们可能要失业了，AI写代码的时代真的来了。",
+          "usage": "💡 聊AI写代码时\n💬 OpenAI收购Pierre，Codex要起飞了！\n🔥 OpenAI Pierre Codex",
+          "source": "https://openai.com/index/openai-to-acquire-pierre",
+          "tags": [
+            "OpenAI",
+            "Codex",
+            "收购"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "驭物™Lion-ER",
+          "summary": "招商局发布具身推理模型",
+          "detail": "招商局狮子山实验室发布了具身推理模型“驭物™ Lion-ER-35B-A3B”，仅激活3B参数就在十项基准测试中全线提升。这个模型能让机器人更好地理解真实物理世界，不再依赖大量数据堆砌。以前的机器人像个瞎子，现在终于能“看”懂了。",
+          "usage": "💡 聊机器人技术时\n💬 招商局的Lion-ER模型，3B参数就吊打全场！\n🔥 招商局 Lion-ER 具身推理",
+          "source": "https://www.qbitai.com/2026/11/507586.html",
+          "tags": [
+            "招商局",
+            "Lion-ER",
+            "具身推理"
+          ]
+        },
+        {
+          "title": "Daybreak Red上线",
+          "summary": "GPT-5.6 Cyber上线AWS",
+          "detail": "OpenAI的Daybreak Red模型在AWS GovCloud（US-East）上线，这个版本专为网络安全设计，结合了GPT-5.6 Cyber技术。以前的黑客得靠熬夜找漏洞，现在AI直接7×24小时不眨眼地找。安全工程师的护肝片销量怕是要涨。",
+          "usage": "💡 聊AI网络安全时\n💬 Daybreak Red上线AWS，黑客要失业了！\n🔥 OpenAI Daybreak Red AWS",
+          "source": "https://openai.com/index/daybreak-red-aws-govcloud",
+          "tags": [
+            "OpenAI",
+            "Daybreak Red",
+            "AWS"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "Ted Schlein募资",
+          "summary": "Ted Schlein募资4.9亿",
+          "detail": "Ted Schlein的Ballistic Ventures正在募资4.9亿美元，主要用于AI驱动的网络安全项目。Schlein表示，AI正在重塑网络安全格局，未来的防御将更加智能化。以前的黑客得手动入侵，现在AI直接帮你找漏洞，效率翻倍。",
+          "usage": "💡 聊网络安全投资时\n💬 Ted Schlein募资4.9亿，AI网络安全要起飞了！\n🔥 Ted Schlein Ballistic Ventures 网络安全",
+          "source": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+          "tags": [
+            "Ted Schlein",
+            "Ballistic Ventures",
+            "网络安全"
+          ]
+        },
+        {
+          "title": "Jill Hazelbaker加盟",
+          "summary": "Jill Hazelbaker加盟OpenAI",
+          "detail": "OpenAI宣布Jill Hazelbaker将担任首席企业事务官，负责全球沟通和公共政策。Hazelbaker曾是谷歌的高管，她的加盟标志着OpenAI在公共政策领域的进一步布局。OpenAI不仅要搞技术，还要搞定政策。",
+          "usage": "💡 聊OpenAI人事变动时\n💬 Jill Hazelbaker加盟OpenAI，公共政策要大动作了！\n🔥 OpenAI Jill Hazelbaker 公共政策",
+          "source": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+          "tags": [
+            "OpenAI",
+            "Jill Hazelbaker",
+            "公共政策"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "苹果Siri Recaps",
+          "summary": "苹果Siri Recaps上线",
+          "detail": "苹果的AI助手Siri Recaps上线，尽管有隐私担忧，但其实用性令人惊讶。Siri Recaps能自动总结你的日程和消息，帮你快速掌握一天的重点。以前得手动翻日历，现在Siri直接告诉你今天干了啥。",
+          "usage": "💡 聊AI助手时\n💬 苹果的Siri Recaps上线，隐私担忧但真香！\n🔥 苹果 Siri Recaps AI助手",
+          "source": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+          "tags": [
+            "苹果",
+            "Siri Recaps",
+            "AI助手"
+          ]
+        },
+        {
+          "title": "谷歌AI搜索争议",
+          "summary": "谷歌AI搜索引发争议",
+          "detail": "谷歌计划对限制AI使用的学校关闭搜索服务，引发政界人士的强烈反对。纽约市长和前FTC主席Lina Khan指责谷歌滥用市场力量。以前是学校限制学生用手机，现在是谷歌限制学校用搜索。",
+          "usage": "💡 聊AI教育政策时\n💬 谷歌要对限制AI的学校关闭搜索服务，争议大了！\n🔥 谷歌 AI搜索 教育",
+          "source": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+          "tags": [
+            "谷歌",
+            "AI搜索",
+            "教育"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "鲸锐AI上线",
+          "summary": "鲸锐AI平台正式上线",
+          "detail": "虎鲸文娱的“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上。这个平台专为影视制作设计，能自动生成和管理视频内容。以前拍个视频得花大价钱，现在AI帮你省钱又省力。",
+          "usage": "💡 聊AI视频制作时\n💬 虎鲸文娱的鲸锐AI上线，视频成本降30%！\n🔥 虎鲸文娱 鲸锐AI 视频制作",
+          "source": "https://www.qbitai.com/2026/11/507567.html",
+          "tags": [
+            "虎鲸文娱",
+            "鲸锐AI",
+            "视频制作"
+          ]
+        },
+        {
+          "title": "Cisco联手OpenAI",
+          "summary": "Cisco用OpenAI强化安全",
+          "detail": "Cisco与OpenAI合作，将网络智能与OpenAI模型结合，强化企业安全。以前的安全防护得靠人工，现在AI直接帮你搞定，效率翻倍。安全工程师的护肝片销量怕是要涨。",
+          "usage": "💡 聊AI网络安全时\n💬 Cisco联手OpenAI，安全防护要起飞了！\n🔥 Cisco OpenAI 网络安全",
+          "source": "https://openai.com/index/cisco-cyber",
+          "tags": [
+            "Cisco",
+            "OpenAI",
+            "网络安全"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "Anthropic推FlashProve",
+          "summary": "Anthropic推AI身份验证",
+          "detail": "Anthropic正在开发FlashProve系统，用于验证AI模型的真实身份。这个系统能确保AI回复确实来自指定模型，防止伪造和滥用。以前的AI回复真假难辨，现在FlashProve帮你验明正身。",
+          "usage": "💡 聊AI安全性时\n💬 Anthropic推FlashProve，AI回复真假难辨的时代结束了！\n🔥 Anthropic FlashProve AI身份验证",
+          "source": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+          "tags": [
+            "Anthropic",
+            "FlashProve",
+            "AI身份验证"
+          ]
+        },
+        {
+          "title": "openJiuwen Agent-Memory",
+          "summary": "openJiuwen推视听记忆",
+          "detail": "openJiuwen发布的Agent-Memory模型首次实现了“视听双流记忆”，能看懂长视频并记住关键事件。以前的AI记不住长视频，现在关键事件一个不落。问答时延最高降97%，效率翻倍。",
+          "usage": "💡 聊AI视频理解时\n💬 openJiuwen的Agent-Memory，长视频记忆精度飙升！\n🔥 openJiuwen Agent-Memory 视频理解",
+          "source": "https://www.qbitai.com/2026/11/507533.html",
+          "tags": [
+            "openJiuwen",
+            "Agent-Memory",
+            "视频理解"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "Fal估值翻倍",
+          "summary": "Fal估值翻倍至160亿",
+          "detail": "AI推理初创公司Fal估值翻倍至160亿美元，需求激增推动其最新融资13亿美元。Fal专注于AI推理加速，五年时间估值翻了四倍。以前的AI推理慢如蜗牛，现在Fal帮你提速。",
+          "usage": "💡 聊AI推理技术时\n💬 Fal估值翻倍至160亿，AI推理要起飞了！\n🔥 Fal AI推理 融资",
+          "source": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+          "tags": [
+            "Fal",
+            "AI推理",
+            "融资"
+          ]
+        },
+        {
+          "title": "Heimstaden用AI",
+          "summary": "Heimstaden用AI管理房产",
+          "detail": "Heimstaden利用OpenAI的ChatGPT Enterprise和Codex变革房产管理，AI不仅能处理日常事务，还能预测市场需求。以前的房产管理靠人工，现在AI直接搞定。",
+          "usage": "💡 聊AI房产管理时\n💬 Heimstaden用AI管理房产，效率翻倍！\n🔥 Heimstaden ChatGPT Enterprise 房产管理",
+          "source": "https://openai.com/index/heimstaden",
+          "tags": [
+            "Heimstaden",
+            "ChatGPT Enterprise",
+            "房产管理"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "Palantir财报亮眼",
+          "summary": "Palantir商业收入首超政府",
+          "detail": "Palantir最新财报显示，其美国商业收入首次超过政府收入，标志着其商业化进程的加速。以前Palantir靠政府订单吃饭，现在商业客户也要买单了。",
+          "usage": "💡 聊AI商业化时\n💬 Palantir商业收入首超政府，商业化加速！\n🔥 Palantir 财报 商业化",
+          "source": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+          "tags": [
+            "Palantir",
+            "财报",
+            "商业化"
+          ]
+        },
+        {
+          "title": "数据中心用旧引擎",
+          "summary": "数据中心转向旧引擎",
+          "detail": "由于电网接入和新涡轮机等待时间过长，数据中心建造商开始转向旧喷气引擎作为替代能源。以前的能源靠新设备，现在旧引擎也能派上用场。",
+          "usage": "💡 聊数据中心能源时\n💬 数据中心用旧引擎，能源短缺逼出新招！\n🔥 数据中心 旧引擎 能源",
+          "source": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+          "tags": [
+            "数据中心",
+            "旧引擎",
+            "能源"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-04T17:45:44.322Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3602,
+    "completion_tokens": 3047,
+    "total_tokens": 6649,
+    "cost_usd": 0.0040616037,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

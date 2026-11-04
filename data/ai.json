@@ -5,26 +5,28 @@
       "icon": "💥",
       "items": [
         {
-          "title": "AI当厂长",
-          "summary": "AI接管仓库调度运营",
-          "detail": "家人们谁懂啊，AI现在不仅能当码农，还能当厂长了！一家巨头宣布下一代自主智能仓将由AI接管调度运营，仓库越干越聪明。以前的仓库调度还得靠人脑手写Excel，现在AI直接24小时不眨眼地盯着，效率直接起飞。护肝片销量怕是要跌了，仓库工人的加班费也要缩水了。\n\n💡 同事抱怨加班时切入\n💬 你知道吗？AI现在都能当厂长了，仓库调度全靠它！\n🔥 AI仓库调度 自主智能仓",
-          "source": "https://www.qbitai.com/2026/11/507507.html",
+          "title": "百度无人车开挂",
+          "summary": "百度无人车实时推演全局",
+          "detail": "百度无人车搞出了“黑客帝国”级别的世界模型，能够实时推演全局，跑一天相当于三年的数据积累。这意味着无人车不仅能感知周围环境，还能预测未来几分钟甚至几小时的交通状况。以前无人车只能在限定区域内测试，现在直接进入全局推演模式，简直是开了外挂。",
+          "usage": "💡 聊无人车技术突破时\n💬 百度无人车现在能实时推演全局，跑一天顶三年！\n🔥 百度 无人车 黑客帝国",
+          "source": "https://www.qbitai.com/2026/11/507647.html",
           "tags": [
-            "AI仓库",
-            "智能调度"
-          ],
-          "usage": "💡 聊到相关内容时切入\n💬 AI当厂长\n🔥 AI仓库 智能调度"
+            "无人车",
+            "百度",
+            "AI"
+          ]
         },
         {
-          "title": "AI证明身份",
-          "summary": "Anthropic推AI身份验证",
-          "detail": "Anthropic正在研发FlashProve系统，用来证明AI模型的真实身份。以后你收到的AI回复，可以像验钞一样验明正身，再也不怕遇到山寨AI了。这下AI界也要搞“身份证”了，不知道会不会有AI版的“健康码”？\n\n💡 讨论AI安全性时切入\n💬 Anthropic要给AI发身份证了，以后AI回复都能验真伪！\n🔥 FlashProve AI身份验证",
-          "source": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+          "title": "OpenAI收购Pierre",
+          "summary": "OpenAI收购Pierre公司",
+          "detail": "OpenAI宣布收购Pierre Computer Company，进一步扩展Codex工具在构建和理解代码方面的能力。这家公司专注于开发高级代码分析和生成工具，收购后将直接提升Codex的代码生成和理解能力。程序员们可能要失业了，AI写代码的时代真的来了。",
+          "usage": "💡 聊AI写代码时\n💬 OpenAI收购Pierre，Codex要起飞了！\n🔥 OpenAI Pierre Codex",
+          "source": "https://openai.com/index/openai-to-acquire-pierre",
           "tags": [
-            "Anthropic",
-            "AI安全"
-          ],
-          "usage": "💡 聊到相关内容时切入\n💬 AI证明身份\n🔥 Anthropic AI安全"
+            "OpenAI",
+            "Codex",
+            "收购"
+          ]
         }
       ]
     },
@@ -33,26 +35,28 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "Fal估值翻倍",
-          "summary": "Fal估值达160亿美元",
-          "detail": "AI推理初创公司Fal的估值翻倍至160亿美元，直接起飞！这家成立仅五年的公司刚融资13亿美元，由Bessemer领投。AI推理需求激增，Fal的服务器都快被挤爆了。这下英伟达又要笑醒了，GPU价格怕是又要涨。\n\n💡 聊AI硬件需求时切入\n💬 Fal估值翻倍到160亿，AI推理需求炸了！\n🔥 Fal AI推理 估值翻倍",
-          "source": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+          "title": "驭物™Lion-ER",
+          "summary": "招商局发布具身推理模型",
+          "detail": "招商局狮子山实验室发布了具身推理模型“驭物™ Lion-ER-35B-A3B”，仅激活3B参数就在十项基准测试中全线提升。这个模型能让机器人更好地理解真实物理世界，不再依赖大量数据堆砌。以前的机器人像个瞎子，现在终于能“看”懂了。",
+          "usage": "💡 聊机器人技术时\n💬 招商局的Lion-ER模型，3B参数就吊打全场！\n🔥 招商局 Lion-ER 具身推理",
+          "source": "https://www.qbitai.com/2026/11/507586.html",
           "tags": [
-            "Fal",
-            "AI推理"
-          ],
-          "usage": "💡 聊到相关内容时切入\n💬 Fal估值翻倍\n🔥 Fal AI推理"
+            "招商局",
+            "Lion-ER",
+            "具身推理"
+          ]
         },
         {
-          "title": "小米模型获奖",
-          "summary": "小米具身基座模型获奖",
-          "detail": "小米的具身基座模型斩获2026世界互联网大会“领先科技奖”。这模型能让AI像人一样感知和操作物理世界，简直是AI界的“触觉大师”。以后AI不仅能跟你聊天，还能帮你搬砖了！\n\n💡 讨论AI模型进展时切入\n💬 小米的具身基座模型获奖了，AI终于有“触觉”了！\n🔥 小米 具身基座 领先科技奖",
-          "source": "https://www.qbitai.com/2026/11/507396.html",
+          "title": "Daybreak Red上线",
+          "summary": "GPT-5.6 Cyber上线AWS",
+          "detail": "OpenAI的Daybreak Red模型在AWS GovCloud（US-East）上线，这个版本专为网络安全设计，结合了GPT-5.6 Cyber技术。以前的黑客得靠熬夜找漏洞，现在AI直接7×24小时不眨眼地找。安全工程师的护肝片销量怕是要涨。",
+          "usage": "💡 聊AI网络安全时\n💬 Daybreak Red上线AWS，黑客要失业了！\n🔥 OpenAI Daybreak Red AWS",
+          "source": "https://openai.com/index/daybreak-red-aws-govcloud",
           "tags": [
-            "小米",
-            "具身基座"
-          ],
-          "usage": "💡 聊到相关内容时切入\n💬 小米模型获奖\n🔥 小米 具身基座"
+            "OpenAI",
+            "Daybreak Red",
+            "AWS"
+          ]
         }
       ]
     },
@@ -61,26 +65,28 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "奥特曼新任命",
-          "summary": "OpenAI任命新首席事务官",
-          "detail": "OpenAI CEO奥特曼宣布任命Jill Hazelbaker为首席企业事务官，负责全球沟通和政策事务。看来OpenAI要在全球范围内大展拳脚了，政策游说团队也要扩招了。\n\n💡 聊AI政策时切入\n💬 OpenAI新任命首席企业事务官，政策游说要起飞了！\n🔥 OpenAI Jill Hazelbaker 首席事务官",
+          "title": "Ted Schlein募资",
+          "summary": "Ted Schlein募资4.9亿",
+          "detail": "Ted Schlein的Ballistic Ventures正在募资4.9亿美元，主要用于AI驱动的网络安全项目。Schlein表示，AI正在重塑网络安全格局，未来的防御将更加智能化。以前的黑客得手动入侵，现在AI直接帮你找漏洞，效率翻倍。",
+          "usage": "💡 聊网络安全投资时\n💬 Ted Schlein募资4.9亿，AI网络安全要起飞了！\n🔥 Ted Schlein Ballistic Ventures 网络安全",
+          "source": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+          "tags": [
+            "Ted Schlein",
+            "Ballistic Ventures",
+            "网络安全"
+          ]
+        },
+        {
+          "title": "Jill Hazelbaker加盟",
+          "summary": "Jill Hazelbaker加盟OpenAI",
+          "detail": "OpenAI宣布Jill Hazelbaker将担任首席企业事务官，负责全球沟通和公共政策。Hazelbaker曾是谷歌的高管，她的加盟标志着OpenAI在公共政策领域的进一步布局。OpenAI不仅要搞技术，还要搞定政策。",
+          "usage": "💡 聊OpenAI人事变动时\n💬 Jill Hazelbaker加盟OpenAI，公共政策要大动作了！\n🔥 OpenAI Jill Hazelbaker 公共政策",
           "source": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
           "tags": [
             "OpenAI",
-            "奥特曼"
-          ],
-          "usage": "💡 聊到相关内容时切入\n💬 奥特曼新任命\n🔥 OpenAI 奥特曼"
-        },
-        {
-          "title": "Anthropic算力困境",
-          "summary": "Anthropic算力成本上升",
-          "detail": "Anthropic的算力成本不降反升，CEO Dario Amodei表示公司正在努力应对这一困境。AI模型的训练成本太高了，Anthropic的服务器账单怕是天文数字。这下英伟达又要笑醒一次了。\n\n💡 讨论AI成本时切入\n💬 Anthropic算力成本飙升，AI训练太烧钱了！\n🔥 Anthropic Dario Amodei 算力成本",
-          "source": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-          "tags": [
-            "Anthropic",
-            "算力成本"
-          ],
-          "usage": "💡 聊到相关内容时切入\n💬 Anthropic算力困境\n🔥 Anthropic 算力成本"
+            "Jill Hazelbaker",
+            "公共政策"
+          ]
         }
       ]
     },
@@ -89,26 +95,28 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "Cisco联手OpenAI",
-          "summary": "Cisco用OpenAI强化安全",
-          "detail": "Cisco宣布将OpenAI模型集成到其网络安全系统中，用AI强化企业安全防护。以前的安全防护靠人工规则，现在AI直接24小时不眨眼地盯着，黑客怕是睡不着了。\n\n💡 讨论AI安全时切入\n💬 Cisco联手OpenAI，AI安全防护要起飞了！\n🔥 Cisco OpenAI 网络安全",
-          "source": "https://openai.com/index/cisco-cyber",
+          "title": "苹果Siri Recaps",
+          "summary": "苹果Siri Recaps上线",
+          "detail": "苹果的AI助手Siri Recaps上线，尽管有隐私担忧，但其实用性令人惊讶。Siri Recaps能自动总结你的日程和消息，帮你快速掌握一天的重点。以前得手动翻日历，现在Siri直接告诉你今天干了啥。",
+          "usage": "💡 聊AI助手时\n💬 苹果的Siri Recaps上线，隐私担忧但真香！\n🔥 苹果 Siri Recaps AI助手",
+          "source": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
           "tags": [
-            "Cisco",
-            "OpenAI"
-          ],
-          "usage": "💡 聊到相关内容时切入\n💬 Cisco联手OpenAI\n🔥 Cisco OpenAI"
+            "苹果",
+            "Siri Recaps",
+            "AI助手"
+          ]
         },
         {
-          "title": "Palantir商业收入超政府",
-          "summary": "Palantir商业收入首超政府",
-          "detail": "Palantir的美国商业收入首次超过政府收入，标志着这家数据巨头正在向商业市场转型。以前靠政府订单吃饭，现在商业市场也要大展拳脚了。\n\n💡 讨论AI商业化时切入\n💬 Palantir商业收入超政府，AI商业化要起飞了！\n🔥 Palantir 商业收入 AI商业化",
-          "source": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+          "title": "谷歌AI搜索争议",
+          "summary": "谷歌AI搜索引发争议",
+          "detail": "谷歌计划对限制AI使用的学校关闭搜索服务，引发政界人士的强烈反对。纽约市长和前FTC主席Lina Khan指责谷歌滥用市场力量。以前是学校限制学生用手机，现在是谷歌限制学校用搜索。",
+          "usage": "💡 聊AI教育政策时\n💬 谷歌要对限制AI的学校关闭搜索服务，争议大了！\n🔥 谷歌 AI搜索 教育",
+          "source": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
           "tags": [
-            "Palantir",
-            "AI商业化"
-          ],
-          "usage": "💡 聊到相关内容时切入\n💬 Palantir商业收入超政府\n🔥 Palantir AI商业化"
+            "谷歌",
+            "AI搜索",
+            "教育"
+          ]
         }
       ]
     },
@@ -117,26 +125,28 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "Netflix AI推荐",
-          "summary": "Netflix推AI情绪推荐",
-          "detail": "Netflix推出AI Discover标签，根据用户情绪推荐影片。以后再也不用纠结看什么了，AI直接读懂你的心情，推荐最适合的片子。这下Netflix的算法工程师可以躺平了。\n\n💡 聊流媒体时切入\n💬 Netflix推AI情绪推荐，算法工程师要躺平了！\n🔥 Netflix AI推荐 情绪分析",
-          "source": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+          "title": "鲸锐AI上线",
+          "summary": "鲸锐AI平台正式上线",
+          "detail": "虎鲸文娱的“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上。这个平台专为影视制作设计，能自动生成和管理视频内容。以前拍个视频得花大价钱，现在AI帮你省钱又省力。",
+          "usage": "💡 聊AI视频制作时\n💬 虎鲸文娱的鲸锐AI上线，视频成本降30%！\n🔥 虎鲸文娱 鲸锐AI 视频制作",
+          "source": "https://www.qbitai.com/2026/11/507567.html",
           "tags": [
-            "Netflix",
-            "AI推荐"
-          ],
-          "usage": "💡 聊到相关内容时切入\n💬 Netflix AI推荐\n🔥 Netflix AI推荐"
+            "虎鲸文娱",
+            "鲸锐AI",
+            "视频制作"
+          ]
         },
         {
-          "title": "ChatGPT助力工程设计",
-          "summary": "ChatGPT加速工程设计",
-          "detail": "OpenAI宣布ChatGPT和Codex正在加速CAD、PCB设计和仿真等工程设计流程。以前工程师熬夜画图，现在AI直接帮忙搞定，效率翻倍。这下工程师的护肝片销量怕是要跌了。\n\n💡 聊AI工具时切入\n💬 ChatGPT助力工程设计，工程师的护肝片要滞销了！\n🔥 ChatGPT Codex 工程设计",
-          "source": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+          "title": "Cisco联手OpenAI",
+          "summary": "Cisco用OpenAI强化安全",
+          "detail": "Cisco与OpenAI合作，将网络智能与OpenAI模型结合，强化企业安全。以前的安全防护得靠人工，现在AI直接帮你搞定，效率翻倍。安全工程师的护肝片销量怕是要涨。",
+          "usage": "💡 聊AI网络安全时\n💬 Cisco联手OpenAI，安全防护要起飞了！\n🔥 Cisco OpenAI 网络安全",
+          "source": "https://openai.com/index/cisco-cyber",
           "tags": [
-            "ChatGPT",
-            "工程设计"
-          ],
-          "usage": "💡 聊到相关内容时切入\n💬 ChatGPT助力工程设计\n🔥 ChatGPT 工程设计"
+            "Cisco",
+            "OpenAI",
+            "网络安全"
+          ]
         }
       ]
     },
@@ -145,26 +155,28 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "OpenAI开源Git后端",
-          "summary": "OpenAI开源Git兼容后端",
-          "detail": "OpenAI开源了Pando，一个Git兼容的后端，旨在支持Codex开发所需的规模。这下GitHub要紧张了，OpenAI直接来抢地盘了。\n\n💡 聊开源工具时切入\n💬 OpenAI开源Git后端，GitHub要紧张了！\n🔥 OpenAI Pando Git后端",
-          "source": "https://openai.com/index/scaling-git-at-openai",
+          "title": "Anthropic推FlashProve",
+          "summary": "Anthropic推AI身份验证",
+          "detail": "Anthropic正在开发FlashProve系统，用于验证AI模型的真实身份。这个系统能确保AI回复确实来自指定模型，防止伪造和滥用。以前的AI回复真假难辨，现在FlashProve帮你验明正身。",
+          "usage": "💡 聊AI安全性时\n💬 Anthropic推FlashProve，AI回复真假难辨的时代结束了！\n🔥 Anthropic FlashProve AI身份验证",
+          "source": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
           "tags": [
-            "OpenAI",
-            "Pando"
-          ],
-          "usage": "💡 聊到相关内容时切入\n💬 OpenAI开源Git后端\n🔥 OpenAI Pando"
+            "Anthropic",
+            "FlashProve",
+            "AI身份验证"
+          ]
         },
         {
-          "title": "Google AI工具限制",
-          "summary": "Google限制学校AI工具",
-          "detail": "Google宣布学校可以选择禁用AI工具，但代价是放弃Google搜索。这下学校要纠结了，AI工具和搜索二选一，怎么选都是痛。\n\n💡 讨论AI教育时切入\n💬 Google限制学校AI工具，搜索和AI二选一！\n🔥 Google AI限制 学校",
-          "source": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+          "title": "openJiuwen Agent-Memory",
+          "summary": "openJiuwen推视听记忆",
+          "detail": "openJiuwen发布的Agent-Memory模型首次实现了“视听双流记忆”，能看懂长视频并记住关键事件。以前的AI记不住长视频，现在关键事件一个不落。问答时延最高降97%，效率翻倍。",
+          "usage": "💡 聊AI视频理解时\n💬 openJiuwen的Agent-Memory，长视频记忆精度飙升！\n🔥 openJiuwen Agent-Memory 视频理解",
+          "source": "https://www.qbitai.com/2026/11/507533.html",
           "tags": [
-            "Google",
-            "AI限制"
-          ],
-          "usage": "💡 聊到相关内容时切入\n💬 Google AI工具限制\n🔥 Google AI限制"
+            "openJiuwen",
+            "Agent-Memory",
+            "视频理解"
+          ]
         }
       ]
     },
@@ -173,26 +185,28 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "OpenAI安全加固",
-          "summary": "OpenAI启动安全加固计划",
-          "detail": "OpenAI宣布与Cathedral Systems合作，启动下一轮内部安全加固计划。这下OpenAI的安全工程师要忙疯了，加班加点加固系统。\n\n💡 讨论AI安全时切入\n💬 OpenAI启动安全加固计划，安全工程师要加班了！\n🔥 OpenAI 安全加固 Cathedral Systems",
-          "source": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+          "title": "Fal估值翻倍",
+          "summary": "Fal估值翻倍至160亿",
+          "detail": "AI推理初创公司Fal估值翻倍至160亿美元，需求激增推动其最新融资13亿美元。Fal专注于AI推理加速，五年时间估值翻了四倍。以前的AI推理慢如蜗牛，现在Fal帮你提速。",
+          "usage": "💡 聊AI推理技术时\n💬 Fal估值翻倍至160亿，AI推理要起飞了！\n🔥 Fal AI推理 融资",
+          "source": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
           "tags": [
-            "OpenAI",
-            "安全加固"
-          ],
-          "usage": "💡 聊到相关内容时切入\n💬 OpenAI安全加固\n🔥 OpenAI 安全加固"
+            "Fal",
+            "AI推理",
+            "融资"
+          ]
         },
         {
-          "title": "OceanBase获奖",
-          "summary": "OceanBase获杰出贡献奖",
-          "detail": "AI数据平台OceanBase在2026世界互联网大会上获得杰出贡献奖。这下OceanBase的技术团队要笑醒了，奖杯拿到手软。\n\n💡 讨论AI数据平台时切入\n💬 OceanBase获杰出贡献奖，技术团队笑醒了！\n🔥 OceanBase 杰出贡献奖",
-          "source": "https://www.qbitai.com/2026/11/507405.html",
+          "title": "Heimstaden用AI",
+          "summary": "Heimstaden用AI管理房产",
+          "detail": "Heimstaden利用OpenAI的ChatGPT Enterprise和Codex变革房产管理，AI不仅能处理日常事务，还能预测市场需求。以前的房产管理靠人工，现在AI直接搞定。",
+          "usage": "💡 聊AI房产管理时\n💬 Heimstaden用AI管理房产，效率翻倍！\n🔥 Heimstaden ChatGPT Enterprise 房产管理",
+          "source": "https://openai.com/index/heimstaden",
           "tags": [
-            "OceanBase",
-            "杰出贡献奖"
-          ],
-          "usage": "💡 聊到相关内容时切入\n💬 OceanBase获奖\n🔥 OceanBase 杰出贡献奖"
+            "Heimstaden",
+            "ChatGPT Enterprise",
+            "房产管理"
+          ]
         }
       ]
     },
@@ -201,40 +215,42 @@
       "icon": "📈",
       "items": [
         {
-          "title": "Ballistic融资",
-          "summary": "Ballistic融资4.9亿美元",
-          "detail": "网络安全风投公司Ballistic Ventures计划融资4.9亿美元，瞄准AI驱动的网络安全市场。这下网络安全初创公司要笑醒了，融资机会来了。\n\n💡 讨论AI融资时切入\n💬 Ballistic融资4.9亿，网络安全市场要起飞了！\n🔥 Ballistic Ventures 网络安全",
-          "source": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+          "title": "Palantir财报亮眼",
+          "summary": "Palantir商业收入首超政府",
+          "detail": "Palantir最新财报显示，其美国商业收入首次超过政府收入，标志着其商业化进程的加速。以前Palantir靠政府订单吃饭，现在商业客户也要买单了。",
+          "usage": "💡 聊AI商业化时\n💬 Palantir商业收入首超政府，商业化加速！\n🔥 Palantir 财报 商业化",
+          "source": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
           "tags": [
-            "Ballistic",
-            "网络安全"
-          ],
-          "usage": "💡 聊到相关内容时切入\n💬 Ballistic融资\n🔥 Ballistic 网络安全"
+            "Palantir",
+            "财报",
+            "商业化"
+          ]
         },
         {
           "title": "数据中心用旧引擎",
-          "summary": "数据中心转向旧喷气引擎",
-          "detail": "由于电力供应紧张，数据中心开始转向旧喷气引擎作为备用电源。这下数据中心要变成飞机场了，噪音怕是吵死人。\n\n💡 讨论AI基础设施时切入\n💬 数据中心用旧喷气引擎，这下要变飞机场了！\n🔥 数据中心 旧喷气引擎",
+          "summary": "数据中心转向旧引擎",
+          "detail": "由于电网接入和新涡轮机等待时间过长，数据中心建造商开始转向旧喷气引擎作为替代能源。以前的能源靠新设备，现在旧引擎也能派上用场。",
+          "usage": "💡 聊数据中心能源时\n💬 数据中心用旧引擎，能源短缺逼出新招！\n🔥 数据中心 旧引擎 能源",
           "source": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
           "tags": [
             "数据中心",
-            "喷气引擎"
-          ],
-          "usage": "💡 聊到相关内容时切入\n💬 数据中心用旧引擎\n🔥 数据中心 喷气引擎"
+            "旧引擎",
+            "能源"
+          ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-04T03:17:32.586Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-11-04T17:45:44.322Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3507,
-    "completion_tokens": 2807,
-    "total_tokens": 6314,
-    "cost_usd": 0.0037902626999999998,
+    "prompt_tokens": 3602,
+    "completion_tokens": 3047,
+    "total_tokens": 6649,
+    "cost_usd": 0.0040616037,
     "free": false,
     "sources": {
       "per_source": {
