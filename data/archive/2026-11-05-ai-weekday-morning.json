@@ -1,0 +1,256 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "Linux漏洞大扫除",
+          "summary": "OpenAI花120万刀找出948个漏洞",
+          "detail": "OpenAI用自家AI搭建了个自动化管道，在Linux内核里挖出948个本地提权漏洞，还自动生成补丁。安全研究员们熬夜找漏洞的日子要结束了——AI现在连漏洞修复都能一条龙服务。",
+          "usage": "💡 聊AI安全时甩出来\n💬 以后黑客和网安都要失业，AI自己就把漏洞找完了\n🔥 OpenAI Linux漏洞 自动化修复",
+          "source": "https://www.qbitai.com/2026/11/507697.html",
+          "tags": [
+            "网络安全",
+            "自动化"
+          ]
+        },
+        {
+          "title": "百度",
+          "summary": "世界模型一天抵三年",
+          "detail": "百度无人车团队搞出了个",
+          "usage": "💡 聊到相关内容时切入\n💬 百度\n🔥 热聊",
+          "source": "",
+          "tags": []
+        },
+        {
+          "title": "Linux漏洞大扫除",
+          "summary": "OpenAI花120万刀找出948个漏洞",
+          "detail": "OpenAI用自家AI搭建了个自动化管道，在Linux内核里挖出948个本地提权漏洞，还自动生成补丁。安全研究员们熬夜找漏洞的日子要结束了——AI现在连漏洞修复都能一条龙服务。",
+          "usage": "💡 聊AI安全时甩出来\n💬 以后黑客和网安都要失业，AI自己就把漏洞找完了\n🔥 OpenAI Linux漏洞 自动化修复",
+          "source": "https://www.qbitai.com/2026/11/507697.html",
+          "tags": [
+            "网络安全",
+            "自动化"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "GPT-Image 2.6",
+          "summary": "直出GIF和SVG",
+          "detail": "OpenAI放出GPT-Image 2.6，现在能直接生成GIF动图和SVG矢量图了。编辑精度提升40%，生成速度翻倍——设计师们要开始用AI批量生产表情包了。",
+          "usage": "💡 聊AI作图时用\n💬 设计师：这下我连PS都不用开了\n🔥 GPT-Image 动图生成 设计工具",
+          "source": "https://www.qbitai.com/2026/11/507707.html",
+          "tags": [
+            "图像生成",
+            "设计"
+          ]
+        },
+        {
+          "title": "驭物Lion-ER",
+          "summary": "3B参数十项提升",
+          "detail": "招商局实验室发布具身推理模型'驭物Lion-ER-35B-A3B'，仅激活3B参数就在十项基准上全面提升。机器人现在能靠少量数据理解物理世界——离《西部世界》又近一步。",
+          "usage": "💡 聊机器人时甩\n💬 3B参数吊打前辈，小模型也有春天\n🔥 具身智能 物理推理 小模型",
+          "source": "https://www.qbitai.com/2026/11/507586.html",
+          "tags": [
+            "具身智能",
+            "机器人"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "奥特曼盯上2028大选",
+          "summary": "想用AI定义社会契约",
+          "detail": "OpenAI政策主管Chris Lehane放话要'用AI定义2028年大选'，提议建立新的数字社会契约。政客们还没搞懂AI，AI公司已经想重新设计民主制度了。",
+          "usage": "💡 聊AI监管时用\n💬 以后选总统要先过AI政审？\n🔥 OpenAI 选举 社会契约",
+          "source": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+          "tags": [
+            "政策",
+            "选举"
+          ]
+        },
+        {
+          "title": "Nothing CEO画饼",
+          "summary": "下月发神秘AI设备",
+          "detail": "Nothing CEO裴宇预告下月将发布'AI优先的神秘设备'。考虑到他们手机都卖得一般，这次怕不是要搞个AI加持的...蓝牙耳机？",
+          "usage": "💡 聊硬件时调侃\n💬 我赌五毛是能聊天的TWS\n🔥 Nothing AI硬件 裴宇",
+          "source": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+          "tags": [
+            "硬件",
+            "消费电子"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI买买买",
+          "summary": "收购Pierre计算机公司",
+          "detail": "OpenAI宣布收购Pierre计算机公司，要增强Codex的代码理解和构建能力。现在写代码有Copilot，修代码有Pierre——程序员要被AI包养了。",
+          "usage": "💡 聊AI编程时用\n💬 建议改名叫ClosedAI，啥都自己买\n🔥 OpenAI 收购 编程工具",
+          "source": "https://openai.com/index/openai-to-acquire-pierre",
+          "tags": [
+            "收购",
+            "编程"
+          ]
+        },
+        {
+          "title": "Meta押注AI编程",
+          "summary": "收购Conductor",
+          "detail": "Meta收购AI编程初创公司Conductor，这家的绝活是用AI agent团队协作开发。扎克伯格这是要组一支不用发工资的码农大军啊。",
+          "usage": "💡 聊大厂战略时甩\n💬 建议改名叫Robo-Facebook\n🔥 Meta 收购 AI编程",
+          "source": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+          "tags": [
+            "收购",
+            "AI编程"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "Uber打脸AI订车",
+          "summary": "只有4人用AI叫车",
+          "detail": "Uber自曝上季度最忙的一周里，只有4个人通过AI agent叫车。说好的AI助理改变生活呢？现在连叫个车都要人类亲自动手。",
+          "usage": "💡 聊AI产品落地时用\n💬 建议改名叫'人工'智能\n🔥 Uber AI助理 落地困境",
+          "source": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+          "tags": [
+            "出行",
+            "产品落地"
+          ]
+        },
+        {
+          "title": "GPT-5.6进政府云",
+          "summary": "AWS GovCloud上线",
+          "detail": "OpenAI的GPT-5.6 Cyber版通过Daybreak Red项目进入AWS政府云。以后美国公务员也能用AI写公文了——就是不知道会不会自动生成'机密'字样。",
+          "usage": "💡 聊政府AI时用\n💬 建议加个'自动解密'功能\n🔥 政府云 GPT-5.6 安全",
+          "source": "https://openai.com/index/daybreak-red-aws-govcloud",
+          "tags": [
+            "政府",
+            "云计算"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "Hugging Face揭秘",
+          "summary": "开源AI谁在赚钱",
+          "detail": "Hugging Face分析指出，企业、政府和初创公司都在重度依赖开源模型。开源=用爱发电？不，卖云服务和咨询的已经赚麻了。",
+          "usage": "💡 聊商业模式时甩\n💬 建议改名叫Hugging Profit\n🔥 开源 商业化 HuggingFace",
+          "source": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+          "tags": [
+            "开源",
+            "商业模式"
+          ]
+        },
+        {
+          "title": "苹果砍AI预算",
+          "summary": "内部使用大幅缩水",
+          "detail": "曝苹果大幅削减内部AI使用预算，工程师们要回到手工写代码的原始时代了。说好的'AI优先'呢？库克这是要改行卖机械键盘？",
+          "usage": "💡 聊大厂策略时用\n💬 果粉：我们不需要AI，有A系列芯片就够了\n🔥 苹果 预算削减 内部AI",
+          "source": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+          "tags": [
+            "苹果",
+            "成本"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "百度世界模型",
+          "summary": "一天模拟三年路况",
+          "detail": "百度无人车团队搞出'黑客帝国'级世界模型，实时推演全局路况，跑一天模拟相当于真实世界三年数据。这下马斯克要连夜改PPT了。",
+          "usage": "💡 聊自动驾驶时甩\n💬 建议改名叫'母体'系统\n🔥 百度 世界模型 自动驾驶",
+          "source": "https://www.qbitai.com/2026/11/507647.html",
+          "tags": [
+            "自动驾驶",
+            "仿真"
+          ]
+        },
+        {
+          "title": "Cisco+OpenAI",
+          "summary": "用AI防御AI攻击",
+          "detail": "Cisco宣布用OpenAI模型加强企业安全，现在网络攻防进入'AI对轰'时代。安全工程师的工作变成看两个AI打架并鼓掌。",
+          "usage": "💡 聊网络安全时用\n💬 建议开通AI格斗直播\n🔥 网络安全 AI攻防 Cisco",
+          "source": "https://openai.com/index/cisco-cyber",
+          "tags": [
+            "网络安全",
+            "企业级"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "AI砸钱选议员",
+          "summary": "中期选举效果一般",
+          "detail": "曝AI行业PAC在中期选举砸了数百万美元游说，结果参选率不到50%。看来AI算得准数据，算不准人心。",
+          "usage": "💡 聊AI监管时甩\n💬 建议训练个'政客模型'\n🔥 游说 选举 AI政策",
+          "source": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+          "tags": [
+            "政策",
+            "游说"
+          ]
+        },
+        {
+          "title": "数据中心大战",
+          "summary": "两党罕见联手反对",
+          "detail": "中期选举后，数据中心的反对声浪跨越党派界限。AI公司疯狂建数据中心，老百姓只关心电费会不会涨。",
+          "usage": "💡 聊AI基建时用\n💬 建议改名叫'电老虎'\n🔥 数据中心 政策 环保",
+          "source": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+          "tags": [
+            "基建",
+            "政策"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-05T03:46:36.197Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3499,
+    "completion_tokens": 2684,
+    "total_tokens": 6183,
+    "cost_usd": 0.0036616734,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "categories": [
+    {
+      "name": "🚀 前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "React 19",
+          "summary": "React 19 新特性曝光",
+          "detail": "React 19 即将发布，主要新特性包括 Server Components 的完善支持、新的并发渲染机制以及性能优化。",
+          "usage": "听说 React 19 要来了，这次的 Server Components 看起来很厉害，你觉得会不会彻底改变前端开发的模式？",
+          "source": "",
+          "tags": [
+            "React",
+            "Server Components"
+          ]
+        },
+        {
+          "title": "Vue 4",
+          "summary": "Vue 4 预览版上线",
+          "detail": "Vue 4 预览版已发布，引入了全新的编译器优化和更强的 TypeScript 支持。",
+          "usage": "Vue 4 出来了，新编译器据说性能提升很大，我们项目要不要考虑升级？",
+          "source": "",
+          "tags": [
+            "Vue",
+            "TypeScript"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📱 React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN 新架构",
+          "summary": "RN Fabric 架构全面落地",
+          "detail": "React Native 的新架构 Fabric 已全面落地，带来更流畅的性能和更好的跨平台支持。",
+          "usage": "RN 的 Fabric 架构终于全面落地了，你觉得这次升级对开发者友好吗？",
+          "source": "",
+          "tags": [
+            "React Native",
+            "Fabric"
+          ]
+        },
+        {
+          "title": "TurboModules",
+          "summary": "TurboModules 性能优化",
+          "detail": "TurboModules 的新版本大幅提升了 React Native 应用的启动速度和运行效率。",
+          "usage": "TurboModules 的新版本听说性能提升很大，你有没有在实际项目中使用过？",
+          "source": "",
+          "tags": [
+            "React Native",
+            "TurboModules"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🤖 AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "GPT-Image",
+          "summary": "GPT-Image 2.6 上线",
+          "detail": "GPT-Image 2.6 全量上线，支持直出 GIF 和 SVG 格式图像，进一步提升图像生成质量。",
+          "usage": "GPT-Image 2.6 上线了，现在可以直接生成 GIF 和 SVG，你觉得这会对 UI 设计带来什么影响？",
+          "source": "https://www.qbitai.com/2026/11/507707.html",
+          "tags": [
+            "AI",
+            "GPT-Image"
+          ]
+        },
+        {
+          "title": "AI PR Reviewer",
+          "summary": "PR Agent 开源",
+          "detail": "PR Agent 是一个开源的 AI PR Reviewer 工具，能够自动审核代码合并请求并提供建议。",
+          "usage": "PR Agent 开源了，你觉得这种 AI 审核工具能替代人工 Code Review 吗？",
+          "source": "https://github.com/The-PR-Agent/pr-agent",
+          "tags": [
+            "AI",
+            "Code Review"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📘 TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "TypeScript 新特性",
+          "summary": "TypeScript 5.4 发布",
+          "detail": "TypeScript 5.4 引入了新的泛型工具类型和更好的模块解析机制，进一步提升开发效率。",
+          "usage": "TypeScript 5.4 发布了，新加的几个泛型工具类型看起来挺实用的，你觉得呢？",
+          "source": "",
+          "tags": [
+            "TypeScript",
+            "泛型"
+          ]
+        },
+        {
+          "title": "JS 提案",
+          "summary": "JS 新提案 TC39",
+          "detail": "TC39 最新提案中包括了 Pattern Matching 和 Pipeline Operator 等新特性，正在积极讨论中。",
+          "usage": "TC39 又有新提案了，这次 Pipeline Operator 看起来挺有意思的，你觉得它会成为下一个主流特性吗？",
+          "source": "",
+          "tags": [
+            "JavaScript",
+            "TC39"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🌟 开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "Agent Desktop",
+          "summary": "Vercel 开源 AI CLI",
+          "detail": "Vercel Labs 开源的 Agent Desktop 是一个专为 AI 代理设计的命令行工具，支持多任务并行处理。",
+          "usage": "Vercel 新开源了 Agent Desktop，专门为 AI 代理设计的，你觉得这会对 AI 开发流程有什么改变吗？",
+          "source": "https://github.com/vercel-labs/agent-desktop",
+          "tags": [
+            "AI",
+            "CLI"
+          ]
+        },
+        {
+          "title": "Skills",
+          "summary": "工程师技能开源库",
+          "detail": "Skills 是一个开源的工程师技能库，包含了从设计到开发的多种实用技能和工具。",
+          "usage": "Skills 这个开源库挺有意思的，你觉得它对工程师的技能提升有帮助吗？",
+          "source": "https://github.com/mattpocock/skills",
+          "tags": [
+            "开源",
+            "工程师技能"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "😄 开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "Stack Overflow 梗",
+          "summary": "Stack Overflow 新梗",
+          "detail": "Stack Overflow 上最近流行一个梗：“当你给客户解释为什么不能修复一个 bug 时，客户的表情”。",
+          "usage": "Stack Overflow 上最近有个梗挺火的，就是关于解释 bug 的场景，你有没有遇到过类似的情况？",
+          "source": "",
+          "tags": [
+            "Stack Overflow",
+            "梗"
+          ]
+        },
+        {
+          "title": "程序员段子",
+          "summary": "程序员新段子",
+          "detail": "最新程序员段子：“当你的代码在本地运行正常，但在生产环境崩溃时，你的心情。”",
+          "usage": "最近有个程序员段子挺有意思的，就是关于代码在生产环境崩溃的场景，你有没有遇到过这种情况？",
+          "source": "",
+          "tags": [
+            "程序员",
+            "段子"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-05T03:41:32.639Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 1979,
+    "completion_tokens": 1425,
+    "total_tokens": 3404,
+    "cost_usd": 0.0019752921,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}

@@ -5,27 +5,33 @@
       "icon": "💥",
       "items": [
         {
-          "title": "百度无人车开挂",
-          "summary": "百度无人车实时推演全局",
-          "detail": "百度无人车搞出了“黑客帝国”级别的世界模型，能够实时推演全局，跑一天相当于三年的数据积累。这意味着无人车不仅能感知周围环境，还能预测未来几分钟甚至几小时的交通状况。以前无人车只能在限定区域内测试，现在直接进入全局推演模式，简直是开了外挂。",
-          "usage": "💡 聊无人车技术突破时\n💬 百度无人车现在能实时推演全局，跑一天顶三年！\n🔥 百度 无人车 黑客帝国",
-          "source": "https://www.qbitai.com/2026/11/507647.html",
+          "title": "Linux漏洞大扫除",
+          "summary": "OpenAI花120万刀找出948个漏洞",
+          "detail": "OpenAI用自家AI搭建了个自动化管道，在Linux内核里挖出948个本地提权漏洞，还自动生成补丁。安全研究员们熬夜找漏洞的日子要结束了——AI现在连漏洞修复都能一条龙服务。",
+          "usage": "💡 聊AI安全时甩出来\n💬 以后黑客和网安都要失业，AI自己就把漏洞找完了\n🔥 OpenAI Linux漏洞 自动化修复",
+          "source": "https://www.qbitai.com/2026/11/507697.html",
           "tags": [
-            "无人车",
-            "百度",
-            "AI"
+            "网络安全",
+            "自动化"
           ]
         },
         {
-          "title": "OpenAI收购Pierre",
-          "summary": "OpenAI收购Pierre公司",
-          "detail": "OpenAI宣布收购Pierre Computer Company，进一步扩展Codex工具在构建和理解代码方面的能力。这家公司专注于开发高级代码分析和生成工具，收购后将直接提升Codex的代码生成和理解能力。程序员们可能要失业了，AI写代码的时代真的来了。",
-          "usage": "💡 聊AI写代码时\n💬 OpenAI收购Pierre，Codex要起飞了！\n🔥 OpenAI Pierre Codex",
-          "source": "https://openai.com/index/openai-to-acquire-pierre",
+          "title": "百度",
+          "summary": "世界模型一天抵三年",
+          "detail": "百度无人车团队搞出了个",
+          "usage": "💡 聊到相关内容时切入\n💬 百度\n🔥 热聊",
+          "source": "",
+          "tags": []
+        },
+        {
+          "title": "Linux漏洞大扫除",
+          "summary": "OpenAI花120万刀找出948个漏洞",
+          "detail": "OpenAI用自家AI搭建了个自动化管道，在Linux内核里挖出948个本地提权漏洞，还自动生成补丁。安全研究员们熬夜找漏洞的日子要结束了——AI现在连漏洞修复都能一条龙服务。",
+          "usage": "💡 聊AI安全时甩出来\n💬 以后黑客和网安都要失业，AI自己就把漏洞找完了\n🔥 OpenAI Linux漏洞 自动化修复",
+          "source": "https://www.qbitai.com/2026/11/507697.html",
           "tags": [
-            "OpenAI",
-            "Codex",
-            "收购"
+            "网络安全",
+            "自动化"
           ]
         }
       ]
@@ -35,27 +41,25 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "驭物™Lion-ER",
-          "summary": "招商局发布具身推理模型",
-          "detail": "招商局狮子山实验室发布了具身推理模型“驭物™ Lion-ER-35B-A3B”，仅激活3B参数就在十项基准测试中全线提升。这个模型能让机器人更好地理解真实物理世界，不再依赖大量数据堆砌。以前的机器人像个瞎子，现在终于能“看”懂了。",
-          "usage": "💡 聊机器人技术时\n💬 招商局的Lion-ER模型，3B参数就吊打全场！\n🔥 招商局 Lion-ER 具身推理",
-          "source": "https://www.qbitai.com/2026/11/507586.html",
+          "title": "GPT-Image 2.6",
+          "summary": "直出GIF和SVG",
+          "detail": "OpenAI放出GPT-Image 2.6，现在能直接生成GIF动图和SVG矢量图了。编辑精度提升40%，生成速度翻倍——设计师们要开始用AI批量生产表情包了。",
+          "usage": "💡 聊AI作图时用\n💬 设计师：这下我连PS都不用开了\n🔥 GPT-Image 动图生成 设计工具",
+          "source": "https://www.qbitai.com/2026/11/507707.html",
           "tags": [
-            "招商局",
-            "Lion-ER",
-            "具身推理"
+            "图像生成",
+            "设计"
           ]
         },
         {
-          "title": "Daybreak Red上线",
-          "summary": "GPT-5.6 Cyber上线AWS",
-          "detail": "OpenAI的Daybreak Red模型在AWS GovCloud（US-East）上线，这个版本专为网络安全设计，结合了GPT-5.6 Cyber技术。以前的黑客得靠熬夜找漏洞，现在AI直接7×24小时不眨眼地找。安全工程师的护肝片销量怕是要涨。",
-          "usage": "💡 聊AI网络安全时\n💬 Daybreak Red上线AWS，黑客要失业了！\n🔥 OpenAI Daybreak Red AWS",
-          "source": "https://openai.com/index/daybreak-red-aws-govcloud",
+          "title": "驭物Lion-ER",
+          "summary": "3B参数十项提升",
+          "detail": "招商局实验室发布具身推理模型'驭物Lion-ER-35B-A3B'，仅激活3B参数就在十项基准上全面提升。机器人现在能靠少量数据理解物理世界——离《西部世界》又近一步。",
+          "usage": "💡 聊机器人时甩\n💬 3B参数吊打前辈，小模型也有春天\n🔥 具身智能 物理推理 小模型",
+          "source": "https://www.qbitai.com/2026/11/507586.html",
           "tags": [
-            "OpenAI",
-            "Daybreak Red",
-            "AWS"
+            "具身智能",
+            "机器人"
           ]
         }
       ]
@@ -65,27 +69,25 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "Ted Schlein募资",
-          "summary": "Ted Schlein募资4.9亿",
-          "detail": "Ted Schlein的Ballistic Ventures正在募资4.9亿美元，主要用于AI驱动的网络安全项目。Schlein表示，AI正在重塑网络安全格局，未来的防御将更加智能化。以前的黑客得手动入侵，现在AI直接帮你找漏洞，效率翻倍。",
-          "usage": "💡 聊网络安全投资时\n💬 Ted Schlein募资4.9亿，AI网络安全要起飞了！\n🔥 Ted Schlein Ballistic Ventures 网络安全",
-          "source": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+          "title": "奥特曼盯上2028大选",
+          "summary": "想用AI定义社会契约",
+          "detail": "OpenAI政策主管Chris Lehane放话要'用AI定义2028年大选'，提议建立新的数字社会契约。政客们还没搞懂AI，AI公司已经想重新设计民主制度了。",
+          "usage": "💡 聊AI监管时用\n💬 以后选总统要先过AI政审？\n🔥 OpenAI 选举 社会契约",
+          "source": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
           "tags": [
-            "Ted Schlein",
-            "Ballistic Ventures",
-            "网络安全"
+            "政策",
+            "选举"
           ]
         },
         {
-          "title": "Jill Hazelbaker加盟",
-          "summary": "Jill Hazelbaker加盟OpenAI",
-          "detail": "OpenAI宣布Jill Hazelbaker将担任首席企业事务官，负责全球沟通和公共政策。Hazelbaker曾是谷歌的高管，她的加盟标志着OpenAI在公共政策领域的进一步布局。OpenAI不仅要搞技术，还要搞定政策。",
-          "usage": "💡 聊OpenAI人事变动时\n💬 Jill Hazelbaker加盟OpenAI，公共政策要大动作了！\n🔥 OpenAI Jill Hazelbaker 公共政策",
-          "source": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+          "title": "Nothing CEO画饼",
+          "summary": "下月发神秘AI设备",
+          "detail": "Nothing CEO裴宇预告下月将发布'AI优先的神秘设备'。考虑到他们手机都卖得一般，这次怕不是要搞个AI加持的...蓝牙耳机？",
+          "usage": "💡 聊硬件时调侃\n💬 我赌五毛是能聊天的TWS\n🔥 Nothing AI硬件 裴宇",
+          "source": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
           "tags": [
-            "OpenAI",
-            "Jill Hazelbaker",
-            "公共政策"
+            "硬件",
+            "消费电子"
           ]
         }
       ]
@@ -95,27 +97,25 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "苹果Siri Recaps",
-          "summary": "苹果Siri Recaps上线",
-          "detail": "苹果的AI助手Siri Recaps上线，尽管有隐私担忧，但其实用性令人惊讶。Siri Recaps能自动总结你的日程和消息，帮你快速掌握一天的重点。以前得手动翻日历，现在Siri直接告诉你今天干了啥。",
-          "usage": "💡 聊AI助手时\n💬 苹果的Siri Recaps上线，隐私担忧但真香！\n🔥 苹果 Siri Recaps AI助手",
-          "source": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+          "title": "OpenAI买买买",
+          "summary": "收购Pierre计算机公司",
+          "detail": "OpenAI宣布收购Pierre计算机公司，要增强Codex的代码理解和构建能力。现在写代码有Copilot，修代码有Pierre——程序员要被AI包养了。",
+          "usage": "💡 聊AI编程时用\n💬 建议改名叫ClosedAI，啥都自己买\n🔥 OpenAI 收购 编程工具",
+          "source": "https://openai.com/index/openai-to-acquire-pierre",
           "tags": [
-            "苹果",
-            "Siri Recaps",
-            "AI助手"
+            "收购",
+            "编程"
           ]
         },
         {
-          "title": "谷歌AI搜索争议",
-          "summary": "谷歌AI搜索引发争议",
-          "detail": "谷歌计划对限制AI使用的学校关闭搜索服务，引发政界人士的强烈反对。纽约市长和前FTC主席Lina Khan指责谷歌滥用市场力量。以前是学校限制学生用手机，现在是谷歌限制学校用搜索。",
-          "usage": "💡 聊AI教育政策时\n💬 谷歌要对限制AI的学校关闭搜索服务，争议大了！\n🔥 谷歌 AI搜索 教育",
-          "source": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+          "title": "Meta押注AI编程",
+          "summary": "收购Conductor",
+          "detail": "Meta收购AI编程初创公司Conductor，这家的绝活是用AI agent团队协作开发。扎克伯格这是要组一支不用发工资的码农大军啊。",
+          "usage": "💡 聊大厂战略时甩\n💬 建议改名叫Robo-Facebook\n🔥 Meta 收购 AI编程",
+          "source": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
           "tags": [
-            "谷歌",
-            "AI搜索",
-            "教育"
+            "收购",
+            "AI编程"
           ]
         }
       ]
@@ -125,27 +125,25 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "鲸锐AI上线",
-          "summary": "鲸锐AI平台正式上线",
-          "detail": "虎鲸文娱的“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上。这个平台专为影视制作设计，能自动生成和管理视频内容。以前拍个视频得花大价钱，现在AI帮你省钱又省力。",
-          "usage": "💡 聊AI视频制作时\n💬 虎鲸文娱的鲸锐AI上线，视频成本降30%！\n🔥 虎鲸文娱 鲸锐AI 视频制作",
-          "source": "https://www.qbitai.com/2026/11/507567.html",
+          "title": "Uber打脸AI订车",
+          "summary": "只有4人用AI叫车",
+          "detail": "Uber自曝上季度最忙的一周里，只有4个人通过AI agent叫车。说好的AI助理改变生活呢？现在连叫个车都要人类亲自动手。",
+          "usage": "💡 聊AI产品落地时用\n💬 建议改名叫'人工'智能\n🔥 Uber AI助理 落地困境",
+          "source": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
           "tags": [
-            "虎鲸文娱",
-            "鲸锐AI",
-            "视频制作"
+            "出行",
+            "产品落地"
           ]
         },
         {
-          "title": "Cisco联手OpenAI",
-          "summary": "Cisco用OpenAI强化安全",
-          "detail": "Cisco与OpenAI合作，将网络智能与OpenAI模型结合，强化企业安全。以前的安全防护得靠人工，现在AI直接帮你搞定，效率翻倍。安全工程师的护肝片销量怕是要涨。",
-          "usage": "💡 聊AI网络安全时\n💬 Cisco联手OpenAI，安全防护要起飞了！\n🔥 Cisco OpenAI 网络安全",
-          "source": "https://openai.com/index/cisco-cyber",
+          "title": "GPT-5.6进政府云",
+          "summary": "AWS GovCloud上线",
+          "detail": "OpenAI的GPT-5.6 Cyber版通过Daybreak Red项目进入AWS政府云。以后美国公务员也能用AI写公文了——就是不知道会不会自动生成'机密'字样。",
+          "usage": "💡 聊政府AI时用\n💬 建议加个'自动解密'功能\n🔥 政府云 GPT-5.6 安全",
+          "source": "https://openai.com/index/daybreak-red-aws-govcloud",
           "tags": [
-            "Cisco",
-            "OpenAI",
-            "网络安全"
+            "政府",
+            "云计算"
           ]
         }
       ]
@@ -155,27 +153,25 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "Anthropic推FlashProve",
-          "summary": "Anthropic推AI身份验证",
-          "detail": "Anthropic正在开发FlashProve系统，用于验证AI模型的真实身份。这个系统能确保AI回复确实来自指定模型，防止伪造和滥用。以前的AI回复真假难辨，现在FlashProve帮你验明正身。",
-          "usage": "💡 聊AI安全性时\n💬 Anthropic推FlashProve，AI回复真假难辨的时代结束了！\n🔥 Anthropic FlashProve AI身份验证",
-          "source": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+          "title": "Hugging Face揭秘",
+          "summary": "开源AI谁在赚钱",
+          "detail": "Hugging Face分析指出，企业、政府和初创公司都在重度依赖开源模型。开源=用爱发电？不，卖云服务和咨询的已经赚麻了。",
+          "usage": "💡 聊商业模式时甩\n💬 建议改名叫Hugging Profit\n🔥 开源 商业化 HuggingFace",
+          "source": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
           "tags": [
-            "Anthropic",
-            "FlashProve",
-            "AI身份验证"
+            "开源",
+            "商业模式"
           ]
         },
         {
-          "title": "openJiuwen Agent-Memory",
-          "summary": "openJiuwen推视听记忆",
-          "detail": "openJiuwen发布的Agent-Memory模型首次实现了“视听双流记忆”，能看懂长视频并记住关键事件。以前的AI记不住长视频，现在关键事件一个不落。问答时延最高降97%，效率翻倍。",
-          "usage": "💡 聊AI视频理解时\n💬 openJiuwen的Agent-Memory，长视频记忆精度飙升！\n🔥 openJiuwen Agent-Memory 视频理解",
-          "source": "https://www.qbitai.com/2026/11/507533.html",
+          "title": "苹果砍AI预算",
+          "summary": "内部使用大幅缩水",
+          "detail": "曝苹果大幅削减内部AI使用预算，工程师们要回到手工写代码的原始时代了。说好的'AI优先'呢？库克这是要改行卖机械键盘？",
+          "usage": "💡 聊大厂策略时用\n💬 果粉：我们不需要AI，有A系列芯片就够了\n🔥 苹果 预算削减 内部AI",
+          "source": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
           "tags": [
-            "openJiuwen",
-            "Agent-Memory",
-            "视频理解"
+            "苹果",
+            "成本"
           ]
         }
       ]
@@ -185,27 +181,25 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "Fal估值翻倍",
-          "summary": "Fal估值翻倍至160亿",
-          "detail": "AI推理初创公司Fal估值翻倍至160亿美元，需求激增推动其最新融资13亿美元。Fal专注于AI推理加速，五年时间估值翻了四倍。以前的AI推理慢如蜗牛，现在Fal帮你提速。",
-          "usage": "💡 聊AI推理技术时\n💬 Fal估值翻倍至160亿，AI推理要起飞了！\n🔥 Fal AI推理 融资",
-          "source": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+          "title": "百度世界模型",
+          "summary": "一天模拟三年路况",
+          "detail": "百度无人车团队搞出'黑客帝国'级世界模型，实时推演全局路况，跑一天模拟相当于真实世界三年数据。这下马斯克要连夜改PPT了。",
+          "usage": "💡 聊自动驾驶时甩\n💬 建议改名叫'母体'系统\n🔥 百度 世界模型 自动驾驶",
+          "source": "https://www.qbitai.com/2026/11/507647.html",
           "tags": [
-            "Fal",
-            "AI推理",
-            "融资"
+            "自动驾驶",
+            "仿真"
           ]
         },
         {
-          "title": "Heimstaden用AI",
-          "summary": "Heimstaden用AI管理房产",
-          "detail": "Heimstaden利用OpenAI的ChatGPT Enterprise和Codex变革房产管理，AI不仅能处理日常事务，还能预测市场需求。以前的房产管理靠人工，现在AI直接搞定。",
-          "usage": "💡 聊AI房产管理时\n💬 Heimstaden用AI管理房产，效率翻倍！\n🔥 Heimstaden ChatGPT Enterprise 房产管理",
-          "source": "https://openai.com/index/heimstaden",
+          "title": "Cisco+OpenAI",
+          "summary": "用AI防御AI攻击",
+          "detail": "Cisco宣布用OpenAI模型加强企业安全，现在网络攻防进入'AI对轰'时代。安全工程师的工作变成看两个AI打架并鼓掌。",
+          "usage": "💡 聊网络安全时用\n💬 建议开通AI格斗直播\n🔥 网络安全 AI攻防 Cisco",
+          "source": "https://openai.com/index/cisco-cyber",
           "tags": [
-            "Heimstaden",
-            "ChatGPT Enterprise",
-            "房产管理"
+            "网络安全",
+            "企业级"
           ]
         }
       ]
@@ -215,42 +209,40 @@
       "icon": "📈",
       "items": [
         {
-          "title": "Palantir财报亮眼",
-          "summary": "Palantir商业收入首超政府",
-          "detail": "Palantir最新财报显示，其美国商业收入首次超过政府收入，标志着其商业化进程的加速。以前Palantir靠政府订单吃饭，现在商业客户也要买单了。",
-          "usage": "💡 聊AI商业化时\n💬 Palantir商业收入首超政府，商业化加速！\n🔥 Palantir 财报 商业化",
-          "source": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+          "title": "AI砸钱选议员",
+          "summary": "中期选举效果一般",
+          "detail": "曝AI行业PAC在中期选举砸了数百万美元游说，结果参选率不到50%。看来AI算得准数据，算不准人心。",
+          "usage": "💡 聊AI监管时甩\n💬 建议训练个'政客模型'\n🔥 游说 选举 AI政策",
+          "source": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
           "tags": [
-            "Palantir",
-            "财报",
-            "商业化"
+            "政策",
+            "游说"
           ]
         },
         {
-          "title": "数据中心用旧引擎",
-          "summary": "数据中心转向旧引擎",
-          "detail": "由于电网接入和新涡轮机等待时间过长，数据中心建造商开始转向旧喷气引擎作为替代能源。以前的能源靠新设备，现在旧引擎也能派上用场。",
-          "usage": "💡 聊数据中心能源时\n💬 数据中心用旧引擎，能源短缺逼出新招！\n🔥 数据中心 旧引擎 能源",
-          "source": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+          "title": "数据中心大战",
+          "summary": "两党罕见联手反对",
+          "detail": "中期选举后，数据中心的反对声浪跨越党派界限。AI公司疯狂建数据中心，老百姓只关心电费会不会涨。",
+          "usage": "💡 聊AI基建时用\n💬 建议改名叫'电老虎'\n🔥 数据中心 政策 环保",
+          "source": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
           "tags": [
-            "数据中心",
-            "旧引擎",
-            "能源"
+            "基建",
+            "政策"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-04T17:45:44.322Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-05T03:46:36.197Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3602,
-    "completion_tokens": 3047,
-    "total_tokens": 6649,
-    "cost_usd": 0.0040616037,
+    "prompt_tokens": 3499,
+    "completion_tokens": 2684,
+    "total_tokens": 6183,
+    "cost_usd": 0.0036616734,
     "free": false,
     "sources": {
       "per_source": {

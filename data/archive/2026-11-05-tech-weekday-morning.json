@@ -1,0 +1,138 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "马斯克预言手机消失",
+          "summary": "马斯克称5年内手机与App将消失。",
+          "detail": "在最近的一次采访中，埃隆·马斯克放出了一个惊人预言：未来五年内，手机和应用程序将彻底消失，人们只需通过AI生成所需信息。想象一下，今后只要对着空气说句‘嘿，AI’就能完成所有操作。这一想法让许多科技迷既期待又一头雾水，果然是‘未来已来’！",
+          "usage": "💡 聊到科技未来时引入 \n💬 “马斯克说，未来五年手机和App都会消失！” \n🔥 马斯克 AI 未来",
+          "source": "https://www.huxiu.com/article/4901391.html?f=rss",
+          "tags": [
+            "马斯克",
+            "科技趋势",
+            "未来"
+          ]
+        },
+        {
+          "title": "Circle财报引发争议",
+          "summary": "Circle发布三季报，业绩遭质疑。",
+          "detail": "Circle在11月4日发布的三季报引起广泛关注，数据显示业绩‘虚胖’，背后还有渠道大户的抨击。看样子，数字货币的热潮似乎没有让每家公司都受益，反倒引发了不少反思。家人们，做大生态还是得靠真实的业绩啊！",
+          "usage": "💡 聊到数字货币时提到 \n💬 “Circle的财报引发热议，业绩被质疑。” \n🔥 Circle 财报 数字货币",
+          "source": "https://www.huxiu.com/article/4903167.html?f=rss",
+          "tags": [
+            "数字货币",
+            "Circle",
+            "财报"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "马斯克又放惊人预言",
+          "summary": "马斯克称未来五年内手机就会消失。",
+          "detail": "在最近的采访中，马斯克提到，未来五年，手机以及应用程序将完全被AI所取代。根据他的说法，想要什么，AI直接生成，简单又高效。看来大佬们的想象力真是让人叹为观止，谁不想成为‘AI的主人’呢？",
+          "usage": "💡 大谈未来科技时引入 \n💬 “马斯克说五年后手机和App就没了。” \n🔥 马斯克 AI 未来",
+          "source": "https://www.huxiu.com/article/4901391.html?f=rss",
+          "tags": [
+            "马斯克",
+            "科技预言",
+            "AI"
+          ]
+        },
+        {
+          "title": "扎克伯格押注AI助手",
+          "summary": "扎克伯格在财报会上提到Muse。",
+          "detail": "在Meta的财报会上，扎克伯格首次提到Muse个人AI助手，表示这是公司未来的关键方向。看得出来，大厂们都在向‘个人助手’这一赛道发力，难道明年会是‘AI助手之年’？真是让人期待！",
+          "usage": "💡 聊AI助手热点时提到 \n💬 “扎克伯格说Muse是Meta未来的关键。” \n🔥 扎克伯格 AI助手 Meta",
+          "source": "https://www.huxiu.com/article/4903165.html?f=rss",
+          "tags": [
+            "扎克伯格",
+            "AI助手",
+            "Meta"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "Meta押注AI助手Muse",
+          "summary": "Meta推出个人AI助手Muse，战略新方向。",
+          "detail": "在最新的财报会上，扎克伯格提到公司将全力发展个人AI助手Muse，志在抢占市场先机。这一方向的转变，显示出Meta对未来技术趋势的敏锐嗅觉。各位程序员，准备好迎接AI助手时代了吗？",
+          "usage": "💡 听到AI助手话题时引导聊天 \n💬 “Meta推出了AI助手Muse，扎克伯格说这是未来的关键。” \n🔥 Meta AI助手 扎克伯格",
+          "source": "https://www.huxiu.com/article/4903165.html?f=rss",
+          "tags": [
+            "Meta",
+            "Muse",
+            "AI助手"
+          ]
+        },
+        {
+          "title": "富国银行推出AI责任新规",
+          "summary": "富国银行首次将AI智能体责任转移至用户。",
+          "detail": "富国银行近日宣布其新版《在线访问协议》，将AI智能体的责任转移至用户，成为行业内的第一次尝试。这种‘授权即自担责任’的做法引发众多讨论，不少人质疑这一举措是否合理。看来金融科技界的风险与责任又得重新定义了！",
+          "usage": "💡 聊到金融科技时提到 \n💬 “富国银行发布新规，AI责任转给用户。” \n🔥 富国银行 AI责任 金融科技",
+          "source": "https://www.huxiu.com/article/4903159.html?f=rss",
+          "tags": [
+            "富国银行",
+            "AI责任",
+            "金融科技"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "Circle裁员风波",
+          "summary": "Circle面临业绩压力，传出裁员消息。",
+          "detail": "随着Circle最新财报的公布，业绩被指‘虚胖’，加之市场反响不佳，传出公司内部将进行裁员重组的消息。这种情况下，股东们的压力可想而知，面对激烈的竞争，Circle真是岌岌可危啊！",
+          "usage": "💡 聊到公司裁员时引入 \n💬 “Circle似乎要裁员了，业绩压力大。” \n🔥 Circle 裁员 业绩",
+          "source": "https://www.huxiu.com/article/4903167.html?f=rss",
+          "tags": [
+            "Circle",
+            "裁员",
+            "业绩压力"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-05T03:45:43.396Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 5786,
+    "completion_tokens": 3177,
+    "total_tokens": 8963,
+    "cost_usd": 0.0027741,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 9,
+      "published": 7
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 12,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 21
+    }
+  }
+}
