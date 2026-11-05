@@ -1,199 +1,196 @@
 {
   "categories": [
     {
-      "name": "🚀 前端框架",
-      "icon": "🚀",
+      "name": "📰 时事热点",
+      "icon": "📰",
       "items": [
         {
-          "title": "React 19",
-          "summary": "React 19 新特性曝光",
-          "detail": "React 19 即将发布，主要新特性包括 Server Components 的完善支持、新的并发渲染机制以及性能优化。",
-          "usage": "听说 React 19 要来了，这次的 Server Components 看起来很厉害，你觉得会不会彻底改变前端开发的模式？",
+          "title": "AI提案通过",
+          "summary": "欧盟通过全球首个AI监管提案",
+          "detail": "欧盟议会通过了全球首个关于人工智能的监管提案，旨在确保AI系统的安全和透明度。该提案要求高风险AI系统必须经过严格的测试和认证，以避免潜在的伦理和安全风险。",
+          "usage": "你知道吗，欧盟刚通过了全球首个AI监管提案，感觉以后AI会更安全了。不过你觉得这会影响我们工程师的工作吗？",
           "source": "",
-          "tags": [
-            "React",
-            "Server Components"
-          ]
-        },
-        {
-          "title": "Vue 4",
-          "summary": "Vue 4 预览版上线",
-          "detail": "Vue 4 预览版已发布，引入了全新的编译器优化和更强的 TypeScript 支持。",
-          "usage": "Vue 4 出来了，新编译器据说性能提升很大，我们项目要不要考虑升级？",
-          "source": "",
-          "tags": [
-            "Vue",
-            "TypeScript"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "📱 React Native",
-      "icon": "📱",
-      "items": [
-        {
-          "title": "RN 新架构",
-          "summary": "RN Fabric 架构全面落地",
-          "detail": "React Native 的新架构 Fabric 已全面落地，带来更流畅的性能和更好的跨平台支持。",
-          "usage": "RN 的 Fabric 架构终于全面落地了，你觉得这次升级对开发者友好吗？",
-          "source": "",
-          "tags": [
-            "React Native",
-            "Fabric"
-          ]
-        },
-        {
-          "title": "TurboModules",
-          "summary": "TurboModules 性能优化",
-          "detail": "TurboModules 的新版本大幅提升了 React Native 应用的启动速度和运行效率。",
-          "usage": "TurboModules 的新版本听说性能提升很大，你有没有在实际项目中使用过？",
-          "source": "",
-          "tags": [
-            "React Native",
-            "TurboModules"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "🤖 AI编程",
-      "icon": "🤖",
-      "items": [
-        {
-          "title": "GPT-Image",
-          "summary": "GPT-Image 2.6 上线",
-          "detail": "GPT-Image 2.6 全量上线，支持直出 GIF 和 SVG 格式图像，进一步提升图像生成质量。",
-          "usage": "GPT-Image 2.6 上线了，现在可以直接生成 GIF 和 SVG，你觉得这会对 UI 设计带来什么影响？",
-          "source": "https://www.qbitai.com/2026/11/507707.html",
           "tags": [
             "AI",
-            "GPT-Image"
+            "欧盟",
+            "监管"
           ]
         },
         {
-          "title": "AI PR Reviewer",
-          "summary": "PR Agent 开源",
-          "detail": "PR Agent 是一个开源的 AI PR Reviewer 工具，能够自动审核代码合并请求并提供建议。",
-          "usage": "PR Agent 开源了，你觉得这种 AI 审核工具能替代人工 Code Review 吗？",
-          "source": "https://github.com/The-PR-Agent/pr-agent",
+          "title": "火星新发现",
+          "summary": "NASA发现火星地下湖泊",
+          "detail": "NASA最新研究发现，火星南极冰盖下可能存在液态水湖泊，这为火星上存在生命提供了新的可能性。这一发现是通过雷达探测技术实现的，进一步激发了人类对火星探索的兴趣。",
+          "usage": "NASA最近又在火星南极发现了液态水湖，感觉离人类登陆火星又近了一步。你觉得我们这一代能看到人类踏上火星吗？",
+          "source": "",
           "tags": [
+            "NASA",
+            "火星",
+            "探索"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "👨‍👧 亲子时光",
+      "icon": "👨‍👧",
+      "items": [
+        {
+          "title": "手工飞船",
+          "summary": "和孩子一起制作火星飞船模型",
+          "detail": "利用纸板、胶水和彩纸，和孩子一起动手制作一个火星飞船模型。这不仅锻炼了孩子的动手能力，还能激发他们对太空探索的兴趣，是一次寓教于乐的活动。",
+          "usage": "今天和孩子一起做了个火星飞船模型，她特别兴奋，还说要当宇航员呢！你们平时会和孩子一起做手工吗？",
+          "source": "",
+          "tags": [
+            "手工",
+            "火星",
+            "亲子"
+          ]
+        },
+        {
+          "title": "科学实验",
+          "summary": "在家进行火山喷发实验",
+          "detail": "用小苏打、醋和食用色素在家模拟火山喷发的场景，让孩子直观地了解化学反应。这个实验简单有趣，适合家长和孩子一起进行，既能学到知识又能增进亲子关系。",
+          "usage": "今天和孩子做了火山喷发实验，她看到醋和小苏打反应时特别惊讶，简直像个小科学家。你家孩子也喜欢动手实验吗？",
+          "source": "",
+          "tags": [
+            "实验",
+            "化学",
+            "亲子"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🎬 热门影视",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "《火星任务》",
+          "summary": "新电影《火星任务》上映",
+          "detail": "科幻电影《火星任务》讲述了人类首次登陆火星的故事，视觉效果震撼，剧情扣人心弦。影片探讨了人类在太空探索中的挑战和机遇，适合全家一起观看。",
+          "usage": "最近上映的《火星任务》特别火，听说视觉效果特别震撼，周末要不要带全家一起去看？",
+          "source": "",
+          "tags": [
+            "电影",
+            "火星",
+            "科幻"
+          ]
+        },
+        {
+          "title": "《AI未来》",
+          "summary": "纪录片《AI未来》引发热议",
+          "detail": "纪录片《AI未来》深入探讨了人工智能的发展趋势及其对社会的影响，内容涵盖了科技、伦理和未来展望，引发了广泛讨论。",
+          "usage": "最近看了一部纪录片《AI未来》，讲得特别深入，感觉AI对我们生活的影响会越来越大。你有没有看过类似的片子？",
+          "source": "",
+          "tags": [
+            "纪录片",
             "AI",
-            "Code Review"
+            "未来"
           ]
         }
       ]
     },
     {
-      "name": "📘 TS & JS",
-      "icon": "📘",
+      "name": "💡 生活妙招",
+      "icon": "💡",
       "items": [
         {
-          "title": "TypeScript 新特性",
-          "summary": "TypeScript 5.4 发布",
-          "detail": "TypeScript 5.4 引入了新的泛型工具类型和更好的模块解析机制，进一步提升开发效率。",
-          "usage": "TypeScript 5.4 发布了，新加的几个泛型工具类型看起来挺实用的，你觉得呢？",
+          "title": "冰箱整理",
+          "summary": "冰箱收纳小技巧",
+          "detail": "利用透明收纳盒和标签，将冰箱内的食物分类存放，不仅节省空间，还能避免食物过期。定期清理冰箱，保持卫生，延长使用寿命。",
+          "usage": "最近学了冰箱收纳的小技巧，用透明盒子分类存放食物，冰箱看起来整洁多了。你有没有什么整理冰箱的秘诀？",
           "source": "",
           "tags": [
-            "TypeScript",
-            "泛型"
+            "冰箱",
+            "收纳",
+            "生活"
           ]
         },
         {
-          "title": "JS 提案",
-          "summary": "JS 新提案 TC39",
-          "detail": "TC39 最新提案中包括了 Pattern Matching 和 Pipeline Operator 等新特性，正在积极讨论中。",
-          "usage": "TC39 又有新提案了，这次 Pipeline Operator 看起来挺有意思的，你觉得它会成为下一个主流特性吗？",
+          "title": "快速早餐",
+          "summary": "五分钟搞定营养早餐",
+          "detail": "利用提前准备好的食材，如麦片、牛奶和水果，快速制作一份营养丰富的早餐。省时又健康，适合忙碌的早晨。",
+          "usage": "最近发现一个快速做早餐的方法，五分钟就能搞定，特别适合早上赶时间的时候。你们家早餐一般吃什么？",
           "source": "",
           "tags": [
-            "JavaScript",
-            "TC39"
+            "早餐",
+            "营养",
+            "快速"
           ]
         }
       ]
     },
     {
-      "name": "🌟 开源热门",
-      "icon": "🌟",
+      "name": "🏓 乒乓球",
+      "icon": "🏓",
       "items": [
         {
-          "title": "Agent Desktop",
-          "summary": "Vercel 开源 AI CLI",
-          "detail": "Vercel Labs 开源的 Agent Desktop 是一个专为 AI 代理设计的命令行工具，支持多任务并行处理。",
-          "usage": "Vercel 新开源了 Agent Desktop，专门为 AI 代理设计的，你觉得这会对 AI 开发流程有什么改变吗？",
-          "source": "https://github.com/vercel-labs/agent-desktop",
+          "title": "WTT冠军",
+          "summary": "樊振东WTT夺冠",
+          "detail": "在最新一站的WTT比赛中，中国选手樊振东表现出色，成功夺冠。他的技术和战术运用令人印象深刻，再次证明了国乒的强大实力。",
+          "usage": "你看昨天的WTT比赛了吗？樊振东又夺冠了，他的技术真是越来越厉害了。你觉得他明年能卫冕吗？",
+          "source": "",
           "tags": [
-            "AI",
-            "CLI"
+            "WTT",
+            "樊振东",
+            "乒乓"
           ]
         },
         {
-          "title": "Skills",
-          "summary": "工程师技能开源库",
-          "detail": "Skills 是一个开源的工程师技能库，包含了从设计到开发的多种实用技能和工具。",
-          "usage": "Skills 这个开源库挺有意思的，你觉得它对工程师的技能提升有帮助吗？",
-          "source": "https://github.com/mattpocock/skills",
+          "title": "乒乓装备",
+          "summary": "新款乒乓球拍推荐",
+          "detail": "最近推出了一款新型乒乓球拍，采用了最新的碳纤维材料，重量轻、弹性好，适合业余和专业选手使用，广受好评。",
+          "usage": "听说最近出了一款新型乒乓球拍，用了碳纤维材料，手感特别好。你平时打球用的是什么样的拍子？",
+          "source": "",
           "tags": [
-            "开源",
-            "工程师技能"
+            "装备",
+            "乒乓",
+            "拍子"
           ]
         }
       ]
     },
     {
-      "name": "😄 开发者梗",
-      "icon": "😄",
+      "name": "🥗 健康养生",
+      "icon": "🥗",
       "items": [
         {
-          "title": "Stack Overflow 梗",
-          "summary": "Stack Overflow 新梗",
-          "detail": "Stack Overflow 上最近流行一个梗：“当你给客户解释为什么不能修复一个 bug 时，客户的表情”。",
-          "usage": "Stack Overflow 上最近有个梗挺火的，就是关于解释 bug 的场景，你有没有遇到过类似的情况？",
+          "title": "秋冬养生",
+          "summary": "秋冬季节养生小贴士",
+          "detail": "秋冬季节气候干燥，建议多喝水，适当增加富含维生素的食物，如胡萝卜和南瓜。保持适度运动，增强免疫力，预防感冒。",
+          "usage": "最近天气转凉，感觉特别干燥。你知道秋冬季节有什么养生的小窍门吗？比如吃什么特别好的？",
           "source": "",
           "tags": [
-            "Stack Overflow",
-            "梗"
+            "养生",
+            "秋冬",
+            "健康"
           ]
         },
         {
-          "title": "程序员段子",
-          "summary": "程序员新段子",
-          "detail": "最新程序员段子：“当你的代码在本地运行正常，但在生产环境崩溃时，你的心情。”",
-          "usage": "最近有个程序员段子挺有意思的，就是关于代码在生产环境崩溃的场景，你有没有遇到过这种情况？",
+          "title": "家庭运动",
+          "summary": "全家一起做运动",
+          "detail": "选择和家人一起进行的运动项目，如瑜伽、跳绳或散步，不仅能增强体质，还能增进家庭成员之间的感情，营造健康的生活氛围。",
+          "usage": "最近我们全家开始一起做运动，感觉效果还不错，既锻炼了身体又增进了感情。你们家平时会一起运动吗？",
           "source": "",
           "tags": [
-            "程序员",
-            "段子"
+            "运动",
+            "家庭",
+            "健康"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-05T03:41:32.639Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-11-05T17:34:04.828Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 1979,
-    "completion_tokens": 1425,
-    "total_tokens": 3404,
-    "cost_usd": 0.0019752921,
-    "free": false,
-    "sources": {
-      "per_source": {
-        "hackernews": 15,
-        "reddit": 0,
-        "askhn": 8,
-        "lobsters": 10,
-        "devto": 10,
-        "v2ex": 10,
-        "juejin": 10,
-        "github": 10,
-        "qbitai": 8,
-        "infoq": 8
-      },
-      "total": 20
-    }
+    "prompt_tokens": 776,
+    "completion_tokens": 1578,
+    "total_tokens": 2354,
+    "cost_usd": 0.0018230310000000001,
+    "free": false
   }
 }

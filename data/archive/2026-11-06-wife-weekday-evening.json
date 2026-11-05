@@ -1,0 +1,83 @@
+{
+  "categories": [
+    {
+      "name": "追剧指南",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "四叶草之恋",
+          "summary": "相约“四叶草”，共享中国机遇",
+          "detail": "最近火的剧《四叶草之恋》讲述了一对情侣在四叶草下的浪漫故事，剧情跌宕起伏，演员颜值在线。你可以和她聊起这部剧的情节，尤其是四叶草的象征意义，让她感受到剧中的浪漫氛围。",
+          "usage": "💡 晚饭后一起追剧\n💬 今天看到《四叶草之恋》更新了，感觉咱们的生活也挺像四叶草的，幸福又幸运！\n🔥 四叶草 浪漫",
+          "source": "https://m.baidu.com/s?word=%E7%9B%B8%E7%BA%A6%E2%80%9C%E5%9B%9B%E5%8F%B6%E8%8D%89%E2%80%9D+%E5%85%B1%E4%BA%AB%E4%B8%AD%E5%9B%BD%E6%9C%BA%E9%81%87&sa=fyb_news",
+          "tags": [
+            "追剧",
+            "浪漫"
+          ]
+        },
+        {
+          "title": "假期安排",
+          "summary": "2027年假期安排出炉，春节连休9天",
+          "detail": "2027年的假期安排已经出炉，春节连休9天，可以考虑一起安排一次长途旅行。你可以和她讨论去哪里玩，提前规划，让她期待这个漫长的假期。",
+          "usage": "💡 周末一起规划假期\n💬 2027年春节连休9天，咱们可以考虑去个暖和的地方，要不要提前规划一下？\n🔥 假期 旅行",
+          "source": "https://m.baidu.com/s?word=2027%E5%B9%B4%E5%81%87%E6%9C%9F%E5%AE%89%E6%8E%92%E5%87%BA%E7%82%89+%E6%98%A5%E8%8A%82%E8%BF%9E%E4%BC%919%E5%A4%A9&sa=fyb_news",
+          "tags": [
+            "假期",
+            "规划"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "土味情话",
+      "icon": "😘",
+      "items": [
+        {
+          "title": "四叶草情话",
+          "summary": "相约“四叶草”，共享中国机遇",
+          "detail": "“媳妇，你知道吗？四叶草代表幸福，而你是我找到的唯一一个四叶草，和你在一起是我最大的幸运。”",
+          "usage": "💡 浪漫时刻\n💬 媳妇，你知道吗？四叶草代表幸福，而你是我找到的唯一一个四叶草，和你在一起是我最大的幸运。\n🔥 四叶草 情话",
+          "source": "https://m.baidu.com/s?word=%E7%9B%B8%E7%BA%A6%E2%80%9C%E5%9B%9B%E5%8F%B6%E8%8D%89%E2%80%9D+%E5%85%B1%E4%BA%AB%E4%B8%AD%E5%9B%BD%E6%9C%BA%E9%81%87&sa=fyb_news",
+          "tags": [
+            "四叶草",
+            "情话"
+          ]
+        },
+        {
+          "title": "假期情话",
+          "summary": "2027年假期安排出炉，春节连休9天",
+          "detail": "“媳妇，2027年春节连休9天，咱们可以一起规划一个浪漫的旅行，你负责美丽，我负责照顾你。”",
+          "usage": "💡 假期规划\n💬 媳妇，2027年春节连休9天，咱们可以一起规划一个浪漫的旅行，你负责美丽，我负责照顾你。\n🔥 假期 情话",
+          "source": "https://m.baidu.com/s?word=2027%E5%B9%B4%E5%81%87%E6%9C%9F%E5%AE%89%E6%8E%92%E5%87%BA%E7%82%89+%E6%98%A5%E8%8A%82%E8%BF%9E%E4%BC%919%E5%A4%A9&sa=fyb_news",
+          "tags": [
+            "假期",
+            "情话"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-05T17:42:48.312Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2969,
+    "completion_tokens": 2642,
+    "total_tokens": 5611,
+    "cost_usd": 0.003482046,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 12,
+      "published": 4
+    },
+    "sources": {
+      "per_source": {
+        "baidu": 20
+      },
+      "total": 15
+    }
+  }
+}

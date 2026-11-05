@@ -1,0 +1,181 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "20家大厂AI自律公约",
+          "summary": "华为腾讯阿里等发布AI自律公约",
+          "detail": "11月4日，2026年世界互联网大会乌镇峰会上，中国信通院联合华为、腾讯、阿里、蚂蚁、抖音、小米等20家机构与企业，发布了《智能体发展自律公约》。这标志着AI技术发展进入规范化阶段，但实际操作仍面临三道关。",
+          "usage": "💡 同事聊AI伦理时\n💬 华为腾讯阿里等20家大厂发布了AI自律公约\n🔥 AI 自律公约 华为 腾讯 阿里",
+          "source": "https://www.huxiu.com/article/4903406.html?f=rss",
+          "tags": [
+            "AI",
+            "自律公约",
+            "乌镇峰会"
+          ]
+        },
+        {
+          "title": "存储板块股价大跌",
+          "summary": "SK海力士等财报创纪录但股价大跌",
+          "detail": "SK海力士、铠侠、三星电子刚刚交出单季盈利创纪录的财报，前两者今年Q3的营业利润率高达80%。然而，全球存储板块股价却连续两日大跌。市场不再相信存储超级周期？",
+          "usage": "💡 同事聊股市时\n💬 SK海力士财报创纪录但股价大跌\n🔥 存储板块 SK海力士 股价大跌",
+          "source": "https://www.huxiu.com/article/4903404.html?f=rss",
+          "tags": [
+            "存储",
+            "股价",
+            "SK海力士"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "马斯克SpaceX新动作",
+          "summary": "马斯克宣布SpaceX新计划",
+          "detail": "马斯克在最新采访中透露，SpaceX正在推进星舰项目，计划在未来两年内实现载人飞行。马斯克表示，这将为火星殖民奠定基础。",
+          "usage": "💡 同事聊太空探索时\n💬 马斯克说SpaceX两年内实现载人飞行\n🔥 马斯克 SpaceX 星舰",
+          "source": "",
+          "tags": [
+            "马斯克",
+            "SpaceX",
+            "星舰"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "华为AI新战略",
+          "summary": "华为发布AI新战略",
+          "detail": "华为在2026年世界互联网大会上发布了AI新战略，计划在未来三年内投入1000亿元用于AI研发，重点布局智能驾驶和智能家居领域。",
+          "usage": "💡 同事聊华为时\n💬 华为要砸1000亿搞AI\n🔥 华为 AI 智能驾驶",
+          "source": "https://www.toutiao.com/article/7704594856781365770",
+          "tags": [
+            "华为",
+            "AI",
+            "智能驾驶"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "字节跳动裁员",
+          "summary": "字节跳动裁员3000人",
+          "detail": "字节跳动宣布将裁员3000人，主要涉及海外业务和部分国内非核心业务。公司表示这是为了优化资源配置，聚焦核心业务。",
+          "usage": "💡 同事聊裁员时\n💬 字节跳动裁员3000人\n🔥 字节跳动 裁员 海外业务",
+          "source": "",
+          "tags": [
+            "字节跳动",
+            "裁员",
+            "海外业务"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "6G新进展",
+          "summary": "6G技术有新突破",
+          "detail": "中国科学家在6G技术研发上取得新突破，成功实现了6G信号的超远距离传输，距离达到100公里。这一技术将为未来通信带来革命性变化。",
+          "usage": "💡 同事聊通信技术时\n💬 6G新突破：100公里传输\n🔥 6G 通信技术 超远距离",
+          "source": "",
+          "tags": [
+            "6G",
+            "通信技术",
+            "超远距离"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "小米新手机发布",
+          "summary": "小米发布阔直板新手机",
+          "detail": "小米发布了新款阔直板手机，采用全新设计，屏幕更大，手感更佳。网友们纷纷表示，这款手机可能是小米今年的爆款。",
+          "usage": "💡 同事聊手机时\n💬 小米新手机发布：阔直板设计\n🔥 小米 新手机 阔直板",
+          "source": "https://www.toutiao.com/trending/7704647901628075561/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704647901628075561%22%2C%22hot_board_impr_id%22%3A%222026110601424925ECDCC41627832A0381%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%98%94%E7%9B%B4%E6%9D%BF%E6%89%8B%E6%9C%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E7%81%AB%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7704647901628075561",
+          "tags": [
+            "小米",
+            "新手机",
+            "阔直板"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "EDA集团亏损",
+          "summary": "EDA集团从盈利变亏损",
+          "detail": "2026年上半年，EDA集团收入增长14.3%，净利润却从盈利1930万元变成亏损4216万元。这不只是一家公司的经营问题，平台把尾程变成了计件工。",
+          "usage": "💡 同事聊创业时\n💬 EDA集团从盈利变亏损\n🔥 EDA集团 亏损 计件工",
+          "source": "https://www.huxiu.com/article/4903409.html?f=rss",
+          "tags": [
+            "EDA集团",
+            "亏损",
+            "计件工"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "币圈风云",
+      "icon": "🪙",
+      "items": [
+        {
+          "title": "孙宇晨新动作",
+          "summary": "孙宇晨宣布新项目",
+          "detail": "孙宇晨在最新采访中透露，正在筹备一个新项目，计划在区块链领域再次掀起波澜。具体细节尚未公布，但已经引发市场关注。",
+          "usage": "💡 同事聊币圈时\n💬 孙宇晨又有新动作\n🔥 孙宇晨 区块链 新项目",
+          "source": "",
+          "tags": [
+            "孙宇晨",
+            "区块链",
+            "新项目"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-05T17:43:47.237Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 4337,
+    "completion_tokens": 1834,
+    "total_tokens": 6171,
+    "cost_usd": 0.0030029796000000004,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 4,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 15
+    }
+  }
+}

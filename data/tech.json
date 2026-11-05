@@ -5,27 +5,27 @@
       "icon": "📰",
       "items": [
         {
-          "title": "马斯克预言手机消失",
-          "summary": "马斯克称5年内手机与App将消失。",
-          "detail": "在最近的一次采访中，埃隆·马斯克放出了一个惊人预言：未来五年内，手机和应用程序将彻底消失，人们只需通过AI生成所需信息。想象一下，今后只要对着空气说句‘嘿，AI’就能完成所有操作。这一想法让许多科技迷既期待又一头雾水，果然是‘未来已来’！",
-          "usage": "💡 聊到科技未来时引入 \n💬 “马斯克说，未来五年手机和App都会消失！” \n🔥 马斯克 AI 未来",
-          "source": "https://www.huxiu.com/article/4901391.html?f=rss",
+          "title": "20家大厂AI自律公约",
+          "summary": "华为腾讯阿里等发布AI自律公约",
+          "detail": "11月4日，2026年世界互联网大会乌镇峰会上，中国信通院联合华为、腾讯、阿里、蚂蚁、抖音、小米等20家机构与企业，发布了《智能体发展自律公约》。这标志着AI技术发展进入规范化阶段，但实际操作仍面临三道关。",
+          "usage": "💡 同事聊AI伦理时\n💬 华为腾讯阿里等20家大厂发布了AI自律公约\n🔥 AI 自律公约 华为 腾讯 阿里",
+          "source": "https://www.huxiu.com/article/4903406.html?f=rss",
           "tags": [
-            "马斯克",
-            "科技趋势",
-            "未来"
+            "AI",
+            "自律公约",
+            "乌镇峰会"
           ]
         },
         {
-          "title": "Circle财报引发争议",
-          "summary": "Circle发布三季报，业绩遭质疑。",
-          "detail": "Circle在11月4日发布的三季报引起广泛关注，数据显示业绩‘虚胖’，背后还有渠道大户的抨击。看样子，数字货币的热潮似乎没有让每家公司都受益，反倒引发了不少反思。家人们，做大生态还是得靠真实的业绩啊！",
-          "usage": "💡 聊到数字货币时提到 \n💬 “Circle的财报引发热议，业绩被质疑。” \n🔥 Circle 财报 数字货币",
-          "source": "https://www.huxiu.com/article/4903167.html?f=rss",
+          "title": "存储板块股价大跌",
+          "summary": "SK海力士等财报创纪录但股价大跌",
+          "detail": "SK海力士、铠侠、三星电子刚刚交出单季盈利创纪录的财报，前两者今年Q3的营业利润率高达80%。然而，全球存储板块股价却连续两日大跌。市场不再相信存储超级周期？",
+          "usage": "💡 同事聊股市时\n💬 SK海力士财报创纪录但股价大跌\n🔥 存储板块 SK海力士 股价大跌",
+          "source": "https://www.huxiu.com/article/4903404.html?f=rss",
           "tags": [
-            "数字货币",
-            "Circle",
-            "财报"
+            "存储",
+            "股价",
+            "SK海力士"
           ]
         }
       ]
@@ -35,27 +35,15 @@
       "icon": "🎤",
       "items": [
         {
-          "title": "马斯克又放惊人预言",
-          "summary": "马斯克称未来五年内手机就会消失。",
-          "detail": "在最近的采访中，马斯克提到，未来五年，手机以及应用程序将完全被AI所取代。根据他的说法，想要什么，AI直接生成，简单又高效。看来大佬们的想象力真是让人叹为观止，谁不想成为‘AI的主人’呢？",
-          "usage": "💡 大谈未来科技时引入 \n💬 “马斯克说五年后手机和App就没了。” \n🔥 马斯克 AI 未来",
-          "source": "https://www.huxiu.com/article/4901391.html?f=rss",
+          "title": "马斯克SpaceX新动作",
+          "summary": "马斯克宣布SpaceX新计划",
+          "detail": "马斯克在最新采访中透露，SpaceX正在推进星舰项目，计划在未来两年内实现载人飞行。马斯克表示，这将为火星殖民奠定基础。",
+          "usage": "💡 同事聊太空探索时\n💬 马斯克说SpaceX两年内实现载人飞行\n🔥 马斯克 SpaceX 星舰",
+          "source": "",
           "tags": [
             "马斯克",
-            "科技预言",
-            "AI"
-          ]
-        },
-        {
-          "title": "扎克伯格押注AI助手",
-          "summary": "扎克伯格在财报会上提到Muse。",
-          "detail": "在Meta的财报会上，扎克伯格首次提到Muse个人AI助手，表示这是公司未来的关键方向。看得出来，大厂们都在向‘个人助手’这一赛道发力，难道明年会是‘AI助手之年’？真是让人期待！",
-          "usage": "💡 聊AI助手热点时提到 \n💬 “扎克伯格说Muse是Meta未来的关键。” \n🔥 扎克伯格 AI助手 Meta",
-          "source": "https://www.huxiu.com/article/4903165.html?f=rss",
-          "tags": [
-            "扎克伯格",
-            "AI助手",
-            "Meta"
+            "SpaceX",
+            "星舰"
           ]
         }
       ]
@@ -65,27 +53,15 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "Meta押注AI助手Muse",
-          "summary": "Meta推出个人AI助手Muse，战略新方向。",
-          "detail": "在最新的财报会上，扎克伯格提到公司将全力发展个人AI助手Muse，志在抢占市场先机。这一方向的转变，显示出Meta对未来技术趋势的敏锐嗅觉。各位程序员，准备好迎接AI助手时代了吗？",
-          "usage": "💡 听到AI助手话题时引导聊天 \n💬 “Meta推出了AI助手Muse，扎克伯格说这是未来的关键。” \n🔥 Meta AI助手 扎克伯格",
-          "source": "https://www.huxiu.com/article/4903165.html?f=rss",
+          "title": "华为AI新战略",
+          "summary": "华为发布AI新战略",
+          "detail": "华为在2026年世界互联网大会上发布了AI新战略，计划在未来三年内投入1000亿元用于AI研发，重点布局智能驾驶和智能家居领域。",
+          "usage": "💡 同事聊华为时\n💬 华为要砸1000亿搞AI\n🔥 华为 AI 智能驾驶",
+          "source": "https://www.toutiao.com/article/7704594856781365770",
           "tags": [
-            "Meta",
-            "Muse",
-            "AI助手"
-          ]
-        },
-        {
-          "title": "富国银行推出AI责任新规",
-          "summary": "富国银行首次将AI智能体责任转移至用户。",
-          "detail": "富国银行近日宣布其新版《在线访问协议》，将AI智能体的责任转移至用户，成为行业内的第一次尝试。这种‘授权即自担责任’的做法引发众多讨论，不少人质疑这一举措是否合理。看来金融科技界的风险与责任又得重新定义了！",
-          "usage": "💡 聊到金融科技时提到 \n💬 “富国银行发布新规，AI责任转给用户。” \n🔥 富国银行 AI责任 金融科技",
-          "source": "https://www.huxiu.com/article/4903159.html?f=rss",
-          "tags": [
-            "富国银行",
-            "AI责任",
-            "金融科技"
+            "华为",
+            "AI",
+            "智能驾驶"
           ]
         }
       ]
@@ -95,44 +71,111 @@
       "icon": "🔀",
       "items": [
         {
-          "title": "Circle裁员风波",
-          "summary": "Circle面临业绩压力，传出裁员消息。",
-          "detail": "随着Circle最新财报的公布，业绩被指‘虚胖’，加之市场反响不佳，传出公司内部将进行裁员重组的消息。这种情况下，股东们的压力可想而知，面对激烈的竞争，Circle真是岌岌可危啊！",
-          "usage": "💡 聊到公司裁员时引入 \n💬 “Circle似乎要裁员了，业绩压力大。” \n🔥 Circle 裁员 业绩",
-          "source": "https://www.huxiu.com/article/4903167.html?f=rss",
+          "title": "字节跳动裁员",
+          "summary": "字节跳动裁员3000人",
+          "detail": "字节跳动宣布将裁员3000人，主要涉及海外业务和部分国内非核心业务。公司表示这是为了优化资源配置，聚焦核心业务。",
+          "usage": "💡 同事聊裁员时\n💬 字节跳动裁员3000人\n🔥 字节跳动 裁员 海外业务",
+          "source": "",
           "tags": [
-            "Circle",
+            "字节跳动",
             "裁员",
-            "业绩压力"
+            "海外业务"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "6G新进展",
+          "summary": "6G技术有新突破",
+          "detail": "中国科学家在6G技术研发上取得新突破，成功实现了6G信号的超远距离传输，距离达到100公里。这一技术将为未来通信带来革命性变化。",
+          "usage": "💡 同事聊通信技术时\n💬 6G新突破：100公里传输\n🔥 6G 通信技术 超远距离",
+          "source": "",
+          "tags": [
+            "6G",
+            "通信技术",
+            "超远距离"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "小米新手机发布",
+          "summary": "小米发布阔直板新手机",
+          "detail": "小米发布了新款阔直板手机，采用全新设计，屏幕更大，手感更佳。网友们纷纷表示，这款手机可能是小米今年的爆款。",
+          "usage": "💡 同事聊手机时\n💬 小米新手机发布：阔直板设计\n🔥 小米 新手机 阔直板",
+          "source": "https://www.toutiao.com/trending/7704647901628075561/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704647901628075561%22%2C%22hot_board_impr_id%22%3A%222026110601424925ECDCC41627832A0381%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%98%94%E7%9B%B4%E6%9D%BF%E6%89%8B%E6%9C%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E7%81%AB%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7704647901628075561",
+          "tags": [
+            "小米",
+            "新手机",
+            "阔直板"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "EDA集团亏损",
+          "summary": "EDA集团从盈利变亏损",
+          "detail": "2026年上半年，EDA集团收入增长14.3%，净利润却从盈利1930万元变成亏损4216万元。这不只是一家公司的经营问题，平台把尾程变成了计件工。",
+          "usage": "💡 同事聊创业时\n💬 EDA集团从盈利变亏损\n🔥 EDA集团 亏损 计件工",
+          "source": "https://www.huxiu.com/article/4903409.html?f=rss",
+          "tags": [
+            "EDA集团",
+            "亏损",
+            "计件工"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "币圈风云",
+      "icon": "🪙",
+      "items": [
+        {
+          "title": "孙宇晨新动作",
+          "summary": "孙宇晨宣布新项目",
+          "detail": "孙宇晨在最新采访中透露，正在筹备一个新项目，计划在区块链领域再次掀起波澜。具体细节尚未公布，但已经引发市场关注。",
+          "usage": "💡 同事聊币圈时\n💬 孙宇晨又有新动作\n🔥 孙宇晨 区块链 新项目",
+          "source": "",
+          "tags": [
+            "孙宇晨",
+            "区块链",
+            "新项目"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-05T03:45:43.396Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-11-05T17:43:47.237Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
-    "model": "openai/gpt-4o-mini",
-    "actual_model": "openai/gpt-4o-mini",
-    "prompt_tokens": 5786,
-    "completion_tokens": 3177,
-    "total_tokens": 8963,
-    "cost_usd": 0.0027741,
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 4337,
+    "completion_tokens": 1834,
+    "total_tokens": 6171,
+    "cost_usd": 0.0030029796000000004,
     "free": false,
-    "quality": {
-      "degraded": true,
-      "dropped_orphans": 9,
-      "published": 7
-    },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 12,
+        "huxiu": 4,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 21
+      "total": 15
     }
   }
 }
