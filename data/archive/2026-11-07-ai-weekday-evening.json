@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "OpenAI 收购 Pierre",
+          "summary": "OpenAI 收购 Pierre Computer",
+          "detail": "OpenAI 宣布收购 Pierre Computer Company，这将大幅扩展 Codex 的工具集，增强其构建和理解能力。这一举动不仅标志着 OpenAI 在工具链上的进一步整合，还预示着 AI 开发环境的全面升级。\n💡 怎么聊切入时机：当讨论 AI 工具链整合时\n💬 可直接发群里的原话：OpenAI 收购 Pierre，Codex 能力再升级！\n🔥 OpenAI Pierre 收购",
+          "source": "https://openai.com/index/openai-to-acquire-pierre",
+          "tags": [
+            "OpenAI",
+            "收购",
+            "Codex"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 OpenAI 收购 Pierre\n🔥 OpenAI 收购 Codex"
+        },
+        {
+          "title": "Meta AI 头像视频通话",
+          "summary": "Meta 推出 AI 头像视频通话",
+          "detail": "Meta 宣布美国用户现在可以与他们的 Muse AI 头像进行视频通话。这一功能不仅展示了 Meta 在 AI 和虚拟形象技术上的领先地位，还为未来的虚拟社交互动奠定了基础。\n💡 怎么聊切入时机：当讨论 AI 虚拟形象时\n💬 可直接发群里的原话：Meta 的 AI 头像可以视频通话了！\n🔥 Meta Muse AI 头像",
+          "source": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+          "tags": [
+            "Meta",
+            "Muse",
+            "AI 头像"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Meta AI 头像视频通话\n🔥 Meta Muse AI 头像"
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "GPT-6 Cyber 发布",
+          "summary": "OpenAI 推出 GPT-6 Cyber",
+          "detail": "OpenAI 发布了 GPT-6 Cyber，这是一个专注于网络安全的模型，能够发现可利用的漏洞并提供防御建议。相比前代，GPT-6 Cyber 在漏洞检测效率和准确性上都有显著提升，标志着 AI 在网络安全领域的新高度。\n💡 怎么聊切入时机：当讨论 AI 网络安全时\n💬 可直接发群里的原话：GPT-6 Cyber 来了，网络安全再升级！\n🔥 GPT-6 Cyber 网络安全",
+          "source": "https://openai.com/index/introducing-gpt-6-cyber",
+          "tags": [
+            "OpenAI",
+            "GPT-6",
+            "网络安全"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 GPT-6 Cyber 发布\n🔥 OpenAI GPT-6 网络安全"
+        },
+        {
+          "title": "Underdog 32MB 语音模型",
+          "summary": "Underdog 展示 32MB 语音模型",
+          "detail": "Underdog 展示了其新的 32MB 语音模型，尽管体积小巧，却能生成语音和音乐。这一模型的出现证明了小型模型在特定任务上的潜力，为边缘计算设备带来了新的可能性。\n💡 怎么聊切入时机：当讨论小型 AI 模型时\n💬 可直接发群里的原话：32MB 的语音模型，Underdog 秀翻了！\n🔥 Underdog 语音模型",
+          "source": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+          "tags": [
+            "Underdog",
+            "语音模型",
+            "小型 AI"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Underdog 32MB 语音模型\n🔥 Underdog 语音模型 小型 AI"
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "Meta 警告数据中心反对",
+          "summary": "Meta 警告数据中心反对",
+          "detail": "Meta 警告称，日益增长的对数据中心的反对可能威胁未来的 AI 投资。随着政治反对的增加，Meta 的 AI 扩张计划可能受到影响。\n💡 怎么聊切入时机：当讨论 AI 基础设施挑战时\n💬 可直接发群里的原话：Meta 说数据中心反对可能阻碍 AI 扩张！\n🔥 Meta 数据中心 反对",
+          "source": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+          "tags": [
+            "Meta",
+            "数据中心",
+            "AI 扩张"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Meta 警告数据中心反对\n🔥 Meta 数据中心 AI 扩张"
+        },
+        {
+          "title": "Airbnb AI 旅行助手",
+          "summary": "Airbnb 宣布 AI 旅行助手",
+          "detail": "Airbnb 宣布将在 2027 年上半年推出 AI 旅行助手，帮助旅行者规划行程、比较选项和管理预订。这一举措标志着 Airbnb 在 AI 旅行服务领域的新尝试。\n💡 怎么聊切入时机：当讨论 AI 旅行服务时\n💬 可直接发群里的原话：Airbnb 要出 AI 旅行助手了！\n🔥 Airbnb AI 旅行助手",
+          "source": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+          "tags": [
+            "Airbnb",
+            "AI 助手",
+            "旅行"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Airbnb AI 旅行助手\n🔥 Airbnb AI 助手 旅行"
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "Anthropic IPO 临近",
+          "summary": "Anthropic 接近 IPO",
+          "detail": "Anthropic 接近其 IPO，尽管 AI 使用率持续上升，但支出却停滞不前。价格削减和更智能的成本控制成为其 IPO 前的关键策略。\n💡 怎么聊切入时机：当讨论 AI 公司 IPO 时\n💬 可直接发群里的原话：Anthropic IPO 临近，支出却停滞了！\n🔥 Anthropic IPO 支出",
+          "source": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+          "tags": [
+            "Anthropic",
+            "IPO",
+            "AI 支出"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Anthropic IPO 临近\n🔥 Anthropic IPO AI 支出"
+        },
+        {
+          "title": "Palo Alto 收购 Clutch",
+          "summary": "Palo Alto 收购 Clutch",
+          "detail": "Palo Alto Networks 正在洽谈以 5 亿美元收购 AI 代理安全初创公司 Clutch。Clutch 的最后估值为 8500 万美元，这一收购将大幅增强 Palo Alto 在 AI 安全领域的能力。\n💡 怎么聊切入时机：当讨论 AI 安全收购时\n💬 可直接发群里的原话：Palo Alto 要 5 亿买 Clutch！\n🔥 Palo Alto Clutch 收购",
+          "source": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+          "tags": [
+            "Palo Alto",
+            "Clutch",
+            "收购"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Palo Alto 收购 Clutch\n🔥 Palo Alto Clutch 收购"
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "Cult.fit 使用 Codex",
+          "summary": "Cult.fit 用 Codex 提速",
+          "detail": "Cult.fit 使用 Codex 帮助团队构建工具，加速工作流程，改变了工作方式。这一应用展示了 Codex 在提升企业效率方面的潜力。\n💡 怎么聊切入时机：当讨论 AI 在企业中的应用时\n💬 可直接发群里的原话：Cult.fit 用 Codex 提速了！\n🔥 Cult.fit Codex 效率",
+          "source": "https://openai.com/index/cultfit-builds-with-codex",
+          "tags": [
+            "Cult.fit",
+            "Codex",
+            "效率"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Cult.fit 使用 Codex\n🔥 Cult.fit Codex 效率"
+        },
+        {
+          "title": "Amazon 推语音购物",
+          "summary": "Amazon 推语音购物功能",
+          "detail": "Amazon 宣布将推出语音购物功能，用户可以通过 Alexa 文本购物。这一功能预计将在未来几周内面向数百万用户推出。\n💡 怎么聊切入时机：当讨论语音购物时\n💬 可直接发群里的原话：Amazon 推语音购物，Alexa 能帮你下单了！\n🔥 Amazon Alexa 语音购物",
+          "source": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+          "tags": [
+            "Amazon",
+            "Alexa",
+            "语音购物"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Amazon 推语音购物\n🔥 Amazon Alexa 语音购物"
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "DeepSeek 稀疏计算",
+          "summary": "DeepSeek 带火稀疏计算",
+          "detail": "DeepSeek 推动了稀疏计算的热潮，国产芯片公司加速突围，一家公司已融资近 10 亿。这一进展标志着国产芯片在稀疏计算领域的新突破。\n💡 怎么聊切入时机：当讨论稀疏计算时\n💬 可直接发群里的原话：DeepSeek 带火稀疏计算，国产芯片融资近 10 亿！\n🔥 DeepSeek 稀疏计算 国产芯片",
+          "source": "https://www.qbitai.com/2026/11/508155.html",
+          "tags": [
+            "DeepSeek",
+            "稀疏计算",
+            "国产芯片"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 DeepSeek 稀疏计算\n🔥 DeepSeek 稀疏计算 国产芯片"
+        },
+        {
+          "title": "腾讯 Hy4 调用激增",
+          "summary": "腾讯 Hy4 调用激增",
+          "detail": "腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容。这一举措展示了腾讯在 AI 基础设施上的强大应变能力。\n💡 怎么聊切入时机：当讨论 AI 调用激增时\n💬 可直接发群里的原话：腾讯 Hy4 调用激增，WorkBuddy 十倍扩容！\n🔥 腾讯 Hy4 WorkBuddy",
+          "source": "https://www.qbitai.com/2026/11/507967.html",
+          "tags": [
+            "腾讯",
+            "Hy4",
+            "WorkBuddy"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 腾讯 Hy4 调用激增\n🔥 腾讯 Hy4 WorkBuddy"
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "Physicl 融资 1000 万",
+          "summary": "Physicl 融资 1000 万",
+          "detail": "Physicl 融资 1000 万美元，旨在缩小数字世界与机器人之间的差距。这一研究突破为机器人技术带来了新的可能性。\n💡 怎么聊切入时机：当讨论机器人技术时\n💬 可直接发群里的原话：Physicl 融资 1000 万，数字世界与机器人差距缩小！\n🔥 Physicl 机器人 融资",
+          "source": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+          "tags": [
+            "Physicl",
+            "机器人",
+            "融资"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Physicl 融资 1000 万\n🔥 Physicl 机器人 融资"
+        },
+        {
+          "title": "AI 安全世界杯夺冠",
+          "summary": "中国 AI 夺安全世界杯",
+          "detail": "中国 AI 在「AI 安全世界杯」CyberGym 上一举刷新世界纪录，以 99.4% 的准确率登顶全球第一。这一成就展示了中国在 AI 安全领域的领先地位。\n💡 怎么聊切入时机：当讨论 AI 安全竞赛时\n💬 可直接发群里的原话：中国 AI 夺安全世界杯，99.4% 登顶！\n🔥 AI 安全 世界杯 中国",
+          "source": "https://www.qbitai.com/2026/11/508107.html",
+          "tags": [
+            "AI 安全",
+            "世界杯",
+            "中国"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 AI 安全世界杯夺冠\n🔥 AI 安全 世界杯 中国"
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "AI 支出停滞",
+          "summary": "AI 支出停滞",
+          "detail": "Ramp 数据显示，AI 使用率持续上升，但支出却停滞不前。价格削减和更智能的成本控制成为行业趋势。\n💡 怎么聊切入时机：当讨论 AI 支出趋势时\n💬 可直接发群里的原话：AI 支出停滞了，价格削减成趋势！\n🔥 AI 支出 价格削减",
+          "source": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+          "tags": [
+            "AI 支出",
+            "价格削减",
+            "行业趋势"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 AI 支出停滞\n🔥 AI 支出 价格削减 行业趋势"
+        },
+        {
+          "title": "AI 短剧双11冲业绩",
+          "summary": "AI 短剧双11冲业绩",
+          "detail": "AI 短剧开始冲击双11业绩，剧本、分镜、预演一条龙，Seedance 2.5 单秒低至 0.15 元。这一趋势展示了 AI 在内容创作中的商业化潜力。\n💡 怎么聊切入时机：当讨论 AI 内容创作时\n💬 可直接发群里的原话：AI 短剧双11冲业绩，单秒低至 0.15 元！\n🔥 AI 短剧 双11 Seedance",
+          "source": "https://www.qbitai.com/2026/11/508118.html",
+          "tags": [
+            "AI 短剧",
+            "双11",
+            "Seedance"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 AI 短剧双11冲业绩\n🔥 AI 短剧 双11 Seedance"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-06T17:09:33.636Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3564,
+    "completion_tokens": 3048,
+    "total_tokens": 6612,
+    "cost_usd": 0.0038532,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

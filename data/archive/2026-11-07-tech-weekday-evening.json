@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "7999元电动鞋",
+          "summary": "电动鞋售价高达7999元",
+          "detail": "一双号称能自动调节步伐的电动鞋，标价7999元，引发热议。网友调侃：这鞋怕不是能直接送我上天？",
+          "usage": "💡 同事聊离谱新品\n💬 家人们谁懂啊，7999买双鞋，它还能飞吗？\n🔥 电动鞋 7999元",
+          "source": "https://m.baidu.com/s?word=%E4%B8%80%E5%8F%8C%E2%80%9C%E7%94%B5%E5%8A%A8%E9%9E%8B%E2%80%9D%E5%94%AE%E4%BB%B77999%E5%85%83&sa=fyb_news",
+          "tags": [
+            "新品",
+            "离谱"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-06T17:07:34.250Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 4572,
+    "completion_tokens": 1255,
+    "total_tokens": 5827,
+    "cost_usd": 0.00257999,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 7,
+      "published": 1
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 1,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 13
+    }
+  }
+}

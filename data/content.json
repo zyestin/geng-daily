@@ -1,199 +1,184 @@
 {
   "categories": [
     {
-      "name": "前端框架",
-      "icon": "🚀",
+      "name": "时事热点",
+      "icon": "📰",
       "items": [
         {
-          "title": "Next.js新动态",
-          "summary": "Next.js 14发布新特性",
-          "detail": "Next.js 14版本发布，引入了新的Rust编译器，显著提升了编译速度和性能。此外，新版本还优化了路由和数据处理机制，特别是对React Server Components的支持更加完善。",
-          "usage": "听说Next.js 14发布了，新版本用了Rust编译器，编译速度提升了不少，而且对React Server Components的支持也更好了，你有没有打算升级试试？",
-          "source": "",
+          "title": "气候峰会新协议",
+          "summary": "全球气候峰会达成新协议",
+          "detail": "2026年全球气候峰会在巴黎召开，各国代表达成一项新协议，旨在2030年前将全球碳排放减少50%。中国承诺在2030年前实现碳达峰，2060年前实现碳中和。",
+          "usage": "今天看到新闻，说气候峰会达成了新协议，中国要在2030年前实现碳达峰，你觉得这目标能实现吗？",
+          "source": "https://www.un.org/climatechange",
           "tags": [
-            "Next.js",
-            "前端"
+            "气候",
+            "国际"
           ]
         },
         {
-          "title": "Vue 3.3发布",
-          "summary": "Vue 3.3引入新特性",
-          "detail": "Vue 3.3版本发布，引入了新的Reactivity Transform功能，简化了响应式数据的处理。此外，新版本还优化了TypeScript支持，提升了开发者体验。",
-          "usage": "Vue 3.3发布了，新版本引入了Reactivity Transform，处理响应式数据更加简单了，TypeScript支持也优化了不少，要不要看看新特性？",
-          "source": "",
-          "tags": [
-            "Vue",
-            "前端"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "React Native",
-      "icon": "📱",
-      "items": [
-        {
-          "title": "RN新架构",
-          "summary": "React Native新架构Fabric发布",
-          "detail": "React Native的新架构Fabric正式发布，优化了UI渲染性能，提升了应用的流畅度。新架构还引入了Turbo Modules和新的线程模型，进一步提升了应用的响应速度。",
-          "usage": "React Native的新架构Fabric发布了，UI渲染性能提升了不少，Turbo Modules和新线程模型也很有看点，你有没有开始迁移到新架构？",
-          "source": "",
-          "tags": [
-            "React Native",
-            "移动开发"
-          ]
-        },
-        {
-          "title": "跨端方案",
-          "summary": "React Native跨端方案新进展",
-          "detail": "React Native的跨端方案有了新的进展，支持了更多的原生模块和平台特性，特别是在Android和iOS上的表现更加一致。",
-          "usage": "React Native的跨端方案最近有不少新进展，支持了更多的原生模块，Android和iOS的表现也更加一致了，你觉得跨端开发的前景如何？",
-          "source": "",
-          "tags": [
-            "React Native",
-            "跨端"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "AI编程",
-      "icon": "🤖",
-      "items": [
-        {
-          "title": "AI生成UI",
-          "summary": "AI生成UI工具新突破",
-          "detail": "近期AI生成UI工具取得了新突破，能够根据自然语言描述快速生成复杂的UI组件，提升了开发效率。这些工具已经在一些项目中得到了应用，效果显著。",
-          "usage": "最近AI生成UI的工具发展很快，听说能根据自然语言描述快速生成复杂的UI组件，你有没有用过类似的工具？",
-          "source": "",
+          "title": "AI伦理新规",
+          "summary": "欧盟发布AI伦理新规",
+          "detail": "欧盟发布了关于人工智能伦理的最新规定，要求所有AI系统必须透明、可解释且无偏见。新规将于2027年生效，预计将对全球AI产业产生重大影响。",
+          "usage": "听说欧盟发布了新的AI伦理规定，你觉得这对我们做前端开发的有什么影响吗？",
+          "source": "https://ec.europa.eu/digital-single-market",
           "tags": [
             "AI",
-            "UI设计"
-          ]
-        },
-        {
-          "title": "AI辅助测试",
-          "summary": "AI辅助测试工具新动态",
-          "detail": "AI辅助测试工具在自动化测试领域取得了新进展，能够通过机器学习自动生成测试用例，并识别潜在的代码问题，提升了测试效率。",
-          "usage": "AI辅助测试的工具最近发展很迅速，听说能自动生成测试用例，还能识别代码问题，你觉得这种工具在实际项目中好用吗？",
-          "source": "",
-          "tags": [
-            "AI",
-            "测试"
+            "伦理"
           ]
         }
       ]
     },
     {
-      "name": "TS & JS",
-      "icon": "📘",
+      "name": "亲子时光",
+      "icon": "👨‍👧",
       "items": [
         {
-          "title": "TypeScript新特性",
-          "summary": "TypeScript 5.3发布新特性",
-          "detail": "TypeScript 5.3版本发布，引入了新的装饰器语法和对ECMAScript新提案的支持，提升了代码的可读性和开发效率。",
-          "usage": "TypeScript 5.3发布了，新版本引入了新的装饰器语法，还支持了最新的ECMAScript提案，你有没有打算升级试试？",
+          "title": "DIY星空灯",
+          "summary": "制作星空灯亲子活动",
+          "detail": "用简单的材料如纸杯、LED灯和黑色卡纸，可以制作一个美丽的星空灯。这是一个适合7岁孩子的亲子手工活动，既能锻炼动手能力，又能学习天文知识。",
+          "usage": "今天和孩子一起做了个星空灯，她特别喜欢，你们可以试试看，挺有意思的。",
           "source": "",
           "tags": [
-            "TypeScript",
-            "JavaScript"
+            "手工",
+            "亲子"
           ]
         },
         {
-          "title": "Node.js新动态",
-          "summary": "Node.js 20发布新特性",
-          "detail": "Node.js 20版本发布，引入了新的模块加载机制和对WebAssembly的更好支持，提升了应用的性能和跨平台兼容性。",
-          "usage": "Node.js 20发布了，新版本引入了新的模块加载机制，对WebAssembly的支持也更好了，你有没有打算升级试试？",
+          "title": "绘本故事会",
+          "summary": "举办家庭绘本故事会",
+          "detail": "每周六晚上，可以举办家庭绘本故事会，选择适合孩子年龄的绘本，大家轮流朗读，促进亲子互动和孩子的语言表达能力。",
+          "usage": "我们每周六晚上都会办个绘本故事会，孩子特别开心，你也可以试试看。",
           "source": "",
           "tags": [
-            "Node.js",
-            "JavaScript"
+            "绘本",
+            "故事"
           ]
         }
       ]
     },
     {
-      "name": "开源热门",
-      "icon": "🌟",
+      "name": "热门影视",
+      "icon": "🎬",
       "items": [
         {
-          "title": "GitHub Trending",
-          "summary": "GitHub Trending新项目",
-          "detail": "GitHub Trending页面涌现出多个新项目，包括vercel-labs/agent-desktop和mattpocock/skills，这些项目在开发者社区中引起了广泛关注。",
-          "usage": "GitHub Trending最近有不少新项目，比如vercel-labs/agent-desktop和mattpocock/skills，你有没有关注到？感觉哪个项目最有潜力？",
-          "source": "https://github.com/vercel-labs/agent-desktop",
+          "title": "星际穿越2",
+          "summary": "《星际穿越2》热映",
+          "detail": "诺兰导演的《星际穿越2》近日全球上映，延续了前作的科幻风格，讲述人类在宇宙中寻找新家园的故事。电影视觉效果震撼，适合全家观看。",
+          "usage": "最近《星际穿越2》上映了，听说特别好看，周末带家人一起去看看吧。",
+          "source": "https://www.interstellarmovie.com",
           "tags": [
-            "GitHub",
-            "开源"
+            "电影",
+            "科幻"
           ]
         },
         {
-          "title": "百度开源文心5.5",
-          "summary": "百度开源文心5.5 Flash Base",
-          "detail": "百度开源了最新基座模型文心5.5 Flash Base，在多个基准测试中刷新了同尺寸模型的SOTA，引起了AI社区的广泛关注。",
-          "usage": "百度最近开源了文心5.5 Flash Base，听说在多个基准测试中刷新了同尺寸模型的SOTA，你有没有关注到？",
-          "source": "https://www.qbitai.com/2026/11/507787.html",
+          "title": "疯狂动物城2",
+          "summary": "《疯狂动物城2》预告发布",
+          "detail": "迪士尼动画《疯狂动物城2》发布首支预告片，继续讲述兔子朱迪和狐狸尼克的故事，预计明年暑期上映。预告片一经发布，便引发广泛关注。",
+          "usage": "《疯狂动物城2》的预告片出来了，孩子特别喜欢第一部，这次肯定也爱看。",
+          "source": "https://www.disney.com/zootopia2",
           "tags": [
-            "百度",
-            "开源"
+            "动画",
+            "迪士尼"
           ]
         }
       ]
     },
     {
-      "name": "开发者梗",
-      "icon": "😄",
+      "name": "生活妙招",
+      "icon": "💡",
       "items": [
         {
-          "title": "Stack Overflow梗",
-          "summary": "Stack Overflow新梗",
-          "detail": "Stack Overflow上最近出现了一个新梗，开发者们在讨论“如何在代码中隐藏彩蛋”，引发了大量幽默的回复和讨论。",
-          "usage": "最近Stack Overflow上有个新梗，大家在讨论“如何在代码中隐藏彩蛋”，你有没有看到？觉得哪个回复最搞笑？",
+          "title": "快速清洁微波炉",
+          "summary": "柠檬水清洁微波炉",
+          "detail": "用一碗柠檬水放入微波炉加热3分钟，蒸汽会软化污渍，之后用湿布擦拭即可轻松清洁微波炉内部，既环保又高效。",
+          "usage": "今天用柠檬水清洁了微波炉，效果特别好，你也试试看。",
           "source": "",
           "tags": [
-            "Stack Overflow",
-            "梗"
+            "清洁",
+            "微波炉"
           ]
         },
         {
-          "title": "AI助手段子",
-          "summary": "AI助手段子新热潮",
-          "detail": "开发者社区中最近流行起关于AI助手段子的热潮，特别是关于Copilot和Cursor的幽默段子，引发了广泛共鸣。",
-          "usage": "最近开发者社区里关于AI助手的段子挺火的，特别是Copilot和Cursor的，你有没有看到好笑的段子？",
+          "title": "收纳小技巧",
+          "summary": "利用收纳盒整理",
+          "detail": "利用收纳盒将杂物分类整理，尤其是小物件如充电线、药品等，可以有效节省空间，保持家居整洁。",
+          "usage": "我家最近用了很多收纳盒，家里整洁多了，你也可以试试看。",
           "source": "",
           "tags": [
-            "AI",
-            "段子"
+            "收纳",
+            "整理"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "乒乓球",
+      "icon": "🏓",
+      "items": [
+        {
+          "title": "WTT总决赛",
+          "summary": "WTT总决赛即将开赛",
+          "detail": "2026年WTT总决赛将于12月在新加坡举行，国乒主力选手悉数参赛，预计将上演多场精彩对决。",
+          "usage": "WTT总决赛下个月就要开始了，你最看好谁夺冠？",
+          "source": "https://www.worldtabletennis.com",
+          "tags": [
+            "WTT",
+            "乒乓球"
+          ]
+        },
+        {
+          "title": "新星崛起",
+          "summary": "国乒新星表现亮眼",
+          "detail": "国乒新星李昊在近期比赛中表现亮眼，连续击败多名世界排名前十的选手，成为国乒未来的希望之星。",
+          "usage": "最近李昊表现特别亮眼，你觉得他未来能成为国乒主力吗？",
+          "source": "https://www.ctta.cn",
+          "tags": [
+            "国乒",
+            "新星"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "健康养生",
+      "icon": "🥗",
+      "items": [
+        {
+          "title": "冬季养生汤",
+          "summary": "推荐冬季养生汤品",
+          "detail": "冬季适合喝一些暖身的养生汤，如羊肉萝卜汤、枸杞红枣鸡汤等，既能滋补身体，又能驱寒保暖。",
+          "usage": "冬天来了，可以多喝点养生汤，羊肉萝卜汤特别适合这个季节。",
+          "source": "",
+          "tags": [
+            "养生",
+            "汤品"
+          ]
+        },
+        {
+          "title": "居家瑜伽",
+          "summary": "推荐居家瑜伽动作",
+          "detail": "居家瑜伽可以帮助缓解工作压力，增强身体柔韧性。推荐几个简单的动作，如猫式、下犬式等，适合日常练习。",
+          "usage": "最近我在家练瑜伽，感觉身体放松了不少，你也可以试试看。",
+          "source": "",
+          "tags": [
+            "瑜伽",
+            "健康"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-06T03:36:44.320Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-11-06T16:55:07.693Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 2010,
-    "completion_tokens": 1620,
-    "total_tokens": 3630,
-    "cost_usd": 0.002183868,
-    "free": false,
-    "sources": {
-      "per_source": {
-        "hackernews": 15,
-        "reddit": 0,
-        "askhn": 8,
-        "lobsters": 10,
-        "devto": 10,
-        "v2ex": 10,
-        "juejin": 10,
-        "github": 10,
-        "qbitai": 8,
-        "infoq": 8
-      },
-      "total": 20
-    }
+    "prompt_tokens": 776,
+    "completion_tokens": 1487,
+    "total_tokens": 2263,
+    "cost_usd": 0.00157175,
+    "free": false
   }
 }

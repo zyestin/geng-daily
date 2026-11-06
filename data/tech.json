@@ -5,170 +5,43 @@
       "icon": "📰",
       "items": [
         {
-          "title": "美股史诗级崩盘",
-          "summary": "美股遭遇2020年以来最惨烈崩跌",
-          "detail": "昨夜美股主要指数集体重挫，纳斯达克100指数收跌逾6%，抹去年内全部涨幅。这次崩盘被认为是2008年以来最糟糕的11月，科技股全线暴跌，马斯克的xAI也未能幸免。",
-          "usage": "💡 早上到公司聊美股崩盘 \n💬 昨晚美股崩了，纳指跌了6%，马斯克的xAI也没扛住 \n🔥 美股 崩盘 纳斯达克",
-          "source": "https://www.huxiu.com/article/4903467.html?f=rss",
+          "title": "7999元电动鞋",
+          "summary": "电动鞋售价高达7999元",
+          "detail": "一双号称能自动调节步伐的电动鞋，标价7999元，引发热议。网友调侃：这鞋怕不是能直接送我上天？",
+          "usage": "💡 同事聊离谱新品\n💬 家人们谁懂啊，7999买双鞋，它还能飞吗？\n🔥 电动鞋 7999元",
+          "source": "https://m.baidu.com/s?word=%E4%B8%80%E5%8F%8C%E2%80%9C%E7%94%B5%E5%8A%A8%E9%9E%8B%E2%80%9D%E5%94%AE%E4%BB%B77999%E5%85%83&sa=fyb_news",
           "tags": [
-            "美股",
-            "崩盘",
-            "马斯克"
-          ]
-        },
-        {
-          "title": "吉利银河减速",
-          "summary": "吉利银河要放慢推新速度",
-          "detail": "吉利银河靠不断增加新产品迅速做大，但现在吉利管理层要求减少新车型。吉利汽车集团CEO淦家阅在第三季度业绩电话会上表示，未来将更多聚焦现有车型的优化和市场表现。",
-          "usage": "💡 中午吃饭聊汽车 \n💬 吉利银河要减速了，新车不推那么多了 \n🔥 吉利 银河 新车",
-          "source": "https://www.huxiu.com/article/4903482.html?f=rss",
-          "tags": [
-            "吉利",
-            "银河",
-            "新车"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "大佬动态",
-      "icon": "🎤",
-      "items": [
-        {
-          "title": "马斯克流血",
-          "summary": "马斯克的xAI在美股崩盘中受重创",
-          "detail": "美股崩盘中，马斯克的xAI未能幸免，股价暴跌。这是马斯克继特斯拉和SpaceX之后的又一次重挫，市场对他的AI布局信心受挫。",
-          "usage": "💡 下午茶时间聊大佬动态 \n💬 马斯克的xAI昨晚也崩了，大佬又流血了 \n🔥 马斯克 xAI 美股",
-          "source": "https://www.huxiu.com/article/4903461.html?f=rss",
-          "tags": [
-            "马斯克",
-            "xAI",
-            "美股"
-          ]
-        },
-        {
-          "title": "李斌警示车重",
-          "summary": "蔚来李斌再度警示车重问题",
-          "detail": "蔚来CEO李斌在近期公开场合再度警示电动汽车车重问题，强调轻量化设计对续航和性能的重要性。蔚来未来将在新车型中加大轻量化技术的应用。",
-          "usage": "💡 下班路上聊电动车 \n💬 李斌又在说车重问题了，蔚来要轻量化了 \n🔥 李斌 蔚来 车重",
-          "source": "https://www.toutiao.com/trending/7704530713500352566/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704530713500352566%22%2C%22hot_board_impr_id%22%3A%22202611061136458AACCCD62C4C2AC4CE5B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%8E%E6%96%8C%E5%86%8D%E5%BA%A6%E8%AD%A6%E7%A4%BA%E8%BD%A6%E9%87%8D%E9%97%AE%E9%A2%98%22%7D&rank=&style_id=40132&topic_id=7704530713500352566",
-          "tags": [
-            "李斌",
-            "蔚来",
-            "车重"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "巨头动向",
-      "icon": "🏢",
-      "items": [
-        {
-          "title": "华为AI地图",
-          "summary": "华为发布AI落地红绿灯地图",
-          "detail": "华为在乌镇峰会上发布了一份AI落地红绿灯地图，详细展示了AI技术在不同行业的应用现状和未来趋势。这张地图被视为AI落地的指南针。",
-          "usage": "💡 午饭时间聊AI \n💬 华为发布了AI落地红绿灯地图，AI行业指南上线了 \n🔥 华为 AI 地图",
-          "source": "https://www.huxiu.com/article/4903456.html?f=rss",
-          "tags": [
-            "华为",
-            "AI",
-            "地图"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "新品发布",
-      "icon": "📱",
-      "items": [
-        {
-          "title": "阔直板手机",
-          "summary": "阔直板手机成新潮流",
-          "detail": "尽管手机市场竞争激烈，阔直板手机却意外成为新潮流。多家厂商纷纷推出类似设计，试图在差异化竞争中脱颖而出。",
-          "usage": "💡 下午茶时间聊手机 \n💬 阔直板手机火了，大家都在跟风 \n🔥 阔直板 手机 潮流",
-          "source": "https://m.baidu.com/s?word=%E6%89%8B%E6%9C%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%8D%B7+%E5%87%AD%E4%BB%80%E4%B9%88%E9%98%94%E7%9B%B4%E6%9D%BF%E7%81%AB%E4%BA%86&sa=fyb_news",
-          "tags": [
-            "阔直板",
-            "手机",
-            "潮流"
-          ]
-        },
-        {
-          "title": "Funko财报",
-          "summary": "Funko Q3营收17亿元",
-          "detail": "Funko发布2026年第三季度财报，当季净销售额2.583亿美元，约合人民币17亿元。中国成为其未来开发的重点市场。",
-          "usage": "💡 午饭时间聊财报 \n💬 Funko Q3营收17亿，中国是重点 \n🔥 Funko 财报 中国",
-          "source": "https://www.huxiu.com/article/4903488.html?f=rss",
-          "tags": [
-            "Funko",
-            "财报",
-            "中国"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "创业大戏",
-      "icon": "🎬",
-      "items": [
-        {
-          "title": "AI创业寒冬",
-          "summary": "AI创业公司面临寒冬",
-          "detail": "随着资本市场的收紧，AI创业公司面临寒冬，多家公司融资困难，甚至出现倒闭潮。业内人士认为，未来AI创业将更加注重实际应用和商业化能力。",
-          "usage": "💡 下午茶时间聊创业 \n💬 AI创业公司日子不好过，倒闭潮来了 \n🔥 AI 创业 倒闭",
-          "source": "https://www.huxiu.com/article/4903467.html?f=rss",
-          "tags": [
-            "AI",
-            "创业",
-            "倒闭"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "币圈风云",
-      "icon": "🪙",
-      "items": [
-        {
-          "title": "A股天价离婚",
-          "summary": "A股又现天价离婚案",
-          "detail": "A股市场再次出现天价离婚案，分手费高达8亿元。这一事件引发市场广泛关注，投资者对相关公司未来的稳定性表示担忧。",
-          "usage": "💡 午饭时间聊八卦 \n💬 A股又现天价离婚，分手费8亿 \n🔥 A股 离婚 分手费",
-          "source": "https://m.baidu.com/s?word=A%E8%82%A1%E5%8F%88%E7%8E%B0%E2%80%9C%E5%A4%A9%E4%BB%B7%E2%80%9D%E7%A6%BB%E5%A9%9A+%E5%88%86%E6%89%8B%E8%B4%B9%E8%B6%858%E4%BA%BF%E5%85%83&sa=fyb_news",
-          "tags": [
-            "A股",
-            "离婚",
-            "分手费"
+            "新品",
+            "离谱"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-06T03:41:25.595Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-11-06T17:07:34.250Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 5660,
-    "completion_tokens": 3027,
-    "total_tokens": 8687,
-    "cost_usd": 0.0045707589,
+    "prompt_tokens": 4572,
+    "completion_tokens": 1255,
+    "total_tokens": 5827,
+    "cost_usd": 0.00257999,
     "free": false,
     "quality": {
       "degraded": true,
       "dropped_orphans": 7,
-      "published": 9
+      "published": 1
     },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 12,
+        "huxiu": 1,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 23
+      "total": 13
     }
   }
 }

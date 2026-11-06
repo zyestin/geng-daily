@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "key": "2026-11-07-tech-weekday-evening",
+      "date": "2026-11-07",
+      "slot": "tech-weekday-evening",
+      "slot_label": "工作日傍晚 · 生活时光",
+      "generated_at": "2026-11-06T17:07:34.250Z",
+      "weekday": "星期五",
+      "file": "archive/2026-11-07-tech-weekday-evening.json",
+      "topic_count": 1,
+      "category_names": [
+        "今日头条"
+      ]
+    },
+    {
       "key": "2026-11-06-tech-weekday-morning",
       "date": "2026-11-06",
       "slot": "tech-weekday-morning",
@@ -2005,5 +2018,5 @@
       ]
     }
   ],
-  "updated_at": "2026-11-06T03:41:25.607Z"
+  "updated_at": "2026-11-06T17:07:34.259Z"
 }
