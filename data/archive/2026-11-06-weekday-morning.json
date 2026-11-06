@@ -1,0 +1,199 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Next.js新动态",
+          "summary": "Next.js 14发布新特性",
+          "detail": "Next.js 14版本发布，引入了新的Rust编译器，显著提升了编译速度和性能。此外，新版本还优化了路由和数据处理机制，特别是对React Server Components的支持更加完善。",
+          "usage": "听说Next.js 14发布了，新版本用了Rust编译器，编译速度提升了不少，而且对React Server Components的支持也更好了，你有没有打算升级试试？",
+          "source": "",
+          "tags": [
+            "Next.js",
+            "前端"
+          ]
+        },
+        {
+          "title": "Vue 3.3发布",
+          "summary": "Vue 3.3引入新特性",
+          "detail": "Vue 3.3版本发布，引入了新的Reactivity Transform功能，简化了响应式数据的处理。此外，新版本还优化了TypeScript支持，提升了开发者体验。",
+          "usage": "Vue 3.3发布了，新版本引入了Reactivity Transform，处理响应式数据更加简单了，TypeScript支持也优化了不少，要不要看看新特性？",
+          "source": "",
+          "tags": [
+            "Vue",
+            "前端"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN新架构",
+          "summary": "React Native新架构Fabric发布",
+          "detail": "React Native的新架构Fabric正式发布，优化了UI渲染性能，提升了应用的流畅度。新架构还引入了Turbo Modules和新的线程模型，进一步提升了应用的响应速度。",
+          "usage": "React Native的新架构Fabric发布了，UI渲染性能提升了不少，Turbo Modules和新线程模型也很有看点，你有没有开始迁移到新架构？",
+          "source": "",
+          "tags": [
+            "React Native",
+            "移动开发"
+          ]
+        },
+        {
+          "title": "跨端方案",
+          "summary": "React Native跨端方案新进展",
+          "detail": "React Native的跨端方案有了新的进展，支持了更多的原生模块和平台特性，特别是在Android和iOS上的表现更加一致。",
+          "usage": "React Native的跨端方案最近有不少新进展，支持了更多的原生模块，Android和iOS的表现也更加一致了，你觉得跨端开发的前景如何？",
+          "source": "",
+          "tags": [
+            "React Native",
+            "跨端"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "AI生成UI",
+          "summary": "AI生成UI工具新突破",
+          "detail": "近期AI生成UI工具取得了新突破，能够根据自然语言描述快速生成复杂的UI组件，提升了开发效率。这些工具已经在一些项目中得到了应用，效果显著。",
+          "usage": "最近AI生成UI的工具发展很快，听说能根据自然语言描述快速生成复杂的UI组件，你有没有用过类似的工具？",
+          "source": "",
+          "tags": [
+            "AI",
+            "UI设计"
+          ]
+        },
+        {
+          "title": "AI辅助测试",
+          "summary": "AI辅助测试工具新动态",
+          "detail": "AI辅助测试工具在自动化测试领域取得了新进展，能够通过机器学习自动生成测试用例，并识别潜在的代码问题，提升了测试效率。",
+          "usage": "AI辅助测试的工具最近发展很迅速，听说能自动生成测试用例，还能识别代码问题，你觉得这种工具在实际项目中好用吗？",
+          "source": "",
+          "tags": [
+            "AI",
+            "测试"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "TypeScript新特性",
+          "summary": "TypeScript 5.3发布新特性",
+          "detail": "TypeScript 5.3版本发布，引入了新的装饰器语法和对ECMAScript新提案的支持，提升了代码的可读性和开发效率。",
+          "usage": "TypeScript 5.3发布了，新版本引入了新的装饰器语法，还支持了最新的ECMAScript提案，你有没有打算升级试试？",
+          "source": "",
+          "tags": [
+            "TypeScript",
+            "JavaScript"
+          ]
+        },
+        {
+          "title": "Node.js新动态",
+          "summary": "Node.js 20发布新特性",
+          "detail": "Node.js 20版本发布，引入了新的模块加载机制和对WebAssembly的更好支持，提升了应用的性能和跨平台兼容性。",
+          "usage": "Node.js 20发布了，新版本引入了新的模块加载机制，对WebAssembly的支持也更好了，你有没有打算升级试试？",
+          "source": "",
+          "tags": [
+            "Node.js",
+            "JavaScript"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "GitHub Trending",
+          "summary": "GitHub Trending新项目",
+          "detail": "GitHub Trending页面涌现出多个新项目，包括vercel-labs/agent-desktop和mattpocock/skills，这些项目在开发者社区中引起了广泛关注。",
+          "usage": "GitHub Trending最近有不少新项目，比如vercel-labs/agent-desktop和mattpocock/skills，你有没有关注到？感觉哪个项目最有潜力？",
+          "source": "https://github.com/vercel-labs/agent-desktop",
+          "tags": [
+            "GitHub",
+            "开源"
+          ]
+        },
+        {
+          "title": "百度开源文心5.5",
+          "summary": "百度开源文心5.5 Flash Base",
+          "detail": "百度开源了最新基座模型文心5.5 Flash Base，在多个基准测试中刷新了同尺寸模型的SOTA，引起了AI社区的广泛关注。",
+          "usage": "百度最近开源了文心5.5 Flash Base，听说在多个基准测试中刷新了同尺寸模型的SOTA，你有没有关注到？",
+          "source": "https://www.qbitai.com/2026/11/507787.html",
+          "tags": [
+            "百度",
+            "开源"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "Stack Overflow梗",
+          "summary": "Stack Overflow新梗",
+          "detail": "Stack Overflow上最近出现了一个新梗，开发者们在讨论“如何在代码中隐藏彩蛋”，引发了大量幽默的回复和讨论。",
+          "usage": "最近Stack Overflow上有个新梗，大家在讨论“如何在代码中隐藏彩蛋”，你有没有看到？觉得哪个回复最搞笑？",
+          "source": "",
+          "tags": [
+            "Stack Overflow",
+            "梗"
+          ]
+        },
+        {
+          "title": "AI助手段子",
+          "summary": "AI助手段子新热潮",
+          "detail": "开发者社区中最近流行起关于AI助手段子的热潮，特别是关于Copilot和Cursor的幽默段子，引发了广泛共鸣。",
+          "usage": "最近开发者社区里关于AI助手的段子挺火的，特别是Copilot和Cursor的，你有没有看到好笑的段子？",
+          "source": "",
+          "tags": [
+            "AI",
+            "段子"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-06T03:36:44.320Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2010,
+    "completion_tokens": 1620,
+    "total_tokens": 3630,
+    "cost_usd": 0.002183868,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}

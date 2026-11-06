@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "GPT-6 Cyber上线",
+          "summary": "OpenAI发布网络安全新模型",
+          "detail": "OpenAI 最新发布的 GPT-6 Cyber 专为网络安全设计，能自动发现可利用的漏洞并进行防御测试。过去黑客找到漏洞平均需要72小时，现在 GPT-6 Cyber 只需几分钟就能扫描整个系统。这意味着安全工程师以后可能主要任务就是处理 AI 的报告了。\n💡 聊AI在安全领域的突破\n💬 GPT-6 Cyber 上线，网络安全工程师要失业了？\n🔥 GPT-6 Cyber 网络安全 AI",
+          "source": "https://openai.com/index/introducing-gpt-6-cyber",
+          "tags": [
+            "OpenAI",
+            "网络安全",
+            "GPT-6"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 GPT-6 Cyber上线\n🔥 OpenAI 网络安全 GPT-6"
+        },
+        {
+          "title": "Meta 数据中心危机",
+          "summary": "Meta 警告数据中心扩张受阻",
+          "detail": "Meta 近日警告，由于政治反对，数据中心的扩张可能会受阻，进而影响 AI 投资的未来。Meta 计划在未来三年内扩建超过100个数据中心，但多地政府因环保和资源压力开始限制其建设。Meta 的 AI 项目可能因此放缓。\n💡 聊AI基础设施的挑战\n💬 Meta 的数据中心要凉了，AI 扩张怎么办？\n🔥 Meta 数据中心 AI 投资",
+          "source": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+          "tags": [
+            "Meta",
+            "数据中心",
+            "AI"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Meta 数据中心危机\n🔥 Meta 数据中心 AI"
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "文心5.5开源",
+          "summary": "百度开源最新基座模型",
+          "detail": "百度开源了最新的基座模型文心5.5 Flash Base，多基准测试刷新了同尺寸模型的SOTA。文心5.5 Flash Base 的推理速度比上一代快了3倍，成本降低了40%，特别适合中小企业和开发者使用。\n💡 聊AI开源模型的最新进展\n💬 文心5.5开源了，推理速度3倍提升！\n🔥 文心5.5 开源 百度",
+          "source": "https://www.qbitai.com/2026/11/507787.html",
+          "tags": [
+            "百度",
+            "文心",
+            "开源"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 文心5.5开源\n🔥 百度 文心 开源"
+        },
+        {
+          "title": "GPT-Image-2.6上线",
+          "summary": "GPT-Image-2.6全量上线",
+          "detail": "GPT-Image-2.6 全量上线，支持直接输出GIF和SVG格式，图像生成速度提升了50%。GPT-Image-2.6 的生成质量比上一代更细腻，特别适合设计师和内容创作者使用。\n💡 聊AI图像生成的最新进展\n💬 GPT-Image-2.6上线，GIF和SVG直出！\n🔥 GPT-Image-2.6 图像生成 AI",
+          "source": "https://www.qbitai.com/2026/11/507707.html",
+          "tags": [
+            "OpenAI",
+            "GPT-Image",
+            "图像生成"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 GPT-Image-2.6上线\n🔥 OpenAI GPT-Image 图像生成"
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "Brockman谈IPO",
+          "summary": "OpenAI 或 2027 年 IPO",
+          "detail": "OpenAI 总裁 Greg Brockman 在华尔街日报科技会议上表示，OpenAI 可能在2027年准备好IPO。他指出，公司正在稳步增长，未来几年将进一步提升商业化能力。\n💡 聊OpenAI的IPO计划\n💬 OpenAI 2027年IPO，你怎么看？\n🔥 OpenAI IPO Greg Brockman",
+          "source": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+          "tags": [
+            "OpenAI",
+            "IPO",
+            "Greg Brockman"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Brockman谈IPO\n🔥 OpenAI IPO Greg Brockman"
+        },
+        {
+          "title": "Dario谈AI教育",
+          "summary": "Dario谈AI改变教育",
+          "detail": "Anthropic CEO Dario Amodei 近日表示，AI正在彻底改变教育方式，未来的学习将更加个性化和高效。他指出，AI不仅辅助教学，还能帮助学生更好地理解复杂概念。\n💡 聊AI在教育领域的应用\n💬 Dario说AI将彻底改变教育，你怎么看？\n🔥 Dario Amodei AI 教育",
+          "source": "",
+          "tags": [
+            "Dario Amodei",
+            "AI",
+            "教育"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Dario谈AI教育\n🔥 Dario Amodei AI 教育"
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI收购Pierre",
+          "summary": "OpenAI收购Pierre Computer",
+          "detail": "OpenAI 宣布收购 Pierre Computer Company，旨在扩展 Codex 的工具集，帮助开发者更好地理解和构建代码。此次收购将加强 OpenAI 在开发者工具领域的竞争力。\n💡 聊OpenAI的收购动态\n💬 OpenAI收购Pierre，Codex要起飞了？\n🔥 OpenAI Pierre Computer Codex",
+          "source": "https://openai.com/index/openai-to-acquire-pierre",
+          "tags": [
+            "OpenAI",
+            "Pierre",
+            "收购"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 OpenAI收购Pierre\n🔥 OpenAI Pierre 收购"
+        },
+        {
+          "title": "Airbnb推AI旅行助手",
+          "summary": "Airbnb AI旅行助手即将上线",
+          "detail": "Airbnb 宣布将在2027年上半年推出AI旅行助手，帮助用户规划旅行、比较选择和管理预订。这款AI助手将大幅提升旅行体验，减少用户的决策时间。\n💡 聊AI在旅行领域的应用\n💬 Airbnb的AI旅行助手要来了，旅行更轻松！\n🔥 Airbnb AI 旅行助手",
+          "source": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+          "tags": [
+            "Airbnb",
+            "AI",
+            "旅行"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Airbnb推AI旅行助手\n🔥 Airbnb AI 旅行"
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "Claude理财助手",
+          "summary": "Claude新增个人理财功能",
+          "detail": "Claude 新增了个人理财功能，用户可以通过 Plaid 连接银行和信用卡账户，分析消费情况并提供优化建议。这款工具特别适合想要更好管理财务的用户。\n💡 聊AI在个人理财中的应用\n💬 Claude的新理财功能上线了，你的钱包有救了！\n🔥 Claude 理财 AI",
+          "source": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+          "tags": [
+            "Claude",
+            "理财",
+            "AI"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Claude理财助手\n🔥 Claude 理财 AI"
+        },
+        {
+          "title": "Meta AI视频聊天",
+          "summary": "Meta AI化身头像视频聊天",
+          "detail": "Meta 的 AI 助手 Muse 现在支持用户自定义动画头像进行视频聊天。用户可以设计自己的AI化身，未来还将推出更多互动功能。\n💡 聊AI在社交领域的应用\n💬 Meta的AI化身视频聊天上线了，你的虚拟分身准备好了吗？\n🔥 Meta Muse AI 视频聊天",
+          "source": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+          "tags": [
+            "Meta",
+            "Muse",
+            "视频聊天"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Meta AI视频聊天\n🔥 Meta Muse 视频聊天"
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "文心5.5开源",
+          "summary": "百度开源最新基座模型",
+          "detail": "百度开源了最新的基座模型文心5.5 Flash Base，多基准测试刷新了同尺寸模型的SOTA。文心5.5 Flash Base 的推理速度比上一代快了3倍，成本降低了40%，特别适合中小企业和开发者使用。\n💡 聊AI开源模型的最新进展\n💬 文心5.5开源了，推理速度3倍提升！\n🔥 文心5.5 开源 百度",
+          "source": "https://www.qbitai.com/2026/11/507787.html",
+          "tags": [
+            "百度",
+            "文心",
+            "开源"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 文心5.5开源\n🔥 百度 文心 开源"
+        },
+        {
+          "title": "Axiom Math抗AI",
+          "summary": "Axiom Math防AI污染数学",
+          "detail": "Axiom Math 致力于防止AI生成的数学证明泛滥，推出AI验证工具，确保数学证明的准确性。Axiom Math 的目标是保持数学研究的严谨性，防止AI带来的混乱。\n💡 聊AI在数学领域的挑战\n💬 Axiom Math要防止AI污染数学，你怎么看？\n🔥 Axiom Math AI 数学",
+          "source": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+          "tags": [
+            "Axiom Math",
+            "AI",
+            "数学"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Axiom Math抗AI\n🔥 Axiom Math AI 数学"
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "Linux漏洞挖掘",
+          "summary": "OpenAI挖出948个Linux漏洞",
+          "detail": "OpenAI 花费120万美元，使用AI工具挖掘Linux内核漏洞，共发现948个漏洞。这些漏洞中有许多是以前未被发现的，OpenAI 的AI工具展示了其在安全领域的强大能力。\n💡 聊AI在漏洞挖掘中的应用\n💬 OpenAI挖出948个Linux漏洞，安全工程师要失业了？\n🔥 OpenAI Linux 漏洞",
+          "source": "https://www.qbitai.com/2026/11/507697.html",
+          "tags": [
+            "OpenAI",
+            "Linux",
+            "漏洞"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Linux漏洞挖掘\n🔥 OpenAI Linux 漏洞"
+        },
+        {
+          "title": "MIT神作被锤",
+          "summary": "Astra爆改Qwen权重？",
+          "detail": "MIT 的研究成果被质疑，Astra 被指爆改Qwen权重，引发学术圈热议。Astra 的改动是否合理，成为焦点话题。\n💡 聊AI研究中的争议\n💬 Astra爆改Qwen权重，MIT神作被锤了！\n🔥 MIT Astra Qwen",
+          "source": "https://www.qbitai.com/2026/11/507782.html",
+          "tags": [
+            "MIT",
+            "Astra",
+            "Qwen"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 MIT神作被锤\n🔥 MIT Astra Qwen"
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "Dropbox收购Tigris",
+          "summary": "Dropbox 3.5亿收购Tigris",
+          "detail": "Dropbox 以3.5亿美元收购 Tigris Data，以加强其AI基础设施。此次收购将支持 DBX Agent Cloud 的开发，进一步提升Dropbox的AI能力。\n💡 聊AI行业的收购动态\n💬 Dropbox 3.5亿收购Tigris，AI布局加速！\n🔥 Dropbox Tigris AI",
+          "source": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+          "tags": [
+            "Dropbox",
+            "Tigris",
+            "收购"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Dropbox收购Tigris\n🔥 Dropbox Tigris 收购"
+        },
+        {
+          "title": "Franklin Templeton用AI",
+          "summary": "Franklin Templeton引入AI",
+          "detail": "Franklin Templeton 开始使用 OpenAI 技术辅助投资研究，AI正在改变金融行业的工作方式，提升效率和准确性。\n💡 聊AI在金融领域的应用\n💬 Franklin Templeton引入AI，投资研究要起飞了！\n🔥 Franklin Templeton AI 金融",
+          "source": "https://openai.com/index/franklin-templeton",
+          "tags": [
+            "Franklin Templeton",
+            "AI",
+            "金融"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 Franklin Templeton用AI\n🔥 Franklin Templeton AI 金融"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-06T03:43:09.808Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3504,
+    "completion_tokens": 2759,
+    "total_tokens": 6263,
+    "cost_usd": 0.0037401129,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

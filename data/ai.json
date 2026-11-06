@@ -5,30 +5,28 @@
       "icon": "💥",
       "items": [
         {
-          "title": "OpenAI 收购 Pierre",
-          "summary": "OpenAI 收购 Pierre 计算机公司",
-          "detail": "OpenAI 宣布收购 Pierre Computer Company，进一步扩展 Codex 的工具能力。这意味着 OpenAI 在代码理解和生成领域的技术储备将大幅增强，可能直接影响未来的开发者工具和 AI 辅助编程体验。\n\n💡 切入时机：谈论 AI 编程工具时\n💬 OpenAI 这下是要把 Codex 做成编程界的‘核武器’了\n🔥 OpenAI Pierre Codex",
-          "src_id": 5,
+          "title": "GPT-6 Cyber上线",
+          "summary": "OpenAI发布网络安全新模型",
+          "detail": "OpenAI 最新发布的 GPT-6 Cyber 专为网络安全设计，能自动发现可利用的漏洞并进行防御测试。过去黑客找到漏洞平均需要72小时，现在 GPT-6 Cyber 只需几分钟就能扫描整个系统。这意味着安全工程师以后可能主要任务就是处理 AI 的报告了。\n💡 聊AI在安全领域的突破\n💬 GPT-6 Cyber 上线，网络安全工程师要失业了？\n🔥 GPT-6 Cyber 网络安全 AI",
+          "source": "https://openai.com/index/introducing-gpt-6-cyber",
           "tags": [
             "OpenAI",
-            "收购",
-            "Codex"
+            "网络安全",
+            "GPT-6"
           ],
-          "usage": "💡 聊到相关内容时切入\n💬 OpenAI 收购 Pierre\n🔥 OpenAI 收购 Codex",
-          "source": "https://openai.com/index/openai-to-acquire-pierre"
+          "usage": "💡 聊到相关内容时切入\n💬 GPT-6 Cyber上线\n🔥 OpenAI 网络安全 GPT-6"
         },
         {
-          "title": "Linux 漏洞大扫除",
-          "summary": "OpenAI 发现 948 个 Linux 漏洞",
-          "detail": "OpenAI 用自主管道发现了 Linux 内核中的 948 个本地权限提升漏洞，并生成了修复补丁。这展示了 AI 在网络安全领域的潜力，未来可能会成为企业和开源社区的‘漏洞猎人’。\n\n💡 切入时机：讨论网络安全时\n💬 OpenAI 这下让黑客们都要失业了，948 个漏洞直接扫平\n🔥 OpenAI Linux 漏洞",
-          "src_id": 8,
+          "title": "Meta 数据中心危机",
+          "summary": "Meta 警告数据中心扩张受阻",
+          "detail": "Meta 近日警告，由于政治反对，数据中心的扩张可能会受阻，进而影响 AI 投资的未来。Meta 计划在未来三年内扩建超过100个数据中心，但多地政府因环保和资源压力开始限制其建设。Meta 的 AI 项目可能因此放缓。\n💡 聊AI基础设施的挑战\n💬 Meta 的数据中心要凉了，AI 扩张怎么办？\n🔥 Meta 数据中心 AI 投资",
+          "source": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
           "tags": [
-            "OpenAI",
-            "Linux",
-            "漏洞"
+            "Meta",
+            "数据中心",
+            "AI"
           ],
-          "usage": "💡 聊到相关内容时切入\n💬 Linux 漏洞大扫除\n🔥 OpenAI Linux 漏洞",
-          "source": "https://openai.com/index/a-thousand-fewer-paths-to-root"
+          "usage": "💡 聊到相关内容时切入\n💬 Meta 数据中心危机\n🔥 Meta 数据中心 AI"
         }
       ]
     },
@@ -37,30 +35,28 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "文心 5.5 开源",
-          "summary": "百度开源文心 5.5 Flash Base",
-          "detail": "百度开源了最新的基座模型文心 5.5 Flash Base，多基准测试刷新同尺寸模型的 SOTA。这意味着开发者可以免费使用这一高性能模型，加速 AI 应用的落地。\n\n💡 切入时机：讨论开源模型时\n💬 百度这次是真大方，文心 5.5 直接开源\n🔥 百度 文心 开源",
-          "src_id": 1,
+          "title": "文心5.5开源",
+          "summary": "百度开源最新基座模型",
+          "detail": "百度开源了最新的基座模型文心5.5 Flash Base，多基准测试刷新了同尺寸模型的SOTA。文心5.5 Flash Base 的推理速度比上一代快了3倍，成本降低了40%，特别适合中小企业和开发者使用。\n💡 聊AI开源模型的最新进展\n💬 文心5.5开源了，推理速度3倍提升！\n🔥 文心5.5 开源 百度",
+          "source": "https://www.qbitai.com/2026/11/507787.html",
           "tags": [
             "百度",
             "文心",
             "开源"
           ],
-          "usage": "💡 聊到相关内容时切入\n💬 文心 5.5 开源\n🔥 百度 文心 开源",
-          "source": "https://www.qbitai.com/2026/11/507787.html"
+          "usage": "💡 聊到相关内容时切入\n💬 文心5.5开源\n🔥 百度 文心 开源"
         },
         {
-          "title": "GPT-Image 2.6 上线",
-          "summary": "GPT-Image 2.6 支持 GIF 和 SVG",
-          "detail": "GPT-Image 2.6 上线，新增了对 GIF 和 SVG 格式的支持，图像生成速度更快，编辑更精确。这意味着设计师和开发者可以更高效地使用 AI 生成复杂图像。\n\n💡 切入时机：讨论 AI 图像生成时\n💬 GPT-Image 2.6 这下连 GIF 都能直出了，设计师要笑了\n🔥 GPT-Image GIF SVG",
-          "src_id": 13,
+          "title": "GPT-Image-2.6上线",
+          "summary": "GPT-Image-2.6全量上线",
+          "detail": "GPT-Image-2.6 全量上线，支持直接输出GIF和SVG格式，图像生成速度提升了50%。GPT-Image-2.6 的生成质量比上一代更细腻，特别适合设计师和内容创作者使用。\n💡 聊AI图像生成的最新进展\n💬 GPT-Image-2.6上线，GIF和SVG直出！\n🔥 GPT-Image-2.6 图像生成 AI",
+          "source": "https://www.qbitai.com/2026/11/507707.html",
           "tags": [
+            "OpenAI",
             "GPT-Image",
-            "GIF",
-            "SVG"
+            "图像生成"
           ],
-          "usage": "💡 聊到相关内容时切入\n💬 GPT-Image 2.6 上线\n🔥 GPT-Image GIF SVG",
-          "source": "https://www.qbitai.com/2026/11/507707.html"
+          "usage": "💡 聊到相关内容时切入\n💬 GPT-Image-2.6上线\n🔥 OpenAI GPT-Image 图像生成"
         }
       ]
     },
@@ -69,30 +65,28 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "奥特曼谈基础设施",
-          "summary": "奥特曼发布 AI 基础设施蓝图",
-          "detail": "OpenAI CEO 奥特曼发布了一份国家社区协议和计算校园政策蓝图，旨在保护本地社区和环境。这表明 OpenAI 在推动 AI 发展的同时，也开始关注社会责任。\n\n💡 切入时机：讨论 AI 社会责任时\n💬 奥特曼这次不仅看技术，还看社区了\n🔥 OpenAI 奥特曼 基础设施",
-          "src_id": 2,
+          "title": "Brockman谈IPO",
+          "summary": "OpenAI 或 2027 年 IPO",
+          "detail": "OpenAI 总裁 Greg Brockman 在华尔街日报科技会议上表示，OpenAI 可能在2027年准备好IPO。他指出，公司正在稳步增长，未来几年将进一步提升商业化能力。\n💡 聊OpenAI的IPO计划\n💬 OpenAI 2027年IPO，你怎么看？\n🔥 OpenAI IPO Greg Brockman",
+          "source": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
           "tags": [
             "OpenAI",
-            "奥特曼",
-            "基础设施"
+            "IPO",
+            "Greg Brockman"
           ],
-          "usage": "💡 聊到相关内容时切入\n💬 奥特曼谈基础设施\n🔥 OpenAI 奥特曼 基础设施",
-          "source": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
+          "usage": "💡 聊到相关内容时切入\n💬 Brockman谈IPO\n🔥 OpenAI IPO Greg Brockman"
         },
         {
-          "title": "梁文锋谈实习机会",
-          "summary": "梁文锋谈实习生训练模型",
-          "detail": "DeepSeek 创始人梁文锋表示，实习生也能参与核心模型的训练，薪资和期权不限。这表明 AI 公司正在通过更开放的人才策略吸引年轻开发者。\n\n💡 切入时机：讨论 AI 人才时\n💬 梁文锋这次是真舍得，实习生都能训核心模型\n🔥 DeepSeek 梁文锋 实习生",
-          "src_id": 22,
+          "title": "Dario谈AI教育",
+          "summary": "Dario谈AI改变教育",
+          "detail": "Anthropic CEO Dario Amodei 近日表示，AI正在彻底改变教育方式，未来的学习将更加个性化和高效。他指出，AI不仅辅助教学，还能帮助学生更好地理解复杂概念。\n💡 聊AI在教育领域的应用\n💬 Dario说AI将彻底改变教育，你怎么看？\n🔥 Dario Amodei AI 教育",
+          "source": "",
           "tags": [
-            "DeepSeek",
-            "梁文锋",
-            "实习生"
+            "Dario Amodei",
+            "AI",
+            "教育"
           ],
-          "usage": "💡 聊到相关内容时切入\n💬 梁文锋谈实习机会\n🔥 DeepSeek 梁文锋 实习生",
-          "source": "https://www.qbitai.com/2026/11/507675.html"
+          "usage": "💡 聊到相关内容时切入\n💬 Dario谈AI教育\n🔥 Dario Amodei AI 教育"
         }
       ]
     },
@@ -101,30 +95,28 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "Dropbox 收购 Tigris",
-          "summary": "Dropbox 3.5 亿收购 Tigris",
-          "detail": "Dropbox 以 3.5 亿美元收购 Tigris Data，以支持其新的存储平台 DBX Agent Cloud 的开发。这表明 Dropbox 正在通过 AI 基础设施的布局增强其云存储能力。\n\n💡 切入时机：讨论云存储时\n💬 Dropbox 这下要搞大事了，3.5 亿收购 Tigris\n🔥 Dropbox Tigris 云存储",
-          "src_id": 6,
+          "title": "OpenAI收购Pierre",
+          "summary": "OpenAI收购Pierre Computer",
+          "detail": "OpenAI 宣布收购 Pierre Computer Company，旨在扩展 Codex 的工具集，帮助开发者更好地理解和构建代码。此次收购将加强 OpenAI 在开发者工具领域的竞争力。\n💡 聊OpenAI的收购动态\n💬 OpenAI收购Pierre，Codex要起飞了？\n🔥 OpenAI Pierre Computer Codex",
+          "source": "https://openai.com/index/openai-to-acquire-pierre",
           "tags": [
-            "Dropbox",
-            "Tigris",
-            "云存储"
+            "OpenAI",
+            "Pierre",
+            "收购"
           ],
-          "usage": "💡 聊到相关内容时切入\n💬 Dropbox 收购 Tigris\n🔥 Dropbox Tigris 云存储",
-          "source": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
+          "usage": "💡 聊到相关内容时切入\n💬 OpenAI收购Pierre\n🔥 OpenAI Pierre 收购"
         },
         {
-          "title": "苹果削减 AI 预算",
-          "summary": "苹果削减内部 AI 预算",
-          "detail": "苹果据报道正在削减其内部 AI 使用的预算，这表明公司在 AI 投入上可能面临成本压力。\n\n💡 切入时机：讨论 AI 成本时\n💬 苹果这下也要省着点用 AI 了\n🔥 苹果 AI 预算",
-          "src_id": 21,
+          "title": "Airbnb推AI旅行助手",
+          "summary": "Airbnb AI旅行助手即将上线",
+          "detail": "Airbnb 宣布将在2027年上半年推出AI旅行助手，帮助用户规划旅行、比较选择和管理预订。这款AI助手将大幅提升旅行体验，减少用户的决策时间。\n💡 聊AI在旅行领域的应用\n💬 Airbnb的AI旅行助手要来了，旅行更轻松！\n🔥 Airbnb AI 旅行助手",
+          "source": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
           "tags": [
-            "苹果",
+            "Airbnb",
             "AI",
-            "预算"
+            "旅行"
           ],
-          "usage": "💡 聊到相关内容时切入\n💬 苹果削减 AI 预算\n🔥 苹果 AI 预算",
-          "source": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+          "usage": "💡 聊到相关内容时切入\n💬 Airbnb推AI旅行助手\n🔥 Airbnb AI 旅行"
         }
       ]
     },
@@ -133,30 +125,28 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "DevRev 自服务",
-          "summary": "DevRev 用 GPT-6.1 实现自服务",
-          "detail": "DevRev 使用 GPT-6.1 Sol 来驱动 Computer 和 Operator，平衡推理速度和成本。这意味着企业可以更高效地实现自我服务，降低运营成本。\n\n💡 切入时机：讨论企业 AI 应用时\n💬 DevRev 这下让企业可以自己搞定问题了\n🔥 DevRev GPT-6.1 自服务",
-          "src_id": 17,
+          "title": "Claude理财助手",
+          "summary": "Claude新增个人理财功能",
+          "detail": "Claude 新增了个人理财功能，用户可以通过 Plaid 连接银行和信用卡账户，分析消费情况并提供优化建议。这款工具特别适合想要更好管理财务的用户。\n💡 聊AI在个人理财中的应用\n💬 Claude的新理财功能上线了，你的钱包有救了！\n🔥 Claude 理财 AI",
+          "source": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
           "tags": [
-            "DevRev",
-            "GPT-6.1",
-            "自服务"
+            "Claude",
+            "理财",
+            "AI"
           ],
-          "usage": "💡 聊到相关内容时切入\n💬 DevRev 自服务\n🔥 DevRev GPT-6.1 自服务",
-          "source": "https://openai.com/index/devrev-enterprise-self-service"
+          "usage": "💡 聊到相关内容时切入\n💬 Claude理财助手\n🔥 Claude 理财 AI"
         },
         {
-          "title": "Box 内容检索系统",
-          "summary": "Box 用 Nemotron 提升检索速度",
-          "detail": "Box 引入 Nvidia 的 Nemotron 系统，查询速度提升 4 倍，错误减少 20%，token 使用减少 90%。这表明 Box 在内容检索领域的技术实力大幅提升。\n\n💡 切入时机：讨论内容检索时\n💬 Box 这下检索速度直接起飞了\n🔥 Box Nemotron 检索",
-          "src_id": 12,
+          "title": "Meta AI视频聊天",
+          "summary": "Meta AI化身头像视频聊天",
+          "detail": "Meta 的 AI 助手 Muse 现在支持用户自定义动画头像进行视频聊天。用户可以设计自己的AI化身，未来还将推出更多互动功能。\n💡 聊AI在社交领域的应用\n💬 Meta的AI化身视频聊天上线了，你的虚拟分身准备好了吗？\n🔥 Meta Muse AI 视频聊天",
+          "source": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
           "tags": [
-            "Box",
-            "Nemotron",
-            "检索"
+            "Meta",
+            "Muse",
+            "视频聊天"
           ],
-          "usage": "💡 聊到相关内容时切入\n💬 Box 内容检索系统\n🔥 Box Nemotron 检索",
-          "source": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/"
+          "usage": "💡 聊到相关内容时切入\n💬 Meta AI视频聊天\n🔥 Meta Muse 视频聊天"
         }
       ]
     },
@@ -165,30 +155,28 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "百度文心开源",
-          "summary": "百度开源文心 5.5 Flash Base",
-          "detail": "百度开源了最新的基座模型文心 5.5 Flash Base，多基准测试刷新同尺寸模型的 SOTA。这意味着开发者可以免费使用这一高性能模型，加速 AI 应用的落地。\n\n💡 切入时机：讨论开源模型时\n💬 百度这次是真大方，文心 5.5 直接开源\n🔥 百度 文心 开源",
-          "src_id": 1,
+          "title": "文心5.5开源",
+          "summary": "百度开源最新基座模型",
+          "detail": "百度开源了最新的基座模型文心5.5 Flash Base，多基准测试刷新了同尺寸模型的SOTA。文心5.5 Flash Base 的推理速度比上一代快了3倍，成本降低了40%，特别适合中小企业和开发者使用。\n💡 聊AI开源模型的最新进展\n💬 文心5.5开源了，推理速度3倍提升！\n🔥 文心5.5 开源 百度",
+          "source": "https://www.qbitai.com/2026/11/507787.html",
           "tags": [
             "百度",
             "文心",
             "开源"
           ],
-          "usage": "💡 聊到相关内容时切入\n💬 百度文心开源\n🔥 百度 文心 开源",
-          "source": "https://www.qbitai.com/2026/11/507787.html"
+          "usage": "💡 聊到相关内容时切入\n💬 文心5.5开源\n🔥 百度 文心 开源"
         },
         {
-          "title": "MIT 被锤",
-          "summary": "MIT 神作被质疑",
-          "detail": "MIT 的神作被质疑，Astra 被指爆改 Qwen 权重。这表明开源社区对模型真实性的关注度越来越高。\n\n💡 切入时机：讨论开源模型时\n💬 MIT 这下被锤惨了，Astra 权重问题大了\n🔥 MIT Astra Qwen",
-          "src_id": 4,
+          "title": "Axiom Math抗AI",
+          "summary": "Axiom Math防AI污染数学",
+          "detail": "Axiom Math 致力于防止AI生成的数学证明泛滥，推出AI验证工具，确保数学证明的准确性。Axiom Math 的目标是保持数学研究的严谨性，防止AI带来的混乱。\n💡 聊AI在数学领域的挑战\n💬 Axiom Math要防止AI污染数学，你怎么看？\n🔥 Axiom Math AI 数学",
+          "source": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
           "tags": [
-            "MIT",
-            "Astra",
-            "Qwen"
+            "Axiom Math",
+            "AI",
+            "数学"
           ],
-          "usage": "💡 聊到相关内容时切入\n💬 MIT 被锤\n🔥 MIT Astra Qwen",
-          "source": "https://www.qbitai.com/2026/11/507782.html"
+          "usage": "💡 聊到相关内容时切入\n💬 Axiom Math抗AI\n🔥 Axiom Math AI 数学"
         }
       ]
     },
@@ -197,30 +185,28 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "YC 新材料悬赏",
-          "summary": "YC 悬赏 100 万美元解决材料问题",
-          "detail": "YC 初创公司 Discovered Materials 悬赏 100 万美元，解决五个未解的材料科学问题。这表明 AI 在新材料领域的应用潜力巨大。\n\n💡 切入时机：讨论 AI 应用时\n💬 YC 这下要砸 100 万找新材料了\n🔥 YC 新材料 悬赏",
-          "src_id": 15,
+          "title": "Linux漏洞挖掘",
+          "summary": "OpenAI挖出948个Linux漏洞",
+          "detail": "OpenAI 花费120万美元，使用AI工具挖掘Linux内核漏洞，共发现948个漏洞。这些漏洞中有许多是以前未被发现的，OpenAI 的AI工具展示了其在安全领域的强大能力。\n💡 聊AI在漏洞挖掘中的应用\n💬 OpenAI挖出948个Linux漏洞，安全工程师要失业了？\n🔥 OpenAI Linux 漏洞",
+          "source": "https://www.qbitai.com/2026/11/507697.html",
           "tags": [
-            "YC",
-            "新材料",
-            "悬赏"
+            "OpenAI",
+            "Linux",
+            "漏洞"
           ],
-          "usage": "💡 聊到相关内容时切入\n💬 YC 新材料悬赏\n🔥 YC 新材料 悬赏",
-          "source": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
+          "usage": "💡 聊到相关内容时切入\n💬 Linux漏洞挖掘\n🔥 OpenAI Linux 漏洞"
         },
         {
-          "title": "Cisco 防御加速",
-          "summary": "Cisco 用 OpenAI 加速防御",
-          "detail": "Cisco 结合网络智能和 OpenAI 模型，加速企业安全防御。这意味着企业可以更快速地应对网络安全威胁。\n\n💡 切入时机：讨论网络安全时\n💬 Cisco 这下让防御速度直接起飞了\n🔥 Cisco OpenAI 防御",
-          "src_id": 23,
+          "title": "MIT神作被锤",
+          "summary": "Astra爆改Qwen权重？",
+          "detail": "MIT 的研究成果被质疑，Astra 被指爆改Qwen权重，引发学术圈热议。Astra 的改动是否合理，成为焦点话题。\n💡 聊AI研究中的争议\n💬 Astra爆改Qwen权重，MIT神作被锤了！\n🔥 MIT Astra Qwen",
+          "source": "https://www.qbitai.com/2026/11/507782.html",
           "tags": [
-            "Cisco",
-            "OpenAI",
-            "防御"
+            "MIT",
+            "Astra",
+            "Qwen"
           ],
-          "usage": "💡 聊到相关内容时切入\n💬 Cisco 防御加速\n🔥 Cisco OpenAI 防御",
-          "source": "https://openai.com/index/cisco-cyber"
+          "usage": "💡 聊到相关内容时切入\n💬 MIT神作被锤\n🔥 MIT Astra Qwen"
         }
       ]
     },
@@ -229,44 +215,42 @@
       "icon": "📈",
       "items": [
         {
-          "title": "数据中心争议",
-          "summary": "数据中心争议加剧",
-          "detail": "数据中心反对声音在中期选举中跨越党派界限，未来可能会引发更大的冲突。这表明数据中心建设面临越来越大的社会压力。\n\n💡 切入时机：讨论数据中心时\n💬 数据中心这下争议更大了\n🔥 数据中心 争议",
-          "src_id": 24,
+          "title": "Dropbox收购Tigris",
+          "summary": "Dropbox 3.5亿收购Tigris",
+          "detail": "Dropbox 以3.5亿美元收购 Tigris Data，以加强其AI基础设施。此次收购将支持 DBX Agent Cloud 的开发，进一步提升Dropbox的AI能力。\n💡 聊AI行业的收购动态\n💬 Dropbox 3.5亿收购Tigris，AI布局加速！\n🔥 Dropbox Tigris AI",
+          "source": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
           "tags": [
-            "数据中心",
-            "争议",
-            "中期选举"
+            "Dropbox",
+            "Tigris",
+            "收购"
           ],
-          "usage": "💡 聊到相关内容时切入\n💬 数据中心争议\n🔥 数据中心 争议 中期选举",
-          "source": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
+          "usage": "💡 聊到相关内容时切入\n💬 Dropbox收购Tigris\n🔥 Dropbox Tigris 收购"
         },
         {
-          "title": "Agility 上市",
-          "summary": "Agility 成为首家上市人形机器人公司",
-          "detail": "Agility 成为首家在纳斯达克上市的纯人形机器人公司，标志着人形机器人行业的商业化迈出重要一步。\n\n💡 切入点：讨论人形机器人时\n💬 Agility 这下要成为人形机器人界的‘特斯拉’了\n🔥 Agility 人形机器人 上市",
-          "src_id": 18,
+          "title": "Franklin Templeton用AI",
+          "summary": "Franklin Templeton引入AI",
+          "detail": "Franklin Templeton 开始使用 OpenAI 技术辅助投资研究，AI正在改变金融行业的工作方式，提升效率和准确性。\n💡 聊AI在金融领域的应用\n💬 Franklin Templeton引入AI，投资研究要起飞了！\n🔥 Franklin Templeton AI 金融",
+          "source": "https://openai.com/index/franklin-templeton",
           "tags": [
-            "Agility",
-            "人形机器人",
-            "上市"
+            "Franklin Templeton",
+            "AI",
+            "金融"
           ],
-          "usage": "💡 聊到相关内容时切入\n💬 Agility 上市\n🔥 Agility 人形机器人 上市",
-          "source": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
+          "usage": "💡 聊到相关内容时切入\n💬 Franklin Templeton用AI\n🔥 Franklin Templeton AI 金融"
         }
       ]
     }
   ],
-  "generated_at": "2026-11-05T17:45:13.385Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-06T03:43:09.808Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3540,
-    "completion_tokens": 2385,
-    "total_tokens": 5925,
-    "cost_usd": 0.0033646455,
+    "prompt_tokens": 3504,
+    "completion_tokens": 2759,
+    "total_tokens": 6263,
+    "cost_usd": 0.0037401129,
     "free": false,
     "sources": {
       "per_source": {
