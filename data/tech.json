@@ -5,43 +5,266 @@
       "icon": "📰",
       "items": [
         {
-          "title": "7999元电动鞋",
-          "summary": "电动鞋售价高达7999元",
-          "detail": "一双号称能自动调节步伐的电动鞋，标价7999元，引发热议。网友调侃：这鞋怕不是能直接送我上天？",
-          "usage": "💡 同事聊离谱新品\n💬 家人们谁懂啊，7999买双鞋，它还能飞吗？\n🔥 电动鞋 7999元",
-          "source": "https://m.baidu.com/s?word=%E4%B8%80%E5%8F%8C%E2%80%9C%E7%94%B5%E5%8A%A8%E9%9E%8B%E2%80%9D%E5%94%AE%E4%BB%B77999%E5%85%83&sa=fyb_news",
+          "title": "华尔街AI恐慌",
+          "summary": "AI黑云压顶，华尔街抛售",
+          "detail": "11月5日，美股三大股指全线暴跌，AI、半导体和数据中心相关股票遭到集中抛售。华尔街担心AI资本周期正在发生深刻转变，这场“蓝色浪潮”让投资者瑟瑟发抖。",
+          "usage": "💡 同事聊股市\n💬 华尔街被AI吓得抛售芯片股了\n🔥 华尔街 AI 抛售",
+          "source": "https://www.huxiu.com/article/4903743.html?f=rss",
           "tags": [
-            "新品",
-            "离谱"
+            "华尔街",
+            "AI",
+            "抛售"
+          ]
+        },
+        {
+          "title": "马斯克豪赌失算",
+          "summary": "马斯克30亿政治豪赌失败",
+          "detail": "马斯克重金押注美国中期选举，结果民主党掀起“蓝色浪潮”，改写多个州政治版图。马斯克的商业价值因此暴跌，世界首富也有失算的时候。",
+          "usage": "💡 同事聊马斯克\n💬 马斯克30亿豪赌打水漂了\n🔥 马斯克 豪赌 失败",
+          "source": "https://www.huxiu.com/article/4903759.html?f=rss",
+          "tags": [
+            "马斯克",
+            "豪赌",
+            "失败"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "马斯克的苦日子",
+          "summary": "马斯克商业价值暴跌",
+          "detail": "美国中期选举后，马斯克的商业价值暴跌，30亿政治豪赌失算。即便世界首富，也无法买到所有东西——比如胜利。",
+          "usage": "💡 同事聊马斯克\n💬 马斯克30亿豪赌打水漂了\n🔥 马斯克 豪赌 失败",
+          "source": "https://www.huxiu.com/article/4903759.html?f=rss",
+          "tags": [
+            "马斯克",
+            "豪赌",
+            "失败"
+          ]
+        },
+        {
+          "title": "英伟达找钱买芯片",
+          "summary": "英伟达替客户融资",
+          "detail": "英伟达四处替客户找钱买芯片，给账期、买客户股票、替客户担保，还要找保险公司。对冲基金经理警告，英伟达正在犯思科当年的错误。",
+          "usage": "💡 同事聊芯片\n💬 英伟达替客户融资买芯片\n🔥 英伟达 芯片 融资",
+          "source": "https://www.huxiu.com/article/4903766.html?f=rss",
+          "tags": [
+            "英伟达",
+            "芯片",
+            "融资"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "数据中心放低姿态",
+          "summary": "数据中心生意遇冷",
+          "detail": "11月6日，纳指收跌5.52%，AI芯片股遭抛售，数据中心生意遇冷。市场担心原先计划中的数据中心可能无法按时开工。",
+          "usage": "💡 同事聊数据中心\n💬 数据中心生意遇冷了\n🔥 数据中心 AI 抛售",
+          "source": "https://www.huxiu.com/article/4903757.html?f=rss",
+          "tags": [
+            "数据中心",
+            "AI",
+            "抛售"
+          ]
+        },
+        {
+          "title": "海威华芯公章争夺",
+          "summary": "海威华芯控制权之争",
+          "detail": "海特高新旗下参股公司海威华芯控制权之争白热化，青岛国资与海特高新各执一词，公章争夺战内幕曝光。",
+          "usage": "💡 同事聊芯片公司\n💬 海威华芯公章争夺战打起来了\n🔥 海威华芯 控制权 争夺",
+          "source": "https://www.huxiu.com/article/4903760.html?f=rss",
+          "tags": [
+            "海威华芯",
+            "控制权",
+            "争夺"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "婚庆转型离婚仪式",
+          "summary": "婚庆行业遇冷转型",
+          "detail": "婚庆行业遇冷，第一批生意惨淡的婚庆公司开始转型做“离婚仪式”，离婚仪式悄悄走红。",
+          "usage": "💡 同事聊婚庆\n💬 婚庆公司转型做离婚仪式了\n🔥 婚庆 转型 离婚仪式",
+          "source": "https://www.huxiu.com/article/4903765.html?f=rss",
+          "tags": [
+            "婚庆",
+            "转型",
+            "离婚仪式"
+          ]
+        },
+        {
+          "title": "乡镇企业四十年",
+          "summary": "中国乡镇企业历史",
+          "detail": "1992年，邓小平视察顺德容奇冰箱厂，乡镇企业四十年发展历程回顾。厂房建在田里，乡镇企业成为中国经济发展的重要力量。",
+          "usage": "💡 同事聊经济\n💬 乡镇企业四十年发展历程\n🔥 乡镇企业 发展 历史",
+          "source": "https://www.huxiu.com/article/4903770.html?f=rss",
+          "tags": [
+            "乡镇企业",
+            "发展",
+            "历史"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "AI陪伴产品多样",
+          "summary": "AI陪伴产品形态多样",
+          "detail": "AI陪伴产品形态多样，有的做App，有的做玩具，有的做机器人。开发者们各显神通，满足不同用户需求。",
+          "usage": "💡 同事聊AI\n💬 AI陪伴产品形态多样\n🔥 AI 陪伴 产品",
+          "source": "https://www.huxiu.com/article/4903767.html?f=rss",
+          "tags": [
+            "AI",
+            "陪伴",
+            "产品"
+          ]
+        },
+        {
+          "title": "芯片融资方英伟达",
+          "summary": "英伟达替客户融资",
+          "detail": "英伟达四处替客户找钱买芯片，给账期、买客户股票、替客户担保，还要找保险公司。对冲基金经理警告，英伟达正在犯思科当年的错误。",
+          "usage": "💡 同事聊芯片\n💬 英伟达替客户融资买芯片\n🔥 英伟达 芯片 融资",
+          "source": "https://www.huxiu.com/article/4903766.html?f=rss",
+          "tags": [
+            "英伟达",
+            "芯片",
+            "融资"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "心迷宫三重罪上映",
+          "summary": "心迷宫三重罪排片15%",
+          "detail": "11月7日，院线新片《心迷宫之三重罪》凭借“心迷宫”品牌效应和犯罪悬疑类型，拿下超过15%的排片占比。",
+          "usage": "💡 同事聊电影\n💬 心迷宫三重罪排片15%\n🔥 心迷宫 三重罪 排片",
+          "source": "https://www.huxiu.com/article/4903772.html?f=rss",
+          "tags": [
+            "心迷宫",
+            "三重罪",
+            "排片"
+          ]
+        },
+        {
+          "title": "AI陪伴机器人",
+          "summary": "AI陪伴机器人发布",
+          "detail": "AI陪伴机器人发布，开发者们各显神通，满足不同用户需求。AI陪伴产品形态多样，有的做App，有的做玩具，有的做机器人。",
+          "usage": "💡 同事聊AI\n💬 AI陪伴机器人发布了\n🔥 AI 陪伴 机器人",
+          "source": "https://www.huxiu.com/article/4903767.html?f=rss",
+          "tags": [
+            "AI",
+            "陪伴",
+            "机器人"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "海威华芯争夺战",
+          "summary": "海威华芯控制权之争",
+          "detail": "海特高新旗下参股公司海威华芯控制权之争白热化，青岛国资与海特高新各执一词，公章争夺战内幕曝光。",
+          "usage": "💡 同事聊芯片公司\n💬 海威华芯公章争夺战打起来了\n🔥 海威华芯 控制权 争夺",
+          "source": "https://www.huxiu.com/article/4903760.html?f=rss",
+          "tags": [
+            "海威华芯",
+            "控制权",
+            "争夺"
+          ]
+        },
+        {
+          "title": "婚庆转型离婚仪式",
+          "summary": "婚庆行业遇冷转型",
+          "detail": "婚庆行业遇冷，第一批生意惨淡的婚庆公司开始转型做“离婚仪式”，离婚仪式悄悄走红。",
+          "usage": "💡 同事聊婚庆\n💬 婚庆公司转型做离婚仪式了\n🔥 婚庆 转型 离婚仪式",
+          "source": "https://www.huxiu.com/article/4903765.html?f=rss",
+          "tags": [
+            "婚庆",
+            "转型",
+            "离婚仪式"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "币圈风云",
+      "icon": "🪙",
+      "items": [
+        {
+          "title": "AI恐慌席卷币圈",
+          "summary": "AI恐慌影响币圈",
+          "detail": "AI黑云压顶，华尔街抛售AI相关股票，币圈也受到影响。投资者担心AI资本周期正在发生深刻转变。",
+          "usage": "💡 同事聊币圈\n💬 AI恐慌席卷币圈\n🔥 AI 币圈 恐慌",
+          "source": "https://www.huxiu.com/article/4903743.html?f=rss",
+          "tags": [
+            "AI",
+            "币圈",
+            "恐慌"
+          ]
+        },
+        {
+          "title": "英伟达找钱买芯片",
+          "summary": "英伟达替客户融资",
+          "detail": "英伟达四处替客户找钱买芯片，给账期、买客户股票、替客户担保，还要找保险公司。对冲基金经理警告，英伟达正在犯思科当年的错误。",
+          "usage": "💡 同事聊芯片\n💬 英伟达替客户融资买芯片\n🔥 英伟达 芯片 融资",
+          "source": "https://www.huxiu.com/article/4903766.html?f=rss",
+          "tags": [
+            "英伟达",
+            "芯片",
+            "融资"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-06T17:07:34.250Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-07T06:58:28.752Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 4572,
-    "completion_tokens": 1255,
-    "total_tokens": 5827,
-    "cost_usd": 0.00257999,
+    "prompt_tokens": 5731,
+    "completion_tokens": 2446,
+    "total_tokens": 8177,
+    "cost_usd": 0.00401086,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 7,
-      "published": 1
+      "dropped_orphans": 0,
+      "published": 16
     },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 1,
+        "huxiu": 12,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 13
+      "total": 23
     }
   }
 }

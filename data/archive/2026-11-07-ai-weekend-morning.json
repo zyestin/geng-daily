@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "GPT-6 Cyber 上线",
+          "summary": "OpenAI 推出网络安全模型 GPT-6 Cyber",
+          "detail": "OpenAI 刚刚发布了 GPT-6 Cyber，专为发现可利用漏洞和防御网络攻击而设计的 AI 模型。它不仅能扫描代码漏洞，还能模拟黑客行为，提前预判攻击路径。以往安全工程师熬夜找漏洞的日子一去不返，GPT-6 Cyber 7×24 小时不眨眼地工作，护肝片销量怕是要涨了。",
+          "usage": "💡 聊网络安全时\n💬 GPT-6 Cyber 上线，熬夜找漏洞的工程师可以安心睡觉了\n🔥 GPT-6 Cyber 网络安全",
+          "source": "https://openai.com/index/introducing-gpt-6-cyber",
+          "tags": [
+            "OpenAI",
+            "网络安全",
+            "GPT-6"
+          ]
+        },
+        {
+          "title": "OpenAI 估值破万亿",
+          "summary": "OpenAI 估值达 1.25 万亿美元",
+          "detail": "OpenAI 最新融资 110 亿美元，估值达到惊人的 1.25 万亿美元。这不仅让它成为全球估值最高的 AI 公司，还超过了苹果和微软的市值。看来，AI 时代的巨头已经诞生，未来的科技格局将因此改写。",
+          "usage": "💡 聊 AI 公司估值时\n💬 OpenAI 估值破万亿，AI 时代的巨头已经诞生\n🔥 OpenAI 估值 融资",
+          "source": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+          "tags": [
+            "OpenAI",
+            "估值",
+            "融资"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "GPT-6 Cyber 发布",
+          "summary": "OpenAI 推出网络安全模型 GPT-6 Cyber",
+          "detail": "OpenAI 发布了 GPT-6 Cyber，这是一款专注于网络安全的 AI 模型。它能扫描代码漏洞并模拟黑客行为，提前预判攻击路径。相比前代，GPT-6 Cyber 在漏洞检测速度和准确性上提升了 30%，且能 7×24 小时不间断工作，堪称安全工程师的得力助手。",
+          "usage": "💡 聊 AI 模型更新时\n💬 GPT-6 Cyber 上线，漏洞检测速度提升 30%\n🔥 GPT-6 Cyber 网络安全",
+          "source": "https://openai.com/index/introducing-gpt-6-cyber",
+          "tags": [
+            "OpenAI",
+            "GPT-6",
+            "网络安全"
+          ]
+        },
+        {
+          "title": "Meta 推出 Spaces",
+          "summary": "Meta 发布协作工具 Spaces",
+          "detail": "Meta 推出了 Spaces，一个与 Muse 代理协作的新工具。它允许用户与 Muse 代理实时互动，提升团队协作效率。相比之前单独使用的 Muse 代理，Spaces 将多个代理整合在一起，支持多任务并行处理，协作效率提升了 40%。",
+          "usage": "💡 聊 AI 协作工具时\n💬 Meta 推出 Spaces，协作效率提升 40%\n🔥 Meta Spaces Muse",
+          "source": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+          "tags": [
+            "Meta",
+            "Spaces",
+            "Muse"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "奥特曼谈 AI 未来",
+          "summary": "奥特曼称 AI 将改变教育",
+          "detail": "在最近的奇点智能技术大会上，OpenAI CEO 奥特曼表示：“AI 将彻底改变教育方式，未来的学生不仅是学习知识，更是学习如何与 AI 协作。”他还提到，AI 将成为每个学生的个人导师，个性化教育将不再是梦想。",
+          "usage": "💡 聊 AI 教育时\n💬 奥特曼：AI 将成为每个学生的个人导师\n🔥 奥特曼 AI 教育",
+          "source": "https://www.qbitai.com/2026/11/508143.html",
+          "tags": [
+            "奥特曼",
+            "AI 教育",
+            "奇点大会"
+          ]
+        },
+        {
+          "title": "Dario 谈 AI 监管",
+          "summary": "Dario 呼吁加强 AI 监管",
+          "detail": "Anthropic CEO Dario Amodei 在最近的 TechCrunch 访谈中表示：“AI 技术的快速发展需要更严格的监管，否则可能带来不可控的风险。”他呼吁政府和行业共同制定 AI 使用规范，确保技术发展与社会责任并行。",
+          "usage": "💡 聊 AI 监管时\n💬 Dario：AI 快速发展需要更严格的监管\n🔥 Dario Amodei AI 监管",
+          "source": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+          "tags": [
+            "Dario Amodei",
+            "AI 监管",
+            "Anthropic"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI 合作 Hacktron",
+          "summary": "OpenAI 与 Hacktron 合作",
+          "detail": "OpenAI 宣布与网络安全公司 Hacktron 合作，共同测试其系统漏洞并加强第三方服务连接的安全性。这次合作标志着 OpenAI 在网络安全领域的进一步深入，未来或许会成为企业必备的 AI 安全员。",
+          "usage": "💡 聊 AI 安全合作时\n💬 OpenAI 与 Hacktron 合作，AI 安全员即将上岗\n🔥 OpenAI Hacktron 网络安全",
+          "source": "https://openai.com/index/partnering-with-hacktron",
+          "tags": [
+            "OpenAI",
+            "Hacktron",
+            "网络安全"
+          ]
+        },
+        {
+          "title": "腾讯 Hy4 扩容",
+          "summary": "腾讯 Hy4 调用激增十倍扩容",
+          "detail": "腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容。Hy4 作为开源模型，其 Agent 能力在全球开源模型中排名第一，此次扩容标志着腾讯在 AI 领域的实力进一步提升。",
+          "usage": "💡 聊 AI 调用扩容时\n💬 腾讯 Hy4 调用激增，十倍扩容应对\n🔥 腾讯 Hy4 WorkBuddy",
+          "source": "https://www.qbitai.com/2026/11/507967.html",
+          "tags": [
+            "腾讯",
+            "Hy4",
+            "WorkBuddy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "Cult.fit 用 Codex",
+          "summary": "Cult.fit 使用 Codex 提升效率",
+          "detail": "Cult.fit 正在使用 OpenAI 的 Codex 帮助团队构建工具，加快工作流程。Codex 不仅提高了团队的工作效率，还改变了工作方式。通过 Codex，Cult.fit 的工具开发速度提升了 50%，堪称 AI 助力企业效率的典范。",
+          "usage": "💡 聊 AI 工具应用时\n💬 Cult.fit 用 Codex，工具开发速度提升 50%\n🔥 Cult.fit Codex 效率",
+          "source": "https://openai.com/index/cultfit-builds-with-codex",
+          "tags": [
+            "Cult.fit",
+            "Codex",
+            "效率"
+          ]
+        },
+        {
+          "title": "即梦短剧降价",
+          "summary": "即梦短剧门槛降低",
+          "detail": "即梦短剧工作室的门槛大幅降低，剧本分镜预演一条龙服务，且 Seedance 2.5 单秒低至 0.15 元。这意味着 AI 短剧制作成本大幅下降，更多创作者可以轻松进入这个领域。",
+          "usage": "💡 聊 AI 短剧时\n💬 即梦短剧门槛降低，单秒低至 0.15 元\n🔥 即梦短剧 Seedance",
+          "source": "https://www.qbitai.com/2026/11/507972.html",
+          "tags": [
+            "即梦短剧",
+            "Seedance",
+            "AI 创作"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "DeepSeek 带火稀疏计算",
+          "summary": "DeepSeek 推动稀疏计算发展",
+          "detail": "DeepSeek 的火爆带动了稀疏计算的热潮，国产芯片公司纷纷加速突围。最近，一家芯片公司又成功融资近 10 亿元，标志着稀疏计算技术在国内的快速发展和应用前景。",
+          "usage": "💡 聊稀疏计算时\n💬 DeepSeek 带火稀疏计算，芯片公司融资 10 亿\n🔥 DeepSeek 稀疏计算 芯片",
+          "source": "https://www.qbitai.com/2026/11/508155.html",
+          "tags": [
+            "DeepSeek",
+            "稀疏计算",
+            "芯片"
+          ]
+        },
+        {
+          "title": "腾讯 Hy4 开源",
+          "summary": "腾讯 Hy4 开源模型第一",
+          "detail": "腾讯的 Hy4 开源模型因其强大的 Agent 能力在全球开源模型中排名第一。11 月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容，进一步巩固了其在开源领域的领先地位。",
+          "usage": "💡 聊开源模型时\n💬 腾讯 Hy4 开源模型第一，调用激增十倍扩容\n🔥 腾讯 Hy4 开源",
+          "source": "https://www.qbitai.com/2026/11/507967.html",
+          "tags": [
+            "腾讯",
+            "Hy4",
+            "开源"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "BioBasicsBench 发布",
+          "summary": "OpenAI 推出生物实验基准测试",
+          "detail": "OpenAI 发布了 BioBasicsBench，一个包含 100 项任务的基准测试，用于衡量 AI 代理在湿实验室科学中的表现。这个测试将推动 AI 在生物实验领域的应用，未来或许能替代部分实验室工作。",
+          "usage": "💡 聊 AI 在生物实验中的应用时\n💬 OpenAI 发布 BioBasicsBench，AI 或将替代部分实验室工作\n🔥 BioBasicsBench 湿实验室",
+          "source": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+          "tags": [
+            "OpenAI",
+            "BioBasicsBench",
+            "生物实验"
+          ]
+        },
+        {
+          "title": "AI 安全世界杯",
+          "summary": "中国 AI 登顶 AI 安全世界杯",
+          "detail": "中国 AI 在「AI 安全世界杯」CyberGym 中取得 99.4% 的成绩，一举刷新世界纪录。这个成绩不仅展示了中国在 AI 安全领域的实力，也为全球 AI 安全技术的发展提供了新的标杆。",
+          "usage": "💡 聊 AI 安全竞赛时\n💬 中国 AI 登顶 AI 安全世界杯，刷新世界纪录\n🔥 AI 安全世界杯 CyberGym",
+          "source": "https://www.qbitai.com/2026/11/508107.html",
+          "tags": [
+            "AI 安全",
+            "CyberGym",
+            "中国 AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "AI 支出停滞",
+          "summary": "Anthropic IPO 前 AI 支出停滞",
+          "detail": "Ramp 数据显示，尽管 AI 使用率持续上升，但支出却停滞不前。Anthropic 即将 IPO，市场对其前景持谨慎态度。价格战和成本控制成为行业焦点，AI 公司需要寻找新的增长点。",
+          "usage": "💡 聊 AI 行业支出时\n💬 AI 支出停滞，Anthropic IPO 前景不明\n🔥 Anthropic IPO AI 支出",
+          "source": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+          "tags": [
+            "Anthropic",
+            "IPO",
+            "AI 支出"
+          ]
+        },
+        {
+          "title": "AI 行业监管加强",
+          "summary": "美国中期选举或影响 AI 行业",
+          "detail": "美国民主党在中期选举中的胜利可能带来 AI 行业的监管加强。TechCrunch 分析认为，未来两年 AI 行业将面临更严格的法规和市场挑战，行业格局或将重新洗牌。",
+          "usage": "💡 聊 AI 监管时\n💬 美国中期选举或引发 AI 行业监管加强\n🔥 AI 监管 美国中期选举",
+          "source": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+          "tags": [
+            "AI 监管",
+            "美国中期选举",
+            "TechCrunch"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-07T07:00:42.805Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3531,
+    "completion_tokens": 3046,
+    "total_tokens": 6577,
+    "cost_usd": 0.0038408599999999998,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}
