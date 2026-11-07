@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "中国不买英伟达芯片",
+          "summary": "美国人急了，想知道原因。",
+          "detail": "随着国际贸易形势的变化，中国对英伟达的芯片采购量锐减，引发了美国媒体的高度关注。美国人急切想知道，中国为何不再大买特买英伟达的芯片。业内人士调侃道：难道是因为中国已经自信到不再依赖他们的芯片了吗？",
+          "usage": "💡 聊聊美中贸易的微妙变化 \n💬 美国人急什么？ \n🔥 中美贸易 英伟达",
+          "source": "https://www.toutiao.com/trending/7704527128851398719/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704527128851398719%22%2C%22hot_board_impr_id%22%3A%22202611080012123ED41356C3A94330027E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E4%B8%8D%E4%B9%B0%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%80%A5%E4%BB%80%E4%B9%88%22%7D&rank=&style_id=40132&topic_id=7704527128851398719",
+          "tags": [
+            "中美贸易",
+            "英伟达",
+            "科技"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-07T16:15:47.512Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 4970,
+    "completion_tokens": 2358,
+    "total_tokens": 7328,
+    "cost_usd": 0.0021603,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 9,
+      "published": 1
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 0,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 11
+    }
+  }
+}
