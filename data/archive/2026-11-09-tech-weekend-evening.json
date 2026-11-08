@@ -1,0 +1,78 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "物流仓库跟数据中心抢电",
+          "summary": "欧洲物流仓库用电需求激增，跟数据中心争抢电源！",
+          "detail": "最近，荷兰的Zeeman配送中心因为装新自动化拣选系统，电需求直接超标，导致电力短缺，开始和数据中心争电用。没想到，搬个货需要的电比你想象中多得多，真是‘车到山前必有路’的节奏。家人们，谁懂啊，这电费会不会又要涨了？",
+          "usage": "💡 讨论电力危机时 \n💬 ‘配送中心跟数据中心抢电，电费又要涨了！’ \n🔥 物流 自动化 电力",
+          "source": "https://www.huxiu.com/article/4903973.html?f=rss",
+          "tags": [
+            "物流",
+            "电力",
+            "自动化"
+          ]
+        },
+        {
+          "title": "股灾背后的“蓝色海啸”",
+          "summary": "得州引发股灾，数据中心受重创！",
+          "detail": "得州那边又双叒叕出事了，一场由“蓝色海啸”引发的股灾，直接波及了当地的数据中心。小山丘上的油井喷出，整个市场瞬间崩盘。看来，得州的牛仔们真是把‘金融风暴’和‘自然灾害’玩出了新花样，真是让人见证了什么叫无常啊！",
+          "usage": "💡 聊聊金融市场波动时 \n💬 ‘得州的蓝色海啸引发股灾，真是飞起了！’ \n🔥 股市 灾难 数据中心",
+          "source": "https://www.huxiu.com/article/4903971.html?f=rss",
+          "tags": [
+            "股市",
+            "股灾",
+            "得州"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "高能时代更名",
+          "summary": "高能环境更名为高能时代，重心转型！",
+          "detail": "高能环境近日正式宣布将公司证券简称更改为“高能时代”，这次更名背后是公司经营重心向更可持续和环保的方向转型。看来，环保不仅是个口号，还是生存之道，未来的市场，谁掌握了绿色科技，谁就握住了未来哦！",
+          "usage": "💡 讨论企业转型时 \n💬 ‘高能环境更名为高能时代，走上环保之路！’ \n🔥 高能环境 更名 转型",
+          "source": "https://www.huxiu.com/article/4903970.html?f=rss",
+          "tags": [
+            "高能环境",
+            "更名",
+            "转型"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-08T16:46:00.663Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 5105,
+    "completion_tokens": 3208,
+    "total_tokens": 8313,
+    "cost_usd": 0.00269055,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 13,
+      "published": 3
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 4,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 16
+    }
+  }
+}
