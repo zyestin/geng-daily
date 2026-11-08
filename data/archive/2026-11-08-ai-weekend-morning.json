@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "GPT-6 Cyber 发布",
+          "summary": "OpenAI 推出网络安全模型",
+          "detail": "OpenAI 发布了 GPT-6 Cyber，这是一个专门用于发现可利用漏洞和保护网络的 AI 模型。它不仅能在现有系统中找到漏洞，还能提出修复建议，帮助企业在黑客之前修复问题。这意味着网络安全工程师的工作将从“找漏洞”转向“验证 AI 的建议”。想想看，以后黑客和防御者都在用 AI，谁的技术更好谁就能赢。",
+          "usage": "💡 聊到网络安全的最新进展\n💬 OpenAI 新出的 GPT-6 Cyber，简直就是黑客和防御者的 AI 军备竞赛！\n🔥 GPT-6 Cyber 网络安全 AI",
+          "source": "https://openai.com/index/introducing-gpt-6-cyber",
+          "tags": [
+            "OpenAI",
+            "网络安全",
+            "GPT-6"
+          ]
+        },
+        {
+          "title": "Megaspeed 间谍门",
+          "summary": "中国情报部门招募 Nvidia 间谍",
+          "detail": "根据美国情报备忘录，中国国家安全部招募了一名 Megaspeed 高管来监视 Nvidia CEO Jensen Huang。这一事件不仅引发了业内对商业间谍的警惕，还可能加剧中美在 AI 技术领域的竞争。Nvidia 的 GPU 技术一直是 AI 发展的核心，这次间谍事件可能会影响未来的技术出口和合作。",
+          "usage": "💡 聊到中美科技竞争\n💬 中国情报部门居然派人监视 Nvidia CEO，这下 AI 芯片的竞争更激烈了！\n🔥 Megaspeed Nvidia 间谍",
+          "source": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+          "tags": [
+            "Nvidia",
+            "间谍",
+            "中美竞争"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "GPT-6 Cyber",
+          "summary": "OpenAI 推出网络安全模型",
+          "detail": "OpenAI 发布了 GPT-6 Cyber，这是一个专门用于发现可利用漏洞和保护网络的 AI 模型。它不仅能在现有系统中找到漏洞，还能提出修复建议，帮助企业在黑客之前修复问题。这意味着网络安全工程师的工作将从“找漏洞”转向“验证 AI 的建议”。想想看，以后黑客和防御者都在用 AI，谁的技术更好谁就能赢。",
+          "usage": "💡 聊到网络安全的最新进展\n💬 OpenAI 新出的 GPT-6 Cyber，简直就是黑客和防御者的 AI 军备竞赛！\n🔥 GPT-6 Cyber 网络安全 AI",
+          "source": "https://openai.com/index/introducing-gpt-6-cyber",
+          "tags": [
+            "OpenAI",
+            "网络安全",
+            "GPT-6"
+          ]
+        },
+        {
+          "title": "STEPX Neo 亮相",
+          "summary": "阶跃终端发布智能体手机",
+          "detail": "阶跃终端旗下的 STEPX Neo 智能体手机在进博会高通展台首次亮相。这款手机不仅集成了 AI 智能体功能，还通过软硬件一体化设计提升了用户体验。STEPX Neo 的出现预示着智能手机将不再是单纯的通信工具，而是 AI 驱动的个人助理。未来，你的手机可能比你更懂你。",
+          "usage": "💡 聊到 AI 手机的未来\n💬 STEPX Neo 智能体手机亮相进博会，AI 手机时代真的要来了！\n🔥 STEPX Neo 智能体手机 AI",
+          "source": "https://www.qbitai.com/2026/11/508170.html",
+          "tags": [
+            "阶跃终端",
+            "AI 手机",
+            "STEPX Neo"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "Jeff Dean 对谈",
+          "summary": "Jeff Dean 谈 RSI 非共识",
+          "detail": "在最近的一次对谈中，Jeff Dean 和李飞飞讨论了 RSI（强化学习和系统智能）的非共识观点。Dean 认为，AI 的未来不仅仅是优化现有算法，而是需要重新思考系统和硬件的设计。他指出，RSI 的应用已经缩短了实验时间，并将在未来推动 AI 技术的进一步发展。",
+          "usage": "💡 聊到 AI 技术的未来\n💬 Jeff Dean 最近说，AI 的未来在于重新设计系统和硬件，而不是优化算法！\n🔥 Jeff Dean RSI 系统设计",
+          "source": "https://www.qbitai.com/2026/11/508196.html",
+          "tags": [
+            "Jeff Dean",
+            "RSI",
+            "AI 未来"
+          ]
+        },
+        {
+          "title": "Jeff Dean 再谈",
+          "summary": "Jeff Dean 谈 AI 系统设计",
+          "detail": "Jeff Dean 在另一场合再次强调了 AI 系统设计的重要性。他认为，AI 的未来不仅仅是算法的优化，而是需要从系统和硬件层面进行重新设计。Dean 的这一观点在业内引起了广泛讨论，许多开发者开始重新思考 AI 系统的架构设计。",
+          "usage": "💡 聊到 AI 系统设计\n💬 Jeff Dean 再次强调，AI 的未来在于系统和硬件的重新设计！\n🔥 Jeff Dean AI 系统设计",
+          "source": "https://www.qbitai.com/2026/11/508196.html",
+          "tags": [
+            "Jeff Dean",
+            "AI 系统设计",
+            "RSI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI 融资",
+          "summary": "OpenAI 估值 1.25 万亿美元",
+          "detail": "据报道，OpenAI 在最新一轮融资中筹集了 110 亿美元，估值达到 1.25 万亿美元。这一融资额不仅显示了投资者对 OpenAI 的信心，也预示着 AI 行业的资本竞争将进一步加剧。OpenAI 的估值已经超过了传统科技巨头，成为全球最有价值的公司之一。",
+          "usage": "💡 聊到 AI 行业的资本动态\n💬 OpenAI 最新融资 110 亿美元，估值 1.25 万亿美元，AI 行业的钱多得吓人！\n🔥 OpenAI 融资 1.25 万亿美元",
+          "source": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+          "tags": [
+            "OpenAI",
+            "融资",
+            "估值"
+          ]
+        },
+        {
+          "title": "Meta 推出 Spaces",
+          "summary": "Meta 发布协作工具",
+          "detail": "Meta 推出了 Spaces，这是一个与 Muse 智能体协作的新工具。Spaces 允许用户与 Muse 智能体进行更高效的协作，特别是在设计和开发领域。Meta 的这一举措显示了其在 AI 智能体领域的持续投入，未来可能会有更多类似产品推出。",
+          "usage": "💡 聊到 Meta 的新产品\n💬 Meta 新出的 Spaces，Muse 智能体协作更高效了！\n🔥 Meta Spaces Muse 智能体",
+          "source": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+          "tags": [
+            "Meta",
+            "Spaces",
+            "Muse"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "Cult.fit 用 Codex",
+          "summary": "Cult.fit 用 Codex 提效",
+          "detail": "Cult.fit 正在使用 OpenAI 的 Codex 来帮助团队构建工具、加快工作速度，并改变工作流程。通过 Codex，Cult.fit 的跨职能团队能够更快地开发内部工具，从而提升整体运营效率。这一案例展示了 AI 技术在实际业务中的应用潜力，未来可能会有更多企业效仿。",
+          "usage": "💡 聊到 AI 工具在企业中的应用\n💬 Cult.fit 用 Codex 提升运营效率，AI 工具的应用越来越广泛了！\n🔥 Cult.fit Codex AI 工具",
+          "source": "https://openai.com/index/cultfit-builds-with-codex",
+          "tags": [
+            "Cult.fit",
+            "Codex",
+            "AI 工具"
+          ]
+        },
+        {
+          "title": "Merge 用 GPT-6 Astra",
+          "summary": "Merge 用 GPT-6 Astra 优化产品",
+          "detail": "Merge 使用 GPT-6 Astra、ChatGPT 和 Codex 来审查产品代码并支持市场营销。通过 AI 技术的应用，Merge 的团队能够在产品开发和市场推广中获得显著优势。这一案例展示了 AI 技术在企业中的多功能应用，未来可能会有更多企业采用类似的技术组合。",
+          "usage": "💡 聊到 AI 在企业中的应用\n💬 Merge 用 GPT-6 Astra 优化产品开发和市场营销，AI 技术的应用越来越广泛了！\n🔥 Merge GPT-6 Astra AI 工具",
+          "source": "https://openai.com/index/merge-builds-with-openai",
+          "tags": [
+            "Merge",
+            "GPT-6 Astra",
+            "AI 工具"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "DeepSeek 带火稀疏计算",
+          "summary": "DeepSeek 推动稀疏计算",
+          "detail": "DeepSeek 的成功带火了稀疏计算技术，国产芯片公司正在加速突围。最近，一家芯片公司融资近 10 亿，显示了市场对稀疏计算技术的信心。稀疏计算在 AI 芯片中的应用潜力巨大，未来可能会成为 AI 硬件的主流技术。",
+          "usage": "💡 聊到 AI 芯片技术\n💬 DeepSeek 带火稀疏计算，国产芯片公司融资近 10 亿，AI 芯片的竞争越来越激烈了！\n🔥 DeepSeek 稀疏计算 AI 芯片",
+          "source": "https://www.qbitai.com/2026/11/508155.html",
+          "tags": [
+            "DeepSeek",
+            "稀疏计算",
+            "AI 芯片"
+          ]
+        },
+        {
+          "title": "Artex AI 工具暴露",
+          "summary": "Artex AI 工具被公开",
+          "detail": "安全研究人员发现数百台服务器上公开暴露了 Artex AI 渗透测试工具。这些工具原本用于网络安全测试，但公开暴露可能导致恶意使用。这一事件再次提醒我们，AI 工具的安全性同样重要，未来可能会有更多类似的漏洞被发现。",
+          "usage": "💡 聊到 AI 工具的安全性\n💬 Artex AI 渗透测试工具被公开暴露，AI 工具的安全性也需要重视！\n🔥 Artex AI 渗透测试 安全",
+          "source": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+          "tags": [
+            "Artex",
+            "AI 工具",
+            "安全"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "BioBasicsBench 发布",
+          "summary": "OpenAI 推出生物基准测试",
+          "detail": "OpenAI 发布了 BioBasicsBench，一个包含 100 个任务的基准测试，用于评估 AI 在处理湿实验室科学数据方面的表现。这一基准测试的推出标志着 AI 在生物科学领域的应用进一步深入，未来可能会推动更多生物科学研究的自动化。",
+          "usage": "💡 聊到 AI 在生物科学中的应用\n💬 OpenAI 推出的 BioBasicsBench，AI 在生物科学领域的应用越来越广泛了！\n🔥 BioBasicsBench 生物科学 AI",
+          "source": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+          "tags": [
+            "OpenAI",
+            "BioBasicsBench",
+            "生物科学"
+          ]
+        },
+        {
+          "title": "RSI 缩短实验时间",
+          "summary": "RSI 缩短实验时间 80%",
+          "detail": "RSI 技术的应用已经将实验时间缩短了 80%，大大提高了研发效率。这一突破不仅在 AI 领域具有重要意义，还可能在其他科学研究领域产生广泛影响。未来，RSI 技术可能会成为科研人员的标配工具。",
+          "usage": "💡 聊到 AI 技术的应用\n💬 RSI 技术将实验时间缩短了 80%，AI 在科研领域的应用越来越广泛了！\n🔥 RSI 实验时间 AI",
+          "source": "",
+          "tags": [
+            "RSI",
+            "实验时间",
+            "AI 科研"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "AI 行业蓝波影响",
+          "summary": "美国中期选举影响 AI 行业",
+          "detail": "美国中期选举的蓝波胜利可能会对 AI 行业产生深远影响。民主党的胜利可能会推动更多的 AI 监管政策和创新支持。未来两年，AI 行业可能会面临更多的政策变化和市场调整。",
+          "usage": "💡 聊到 AI 行业的政策变化\n💬 美国中期选举的蓝波胜利可能会对 AI 行业产生深远影响，未来两年政策变化很大！\n🔥 中期选举 AI 监管",
+          "source": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+          "tags": [
+            "美国中期选举",
+            "AI 监管",
+            "政策"
+          ]
+        },
+        {
+          "title": "阿里巴巴 AI 报告",
+          "summary": "阿里巴巴发布 AI 向善报告",
+          "detail": "阿里巴巴发布了《2026 AI 向善行动报告》，强调了 AI 数据中心的可持续发展。这份报告展示了阿里巴巴在 AI 领域的责任感和未来规划，可能会影响其他科技公司的 AI 发展战略。",
+          "usage": "💡 聊到 AI 企业的社会责任\n💬 阿里巴巴发布 AI 向善报告，AI 数据中心的可持续发展成亮点！\n🔥 阿里巴巴 AI 向善 可持续发展",
+          "source": "https://www.qbitai.com/2026/11/508165.html",
+          "tags": [
+            "阿里巴巴",
+            "AI 向善",
+            "可持续"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-08T07:07:10.475Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3460,
+    "completion_tokens": 3239,
+    "total_tokens": 6699,
+    "cost_usd": 0.003989909999999999,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

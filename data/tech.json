@@ -5,44 +5,134 @@
       "icon": "📰",
       "items": [
         {
-          "title": "中国不买英伟达芯片",
-          "summary": "美国人急了，想知道原因。",
-          "detail": "随着国际贸易形势的变化，中国对英伟达的芯片采购量锐减，引发了美国媒体的高度关注。美国人急切想知道，中国为何不再大买特买英伟达的芯片。业内人士调侃道：难道是因为中国已经自信到不再依赖他们的芯片了吗？",
-          "usage": "💡 聊聊美中贸易的微妙变化 \n💬 美国人急什么？ \n🔥 中美贸易 英伟达",
-          "source": "https://www.toutiao.com/trending/7704527128851398719/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704527128851398719%22%2C%22hot_board_impr_id%22%3A%22202611080012123ED41356C3A94330027E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E4%B8%8D%E4%B9%B0%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%80%A5%E4%BB%80%E4%B9%88%22%7D&rank=&style_id=40132&topic_id=7704527128851398719",
+          "title": "大选后科技股暴跌",
+          "summary": "美股科技股因大选后暴跌，市值蒸发达万亿。",
+          "detail": "刚刚过去的美国中期选举引发了股市的剧烈波动。科技股领跌，造成三大股指创下2025年最大单日跌幅，这一变化令投资者震惊，分析师表示这是牛市的终结前奏。家人们，别忘了买股票的时候也得考虑政治风险啊！",
+          "usage": "💡 聊聊最近的股市动向 \n💬 美国科技股在大选后突然暴跌，市值一夜蒸发万亿！ \n🔥 科技股 大选 股市",
+          "source": "https://www.huxiu.com/article/4903892.html?f=rss",
           "tags": [
-            "中美贸易",
-            "英伟达",
-            "科技"
+            "股市",
+            "科技",
+            "经济"
+          ]
+        },
+        {
+          "title": "华尔街喊出抄底信号",
+          "summary": "科技股暴跌后，华尔街分析师却喊“抄底”。",
+          "detail": "在经历了“黑色一周”后，华尔街多位策略师纷纷发出买入信号，认为当前科技股的抛售只是短暂的调整，而不是熊市的开始。难道是准备在大跌中找机会？大家都在等着抄底的时机，真是强者的游戏啊。",
+          "usage": "💡 聊聊股市的反弹可能性 \n💬 华尔街分析师认为科技股目前是抄底的好时机！ \n🔥 股市 抄底 华尔街",
+          "source": "https://www.huxiu.com/article/4903897.html?f=rss",
+          "tags": [
+            "股市",
+            "投资",
+            "华尔街"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "马斯克预言SpaceX收入",
+          "summary": "马斯克透露明年SpaceX年化收入目标5000亿美金。",
+          "detail": "在第33届巴伦投资大会上，马斯克又放大招，宣称SpaceX明年的年化收入目标将达到惊人的5000亿美元。这简直是“有钱任性”到不行，难不成马斯克觉得发射火箭不需要成本了？",
+          "usage": "💡 聊天时谈论火箭发射的成本 \n💬 马斯克说SpaceX明年目标5000亿美金的收入！ \n🔥 马斯克 SpaceX 收入目标",
+          "source": "https://www.huxiu.com/article/4903895.html?f=rss",
+          "tags": [
+            "马斯克",
+            "SpaceX",
+            "收入目标"
+          ]
+        },
+        {
+          "title": "李飞飞、苏姿丰联手",
+          "summary": "李飞飞与苏姿丰的联手引发广泛关注。",
+          "detail": "最近，著名AI专家李飞飞与AI芯片巨头苏姿丰联合推出了某个重磅项目，目标是推动AI的实际应用。这样的组合让人期待，但也让许多业内人士表示，这一联手是“看谁更能把技术落地”。大家一起关注吧！",
+          "usage": "💡 聊聊AI领域的最新动态 \n💬 李飞飞和苏姿丰的联手能否改变AI的应用格局？ \n🔥 AI 联手 技术落地",
+          "source": "https://www.huxiu.com/article/4903899.html?f=rss",
+          "tags": [
+            "AI",
+            "科技",
+            "合作"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "伯克希尔财报发布",
+          "summary": "伯克希尔最新财报显示净利大降28%。",
+          "detail": "伯克希尔·哈撒韦公布了其最新财报，净利润竟然大幅下滑28%，这主要归因于保险业务的承压和投资收益的减少。股东们可能都在怀疑，巴菲特是不是也该转行了？大家还是关注下他的投资策略吧。",
+          "usage": "💡 聊聊投资收益的变化 \n💬 伯克希尔最新财报显示净利润大降28%，大家怎么看？ \n🔥 财报 投资收益 巴菲特",
+          "source": "https://www.huxiu.com/article/4903896.html?f=rss",
+          "tags": [
+            "财报",
+            "投资",
+            "巴菲特"
+          ]
+        },
+        {
+          "title": "AI泡沫或迎清算",
+          "summary": "美国中期选举后，AI泡沫面临清算威胁。",
+          "detail": "随着美国中期选举后的股市暴跌，市场对AI泡沫的担忧再次浮出水面。分析师指出，这种情况可能会加速AI行业的整合，真正的技术和价值可能会在这场清算中得到显现。家人们，泡沫破裂前可要小心啊。",
+          "usage": "💡 聊聊AI行业的未来 \n💬 AI行业在股市暴跌后可能迎来清算，你怎么看？ \n🔥 AI 泡沫 清算",
+          "source": "https://www.huxiu.com/article/4903892.html?f=rss",
+          "tags": [
+            "AI",
+            "泡沫",
+            "市场"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "红杉资本裁员20%",
+          "summary": "红杉资本宣布裁员20%，引发业界震动。",
+          "detail": "红杉资本近日发出公开信，宣布将在未来几个月内裁员20%。行业人士对此反应不一，认为这反映出VC行业的冬天开始来临，大家要不要为此准备一个热水袋？",
+          "usage": "💡 聊聊行业趋势 \n💬 红杉资本要裁员20%，你觉得影响大吗？ \n🔥 裁员 红杉资本 VC",
+          "source": "https://www.huxiu.com/article/4903904.html?f=rss",
+          "tags": [
+            "裁员",
+            "红杉资本",
+            "VC"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-07T16:15:47.512Z",
-  "slot": "weekend-evening",
-  "slot_label": "周末傍晚 · 家庭闲聊",
+  "generated_at": "2026-11-08T07:05:32.379Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
   "meta": {
     "model": "openai/gpt-4o-mini",
     "actual_model": "openai/gpt-4o-mini",
-    "prompt_tokens": 4970,
-    "completion_tokens": 2358,
-    "total_tokens": 7328,
-    "cost_usd": 0.0021603,
+    "prompt_tokens": 6230,
+    "completion_tokens": 3107,
+    "total_tokens": 9337,
+    "cost_usd": 0.0027987,
     "free": false,
     "quality": {
       "degraded": true,
       "dropped_orphans": 9,
-      "published": 1
+      "published": 7
     },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 0,
+        "huxiu": 12,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 11
+      "total": 24
     }
   }
 }
