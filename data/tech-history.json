@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "key": "2026-11-10-tech-weekday-evening",
+      "date": "2026-11-10",
+      "slot": "tech-weekday-evening",
+      "slot_label": "工作日傍晚 · 生活时光",
+      "generated_at": "2026-11-09T20:18:24.438Z",
+      "weekday": "星期一",
+      "file": "archive/2026-11-10-tech-weekday-evening.json",
+      "topic_count": 4,
+      "category_names": [
+        "今日头条",
+        "组织变动",
+        "创业大戏"
+      ]
+    },
+    {
       "key": "2026-11-09-tech-weekend-evening",
       "date": "2026-11-09",
       "slot": "tech-weekend-evening",
@@ -2100,5 +2115,5 @@
       ]
     }
   ],
-  "updated_at": "2026-11-09T03:02:07.037Z"
+  "updated_at": "2026-11-09T20:18:24.451Z"
 }

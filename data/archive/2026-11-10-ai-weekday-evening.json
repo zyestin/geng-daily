@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "OpenAI 发布 GPT-6 Cyber",
+          "summary": "GPT-6 Cyber 专攻网络安全漏洞",
+          "detail": "OpenAI 发布了 GPT-6 Cyber，这是一个专门用于发现可利用漏洞和防御网络攻击的模型。它不仅能在短时间内扫描整个网络系统，还能自动生成修复方案——以前需要安全工程师熬夜找漏洞，现在 AI 7×24 小时不眨眼地找，护肝片销量怕是得涨。",
+          "usage": "💡 聊网络安全或 AI 应用时\n💬 OpenAI 搞了个 GPT-6 Cyber，黑客们的日子不好过了\n🔥 GPT-6 Cyber 网络安全 AI",
+          "source": "https://openai.com/index/introducing-gpt-6-cyber",
+          "tags": [
+            "GPT-6",
+            "网络安全",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "AI 接管开源公司",
+          "summary": "AI 全包代码、派任务、招人",
+          "detail": "一家拥有 8 万 Star 的开源公司宣布，AI 已经完全接管了其运营——从写代码、派任务到查 Bug，全由 AI 搞定。甚至当人力资源不足时，AI 还能自动招聘新人。以前是靠人管代码，现在直接靠代码管人了。",
+          "usage": "💡 聊 AI 自动化时\n💬 AI 接管一家开源公司，连招人都自己搞定了\n🔥 AI 自动化 开源公司",
+          "source": "https://www.qbitai.com/2026/11/508607.html",
+          "tags": [
+            "AI 自动化",
+            "开源公司",
+            "AI 招聘"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Anthropic 发布 Mythos 和 Fable",
+          "summary": "Mythos 和 Fable 新模型发布",
+          "detail": "Anthropic 新发布的 Mythos 和 Fable 模型在编码、推理和视觉任务上有了显著提升。尤其是 Fable 5.1，处理复杂代码的速度比上一代快了 30%，推理能力更是强到让人怀疑它是不是偷偷上了个速成班。",
+          "usage": "💡 聊新模型发布时\n💬 Anthropic 的 Fable 5.1 速度暴增 30%，编码能力起飞\n🔥 Fable 5.1 Anthropic 编码推理",
+          "source": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+          "tags": [
+            "Mythos",
+            "Fable 5.1",
+            "Anthropic"
+          ]
+        },
+        {
+          "title": "Meta 发布 Muse Ember",
+          "summary": "Muse Ember 轻量级模型上线",
+          "detail": "Meta 发布了 Muse Ember，一个轻量级模型，每百万输入 token 仅需 10 美分，比竞争对手便宜了 5 倍。Ember 专为 Agent 执行优化，虽然体积小，但性能不输大模型——堪称 AI 界的“小而美”。",
+          "usage": "💡 聊轻量级模型时\n💬 Meta 的 Muse Ember 便宜 5 倍，轻量级模型也能打\n🔥 Muse Ember Meta 轻量级模型",
+          "source": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+          "tags": [
+            "Muse Ember",
+            "Meta",
+            "轻量级模型"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "Jensen Huang 丑闻发酵",
+          "summary": "Jensen Huang 或被解雇",
+          "detail": "Yale 的 Jeffrey Sonnenfeld 预测，Nvidia CEO Jensen Huang 或因与中国间谍的绯闻被解雇，概率约 50-50。此前 Huang 退出了多个重要会议，Nvidia 在中国的布局也面临变数——这下连显卡都救不了他了。",
+          "usage": "💡 聊 Nvidia 或 CEO 丑闻时\n💬 Jensen Huang 可能要下课了，绯闻搞大了\n🔥 Jensen Huang Nvidia 中国间谍",
+          "source": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+          "tags": [
+            "Jensen Huang",
+            "Nvidia",
+            "中国间谍"
+          ]
+        },
+        {
+          "title": "Jensen Huang 退出 ElevenLabs 峰会",
+          "summary": "Jensen Huang 因争议退出峰会",
+          "detail": "Nvidia CEO Jensen Huang 退出了 ElevenLabs 峰会，此前他还退出了 Anthropic 的活动。外界猜测，这与他的绯闻事件有关——这下连 AI 圈的活动都不敢参加了。",
+          "usage": "💡 聊 CEO 动态时\n💬 Jensen Huang 连退两场峰会，绯闻风波愈演愈烈\n🔥 Jensen Huang ElevenLabs 峰会",
+          "source": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+          "tags": [
+            "Jensen Huang",
+            "ElevenLabs",
+            "峰会"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI 与 AWS 合作",
+          "summary": "ChatGPT Enterprise 上线 AWS",
+          "detail": "ChatGPT Enterprise 正式上线 AWS Marketplace，企业采购流程大大简化。以前企业得找 OpenAI 单独谈合同，现在直接在 AWS 上点几下就能用上——连谈价都省了。",
+          "usage": "💡 聊企业 AI 应用时\n💬 ChatGPT Enterprise 上线 AWS，采购流程超简化\n🔥 ChatGPT Enterprise AWS",
+          "source": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "tags": [
+            "ChatGPT Enterprise",
+            "AWS",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "Anthropic 购买天然气涡轮",
+          "summary": "Anthropic 豪掷 34 亿买涡轮",
+          "detail": "Anthropic 豪掷 34 亿美元购买天然气涡轮，加入 AI 圈“电力争夺战”。这波操作不仅能为 AI 训练提供充足电力，还可能让它在未来能源市场占据一席之地——AI 公司转型能源公司，真是跨界之王。",
+          "usage": "💡 聊 AI 能源消耗时\n💬 Anthropic 花了 34 亿买涡轮，AI 训练要用电疯\n🔥 Anthropic 天然气涡轮 能源",
+          "source": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+          "tags": [
+            "Anthropic",
+            "天然气涡轮",
+            "能源"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "千问办公 2.0 发布",
+          "summary": "首个多人协作 Team Agent",
+          "detail": "千问办公 2.0 发布了首个支持多人与 Agent 协作的 Team Agent 功能，团队效率直接翻倍——以前是一个人指挥 AI，现在是 AI 协调一群人。",
+          "usage": "💡 聊办公效率提升时\n💬 千问办公 2.0 发布，AI 直接协调团队\n🔥 千问办公 2.0 Team Agent",
+          "source": "https://www.qbitai.com/2026/11/508694.html",
+          "tags": [
+            "千问办公 2.0",
+            "Team Agent",
+            "协作"
+          ]
+        },
+        {
+          "title": "Kuken 用 OpenAI API 查图纸",
+          "summary": "70 年图纸几分钟搞定",
+          "detail": "Kuken Industries 利用 OpenAI API，在几分钟内搜索了 70 年的冷却塔图纸。以前工程师得翻箱倒柜找图纸，现在 AI 直接秒查——连文件夹都不用打开了。",
+          "usage": "💡 聊 AI 应用效率时\n💬 Kuken 用 OpenAI API 搞定 70 年图纸，工程师们不用翻文件了\n🔥 Kuken OpenAI API 图纸搜索",
+          "source": "https://openai.com/index/kuken",
+          "tags": [
+            "Kuken",
+            "OpenAI API",
+            "图纸搜索"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "腾讯混元跻身最强开源",
+          "summary": "Hy4 搭配 WorkBuddy",
+          "detail": "腾讯混元凭借 Hy4 模型和 WorkBuddy 工具，成为最强开源模型之一。它不仅支持多模态 Agent 交付，还大幅提升了团队协作效率——开源界的“全能选手”来了。",
+          "usage": "💡 聊开源模型时\n💬 腾讯混元 Hy4 配上 WorkBuddy，开源界的全能选手\n🔥 腾讯混元 Hy4 WorkBuddy",
+          "source": "https://www.qbitai.com/2026/11/507843.html",
+          "tags": [
+            "腾讯混元",
+            "Hy4",
+            "WorkBuddy"
+          ]
+        },
+        {
+          "title": "NeoHorse-1.5-Flash 发布",
+          "summary": "RSI 进入第二轮迭代",
+          "detail": "基元律动发布了 NeoHorse-1.5-Flash Preview，RSI 进入第二轮迭代。这个 Agent 原生模型在任务分配和资源调度上表现尤为突出——AI 自己管自己，效率翻倍。",
+          "usage": "💡 聊 Agent 模型时\n💬 NeoHorse-1.5-Flash 发布，RSI 迭代再升级\n🔥 NeoHorse-1.5-Flash RSI Agent",
+          "source": "https://www.qbitai.com/2026/11/508603.html",
+          "tags": [
+            "NeoHorse-1.5-Flash",
+            "RSI",
+            "Agent"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "OpenAI 发布 BioBasicsBench",
+          "summary": "100 项湿实验任务基准",
+          "detail": "OpenAI 发布了 BioBasicsBench，包含 100 项湿实验任务，用于评估 AI 处理原始实验数据的能力。这个基准不仅考验 AI 的理解能力，还为未来生物实验自动化铺路——AI 要进实验室了。",
+          "usage": "💡 聊 AI 生物实验时\n💬 OpenAI 发布 BioBasicsBench，AI 要进实验室了\n🔥 BioBasicsBench 湿实验",
+          "source": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+          "tags": [
+            "BioBasicsBench",
+            "湿实验",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "奔驰宝马放弃 L3",
+          "summary": "L3 自动驾驶被弃",
+          "detail": "奔驰和宝马宣布放弃 L3 自动驾驶，原因是 L3 还没 L2 好用。车企们纷纷表示，与其搞 L3，不如先把 L2 做好——自动驾驶的“高不成低不就”时代结束了。",
+          "usage": "💡 聊自动驾驶时\n💬 奔驰宝马放弃 L3，L2 才是王道\n🔥 L3 自动驾驶 奔驰宝马",
+          "source": "https://www.qbitai.com/2026/11/508629.html",
+          "tags": [
+            "L3",
+            "自动驾驶",
+            "奔驰宝马"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "AI 原生毕业生涌现",
+          "summary": "澳洲大学 AI 教育扩展",
+          "detail": "澳洲大学正在培养 AI 原生毕业生，全面引入 ChatGPT 和其他 AI 工具到教学中。未来的毕业生不仅懂专业，还得懂 AI——学习成本又增加了。",
+          "usage": "💡 聊 AI 教育时\n💬 澳洲大学培养 AI 原生毕业生，学习成本又涨了\n🔥 AI 原生毕业生 澳洲大学",
+          "source": "https://openai.com/index/australian-universities-ai-native-graduates",
+          "tags": [
+            "AI 原生毕业生",
+            "澳洲大学",
+            "教育"
+          ]
+        },
+        {
+          "title": "AI 接管计算机学位",
+          "summary": "教授也用 Claude 糊弄",
+          "detail": "一篇报道揭露，教授们也开始用 Claude 等 AI 工具糊弄计算机学位课程。学生们纷纷表示，AI 不仅抢了我们的工作，连学位都要抢。",
+          "usage": "💡 聊 AI 教育影响时\n💬 教授用 Claude 糊弄课程，AI 连学位都要抢\n🔥 AI Claude 计算机学位",
+          "source": "https://www.qbitai.com/2026/11/508706.html",
+          "tags": [
+            "AI",
+            "Claude",
+            "计算机学位"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-09T20:22:44.578Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3552,
+    "completion_tokens": 3085,
+    "total_tokens": 6637,
+    "cost_usd": 0.0038822899999999996,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

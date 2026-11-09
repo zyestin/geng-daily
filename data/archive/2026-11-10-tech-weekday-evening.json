@@ -1,0 +1,96 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "英伟达货物失踪",
+          "summary": "英伟达巨额货物离奇失踪",
+          "detail": "英伟达最近一批价值数亿的货物在运输途中神秘失踪，引发业内广泛猜测。这批货物据说是最新的AI芯片，市场期待已久。有人说这是内鬼作案，有人说是竞争对手暗中操作，甚至有人怀疑是外星人干的。总之，英伟达的股价已经开始波动，老黄的脸估计比AI芯片还要焦。",
+          "usage": "💡 同事聊股市时\n💬 英伟达的货物都能丢，是不是该考虑转行做物流了？\n🔥 英伟达 货物失踪 AI芯片",
+          "source": "https://www.toutiao.com/trending/7706117206945304100/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706117206945304100%22%2C%22hot_board_impr_id%22%3A%2220261110041121F0096A7BDA8F8E5B0D3C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B7%A8%E9%A2%9D%E8%B4%A7%E7%89%A9%E5%A4%B1%E8%B8%AA%E5%93%AA%E4%BA%9B%E7%BB%86%E8%8A%82%E5%80%BC%E5%BE%97%E6%8E%A8%E6%95%B2%22%7D&rank=&style_id=40132&topic_id=7706117206945304100",
+          "tags": [
+            "英伟达",
+            "货物失踪",
+            "AI芯片"
+          ]
+        },
+        {
+          "title": "AI毁学位",
+          "summary": "大二女生称AI毁了她的学位",
+          "detail": "一位大二女生公开声称AI毁了她的计算机学位。她表示，AI工具让她过度依赖，导致自己的编程能力和思维能力严重退化，甚至在考试中无法独立完成代码。她的言论引发了广泛争议，有人同情她，也有人认为这是她自己不努力的借口。总之，AI到底是救星还是杀手，这个话题又添了一把火。",
+          "usage": "💡 同事吐槽AI时\n💬 AI毁了她的学位，那我们的饭碗还保不保？\n🔥 AI 学位 计算机",
+          "source": "https://www.toutiao.com/trending/7706100701260156479/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706100701260156479%22%2C%22hot_board_impr_id%22%3A%2220261110041121F0096A7BDA8F8E5B0D3C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%A7%E4%BA%8C%E5%A5%B3%E7%94%9F%E7%A7%B0AI%E6%AF%81%E4%BA%86%E5%A5%B9%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E4%BD%8D%22%7D&rank=&style_id=40132&topic_id=7706100701260156479",
+          "tags": [
+            "AI",
+            "学位",
+            "计算机"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "万达人事变动",
+          "summary": "王健林重回万达",
+          "detail": "近日，王健林重新坐回了万达商管董事长的位置，接替了陈洪涛的职务。这一人事变动被认为是为了应对万达当前的财务危机。王健林的回归引发了业内的广泛关注，有人看好他能带领万达走出困境，也有人认为这只是权宜之计。总之，万达的未来走向再次成为焦点。",
+          "usage": "💡 同事聊万达时\n💬 王健林又回来了，万达这次有救了吗？\n🔥 王健林 万达 人事变动",
+          "source": "https://www.huxiu.com/article/4904299.html?f=rss",
+          "tags": [
+            "王健林",
+            "万达",
+            "人事变动"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "Hitcard上市",
+          "summary": "Hitcard上市新动向",
+          "detail": "传了一年多的Hitcard上市有了新动向。2026年11月2日，骑形网络与亚玛顿控股股东签署协议，拟受让20%股份，成为这家光伏玻璃上市公司的第一大股东。这一举动被认为是为了通过绑定IP方、炒作兑换物、做档期生意等方式推动Hitcard的上市进程。业内人士纷纷表示，这家公司的操作手段真是花样百出，创业路上的戏码比电视剧还精彩。",
+          "usage": "💡 同事聊创业时\n💬 Hitcard的上市戏码比电视剧还精彩\n🔥 Hitcard 上市 骑形网络",
+          "source": "https://www.huxiu.com/article/4904294.html?f=rss",
+          "tags": [
+            "Hitcard",
+            "上市",
+            "骑形网络"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-09T20:18:24.438Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 5063,
+    "completion_tokens": 3614,
+    "total_tokens": 8677,
+    "cost_usd": 0.00483662,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 12,
+      "published": 4
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 5,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 16
+    }
+  }
+}
