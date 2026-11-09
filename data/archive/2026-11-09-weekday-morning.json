@@ -1,0 +1,199 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "React新架构",
+          "summary": "React Fabric新架构发布",
+          "detail": "React团队近日发布了Fabric新架构，主要针对跨平台应用的性能优化，特别是React Native。新架构通过引入新的渲染器和线程模型，显著提升了应用的响应速度和流畅度。",
+          "usage": "你看了React Fabric新架构的更新没？感觉这次性能提升挺明显的，特别是React Native的应用场景。",
+          "source": "",
+          "tags": [
+            "React",
+            "性能优化"
+          ]
+        },
+        {
+          "title": "Vue 4.0",
+          "summary": "Vue 4.0新特性预览",
+          "detail": "Vue 4.0即将发布，新增了Composition API和更好的TypeScript支持。开发者可以更灵活地组织代码，并且享受到更严格的类型检查。",
+          "usage": "听说Vue 4.0要来了，Composition API和TypeScript支持都有很大提升，你准备升级吗？",
+          "source": "",
+          "tags": [
+            "Vue",
+            "TypeScript"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN Fabric",
+          "summary": "React Native Fabric架构更新",
+          "detail": "React Native的Fabric架构更新，引入了新的渲染引擎，提升了跨平台应用的性能和稳定性。开发者可以通过升级到最新版本来体验这些改进。",
+          "usage": "React Native的Fabric架构更新了，你试过了吗？感觉性能提升挺明显的，特别是在复杂应用场景下。",
+          "source": "",
+          "tags": [
+            "React Native",
+            "性能优化"
+          ]
+        },
+        {
+          "title": "跨端方案",
+          "summary": "React Native跨端方案新动态",
+          "detail": "React Native的跨端方案最近有了新进展，支持更多的原生API和组件，使得开发者可以更方便地编写跨平台应用。",
+          "usage": "React Native的跨端方案最近更新了，支持更多的原生API，你用过吗？感觉比以前更方便了。",
+          "source": "",
+          "tags": [
+            "React Native",
+            "跨端开发"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "AI代码助手",
+          "summary": "AI代码助手Copilot新功能",
+          "detail": "Copilot最近推出了新功能，支持更多的编程语言和框架，并且优化了代码生成的准确性和速度。开发者可以通过插件形式在多种IDE中使用。",
+          "usage": "Copilot新功能你用了没？支持更多语言了，代码生成速度也快了，感觉越来越智能了。",
+          "source": "",
+          "tags": [
+            "AI",
+            "Copilot"
+          ]
+        },
+        {
+          "title": "AI生成UI",
+          "summary": "AI生成UI工具新动态",
+          "detail": "AI生成UI工具最近有了新进展，支持更复杂的布局和交互设计，开发者可以通过简单的描述生成高质量的UI设计。",
+          "usage": "AI生成UI工具最近更新了，支持更复杂的布局和交互设计，你试过了吗？感觉比以前强了不少。",
+          "source": "",
+          "tags": [
+            "AI",
+            "UI设计"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "TS新特性",
+          "summary": "TypeScript新特性预览",
+          "detail": "TypeScript即将发布新版本，新增了更严格的类型检查和更好的模块支持。开发者可以通过升级到最新版本来使用这些新特性。",
+          "usage": "TypeScript新版本要来了，新增了更严格的类型检查，你准备升级吗？感觉对大型项目挺有帮助的。",
+          "source": "",
+          "tags": [
+            "TypeScript",
+            "类型检查"
+          ]
+        },
+        {
+          "title": "JS提案",
+          "summary": "JavaScript新提案动态",
+          "detail": "JavaScript新提案正在讨论中，包括新的语法和API，开发者可以通过参与讨论来影响未来的语言发展方向。",
+          "usage": "JavaScript新提案你关注了吗？有几个新语法和API挺有意思的，感觉未来会有不少变化。",
+          "source": "",
+          "tags": [
+            "JavaScript",
+            "语言提案"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "sherlock",
+          "summary": "sherlock项目爆火",
+          "detail": "sherlock项目最近在GitHub上爆火，可以通过用户名搜索社交账号，开发者可以通过该项目快速查找用户的社交足迹。",
+          "usage": "你看了sherlock项目没？感觉挺有意思的，可以通过用户名搜索社交账号，你试过了吗？",
+          "source": "https://github.com/sherlock-project/sherlock",
+          "tags": [
+            "GitHub",
+            "开源"
+          ]
+        },
+        {
+          "title": "OpenMausBot",
+          "summary": "OpenMausBot开源替代",
+          "detail": "OpenMausBot是一个开源的Grok Bot替代方案，支持虚拟机和自动化脚本，开发者可以通过该项目快速搭建自己的自动化系统。",
+          "usage": "OpenMausBot你用过没？感觉是个不错的Grok Bot替代方案，支持虚拟机和自动化脚本，你试过了吗？",
+          "source": "https://github.com/milind-soni/OpenMausBot",
+          "tags": [
+            "开源",
+            "自动化"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "Stack Overflow梗",
+          "summary": "Stack Overflow热门梗",
+          "detail": "Stack Overflow最近出现了一个热门梗，开发者们通过幽默的问答形式调侃了编程中的常见问题，引发了广泛的讨论和转发。",
+          "usage": "你看了Stack Overflow上的那个梗没？感觉挺有意思的，开发者们通过幽默的问答形式调侃了编程中的常见问题，你笑了吗？",
+          "source": "",
+          "tags": [
+            "Stack Overflow",
+            "梗"
+          ]
+        },
+        {
+          "title": "程序员段子",
+          "summary": "程序员段子集锦",
+          "detail": "最近程序员圈子里流传了一批新的段子，涵盖了从代码调试到项目管理的各种场景，开发者们通过这些段子分享了自己的工作和生活体验。",
+          "usage": "你看了最新的程序员段子没？感觉挺有意思的，涵盖了从代码调试到项目管理的各种场景，你笑了吗？",
+          "source": "",
+          "tags": [
+            "程序员",
+            "段子"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-09T02:56:51.931Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2033,
+    "completion_tokens": 1504,
+    "total_tokens": 3537,
+    "cost_usd": 0.00198912,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 9,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}

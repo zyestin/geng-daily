@@ -1,78 +1,192 @@
 {
   "categories": [
     {
-      "name": "今日头条",
+      "name": "📰 今日头条",
       "icon": "📰",
       "items": [
         {
-          "title": "物流仓库跟数据中心抢电",
-          "summary": "欧洲物流仓库用电需求激增，跟数据中心争抢电源！",
-          "detail": "最近，荷兰的Zeeman配送中心因为装新自动化拣选系统，电需求直接超标，导致电力短缺，开始和数据中心争电用。没想到，搬个货需要的电比你想象中多得多，真是‘车到山前必有路’的节奏。家人们，谁懂啊，这电费会不会又要涨了？",
-          "usage": "💡 讨论电力危机时 \n💬 ‘配送中心跟数据中心抢电，电费又要涨了！’ \n🔥 物流 自动化 电力",
-          "source": "https://www.huxiu.com/article/4903973.html?f=rss",
+          "title": "BLG爆冷胜T1",
+          "summary": "BLG 3-1战胜T1晋级决赛",
+          "detail": "电竞圈炸锅！2026年11月8日，BLG在S16半决赛中以3-1战胜T1，晋级决赛。Faker的传奇地位再次受到挑战，BLG的粉丝们在社交媒体上狂欢。T1的粉丝们则表示Faker老了，该退役了。这场胜利也让BLG成为中国电竞的新希望。",
+          "usage": "💡 午餐时间聊电竞\n💬 BLG居然赢了T1，Faker真的要退役了吗？\n🔥 BLG T1 电竞",
+          "source": "https://www.toutiao.com/trending/7705980444109442579/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227705980444109442579%22%2C%22hot_board_impr_id%22%3A%222026110910565216AC34193B9CB5F3CE17%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22BLG+3-1%E6%88%98%E8%83%9CT1%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%22%7D&rank=&style_id=40132&topic_id=7705980444109442579",
           "tags": [
-            "物流",
-            "电力",
-            "自动化"
+            "电竞",
+            "BLG",
+            "T1"
           ]
         },
         {
-          "title": "股灾背后的“蓝色海啸”",
-          "summary": "得州引发股灾，数据中心受重创！",
-          "detail": "得州那边又双叒叕出事了，一场由“蓝色海啸”引发的股灾，直接波及了当地的数据中心。小山丘上的油井喷出，整个市场瞬间崩盘。看来，得州的牛仔们真是把‘金融风暴’和‘自然灾害’玩出了新花样，真是让人见证了什么叫无常啊！",
-          "usage": "💡 聊聊金融市场波动时 \n💬 ‘得州的蓝色海啸引发股灾，真是飞起了！’ \n🔥 股市 灾难 数据中心",
-          "source": "https://www.huxiu.com/article/4903971.html?f=rss",
+          "title": "光刻机突破",
+          "summary": "中国新一代光刻机模型亮相",
+          "detail": "2026年11月9日，中国自主研发的新一代光刻机模型在深圳亮相，标志着中国在芯片制造领域迈出了重要一步。这台光刻机采用了全新的光学系统和控制系统，预计将大幅提升芯片制造效率。科技圈纷纷表示，这是中国在芯片领域的又一重大突破。",
+          "usage": "💡 下午茶时间聊科技\n💬 中国光刻机终于有突破了，芯片自主有望了！\n🔥 光刻机 芯片 科技",
+          "source": "https://m.baidu.com/s?word=%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%96%B0%E4%B8%80%E4%BB%A3%E5%85%89%E5%88%BB%E6%9C%BA%E6%A8%A1%E5%9E%8B%E4%BA%AE%E7%9B%B8&sa=fyb_news",
           "tags": [
-            "股市",
-            "股灾",
-            "得州"
+            "光刻机",
+            "芯片",
+            "科技"
           ]
         }
       ]
     },
     {
-      "name": "组织变动",
+      "name": "🎤 大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "马斯克预警",
+          "summary": "马斯克预警新云行业将面临淘汰与整合",
+          "detail": "2026年10月25日，埃隆·马斯克在X上发文，预警新云行业将面临淘汰与整合。他表示，当前新云行业的竞争激烈，许多公司可能会被淘汰。马斯克的这番话引发了科技圈的广泛讨论，有人认为这是在为他的xAI铺路，也有人认为是给竞争对手的警告。",
+          "usage": "💡 午休时间聊大佬\n💬 马斯克又在搞事情了，新云行业要凉了？\n🔥 马斯克 新云 淘汰",
+          "source": "https://www.huxiu.com/article/4904041.html?f=rss",
+          "tags": [
+            "马斯克",
+            "新云",
+            "淘汰"
+          ]
+        },
+        {
+          "title": "贾跃亭卖机器人",
+          "summary": "贾跃亭的FF机器人单月销售351台",
+          "detail": "造车不行，那就造机器人！贾跃亭的FF机器人在2026年10月单月销售351台，累计销量破千。虽然销量看似不错，但业内人士指出，这些销量包括渠道铺货和试点，真正落地的还有限。贾跃亭的转型能否成功，仍需时间验证。",
+          "usage": "💡 下午茶时间聊大佬\n💬 贾跃亭卖机器人比造车还成功？\n🔥 贾跃亭 机器人 FF",
+          "source": "https://www.huxiu.com/article/4902608.html?f=rss",
+          "tags": [
+            "贾跃亭",
+            "机器人",
+            "FF"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "荣耀智能体",
+          "summary": "荣耀宣布建设智能体服务网络",
+          "detail": "2026年11月6日，荣耀CEO李健在广州宣布，荣耀将联合中国移动等合作伙伴建设智能体服务网络，并计划在Magic9系列手机中率先应用。荣耀的这一举动被视为在AI领域的又一次重要布局，智能体服务网络将为用户提供更加智能化的体验。",
+          "usage": "💡 午休时间聊科技\n💬 荣耀要搞智能体服务网络，Magic9值得期待吗？\n🔥 荣耀 智能体 手机",
+          "source": "https://www.huxiu.com/article/4904044.html?f=rss",
+          "tags": [
+            "荣耀",
+            "智能体",
+            "手机"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔀 组织变动",
       "icon": "🔀",
       "items": [
         {
-          "title": "高能时代更名",
-          "summary": "高能环境更名为高能时代，重心转型！",
-          "detail": "高能环境近日正式宣布将公司证券简称更改为“高能时代”，这次更名背后是公司经营重心向更可持续和环保的方向转型。看来，环保不仅是个口号，还是生存之道，未来的市场，谁掌握了绿色科技，谁就握住了未来哦！",
-          "usage": "💡 讨论企业转型时 \n💬 ‘高能环境更名为高能时代，走上环保之路！’ \n🔥 高能环境 更名 转型",
-          "source": "https://www.huxiu.com/article/4903970.html?f=rss",
+          "title": "一汽大众取消年终奖",
+          "summary": "一汽大众取消两年“年终奖”",
+          "detail": "2026年11月9日，一汽大众内部口头传达，2025年度和2026年度的BD奖金将取消发放。BD在内部也被称为“保单”，约占全年总收入的近一半。这一决定引发了员工的强烈不满，不少人表示将考虑离职。",
+          "usage": "💡 午餐时间聊职场\n💬 一汽大众取消年终奖，员工要造反了？\n🔥 一汽大众 年终奖 裁员",
+          "source": "https://www.huxiu.com/article/4904040.html?f=rss",
           "tags": [
-            "高能环境",
-            "更名",
-            "转型"
+            "一汽大众",
+            "年终奖",
+            "裁员"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "AI推理成本",
+          "summary": "五家公司在压推理成本",
+          "detail": "2026年11月9日，五家AI公司宣布将联合推出新的推理成本优化方案，旨在降低AI模型的运行成本。这一方案将通过优化算法和硬件结合的方式，大幅降低推理成本，预计将在未来几个月内投入使用。",
+          "usage": "💡 午休时间聊AI\n💬 AI推理成本终于要降了，五家公司联手搞事情！\n🔥 AI 推理成本 优化",
+          "source": "https://www.huxiu.com/article/4904027.html?f=rss",
+          "tags": [
+            "AI",
+            "推理成本",
+            "优化"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📱 新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "Magic9发布",
+          "summary": "荣耀Magic9系列发布",
+          "detail": "2026年11月9日，荣耀在广州发布了Magic9系列手机，主打智能体服务网络。Magic9采用了全新的AI芯片，支持智能推荐和自然语言处理。荣耀CEO李健表示，Magic9将重新定义智能手机的智能化体验。",
+          "usage": "💡 午休时间聊新品\n💬 荣耀Magic9发布，智能体服务网络来了！\n🔥 荣耀 Magic9 智能体",
+          "source": "https://www.huxiu.com/article/4904044.html?f=rss",
+          "tags": [
+            "荣耀",
+            "Magic9",
+            "智能体"
+          ]
+        },
+        {
+          "title": "FF机器人亮相",
+          "summary": "贾跃亭的FF机器人亮相",
+          "detail": "2026年11月9日，贾跃亭的FF机器人在北美亮相，单月销售351台，累计销量破千。FF机器人采用了全新的AI技术，支持多种应用场景。业内人士认为，FF机器人的成功将为贾跃亭的转型带来新的希望。",
+          "usage": "💡 下午茶时间聊新品\n💬 贾跃亭的FF机器人亮相，销量破千！\n🔥 贾跃亭 FF 机器人",
+          "source": "https://www.huxiu.com/article/4902608.html?f=rss",
+          "tags": [
+            "贾跃亭",
+            "FF",
+            "机器人"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🎬 创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "FF机器人逆袭",
+          "summary": "贾跃亭的FF机器人逆袭",
+          "detail": "2026年11月9日，贾跃亭的FF机器人在北美逆袭，单月销售351台，累计销量破千。FF机器人的成功被视为贾跃亭转型的重要一步，业内人士认为，FF机器人将为贾跃亭的转型带来新的希望。",
+          "usage": "💡 下午茶时间聊创业\n💬 贾跃亭的FF机器人逆袭，转型成功有望！\n🔥 贾跃亭 FF 机器人",
+          "source": "https://www.huxiu.com/article/4902608.html?f=rss",
+          "tags": [
+            "贾跃亭",
+            "FF",
+            "机器人"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-08T16:46:00.663Z",
-  "slot": "weekend-evening",
-  "slot_label": "周末傍晚 · 家庭闲聊",
+  "generated_at": "2026-11-09T03:02:07.027Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
-    "model": "openai/gpt-4o-mini",
-    "actual_model": "openai/gpt-4o-mini",
-    "prompt_tokens": 5105,
-    "completion_tokens": 3208,
-    "total_tokens": 8313,
-    "cost_usd": 0.00269055,
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 5668,
+    "completion_tokens": 3416,
+    "total_tokens": 9084,
+    "cost_usd": 0.004854,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 13,
-      "published": 3
+      "dropped_orphans": 6,
+      "published": 10
     },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 4,
+        "huxiu": 12,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 16
+      "total": 23
     }
   }
 }

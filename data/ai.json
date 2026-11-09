@@ -1,240 +1,240 @@
 {
   "categories": [
     {
-      "name": "炸裂新闻",
+      "name": "💥 炸裂新闻",
       "icon": "💥",
       "items": [
         {
-          "title": "奥特曼警告！AI圈寒冬来临",
-          "summary": "世界模型资金撤离，AI行业风险加剧。",
-          "detail": "近期，有消息称资本正在撤离“世界模型”领域，许多行业专家担心，AI行业可能面临严峻考验。随着投资者的谨慎态度加剧，未来几年将考验企业的实力与创新能力。可以说，曾经的热潮正在被冷静的现实泼了一盆冷水，AI公司可得加倍努力了。",
-          "usage": "💡 AI投资动向话题时切入 \n💬 “AI圈可能要经历寒冬了！” \n🔥 AI投资 风险 资金撤离",
-          "source": "https://www.qbitai.com/2026/11/508466.html",
+          "title": "GPT-6 Cyber",
+          "summary": "OpenAI发布GPT-6 Cyber",
+          "detail": "OpenAI最新发布的GPT-6 Cyber专攻网络安全，号称能发现可利用漏洞并防御攻击。以前黑客熬夜找漏洞，现在GPT-6 Cyber 7×24 小时不眨眼地找——安全工程师的护肝片销量怕是要涨。",
+          "usage": "💡 聊网络安全时\n💬 GPT-6 Cyber 7×24小时不眨眼地找漏洞，安全工程师的护肝片销量要涨🔥 GPT-6 Cyber",
+          "source": "https://openai.com/index/introducing-gpt-6-cyber",
           "tags": [
-            "AI投资",
-            "风险"
+            "GPT-6",
+            "网络安全"
           ]
         },
         {
-          "title": "OpenAI再次融资不力",
-          "summary": "融资缩水，OpenAI的市值面临压力。",
-          "detail": "OpenAI最新融资仅到账110亿美元，远不及预期的一半。投资者的谨慎已经成为新常态，尤其是在当前经济环境下，AI巨头的未来将充满挑战。硅谷的投资人也表示，未来的投资将更加理性，大项目的运作将不可避免地受到影响。",
-          "usage": "💡 提及投资谨慎时引入 \n💬 “OpenAI的融资缩水，真让人意外！” \n🔥 融资 市值 压力",
-          "source": "https://www.qbitai.com/2026/11/508344.html",
+          "title": "GitHub不堪重负",
+          "summary": "AI写代码太快",
+          "detail": "AI写代码速度太快，GitHub基础设施不堪重负。OpenAI收购替代品，A社原地自研，马斯克也要搞。程序员们纷纷表示：这速度谁顶得住啊？",
+          "usage": "💡 聊AI写代码时\n💬 AI写代码速度太快，GitHub都顶不住了🔥 AI写代码",
+          "source": "https://www.qbitai.com/2026/11/508449.html",
           "tags": [
-            "融资",
-            "OpenAI"
+            "AI写代码",
+            "GitHub"
           ]
         }
       ]
     },
     {
-      "name": "新模型发布",
+      "name": "🚀 新模型发布",
       "icon": "🚀",
       "items": [
         {
-          "title": "OpenAI发布GPT-6 Cyber",
-          "summary": "新模型提高了网络安全应对能力。",
-          "detail": "OpenAI刚推出的GPT-6 Cyber专为网络安全而生，具备更强的漏洞识别能力。相较于前一代模型，此次更新在处理复杂安全问题时的准确率提高了约30%。今后，安全团队将能更高效地反应和应对威胁，简直是网络安全领域的“超级英雄”。",
-          "usage": "💡 聊到网络安全话题时推荐 \n💬 “听说OpenAI的GPT-6 Cyber超强！” \n🔥 网络安全 模型 更新",
+          "title": "GPT-6 Cyber",
+          "summary": "OpenAI发布GPT-6 Cyber",
+          "detail": "OpenAI最新发布的GPT-6 Cyber专攻网络安全，号称能发现可利用漏洞并防御攻击。以前黑客熬夜找漏洞，现在GPT-6 Cyber 7×24 小时不眨眼地找——安全工程师的护肝片销量怕是要涨。",
+          "usage": "💡 聊网络安全时\n💬 GPT-6 Cyber 7×24小时不眨眼地找漏洞，安全工程师的护肝片销量要涨🔥 GPT-6 Cyber",
           "source": "https://openai.com/index/introducing-gpt-6-cyber",
           "tags": [
-            "OpenAI",
-            "模型"
+            "GPT-6",
+            "网络安全"
           ]
         },
         {
-          "title": "Cult.fit与Codex强强联手",
-          "summary": "利用Codex提升团队效率。",
-          "detail": "Cult.fit公司与OpenAI的Codex合作，推动团队工具的构建与应用。比起传统手段，使用Codex后，开发和营销工作效率提升了40%以上。这意味着，普通团队也能借助强大的AI工具快速迭代与创新，未来或许会迎来更多新兴企业的崛起。",
-          "usage": "💡 提到企业效率提升时可以聊 \n💬 “用Codex的Cult.fit效率大涨！” \n🔥 企业效率 Codex AI",
-          "source": "https://openai.com/index/cultfit-builds-with-codex",
+          "title": "BioBasicsBench",
+          "summary": "OpenAI发布BioBasicsBench",
+          "detail": "OpenAI新推出了BioBasicsBench，包含100项任务的基准测试，用于衡量AI代理处理湿实验室科学的能力。未来实验室AI助手可能要抢饭碗了。",
+          "usage": "💡 聊AI科研时\n💬 OpenAI发布BioBasicsBench，实验室AI助手要来抢饭碗了🔥 BioBasicsBench",
+          "source": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
           "tags": [
-            "Codex",
-            "效率"
+            "BioBasicsBench",
+            "AI科研"
           ]
         }
       ]
     },
     {
-      "name": "AI大佬言论",
+      "name": "🗣️ AI 大佬言论",
       "icon": "🗣️",
       "items": [
         {
-          "title": "Jeff Dean谈AI未来",
-          "summary": "AI行业未来将转向可持续发展。",
-          "detail": "在一次公开对谈中，Google的Jeff Dean表示，未来AI行业需要关注可持续性和道德问题，尤其是在技术快速发展的今天。他提到：“我们必须确保技术对社会的影响是正面的，不能只追求速成。”这透露出对行业未来健康发展的深刻思考。",
-          "usage": "💡 聊到可持续性发展时引入 \n💬 “Jeff Dean强调了AI的道德责任。” \n🔥 AI未来 可持续 伦理",
+          "title": "Jeff Dean李飞飞对谈",
+          "summary": "Jeff Dean李飞飞最新对谈",
+          "detail": "Jeff Dean和李飞飞的最新对谈全是RSI非共识。两位AI大佬谈笑风生，话题从AI未来到技术趋势无所不包。",
+          "usage": "💡 聊AI未来时\n💬 Jeff Dean和李飞飞的最新对谈全是RSI非共识🔥 Jeff Dean 李飞飞",
           "source": "https://www.qbitai.com/2026/11/508196.html",
           "tags": [
-            "可持续性",
-            "Jeff Dean"
+            "Jeff Dean",
+            "李飞飞"
           ]
         },
         {
-          "title": "马斯克称AI需监管",
-          "summary": "AI发展离不开监管与规范。",
-          "detail": "在最新的科技会议上，Elon Musk呼吁对AI进行更强有力的监管，指出“技术的失控将会带来灾难性后果”。他认为，行业内应构建相应的政策以确保AI发展的安全性与道德性。这一言论再次引爆了对AI管理的讨论。",
-          "usage": "💡 政策讨论时可以引用 \n💬 “马斯克认为AI要加强监管。” \n🔥 AI监管 马斯克",
-          "source": "",
+          "title": "Nvidia CEO绯闻",
+          "summary": "Nvidia CEO绯闻",
+          "detail": "Nvidia CEO Jensen Huang被曝与中国间谍有染，公司已启动调查。黄老板的绯闻让Nvidia股价一度跳水。",
+          "usage": "💡 聊Nvidia时\n💬 Nvidia CEO Jensen Huang绯闻曝光，股价一度跳水🔥 Jensen Huang",
+          "source": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
           "tags": [
-            "监管",
-            "Elon Musk"
+            "Nvidia",
+            "Jensen Huang"
           ]
         }
       ]
     },
     {
-      "name": "巨头动态",
+      "name": "🏢 巨头动态",
       "icon": "🏢",
       "items": [
         {
-          "title": "OpenAI收购GitHub替代品！",
-          "summary": "OpenAI重夺AI写代码市场。",
-          "detail": "为了应对AI写代码的速度，OpenAI已收购一款替代GitHub的工具。这表明他们的目标是提升基础设施，适应日益增长的需求。随着市场竞争加剧，OpenAI正在加速布局，争取在这个领域重新夺回主动权。",
-          "usage": "💡 提到开发工具时引入 \n💬 “OpenAI收购GitHub替代品了！” \n🔥 收购 开发工具 市场竞争",
-          "source": "https://www.qbitai.com/2026/11/508449.html",
+          "title": "OpenAI融资缩水",
+          "summary": "OpenAI新融资110亿美元",
+          "detail": "OpenAI最新融资到账110亿美元，不及原计划一半。硅谷投资人也开始谨慎了，AI热潮或许正在降温。",
+          "usage": "💡 聊AI融资时\n💬 OpenAI最新融资缩水，硅谷投资人也谨慎了🔥 OpenAI 融资",
+          "source": "https://www.qbitai.com/2026/11/508344.html",
           "tags": [
             "OpenAI",
-            "收购"
-          ]
-        },
-        {
-          "title": "Meta推出Spaces协作工具",
-          "summary": "Meta增强Muse代理人功能。",
-          "detail": "Meta最近发布了Spaces，一种新型协作工具，旨在提升与Muse代理人的互动。这一功能将使得用户可以通过更直观的方式与AI合作，大幅提升工作效率。面对日益激烈的市场竞争，Meta的不断创新显示了他们在AI领域不甘示弱的决心。",
-          "usage": "💡 聊到新工具时推荐使用 \n💬 “Meta的新协作工具Spaces了解一下！” \n🔥 Meta AI 协作工具",
-          "source": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-          "tags": [
-            "Meta",
-            "工具"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "产品落地",
-      "icon": "🛠️",
-      "items": [
-        {
-          "title": "ChatGPT Ads助力Flipsnack",
-          "summary": "Flipsnack利用AI提升产品注册量。",
-          "detail": "Flipsnack使用ChatGPT Ads优化广告活动，成功吸引更多用户注册，注册量增长约55%。这一策略显示了AI在市场营销中的巨大潜力，未来将有更多公司借助AI技术实现业务增长，迅速进入市场。",
-          "usage": "💡 聊到市场营销时引入 \n💬 “Flipsnack用ChatGPT Ads提高注册量！” \n🔥 市场营销 ChatGPT AI",
-          "source": "https://openai.com/ads/customers/flipsnack",
-          "tags": [
-            "市场营销",
-            "ChatGPT"
-          ]
-        },
-        {
-          "title": "Merge与OpenAI合作",
-          "summary": "Merge借助OpenAI工具增效。",
-          "detail": "Merge公司利用OpenAI的技术整合产品与商业工具，显著提升了团队工作效率。通过AI协助，产品开发与市场反馈的融合更加迅速。这样的发展意味着，借助AI优化流程的趋势将愈发明显，未来AI将成为企业的“标配”工具。",
-          "usage": "💡 聊到企业工具时引入 \n💬 “Merge和OpenAI合作，效率大提升！” \n🔥 合作 效率 AI工具",
-          "source": "https://openai.com/index/merge-builds-with-openai",
-          "tags": [
-            "Merge",
-            "效率"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "开源江湖",
-      "icon": "🔓",
-      "items": [
-        {
-          "title": "DeepSeek开源新进展",
-          "summary": "DeepSeek推出新版本，功能增强。",
-          "detail": "DeepSeek最近宣布将其新版本开源，加入了众多功能增强。这一举动不仅为开发者提供了更灵活的使用选择，还进一步加速了开源社区的创新步伐。随着越来越多的公司支持开源，未来将迎来更多不同的AI应用场景。",
-          "usage": "💡 在聊开源时提到 \n💬 “DeepSeek的新版本开源了，快去试试！” \n🔥 开源 DeepSeek AI",
-          "source": "",
-          "tags": [
-            "开源",
-            "DeepSeek"
-          ]
-        },
-        {
-          "title": "Llama发布新版权重",
-          "summary": "Llama续写开源传奇。",
-          "detail": "Llama最新发布了其模型的权重，开发者们欢呼雀跃。该版本在多个任务上表现出色，大幅提升了模型的应用场景。随着开源模型的逐渐成熟，更多开发者将能构建出更具创新性的应用，推动整个行业的发展。",
-          "usage": "💡 提到开源模型时引入 \n💬 “Llama的新权重发布了，快来看看！” \n🔥 开源 Llama 模型",
-          "source": "",
-          "tags": [
-            "Llama",
-            "开源"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "研究突破",
-      "icon": "🔬",
-      "items": [
-        {
-          "title": "物理要素整合研究",
-          "summary": "重大突破，世界模型新进展。",
-          "detail": "浙大的博士生近期成功将十几种物理要素整合到一个模型中，展现出强大的计算与理论能力。这一研究不仅在学术上意义重大，也为后续的工业应用提供了新的可能性，推动了智能化和自动化的进程。",
-          "usage": "💡 提到科技进步时引入 \n💬 “浙大博士生整合物理要素取得突破！” \n🔥 科技突破 物理模型",
-          "source": "https://www.qbitai.com/2026/11/508236.html",
-          "tags": [
-            "研究",
-            "技术突破"
-          ]
-        },
-        {
-          "title": "BioBasicsBench新标准发布",
-          "summary": "OpenAI推出生物科学基准。",
-          "detail": "OpenAI推出了BioBasicsBench，一个包含100个任务的基准，用于评估AI在实验室科学中的表现。这个基准的发布，将推动AI在生物科学领域的应用落地，可能会引发新的研究热潮，让科学家们更有效地运用AI技术。",
-          "usage": "💡 聊到AI在科学领域应用时引入 \n💬 “OpenAI推出BioBasicsBench，推动科研进展！” \n🔥 AI 科研 生物科学",
-          "source": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-          "tags": [
-            "生物科学",
-            "OpenAI"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "行业风向",
-      "icon": "📈",
-      "items": [
-        {
-          "title": "AI行业融资寒凉",
-          "summary": "行业融资步步紧缩。",
-          "detail": "据报道，随着经济环境的变化，AI行业的融资热度显著降低，许多投资者开始收紧钱包。尤其是“世界模型”领域，投资者的信心正面临严峻考验。这一趋势可能将引发行业内的结构性调整，创新企业需要更加努力才能生存。",
-          "usage": "💡 提到投资环境变化时引入 \n💬 “现在AI行业融资越来越难了！” \n🔥 投资 融资 行业调整",
-          "source": "",
-          "tags": [
-            "行业动态",
             "融资"
           ]
         },
         {
-          "title": "数据中心开发挑战",
-          "summary": "数据中心建设面临困境。",
-          "detail": "Crusoe公司将其在怀俄明州的数据中心项目卖给Google，足见AI数据中心开发的不易。由于高昂的建设成本和不确定的运营风险，未来AI行业的基础设施建设可能会遇到更大挑战，企业需重新评估投资方向。",
-          "usage": "💡 提到数据中心时推荐 \n💬 “数据中心的开发真不容易啊！” \n🔥 数据中心 挑战 AI建设",
+          "title": "Google收购Crusoe",
+          "summary": "Google收购Crusoe",
+          "detail": "Google收购了Crusoe的怀俄明数据中心项目，显示出开发大规模AI数据中心的挑战。巨头们的AI军备竞赛愈演愈烈。",
+          "usage": "💡 聊AI数据中心时\n💬 Google收购Crusoe，AI军备竞赛愈演愈烈🔥 Google Crusoe",
           "source": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
           "tags": [
-            "数据中心",
-            "AI基础设施"
+            "Google",
+            "Crusoe"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "Cult.fit用Codex",
+          "summary": "Cult.fit用Codex加速",
+          "detail": "Cult.fit使用Codex帮助团队更快构建工具并改变工作方式。未来企业AI助手可能要普及了。",
+          "usage": "💡 聊企业AI时\n💬 Cult.fit用Codex加速，未来企业AI助手要普及了🔥 Cult.fit Codex",
+          "source": "https://openai.com/index/cultfit-builds-with-codex",
+          "tags": [
+            "Cult.fit",
+            "Codex"
+          ]
+        },
+        {
+          "title": "Meta推出Spaces",
+          "summary": "Meta推出Spaces",
+          "detail": "Meta推出Spaces，一种与Muse代理协作的新方式。Muse代理的功能和集成继续增加，未来AI协作工具可能要爆发了。",
+          "usage": "💡 聊AI协作时\n💬 Meta推出Spaces，AI协作工具要爆发了🔥 Meta Spaces",
+          "source": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+          "tags": [
+            "Meta",
+            "Spaces"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "Artex AI工具泄露",
+          "summary": "Artex AI工具泄露",
+          "detail": "数百个Artex AI渗透测试工具被发现公开暴露在网上，安全问题再次引发关注。开源AI工具的安全性亟待提升。",
+          "usage": "💡 聊开源AI安全时\n💬 Artex AI工具泄露，开源AI安全性亟待提升🔥 Artex AI 安全",
+          "source": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+          "tags": [
+            "Artex",
+            "AI工具"
+          ]
+        },
+        {
+          "title": "DeepSeek抢跑",
+          "summary": "DeepSeek抢跑下一代Agent",
+          "detail": "DeepSeek抢先推出下一代Agent Harness，解决单Session问题。两大Agent玩家不谋而合，未来AI代理竞争将更加激烈。",
+          "usage": "💡 聊AI代理时\n💬 DeepSeek抢跑下一代Agent，AI代理竞争将更加激烈🔥 DeepSeek Agent",
+          "source": "https://www.qbitai.com/2026/11/508264.html",
+          "tags": [
+            "DeepSeek",
+            "Agent"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "浙大00后博士生",
+          "summary": "浙大00后博士生突破",
+          "detail": "浙大00后博士生将十几种物理要素装进一个世界模型，华为昇腾原生支持。未来AI科研可能要年轻化了。",
+          "usage": "💡 聊AI科研时\n💬 浙大00后博士生突破，AI科研要年轻化了🔥 浙大 世界模型",
+          "source": "https://www.qbitai.com/2026/11/508236.html",
+          "tags": [
+            "浙大",
+            "世界模型"
+          ]
+        },
+        {
+          "title": "OpenAI社区协议",
+          "summary": "OpenAI发布社区协议",
+          "detail": "OpenAI发布国家社区契约和计算园区政策蓝图，以保护当地社区免受AI基础设施影响。未来AI发展更要注重社会责任了。",
+          "usage": "💡 聊AI社会责任时\n💬 OpenAI发布社区协议，AI发展更要注重社会责任了🔥 OpenAI 社区协议",
+          "source": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+          "tags": [
+            "OpenAI",
+            "社区协议"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "资本撤离世界模型",
+          "summary": "资本撤离世界模型",
+          "detail": "资本正在撤离“世界模型”，AI投资热潮或许正在降温。未来AI行业可能要进入调整期了。",
+          "usage": "💡 聊AI投资时\n💬 资本撤离世界模型，AI行业可能要进入调整期了🔥 世界模型 投资",
+          "source": "https://www.qbitai.com/2026/11/508466.html",
+          "tags": [
+            "世界模型",
+            "投资"
+          ]
+        },
+        {
+          "title": "美国中期选举",
+          "summary": "美国中期选举影响AI",
+          "detail": "美国中期选举结果可能重塑AI行业，民主党历史性胜利或将推动AI政策变革。未来AI监管可能要更加严格了。",
+          "usage": "💡 聊AI政策时\n💬 美国中期选举可能重塑AI行业，未来AI监管要更严格了🔥 美国中期选举 AI政策",
+          "source": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+          "tags": [
+            "美国中期选举",
+            "AI政策"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-08T16:51:04.395Z",
-  "slot": "weekend-evening",
-  "slot_label": "周末傍晚 · 家庭闲聊",
+  "generated_at": "2026-11-09T03:03:51.357Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
-    "model": "openai/gpt-4o-mini",
-    "actual_model": "openai/gpt-4o-mini",
-    "prompt_tokens": 3753,
-    "completion_tokens": 3088,
-    "total_tokens": 6841,
-    "cost_usd": 0.00241575,
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3444,
+    "completion_tokens": 2518,
+    "total_tokens": 5962,
+    "cost_usd": 0.0033431,
     "free": false,
     "sources": {
       "per_source": {

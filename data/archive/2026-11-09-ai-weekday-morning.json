@@ -1,0 +1,248 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "GPT-6 Cyber",
+          "summary": "OpenAI发布GPT-6 Cyber",
+          "detail": "OpenAI最新发布的GPT-6 Cyber专攻网络安全，号称能发现可利用漏洞并防御攻击。以前黑客熬夜找漏洞，现在GPT-6 Cyber 7×24 小时不眨眼地找——安全工程师的护肝片销量怕是要涨。",
+          "usage": "💡 聊网络安全时\n💬 GPT-6 Cyber 7×24小时不眨眼地找漏洞，安全工程师的护肝片销量要涨🔥 GPT-6 Cyber",
+          "source": "https://openai.com/index/introducing-gpt-6-cyber",
+          "tags": [
+            "GPT-6",
+            "网络安全"
+          ]
+        },
+        {
+          "title": "GitHub不堪重负",
+          "summary": "AI写代码太快",
+          "detail": "AI写代码速度太快，GitHub基础设施不堪重负。OpenAI收购替代品，A社原地自研，马斯克也要搞。程序员们纷纷表示：这速度谁顶得住啊？",
+          "usage": "💡 聊AI写代码时\n💬 AI写代码速度太快，GitHub都顶不住了🔥 AI写代码",
+          "source": "https://www.qbitai.com/2026/11/508449.html",
+          "tags": [
+            "AI写代码",
+            "GitHub"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "GPT-6 Cyber",
+          "summary": "OpenAI发布GPT-6 Cyber",
+          "detail": "OpenAI最新发布的GPT-6 Cyber专攻网络安全，号称能发现可利用漏洞并防御攻击。以前黑客熬夜找漏洞，现在GPT-6 Cyber 7×24 小时不眨眼地找——安全工程师的护肝片销量怕是要涨。",
+          "usage": "💡 聊网络安全时\n💬 GPT-6 Cyber 7×24小时不眨眼地找漏洞，安全工程师的护肝片销量要涨🔥 GPT-6 Cyber",
+          "source": "https://openai.com/index/introducing-gpt-6-cyber",
+          "tags": [
+            "GPT-6",
+            "网络安全"
+          ]
+        },
+        {
+          "title": "BioBasicsBench",
+          "summary": "OpenAI发布BioBasicsBench",
+          "detail": "OpenAI新推出了BioBasicsBench，包含100项任务的基准测试，用于衡量AI代理处理湿实验室科学的能力。未来实验室AI助手可能要抢饭碗了。",
+          "usage": "💡 聊AI科研时\n💬 OpenAI发布BioBasicsBench，实验室AI助手要来抢饭碗了🔥 BioBasicsBench",
+          "source": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+          "tags": [
+            "BioBasicsBench",
+            "AI科研"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "Jeff Dean李飞飞对谈",
+          "summary": "Jeff Dean李飞飞最新对谈",
+          "detail": "Jeff Dean和李飞飞的最新对谈全是RSI非共识。两位AI大佬谈笑风生，话题从AI未来到技术趋势无所不包。",
+          "usage": "💡 聊AI未来时\n💬 Jeff Dean和李飞飞的最新对谈全是RSI非共识🔥 Jeff Dean 李飞飞",
+          "source": "https://www.qbitai.com/2026/11/508196.html",
+          "tags": [
+            "Jeff Dean",
+            "李飞飞"
+          ]
+        },
+        {
+          "title": "Nvidia CEO绯闻",
+          "summary": "Nvidia CEO绯闻",
+          "detail": "Nvidia CEO Jensen Huang被曝与中国间谍有染，公司已启动调查。黄老板的绯闻让Nvidia股价一度跳水。",
+          "usage": "💡 聊Nvidia时\n💬 Nvidia CEO Jensen Huang绯闻曝光，股价一度跳水🔥 Jensen Huang",
+          "source": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+          "tags": [
+            "Nvidia",
+            "Jensen Huang"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI融资缩水",
+          "summary": "OpenAI新融资110亿美元",
+          "detail": "OpenAI最新融资到账110亿美元，不及原计划一半。硅谷投资人也开始谨慎了，AI热潮或许正在降温。",
+          "usage": "💡 聊AI融资时\n💬 OpenAI最新融资缩水，硅谷投资人也谨慎了🔥 OpenAI 融资",
+          "source": "https://www.qbitai.com/2026/11/508344.html",
+          "tags": [
+            "OpenAI",
+            "融资"
+          ]
+        },
+        {
+          "title": "Google收购Crusoe",
+          "summary": "Google收购Crusoe",
+          "detail": "Google收购了Crusoe的怀俄明数据中心项目，显示出开发大规模AI数据中心的挑战。巨头们的AI军备竞赛愈演愈烈。",
+          "usage": "💡 聊AI数据中心时\n💬 Google收购Crusoe，AI军备竞赛愈演愈烈🔥 Google Crusoe",
+          "source": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+          "tags": [
+            "Google",
+            "Crusoe"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "Cult.fit用Codex",
+          "summary": "Cult.fit用Codex加速",
+          "detail": "Cult.fit使用Codex帮助团队更快构建工具并改变工作方式。未来企业AI助手可能要普及了。",
+          "usage": "💡 聊企业AI时\n💬 Cult.fit用Codex加速，未来企业AI助手要普及了🔥 Cult.fit Codex",
+          "source": "https://openai.com/index/cultfit-builds-with-codex",
+          "tags": [
+            "Cult.fit",
+            "Codex"
+          ]
+        },
+        {
+          "title": "Meta推出Spaces",
+          "summary": "Meta推出Spaces",
+          "detail": "Meta推出Spaces，一种与Muse代理协作的新方式。Muse代理的功能和集成继续增加，未来AI协作工具可能要爆发了。",
+          "usage": "💡 聊AI协作时\n💬 Meta推出Spaces，AI协作工具要爆发了🔥 Meta Spaces",
+          "source": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+          "tags": [
+            "Meta",
+            "Spaces"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "Artex AI工具泄露",
+          "summary": "Artex AI工具泄露",
+          "detail": "数百个Artex AI渗透测试工具被发现公开暴露在网上，安全问题再次引发关注。开源AI工具的安全性亟待提升。",
+          "usage": "💡 聊开源AI安全时\n💬 Artex AI工具泄露，开源AI安全性亟待提升🔥 Artex AI 安全",
+          "source": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+          "tags": [
+            "Artex",
+            "AI工具"
+          ]
+        },
+        {
+          "title": "DeepSeek抢跑",
+          "summary": "DeepSeek抢跑下一代Agent",
+          "detail": "DeepSeek抢先推出下一代Agent Harness，解决单Session问题。两大Agent玩家不谋而合，未来AI代理竞争将更加激烈。",
+          "usage": "💡 聊AI代理时\n💬 DeepSeek抢跑下一代Agent，AI代理竞争将更加激烈🔥 DeepSeek Agent",
+          "source": "https://www.qbitai.com/2026/11/508264.html",
+          "tags": [
+            "DeepSeek",
+            "Agent"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "浙大00后博士生",
+          "summary": "浙大00后博士生突破",
+          "detail": "浙大00后博士生将十几种物理要素装进一个世界模型，华为昇腾原生支持。未来AI科研可能要年轻化了。",
+          "usage": "💡 聊AI科研时\n💬 浙大00后博士生突破，AI科研要年轻化了🔥 浙大 世界模型",
+          "source": "https://www.qbitai.com/2026/11/508236.html",
+          "tags": [
+            "浙大",
+            "世界模型"
+          ]
+        },
+        {
+          "title": "OpenAI社区协议",
+          "summary": "OpenAI发布社区协议",
+          "detail": "OpenAI发布国家社区契约和计算园区政策蓝图，以保护当地社区免受AI基础设施影响。未来AI发展更要注重社会责任了。",
+          "usage": "💡 聊AI社会责任时\n💬 OpenAI发布社区协议，AI发展更要注重社会责任了🔥 OpenAI 社区协议",
+          "source": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+          "tags": [
+            "OpenAI",
+            "社区协议"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "资本撤离世界模型",
+          "summary": "资本撤离世界模型",
+          "detail": "资本正在撤离“世界模型”，AI投资热潮或许正在降温。未来AI行业可能要进入调整期了。",
+          "usage": "💡 聊AI投资时\n💬 资本撤离世界模型，AI行业可能要进入调整期了🔥 世界模型 投资",
+          "source": "https://www.qbitai.com/2026/11/508466.html",
+          "tags": [
+            "世界模型",
+            "投资"
+          ]
+        },
+        {
+          "title": "美国中期选举",
+          "summary": "美国中期选举影响AI",
+          "detail": "美国中期选举结果可能重塑AI行业，民主党历史性胜利或将推动AI政策变革。未来AI监管可能要更加严格了。",
+          "usage": "💡 聊AI政策时\n💬 美国中期选举可能重塑AI行业，未来AI监管要更严格了🔥 美国中期选举 AI政策",
+          "source": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+          "tags": [
+            "美国中期选举",
+            "AI政策"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-09T03:03:51.357Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3444,
+    "completion_tokens": 2518,
+    "total_tokens": 5962,
+    "cost_usd": 0.0033431,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}
