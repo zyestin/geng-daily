@@ -1,257 +1,132 @@
 {
   "categories": [
     {
-      "name": "💥 炸裂新闻",
+      "name": "炸裂新闻",
       "icon": "💥",
       "items": [
         {
-          "title": "AI接管8万Star公司",
-          "summary": "AI全包代码、任务、Bug",
-          "detail": "一家拥有8万Star的开源公司宣布，AI已经接管了代码编写、任务分配和Bug查找等核心工作。主管Agent甚至能自主招聘Worker！这意味着AI不仅替代了程序员的部分工作，还在管理层面展现了惊人的潜力。未来，AI可能成为真正的‘技术总监’，而不仅仅是工具。",
-          "usage": "💡 同事讨论AI替代工作时 \n💬 AI现在不仅能写代码，还能招人，程序员真的要失业了？ \n🔥 AI接管 招聘 管理",
-          "source": "https://www.qbitai.com/2026/11/508607.html",
+          "title": "Astra 达人操控电脑",
+          "summary": "Astra 号称可替代人类操作电脑，技术逆天。",
+          "detail": "Astra 近日宣称其新模型具备与人类相当的电脑操作能力。这意味着，程序员们可能要面临一个新的竞争者，Astra 可以完成诸如代码调试和文档处理等任务，几乎不需要人类介入。想想看，刚刚习惯使用 AI 帮助我们解决问题，如今连基本操作都可以无缝接入 AI，真是科技飞速进步的时代！",
+          "usage": "💡 聊到 AI 工具时 \n💬 'Astra 号称能媲美人类操作，程序员们感觉如何？' \n🔥 AI竞争科技进步",
+          "source": "https://www.qbitai.com/2026/11/509017.html",
           "tags": [
-            "AI接管",
-            "开源公司",
-            "招聘"
-          ]
-        },
-        {
-          "title": "Nvidia CEO卷入间谍门",
-          "summary": "黄仁勋被曝与中国间谍有染",
-          "detail": "Nvidia CEO黄仁勋因被曝与中国间谍有染，导致公司股价大跌4%。此事不仅让Nvidia的中国业务陷入困境，还可能影响其全球战略。黄仁勋已经退出多个重要活动，包括Anthropic和ElevenLabs的峰会。这场风波可能会让Nvidia的AI霸主地位受到挑战。",
-          "usage": "💡 同事讨论Nvidia股价波动时 \n💬 黄仁勋这波操作直接把Nvidia卷进了国际间谍门，AI圈要变天了！ \n🔥 Nvidia 间谍门 黄仁勋",
-          "source": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-          "tags": [
-            "Nvidia",
-            "间谍门",
-            "黄仁勋"
+            "AI",
+            "Astra",
+            "技术进步"
           ]
         }
       ]
     },
     {
-      "name": "🚀 新模型发布",
+      "name": "新模型发布",
       "icon": "🚀",
       "items": [
         {
-          "title": "腾讯混元Hy4发布",
-          "summary": "最强开源多模态Agent",
-          "detail": "腾讯混元Hy4模型正式发布，搭配WorkBuddy，成为当前最强的开源多模态Agent。Hy4在多模态任务交付能力上表现突出，尤其在图像和文本结合的任务中表现优异。腾讯这次直接对标OpenAI的GPT-4，开源社区的竞争再次升级。",
-          "usage": "💡 同事讨论开源模型时 \n💬 腾讯混元Hy4上线，开源模型的战火又烧起来了！ \n🔥 腾讯 混元 开源",
-          "source": "https://www.qbitai.com/2026/11/507843.html",
-          "tags": [
-            "腾讯",
-            "混元",
-            "开源"
-          ]
-        },
-        {
-          "title": "Meta发布Muse Ember",
-          "summary": "轻量级Agent模型",
-          "detail": "Meta推出了全新的轻量级Agent模型Muse Ember，每百万输入token仅需10美分，成本显著低于行业前沿竞品。Ember在Agent执行任务时表现出色，尤其是在资源受限的环境中，展现出极高的性价比。Meta这次直接瞄准了低成本AI市场。",
-          "usage": "💡 同事讨论AI成本时 \n💬 Meta的Muse Ember来了，10美分就能搞定百万token，便宜到哭！ \n🔥 Meta Muse Ember 轻量级",
-          "source": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-          "tags": [
-            "Meta",
-            "轻量级",
-            "Agent"
-          ]
+          "title": "Fable 5.2 首批实测",
+          "summary": "Fable 5.2 更新引发网友热议。",
+          "detail": "Fable 5.2 最新版本在音乐创作、视频制作和3D建模等多个领域实现了全方位的提升，用户反馈相较于旧版的 Opus 大大降低了创作门槛。通过AI生成的创意与制作，简单几步便能完成高质量内容，真是把制作变得轻松又高效。创作者们未来可能真的要思考，AI 是帮手还是竞争对手了！",
+          "usage": "💡 聊到创作工具时 \n💬 'Fable 5.2 更新后成了创作必备工具，你试过吗？' \n🔥 AI创作工具更新",
+          "source": "https://www.qbitai.com/2026/11/508912.html",
+          "tags": []
         }
       ]
     },
     {
-      "name": "🗣️ AI 大佬言论",
+      "name": "AI 大佬言论",
       "icon": "🗣️",
       "items": [
         {
-          "title": "黄仁勋退出活动",
-          "summary": "因间谍门取消出席",
-          "detail": "因卷入间谍门风波，Nvidia CEO黄仁勋已退出了Anthropic和ElevenLabs等重要AI峰会。这一举动引发了业内的广泛猜测，不少人认为这可能会影响Nvidia在AI领域的长远布局。黄仁勋的缺席也让这些峰会失去了一个重要的演讲嘉宾。",
-          "usage": "💡 同事讨论Nvidia动态时 \n💬 黄仁勋退出峰会，Nvidia的AI布局可能要重新洗牌了！ \n🔥 Nvidia 黄仁勋 间谍门",
-          "source": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-          "tags": [
-            "Nvidia",
-            "黄仁勋",
-            "间谍门"
-          ]
-        },
-        {
-          "title": "Anthropic发布新模型",
-          "summary": "Fable和Mythos升级",
-          "detail": "Anthropic发布了Fable和Mythos的新版本，声称在编码、推理和视觉任务上有了显著提升。面对RSI（重复性劳损）问题，Anthropic表示新模型在这些领域表现更为出色。这次更新进一步巩固了Anthropic在多模态AI领域的地位。",
-          "usage": "💡 同事讨论Anthropic时 \n💬 Anthropic的Fable和Mythos升级了，编码和推理能力更强了！ \n🔥 Anthropic Fable Mythos",
-          "source": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-          "tags": [
-            "Anthropic",
-            "Fable",
-            "Mythos"
-          ]
+          "title": "Jensen Huang 发表看法",
+          "summary": "Nvidia CEO 直言 AI 竞争格局。",
+          "detail": "在近日的一次论坛上，Nvidia CEO Jensen Huang 表示，全球 AI 领域的竞争已经上升到国家安全的层面。他强调，国家之间的技术对抗将直接影响到 AI 发展速度和方向。这一观点引发了对未来 AI 数据和技术合规性的深思，或许未来的 AI 不仅是商业竞争，更是国家战略的核心。",
+          "usage": "💡 聊到AI行业竞争时 \n💬 'Huang说AI竞争已关乎国家安全，你怎么看？' \n🔥 AI竞争国家安全",
+          "source": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "tags": []
         }
       ]
     },
     {
-      "name": "🏢 巨头动态",
+      "name": "巨头动态",
       "icon": "🏢",
       "items": [
         {
-          "title": "ChatGPT Enterprise上AWS",
-          "summary": "企业版登陆AWS市场",
-          "detail": "OpenAI宣布ChatGPT Enterprise正式登陆AWS Marketplace，企业用户可以通过AWS平台轻松采购和使用ChatGPT Enterprise。这一合作简化了企业采购流程，也为OpenAI开辟了新的商业化路径。AWS和OpenAI的联手，将进一步巩固两者在企业市场的地位。",
-          "usage": "💡 同事讨论ChatGPT应用时 \n💬 ChatGPT Enterprise上AWS了，企业采购AI服务更方便了！ \n🔥 ChatGPT AWS 企业版",
+          "title": "OpenAI 上线 ChatGPT Enterprise",
+          "summary": "ChatGPT Enterprise 现已上架 AWS 市场。",
+          "detail": "OpenAI 的 ChatGPT Enterprise 现在可以通过 AWS Marketplace 采购，方便企业客户使用。此举不仅简化了采购流程，还可能令大量企业迅速接入这一强大的 AI 工具，预计将推动企业数字化转型的速度。未来企业若能充分利用 AI，或许能在竞争中占据先机，真是个值得期待的变化！",
+          "usage": "💡 聊到企业数字化时 \n💬 'ChatGPT Enterprise 上架 AWS，企业数字化转型加速！' \n🔥 企业AI数字化",
           "source": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-          "tags": [
-            "ChatGPT",
-            "AWS",
-            "企业版"
-          ]
-        },
-        {
-          "title": "Anthropic计划IPO",
-          "summary": "估值即将确定",
-          "detail": "Anthropic计划推进IPO进程，本周将确定估值范围。这家AI公司在过去几年中快速发展，尤其是在多模态和编码领域表现突出。此次IPO可能会让Anthropic成为AI领域的下一个独角兽，进一步加剧与OpenAI等巨头的竞争。",
-          "usage": "💡 同事讨论AI融资时 \n💬 Anthropic要IPO了，AI独角兽的竞争又要升级了！ \n🔥 Anthropic IPO 估值",
-          "source": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-          "tags": [
-            "Anthropic",
-            "IPO",
-            "估值"
-          ]
+          "tags": []
         }
       ]
     },
     {
-      "name": "🛠️ 产品落地",
+      "name": "产品落地",
       "icon": "🛠️",
       "items": [
         {
-          "title": "千问办公2.0发布",
-          "summary": "支持多人协作Agent",
-          "detail": "千问办公发布2.0版本，首次支持多人与Agent协作的Team Agent功能。这一更新让团队在文档处理、任务分配和项目管理上更加高效。千问办公2.0的推出，标志着AI在办公场景中的应用又向前迈进了一步。",
-          "usage": "💡 同事讨论办公AI时 \n💬 千问办公2.0来了，多人协作Agent功能上线了！ \n🔥 千问办公 Team Agent 协作",
-          "source": "https://www.qbitai.com/2026/11/508694.html",
-          "tags": [
-            "千问办公",
-            "Team Agent",
-            "协作"
-          ]
-        },
-        {
-          "title": "Cult.fit用Codex提速",
-          "summary": "AI助力运营效率提升",
-          "detail": "Cult.fit引入OpenAI的Codex技术，大幅提升了团队的工具开发速度和运营效率。通过Codex，Cult.fit的跨职能团队能够更快地构建工具，优化工作流程。这一合作展示了AI在企业内部运营中的巨大潜力。",
-          "usage": "💡 同事讨论AI在企业中的应用时 \n💬 Cult.fit用Codex提速了，AI在企业内部的应用越来越广泛了！ \n🔥 Cult.fit Codex 运营",
-          "source": "https://openai.com/index/cultfit-builds-with-codex",
-          "tags": [
-            "Cult.fit",
-            "Codex",
-            "运营"
-          ]
+          "title": "Spotify AI DJ 更新",
+          "summary": "Spotify的AI DJ迎来新声音选项。",
+          "detail": "Spotify 最近为其 AI DJ 增加了新的声音和个性选项，用户还可以选择更少的对话内容，使听歌体验更加个性化。这一更新提升了用户的参与感和满意度，未来的音频平台可能会更加注重用户的听觉体验与互动性，AI DJ 或许会成为音乐爱好者的新宠！",
+          "usage": "💡 听音乐时可以提起 \n💬 'Spotify的AI DJ新功能上线，快去试试！' \n🔥 Spotify AI音频体验",
+          "source": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+          "tags": []
         }
       ]
     },
     {
-      "name": "🔓 开源江湖",
-      "icon": "🔓",
-      "items": [
-        {
-          "title": "腾讯混元Hy4开源",
-          "summary": "多模态Agent上线",
-          "detail": "腾讯混元Hy4模型正式开源，成为当前最强的开源多模态Agent。Hy4在图像和文本结合的任务中表现尤为突出，搭配WorkBuddy工具，进一步提升了其在多模态任务交付能力上的表现。腾讯这次直接对标OpenAI的GPT-4，开源社区的竞争再次升级。",
-          "usage": "💡 同事讨论开源模型时 \n💬 腾讯混元Hy4开源了，多模态Agent的竞争白热化了！ \n🔥 腾讯 混元 开源",
-          "source": "https://www.qbitai.com/2026/11/507843.html",
-          "tags": [
-            "腾讯",
-            "混元",
-            "开源"
-          ]
-        },
-        {
-          "title": "NeoHorse-1.5发布",
-          "summary": "Agent模型RSI迭代",
-          "detail": "基元律动发布NeoHorse-1.5-Flash Preview，标志着Agent原生模型的RSI（重复性劳损）进入第二轮迭代。这一更新进一步优化了Agent在处理重复性任务时的表现，尤其是在长时间运行时的稳定性和效率上有了显著提升。",
-          "usage": "💡 同事讨论AI模型迭代时 \n💬 NeoHorse-1.5来了，Agent的RSI处理能力又升级了！ \n🔥 NeoHorse RSI 迭代",
-          "source": "https://www.qbitai.com/2026/11/508603.html",
-          "tags": [
-            "NeoHorse",
-            "RSI",
-            "迭代"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "🔬 研究突破",
+      "name": "研究突破",
       "icon": "🔬",
       "items": [
         {
-          "title": "BioBasicsBench发布",
-          "summary": "AI处理湿实验任务",
-          "detail": "OpenAI推出BioBasicsBench，一个包含100项任务的基准测试，用于衡量AI在处理湿实验任务中的表现。这一测试涵盖了从数据解释到实验操作的多个环节，标志着AI在生物科学领域的应用迈出了重要一步。未来，AI可能在实验室中扮演更重要的角色。",
-          "usage": "💡 同事讨论AI在科研中的应用时 \n💬 BioBasicsBench来了，AI要进军实验室了！ \n🔥 BioBasicsBench 湿实验 生物科学",
-          "source": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-          "tags": [
-            "BioBasicsBench",
-            "湿实验",
-            "生物科学"
-          ]
+          "title": "Seedream 5.5 发布",
+          "summary": "Seedream 5.5 版本实现显著改进。",
+          "detail": "Seedream 5.5 最近更新，其图像编辑能力实现了更高的准确性，经过 100 轮图像编辑的测试，表现相较于之前的版本稳定性大幅提升。这一突破意味着用户在进行图像处理时，可以享受更流畅和可靠的体验，尤其对于专业创作者来说，这无疑是个好消息！",
+          "usage": "💡 聊到图像编辑时 \n💬 'Seedream 5.5更新后，图像处理更稳定了！' \n🔥 图像编辑Seedream更新",
+          "source": "https://www.qbitai.com/2026/11/508828.html",
+          "tags": []
         },
         {
-          "title": "奔驰宝马放弃L3",
-          "summary": "L3自动驾驶被抛弃",
-          "detail": "奔驰和宝马宣布放弃L3级自动驾驶技术，认为其还不如L2好用。这一决策反映了车企在自动驾驶技术路线上的重新思考，尤其是在成本和实际应用效果之间的权衡。未来，车企可能会更加聚焦于L2和L4技术的发展。",
-          "usage": "💡 同事讨论自动驾驶时 \n💬 奔驰宝马不玩L3了，L2才是王道！ \n🔥 奔驰 宝马 L3",
-          "source": "https://www.qbitai.com/2026/11/508629.html",
-          "tags": [
-            "奔驰",
-            "宝马",
-            "L3"
-          ]
+          "title": "CodeRabbit 自动化开发",
+          "summary": "CodeRabbit 实现 20 倍代码交付。",
+          "detail": "CodeRabbit 最近利用 OpenAI 模型，成功实现了软件开发的自动化，交付速度提高至 20 倍。这一进步不仅为软件工程师们节省了大量时间，还可能彻底改变开发流程，未来的程序员可能需要与 AI 更紧密地合作，这样的转变让人期待！",
+          "usage": "💡 讨论软件开发时 \n💬 'CodeRabbit 实现了20倍交付速度，程序员们压力山大吗？' \n🔥 CodeRabbit自动化开发",
+          "source": "https://openai.com/index/coderabbit-codex-daybreak",
+          "tags": []
         }
       ]
     },
     {
-      "name": "📈 行业风向",
+      "name": "行业风向",
       "icon": "📈",
       "items": [
         {
-          "title": "Anthropic推进IPO",
-          "summary": "AI独角兽估值待定",
-          "detail": "Anthropic计划推进IPO进程，本周将确定估值范围。这家AI公司在过去几年中快速发展，尤其是在多模态和编码领域表现突出。此次IPO可能会让Anthropic成为AI领域的下一个独角兽，进一步加剧与OpenAI等巨头的竞争。",
-          "usage": "💡 同事讨论AI融资时 \n💬 Anthropic要IPO了，AI独角兽的竞争又要升级了！ \n🔥 Anthropic IPO 估值",
-          "source": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-          "tags": [
-            "Anthropic",
-            "IPO",
-            "估值"
-          ]
-        },
-        {
-          "title": "Nvidia股价大跌",
-          "summary": "间谍门引发市场震动",
-          "detail": "因CEO黄仁勋卷入间谍门，Nvidia股价大跌4%。这一事件不仅让Nvidia的中国业务陷入困境，还可能影响其全球战略。黄仁勋已经退出多个重要活动，包括Anthropic和ElevenLabs的峰会。这场风波可能会让Nvidia的AI霸主地位受到挑战。",
-          "usage": "💡 同事讨论Nvidia股价波动时 \n💬 黄仁勋这波操作直接把Nvidia卷进了国际间谍门，AI圈要变天了！ \n🔥 Nvidia 间谍门 黄仁勋",
-          "source": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-          "tags": [
-            "Nvidia",
-            "间谍门",
-            "黄仁勋"
-          ]
+          "title": "Anthropic IPO 定价区间",
+          "summary": "Anthropic 定价为每股70-78美金。",
+          "detail": "Anthropic 近期公布了其 IPO 的定价区间在 70 到 78 美元之间，若以此价格上市，公司的估值将达到 1.404 万亿美金。这一数字展现了市场对其未来发展的信心，也可能改变科技股的投资格局，未来投资者们可要密切留意这场盛事！",
+          "usage": "💡 聊到投资时 \n💬 'Anthropic 的 IPO 定价让人期待，其估值可达1.404万亿！' \n🔥 IPO估值市场信心",
+          "source": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+          "tags": []
         }
       ]
     }
   ],
-  "generated_at": "2026-11-10T04:52:20.630Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-11-10T17:36:39.122Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
-    "model": "deepseek/deepseek-chat",
-    "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3520,
-    "completion_tokens": 3214,
-    "total_tokens": 6734,
-    "cost_usd": 0.00398686,
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 3891,
+    "completion_tokens": 2988,
+    "total_tokens": 6879,
+    "cost_usd": 0.00237645,
     "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 8,
+      "published": 8
+    },
     "sources": {
       "per_source": {
         "qbitai": 8,

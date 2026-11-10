@@ -1,0 +1,84 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "英伟达CEO认错",
+          "summary": "黄仁勋公开承认对妻子不忠",
+          "detail": "11月8日，英伟达CEO黄仁勋发布全员信，公开承认对妻子不忠，称其行为伤害了家庭。这封信不仅震惊了英伟达内部，也在科技圈引起热议。黄仁勋一向以工作狂形象示人，这次的私人问题曝光，让人不禁感叹：再牛的大佬，也有家事烦恼。",
+          "usage": "💡 同事聊大佬八卦时\n💬 黄仁勋终于承认了家事问题，看来大佬也有软肋\n🔥 黄仁勋 英伟达 家事",
+          "source": "https://www.huxiu.com/article/4904583.html?f=rss",
+          "tags": [
+            "黄仁勋",
+            "英伟达",
+            "家事"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "黄仁勋家事曝光",
+          "summary": "英伟达CEO承认对妻子不忠",
+          "detail": "11月8日，英伟达CEO黄仁勋发布全员信，公开承认对妻子不忠，称其行为伤害了家庭。这封信不仅震惊了英伟达内部，也在科技圈引起热议。黄仁勋一向以工作狂形象示人，这次的私人问题曝光，让人不禁感叹：再牛的大佬，也有家事烦恼。",
+          "usage": "💡 同事聊大佬八卦时\n💬 黄仁勋终于承认了家事问题，看来大佬也有软肋\n🔥 黄仁勋 英伟达 家事",
+          "source": "https://www.huxiu.com/article/4904583.html?f=rss",
+          "tags": [
+            "黄仁勋",
+            "英伟达",
+            "家事"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "广东鸿图新订单",
+          "summary": "进入丰田一体化压铸供应链",
+          "detail": "11月5日，广东鸿图披露了一张新订单：公司已进入丰田的一体化压铸供应链。此前，它的主要相关客户是小鹏汽车。公司预计，2026年一体化压铸产品收入将大幅增长。看来，广东鸿图要在汽车供应链上大展拳脚了。",
+          "usage": "💡 同事聊汽车供应链时\n💬 广东鸿图接了丰田的大单，看来要起飞了\n🔥 广东鸿图 丰田 压铸",
+          "source": "https://www.huxiu.com/article/4904586.html?f=rss",
+          "tags": [
+            "广东鸿图",
+            "丰田",
+            "压铸"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-10T17:30:55.972Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 4583,
+    "completion_tokens": 1278,
+    "total_tokens": 5861,
+    "cost_usd": 0.0026039799999999997,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 5,
+      "published": 3
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 4,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 14
+    }
+  }
+}

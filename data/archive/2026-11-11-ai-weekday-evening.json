@@ -1,0 +1,139 @@
+{
+  "categories": [
+    {
+      "name": "炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "Astra 达人操控电脑",
+          "summary": "Astra 号称可替代人类操作电脑，技术逆天。",
+          "detail": "Astra 近日宣称其新模型具备与人类相当的电脑操作能力。这意味着，程序员们可能要面临一个新的竞争者，Astra 可以完成诸如代码调试和文档处理等任务，几乎不需要人类介入。想想看，刚刚习惯使用 AI 帮助我们解决问题，如今连基本操作都可以无缝接入 AI，真是科技飞速进步的时代！",
+          "usage": "💡 聊到 AI 工具时 \n💬 'Astra 号称能媲美人类操作，程序员们感觉如何？' \n🔥 AI竞争科技进步",
+          "source": "https://www.qbitai.com/2026/11/509017.html",
+          "tags": [
+            "AI",
+            "Astra",
+            "技术进步"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Fable 5.2 首批实测",
+          "summary": "Fable 5.2 更新引发网友热议。",
+          "detail": "Fable 5.2 最新版本在音乐创作、视频制作和3D建模等多个领域实现了全方位的提升，用户反馈相较于旧版的 Opus 大大降低了创作门槛。通过AI生成的创意与制作，简单几步便能完成高质量内容，真是把制作变得轻松又高效。创作者们未来可能真的要思考，AI 是帮手还是竞争对手了！",
+          "usage": "💡 聊到创作工具时 \n💬 'Fable 5.2 更新后成了创作必备工具，你试过吗？' \n🔥 AI创作工具更新",
+          "source": "https://www.qbitai.com/2026/11/508912.html",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "name": "AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "Jensen Huang 发表看法",
+          "summary": "Nvidia CEO 直言 AI 竞争格局。",
+          "detail": "在近日的一次论坛上，Nvidia CEO Jensen Huang 表示，全球 AI 领域的竞争已经上升到国家安全的层面。他强调，国家之间的技术对抗将直接影响到 AI 发展速度和方向。这一观点引发了对未来 AI 数据和技术合规性的深思，或许未来的 AI 不仅是商业竞争，更是国家战略的核心。",
+          "usage": "💡 聊到AI行业竞争时 \n💬 'Huang说AI竞争已关乎国家安全，你怎么看？' \n🔥 AI竞争国家安全",
+          "source": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "name": "巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI 上线 ChatGPT Enterprise",
+          "summary": "ChatGPT Enterprise 现已上架 AWS 市场。",
+          "detail": "OpenAI 的 ChatGPT Enterprise 现在可以通过 AWS Marketplace 采购，方便企业客户使用。此举不仅简化了采购流程，还可能令大量企业迅速接入这一强大的 AI 工具，预计将推动企业数字化转型的速度。未来企业若能充分利用 AI，或许能在竞争中占据先机，真是个值得期待的变化！",
+          "usage": "💡 聊到企业数字化时 \n💬 'ChatGPT Enterprise 上架 AWS，企业数字化转型加速！' \n🔥 企业AI数字化",
+          "source": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "name": "产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "Spotify AI DJ 更新",
+          "summary": "Spotify的AI DJ迎来新声音选项。",
+          "detail": "Spotify 最近为其 AI DJ 增加了新的声音和个性选项，用户还可以选择更少的对话内容，使听歌体验更加个性化。这一更新提升了用户的参与感和满意度，未来的音频平台可能会更加注重用户的听觉体验与互动性，AI DJ 或许会成为音乐爱好者的新宠！",
+          "usage": "💡 听音乐时可以提起 \n💬 'Spotify的AI DJ新功能上线，快去试试！' \n🔥 Spotify AI音频体验",
+          "source": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "name": "研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "Seedream 5.5 发布",
+          "summary": "Seedream 5.5 版本实现显著改进。",
+          "detail": "Seedream 5.5 最近更新，其图像编辑能力实现了更高的准确性，经过 100 轮图像编辑的测试，表现相较于之前的版本稳定性大幅提升。这一突破意味着用户在进行图像处理时，可以享受更流畅和可靠的体验，尤其对于专业创作者来说，这无疑是个好消息！",
+          "usage": "💡 聊到图像编辑时 \n💬 'Seedream 5.5更新后，图像处理更稳定了！' \n🔥 图像编辑Seedream更新",
+          "source": "https://www.qbitai.com/2026/11/508828.html",
+          "tags": []
+        },
+        {
+          "title": "CodeRabbit 自动化开发",
+          "summary": "CodeRabbit 实现 20 倍代码交付。",
+          "detail": "CodeRabbit 最近利用 OpenAI 模型，成功实现了软件开发的自动化，交付速度提高至 20 倍。这一进步不仅为软件工程师们节省了大量时间，还可能彻底改变开发流程，未来的程序员可能需要与 AI 更紧密地合作，这样的转变让人期待！",
+          "usage": "💡 讨论软件开发时 \n💬 'CodeRabbit 实现了20倍交付速度，程序员们压力山大吗？' \n🔥 CodeRabbit自动化开发",
+          "source": "https://openai.com/index/coderabbit-codex-daybreak",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "name": "行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "Anthropic IPO 定价区间",
+          "summary": "Anthropic 定价为每股70-78美金。",
+          "detail": "Anthropic 近期公布了其 IPO 的定价区间在 70 到 78 美元之间，若以此价格上市，公司的估值将达到 1.404 万亿美金。这一数字展现了市场对其未来发展的信心，也可能改变科技股的投资格局，未来投资者们可要密切留意这场盛事！",
+          "usage": "💡 聊到投资时 \n💬 'Anthropic 的 IPO 定价让人期待，其估值可达1.404万亿！' \n🔥 IPO估值市场信心",
+          "source": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+          "tags": []
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-10T17:36:39.122Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 3891,
+    "completion_tokens": 2988,
+    "total_tokens": 6879,
+    "cost_usd": 0.00237645,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 8,
+      "published": 8
+    },
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}
