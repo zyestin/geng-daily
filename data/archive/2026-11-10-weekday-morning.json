@@ -1,0 +1,133 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Next.js 13",
+          "summary": "Next.js 13发布",
+          "detail": "Next.js 13引入了多项新特性，包括改进的RSC（React Server Components）支持、更快的构建速度和全新的数据获取方法。",
+          "usage": "你试过Next.js 13了吗？新的RSC特性感觉还挺有潜力的，不过我还在观望，毕竟迁移成本不小。",
+          "source": "",
+          "tags": [
+            "Next.js",
+            "React"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN Fabric",
+          "summary": "React Native新架构",
+          "detail": "React Native的Fabric架构旨在提升性能，减少UI线程阻塞，优化应用响应速度。",
+          "usage": "听说RN的新架构Fabric性能提升了不少，你有没有在实际项目中使用过？感觉怎么样？",
+          "source": "",
+          "tags": [
+            "React Native",
+            "Fabric"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "AI辅助测试",
+          "summary": "AI在测试中的应用",
+          "detail": "AI辅助测试工具正在逐渐普及，能够自动生成测试用例，发现潜在bug，提升开发效率。",
+          "usage": "最近AI辅助测试工具挺火的，你觉得它们能替代手动测试吗？我感觉在某些场景下还是挺有用的。",
+          "source": "",
+          "tags": [
+            "AI",
+            "测试"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "TypeScript 5.3",
+          "summary": "TypeScript 5.3发布",
+          "detail": "TypeScript 5.3带来了更严格的类型检查、改进的错误提示和更好的性能优化。",
+          "usage": "TypeScript 5.3发布了，你有没有试过？新版本的类型检查感觉更严格了，调试起来更方便。",
+          "source": "",
+          "tags": [
+            "TypeScript",
+            "JS"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "Sherlock",
+          "summary": "追踪社交媒体账户",
+          "detail": "Sherlock是一个开源工具，能够通过用户名追踪社交媒体账户，方便用户查找和管理自己的在线足迹。",
+          "usage": "你知道Sherlock这个项目吗？它能够通过用户名追踪社交媒体账户，感觉挺有意思的，试试看能不能找到你的账号？",
+          "source": "https://github.com/sherlock-project/sherlock",
+          "tags": [
+            "开源",
+            "社交媒体"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "AI毁学位",
+          "summary": "AI影响教育",
+          "detail": "有教授用AI工具Claude糊弄学生，导致学生对计算机学位失去信心，引发热议。",
+          "usage": "听说有教授用Claude糊弄学生，结果毁了他们的计算机学位，AI在教育领域的应用真是双刃剑啊。",
+          "source": "https://www.qbitai.com/2026/11/508706.html",
+          "tags": [
+            "AI",
+            "教育"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-10T04:46:34.725Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2005,
+    "completion_tokens": 792,
+    "total_tokens": 2797,
+    "cost_usd": 0.00134648,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}

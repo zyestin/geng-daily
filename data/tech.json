@@ -5,28 +5,88 @@
       "icon": "📰",
       "items": [
         {
-          "title": "英伟达货物失踪",
-          "summary": "英伟达巨额货物离奇失踪",
-          "detail": "英伟达最近一批价值数亿的货物在运输途中神秘失踪，引发业内广泛猜测。这批货物据说是最新的AI芯片，市场期待已久。有人说这是内鬼作案，有人说是竞争对手暗中操作，甚至有人怀疑是外星人干的。总之，英伟达的股价已经开始波动，老黄的脸估计比AI芯片还要焦。",
-          "usage": "💡 同事聊股市时\n💬 英伟达的货物都能丢，是不是该考虑转行做物流了？\n🔥 英伟达 货物失踪 AI芯片",
-          "source": "https://www.toutiao.com/trending/7706117206945304100/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706117206945304100%22%2C%22hot_board_impr_id%22%3A%2220261110041121F0096A7BDA8F8E5B0D3C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B7%A8%E9%A2%9D%E8%B4%A7%E7%89%A9%E5%A4%B1%E8%B8%AA%E5%93%AA%E4%BA%9B%E7%BB%86%E8%8A%82%E5%80%BC%E5%BE%97%E6%8E%A8%E6%95%B2%22%7D&rank=&style_id=40132&topic_id=7706117206945304100",
+          "title": "国债秒光",
+          "summary": "年内最后一批储蓄国债秒光",
+          "detail": "2026年第九期、第十期储蓄国债（电子式）今日开售，仅数分钟就被抢购一空。这批国债是年内最后一批，发行期为11月10日至11月19日。家人们谁懂啊，国债都这么卷了！",
+          "usage": "💡 聊到理财投资时切入\n💬 国债都秒光了，理财也太卷了吧！\n🔥 国债 秒光",
+          "src_id": 1,
           "tags": [
-            "英伟达",
-            "货物失踪",
-            "AI芯片"
-          ]
+            "国债",
+            "理财"
+          ],
+          "source": "https://www.huxiu.com/article/4904395.html?f=rss"
         },
         {
-          "title": "AI毁学位",
-          "summary": "大二女生称AI毁了她的学位",
-          "detail": "一位大二女生公开声称AI毁了她的计算机学位。她表示，AI工具让她过度依赖，导致自己的编程能力和思维能力严重退化，甚至在考试中无法独立完成代码。她的言论引发了广泛争议，有人同情她，也有人认为这是她自己不努力的借口。总之，AI到底是救星还是杀手，这个话题又添了一把火。",
-          "usage": "💡 同事吐槽AI时\n💬 AI毁了她的学位，那我们的饭碗还保不保？\n🔥 AI 学位 计算机",
-          "source": "https://www.toutiao.com/trending/7706100701260156479/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706100701260156479%22%2C%22hot_board_impr_id%22%3A%2220261110041121F0096A7BDA8F8E5B0D3C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%A7%E4%BA%8C%E5%A5%B3%E7%94%9F%E7%A7%B0AI%E6%AF%81%E4%BA%86%E5%A5%B9%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E4%BD%8D%22%7D&rank=&style_id=40132&topic_id=7706100701260156479",
+          "title": "特斯拉掉队",
+          "summary": "特斯拉中国10月销量暴跌",
+          "detail": "特斯拉中国10月销量从第1名掉到第66名，堪称史诗级下滑。马斯克这下该挠头了，中国市场的竞争真是越来越激烈了。",
+          "usage": "💡 聊到新能源汽车时切入\n💬 特斯拉中国10月销量掉到第66名，马斯克该慌了！\n🔥 特斯拉 销量 暴跌",
+          "src_id": 23,
           "tags": [
-            "AI",
-            "学位",
-            "计算机"
-          ]
+            "特斯拉",
+            "销量"
+          ],
+          "source": "https://m.baidu.com/s?word=%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%AD%E5%9B%BD10%E6%9C%88%E9%94%80%E9%87%8F%E4%BB%8E%E7%AC%AC1%E5%90%8D%E6%8E%89%E5%88%B0%E7%AC%AC66&sa=fyb_news"
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "黄仁勋危机",
+          "summary": "黄仁勋卷入调查风波",
+          "detail": "黄仁勋最近卷入了一场涉及公司创始人的调查，暴露了人工智能产业对少数企业和个人的依赖。这位AI大佬的日子也不好过了。",
+          "usage": "💡 聊到AI产业时切入\n💬 黄仁勋卷入调查，AI大佬的日子也不好过啊！\n🔥 黄仁勋 调查 AI",
+          "src_id": 6,
+          "tags": [
+            "黄仁勋",
+            "AI"
+          ],
+          "source": "https://www.huxiu.com/article/4904386.html?f=rss"
+        },
+        {
+          "title": "刘强东送外卖",
+          "summary": "刘强东亲自穿骑手服送外卖",
+          "detail": "2025年初，刘强东为京东外卖站台，甚至穿上骑手服装亲自送外卖。看来东哥是真的拼了，连送外卖这种活都亲自上阵。",
+          "usage": "💡 聊到外卖大战时切入\n💬 刘强东都亲自穿骑手服送外卖了，这场外卖大战太激烈了！\n🔥 刘强东 外卖 京东",
+          "src_id": 10,
+          "tags": [
+            "刘强东",
+            "外卖"
+          ],
+          "source": "https://www.huxiu.com/article/4904376.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "华为小折叠电脑",
+          "summary": "华为推出全新小折叠电脑",
+          "detail": "华为推出了一款全新小折叠电脑，设计精巧，功能强大。华为的产品线越来越丰富了，看来是要在折叠屏市场大展拳脚。",
+          "usage": "💡 聊到折叠屏设备时切入\n💬 华为又出小折叠电脑了，折叠屏市场要卷起来了！\n🔥 华为 折叠屏 电脑",
+          "src_id": 14,
+          "tags": [
+            "华为",
+            "折叠屏"
+          ],
+          "source": "https://www.toutiao.com/trending/7706338693765710386/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706338693765710386%22%2C%22hot_board_impr_id%22%3A%222026111012463553341FA89A225A04ED87%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E4%B8%BA%E6%8E%A8%E5%87%BA%E5%85%A8%E6%96%B0%E5%B0%8F%E6%8A%98%E5%8F%A0%E7%94%B5%E8%84%91%22%7D&rank=&style_id=40132&topic_id=7706338693765710386"
+        },
+        {
+          "title": "京东外卖降速",
+          "summary": "京东外卖战略调整",
+          "detail": "京东外卖近期战略调整，降速寻活路。郭庆离场后，京东外卖的野心似乎有所收敛，看来外卖这场仗不好打。",
+          "usage": "💡 聊到外卖市场时切入\n💬 京东外卖降速寻活路，外卖这场仗不好打啊！\n🔥 京东 外卖 战略",
+          "src_id": 10,
+          "tags": [
+            "京东",
+            "外卖"
+          ],
+          "source": "https://www.huxiu.com/article/4904376.html?f=rss"
         }
       ]
     },
@@ -35,16 +95,88 @@
       "icon": "🔀",
       "items": [
         {
-          "title": "万达人事变动",
-          "summary": "王健林重回万达",
-          "detail": "近日，王健林重新坐回了万达商管董事长的位置，接替了陈洪涛的职务。这一人事变动被认为是为了应对万达当前的财务危机。王健林的回归引发了业内的广泛关注，有人看好他能带领万达走出困境，也有人认为这只是权宜之计。总之，万达的未来走向再次成为焦点。",
-          "usage": "💡 同事聊万达时\n💬 王健林又回来了，万达这次有救了吗？\n🔥 王健林 万达 人事变动",
-          "source": "https://www.huxiu.com/article/4904299.html?f=rss",
+          "title": "郭庆离场",
+          "summary": "京东外卖负责人郭庆离场",
+          "detail": "京东外卖负责人郭庆离场，京东外卖的战略也随之调整。看来外卖市场的竞争真是越来越激烈了。",
+          "usage": "💡 聊到外卖大战时切入\n💬 京东外卖负责人郭庆离场，外卖市场要变天了！\n🔥 郭庆 京东 外卖",
+          "src_id": 10,
           "tags": [
-            "王健林",
-            "万达",
-            "人事变动"
-          ]
+            "郭庆",
+            "京东"
+          ],
+          "source": "https://www.huxiu.com/article/4904376.html?f=rss"
+        },
+        {
+          "title": "核聚变融资热",
+          "summary": "核聚变赛道融资火热",
+          "detail": "2026年上半年国内聚变能一级市场融资约30笔，总额惊人。一家燃气公司意外成为了核聚变创业公司的源头，真是跨界之王！",
+          "usage": "💡 聊到新能源投资时切入\n💬 核聚变赛道融资火热，一家燃气公司成了源头！\n🔥 核聚变 融资 燃气",
+          "src_id": 7,
+          "tags": [
+            "核聚变",
+            "融资"
+          ],
+          "source": "https://www.huxiu.com/article/4904384.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "具身智能寒冬",
+          "summary": "具身智能迎来资本寒冬",
+          "detail": "具身智能赛道迎来了第一个资本寒冬，投资人出手谨慎。看来这个新兴领域也难逃资本的周期性波动。",
+          "usage": "💡 聊到AI投资时切入\n💬 具身智能迎来资本寒冬，投资人都不敢出手了！\n🔥 具身智能 寒冬",
+          "src_id": 4,
+          "tags": [
+            "具身智能",
+            "寒冬"
+          ],
+          "source": "https://www.huxiu.com/article/4904390.html?f=rss"
+        },
+        {
+          "title": "核聚变融资热",
+          "summary": "核聚变赛道融资火热",
+          "detail": "2026年上半年国内聚变能一级市场融资约30笔，总额惊人。一家燃气公司意外成为了核聚变创业公司的源头，真是跨界之王！",
+          "usage": "💡 聊到新能源投资时切入\n💬 核聚变赛道融资火热，一家燃气公司成了源头！\n🔥 核聚变 融资 燃气",
+          "src_id": 7,
+          "tags": [
+            "核聚变",
+            "融资"
+          ],
+          "source": "https://www.huxiu.com/article/4904384.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "华为小折叠电脑",
+          "summary": "华为推出全新小折叠电脑",
+          "detail": "华为推出了一款全新小折叠电脑，设计精巧，功能强大。华为的产品线越来越丰富了，看来是要在折叠屏市场大展拳脚。",
+          "usage": "💡 聊到折叠屏设备时切入\n💬 华为又出小折叠电脑了，折叠屏市场要卷起来了！\n🔥 华为 折叠屏 电脑",
+          "src_id": 14,
+          "tags": [
+            "华为",
+            "折叠屏"
+          ],
+          "source": "https://www.toutiao.com/trending/7706338693765710386/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706338693765710386%22%2C%22hot_board_impr_id%22%3A%222026111012463553341FA89A225A04ED87%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E4%B8%BA%E6%8E%A8%E5%87%BA%E5%85%A8%E6%96%B0%E5%B0%8F%E6%8A%98%E5%8F%A0%E7%94%B5%E8%84%91%22%7D&rank=&style_id=40132&topic_id=7706338693765710386"
+        },
+        {
+          "title": "冰淇淋刺客",
+          "summary": "茶饮巨头集体卖Gelato",
+          "detail": "茶饮巨头集体卖Gelato，二三十一球还排队。咖啡都9.9了，这是消费升级还是雪糕刺客换皮？",
+          "usage": "💡 聊到新消费时切入\n💬 茶饮巨头都卖Gelato了，雪糕刺客又来了！\n🔥 茶饮 Gelato 雪糕",
+          "src_id": 8,
+          "tags": [
+            "茶饮",
+            "Gelato"
+          ],
+          "source": "https://www.huxiu.com/article/4903455.html?f=rss"
         }
       ]
     },
@@ -53,44 +185,86 @@
       "icon": "🎬",
       "items": [
         {
-          "title": "Hitcard上市",
-          "summary": "Hitcard上市新动向",
-          "detail": "传了一年多的Hitcard上市有了新动向。2026年11月2日，骑形网络与亚玛顿控股股东签署协议，拟受让20%股份，成为这家光伏玻璃上市公司的第一大股东。这一举动被认为是为了通过绑定IP方、炒作兑换物、做档期生意等方式推动Hitcard的上市进程。业内人士纷纷表示，这家公司的操作手段真是花样百出，创业路上的戏码比电视剧还精彩。",
-          "usage": "💡 同事聊创业时\n💬 Hitcard的上市戏码比电视剧还精彩\n🔥 Hitcard 上市 骑形网络",
-          "source": "https://www.huxiu.com/article/4904294.html?f=rss",
+          "title": "核聚变跨界",
+          "summary": "燃气公司跨界核聚变",
+          "detail": "一家燃气公司意外成为了核聚变创业公司的源头，真是跨界之王！核聚变赛道今年融资火热，看来新能源的未来在这里。",
+          "usage": "💡 聊到跨界创业时切入\n💬 一家燃气公司居然跨界成了核聚变创业公司的源头，真牛！\n🔥 核聚变 跨界 燃气",
+          "src_id": 7,
           "tags": [
-            "Hitcard",
-            "上市",
-            "骑形网络"
-          ]
+            "核聚变",
+            "跨界"
+          ],
+          "source": "https://www.huxiu.com/article/4904384.html?f=rss"
+        },
+        {
+          "title": "硬件创业吐槽",
+          "summary": "硬件创业者Ego大",
+          "detail": "一位投资人对硬件创业者的评价：Ego足够大，上限足够低，做事没底线。货卖不动，就嫌人家没格局，真是让人哭笑不得。",
+          "usage": "💡 聊到硬件创业时切入\n💬 硬件创业者Ego大，货卖不动就嫌人家没格局，笑死！\n🔥 硬件 创业 Ego",
+          "src_id": 5,
+          "tags": [
+            "硬件",
+            "创业"
+          ],
+          "source": "https://www.huxiu.com/article/4904383.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "币圈风云",
+      "icon": "🪙",
+      "items": [
+        {
+          "title": "Token双11",
+          "summary": "Token上架双11",
+          "detail": "今年的双11，Token算力成了新商品，直播间爆款热度之下，算力消费成了新风口。币圈真是无处不在！",
+          "usage": "💡 聊到双11购物时切入\n💬 Token算力都上双11了，币圈真是无处不在！\n🔥 Token 双11 算力",
+          "src_id": 12,
+          "tags": [
+            "Token",
+            "双11"
+          ],
+          "source": "https://www.huxiu.com/article/4904373.html?f=rss"
+        },
+        {
+          "title": "冰淇淋刺客",
+          "summary": "茶饮巨头集体卖Gelato",
+          "detail": "茶饮巨头集体卖Gelato，二三十一球还排队。咖啡都9.9了，这是消费升级还是雪糕刺客换皮？",
+          "usage": "💡 聊到新消费时切入\n💬 茶饮巨头都卖Gelato了，雪糕刺客又来了！\n🔥 茶饮 Gelato 雪糕",
+          "src_id": 8,
+          "tags": [
+            "茶饮",
+            "Gelato"
+          ],
+          "source": "https://www.huxiu.com/article/4903455.html?f=rss"
         }
       ]
     }
   ],
-  "generated_at": "2026-11-09T20:18:24.438Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-10T04:50:39.898Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 5063,
-    "completion_tokens": 3614,
-    "total_tokens": 8677,
-    "cost_usd": 0.00483662,
+    "prompt_tokens": 5833,
+    "completion_tokens": 2139,
+    "total_tokens": 7972,
+    "cost_usd": 0.00377027,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 12,
-      "published": 4
+      "dropped_orphans": 0,
+      "published": 16
     },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 5,
+        "huxiu": 12,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 16
+      "total": 24
     }
   }
 }
