@@ -1,0 +1,199 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Meta推新设计系统",
+          "summary": "Meta开源完全可定制的设计系统Astryx",
+          "detail": "Meta近日开源了Astryx设计系统，号称完全可定制且支持AI代理。这个系统可能为React开发者提供新的UI组件和设计模式，社区热议其与Material UI的竞争关系。",
+          "usage": "你们看了Meta那个Astryx设计系统没？说是要为AI代理设计的，不知道会不会和Material UI正面刚。我看GitHub已经3100多星了，meta现在搞开源真舍得下本啊！",
+          "source": "https://github.com/meta/astryx",
+          "tags": [
+            "React",
+            "设计系统"
+          ]
+        },
+        {
+          "title": "Vercel的Agent浏览器",
+          "summary": "Vercel推出AI浏览器自动化工具",
+          "detail": "Vercel实验室发布了agent-browser项目，一个专为AI代理设计的浏览器自动化CLI。这个工具旨在让AI代理能更自然地与网页交互，前端开发者可以探索它如何用于自动化测试。",
+          "usage": "Vercel现在也要做AI浏览器自动化了，agent-browser这个项目我觉得可以关注下。你说咱们写e2e测试是不是以后可以让AI自己摸索着写了？不过这个agent-ready的设计理念还挺超前的。",
+          "source": "https://github.com/vercel-labs/agent-browser",
+          "tags": [
+            "Next.js",
+            "自动化"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN新架构落地情况",
+          "summary": "社区讨论Fabric架构实际表现",
+          "detail": "React Native的Fabric新架构已经推出一年，开发者社区开始有大量实际项目落地报告。有人称赞性能提升明显，也有人吐槽某些三方库还不适配。",
+          "usage": "你们项目升级RN新架构了吗？我们还在观望，听说有些动画性能提升明显，但是害怕第三方库不兼容。那个新的渲染器真能解决列表卡顿问题吗？",
+          "source": "",
+          "tags": [
+            "性能优化",
+            "Fabric"
+          ]
+        },
+        {
+          "title": "跨端方案新选择",
+          "summary": "Astryx宣称支持跨端开发",
+          "detail": "Meta的Astryx设计系统特别强调其跨平台能力，文档中专门提到对React Native的支持。这可能为RN开发者提供新的UI解决方案选择。",
+          "usage": "没想到Meta的设计系统也考虑RN了，Astryx说是支持跨端。你们觉得这种大厂的设计系统对我们小项目来说会不会太复杂了？但是组件质量应该靠谱。",
+          "source": "https://github.com/meta/astryx",
+          "tags": [
+            "跨平台",
+            "UI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "AlphaProof代码",
+          "summary": "DeepMind发布AI代码证明系统",
+          "detail": "Google DeepMind团队发布了AlphaProof Code系统，能够自动验证复杂算法正确性。开发者讨论这对代码审查和单元测试可能带来的变革。",
+          "usage": "DeepMind那个AlphaProof Code看了吗？据说能自动证明算法正确性。你说这玩意儿以后会不会把QA工程师的活都抢了？不过我感觉数学证明和业务逻辑验证还是两回事。",
+          "source": "https://deepmind.google/blog/introducing-alphaproof-code/",
+          "tags": [
+            "AI",
+            "测试"
+          ]
+        },
+        {
+          "title": "AI技能仓库",
+          "summary": "开源社区涌现多个AI技能库",
+          "detail": "GitHub上最近出现多个专注AI编程技能的开源项目，如agent-skills和anthropics/skills，旨在标准化AI代理的编程能力。",
+          "usage": "现在GitHub上一堆教AI写代码的项目，addyosmani都搞了个agent-skills。你说咱们的Copilot是不是也在偷偷学这些技能库？感觉AI现在写代码越来越像模像样了。",
+          "source": "https://github.com/addyosmani/agent-skills",
+          "tags": [
+            "Copilot",
+            "自动化"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "Bun性能新突破",
+          "summary": "Bun运行时最新基准测试表现抢眼",
+          "detail": "Bun 1.1发布后，社区对其与Node.js的性能对比测试显示，在某些场景下Bun的性能优势可达Node的3倍，特别是启动时间和HTTP服务处理。",
+          "usage": "你们试过Bun 1.1没？我看测试报告说HTTP服务比Node快好多，就是不知道生态跟上了没有。现在写脚本我都开始用Bun跑了，启动速度是真的快。",
+          "source": "",
+          "tags": [
+            "运行时",
+            "性能"
+          ]
+        },
+        {
+          "title": "TS装饰器争议",
+          "summary": "TypeScript装饰器提案再起争论",
+          "detail": "TypeScript团队近期对装饰器提案的态度引发社区讨论，有人期待更快的标准化进程，也有人担心过早定型会限制未来发展。",
+          "usage": "TypeScript那个装饰器提案怎么还没定下来啊？我看GitHub上又吵起来了。现在项目里用装饰器总是提心吊胆的，生怕哪天标准变了要重写。",
+          "source": "",
+          "tags": [
+            "TypeScript",
+            "标准"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "Sherlock爆火",
+          "summary": "用户名追踪工具Sherlock登顶GitHub趋势",
+          "detail": "sherlock工具可以通过用户名追踪同一用户在不同社交媒体上的账号，因其隐私争议和技术实现的巧妙性在开发者社区引发热议。",
+          "usage": "那个Sherlock项目真可怕，输入用户名就能找到你在各大社交平台的账号。技术实现挺厉害，但是隐私问题不小啊。你们说这种工具应该开源吗？",
+          "source": "https://github.com/sherlock-project/sherlock",
+          "tags": [
+            "隐私",
+            "爬虫"
+          ]
+        },
+        {
+          "title": "智能家居AI控制",
+          "summary": "开源项目实现用AI控制Home Assistant",
+          "detail": "ha-mcp项目允许用户通过Claude、ChatGPT等AI助手配置和自动化Home Assistant，展示了AI与IoT结合的创新应用场景。",
+          "usage": "现在连智能家居都能用AI控制了，ha-mcp这个项目可以让你用自然语言配置自动化规则。我觉得这个方向挺有意思的，就是不知道AI能不能真的理解'我觉得冷的时候把空调调高一点'这种模糊指令。",
+          "source": "https://github.com/homeassistant-ai/ha-mcp",
+          "tags": [
+            "AI",
+            "IoT"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "Val Town关闭",
+          "summary": "开发者平台Val Town宣布停止运营",
+          "detail": "Val Town是一个备受开发者喜爱的代码片段托管平台，因商业模式问题宣布停止运营，社区一片惋惜之声。",
+          "usage": "Val Town居然要关了！我存了好多代码片段在上面。这种平台就是典型的'很好用但不知道怎么赚钱'，你们觉得类似的Glitch能撑多久？",
+          "source": "https://blog.val.town/winding-down",
+          "tags": [
+            "SaaS",
+            "开发者工具"
+          ]
+        },
+        {
+          "title": "显示器驱动专利纠纷",
+          "summary": "Synaptics专利导致DisplayLink驱动开发受阻",
+          "detail": "Synaptics的专利主张导致DisplayLink驱动开发工作暂停，开发者社区对软件专利制度的合理性展开激烈讨论。",
+          "usage": "Synaptics那个专利纠纷看了吗？现在连显示器驱动都能被专利卡脖子了。评论区有人说'这专利就像给自行车申请踏板专利一样荒谬'，笑死。",
+          "source": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+          "tags": [
+            "专利",
+            "硬件"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-11T02:58:08.608Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 1968,
+    "completion_tokens": 1868,
+    "total_tokens": 3836,
+    "cost_usd": 0.00229228,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 9,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}

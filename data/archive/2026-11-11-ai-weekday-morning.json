@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "OpenAI 收购旅行创业公司",
+          "summary": "OpenAI 收购 Odessia",
+          "detail": "OpenAI 刚刚宣布收购了由 Sonder 创始人 Francis Davi 创建的旅行创业公司 Odessia。虽然 OpenAI 目前还没透露具体计划，但这次收购无疑将开启 AI 在旅行领域的全新应用。想象一下，未来 ChatGPT 可能不仅帮你订机票，还能根据你的兴趣推荐个性化行程——旅行规划师可能要失业了。",
+          "usage": "💡 聊旅行和 AI 结合\n💬 OpenAI 这下连旅行都要包圆了，ChatGPT 变身全能导游！\n🔥 OpenAI Odessia 旅行",
+          "source": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+          "tags": [
+            "OpenAI",
+            "收购",
+            "旅行"
+          ]
+        },
+        {
+          "title": "Anthropic IPO",
+          "summary": "Anthropic 创始人各套现 2.5 亿",
+          "detail": "Anthropic 的 IPO 即将到来，七位创始人每人将套现约 2.5 亿美元。这笔巨额套现不仅标志着 Anthropic 的商业成功，也预示着 AI 初创公司的高估值时代到来。未来，AI 领域的创业热潮或将进一步升温。",
+          "usage": "💡 聊 AI 创业和 IPO\n💬 Anthropic 创始人各套现 2.5 亿，AI 创业的黄金时代来了！\n🔥 Anthropic IPO 套现",
+          "source": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+          "tags": [
+            "Anthropic",
+            "IPO",
+            "套现"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Fable 5.2 发布",
+          "summary": "Fable 5.2 实测来了",
+          "detail": "Fable 5.2 首批实测结果出炉，网友直呼 Opus 突然不香了。新版本在作曲、拍片、3D 建模等方面表现出色，几乎包揽了所有创意工作。Fable 5.2 的多功能集成让它在与 Opus 的竞争中占据了上风，未来或将主导创意 AI 市场。",
+          "usage": "💡 聊创意 AI 工具\n💬 Fable 5.2 实测来了，Opus 这下真不香了！\n🔥 Fable 5.2 Opus",
+          "source": "https://www.qbitai.com/2026/11/508912.html",
+          "tags": [
+            "Fable",
+            "Opus",
+            "创意 AI"
+          ]
+        },
+        {
+          "title": "Seedream 5.5 发布",
+          "summary": "Seedream 5.5 图像编辑稳了",
+          "detail": "Seedream 5.5 正式发布，解决了复杂的图像编辑问题，尤其是在处理 100 轮图像编辑时表现稳定。新版本的高效编辑能力让它在图像处理领域脱颖而出，未来或将成为设计师的必备工具。",
+          "usage": "💡 聊图像编辑 AI\n💬 Seedream 5.5 稳了，图像编辑再也不用愁！\n🔥 Seedream 图像编辑",
+          "source": "https://www.qbitai.com/2026/11/508828.html",
+          "tags": [
+            "Seedream",
+            "图像编辑",
+            "AI 工具"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "奥特曼谈 AI 对自由职业的影响",
+          "summary": "奥特曼谈 AI 与自由职业",
+          "detail": "奥特曼在近期的一次访谈中提到，AI 正在改变自由职业的市场需求，催生了新的技能组合。他表示，AI 的广泛应用将重塑自由职业的工作方式，未来自由职业者需要不断学习和适应新技术。",
+          "usage": "💡 聊 AI 对职业的影响\n💬 奥特曼说 AI 正在重塑自由职业，未来得不断学习新技能！\n🔥 奥特曼 自由职业 AI",
+          "source": "https://openai.com/index/ai-effect-on-freelance-work",
+          "tags": [
+            "奥特曼",
+            "自由职业",
+            "AI"
+          ]
+        },
+        {
+          "title": "NVIDIA CEO 涉间谍事件",
+          "summary": "NVIDIA CEO 涉间谍事件",
+          "detail": "NVIDIA CEO Jensen Huang 被曝与一名涉嫌中国间谍的女性有染。这一事件可能对国家安全产生影响，尤其是在美中 AI 竞赛的背景下。Huang 的私人生活或将引发更多关注和争议。",
+          "usage": "💡 聊 AI 行业八卦\n💬 NVIDIA CEO 涉间谍事件，AI 圈大瓜来了！\n🔥 NVIDIA Jensen Huang 间谍",
+          "source": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "tags": [
+            "NVIDIA",
+            "Jensen Huang",
+            "间谍"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI 推出 ChatGPT 企业版",
+          "summary": "ChatGPT 企业版登陆 AWS",
+          "detail": "OpenAI 宣布 ChatGPT Enterprise 现已登陆 AWS Marketplace，帮助企业简化采购流程。这一举措不仅扩大了 ChatGPT 的企业应用范围，也进一步巩固了 OpenAI 在商业 AI 市场的地位。",
+          "usage": "💡 聊企业 AI 应用\n💬 ChatGPT 企业版登陆 AWS，企业采购 AI 工具更方便了！\n🔥 ChatGPT Enterprise AWS",
+          "source": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "tags": [
+            "OpenAI",
+            "ChatGPT",
+            "AWS"
+          ]
+        },
+        {
+          "title": "Oura 收购 Counsel Health",
+          "summary": "Oura 收购 AI 医疗初创公司",
+          "detail": "Oura 宣布以 6.25 亿美元收购 AI 医疗初创公司 Counsel Health。这笔交易标志着 Oura 在 AI 医疗领域的进一步扩张，未来或将推动 AI 在初级医疗保健中的应用。",
+          "usage": "💡 聊 AI 医疗\n💬 Oura 收购 Counsel Health，AI 医疗市场又有大动作！\n🔥 Oura Counsel Health AI 医疗",
+          "source": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+          "tags": [
+            "Oura",
+            "Counsel Health",
+            "AI 医疗"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "ChatGPT 推出商家主页",
+          "summary": "ChatGPT 新增商家主页功能",
+          "detail": "OpenAI 推出 ChatGPT 商家主页功能，帮助企业管理信息、获取洞察，并将潜在客户转化为实际业务。这一功能让 ChatGPT 更像一个全方位的消费者发现引擎，未来或将与 Google 展开正面竞争。",
+          "usage": "💡 聊 AI 商业应用\n💬 ChatGPT 新增商家主页功能，Google 要小心了！\n🔥 ChatGPT 商家主页 Google",
+          "source": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+          "tags": [
+            "ChatGPT",
+            "商家主页",
+            "Google"
+          ]
+        },
+        {
+          "title": "Claude Meetings 发布",
+          "summary": "Claude Meetings 将讨论变任务",
+          "detail": "Anthropic 发布 Claude Meetings，这款工具可以将工作讨论转化为计划和任务。用户在讨论时，Claude 可以实时草拟计划、绘制时间线，并生成任务清单。未来，工作中的会议效率或将大幅提升。",
+          "usage": "💡 聊 AI 办公工具\n💬 Claude Meetings 来了，会议效率直接起飞！\n🔥 Claude Meetings 办公 AI",
+          "source": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+          "tags": [
+            "Claude",
+            "办公",
+            "AI 工具"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "蚂蚁灵波开源 LingBot-Touch",
+          "summary": "蚂蚁灵波开源触觉模型",
+          "detail": "蚂蚁灵波科技开源了触觉基础模型 LingBot-Touch，这一模型为机器人提供了通用触觉能力。未来，机器人在触觉感知方面的表现将大幅提升，应用场景也将更加广泛。",
+          "usage": "💡 聊机器人触觉\n💬 蚂蚁灵波开源 LingBot-Touch，机器人终于有了通用手感！\n🔥 LingBot-Touch 开源 机器人",
+          "source": "https://www.qbitai.com/2026/11/508996.html",
+          "tags": [
+            "蚂蚁灵波",
+            "LingBot-Touch",
+            "开源"
+          ]
+        },
+        {
+          "title": "PSI 用 AI 解决量子计算问题",
+          "summary": "PSI 用 AI 驱动科研",
+          "detail": "PSI 使用未发布的 Anthropic 模型解决了一个量子计算的基本问题，展示了 AI 在科学发现中的巨大潜力。这一突破不仅推动了量子计算的研究，也为 AI 驱动的科学探索开辟了新路径。",
+          "usage": "💡 聊 AI 科研\n💬 PSI 用 AI 解决量子计算问题，科研新纪元来了！\n🔥 PSI AI 量子计算",
+          "source": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+          "tags": [
+            "PSI",
+            "AI 科研",
+            "量子计算"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "OpenAI 推出 Control Room",
+          "summary": "OpenAI 推出模型管理系统",
+          "detail": "OpenAI 发布了 Control Room，这是一个中心化系统，用于跟踪和停止模型工作负载。Control Room 的应用将大幅提升模型管理的效率，未来或许会成为大规模 AI 研发的标配工具。",
+          "usage": "💡 聊 AI 研发管理\n💬 OpenAI 推出 Control Room，模型管理效率起飞！\n🔥 Control Room OpenAI",
+          "source": "https://openai.com/index/control-room",
+          "tags": [
+            "OpenAI",
+            "Control Room",
+            "模型管理"
+          ]
+        },
+        {
+          "title": "CodeRabbit 提升代码生成",
+          "summary": "CodeRabbit 代码生成效率提升 20 倍",
+          "detail": "CodeRabbit 使用 OpenAI 模型将 AI 生成的代码管理效率提升了 20 倍。这一突破不仅加快了软件开发的速度，也进一步验证了 AI 在代码生成领域的潜力。",
+          "usage": "💡 聊 AI 代码生成\n💬 CodeRabbit 代码生成效率提升 20 倍，开发速度起飞！\n🔥 CodeRabbit AI 代码生成",
+          "source": "https://openai.com/index/coderabbit-codex-daybreak",
+          "tags": [
+            "CodeRabbit",
+            "代码生成",
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "纽约 AI 安全法生效",
+          "summary": "纽约 AI 安全法生效",
+          "detail": "纽约的 AI 安全法正式生效，要求 OpenAI、Anthropic 等主要开发者遵守严格的安全规定。这一法规的出台标志着 AI 领域的安全监管进入新阶段，未来或将影响全球 AI 发展。",
+          "usage": "💡 聊 AI 监管\n💬 纽约 AI 安全法生效，OpenAI 和 Anthropic 要小心了！\n🔥 纽约 AI 安全法 OpenAI",
+          "source": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+          "tags": [
+            "纽约",
+            "AI 安全法",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "TensorWorld 融资过亿",
+          "summary": "TensorWorld 融资过亿",
+          "detail": "TensorWorld 物原科技在成立仅四个月后，成功融资超过 1 亿美元。这一巨额融资不仅展示了投资者对 AI 物理模拟的高度信心，也预示着 AI 驱动的物理真实技术将成为下一个风口。",
+          "usage": "💡 聊 AI 融资\n💬 TensorWorld 融资过亿，物理真实技术要起飞了！\n🔥 TensorWorld 融资 AI 物理",
+          "source": "https://www.qbitai.com/2026/11/508991.html",
+          "tags": [
+            "TensorWorld",
+            "融资",
+            "物理真实"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-11T03:03:52.035Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3542,
+    "completion_tokens": 3068,
+    "total_tokens": 6610,
+    "cost_usd": 0.0038639599999999996,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}
