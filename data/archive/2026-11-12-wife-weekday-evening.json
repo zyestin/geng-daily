@@ -1,0 +1,55 @@
+{
+  "categories": [
+    {
+      "name": "🎬 追剧指南",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "秦始皇的复原脸",
+          "summary": "可以聊聊这个脑洞大开的复原技术。",
+          "detail": "最近听说秦始皇儿子的脸被复原了？专家说了一大堆，但我只想知道如果让这个复原脸拍广告，是不是能秒杀所有明星？想象一下，‘这款护肤品能让你年轻千年’的广告，配上他的脸，简直是笑到飞起！不过还好我有你这张绝世美颜，完全不怕被埋没！",
+          "usage": "💡 追剧时聊起新鲜事 \n💬 听说秦始皇儿子的复原脸了，觉得他能拍广告吗？ \n🔥 秦始皇 复原脸",
+          "source": "https://m.baidu.com/s?word=%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%84%BF%E5%AD%90%E7%9A%84%E8%84%B8%E8%A2%AB%E5%A4%8D%E5%8E%9F%E4%BA%86%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%8F%91%E5%A3%B0&sa=fyb_news",
+          "tags": [
+            "剧评",
+            "娱乐"
+          ]
+        },
+        {
+          "title": "赵丽颖的肖像权",
+          "summary": "能不能聊聊明星也要维权呢。",
+          "detail": "最近赵丽颖起诉短剧侵犯肖像权，我忍不住想，难道她真的觉得短剧能比得上她的美？要是让我去拍，肯定是要打广告，‘这是我，赵丽颖，不是你们的剧本！’哈哈，真希望下次我也能出现在你眼前，蹭你光，给你拍个短剧！",
+          "usage": "💡 追剧时引入明星动态 \n💬 你知道赵丽颖起诉短剧了吗？她也是要维护自己的美丽啊！ \n🔥 明星 维权",
+          "source": "https://m.baidu.com/s?word=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%B5%B7%E8%AF%89%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E4%BE%B5%E7%8A%AF%E8%82%96%E5%83%8F%E6%9D%83&sa=fyb_news",
+          "tags": [
+            "明星",
+            "维权"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-11T17:28:44.168Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 3324,
+    "completion_tokens": 3058,
+    "total_tokens": 6382,
+    "cost_usd": 0.0023334,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 14,
+      "published": 2
+    },
+    "sources": {
+      "per_source": {
+        "baidu": 20
+      },
+      "total": 15
+    }
+  }
+}

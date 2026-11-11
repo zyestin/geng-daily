@@ -5,28 +5,30 @@
       "icon": "📰",
       "items": [
         {
-          "title": "罗森香烟海报风波",
-          "summary": "罗森天津门店香烟海报引争议",
-          "detail": "天津网友近日在社交平台吐槽罗森门店张贴的“香烟已到”海报，称其“让人很失望”。事件引发热议，罗森天津回应称将调查处理。家人们谁懂啊，便利店卖烟也要这么高调吗？",
-          "usage": "💡 同事讨论便利店营销\n💬 罗森香烟海报火了，你家楼下的便利店也这么卷吗？\n🔥 罗森 香烟海报 争议",
-          "source": "https://www.huxiu.com/article/4904657.html?f=rss",
+          "title": "比亚迪豪车出海",
+          "summary": "仰望鼎曜在阿布扎比首发",
+          "detail": "11月7日晚上，比亚迪旗下仰望品牌在阿布扎比的酋长皇宫酒店全球首发超豪华行政旗舰轿车鼎曜，这是仰望首次以完整形象在海外开全球发布会。一款中国车敢在石油土豪的地盘卖豪车，这波反向输出属实拿捏了。",
+          "usage": "💡 聊国产车高端化时\n💬 比亚迪都去中东卖豪车了，下次是不是该看到迪拜土豪开仰望？\n🔥 比亚迪 仰望 阿布扎比",
+          "src_id": 1,
           "tags": [
-            "罗森",
-            "香烟",
-            "营销争议"
-          ]
+            "比亚迪",
+            "豪车",
+            "出海"
+          ],
+          "source": "https://www.huxiu.com/article/4904885.html?f=rss"
         },
         {
-          "title": "进博会汽车展本土化",
-          "summary": "进博会汽车展充满本土制造氛围",
-          "detail": "第九届进博会汽车及智慧出行展区，合资汽车品牌纷纷展示本土制造的产品。家人们谁懂啊，进口博览会上却充满了本土制造的氛围，合资品牌这是要卷土重来吗？",
-          "usage": "💡 同事聊进博会\n💬 进博会汽车展都是本土制造，合资品牌这是要卷土重来吗？\n🔥 进博会 汽车展 本土制造",
-          "source": "https://www.huxiu.com/article/4904633.html?f=rss",
+          "title": "阿里平头哥分拆",
+          "summary": "阿里芯片业务独立遇阻",
+          "detail": "阿里旗下芯片公司平头哥正面临分拆难题，主要卡在阿里云这块。当年马云亲自取名'平头哥'，寓意蜜獾的无所畏惧，现在看这蜜獾可能要被云业务绊住脚了。",
+          "usage": "💡 聊大厂业务调整时\n💬 平头哥这蜜獾再猛，也干不过阿里云这座大山啊\n🔥 阿里 平头哥 芯片",
+          "src_id": 5,
           "tags": [
-            "进博会",
-            "汽车展",
-            "本土制造"
-          ]
+            "阿里",
+            "芯片",
+            "平头哥"
+          ],
+          "source": "https://www.huxiu.com/article/4904881.html?f=rss"
         }
       ]
     },
@@ -35,28 +37,28 @@
       "icon": "🎤",
       "items": [
         {
-          "title": "文远知行喊话大湾区",
-          "summary": "文远知行创始人韩旭喊话大湾区",
-          "detail": "在香港金融科技周期间，文远知行创始人韩旭接受CNBC专访，喊话大湾区，希望四五年内乘客能坐着Robotaxi出行。家人们谁懂啊，无人驾驶这是要在大湾区起飞了吗？",
-          "usage": "💡 同事聊无人驾驶\n💬 文远知行喊话大湾区，无人驾驶这是要起飞了吗？\n🔥 文远知行 大湾区 无人驾驶",
-          "source": "https://www.huxiu.com/article/4904635.html?f=rss",
-          "tags": [
-            "文远知行",
-            "大湾区",
-            "无人驾驶"
-          ]
-        },
-        {
-          "title": "罗大佑炮轰赖清德",
-          "summary": "罗大佑炮轰赖清德“不要脸”",
-          "detail": "罗大佑近日公开炮轰赖清德，称其“不要脸到家了”。家人们谁懂啊，音乐圈大佬也开始玩政治了吗？",
-          "usage": "💡 同事聊娱乐圈八卦\n💬 罗大佑炮轰赖清德，音乐圈大佬也开始玩政治了吗？\n🔥 罗大佑 赖清德 炮轰",
-          "source": "https://www.toutiao.com/trending/7706355468922683435/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706355468922683435%22%2C%22hot_board_impr_id%22%3A%2220261111105809226E33EBD51C0DE1C220%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%97%E5%A4%A7%E4%BD%91%E7%82%AE%E8%BD%B0%E8%B5%96%E6%B8%85%E5%BE%B7%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%84%B8%E5%88%B0%E5%AE%B6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7706355468922683435",
+          "title": "罗大佑开炮",
+          "summary": "怒怼赖清德不要脸",
+          "detail": "音乐教父罗大佑近日公开炮轰赖清德，直言'不要脸到家了'。虽然不算科技圈，但这火力比科技大佬互怼猛多了。",
+          "usage": "💡 聊名人互怼时\n💬 科技圈互怼都是商业互吹，看看人罗大佑这骂得才叫痛快\n🔥 罗大佑 赖清德",
+          "src_id": 17,
           "tags": [
             "罗大佑",
-            "赖清德",
-            "炮轰"
-          ]
+            "赖清德"
+          ],
+          "source": "https://www.toutiao.com/trending/7706355468922683435/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706355468922683435%22%2C%22hot_board_impr_id%22%3A%22202611120128451A8B7F9202A351D92A61%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%97%E5%A4%A7%E4%BD%91%E7%82%AE%E8%BD%B0%E8%B5%96%E6%B8%85%E5%BE%B7%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%84%B8%E5%88%B0%E5%AE%B6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7706355468922683435"
+        },
+        {
+          "title": "长虹倪润峰去世",
+          "summary": "家电业传奇人物离世",
+          "detail": "长虹电器原董事长倪润峰去世，这位曾带领长虹创造辉煌的传奇人物，如今家电江湖已物是人非。",
+          "usage": "💡 聊老牌企业时\n💬 又一个时代记忆落幕了，当年谁家没台长虹电视啊\n🔥 长虹 倪润峰",
+          "src_id": 9,
+          "tags": [
+            "长虹",
+            "倪润峰"
+          ],
+          "source": "https://www.toutiao.com/trending/7706906823810596914/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706906823810596914%22%2C%22hot_board_impr_id%22%3A%22202611120128451A8B7F9202A351D92A61%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%95%BF%E8%99%B9%E7%94%B5%E5%99%A8%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E5%80%AA%E6%B6%A6%E5%B3%B0%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7706906823810596914"
         }
       ]
     },
@@ -65,28 +67,28 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "辉羲科技IPO",
-          "summary": "辉羲科技拟A股IPO",
-          "detail": "辉羲科技近期在北京证监局办理上市辅导备案，拟A股IPO。这家芯片黑马曾融资7轮，仅次于英伟达。家人们谁懂啊，芯片圈又添一员猛将！",
-          "usage": "💡 同事聊芯片公司\n💬 辉羲科技要IPO了，芯片圈又添一员猛将！\n🔥 辉羲科技 IPO 芯片",
-          "source": "https://www.huxiu.com/article/4904648.html?f=rss",
+          "title": "比亚迪高端路线",
+          "summary": "不走大众丰田老路",
+          "detail": "比亚迪正在探索自己的高端化路径，明显不想重走大众和丰田的老路。从阿布扎比发布会来看，这波是要直接硬刚BBA的节奏。",
+          "usage": "💡 聊车企战略时\n💬 比亚迪：BBA你们让让，我要停酋长皇宫门口了\n🔥 比亚迪 高端化",
+          "src_id": 1,
           "tags": [
-            "辉羲科技",
-            "IPO",
-            "芯片"
-          ]
+            "比亚迪",
+            "高端化"
+          ],
+          "source": "https://www.huxiu.com/article/4904885.html?f=rss"
         },
         {
-          "title": "AI伪科普污染常识",
-          "summary": "AI伪科普正在污染下一代常识",
-          "detail": "AI生成的伪科普内容正在“污染”下一代的常识，10亿Token开源万只假鸟，AI伪科普正在“污染”下一代的常识。家人们谁懂啊，AI连科普都不靠谱了吗？",
-          "usage": "💡 同事聊AI问题\n💬 AI伪科普正在污染下一代常识，AI连科普都不靠谱了吗？\n🔥 AI伪科普 常识 污染",
-          "source": "https://www.huxiu.com/article/4904642.html?f=rss",
+          "title": "阿里云困局",
+          "summary": "拖累平头哥分拆",
+          "detail": "阿里云业务成为平头哥分拆的最大障碍，这云业务不仅没飘起来，反而成了拖累芯片业务的秤砣。",
+          "usage": "💡 聊大厂业务时\n💬 阿里云：没想到吧，我不仅能拖慢你的网速，还能拖慢你的分拆\n🔥 阿里云 平头哥",
+          "src_id": 5,
           "tags": [
-            "AI",
-            "伪科普",
-            "常识"
-          ]
+            "阿里云",
+            "平头哥"
+          ],
+          "source": "https://www.huxiu.com/article/4904881.html?f=rss"
         }
       ]
     },
@@ -95,28 +97,28 @@
       "icon": "🔀",
       "items": [
         {
-          "title": "具身数据采集时薪低",
-          "summary": "具身数据采集时薪仅8元",
-          "detail": "具身数据采集任务到手时薪仅8元，中间商赚取差价。家人们谁懂啊，兼职群里的数据采集任务这么不值钱了吗？",
-          "usage": "💡 同事聊兼职\n💬 具身数据采集时薪仅8元，兼职群里的任务这么不值钱了吗？\n🔥 具身数据 时薪 兼职",
-          "source": "https://www.huxiu.com/article/4904652.html?f=rss",
+          "title": "平头哥分拆难",
+          "summary": "阿里云成最大障碍",
+          "detail": "阿里旗下芯片公司平头哥的分拆计划遭遇阻力，主要卡在阿里云业务上。这只号称无所畏惧的蜜獾，现在被自家云业务绊住了脚。",
+          "usage": "💡 聊企业架构调整时\n💬 平头哥：我能干狮子，但干不过自家云\n🔥 阿里 平头哥 分拆",
+          "src_id": 5,
           "tags": [
-            "具身数据",
-            "时薪",
-            "兼职"
-          ]
+            "阿里",
+            "组织调整"
+          ],
+          "source": "https://www.huxiu.com/article/4904881.html?f=rss"
         },
         {
-          "title": "新型基础设施效率提升",
-          "summary": "新型基础设施效率提升百倍",
-          "detail": "新型基础设施效率提升百倍，家人们谁懂啊，基建也要卷效率了吗？",
-          "usage": "💡 同事聊基建\n💬 新型基础设施效率提升百倍，基建也要卷效率了吗？\n🔥 新型基础设施 效率 基建",
-          "source": "https://m.baidu.com/s?word=%E2%80%9C%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87%E7%99%BE%E5%80%8D%E2%80%9D+%E6%96%B0%E5%9E%8B%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E6%9D%A5%E4%BA%86&sa=fyb_news",
+          "title": "商学院遇冷",
+          "summary": "教老板生意不好做了",
+          "detail": "过去三十年红火的'教老板做生意'生意现在遇冷，商学院、培训机构、咨询公司的好日子似乎到头了。",
+          "usage": "💡 聊行业变化时\n💬 现在老板们终于发现，花几十万上课不如刷短视频学管理\n🔥 商学院 咨询",
+          "src_id": 2,
           "tags": [
-            "新型基础设施",
-            "效率",
-            "基建"
-          ]
+            "商学院",
+            "咨询"
+          ],
+          "source": "https://www.huxiu.com/article/4904884.html?f=rss"
         }
       ]
     },
@@ -125,28 +127,28 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "AI眼镜耳机难卖",
-          "summary": "AI眼镜耳机难撑起硬件溢价",
-          "detail": "AI眼镜和AI耳机难撑起硬件溢价，识别、翻译、转写、问答功能越来越容易获得。家人们谁懂啊，AI硬件也要卷功能了吗？",
-          "usage": "💡 同事聊AI硬件\n💬 AI眼镜耳机难撑起硬件溢价，AI硬件也要卷功能了吗？\n🔥 AI眼镜 耳机 硬件溢价",
-          "source": "https://www.huxiu.com/article/4904639.html?f=rss",
+          "title": "比亚迪豪车技术",
+          "summary": "反向输出中东市场",
+          "detail": "比亚迪带着仰望鼎曜进军中东豪车市场，这波中国汽车技术的反向输出堪称硬核。在石油土豪的地盘卖电动车，这操作够顶。",
+          "usage": "💡 聊汽车技术时\n💬 中东土豪：第一次见比我们还能烧钱的车企\n🔥 比亚迪 电动车 中东",
+          "src_id": 1,
           "tags": [
-            "AI眼镜",
-            "耳机",
-            "硬件溢价"
-          ]
+            "电动车",
+            "汽车技术"
+          ],
+          "source": "https://www.huxiu.com/article/4904885.html?f=rss"
         },
         {
-          "title": "旧款智能手表测血压",
-          "summary": "旧款智能手表加AI测血压",
-          "detail": "科技公司用AI让旧款智能手表监测血压，家人们谁懂啊，旧设备也要卷AI了吗？",
-          "usage": "💡 同事聊智能手表\n💬 旧款智能手表加AI测血压，旧设备也要卷AI了吗？\n🔥 旧款智能手表 AI 测血压",
-          "source": "https://www.huxiu.com/article/4904499.html?f=rss",
+          "title": "芯片分拆困局",
+          "summary": "平头哥遇阿里云阻碍",
+          "detail": "阿里旗下芯片公司平头哥的分拆计划遭遇技术之外的阻碍，阿里云业务成为最大绊脚石，硬科技也难逃组织架构的软刀子。",
+          "usage": "💡 聊芯片行业时\n💬 做芯片难，从大厂分拆出来做芯片更难\n🔥 芯片 平头哥",
+          "src_id": 5,
           "tags": [
-            "智能手表",
-            "AI",
-            "测血压"
-          ]
+            "芯片",
+            "硬科技"
+          ],
+          "source": "https://www.huxiu.com/article/4904881.html?f=rss"
         }
       ]
     },
@@ -155,28 +157,28 @@
       "icon": "📱",
       "items": [
         {
-          "title": "AI办公Agent",
-          "summary": "AI办公Agent分走脏活累活",
-          "detail": "WorkBuddy、Codex等AI办公Agent分走脏活累活，打工人享福了。家人们谁懂啊，AI连办公都要卷了吗？",
-          "usage": "💡 同事聊AI办公\n💬 AI办公Agent分走脏活累活，AI连办公都要卷了吗？\n🔥 AI办公Agent 脏活累活 打工人",
-          "source": "https://www.huxiu.com/article/4904630.html?f=rss",
+          "title": "仰望鼎曜首发",
+          "summary": "中东土豪新玩具",
+          "detail": "比亚迪仰望品牌在阿布扎比酋长皇宫酒店全球首发超豪华行政旗舰轿车鼎曜，这波直接把新车发布会开到了石油土豪家门口。",
+          "usage": "💡 聊新车发布时\n💬 建议下次发布会直接送每位来宾一桶油，突出一个反差营销\n🔥 仰望 鼎曜 豪车",
+          "src_id": 1,
           "tags": [
-            "AI办公Agent",
-            "脏活累活",
-            "打工人"
-          ]
+            "比亚迪",
+            "豪车"
+          ],
+          "source": "https://www.huxiu.com/article/4904885.html?f=rss"
         },
         {
-          "title": "零元面馆成闹剧",
-          "summary": "零元面馆终将成闹剧",
-          "detail": "南京两家零元面馆每天送出上千碗素面，排队人绵延百米。家人们谁懂啊，慈善也要卷了吗？",
-          "usage": "💡 同事聊慈善\n💬 零元面馆终将成闹剧，慈善也要卷了吗？\n🔥 零元面馆 慈善 闹剧",
-          "source": "https://www.huxiu.com/article/4904620.html?f=rss",
+          "title": "399羽绒服抢购",
+          "summary": "山姆又造爆款",
+          "detail": "山姆会员店399元羽绒服引发抢购，这价格在羽绒服界堪称白菜价，难怪能成爆款。",
+          "usage": "💡 聊零售爆品时\n💬 程序员の时尚：抢不到显卡就抢羽绒服吧，至少这个能御寒\n🔥 山姆 羽绒服",
+          "src_id": 10,
           "tags": [
-            "零元面馆",
-            "慈善",
-            "闹剧"
-          ]
+            "山姆",
+            "羽绒服"
+          ],
+          "source": "https://m.baidu.com/s?word=%E5%B1%B1%E5%A7%86399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A2%AB%E6%8A%A2%E8%B4%AD&sa=fyb_news"
         }
       ]
     },
@@ -185,28 +187,28 @@
       "icon": "🎬",
       "items": [
         {
-          "title": "张雪冠军车拍卖款",
-          "summary": "张雪冠军车拍卖款不再捐韩红基金会",
-          "detail": "张雪冠军车拍卖款不再捐给韩红基金会，家人们谁懂啊，慈善捐款也要卷了吗？",
-          "usage": "💡 同事聊慈善捐款\n💬 张雪冠军车拍卖款不再捐韩红基金会，慈善捐款也要卷了吗？\n🔥 张雪 冠军车 韩红基金会",
-          "source": "https://www.toutiao.com/trending/7706551821753680393/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706551821753680393%22%2C%22hot_board_impr_id%22%3A%2220261111105809226E33EBD51C0DE1C220%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%BC%A0%E9%9B%AA%E5%86%A0%E5%86%9B%E8%BD%A6%E6%8B%8D%E5%8D%96%E6%AC%BE%E4%B8%8D%E5%86%8D%E6%8D%90%E7%BB%99%E9%9F%A9%E7%BA%A2%E5%9F%BA%E9%87%91%E4%BC%9A%22%7D&rank=&style_id=40132&topic_id=7706551821753680393",
+          "title": "教老板生意凉了",
+          "summary": "商学院咨询遇冷",
+          "detail": "过去三十年红火的'教老板做生意'的生意现在遇冷，EMBA、培训机构、咨询公司的好日子似乎到头了，毕竟现在老板们都改刷短视频学管理了。",
+          "usage": "💡 聊创业风向时\n💬 知识付费的尽头是短视频，老板们终于想通了\n🔥 商学院 创业",
+          "src_id": 2,
           "tags": [
-            "张雪",
-            "冠军车",
-            "韩红基金会"
-          ]
+            "创业",
+            "商学院"
+          ],
+          "source": "https://www.huxiu.com/article/4904884.html?f=rss"
         },
         {
-          "title": "具身数据采集差价",
-          "summary": "具身数据采集差价去哪了",
-          "detail": "具身数据采集任务到手时薪仅8元，中间商赚取差价。家人们谁懂啊，数据采集任务也要卷差价了吗？",
-          "usage": "💡 同事聊兼职\n💬 具身数据采集差价去哪了，数据采集任务也要卷差价了吗？\n🔥 具身数据 差价 数据采集",
-          "source": "https://www.huxiu.com/article/4904652.html?f=rss",
+          "title": "家电维修乱象",
+          "summary": "全球通病难解决",
+          "detail": "家电维修的坑似乎是个全球通病，从中国到美国得克萨斯州，消费者都在为找靠谱维修头疼。",
+          "usage": "💡 聊服务行业时\n💬 建议程序员转行修家电，毕竟我们最擅长的不就是debug吗\n🔥 家电维修",
+          "src_id": 4,
           "tags": [
-            "具身数据",
-            "差价",
-            "数据采集"
-          ]
+            "家电",
+            "维修"
+          ],
+          "source": "https://www.huxiu.com/article/4904882.html?f=rss"
         }
       ]
     },
@@ -215,51 +217,51 @@
       "icon": "🪙",
       "items": [
         {
-          "title": "孙宇晨新动作",
-          "summary": "孙宇晨新动作引热议",
-          "detail": "孙宇晨近期动作频频，引发币圈热议。家人们谁懂啊，币圈大佬又开始搞事情了吗？",
-          "usage": "💡 同事聊币圈\n💬 孙宇晨新动作引热议，币圈大佬又开始搞事情了吗？\n🔥 孙宇晨 币圈 新动作",
-          "source": "",
+          "title": "钱去哪了",
+          "summary": "央行报告揭秘",
+          "detail": "央行最新报告揭秘'钱去哪了'，虽然不算纯币圈新闻，但这标题放在币圈也毫无违和感。",
+          "usage": "💡 聊资金流向时\n💬 币圈人：这题我会，钱都去交易所钱包了\n🔥 央行 资金",
+          "src_id": 14,
           "tags": [
-            "孙宇晨",
-            "币圈",
-            "新动作"
-          ]
+            "央行",
+            "资金"
+          ],
+          "source": "https://m.baidu.com/s?word=%E9%92%B1%E5%8E%BB%E5%93%AA%E4%BA%86%EF%BC%9F%E5%A4%AE%E8%A1%8C%E6%9C%80%E6%96%B0%E6%8A%A5%E5%91%8A%E6%8F%AD%E7%A7%98&sa=fyb_news"
         },
         {
-          "title": "币圈新动态",
-          "summary": "币圈新动态引发关注",
-          "detail": "币圈近期新动态引发关注，家人们谁懂啊，币圈又要起飞了吗？",
-          "usage": "💡 同事聊币圈\n💬 币圈新动态引发关注，币圈又要起飞了吗？\n🔥 币圈 新动态 起飞",
-          "source": "",
+          "title": "三张图看机遇",
+          "summary": "开放中国新机会",
+          "detail": "'三张图看开放中国新机遇'，虽然内容正经，但这标题放在币圈妥妥的K线图分析既视感。",
+          "usage": "💡 聊投资时\n💬 币圈老哥：不看三张图，怎么敢说看机遇\n🔥 开放 机遇",
+          "src_id": 12,
           "tags": [
-            "币圈",
-            "新动态",
-            "起飞"
-          ]
+            "开放",
+            "机遇"
+          ],
+          "source": "https://m.baidu.com/s?word=%E4%B8%89%E5%BC%A0%E2%80%9C%E5%9B%BE%E2%80%9D%E7%9C%8B%E5%BC%80%E6%94%BE%E4%B8%AD%E5%9B%BD%E6%96%B0%E6%9C%BA%E9%81%87&sa=fyb_news"
         }
       ]
     }
   ],
-  "generated_at": "2026-11-11T03:00:45.969Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-11-11T17:29:32.190Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 5686,
-    "completion_tokens": 3575,
-    "total_tokens": 9261,
-    "cost_usd": 0.0050012699999999995,
+    "prompt_tokens": 5042,
+    "completion_tokens": 2283,
+    "total_tokens": 7325,
+    "cost_usd": 0.0036453099999999997,
     "free": false,
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 12,
+        "huxiu": 5,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 23
+      "total": 17
     }
   }
 }

@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "key": "2026-11-12-parenting-weekday-evening",
+      "date": "2026-11-12",
+      "slot": "parenting-weekday-evening",
+      "slot_label": "工作日傍晚 · 生活时光",
+      "generated_at": "2026-11-11T17:24:33.149Z",
+      "weekday": "星期三",
+      "file": "archive/2026-11-12-parenting-weekday-evening.json",
+      "topic_count": 19,
+      "category_names": [
+        "科学奇人",
+        "文人风骨",
+        "兴趣深耕",
+        "思维启蒙",
+        "亲子行动",
+        "育儿心法",
+        "健康食育",
+        "运动启蒙"
+      ]
+    },
+    {
       "key": "2026-11-11-parenting-weekday-evening",
       "date": "2026-11-11",
       "slot": "parenting-weekday-evening",
@@ -1761,5 +1781,5 @@
       ]
     }
   ],
-  "updated_at": "2026-11-10T17:16:48.193Z"
+  "updated_at": "2026-11-11T17:24:33.159Z"
 }

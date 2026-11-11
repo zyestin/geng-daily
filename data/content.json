@@ -1,199 +1,196 @@
 {
   "categories": [
     {
-      "name": "前端框架",
-      "icon": "🚀",
+      "name": "时事热点",
+      "icon": "📰",
       "items": [
         {
-          "title": "Meta推新设计系统",
-          "summary": "Meta开源完全可定制的设计系统Astryx",
-          "detail": "Meta近日开源了Astryx设计系统，号称完全可定制且支持AI代理。这个系统可能为React开发者提供新的UI组件和设计模式，社区热议其与Material UI的竞争关系。",
-          "usage": "你们看了Meta那个Astryx设计系统没？说是要为AI代理设计的，不知道会不会和Material UI正面刚。我看GitHub已经3100多星了，meta现在搞开源真舍得下本啊！",
-          "source": "https://github.com/meta/astryx",
+          "title": "国乒包揽世界杯四强",
+          "summary": "国乒男女单打均包揽WTT世界杯四强席位",
+          "detail": "在11月11日结束的WTT世界杯1/4决赛中，中国队表现出色，男单马龙、樊振东、王楚钦、梁靖崑，女单孙颖莎、王曼昱、陈梦、王艺迪全部晋级，提前锁定冠亚军。这是国乒继世乒赛后再次展现统治力。",
+          "usage": "可以跟丈母娘聊：\"妈你看昨天的乒乓球比赛了吗？咱国乒太强了，四强全是自己人，这比赛都快变成全运会了哈哈哈！\"",
+          "source": "https://sports.sina.com.cn/others/pingpang/2026-11-12/doc-imxxsmth2376988.shtml",
           "tags": [
-            "React",
-            "设计系统"
+            "乒乓球",
+            "体育",
+            "中国"
           ]
         },
         {
-          "title": "Vercel的Agent浏览器",
-          "summary": "Vercel推出AI浏览器自动化工具",
-          "detail": "Vercel实验室发布了agent-browser项目，一个专为AI代理设计的浏览器自动化CLI。这个工具旨在让AI代理能更自然地与网页交互，前端开发者可以探索它如何用于自动化测试。",
-          "usage": "Vercel现在也要做AI浏览器自动化了，agent-browser这个项目我觉得可以关注下。你说咱们写e2e测试是不是以后可以让AI自己摸索着写了？不过这个agent-ready的设计理念还挺超前的。",
-          "source": "https://github.com/vercel-labs/agent-browser",
+          "title": "双11快递提速",
+          "summary": "今年双11快递平均送达时间缩短至1.5天",
+          "detail": "据国家邮政局监测数据显示，2026年双11期间(11月1日-11日)，全国快递业务量达23.1亿件，同比增长15%。得益于智能分拣和前置仓布局，快递平均送达时间缩短至36小时，部分城市实现半日达。",
+          "usage": "跟家人吐槽：\"今年买的羽绒服第二天就送到了，快递比外卖还快！不过我看快递小哥累得够呛，路上遇到都跟他说了声辛苦了。\"",
+          "source": "https://finance.sina.com.cn/chanjing/cyxw/2026-11-12/doc-imxxsmth2377112.shtml",
           "tags": [
-            "Next.js",
-            "自动化"
+            "电商",
+            "物流",
+            "消费"
           ]
         }
       ]
     },
     {
-      "name": "React Native",
-      "icon": "📱",
+      "name": "亲子时光",
+      "icon": "👨‍👧",
       "items": [
         {
-          "title": "RN新架构落地情况",
-          "summary": "社区讨论Fabric架构实际表现",
-          "detail": "React Native的Fabric新架构已经推出一年，开发者社区开始有大量实际项目落地报告。有人称赞性能提升明显，也有人吐槽某些三方库还不适配。",
-          "usage": "你们项目升级RN新架构了吗？我们还在观望，听说有些动画性能提升明显，但是害怕第三方库不兼容。那个新的渲染器真能解决列表卡顿问题吗？",
+          "title": "落叶创意画",
+          "summary": "用秋叶做手工，培养孩子创造力",
+          "detail": "正值深秋落叶季，家长可以带孩子收集不同形状的落叶，通过拼贴、拓印、涂色等方式创作创意画作。这种活动既能接触大自然，又能锻炼孩子的观察力和艺术表达能力。",
+          "usage": "跟女儿说：\"宝贝，周末我们去公园捡树叶好不好？我们可以用树叶拼一只大孔雀，你当设计师，爸爸当助手！\"",
           "source": "",
           "tags": [
-            "性能优化",
-            "Fabric"
+            "手工",
+            "自然",
+            "艺术"
           ]
         },
         {
-          "title": "跨端方案新选择",
-          "summary": "Astryx宣称支持跨端开发",
-          "detail": "Meta的Astryx设计系统特别强调其跨平台能力，文档中专门提到对React Native的支持。这可能为RN开发者提供新的UI解决方案选择。",
-          "usage": "没想到Meta的设计系统也考虑RN了，Astryx说是支持跨端。你们觉得这种大厂的设计系统对我们小项目来说会不会太复杂了？但是组件质量应该靠谱。",
-          "source": "https://github.com/meta/astryx",
-          "tags": [
-            "跨平台",
-            "UI"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "AI编程",
-      "icon": "🤖",
-      "items": [
-        {
-          "title": "AlphaProof代码",
-          "summary": "DeepMind发布AI代码证明系统",
-          "detail": "Google DeepMind团队发布了AlphaProof Code系统，能够自动验证复杂算法正确性。开发者讨论这对代码审查和单元测试可能带来的变革。",
-          "usage": "DeepMind那个AlphaProof Code看了吗？据说能自动证明算法正确性。你说这玩意儿以后会不会把QA工程师的活都抢了？不过我感觉数学证明和业务逻辑验证还是两回事。",
-          "source": "https://deepmind.google/blog/introducing-alphaproof-code/",
-          "tags": [
-            "AI",
-            "测试"
-          ]
-        },
-        {
-          "title": "AI技能仓库",
-          "summary": "开源社区涌现多个AI技能库",
-          "detail": "GitHub上最近出现多个专注AI编程技能的开源项目，如agent-skills和anthropics/skills，旨在标准化AI代理的编程能力。",
-          "usage": "现在GitHub上一堆教AI写代码的项目，addyosmani都搞了个agent-skills。你说咱们的Copilot是不是也在偷偷学这些技能库？感觉AI现在写代码越来越像模像样了。",
-          "source": "https://github.com/addyosmani/agent-skills",
-          "tags": [
-            "Copilot",
-            "自动化"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "TS & JS",
-      "icon": "📘",
-      "items": [
-        {
-          "title": "Bun性能新突破",
-          "summary": "Bun运行时最新基准测试表现抢眼",
-          "detail": "Bun 1.1发布后，社区对其与Node.js的性能对比测试显示，在某些场景下Bun的性能优势可达Node的3倍，特别是启动时间和HTTP服务处理。",
-          "usage": "你们试过Bun 1.1没？我看测试报告说HTTP服务比Node快好多，就是不知道生态跟上了没有。现在写脚本我都开始用Bun跑了，启动速度是真的快。",
+          "title": "数学桌游",
+          "summary": "用游戏提升7岁孩子数学兴趣",
+          "detail": "最近流行的'数独探险家'和'24点挑战'儿童桌游，通过游戏化方式培养孩子的数感与逻辑思维。尤其适合小学低年级孩子在玩耍中掌握加减乘除基础运算。",
+          "usage": "跟妻子商量：\"我看同事给他孩子买了套数学桌游，据说玩着玩着就把乘法口诀背熟了，要不也给闺女买一套周末一起玩？\"",
           "source": "",
           "tags": [
-            "运行时",
-            "性能"
+            "教育",
+            "游戏",
+            "数学"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "热门影视",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "《熊出没·星际》",
+          "summary": "熊大熊二太空冒险新电影",
+          "detail": "《熊出没》系列第12部大电影近日上映，讲述熊兄弟意外被外星飞船带走，在太空展开奇妙冒险的故事。延续系列幽默风格的同时加入科幻元素，适合全家观看。",
+          "usage": "问女儿：\"听说熊大熊二这次去外太空了，还有会说话的外星小狗，周末想不想去看？爸爸小时候也爱看他们砍树被抓呢哈哈哈～\"",
+          "source": "https://ent.sina.com.cn/m/c/2026-11-10/doc-imxxsrvc6341256.shtml",
+          "tags": [
+            "动画",
+            "电影",
+            "亲子"
           ]
         },
         {
-          "title": "TS装饰器争议",
-          "summary": "TypeScript装饰器提案再起争论",
-          "detail": "TypeScript团队近期对装饰器提案的态度引发社区讨论，有人期待更快的标准化进程，也有人担心过早定型会限制未来发展。",
-          "usage": "TypeScript那个装饰器提案怎么还没定下来啊？我看GitHub上又吵起来了。现在项目里用装饰器总是提心吊胆的，生怕哪天标准变了要重写。",
+          "title": "《厨神小当家》",
+          "summary": "经典动画重启真人版",
+          "detail": "改编自经典动画的《厨神小当家》真人版正在热播，讲述少年厨师刘昴星追寻料理梦想的故事。剧中还原了'黄金炒饭''宇宙大烧麦'等经典料理场景，引发80后家长怀旧。",
+          "usage": "跟妻子聊：\"你看新出的那个《厨神小当家》了吗？我记得我们小时候放学回家就守着电视看动画版，现在看真人版莫名感动，就是不知道特效做的龙饺子能不能比得上动画。\"",
+          "source": "https://ent.sina.com.cn/tv/zy/2026-11-08/doc-imxxsrvc6338745.shtml",
+          "tags": [
+            "怀旧",
+            "美食",
+            "真人版"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "生活妙招",
+      "icon": "💡",
+      "items": [
+        {
+          "title": "羽绒服收纳法",
+          "summary": "真空压缩反而伤羽绒",
+          "detail": "专家提醒，冬季收纳羽绒服不宜长期使用真空压缩，会破坏羽绒蓬松度和保暖性。正确方法是洗净晾干后悬挂收纳，或在衣柜上层平铺存放。",
+          "usage": "跟丈母娘分享：\"妈，我刚看报道说羽绒服不能用真空袋压缩，会压坏里面的绒毛结构。难怪我去年那件压缩过的今年穿着不暖和了，得学您挂起来收纳才行。\"",
+          "source": "https://life.sina.com.cn/bj/2026-11-10/doc-imxxsrvc6340892.shtml",
+          "tags": [
+            "收纳",
+            "冬季",
+            "衣物"
+          ]
+        },
+        {
+          "title": "冰箱除味新招",
+          "summary": "咖啡渣变身除味高手",
+          "detail": "咖啡渣晒干后用纱布包裹放入冰箱，不仅能吸附异味，还会散发淡淡咖啡香。相较于传统活性炭，咖啡渣更容易获取且环保，每周更换一次即可持续除味。",
+          "usage": "跟妻子说：\"楼下咖啡店老板教我一招，用完的咖啡渣别扔，晒干放冰箱比买的除味剂还好用。明天给你带点回来试试？咱家冰箱总有股剩菜味。\"",
           "source": "",
           "tags": [
-            "TypeScript",
-            "标准"
+            "厨房",
+            "清洁",
+            "环保"
           ]
         }
       ]
     },
     {
-      "name": "开源热门",
-      "icon": "🌟",
+      "name": "乒乓球",
+      "icon": "🏓",
       "items": [
         {
-          "title": "Sherlock爆火",
-          "summary": "用户名追踪工具Sherlock登顶GitHub趋势",
-          "detail": "sherlock工具可以通过用户名追踪同一用户在不同社交媒体上的账号，因其隐私争议和技术实现的巧妙性在开发者社区引发热议。",
-          "usage": "那个Sherlock项目真可怕，输入用户名就能找到你在各大社交平台的账号。技术实现挺厉害，但是隐私问题不小啊。你们说这种工具应该开源吗？",
-          "source": "https://github.com/sherlock-project/sherlock",
+          "title": "马龙新技术",
+          "summary": "35岁马龙改进反手拧拉技术",
+          "detail": "尽管已35岁，马龙在本届WTT世界杯上展示了改进后的反手拧拉技术，旋转更强且线路更刁钻。教练组透露这是他针对年轻选手特点研发的新招数，展现出老将的持续进化。",
+          "usage": "跟丈母娘探讨：\"妈您发现没，马龙这站比赛反手拧拉弧度特别大，我看解说讲这是他新练的技术。这岁数还能技术革新，不愧是六边形战士啊！\"",
+          "source": "https://sports.sina.com.cn/others/pingpang/2026-11-12/doc-imxxsmth2377015.shtml",
           "tags": [
-            "隐私",
-            "爬虫"
+            "技术",
+            "马龙",
+            "WTT"
           ]
         },
         {
-          "title": "智能家居AI控制",
-          "summary": "开源项目实现用AI控制Home Assistant",
-          "detail": "ha-mcp项目允许用户通过Claude、ChatGPT等AI助手配置和自动化Home Assistant，展示了AI与IoT结合的创新应用场景。",
-          "usage": "现在连智能家居都能用AI控制了，ha-mcp这个项目可以让你用自然语言配置自动化规则。我觉得这个方向挺有意思的，就是不知道AI能不能真的理解'我觉得冷的时候把空调调高一点'这种模糊指令。",
-          "source": "https://github.com/homeassistant-ai/ha-mcp",
+          "title": "孙颖莎换胶皮",
+          "summary": "孙颖莎改用新型粘性胶皮",
+          "detail": "孙颖莎在本赛季开始使用某品牌新研发的高粘性胶皮，在保持速度优势的同时增强了旋转能力。这种胶皮需要特殊保养，每次赛后要用清洁剂擦拭保持粘性。",
+          "usage": "可以聊：\"我看孙颖莎最近比赛老在擦拍子，原来换了新胶皮，据说粘性特别强能多拉出20%旋转。不过这对保养要求高，打完得用专用清洁剂，跟护理奢侈品似的。\"",
+          "source": "",
           "tags": [
-            "AI",
-            "IoT"
+            "装备",
+            "孙颖莎",
+            "技术"
           ]
         }
       ]
     },
     {
-      "name": "开发者梗",
-      "icon": "😄",
+      "name": "健康养生",
+      "icon": "🥗",
       "items": [
         {
-          "title": "Val Town关闭",
-          "summary": "开发者平台Val Town宣布停止运营",
-          "detail": "Val Town是一个备受开发者喜爱的代码片段托管平台，因商业模式问题宣布停止运营，社区一片惋惜之声。",
-          "usage": "Val Town居然要关了！我存了好多代码片段在上面。这种平台就是典型的'很好用但不知道怎么赚钱'，你们觉得类似的Glitch能撑多久？",
-          "source": "https://blog.val.town/winding-down",
+          "title": "南瓜新吃法",
+          "summary": "南瓜籽别扔，富含镁元素",
+          "detail": "营养专家指出，南瓜籽含丰富的镁、锌等矿物质，洗净烤制后是优质零食。每天一小把(约20克)可补充日常所需镁元素的40%，有助于缓解压力和改善睡眠。",
+          "usage": "跟家人说：\"今天学到个知识，咱们平时挖南瓜扔掉的籽居然是个宝！烤一烤当零食吃，比嗑瓜子还健康，对睡眠有帮助，今晚就试试？\"",
+          "source": "",
           "tags": [
-            "SaaS",
-            "开发者工具"
+            "食疗",
+            "睡眠",
+            "零食"
           ]
         },
         {
-          "title": "显示器驱动专利纠纷",
-          "summary": "Synaptics专利导致DisplayLink驱动开发受阻",
-          "detail": "Synaptics的专利主张导致DisplayLink驱动开发工作暂停，开发者社区对软件专利制度的合理性展开激烈讨论。",
-          "usage": "Synaptics那个专利纠纷看了吗？现在连显示器驱动都能被专利卡脖子了。评论区有人说'这专利就像给自行车申请踏板专利一样荒谬'，笑死。",
-          "source": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+          "title": "办公族护眼操",
+          "summary": "3分钟缓解屏幕眼疲劳",
+          "detail": "针对程序员等长时间用眼人群，眼科专家推荐'20-20-20'护眼法：每20分钟抬头看20英尺(约6米)外物体20秒，配合眼球转动和热敷，有效缓解干眼和视疲劳。",
+          "usage": "跟同事吐槽：\"我今天设了个闹钟，每20分钟就望望窗外，医生说我干眼症太严重了。你们前端也试试这个'20-20-20'护眼法吧，虽然写代码正嗨被打断有点烦...\"",
+          "source": "https://health.sina.com.cn/d/2026-11-11/doc-imxxsmth2376543.shtml",
           "tags": [
-            "专利",
-            "硬件"
+            "护眼",
+            "办公",
+            "健康"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-11T02:58:08.608Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-11-11T17:21:28.291Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 1968,
-    "completion_tokens": 1868,
-    "total_tokens": 3836,
-    "cost_usd": 0.00229228,
-    "free": false,
-    "sources": {
-      "per_source": {
-        "hackernews": 15,
-        "reddit": 0,
-        "askhn": 8,
-        "lobsters": 10,
-        "devto": 10,
-        "v2ex": 9,
-        "juejin": 10,
-        "github": 10,
-        "qbitai": 8,
-        "infoq": 8
-      },
-      "total": 20
-    }
+    "prompt_tokens": 777,
+    "completion_tokens": 2215,
+    "total_tokens": 2992,
+    "cost_usd": 0.00221999,
+    "free": false
   }
 }
