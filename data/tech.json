@@ -5,30 +5,28 @@
       "icon": "📰",
       "items": [
         {
-          "title": "比亚迪豪车出海",
-          "summary": "仰望鼎曜在阿布扎比首发",
-          "detail": "11月7日晚上，比亚迪旗下仰望品牌在阿布扎比的酋长皇宫酒店全球首发超豪华行政旗舰轿车鼎曜，这是仰望首次以完整形象在海外开全球发布会。一款中国车敢在石油土豪的地盘卖豪车，这波反向输出属实拿捏了。",
-          "usage": "💡 聊国产车高端化时\n💬 比亚迪都去中东卖豪车了，下次是不是该看到迪拜土豪开仰望？\n🔥 比亚迪 仰望 阿布扎比",
-          "src_id": 1,
+          "title": "PDF玩出花",
+          "summary": "PDF文档能跑Linux还能打游戏",
+          "detail": "程序员们把PDF玩成了瑞士军刀——最新发现PDF不仅能当游戏机（俄罗斯方块已通关），还能运行Linux系统。这波操作让Adobe都直呼内行，原来我们天天用的PDF本质是套‘页面绘制说明书’，现在被硬核玩家玩成了‘图灵完备’的编程画布。建议下次简历直接交PDF版，附赠可运行的贪吃蛇游戏代码。",
+          "usage": "💡 同事抱怨PDF打不开时\n💬 你这PDF能玩游戏吗？不能就out了\n🔥 PDF 黑科技 程序员骚操作",
+          "src_id": 8,
           "tags": [
-            "比亚迪",
-            "豪车",
-            "出海"
+            "技术宅",
+            "文件格式"
           ],
-          "source": "https://www.huxiu.com/article/4904885.html?f=rss"
+          "source": "https://www.huxiu.com/article/4903889.html?f=rss"
         },
         {
-          "title": "阿里平头哥分拆",
-          "summary": "阿里芯片业务独立遇阻",
-          "detail": "阿里旗下芯片公司平头哥正面临分拆难题，主要卡在阿里云这块。当年马云亲自取名'平头哥'，寓意蜜獾的无所畏惧，现在看这蜜獾可能要被云业务绊住脚了。",
-          "usage": "💡 聊大厂业务调整时\n💬 平头哥这蜜獾再猛，也干不过阿里云这座大山啊\n🔥 阿里 平头哥 芯片",
-          "src_id": 5,
+          "title": "零食店资本局",
+          "summary": "2.6%净利率的零食店靠割韭菜赚钱",
+          "detail": "万辰集团被曝零食生意净利率仅2.6%，真相是人家根本不屑赚零食钱——疯狂开加盟店炒高营收，股价拉升后大股东精准套现。这波‘开店-融资-分红’三连把港股当提款机，建议改名叫‘万韭集团’。现在知道为什么你家楼下零食店三个月换一茬了吧？",
+          "usage": "💡 聊加盟创业时\n💬 想开零食店？先学学怎么割二级市场韭菜\n🔥 资本运作 加盟骗局 财务魔术",
+          "src_id": 2,
           "tags": [
-            "阿里",
-            "芯片",
-            "平头哥"
+            "商业套路",
+            "上市公司"
           ],
-          "source": "https://www.huxiu.com/article/4904881.html?f=rss"
+          "source": "https://www.huxiu.com/article/4904491.html?f=rss"
         }
       ]
     },
@@ -37,28 +35,28 @@
       "icon": "🎤",
       "items": [
         {
-          "title": "罗大佑开炮",
-          "summary": "怒怼赖清德不要脸",
-          "detail": "音乐教父罗大佑近日公开炮轰赖清德，直言'不要脸到家了'。虽然不算科技圈，但这火力比科技大佬互怼猛多了。",
-          "usage": "💡 聊名人互怼时\n💬 科技圈互怼都是商业互吹，看看人罗大佑这骂得才叫痛快\n🔥 罗大佑 赖清德",
-          "src_id": 17,
+          "title": "黄教主不等式",
+          "summary": "詹森不等式硬核解读",
+          "detail": "黄仁勋最新演讲被扒出暗藏数学梗——当他在GTC大会上说‘加速计算是必然选择’时，技术宅发现这完美符合詹森不等式（凸函数下的期望值关系）。建议老黄下次PPT直接放推导过程，毕竟现在买显卡的都得是985数学系起步。",
+          "usage": "💡 聊显卡价格时\n💬 买4090前先证明詹森不等式谢谢\n🔥 黄仁勋 数学梗 显卡圣经",
+          "src_id": 5,
           "tags": [
-            "罗大佑",
-            "赖清德"
+            "英伟达",
+            "技术梗"
           ],
-          "source": "https://www.toutiao.com/trending/7706355468922683435/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706355468922683435%22%2C%22hot_board_impr_id%22%3A%22202611120128451A8B7F9202A351D92A61%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%97%E5%A4%A7%E4%BD%91%E7%82%AE%E8%BD%B0%E8%B5%96%E6%B8%85%E5%BE%B7%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%84%B8%E5%88%B0%E5%AE%B6%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7706355468922683435"
+          "source": "https://www.huxiu.com/article/4904957.html?f=rss"
         },
         {
-          "title": "长虹倪润峰去世",
-          "summary": "家电业传奇人物离世",
-          "detail": "长虹电器原董事长倪润峰去世，这位曾带领长虹创造辉煌的传奇人物，如今家电江湖已物是人非。",
-          "usage": "💡 聊老牌企业时\n💬 又一个时代记忆落幕了，当年谁家没台长虹电视啊\n🔥 长虹 倪润峰",
-          "src_id": 9,
+          "title": "卷尺大王",
+          "summary": "河南小县垄断全球卷尺",
+          "detail": "河南虞城梁老板的卷尺厂承包了全球2/3市场，却在超市发现自家产品贴牌后贵四倍。现在他悟了：科技圈大佬吹生态化反，不如我河南老铁反手一个供应链碾压。建议雷总下次演讲主题改成《论卷尺与手机的共同点》",
+          "usage": "💡 聊中国制造时\n💬 知道为什么米家卷尺卖19.9吗？河南老铁只收5块\n🔥 隐形冠军 贴牌暴利 供应链王者",
+          "src_id": 1,
           "tags": [
-            "长虹",
-            "倪润峰"
+            "制造业",
+            "出海"
           ],
-          "source": "https://www.toutiao.com/trending/7706906823810596914/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706906823810596914%22%2C%22hot_board_impr_id%22%3A%22202611120128451A8B7F9202A351D92A61%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%95%BF%E8%99%B9%E7%94%B5%E5%99%A8%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E5%80%AA%E6%B6%A6%E5%B3%B0%E5%8E%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7706906823810596914"
+          "source": "https://www.huxiu.com/article/4904966.html?f=rss"
         }
       ]
     },
@@ -67,28 +65,28 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "比亚迪高端路线",
-          "summary": "不走大众丰田老路",
-          "detail": "比亚迪正在探索自己的高端化路径，明显不想重走大众和丰田的老路。从阿布扎比发布会来看，这波是要直接硬刚BBA的节奏。",
-          "usage": "💡 聊车企战略时\n💬 比亚迪：BBA你们让让，我要停酋长皇宫门口了\n🔥 比亚迪 高端化",
-          "src_id": 1,
+          "title": "京东方砍单",
+          "summary": "华灿光电定增京东方只掏三成",
+          "detail": "华灿光电9.98亿定增案遇冷，大股东京东方突然变‘京吝啬’——说好的全额包圆变成只认30%。业内人士吐槽：这就像相亲时说‘我养你’，结婚后变成‘各付各的’。现在知道为什么国产屏幕总被卡脖子了吧？",
+          "usage": "💡 聊面板行业时\n💬 京东方：钱我有，但就是不想给你\n🔥 定增 面板 供应链博弈",
+          "src_id": 4,
           "tags": [
-            "比亚迪",
-            "高端化"
+            "半导体",
+            "投资"
           ],
-          "source": "https://www.huxiu.com/article/4904885.html?f=rss"
+          "source": "https://www.huxiu.com/article/4904954.html?f=rss"
         },
         {
-          "title": "阿里云困局",
-          "summary": "拖累平头哥分拆",
-          "detail": "阿里云业务成为平头哥分拆的最大障碍，这云业务不仅没飘起来，反而成了拖累芯片业务的秤砣。",
-          "usage": "💡 聊大厂业务时\n💬 阿里云：没想到吧，我不仅能拖慢你的网速，还能拖慢你的分拆\n🔥 阿里云 平头哥",
-          "src_id": 5,
+          "title": "超市变形记",
+          "summary": "商超入口改造成奶茶店",
+          "detail": "全国超市集体患上‘入口焦虑症’：永辉们把特价大米撤走，换成烘焙鲜花+果切三件套。消费者吐槽：现在进超市得像通关——先忍住不买20块的草莓蛋糕，才能见到9.9的卫生纸。建议改名叫‘甜点店附带日用品区’",
+          "usage": "💡 聊消费降级时\n💬 在超市买完蛋糕才发现我是来买洗衣液的\n🔥 新零售 消费陷阱 场景革命",
+          "src_id": 3,
           "tags": [
-            "阿里云",
-            "平头哥"
+            "商超",
+            "消费"
           ],
-          "source": "https://www.huxiu.com/article/4904881.html?f=rss"
+          "source": "https://www.huxiu.com/article/4904965.html?f=rss"
         }
       ]
     },
@@ -97,28 +95,28 @@
       "icon": "🔀",
       "items": [
         {
-          "title": "平头哥分拆难",
-          "summary": "阿里云成最大障碍",
-          "detail": "阿里旗下芯片公司平头哥的分拆计划遭遇阻力，主要卡在阿里云业务上。这只号称无所畏惧的蜜獾，现在被自家云业务绊住了脚。",
-          "usage": "💡 聊企业架构调整时\n💬 平头哥：我能干狮子，但干不过自家云\n🔥 阿里 平头哥 分拆",
-          "src_id": 5,
+          "title": "数采概念股",
+          "summary": "人形机器人带火数据采集公司",
+          "detail": "A股‘数采三傻’（福莱新材/汉威科技/奥比中光）一个月暴涨30%，只因蹭上人形机器人数据采集概念。董秘们连夜修改PPT，把‘工厂传感器’改成‘元宇宙神经末梢’。韭菜：所以到底谁在采我的数据？",
+          "usage": "💡 聊A股妖股时\n💬 你买的不是股票是机器人未来的触觉神经\n🔥 概念股 人形机器人 数据泡沫",
+          "src_id": 11,
           "tags": [
-            "阿里",
-            "组织调整"
+            "A股",
+            "机器人"
           ],
-          "source": "https://www.huxiu.com/article/4904881.html?f=rss"
+          "source": "https://www.huxiu.com/article/4904938.html?f=rss"
         },
         {
-          "title": "商学院遇冷",
-          "summary": "教老板生意不好做了",
-          "detail": "过去三十年红火的'教老板做生意'生意现在遇冷，商学院、培训机构、咨询公司的好日子似乎到头了。",
-          "usage": "💡 聊行业变化时\n💬 现在老板们终于发现，花几十万上课不如刷短视频学管理\n🔥 商学院 咨询",
-          "src_id": 2,
+          "title": "AI短剧泡沫",
+          "summary": "流量爆棚但赚不到钱",
+          "detail": "AI短剧陷入‘叫好不叫座’怪圈：播放量随便破亿，但90%公司还在亏钱。业内人士揭秘：省了演员片酬但得加钱投流，最后发现AI最大的作用是帮MCN写‘龙王赘婿’第108部续集",
+          "usage": "💡 聊AI应用时\n💬 用AI写剧本？不如直接写辞职报告\n🔥 短剧 内容农场 算法陷阱",
+          "src_id": 9,
           "tags": [
-            "商学院",
-            "咨询"
+            "短视频",
+            "生成式AI"
           ],
-          "source": "https://www.huxiu.com/article/4904884.html?f=rss"
+          "source": "https://www.huxiu.com/article/4904948.html?f=rss"
         }
       ]
     },
@@ -127,28 +125,28 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "比亚迪豪车技术",
-          "summary": "反向输出中东市场",
-          "detail": "比亚迪带着仰望鼎曜进军中东豪车市场，这波中国汽车技术的反向输出堪称硬核。在石油土豪的地盘卖电动车，这操作够顶。",
-          "usage": "💡 聊汽车技术时\n💬 中东土豪：第一次见比我们还能烧钱的车企\n🔥 比亚迪 电动车 中东",
-          "src_id": 1,
+          "title": "Qwen4翻车",
+          "summary": "通义千问新模型审美被嘲",
+          "detail": "阿里通义千问Qwen4-Max发布即翻车：代码能力提升但审美直男癌，生成的美女图被吐槽像‘蜡像馆着火’。网友：建议改名叫‘通义钢铁直男’，Fable5.2看完连夜给自己P图美颜",
+          "usage": "💡 聊大模型时\n💬 用Qwen4画自拍？建议直接戴头盔\n🔥 通义千问 AI绘画 审美翻车",
+          "src_id": 10,
           "tags": [
-            "电动车",
-            "汽车技术"
+            "大模型",
+            "阿里巴巴"
           ],
-          "source": "https://www.huxiu.com/article/4904885.html?f=rss"
+          "source": "https://www.huxiu.com/article/4904947.html?f=rss"
         },
         {
-          "title": "芯片分拆困局",
-          "summary": "平头哥遇阿里云阻碍",
-          "detail": "阿里旗下芯片公司平头哥的分拆计划遭遇技术之外的阻碍，阿里云业务成为最大绊脚石，硬科技也难逃组织架构的软刀子。",
-          "usage": "💡 聊芯片行业时\n💬 做芯片难，从大厂分拆出来做芯片更难\n🔥 芯片 平头哥",
-          "src_id": 5,
+          "title": "国债秒光",
+          "summary": "利率新低仍遭大妈疯抢",
+          "detail": "2026年最后一批储蓄国债开售即‘秒光’，大妈们用实际行动证明：你可以不相信A股，但永远可以相信财政部。虽然利率只剩2.6%，但比起理财暴雷，宁可要‘国家认证的穷’",
+          "usage": "💡 聊理财时\n💬 现在抢国债得用12306同款外挂\n🔥 避险 利率 资产荒",
+          "src_id": 7,
           "tags": [
-            "芯片",
-            "硬科技"
+            "理财",
+            "宏观经济"
           ],
-          "source": "https://www.huxiu.com/article/4904881.html?f=rss"
+          "source": "https://www.huxiu.com/article/4904951.html?f=rss"
         }
       ]
     },
@@ -157,28 +155,28 @@
       "icon": "📱",
       "items": [
         {
-          "title": "仰望鼎曜首发",
-          "summary": "中东土豪新玩具",
-          "detail": "比亚迪仰望品牌在阿布扎比酋长皇宫酒店全球首发超豪华行政旗舰轿车鼎曜，这波直接把新车发布会开到了石油土豪家门口。",
-          "usage": "💡 聊新车发布时\n💬 建议下次发布会直接送每位来宾一桶油，突出一个反差营销\n🔥 仰望 鼎曜 豪车",
-          "src_id": 1,
+          "title": "大学参观明码标价",
+          "summary": "南大陪逛服务88元/小时",
+          "detail": "南京大学被曝出‘知识付费’新玩法：黄牛带逛校园明码标价，基础版8元（仅限门口拍照），VIP版88元（含学霸陪聊）。建议清北推出698元套餐：和状元共进食堂+赠送微积分随堂测验",
+          "usage": "💡 聊教育内卷时\n💬 知识改变命运？先交88元命运入场费\n🔥 教育产业化 校园黄牛 知识付费",
+          "src_id": 12,
           "tags": [
-            "比亚迪",
-            "豪车"
+            "教育",
+            "文旅"
           ],
-          "source": "https://www.huxiu.com/article/4904885.html?f=rss"
+          "source": "https://www.huxiu.com/article/4904941.html?f=rss"
         },
         {
-          "title": "399羽绒服抢购",
-          "summary": "山姆又造爆款",
-          "detail": "山姆会员店399元羽绒服引发抢购，这价格在羽绒服界堪称白菜价，难怪能成爆款。",
-          "usage": "💡 聊零售爆品时\n💬 程序员の时尚：抢不到显卡就抢羽绒服吧，至少这个能御寒\n🔥 山姆 羽绒服",
-          "src_id": 10,
+          "title": "PDF玩出花",
+          "summary": "PDF文档能跑Linux还能打游戏",
+          "detail": "程序员们把PDF玩成了瑞士军刀——最新发现PDF不仅能当游戏机（俄罗斯方块已通关），还能运行Linux系统。这波操作让Adobe都直呼内行，原来我们天天用的PDF本质是套‘页面绘制说明书’，现在被硬核玩家玩成了‘图灵完备’的编程画布。建议下次简历直接交PDF版，附赠可运行的贪吃蛇游戏代码。",
+          "usage": "💡 同事抱怨PDF打不开时\n💬 你这PDF能玩游戏吗？不能就out了\n🔥 PDF 黑科技 程序员骚操作",
+          "src_id": 8,
           "tags": [
-            "山姆",
-            "羽绒服"
+            "技术宅",
+            "文件格式"
           ],
-          "source": "https://m.baidu.com/s?word=%E5%B1%B1%E5%A7%86399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A2%AB%E6%8A%A2%E8%B4%AD&sa=fyb_news"
+          "source": "https://www.huxiu.com/article/4903889.html?f=rss"
         }
       ]
     },
@@ -187,81 +185,56 @@
       "icon": "🎬",
       "items": [
         {
-          "title": "教老板生意凉了",
-          "summary": "商学院咨询遇冷",
-          "detail": "过去三十年红火的'教老板做生意'的生意现在遇冷，EMBA、培训机构、咨询公司的好日子似乎到头了，毕竟现在老板们都改刷短视频学管理了。",
-          "usage": "💡 聊创业风向时\n💬 知识付费的尽头是短视频，老板们终于想通了\n🔥 商学院 创业",
+          "title": "零食店资本局",
+          "summary": "2.6%净利率的零食店靠割韭菜赚钱",
+          "detail": "万辰集团被曝零食生意净利率仅2.6%，真相是人家根本不屑赚零食钱——疯狂开加盟店炒高营收，股价拉升后大股东精准套现。这波‘开店-融资-分红’三连把港股当提款机，建议改名叫‘万韭集团’。现在知道为什么你家楼下零食店三个月换一茬了吧？",
+          "usage": "💡 聊加盟创业时\n💬 想开零食店？先学学怎么割二级市场韭菜\n🔥 资本运作 加盟骗局 财务魔术",
           "src_id": 2,
           "tags": [
-            "创业",
-            "商学院"
+            "商业套路",
+            "上市公司"
           ],
-          "source": "https://www.huxiu.com/article/4904884.html?f=rss"
+          "source": "https://www.huxiu.com/article/4904491.html?f=rss"
         },
         {
-          "title": "家电维修乱象",
-          "summary": "全球通病难解决",
-          "detail": "家电维修的坑似乎是个全球通病，从中国到美国得克萨斯州，消费者都在为找靠谱维修头疼。",
-          "usage": "💡 聊服务行业时\n💬 建议程序员转行修家电，毕竟我们最擅长的不就是debug吗\n🔥 家电维修",
-          "src_id": 4,
+          "title": "AI短剧泡沫",
+          "summary": "流量爆棚但赚不到钱",
+          "detail": "AI短剧陷入‘叫好不叫座’怪圈：播放量随便破亿，但90%公司还在亏钱。业内人士揭秘：省了演员片酬但得加钱投流，最后发现AI最大的作用是帮MCN写‘龙王赘婿’第108部续集",
+          "usage": "💡 聊AI应用时\n💬 用AI写剧本？不如直接写辞职报告\n🔥 短剧 内容农场 算法陷阱",
+          "src_id": 9,
           "tags": [
-            "家电",
-            "维修"
+            "短视频",
+            "生成式AI"
           ],
-          "source": "https://www.huxiu.com/article/4904882.html?f=rss"
-        }
-      ]
-    },
-    {
-      "name": "币圈风云",
-      "icon": "🪙",
-      "items": [
-        {
-          "title": "钱去哪了",
-          "summary": "央行报告揭秘",
-          "detail": "央行最新报告揭秘'钱去哪了'，虽然不算纯币圈新闻，但这标题放在币圈也毫无违和感。",
-          "usage": "💡 聊资金流向时\n💬 币圈人：这题我会，钱都去交易所钱包了\n🔥 央行 资金",
-          "src_id": 14,
-          "tags": [
-            "央行",
-            "资金"
-          ],
-          "source": "https://m.baidu.com/s?word=%E9%92%B1%E5%8E%BB%E5%93%AA%E4%BA%86%EF%BC%9F%E5%A4%AE%E8%A1%8C%E6%9C%80%E6%96%B0%E6%8A%A5%E5%91%8A%E6%8F%AD%E7%A7%98&sa=fyb_news"
-        },
-        {
-          "title": "三张图看机遇",
-          "summary": "开放中国新机会",
-          "detail": "'三张图看开放中国新机遇'，虽然内容正经，但这标题放在币圈妥妥的K线图分析既视感。",
-          "usage": "💡 聊投资时\n💬 币圈老哥：不看三张图，怎么敢说看机遇\n🔥 开放 机遇",
-          "src_id": 12,
-          "tags": [
-            "开放",
-            "机遇"
-          ],
-          "source": "https://m.baidu.com/s?word=%E4%B8%89%E5%BC%A0%E2%80%9C%E5%9B%BE%E2%80%9D%E7%9C%8B%E5%BC%80%E6%94%BE%E4%B8%AD%E5%9B%BD%E6%96%B0%E6%9C%BA%E9%81%87&sa=fyb_news"
+          "source": "https://www.huxiu.com/article/4904948.html?f=rss"
         }
       ]
     }
   ],
-  "generated_at": "2026-11-11T17:29:32.190Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-12T04:07:42.316Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 5042,
-    "completion_tokens": 2283,
-    "total_tokens": 7325,
-    "cost_usd": 0.0036453099999999997,
+    "prompt_tokens": 5762,
+    "completion_tokens": 2717,
+    "total_tokens": 8479,
+    "cost_usd": 0.0042619699999999995,
     "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 2,
+      "published": 14
+    },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 5,
+        "huxiu": 12,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 17
+      "total": 23
     }
   }
 }

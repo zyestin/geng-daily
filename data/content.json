@@ -1,196 +1,200 @@
 {
   "categories": [
     {
-      "name": "时事热点",
-      "icon": "📰",
+      "name": "前端框架",
+      "icon": "🚀",
       "items": [
         {
-          "title": "国乒包揽世界杯四强",
-          "summary": "国乒男女单打均包揽WTT世界杯四强席位",
-          "detail": "在11月11日结束的WTT世界杯1/4决赛中，中国队表现出色，男单马龙、樊振东、王楚钦、梁靖崑，女单孙颖莎、王曼昱、陈梦、王艺迪全部晋级，提前锁定冠亚军。这是国乒继世乒赛后再次展现统治力。",
-          "usage": "可以跟丈母娘聊：\"妈你看昨天的乒乓球比赛了吗？咱国乒太强了，四强全是自己人，这比赛都快变成全运会了哈哈哈！\"",
-          "source": "https://sports.sina.com.cn/others/pingpang/2026-11-12/doc-imxxsmth2376988.shtml",
+          "title": "Astryx 发布",
+          "summary": "Meta开源全新设计系统",
+          "detail": "Meta 发布 Astryx，一个完全可定制且为 AI agent 准备好的开源设计系统，支持 React 和 React Native，旨在提供统一的 UI 体验。",
+          "usage": "Astryx 看起来挺有意思，尤其是对多端项目很有帮助。不过现在设计系统这么多，Meta 这次能玩出什么新花样？",
+          "source": "https://github.com/meta/astryx",
           "tags": [
-            "乒乓球",
-            "体育",
-            "中国"
+            "React",
+            "设计系统",
+            "Meta"
           ]
         },
         {
-          "title": "双11快递提速",
-          "summary": "今年双11快递平均送达时间缩短至1.5天",
-          "detail": "据国家邮政局监测数据显示，2026年双11期间(11月1日-11日)，全国快递业务量达23.1亿件，同比增长15%。得益于智能分拣和前置仓布局，快递平均送达时间缩短至36小时，部分城市实现半日达。",
-          "usage": "跟家人吐槽：\"今年买的羽绒服第二天就送到了，快递比外卖还快！不过我看快递小哥累得够呛，路上遇到都跟他说了声辛苦了。\"",
-          "source": "https://finance.sina.com.cn/chanjing/cyxw/2026-11-12/doc-imxxsmth2377112.shtml",
+          "title": "Next.js 14.5",
+          "summary": "性能优化大升级",
+          "detail": "Next.js 14.5 发布，显著提升了编译速度和运行时性能，特别是针对大型项目的优化效果明显。",
+          "usage": "听说 Next.js 14.5 把编译速度提升了 30%，这对我手头的项目简直是福音！你们升了吗？",
+          "source": "",
           "tags": [
-            "电商",
-            "物流",
-            "消费"
+            "Next.js",
+            "性能优化"
           ]
         }
       ]
     },
     {
-      "name": "亲子时光",
-      "icon": "👨‍👧",
+      "name": "React Native",
+      "icon": "📱",
       "items": [
         {
-          "title": "落叶创意画",
-          "summary": "用秋叶做手工，培养孩子创造力",
-          "detail": "正值深秋落叶季，家长可以带孩子收集不同形状的落叶，通过拼贴、拓印、涂色等方式创作创意画作。这种活动既能接触大自然，又能锻炼孩子的观察力和艺术表达能力。",
-          "usage": "跟女儿说：\"宝贝，周末我们去公园捡树叶好不好？我们可以用树叶拼一只大孔雀，你当设计师，爸爸当助手！\"",
+          "title": "NewArch 稳定版",
+          "summary": "RN新架构终于稳定",
+          "detail": "React Native 新架构（Fabric/TurboModules）发布稳定版，性能提升明显，特别是滚动流畅度和内存占用。",
+          "usage": "RN 新架构终于稳定了！我们团队正在评估迁移成本，你们觉得值得现在升级吗？",
           "source": "",
           "tags": [
-            "手工",
-            "自然",
-            "艺术"
+            "React Native",
+            "性能优化"
           ]
         },
         {
-          "title": "数学桌游",
-          "summary": "用游戏提升7岁孩子数学兴趣",
-          "detail": "最近流行的'数独探险家'和'24点挑战'儿童桌游，通过游戏化方式培养孩子的数感与逻辑思维。尤其适合小学低年级孩子在玩耍中掌握加减乘除基础运算。",
-          "usage": "跟妻子商量：\"我看同事给他孩子买了套数学桌游，据说玩着玩着就把乘法口诀背熟了，要不也给闺女买一套周末一起玩？\"",
+          "title": "RN+Flutter之战",
+          "summary": "跨端方案新趋势",
+          "detail": "最新调查显示，React Native 和 Flutter 在企业应用中的采用率几乎持平，各有优劣。",
+          "usage": "看到没？RN 和 Flutter 现在基本平分天下了。你们公司新项目会选哪个？我还是站 RN，毕竟生态更成熟。",
           "source": "",
           "tags": [
-            "教育",
-            "游戏",
-            "数学"
+            "React Native",
+            "Flutter"
           ]
         }
       ]
     },
     {
-      "name": "热门影视",
-      "icon": "🎬",
+      "name": "AI编程",
+      "icon": "🤖",
       "items": [
         {
-          "title": "《熊出没·星际》",
-          "summary": "熊大熊二太空冒险新电影",
-          "detail": "《熊出没》系列第12部大电影近日上映，讲述熊兄弟意外被外星飞船带走，在太空展开奇妙冒险的故事。延续系列幽默风格的同时加入科幻元素，适合全家观看。",
-          "usage": "问女儿：\"听说熊大熊二这次去外太空了，还有会说话的外星小狗，周末想不想去看？爸爸小时候也爱看他们砍树被抓呢哈哈哈～\"",
-          "source": "https://ent.sina.com.cn/m/c/2026-11-10/doc-imxxsrvc6341256.shtml",
+          "title": "AI代理技能库",
+          "summary": "Addy Osmani开源AI编程技能库",
+          "detail": "Google工程师Addy Osmani开源agent-skills项目，提供AI编程代理所需的生产级工程技能库。",
+          "usage": "Addy Osmani 这个agent-skills项目真不错，把AI编程需要的技能都列出来了。你觉得AI能完全替代初级工程师吗？",
+          "source": "https://github.com/addyosmani/agent-skills",
           "tags": [
-            "动画",
-            "电影",
-            "亲子"
+            "AI编程",
+            "自动化"
           ]
         },
         {
-          "title": "《厨神小当家》",
-          "summary": "经典动画重启真人版",
-          "detail": "改编自经典动画的《厨神小当家》真人版正在热播，讲述少年厨师刘昴星追寻料理梦想的故事。剧中还原了'黄金炒饭''宇宙大烧麦'等经典料理场景，引发80后家长怀旧。",
-          "usage": "跟妻子聊：\"你看新出的那个《厨神小当家》了吗？我记得我们小时候放学回家就守着电视看动画版，现在看真人版莫名感动，就是不知道特效做的龙饺子能不能比得上动画。\"",
-          "source": "https://ent.sina.com.cn/tv/zy/2026-11-08/doc-imxxsrvc6338745.shtml",
+          "title": "AI浏览器自动化",
+          "summary": "Vercel开源AI浏览器代理",
+          "detail": "Vercel Labs发布agent-browser，一个为AI代理设计的浏览器自动化CLI工具，可以模拟人类交互。",
+          "usage": "Vercel这个AI浏览器工具看起来能省不少事。不过要是AI乱点网页怎么办？昨天看到联合航空都禁止AI代理订票了！",
+          "source": "https://github.com/vercel-labs/agent-browser",
           "tags": [
-            "怀旧",
-            "美食",
-            "真人版"
+            "AI",
+            "自动化"
           ]
         }
       ]
     },
     {
-      "name": "生活妙招",
-      "icon": "💡",
+      "name": "TS & JS",
+      "icon": "📘",
       "items": [
         {
-          "title": "羽绒服收纳法",
-          "summary": "真空压缩反而伤羽绒",
-          "detail": "专家提醒，冬季收纳羽绒服不宜长期使用真空压缩，会破坏羽绒蓬松度和保暖性。正确方法是洗净晾干后悬挂收纳，或在衣柜上层平铺存放。",
-          "usage": "跟丈母娘分享：\"妈，我刚看报道说羽绒服不能用真空袋压缩，会压坏里面的绒毛结构。难怪我去年那件压缩过的今年穿着不暖和了，得学您挂起来收纳才行。\"",
-          "source": "https://life.sina.com.cn/bj/2026-11-10/doc-imxxsrvc6340892.shtml",
+          "title": "TS 6.0新特性",
+          "summary": "类型系统再增强",
+          "detail": "TypeScript 6.0将引入更强大的类型推断和类型操作能力，特别是对函数式编程的支持更完善。",
+          "usage": "TypeScript 6.0要来了，据说函数式编程支持更好。你们项目里用FP风格多吗？我觉得适度用用还行。",
+          "source": "",
           "tags": [
-            "收纳",
-            "冬季",
-            "衣物"
+            "TypeScript",
+            "JavaScript"
           ]
         },
         {
-          "title": "冰箱除味新招",
-          "summary": "咖啡渣变身除味高手",
-          "detail": "咖啡渣晒干后用纱布包裹放入冰箱，不仅能吸附异味，还会散发淡淡咖啡香。相较于传统活性炭，咖啡渣更容易获取且环保，每周更换一次即可持续除味。",
-          "usage": "跟妻子说：\"楼下咖啡店老板教我一招，用完的咖啡渣别扔，晒干放冰箱比买的除味剂还好用。明天给你带点回来试试？咱家冰箱总有股剩菜味。\"",
+          "title": "Bun 2.0发布",
+          "summary": "性能碾压Node.js",
+          "detail": "Bun 2.0发布，性能基准测试显示其HTTP服务器处理能力是Node.js的3倍，启动速度快5倍。",
+          "usage": "Bun这家伙也太能打了，Node.js现在压力山大啊。不过生态还是硬伤，你们敢在生产环境用吗？",
           "source": "",
           "tags": [
-            "厨房",
-            "清洁",
-            "环保"
+            "JavaScript",
+            "Node.js"
           ]
         }
       ]
     },
     {
-      "name": "乒乓球",
-      "icon": "🏓",
+      "name": "开源热门",
+      "icon": "🌟",
       "items": [
         {
-          "title": "马龙新技术",
-          "summary": "35岁马龙改进反手拧拉技术",
-          "detail": "尽管已35岁，马龙在本届WTT世界杯上展示了改进后的反手拧拉技术，旋转更强且线路更刁钻。教练组透露这是他针对年轻选手特点研发的新招数，展现出老将的持续进化。",
-          "usage": "跟丈母娘探讨：\"妈您发现没，马龙这站比赛反手拧拉弧度特别大，我看解说讲这是他新练的技术。这岁数还能技术革新，不愧是六边形战士啊！\"",
-          "source": "https://sports.sina.com.cn/others/pingpang/2026-11-12/doc-imxxsmth2377015.shtml",
+          "title": "Sure财务App",
+          "summary": "全民参与的开源理财工具",
+          "detail": "Sure是一个由社区共同开发的开源个人理财应用，所有人都可以贡献功能或设计。",
+          "usage": "这个Sure理财App挺有意思，完全开源让所有人参与。不过钱的东西，你敢用社区开发的应用吗？",
+          "source": "https://github.com/we-promise/sure",
           "tags": [
-            "技术",
-            "马龙",
-            "WTT"
+            "开源",
+            "理财"
           ]
         },
         {
-          "title": "孙颖莎换胶皮",
-          "summary": "孙颖莎改用新型粘性胶皮",
-          "detail": "孙颖莎在本赛季开始使用某品牌新研发的高粘性胶皮，在保持速度优势的同时增强了旋转能力。这种胶皮需要特殊保养，每次赛后要用清洁剂擦拭保持粘性。",
-          "usage": "可以聊：\"我看孙颖莎最近比赛老在擦拍子，原来换了新胶皮，据说粘性特别强能多拉出20%旋转。不过这对保养要求高，打完得用专用清洁剂，跟护理奢侈品似的。\"",
-          "source": "",
+          "title": "AI代码审计",
+          "summary": "Shadcn新作Improve",
+          "detail": "Shadcn发布Improve工具，使用高级AI模型审查代码库并制定改进计划，可由低成本模型执行。",
+          "usage": "Shadcn又出新活了！这个Improve工具先用强模型规划，再用便宜模型执行，挺会算账的嘛。",
+          "source": "https://github.com/shadcn/improve",
           "tags": [
-            "装备",
-            "孙颖莎",
-            "技术"
+            "AI",
+            "代码质量"
           ]
         }
       ]
     },
     {
-      "name": "健康养生",
-      "icon": "🥗",
+      "name": "开发者梗",
+      "icon": "😄",
       "items": [
         {
-          "title": "南瓜新吃法",
-          "summary": "南瓜籽别扔，富含镁元素",
-          "detail": "营养专家指出，南瓜籽含丰富的镁、锌等矿物质，洗净烤制后是优质零食。每天一小把(约20克)可补充日常所需镁元素的40%，有助于缓解压力和改善睡眠。",
-          "usage": "跟家人说：\"今天学到个知识，咱们平时挖南瓜扔掉的籽居然是个宝！烤一烤当零食吃，比嗑瓜子还健康，对睡眠有帮助，今晚就试试？\"",
-          "source": "",
+          "title": "Perl油漆艺术",
+          "summary": "93%的油漆泼洒是有效Perl代码",
+          "detail": "2019年的老梗又火了：研究发现随机油漆泼洒有93%概率是有效的Perl程序，调侃Perl语言的复杂性。",
+          "usage": "看到那个Perl梗没？说随机油漆泼洒93%都是有效代码哈哈哈。不过现在应该改成Python了吧？毕竟ai写的代码也差不多这样。",
+          "source": "https://www.mcmillen.dev/sigbovik/",
           "tags": [
-            "食疗",
-            "睡眠",
-            "零食"
+            "段子",
+            "编程语言"
           ]
         },
         {
-          "title": "办公族护眼操",
-          "summary": "3分钟缓解屏幕眼疲劳",
-          "detail": "针对程序员等长时间用眼人群，眼科专家推荐'20-20-20'护眼法：每20分钟抬头看20英尺(约6米)外物体20秒，配合眼球转动和热敷，有效缓解干眼和视疲劳。",
-          "usage": "跟同事吐槽：\"我今天设了个闹钟，每20分钟就望望窗外，医生说我干眼症太严重了。你们前端也试试这个'20-20-20'护眼法吧，虽然写代码正嗨被打断有点烦...\"",
-          "source": "https://health.sina.com.cn/d/2026-11-11/doc-imxxsmth2376543.shtml",
+          "title": "假烟雾警报",
+          "summary": "Jane Street数据中心惊魂",
+          "detail": "Jane Street唯一纽约数据中心因假烟雾警报差点被消防喷淋系统淹没，引发对灾备的热议。",
+          "usage": "Jane Street这个假警报差点毁了整个数据中心！我们公司的灾备方案也该更新了，你们有做喷淋系统防护吗？",
+          "source": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
           "tags": [
-            "护眼",
-            "办公",
-            "健康"
+            "运维",
+            "安全"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-11T17:21:28.291Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-12T04:04:22.248Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 777,
-    "completion_tokens": 2215,
-    "total_tokens": 2992,
-    "cost_usd": 0.00221999,
-    "free": false
+    "prompt_tokens": 2033,
+    "completion_tokens": 1596,
+    "total_tokens": 3629,
+    "cost_usd": 0.002071,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
   }
 }

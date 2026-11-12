@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "老黄危矣",
+          "summary": "英伟达董事会准备罢免黄仁勋",
+          "detail": "英伟达董事会最快今晚就要投票罢免创始人兼CEO黄仁勋，这位执掌公司33年的半导体教父可能就此出局。导火索是他被爆出与涉嫌中国间谍的女子有染，现在又被指控与英伟达高管有另一段婚外情。消息一出股价应声下跌5%，这剧情比《硅谷》还狗血。",
+          "usage": "💡 午休时聊大厂八卦\n💬 英伟达这是要上演现实版《权力的游戏》啊，老黄这波怕是挺不过去了\n🔥 英伟达 黄仁勋 董事会政变",
+          "source": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+          "tags": [
+            "英伟达",
+            "人事变动",
+            "商业八卦"
+          ]
+        },
+        {
+          "title": "双11AI大甩卖",
+          "summary": "大模型厂商天猫五折促销",
+          "detail": "双11连大模型都开始打折了！智谱、MiniMax、千问办公、阿里云、Qoder等厂商集体在天猫打五折，这波属于是AI圈内卷到价格战了。以后程序员买大模型API可能得像双十一囤纸巾一样囤token了。",
+          "usage": "💡 聊AI商业化时用\n💬 大模型都开始双11五折了，下次是不是该有满300减50的优惠券？\n🔥 大模型 价格战 双11促销",
+          "source": "https://www.qbitai.com/2026/11/509085.html",
+          "tags": [
+            "大模型",
+            "商业化",
+            "促销"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Fable 5.2来袭",
+          "summary": "英伟达机器人开源撞上Fable更新",
+          "detail": "Jim Fan高调宣布Fable 5.2发布，直接撞车英伟达机器人开源计划。新版本号称推理速度提升40%，还新增了多模态理解能力。Jim Fan放话说'这不是AI寒冬，是AI盛夏'，这波火药味够浓。",
+          "usage": "💡 讨论模型迭代时用\n💬 Fable这是要跟英伟达正面刚啊，Jim Fan的'不是寒冬是夏天'有点东西\n🔥 Fable 多模态 模型迭代",
+          "source": "https://www.qbitai.com/2026/11/509032.html",
+          "tags": [
+            "Fable",
+            "多模态",
+            "开源"
+          ]
+        },
+        {
+          "title": "触觉模型开源",
+          "summary": "蚂蚁开源LingBot-Touch触觉模型",
+          "detail": "蚂蚁灵波科技突然开源触觉基础模型LingBot-Touch，从'一脑多机'进化到'一脑多手'。这模型能让机器人获得接近人类的触觉反馈，以后机器人捏鸡蛋可能比你还温柔。",
+          "usage": "💡 聊机器人进展时用\n💬 蚂蚁这波开源可以啊，机器人终于要知道'下手轻重'了\n🔥 触觉模型 机器人 开源",
+          "source": "https://www.qbitai.com/2026/11/508996.html",
+          "tags": [
+            "触觉模型",
+            "机器人",
+            "开源"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "奥特曼谈法律AI",
+          "summary": "Sam与律所CEO对话AI变革",
+          "detail": "OpenAI CEO奥特曼与Gilbert + Tobin律所CEO Sam Nickless对谈法律AI化。奥特曼说'未来律所的核心竞争力不是有多少律师，而是有多少AI训练师'。所以法学生现在该转行prompt engineering了？",
+          "usage": "💡 讨论职业影响时用\n💬 法律AI这么搞下去，法学院是不是该开Prompt Engineering必修课了？\n🔥 法律AI 职业变革 OpenAI",
+          "source": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "tags": [
+            "OpenAI",
+            "法律AI",
+            "职业变革"
+          ]
+        },
+        {
+          "title": "Jim Fan放狠话",
+          "summary": "Fable创始人称AI正值盛夏",
+          "detail": "Fable创始人Jim Fan在5.2版本发布时放话：'有人说现在是AI寒冬？错，这是AI盛夏！' 这哥们一边怼唱衰论调，一边暗讽英伟达机器人开源来得太晚。火药味十足，建议直接爆米花。",
+          "usage": "💡 聊行业周期时用\n💬 Jim Fan这'不是寒冬是夏天'可以当今年AI圈金句了\n🔥 Fable JimFan 行业周期",
+          "source": "https://www.qbitai.com/2026/11/509032.html",
+          "tags": [
+            "Fable",
+            "行业周期",
+            "大佬言论"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "Meta元老离职",
+          "summary": "Meta基础设施负责人离职",
+          "detail": "Meta基础设施负责人Santosh Janardhan宣布离职，这位2009年就加入的元老曾主导建设了Meta全球数据中心网络。扎克伯格又要重组AI基础设施团队了，这已经是今年第三位离职的高管。",
+          "usage": "💡 聊大厂人事变动时用\n💬 Meta这是要重组AI基础设施团队啊，元老都走了\n🔥 Meta 人事变动 基础设施",
+          "source": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+          "tags": [
+            "Meta",
+            "人事变动",
+            "基础设施"
+          ]
+        },
+        {
+          "title": "新航接入GPT",
+          "summary": "新加坡航空全面接入OpenAI",
+          "detail": "新加坡航空宣布全面接入OpenAI技术，从客服到行程规划全部AI化。以后空姐问'鸡肉饭还是牛肉面'的时候，可能旁边还有个AI在查你的饮食禁忌。",
+          "usage": "💡 聊AI落地场景时用\n💬 新航这波操作可以，以后延误时AI客服挨骂，空姐躲过一劫\n🔥 新加坡航空 OpenAI 客服AI",
+          "source": "https://openai.com/index/singapore-airlines-travel-work",
+          "tags": [
+            "OpenAI",
+            "航空业",
+            "客服AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "ChatGPT企业版",
+          "summary": "OpenAI推出企业信息管理功能",
+          "detail": "OpenAI悄悄给ChatGPT Plus加了个'Businesses'功能，企业可以管理自己的信息卡片。以后老板查公司舆情可能比查邮件还勤快，打工人瑟瑟发抖。",
+          "usage": "💡 讨论AI监控时用\n💬 这下好了，老板们可以7×24小时用AI监控公司舆情了\n🔥 ChatGPT 企业版 舆情监控",
+          "source": "https://openai.com/index/introducing-businesses-chatgpt",
+          "tags": [
+            "ChatGPT",
+            "企业服务",
+            "B端产品"
+          ]
+        },
+        {
+          "title": "老罗带货AI编程",
+          "summary": "罗永浩直播演示TRAE编程",
+          "detail": "罗永浩双11直播间不卖手机改卖AI了，现场演示TRAE自动编程，弹幕刷屏'求老罗开班教prompt'。看来以后程序员转行直播带货也不是不行。",
+          "usage": "💡 聊AI普及时用\n💬 老罗都开始带货AI编程了，下次是不是该卖'21天精通prompt'课程？\n🔥 罗永浩 AI编程 直播带货",
+          "source": "https://www.qbitai.com/2026/11/509146.html",
+          "tags": [
+            "TRAE",
+            "AI编程",
+            "直播带货"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "英伟达开源机器人",
+          "summary": "英伟达突然开源机器人项目",
+          "detail": "就在Jim Fan发布Fable 5.2的同一天，英伟达突然宣布开源机器人项目。这时间点选得，明摆着要跟Fable抢风头。只是不知道老黄自身难保的情况下，这项目后续还有没有人管。",
+          "usage": "💡 聊开源竞争时用\n💬 英伟达这开源时机太刻意了，明显是要截胡Fable啊\n🔥 英伟达 机器人 开源",
+          "source": "https://www.qbitai.com/2026/11/509032.html",
+          "tags": [
+            "英伟达",
+            "机器人",
+            "开源"
+          ]
+        },
+        {
+          "title": "Agent双轨制",
+          "summary": "openJiuwen首发TTSE学习框架",
+          "detail": "openJiuwen突然放出TTSE经验学习框架，号称让Agent进入'双轨制'时代——既能从人类反馈学习，也能自主进化。这下AI不仅会996，还自带KPI自我优化功能了。",
+          "usage": "💡 讨论Agent进展时用\n💬 这框架让AI都开始搞双轨制了，下一步是不是要学华为搞狼性文化？\n🔥 Agent 自主学习 开源框架",
+          "source": "https://www.qbitai.com/2026/11/508998.html",
+          "tags": [
+            "Agent",
+            "开源框架",
+            "自主学习"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "无人拖拉机下地",
+          "summary": "丘沃智能新疆实测无人耕作",
+          "detail": "丘沃智能的无人拖拉机真的开进新疆农田了！深耕30厘米不在话下，这精度比某些新手司机停车还准。农业AI化来得比想象中快，以后农民伯伯可能端着保温杯监工就行了。",
+          "usage": "💡 聊AI落地时用\n💬 无人拖拉机都下地了，看来'面朝黄土背朝天'要成历史了\n🔥 农业AI 无人拖拉机 实地应用",
+          "source": "https://www.qbitai.com/2026/11/509052.html",
+          "tags": [
+            "农业AI",
+            "无人驾驶",
+            "实地应用"
+          ]
+        },
+        {
+          "title": "超导量子硬仗",
+          "summary": "从芯片到整机的量子计算挑战",
+          "detail": "最新研究显示，超导量子计算从芯片到整机还有场硬仗要打。现在的情况像是有了内燃机但还没造出汽车，量子计算机要实用化至少还得过五关斩六将。",
+          "usage": "💡 讨论量子计算时用\n💬 量子计算这是卡在'有发动机没整车'的阶段啊\n🔥 量子计算 超导 硬件挑战",
+          "source": "https://www.qbitai.com/2026/11/509017.html",
+          "tags": [
+            "量子计算",
+            "超导",
+            "硬件"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "CoreWeave新玩法",
+          "summary": "AI云服务商要求客户预付费",
+          "detail": "AI云服务商CoreWeave玩出新花样：要求客户预付款+签短约来维持现金流。这操作堪比健身房卖年卡，只是不知道会不会也卷款跑路。",
+          "usage": "💡 聊AI烧钱时用\n💬 CoreWeave这是把云计算玩成预售制了，下一步是不是该发会员卡？\n🔥 CoreWeave 云计算 商业模式",
+          "source": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+          "tags": [
+            "CoreWeave",
+            "云计算",
+            "商业模式"
+          ]
+        },
+        {
+          "title": "Token经济激辩",
+          "summary": "科技沙龙热议Token经济转型",
+          "detail": "'科技有联想'沙龙上各路大佬激辩Token经济转型——从'卖Token'到'卖结果'。有人比喻这就像从卖铁锹转向卖挖金服务，但问题是现在金矿到底在哪还没人知道。",
+          "usage": "💡 讨论商业模式时用\n💬 Token经济这是要从卖铲子改行当矿工了？但金子呢？\n🔥 Token经济 商业模式 科技沙龙",
+          "source": "https://www.qbitai.com/2026/11/509088.html",
+          "tags": [
+            "Token经济",
+            "商业模式",
+            "科技沙龙"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-12T04:08:30.065Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3529,
+    "completion_tokens": 3038,
+    "total_tokens": 6567,
+    "cost_usd": 0.0038331,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

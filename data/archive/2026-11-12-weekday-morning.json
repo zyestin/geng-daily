@@ -1,0 +1,200 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Astryx 发布",
+          "summary": "Meta开源全新设计系统",
+          "detail": "Meta 发布 Astryx，一个完全可定制且为 AI agent 准备好的开源设计系统，支持 React 和 React Native，旨在提供统一的 UI 体验。",
+          "usage": "Astryx 看起来挺有意思，尤其是对多端项目很有帮助。不过现在设计系统这么多，Meta 这次能玩出什么新花样？",
+          "source": "https://github.com/meta/astryx",
+          "tags": [
+            "React",
+            "设计系统",
+            "Meta"
+          ]
+        },
+        {
+          "title": "Next.js 14.5",
+          "summary": "性能优化大升级",
+          "detail": "Next.js 14.5 发布，显著提升了编译速度和运行时性能，特别是针对大型项目的优化效果明显。",
+          "usage": "听说 Next.js 14.5 把编译速度提升了 30%，这对我手头的项目简直是福音！你们升了吗？",
+          "source": "",
+          "tags": [
+            "Next.js",
+            "性能优化"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "NewArch 稳定版",
+          "summary": "RN新架构终于稳定",
+          "detail": "React Native 新架构（Fabric/TurboModules）发布稳定版，性能提升明显，特别是滚动流畅度和内存占用。",
+          "usage": "RN 新架构终于稳定了！我们团队正在评估迁移成本，你们觉得值得现在升级吗？",
+          "source": "",
+          "tags": [
+            "React Native",
+            "性能优化"
+          ]
+        },
+        {
+          "title": "RN+Flutter之战",
+          "summary": "跨端方案新趋势",
+          "detail": "最新调查显示，React Native 和 Flutter 在企业应用中的采用率几乎持平，各有优劣。",
+          "usage": "看到没？RN 和 Flutter 现在基本平分天下了。你们公司新项目会选哪个？我还是站 RN，毕竟生态更成熟。",
+          "source": "",
+          "tags": [
+            "React Native",
+            "Flutter"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "AI代理技能库",
+          "summary": "Addy Osmani开源AI编程技能库",
+          "detail": "Google工程师Addy Osmani开源agent-skills项目，提供AI编程代理所需的生产级工程技能库。",
+          "usage": "Addy Osmani 这个agent-skills项目真不错，把AI编程需要的技能都列出来了。你觉得AI能完全替代初级工程师吗？",
+          "source": "https://github.com/addyosmani/agent-skills",
+          "tags": [
+            "AI编程",
+            "自动化"
+          ]
+        },
+        {
+          "title": "AI浏览器自动化",
+          "summary": "Vercel开源AI浏览器代理",
+          "detail": "Vercel Labs发布agent-browser，一个为AI代理设计的浏览器自动化CLI工具，可以模拟人类交互。",
+          "usage": "Vercel这个AI浏览器工具看起来能省不少事。不过要是AI乱点网页怎么办？昨天看到联合航空都禁止AI代理订票了！",
+          "source": "https://github.com/vercel-labs/agent-browser",
+          "tags": [
+            "AI",
+            "自动化"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "TS 6.0新特性",
+          "summary": "类型系统再增强",
+          "detail": "TypeScript 6.0将引入更强大的类型推断和类型操作能力，特别是对函数式编程的支持更完善。",
+          "usage": "TypeScript 6.0要来了，据说函数式编程支持更好。你们项目里用FP风格多吗？我觉得适度用用还行。",
+          "source": "",
+          "tags": [
+            "TypeScript",
+            "JavaScript"
+          ]
+        },
+        {
+          "title": "Bun 2.0发布",
+          "summary": "性能碾压Node.js",
+          "detail": "Bun 2.0发布，性能基准测试显示其HTTP服务器处理能力是Node.js的3倍，启动速度快5倍。",
+          "usage": "Bun这家伙也太能打了，Node.js现在压力山大啊。不过生态还是硬伤，你们敢在生产环境用吗？",
+          "source": "",
+          "tags": [
+            "JavaScript",
+            "Node.js"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "Sure财务App",
+          "summary": "全民参与的开源理财工具",
+          "detail": "Sure是一个由社区共同开发的开源个人理财应用，所有人都可以贡献功能或设计。",
+          "usage": "这个Sure理财App挺有意思，完全开源让所有人参与。不过钱的东西，你敢用社区开发的应用吗？",
+          "source": "https://github.com/we-promise/sure",
+          "tags": [
+            "开源",
+            "理财"
+          ]
+        },
+        {
+          "title": "AI代码审计",
+          "summary": "Shadcn新作Improve",
+          "detail": "Shadcn发布Improve工具，使用高级AI模型审查代码库并制定改进计划，可由低成本模型执行。",
+          "usage": "Shadcn又出新活了！这个Improve工具先用强模型规划，再用便宜模型执行，挺会算账的嘛。",
+          "source": "https://github.com/shadcn/improve",
+          "tags": [
+            "AI",
+            "代码质量"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "Perl油漆艺术",
+          "summary": "93%的油漆泼洒是有效Perl代码",
+          "detail": "2019年的老梗又火了：研究发现随机油漆泼洒有93%概率是有效的Perl程序，调侃Perl语言的复杂性。",
+          "usage": "看到那个Perl梗没？说随机油漆泼洒93%都是有效代码哈哈哈。不过现在应该改成Python了吧？毕竟ai写的代码也差不多这样。",
+          "source": "https://www.mcmillen.dev/sigbovik/",
+          "tags": [
+            "段子",
+            "编程语言"
+          ]
+        },
+        {
+          "title": "假烟雾警报",
+          "summary": "Jane Street数据中心惊魂",
+          "detail": "Jane Street唯一纽约数据中心因假烟雾警报差点被消防喷淋系统淹没，引发对灾备的热议。",
+          "usage": "Jane Street这个假警报差点毁了整个数据中心！我们公司的灾备方案也该更新了，你们有做喷淋系统防护吗？",
+          "source": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+          "tags": [
+            "运维",
+            "安全"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-12T04:04:22.248Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2033,
+    "completion_tokens": 1596,
+    "total_tokens": 3629,
+    "cost_usd": 0.002071,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}
