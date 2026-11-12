@@ -1,0 +1,280 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "马斯克 Grok 泄密",
+          "summary": "Grok 泄露 SpaceX 和特斯拉工资绩效",
+          "detail": "马斯克的 xAI 刚放出的 Grok 大模型又炸雷了——把 SpaceX 和特斯拉的工资绩效全曝光。这下 HR 们得连夜改系统权限了，毕竟马斯克家的 AI 比狗仔队还猛。",
+          "usage": "💡 聊 AI 安全时甩出\n💬 马斯克家的 AI 连老板的底裤都敢扒\n🔥 Grok 泄密 马斯克 SpaceX",
+          "src_id": 10,
+          "tags": [
+            "Grok",
+            "马斯克",
+            "AI安全"
+          ],
+          "source": "https://www.qbitai.com/2026/11/509355.html"
+        },
+        {
+          "title": "黄仁勋被罢免",
+          "summary": "Nvidia CEO 突然下课",
+          "detail": "显卡教父黄仁勋突然被 Nvidia 董事会罢免，疑似与桃色绯闻有关。这位带领 Nvidia 登顶 AI 算力王座的传奇人物，居然栽在了传统艺能上。",
+          "usage": "💡 聊 AI 芯片时抛梗\n💬 老黄这次真的 '核显' 了\n🔥 黄仁勋 Nvidia CEO罢免",
+          "src_id": 12,
+          "tags": [
+            "黄仁勋",
+            "Nvidia",
+            "人事变动"
+          ],
+          "source": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/"
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "MiniMax 开源生图",
+          "summary": "开源 SOTA 生图模型 4K 两毛",
+          "detail": "MiniMax 开源了新一代生图模型，原生支持 4K 分辨率，单张成本只要两毛钱。对比 Midjourney 动辄几块的费用，这波属于是直接把显卡烧烤店干成煎饼摊。",
+          "usage": "💡 聊 AIGC 成本时甩数据\n💬 现在连 AI 画图都开始拼多多化\n🔥 MiniMax 开源生图 4K",
+          "src_id": 1,
+          "tags": [
+            "MiniMax",
+            "AIGC",
+            "开源"
+          ],
+          "source": "https://www.qbitai.com/2026/11/509440.html"
+        },
+        {
+          "title": "Phota AI 修图",
+          "summary": "AI 把废片变专业照",
+          "detail": "Phota Labs 放出黑科技：用 AI 把手机废片修成专业级照片。测试发现，它能把雾霾天拍的游客照修出《国家地理》质感，以后朋友圈摄影大赛要卷出新高度。",
+          "usage": "💡 聊手机摄影时抛梗\n💬 这下连滤镜博主都要失业了\n🔥 PhotaLabs AI修图",
+          "src_id": 9,
+          "tags": [
+            "PhotaLabs",
+            "AI摄影",
+            "图像处理"
+          ],
+          "source": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/"
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "达里奥独挺 Anthropic",
+          "summary": "全球踩刹车他踩油门",
+          "detail": "当 Anthropic IPO 估值缩水 6000 亿美元时，达里奥逆势加注。这位桥水大佬放话：'别人恐惧时我贪婪'——就是不知道这次是神预测还是接飞刀。",
+          "usage": "💡 聊 AI 投资时引用\n💬 达里奥：你们撤，我来扛\n🔥 达里奥 Anthropic 投资",
+          "src_id": 7,
+          "tags": [
+            "达里奥",
+            "Anthropic",
+            "IPO"
+          ],
+          "source": "https://www.qbitai.com/2026/11/509381.html"
+        },
+        {
+          "title": "特朗普推 Tim Cook",
+          "summary": "建议苹果掌门接替老黄",
+          "detail": "特朗普在 Truth Social 发帖，推荐苹果董事长 Tim Cook 接替黄仁勋执掌 Nvidia。科技圈震惊三连：先不说专业对不对口，库克连 iPhone 发布会都懒得开发布会的人会接这烫手山芋？",
+          "usage": "💡 聊 Nvidia 未来时玩梗\n💬 川普：我选库克！库克：我选...退休\n🔥 特朗普 TimCook Nvidia",
+          "src_id": 18,
+          "tags": [
+            "特朗普",
+            "TimCook",
+            "Nvidia"
+          ],
+          "source": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/"
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI 企业版",
+          "summary": "ChatGPT 新增商业管理",
+          "detail": "OpenAI 推出 Businesses in ChatGPT，企业可以管理信息、获取洞察。想象一下：以后电商客服和老板用同一个 AI，只不过老板的版本多几个'优化成本'的隐藏指令。",
+          "usage": "💡 聊企业AI时举例\n💬 打工人：AI请给我调薪方案 AI：根据公司政策...\n🔥 OpenAI 企业版 ChatGPT",
+          "src_id": 20,
+          "tags": [
+            "OpenAI",
+            "ChatGPT",
+            "企业服务"
+          ],
+          "source": "https://openai.com/index/introducing-businesses-chatgpt"
+        },
+        {
+          "title": "Anthropic 漏洞门",
+          "summary": "4万漏洞只修217条",
+          "detail": "Anthropic 的 '玻璃翼计划' 安全审计曝光：系统存在近4万个候补漏洞，结果半年只修了217条。安全工程师看到这个修复比例，手里的咖啡杯都吓掉了。",
+          "usage": "💡 聊AI安全时甩数据\n💬 程序员：这bug量...是AI写的代码吧？\n🔥 Anthropic 漏洞 安全",
+          "src_id": 19,
+          "tags": [
+            "Anthropic",
+            "AI安全",
+            "漏洞"
+          ],
+          "source": "https://www.qbitai.com/2026/11/509291.html"
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "ChatGPT 拥军套餐",
+          "summary": "军人免费一年Plus",
+          "detail": "OpenAI 给退伍和现役军人送福利：免费一年 ChatGPT Plus。这波操作让网友吐槽：'AI 都知道要抱住最硬核的用户群体'。",
+          "usage": "💡 聊AI普及时举例\n💬 以后战术手册是不是该加个 /prompt 参数\n🔥 ChatGPT 军人福利",
+          "src_id": 11,
+          "tags": [
+            "ChatGPT",
+            "OpenAI",
+            "福利"
+          ],
+          "source": "https://openai.com/index/chatgpt-plus-for-veterans"
+        },
+        {
+          "title": "Holiday Extras 用 Codex",
+          "summary": "AI 提升订房转化率",
+          "detail": "旅游平台 Holiday Extras 用 OpenAI 的 Codex 把客户评价变成推荐引擎，预订转化率直线上升。看来以后酒店差评都会变成 '特色亮点' —— '有人说隔音差' AI 解读成 '适合夜猫子'。",
+          "usage": "💡 聊AI商业化时举例\n💬 AI：差评？那叫个性化标签！\n🔥 Codex 旅游 商业化",
+          "src_id": 2,
+          "tags": [
+            "Codex",
+            "OpenAI",
+            "旅游科技"
+          ],
+          "source": "https://openai.com/business/customer-stories/holidays-extras-codex"
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "Hugging Face 不退缩",
+          "summary": "CEO 誓言继续开源",
+          "detail": "在黄仁勋离开开源阵营后，Hugging Face CEO 发声明要坚持开源路线。网友戏称：'这下 Hugging Face 真成 AI 圈罗永浩了' —— 理想主义者的人设算是立住了。",
+          "usage": "💡 聊开源争议时引用\n💬 HF：就算只剩我们，也要把开源进行到底\n🔥 HuggingFace 开源 AI",
+          "src_id": 3,
+          "tags": [
+            "HuggingFace",
+            "开源",
+            "CEO"
+          ],
+          "source": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
+        },
+        {
+          "title": "Norwest 40亿押注AI",
+          "summary": "创投机构新基金",
+          "detail": "Norwest Venture Partners 推出40亿美元新基金专注AI领域，这规模相当于给每个硅谷AI初创公司发了个'来骗钱'的请柬。",
+          "usage": "💡 聊AI投资时抛数据\n💬 投资人：AI寒冬？我们带的是喷火器\n🔥 Norwest 风投 AI基金",
+          "src_id": 24,
+          "tags": [
+            "Norwest",
+            "风投",
+            "AI基金"
+          ],
+          "source": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/"
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "OpenAI 教育研究",
+          "summary": "200万刀研究儿童安全",
+          "detail": "OpenAI 豪掷200万美元研究AI与儿童安全问题。家长们的期待很朴素：不求AI教奥数，只求别把孩子问'人生的意义'时回答'42'。",
+          "usage": "💡 聊AI伦理时举例\n💬 以后AI给小孩讲睡前故事会不会突然插播广告\n🔥 OpenAI 儿童安全 研究",
+          "src_id": 5,
+          "tags": [
+            "OpenAI",
+            "AI安全",
+            "儿童"
+          ],
+          "source": "https://openai.com/index/children-first-declaration"
+        },
+        {
+          "title": "银河智学课堂AI",
+          "summary": "邓澍军谈教育AI",
+          "detail": "银河智学首席科学家邓澍军提出'学习过程智能'概念，要让AI真正理解教学场景。理想很丰满：AI因材施教；现实可能：学霸被疯狂投喂题库，学渣收到一堆'你已经很棒了'的表情包。",
+          "usage": "💡 聊教育科技时引用\n💬 AI老师：这道题不会？那我们再看20遍\n🔥 银河智学 教育AI",
+          "src_id": 4,
+          "tags": [
+            "银河智学",
+            "教育AI",
+            "邓澍军"
+          ],
+          "source": "https://www.qbitai.com/2026/11/509404.html"
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "SoftBank 亏30亿",
+          "summary": "天然气赌局惨败",
+          "detail": "SoftBank 提前订购天然气发电设备给AI数据中心用，结果亏了30亿美元。这波操作堪称科技界的'冬天买冰棍' —— 赌AI能耗暴涨，结果能效提升比预期快。",
+          "usage": "💡 聊AI基建时抛梗\n💬 孙正义：我预判了你的预判...的失误\n🔥 SoftBank 天然气 AI耗能",
+          "src_id": 6,
+          "tags": [
+            "SoftBank",
+            "AI基建",
+            "投资失误"
+          ],
+          "source": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"
+        },
+        {
+          "title": "百曜入选全球50强",
+          "summary": "The Information 榜单",
+          "detail": "中国AI公司百曜科技入选'2026全球最具潜力50家初创公司'。网友锐评：'能在资本寒冬里上榜的，要么真牛逼，要么PPT真牛逼'。",
+          "usage": "💡 聊中国AI时举例\n💬 百曜：我们靠技术...投资人：不，你们靠入选榜单\n🔥 百曜科技 全球50强",
+          "src_id": 22,
+          "tags": [
+            "百曜科技",
+            "榜单",
+            "中国AI"
+          ],
+          "source": "https://www.qbitai.com/2026/11/509285.html"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-12T17:57:07.156Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3514,
+    "completion_tokens": 2592,
+    "total_tokens": 6106,
+    "cost_usd": 0.0034313599999999996,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

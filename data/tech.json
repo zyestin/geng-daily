@@ -5,28 +5,28 @@
       "icon": "📰",
       "items": [
         {
-          "title": "PDF玩出花",
-          "summary": "PDF文档能跑Linux还能打游戏",
-          "detail": "程序员们把PDF玩成了瑞士军刀——最新发现PDF不仅能当游戏机（俄罗斯方块已通关），还能运行Linux系统。这波操作让Adobe都直呼内行，原来我们天天用的PDF本质是套‘页面绘制说明书’，现在被硬核玩家玩成了‘图灵完备’的编程画布。建议下次简历直接交PDF版，附赠可运行的贪吃蛇游戏代码。",
-          "usage": "💡 同事抱怨PDF打不开时\n💬 你这PDF能玩游戏吗？不能就out了\n🔥 PDF 黑科技 程序员骚操作",
-          "src_id": 8,
+          "title": "老黄急流勇退",
+          "summary": "黄仁勋突然辞任英伟达CEO",
+          "detail": "11月12日，掌舵33年的英伟达创始人黄仁勋突然宣布辞去CEO职务，连董事会席位都不要了。就在大家都以为老黄要带着AI芯片称霸世界时，这位皮衣战神选择急流勇退。国产GPU厂商连夜开会，讨论这是千年等一回的窗口期还是老黄布的局。",
+          "usage": "💡 早会聊巨头人事地震\n💬 家人们谁懂啊，老黄突然不玩了！\n🔥 英伟达 黄仁勋 辞职",
+          "src_id": 4,
           "tags": [
-            "技术宅",
-            "文件格式"
+            "芯片",
+            "人事变动"
           ],
-          "source": "https://www.huxiu.com/article/4903889.html?f=rss"
+          "source": "https://www.huxiu.com/article/4905192.html?f=rss"
         },
         {
-          "title": "零食店资本局",
-          "summary": "2.6%净利率的零食店靠割韭菜赚钱",
-          "detail": "万辰集团被曝零食生意净利率仅2.6%，真相是人家根本不屑赚零食钱——疯狂开加盟店炒高营收，股价拉升后大股东精准套现。这波‘开店-融资-分红’三连把港股当提款机，建议改名叫‘万韭集团’。现在知道为什么你家楼下零食店三个月换一茬了吧？",
-          "usage": "💡 聊加盟创业时\n💬 想开零食店？先学学怎么割二级市场韭菜\n🔥 资本运作 加盟骗局 财务魔术",
-          "src_id": 2,
+          "title": "华尔街黄金大逃杀",
+          "summary": "机构疯狂抛售黄金引发震荡",
+          "detail": "最近华尔街突然集体抛售黄金储备，创下近十年最大单日抛售量。分析师发现这些机构都在偷偷囤积英伟达显卡——现在算力才是新黄金，H100比金条保值多了。建议把《货币战争》改名《芯片战争》。",
+          "usage": "💡 茶水间聊投资风向\n💬 显卡当金条使的时代来了\n🔥 黄金抛售 英伟达 算力",
+          "src_id": 10,
           "tags": [
-            "商业套路",
-            "上市公司"
+            "金融",
+            "芯片"
           ],
-          "source": "https://www.huxiu.com/article/4904491.html?f=rss"
+          "source": "https://www.toutiao.com/trending/7707281242000985663/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707281242000985663%22%2C%22hot_board_impr_id%22%3A%2220261113015518AB457D1E74BD889F7411%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E5%B0%94%E8%A1%97%E7%96%AF%E7%8B%82%E6%8A%9B%E5%94%AE%E9%BB%84%E9%87%91%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%22%7D&rank=&style_id=40132&topic_id=7707281242000985663"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "icon": "🎤",
       "items": [
         {
-          "title": "黄教主不等式",
-          "summary": "詹森不等式硬核解读",
-          "detail": "黄仁勋最新演讲被扒出暗藏数学梗——当他在GTC大会上说‘加速计算是必然选择’时，技术宅发现这完美符合詹森不等式（凸函数下的期望值关系）。建议老黄下次PPT直接放推导过程，毕竟现在买显卡的都得是985数学系起步。",
-          "usage": "💡 聊显卡价格时\n💬 买4090前先证明詹森不等式谢谢\n🔥 黄仁勋 数学梗 显卡圣经",
-          "src_id": 5,
+          "title": "拜登的职场哲学",
+          "summary": "拜登谈患癌与辞职",
+          "detail": "近日拜登接受采访时语出惊人：'如果早知道会得癌症，我当初就辞职了。'马斯克火速推特补刀：'所以我现在每天工作23小时预防癌症。'建议各大厂HR把这条加入《奋斗者协议》免责条款。",
+          "usage": "💡 午休聊职场梗\n💬 原来按时下班能防癌？\n🔥 拜登 马斯克 职场文化",
+          "src_id": 14,
           "tags": [
-            "英伟达",
-            "技术梗"
+            "马斯克",
+            "职场"
           ],
-          "source": "https://www.huxiu.com/article/4904957.html?f=rss"
+          "source": "https://www.toutiao.com/trending/7706910852729766410/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706910852729766410%22%2C%22hot_board_impr_id%22%3A%2220261113015518AB457D1E74BD889F7411%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%8B%9C%E7%99%BB%EF%BC%9A%E8%8B%A5%E6%97%A9%E7%9F%A5%E6%82%A3%E7%99%8C%E6%88%91%E4%BC%9A%E8%BE%9E%E8%81%8C%22%7D&rank=&style_id=40132&topic_id=7706910852729766410"
         },
         {
-          "title": "卷尺大王",
-          "summary": "河南小县垄断全球卷尺",
-          "detail": "河南虞城梁老板的卷尺厂承包了全球2/3市场，却在超市发现自家产品贴牌后贵四倍。现在他悟了：科技圈大佬吹生态化反，不如我河南老铁反手一个供应链碾压。建议雷总下次演讲主题改成《论卷尺与手机的共同点》",
-          "usage": "💡 聊中国制造时\n💬 知道为什么米家卷尺卖19.9吗？河南老铁只收5块\n🔥 隐形冠军 贴牌暴利 供应链王者",
-          "src_id": 1,
+          "title": "AI吹牛要上税",
+          "summary": "Anthropic CEO称十年内治愈癌症",
+          "detail": "Anthropic CEO在IPO路演现场放卫星，说AI十年内能治愈癌症。网友翻出五年前马斯克说2023年实现全自动驾驶的PPT——科技大佬的'十年'约等于数学里的'无限大'。建议下次改说'在可预见的未来'更稳妥。",
+          "usage": "💡 产品评审会前吐槽\n💬 他们管这叫技术预测？明明是科幻创作\n🔥 AI 癌症 画大饼",
+          "src_id": 2,
           "tags": [
-            "制造业",
-            "出海"
+            "AI",
+            "创业"
           ],
-          "source": "https://www.huxiu.com/article/4904966.html?f=rss"
+          "source": "https://www.huxiu.com/article/4905193.html?f=rss"
         }
       ]
     },
@@ -65,28 +65,28 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "京东方砍单",
-          "summary": "华灿光电定增京东方只掏三成",
-          "detail": "华灿光电9.98亿定增案遇冷，大股东京东方突然变‘京吝啬’——说好的全额包圆变成只认30%。业内人士吐槽：这就像相亲时说‘我养你’，结婚后变成‘各付各的’。现在知道为什么国产屏幕总被卡脖子了吧？",
-          "usage": "💡 聊面板行业时\n💬 京东方：钱我有，但就是不想给你\n🔥 定增 面板 供应链博弈",
-          "src_id": 4,
+          "title": "纳斯达克大洗牌",
+          "summary": "沃尔玛挤走阿斯利康",
+          "detail": "2026年纳斯达克成分股调整上演超市逆袭：沃尔玛踢掉医药巨头阿斯利康。现在买牙膏和买药片一个估值体系，建议把药店开在超市收银台旁边，取名'医保结合部'。",
+          "usage": "💡 聊美股投资时\n💬 以后炒股要带购物小票了\n🔥 纳斯达克 沃尔玛 成分股",
+          "src_id": 1,
           "tags": [
-            "半导体",
-            "投资"
+            "股市",
+            "零售"
           ],
-          "source": "https://www.huxiu.com/article/4904954.html?f=rss"
+          "source": "https://www.huxiu.com/article/4905195.html?f=rss"
         },
         {
-          "title": "超市变形记",
-          "summary": "商超入口改造成奶茶店",
-          "detail": "全国超市集体患上‘入口焦虑症’：永辉们把特价大米撤走，换成烘焙鲜花+果切三件套。消费者吐槽：现在进超市得像通关——先忍住不买20块的草莓蛋糕，才能见到9.9的卫生纸。建议改名叫‘甜点店附带日用品区’",
-          "usage": "💡 聊消费降级时\n💬 在超市买完蛋糕才发现我是来买洗衣液的\n🔥 新零售 消费陷阱 场景革命",
+          "title": "天然气抢AI生意",
+          "summary": "能源公司争夺算力客户",
+          "detail": "美国天然气巨头Venture Global居然和电力公司抢起了AI客户，现在的数据中心要同时采购芯片和液化气。建议下次发布会主题就叫'你的算力，我的气力'。",
+          "usage": "💡 聊新基建时\n💬 以后机房要配燃气灶了？\n🔥 能源 AI 算力",
           "src_id": 3,
           "tags": [
-            "商超",
-            "消费"
+            "能源",
+            "AI"
           ],
-          "source": "https://www.huxiu.com/article/4904965.html?f=rss"
+          "source": "https://www.huxiu.com/article/4905187.html?f=rss"
         }
       ]
     },
@@ -95,28 +95,28 @@
       "icon": "🔀",
       "items": [
         {
-          "title": "数采概念股",
-          "summary": "人形机器人带火数据采集公司",
-          "detail": "A股‘数采三傻’（福莱新材/汉威科技/奥比中光）一个月暴涨30%，只因蹭上人形机器人数据采集概念。董秘们连夜修改PPT，把‘工厂传感器’改成‘元宇宙神经末梢’。韭菜：所以到底谁在采我的数据？",
-          "usage": "💡 聊A股妖股时\n💬 你买的不是股票是机器人未来的触觉神经\n🔥 概念股 人形机器人 数据泡沫",
-          "src_id": 11,
+          "title": "老黄裸辞震惊业界",
+          "summary": "黄仁勋卸任所有职务",
+          "detail": "英伟达公告显示黄仁勋不仅辞去CEO，连董事会席位都不要了，堪称科技圈最彻底裸辞。网友猜测是要全职当网红，毕竟皮衣带货比芯片来钱快。",
+          "usage": "💡 聊职业规划时\n💬 辞职就要学老黄，工牌都不还\n🔥 英伟达 黄仁勋 裸辞",
+          "src_id": 6,
           "tags": [
-            "A股",
-            "机器人"
+            "人事变动",
+            "芯片"
           ],
-          "source": "https://www.huxiu.com/article/4904938.html?f=rss"
+          "source": "https://www.huxiu.com/article/4905190.html?f=rss"
         },
         {
-          "title": "AI短剧泡沫",
-          "summary": "流量爆棚但赚不到钱",
-          "detail": "AI短剧陷入‘叫好不叫座’怪圈：播放量随便破亿，但90%公司还在亏钱。业内人士揭秘：省了演员片酬但得加钱投流，最后发现AI最大的作用是帮MCN写‘龙王赘婿’第108部续集",
-          "usage": "💡 聊AI应用时\n💬 用AI写剧本？不如直接写辞职报告\n🔥 短剧 内容农场 算法陷阱",
-          "src_id": 9,
+          "title": "耐克中国战略转向",
+          "summary": "停止价格战专注高端",
+          "detail": "耐克中国宣布退出价格战，改走高端路线。看来是被安踏李宁打怕了，准备学习苹果'贵不是我的缺点是你的'战略。建议新品发布会设在陆家嘴，改名'东方耐克金融尊享版'。",
+          "usage": "💡 聊消费降级时\n💬 以后买鞋要出示资产证明了\n🔥 耐克 价格战 高端化",
+          "src_id": 15,
           "tags": [
-            "短视频",
-            "生成式AI"
+            "消费",
+            "战略调整"
           ],
-          "source": "https://www.huxiu.com/article/4904948.html?f=rss"
+          "source": "https://m.baidu.com/s?word=%E8%80%90%E5%85%8B%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%89%93%E2%80%9C%E4%BB%B7%E6%A0%BC%E6%88%98%E2%80%9D%E4%BA%86&sa=fyb_news"
         }
       ]
     },
@@ -125,28 +125,28 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "Qwen4翻车",
-          "summary": "通义千问新模型审美被嘲",
-          "detail": "阿里通义千问Qwen4-Max发布即翻车：代码能力提升但审美直男癌，生成的美女图被吐槽像‘蜡像馆着火’。网友：建议改名叫‘通义钢铁直男’，Fable5.2看完连夜给自己P图美颜",
-          "usage": "💡 聊大模型时\n💬 用Qwen4画自拍？建议直接戴头盔\n🔥 通义千问 AI绘画 审美翻车",
-          "src_id": 10,
+          "title": "AI看病不如算命",
+          "summary": "AI医疗承诺遭质疑",
+          "detail": "当Anthropic CEO说AI十年内能治癌症时，美国FDA连夜更新《AI医疗设备审批指南》，新增'吹牛税'条款。建议下次路演改说'AI辅助算命'，反正都是预测未来。",
+          "usage": "💡 聊AI泡沫时\n💬 建议AI先治治老板的PPT病\n🔥 AI医疗 监管 画饼",
+          "src_id": 2,
           "tags": [
-            "大模型",
-            "阿里巴巴"
+            "AI",
+            "医疗"
           ],
-          "source": "https://www.huxiu.com/article/4904947.html?f=rss"
+          "source": "https://www.huxiu.com/article/4905193.html?f=rss"
         },
         {
-          "title": "国债秒光",
-          "summary": "利率新低仍遭大妈疯抢",
-          "detail": "2026年最后一批储蓄国债开售即‘秒光’，大妈们用实际行动证明：你可以不相信A股，但永远可以相信财政部。虽然利率只剩2.6%，但比起理财暴雷，宁可要‘国家认证的穷’",
-          "usage": "💡 聊理财时\n💬 现在抢国债得用12306同款外挂\n🔥 避险 利率 资产荒",
-          "src_id": 7,
+          "title": "芯片成新战略物资",
+          "summary": "全球算力争夺白热化",
+          "detail": "华尔街抛黄金囤显卡的操作证明，现在H100比黄金还硬通货。建议各国央行增设'算力储备司'，美联储下次加息改叫'加算力'。",
+          "usage": "💡 聊技术自主可控\n💬 显卡比金条保值实锤了\n🔥 芯片 算力 金融",
+          "src_id": 10,
           "tags": [
-            "理财",
-            "宏观经济"
+            "芯片",
+            "金融"
           ],
-          "source": "https://www.huxiu.com/article/4904951.html?f=rss"
+          "source": "https://www.toutiao.com/trending/7707281242000985663/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707281242000985663%22%2C%22hot_board_impr_id%22%3A%2220261113015518AB457D1E74BD889F7411%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E5%B0%94%E8%A1%97%E7%96%AF%E7%8B%82%E6%8A%9B%E5%94%AE%E9%BB%84%E9%87%91%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%22%7D&rank=&style_id=40132&topic_id=7707281242000985663"
         }
       ]
     },
@@ -155,28 +155,28 @@
       "icon": "📱",
       "items": [
         {
-          "title": "大学参观明码标价",
-          "summary": "南大陪逛服务88元/小时",
-          "detail": "南京大学被曝出‘知识付费’新玩法：黄牛带逛校园明码标价，基础版8元（仅限门口拍照），VIP版88元（含学霸陪聊）。建议清北推出698元套餐：和状元共进食堂+赠送微积分随堂测验",
-          "usage": "💡 聊教育内卷时\n💬 知识改变命运？先交88元命运入场费\n🔥 教育产业化 校园黄牛 知识付费",
-          "src_id": 12,
+          "title": "零元面馆暴雷",
+          "summary": "免费模式坑惨周边商户",
+          "detail": "号称'零元吃面'的创业项目暴雷，周边商户哭诉房贷都还不起了。建议下次商业计划书改名《论如何用一碗面摧毁一条街的GDP》，绝对能拿'年度创新破坏奖'。",
+          "usage": "💡 聊创业泡沫时\n💬 互联网思维：先饿死同行再饿死自己\n🔥 创业 免费模式 暴雷",
+          "src_id": 11,
           "tags": [
-            "教育",
-            "文旅"
+            "创业",
+            "新消费"
           ],
-          "source": "https://www.huxiu.com/article/4904941.html?f=rss"
+          "source": "https://m.baidu.com/s?word=%E9%9B%B6%E5%85%83%E9%9D%A2%E9%A6%86%E5%91%A8%E8%BE%B9%E5%95%86%E6%88%B7%EF%BC%9A%E6%88%91%E4%BB%AC%E6%88%BF%E8%B4%B7%E9%83%BD%E8%BF%98%E4%B8%8D%E8%B5%B7&sa=fyb_news"
         },
         {
-          "title": "PDF玩出花",
-          "summary": "PDF文档能跑Linux还能打游戏",
-          "detail": "程序员们把PDF玩成了瑞士军刀——最新发现PDF不仅能当游戏机（俄罗斯方块已通关），还能运行Linux系统。这波操作让Adobe都直呼内行，原来我们天天用的PDF本质是套‘页面绘制说明书’，现在被硬核玩家玩成了‘图灵完备’的编程画布。建议下次简历直接交PDF版，附赠可运行的贪吃蛇游戏代码。",
-          "usage": "💡 同事抱怨PDF打不开时\n💬 你这PDF能玩游戏吗？不能就out了\n🔥 PDF 黑科技 程序员骚操作",
-          "src_id": 8,
+          "title": "双11静悄悄",
+          "summary": "电商节遇史上最冷",
+          "detail": "今年双11安静得像周末的图书馆，各大平台连战报都不发了。建议改名'双11忏悔节'，消费者集体反思：之前熬夜抢券的样子好像大傻子。",
+          "usage": "💡 聊消费趋势时\n💬 今年双11最大赢家是睡眠\n🔥 双11 消费 战报",
+          "src_id": 18,
           "tags": [
-            "技术宅",
-            "文件格式"
+            "电商",
+            "消费"
           ],
-          "source": "https://www.huxiu.com/article/4903889.html?f=rss"
+          "source": "https://www.toutiao.com/trending/7707190638768570406/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707190638768570406%22%2C%22hot_board_impr_id%22%3A%2220261113015518AB457D1E74BD889F7411%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%8C11%E4%B8%BA%E4%BD%95%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%AE%89%E9%9D%99%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7707190638768570406"
         }
       ]
     },
@@ -185,56 +185,81 @@
       "icon": "🎬",
       "items": [
         {
-          "title": "零食店资本局",
-          "summary": "2.6%净利率的零食店靠割韭菜赚钱",
-          "detail": "万辰集团被曝零食生意净利率仅2.6%，真相是人家根本不屑赚零食钱——疯狂开加盟店炒高营收，股价拉升后大股东精准套现。这波‘开店-融资-分红’三连把港股当提款机，建议改名叫‘万韭集团’。现在知道为什么你家楼下零食店三个月换一茬了吧？",
-          "usage": "💡 聊加盟创业时\n💬 想开零食店？先学学怎么割二级市场韭菜\n🔥 资本运作 加盟骗局 财务魔术",
-          "src_id": 2,
+          "title": "司机倒贴两万",
+          "summary": "新型招聘骗局曝光",
+          "detail": "男子应聘司机干了6小时倒贴2万元，堪称职场版《孤注一掷》。建议BOSS直聘新增'防诈骗模式'，检测到'高薪'、'轻松'等关键词自动触发警报。",
+          "usage": "💡 聊求职陷阱时\n💬 这哪是找工作，是当投资人啊\n🔥 招聘 诈骗 职场",
+          "src_id": 17,
           "tags": [
-            "商业套路",
-            "上市公司"
+            "招聘",
+            "诈骗"
           ],
-          "source": "https://www.huxiu.com/article/4904491.html?f=rss"
+          "source": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%BA%94%E8%81%98%E5%8F%B8%E6%9C%BA%E5%B9%B2%E4%BA%866%E5%B0%8F%E6%97%B6%E5%80%92%E8%B4%B42%E4%B8%87&sa=fyb_news"
         },
         {
-          "title": "AI短剧泡沫",
-          "summary": "流量爆棚但赚不到钱",
-          "detail": "AI短剧陷入‘叫好不叫座’怪圈：播放量随便破亿，但90%公司还在亏钱。业内人士揭秘：省了演员片酬但得加钱投流，最后发现AI最大的作用是帮MCN写‘龙王赘婿’第108部续集",
-          "usage": "💡 聊AI应用时\n💬 用AI写剧本？不如直接写辞职报告\n🔥 短剧 内容农场 算法陷阱",
-          "src_id": 9,
+          "title": "SOP走火入魔",
+          "summary": "打工人把生活写成手册",
+          "detail": "有网友把出差物品清单写成SOP手册，连'带充电器'都要分安卓版和苹果版。建议下次更新《呼吸操作指南》，吸气步骤分解到毫秒级。",
+          "usage": "💡 聊职场内卷时\n💬 建议AI先学会给人类写SOP\n🔥 职场 SOP 内卷",
+          "src_id": 5,
           "tags": [
-            "短视频",
-            "生成式AI"
+            "职场",
+            "效率"
           ],
-          "source": "https://www.huxiu.com/article/4904948.html?f=rss"
+          "source": "https://www.huxiu.com/article/4905191.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "币圈风云",
+      "icon": "🪙",
+      "items": [
+        {
+          "title": "算力币化",
+          "summary": "显卡成新虚拟货币",
+          "detail": "当华尔街开始囤积显卡，币圈大佬惊呼'这才是真正的数字黄金'。建议发行'H100币'，白皮书就写'基于实体算力的价值存储'，绝对比空气币靠谱。",
+          "usage": "💡 聊加密货币时\n💬 以后矿场要改叫数字金库了\n🔥 算力 加密货币 显卡",
+          "src_id": 10,
+          "tags": [
+            "加密货币",
+            "算力"
+          ],
+          "source": "https://www.toutiao.com/trending/7707281242000985663/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707281242000985663%22%2C%22hot_board_impr_id%22%3A%2220261113015518AB457D1E74BD889F7411%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E5%B0%94%E8%A1%97%E7%96%AF%E7%8B%82%E6%8A%9B%E5%94%AE%E9%BB%84%E9%87%91%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%22%7D&rank=&style_id=40132&topic_id=7707281242000985663"
+        },
+        {
+          "title": "稳定币不稳定",
+          "summary": "黄金抛售冲击加密市场",
+          "detail": "华尔街疯狂抛售黄金导致加密货币市场震荡，证明所谓'稳定币'还不如老黄妈的显卡保值。建议孙宇晨下次拍卖会改卖二手矿机。",
+          "usage": "💡 聊币圈暴跌时\n💬 比特币不如3080\n🔥 加密货币 黄金 算力",
+          "src_id": 10,
+          "tags": [
+            "加密货币",
+            "金融"
+          ],
+          "source": "https://www.toutiao.com/trending/7707281242000985663/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707281242000985663%22%2C%22hot_board_impr_id%22%3A%2220261113015518AB457D1E74BD889F7411%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E5%B0%94%E8%A1%97%E7%96%AF%E7%8B%82%E6%8A%9B%E5%94%AE%E9%BB%84%E9%87%91%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%22%7D&rank=&style_id=40132&topic_id=7707281242000985663"
         }
       ]
     }
   ],
-  "generated_at": "2026-11-12T04:07:42.316Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-11-12T17:56:15.118Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 5762,
-    "completion_tokens": 2717,
-    "total_tokens": 8479,
-    "cost_usd": 0.0042619699999999995,
+    "prompt_tokens": 5496,
+    "completion_tokens": 2427,
+    "total_tokens": 7923,
+    "cost_usd": 0.00391875,
     "free": false,
-    "quality": {
-      "degraded": true,
-      "dropped_orphans": 2,
-      "published": 14
-    },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 12,
+        "huxiu": 8,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 23
+      "total": 18
     }
   }
 }

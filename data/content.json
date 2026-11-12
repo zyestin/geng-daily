@@ -1,200 +1,184 @@
 {
   "categories": [
     {
-      "name": "前端框架",
-      "icon": "🚀",
+      "name": "时事热点",
+      "icon": "📰",
       "items": [
         {
-          "title": "Astryx 发布",
-          "summary": "Meta开源全新设计系统",
-          "detail": "Meta 发布 Astryx，一个完全可定制且为 AI agent 准备好的开源设计系统，支持 React 和 React Native，旨在提供统一的 UI 体验。",
-          "usage": "Astryx 看起来挺有意思，尤其是对多端项目很有帮助。不过现在设计系统这么多，Meta 这次能玩出什么新花样？",
-          "source": "https://github.com/meta/astryx",
+          "title": "全球低空经济热潮",
+          "summary": "飞行汽车即将走进生活",
+          "detail": "随着近期多地低空经济试点政策落地，无人机物流和飞行出租车技术取得了突破性进展。这不仅是交通工具的变革，更是城市管理和物流效率的一次大升级，引发了社会各界对未来城市形态的广泛讨论。",
+          "usage": "跟丈母娘聊天时可以这么说：‘妈，您看新闻没？以后咱们出门可能都不坐车了，直接坐那种会飞的小飞机，像电影里演的那样，感觉以后送外卖都能直接飞到阳台来了！’",
+          "source": "",
           "tags": [
-            "React",
-            "设计系统",
-            "Meta"
+            "科技趋势",
+            "社会热点"
           ]
         },
         {
-          "title": "Next.js 14.5",
-          "summary": "性能优化大升级",
-          "detail": "Next.js 14.5 发布，显著提升了编译速度和运行时性能，特别是针对大型项目的优化效果明显。",
-          "usage": "听说 Next.js 14.5 把编译速度提升了 30%，这对我手头的项目简直是福音！你们升了吗？",
+          "title": "数字游民新趋势",
+          "summary": "换个城市边玩边工作",
+          "detail": "随着远程办公技术的成熟，越来越多的年轻人选择去大理、清迈等城市过“数字游民”生活。这种打破办公室边界的工作模式正在改变传统的职业观和消费习惯，成为了社交媒体上的热门话题。",
+          "usage": "跟家人聊生活规划时说：‘现在好多程序员都不在写字楼里待着了，去海边边工作边旅游，这种生活方式真的挺让人向往的，咱们以后也考虑带孩子去这种环境体验一下？’",
           "source": "",
           "tags": [
-            "Next.js",
-            "性能优化"
+            "职业生活",
+            "社会趋势"
           ]
         }
       ]
     },
     {
-      "name": "React Native",
-      "icon": "📱",
+      "name": "亲子时光",
+      "icon": "👨‍👧",
       "items": [
         {
-          "title": "NewArch 稳定版",
-          "summary": "RN新架构终于稳定",
-          "detail": "React Native 新架构（Fabric/TurboModules）发布稳定版，性能提升明显，特别是滚动流畅度和内存占用。",
-          "usage": "RN 新架构终于稳定了！我们团队正在评估迁移成本，你们觉得值得现在升级吗？",
+          "title": "小小自然观察员",
+          "summary": "带7岁娃进行自然探险",
+          "detail": "7岁正是好奇心最强的年纪，通过简单的户外观察，如收集落叶、观察昆虫或识别植物，可以极大地锻炼孩子的观察力和专注力，同时建立对自然的敬畏感。",
+          "usage": "对女儿说：‘宝贝，今天咱们去公园当个“小小侦探”好不好？看看能不能找到三种不同颜色的叶子，或者找到那只躲起来的小虫子！’",
           "source": "",
           "tags": [
-            "React Native",
-            "性能优化"
+            "亲子活动",
+            "自然教育"
           ]
         },
         {
-          "title": "RN+Flutter之战",
-          "summary": "跨端方案新趋势",
-          "detail": "最新调查显示，React Native 和 Flutter 在企业应用中的采用率几乎持平，各有优劣。",
-          "usage": "看到没？RN 和 Flutter 现在基本平分天下了。你们公司新项目会选哪个？我还是站 RN，毕竟生态更成熟。",
+          "title": "家庭创意手工大赛",
+          "summary": "用废旧纸盒造个小城堡",
+          "detail": "利用家里的快递纸盒、吸管和胶带，进行简单的结构搭建。这不仅是手工，更是在潜移默化中培养孩子的空间想象力和动手解决问题的能力。",
+          "usage": "跟老婆和女儿商量：‘我看家里好多快递盒还没扔，咱们今晚抽半小时，一起搭个“秘密基地”怎么样？谁搭得最像城堡，明天奖励一个小零食！’",
           "source": "",
           "tags": [
-            "React Native",
-            "Flutter"
+            "手工DIY",
+            "逻辑思维"
           ]
         }
       ]
     },
     {
-      "name": "AI编程",
-      "icon": "🤖",
+      "name": "热门影视",
+      "icon": "🎬",
       "items": [
         {
-          "title": "AI代理技能库",
-          "summary": "Addy Osmani开源AI编程技能库",
-          "detail": "Google工程师Addy Osmani开源agent-skills项目，提供AI编程代理所需的生产级工程技能库。",
-          "usage": "Addy Osmani 这个agent-skills项目真不错，把AI编程需要的技能都列出来了。你觉得AI能完全替代初级工程师吗？",
-          "source": "https://github.com/addyosmani/agent-skills",
-          "tags": [
-            "AI编程",
-            "自动化"
-          ]
-        },
-        {
-          "title": "AI浏览器自动化",
-          "summary": "Vercel开源AI浏览器代理",
-          "detail": "Vercel Labs发布agent-browser，一个为AI代理设计的浏览器自动化CLI工具，可以模拟人类交互。",
-          "usage": "Vercel这个AI浏览器工具看起来能省不少事。不过要是AI乱点网页怎么办？昨天看到联合航空都禁止AI代理订票了！",
-          "source": "https://github.com/vercel-labs/agent-browser",
-          "tags": [
-            "AI",
-            "自动化"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "TS & JS",
-      "icon": "📘",
-      "items": [
-        {
-          "title": "TS 6.0新特性",
-          "summary": "类型系统再增强",
-          "detail": "TypeScript 6.0将引入更强大的类型推断和类型操作能力，特别是对函数式编程的支持更完善。",
-          "usage": "TypeScript 6.0要来了，据说函数式编程支持更好。你们项目里用FP风格多吗？我觉得适度用用还行。",
+          "title": "国产科幻新剧热议",
+          "summary": "硬核科幻视觉盛宴",
+          "detail": "近期一部关于近未来太空探索的国产科幻剧集在各大平台热播，凭借精良的特效和深刻的人文关怀，吸引了全年龄段观众的关注，讨论度极高。",
+          "usage": "下班回家问家人：‘最近那个科幻大剧大家都说好看，特效特别真，咱们今晚要不要一起看一集？正好看看未来的科技长啥样。’",
           "source": "",
           "tags": [
-            "TypeScript",
-            "JavaScript"
+            "科幻剧",
+            "家庭观影"
           ]
         },
         {
-          "title": "Bun 2.0发布",
-          "summary": "性能碾压Node.js",
-          "detail": "Bun 2.0发布，性能基准测试显示其HTTP服务器处理能力是Node.js的3倍，启动速度快5倍。",
-          "usage": "Bun这家伙也太能打了，Node.js现在压力山大啊。不过生态还是硬伤，你们敢在生产环境用吗？",
+          "title": "治愈系动画回归",
+          "summary": "全家人的心灵按摩",
+          "detail": "一部主打自然与成长主题的治愈系动画电影正在院线热映，画风清新，剧情温情，非常适合带小朋友一起去电影院感受美好的情感连接。",
+          "usage": "跟孩子说：‘宝贝，听说最近有个特别可爱的动画片，里面的小动物都特别聪明，周末爸爸带你去电影院看好不好？’",
           "source": "",
           "tags": [
-            "JavaScript",
-            "Node.js"
+            "动画电影",
+            "亲子观影"
           ]
         }
       ]
     },
     {
-      "name": "开源热门",
-      "icon": "🌟",
+      "name": "生活妙招",
+      "icon": "💡",
       "items": [
         {
-          "title": "Sure财务App",
-          "summary": "全民参与的开源理财工具",
-          "detail": "Sure是一个由社区共同开发的开源个人理财应用，所有人都可以贡献功能或设计。",
-          "usage": "这个Sure理财App挺有意思，完全开源让所有人参与。不过钱的东西，你敢用社区开发的应用吗？",
-          "source": "https://github.com/we-promise/sure",
+          "title": "极简家居收纳术",
+          "summary": "让家里瞬间变宽敞",
+          "detail": "针对现代家庭常见的杂物堆积问题，介绍利用垂直空间和透明收纳盒进行分类管理的方法，不仅美观，还能大幅提升寻找物品的效率。",
+          "usage": "跟丈母娘分享：‘妈，我最近学了个收纳法，把那些零碎的小东西都分装在透明盒子里，找起来特别方便，家里看着也干净多了，您看咱家厨房要不要也试试？’",
+          "source": "",
           "tags": [
-            "开源",
-            "理财"
+            "家居整理",
+            "生活技巧"
           ]
         },
         {
-          "title": "AI代码审计",
-          "summary": "Shadcn新作Improve",
-          "detail": "Shadcn发布Improve工具，使用高级AI模型审查代码库并制定改进计划，可由低成本模型执行。",
-          "usage": "Shadcn又出新活了！这个Improve工具先用强模型规划，再用便宜模型执行，挺会算账的嘛。",
-          "source": "https://github.com/shadcn/improve",
+          "title": "空气炸锅新吃法",
+          "summary": "懒人也能做大餐",
+          "detail": "利用空气炸锅进行低油烹饪，不仅健康，而且操作极其简单。通过一些创新的食材组合，可以做出餐厅水准的烤肉或甜点。",
+          "usage": "跟家人提议：‘今天咱们不点外卖了，我用空气炸锅试个新菜，烤个脆皮鸡腿或者烤个红薯，既健康又省事，大家尝尝！’",
+          "source": "",
           "tags": [
-            "AI",
-            "代码质量"
+            "烹饪技巧",
+            "健康饮食"
           ]
         }
       ]
     },
     {
-      "name": "开发者梗",
-      "icon": "😄",
+      "name": "乒乓球",
+      "icon": "🏓",
       "items": [
         {
-          "title": "Perl油漆艺术",
-          "summary": "93%的油漆泼洒是有效Perl代码",
-          "detail": "2019年的老梗又火了：研究发现随机油漆泼洒有93%概率是有效的Perl程序，调侃Perl语言的复杂性。",
-          "usage": "看到那个Perl梗没？说随机油漆泼洒93%都是有效代码哈哈哈。不过现在应该改成Python了吧？毕竟ai写的代码也差不多这样。",
-          "source": "https://www.mcmillen.dev/sigbovik/",
+          "title": "国乒新一代崛起",
+          "summary": "关注年轻选手的突破",
+          "detail": "近期国际乒联赛事中，国乒队中几位年轻选手的表现非常抢眼，展现了极强的攻击性和战术素养，标志着国乒梯队建设的成功。",
+          "usage": "跟喜欢乒乓球的丈母娘聊：‘妈，您看最近那场比赛没？国乒那几个小将打得真猛，技术动作特别细腻，感觉咱们国家乒乓球的后继有人啊！’",
+          "source": "",
           "tags": [
-            "段子",
-            "编程语言"
+            "乒乓球",
+            "国乒动态"
           ]
         },
         {
-          "title": "假烟雾警报",
-          "summary": "Jane Street数据中心惊魂",
-          "detail": "Jane Street唯一纽约数据中心因假烟雾警报差点被消防喷淋系统淹没，引发对灾备的热议。",
-          "usage": "Jane Street这个假警报差点毁了整个数据中心！我们公司的灾备方案也该更新了，你们有做喷淋系统防护吗？",
-          "source": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+          "title": "乒乓球拍选购指南",
+          "summary": "新手与进阶装备推荐",
+          "detail": "针对不同水平的爱好者，介绍底板的硬度、海绵的厚度以及胶皮的粘性对控球和力量的影响，帮助玩家选择最适合自己的装备。",
+          "usage": "跟丈母娘聊器材：‘妈，您平时练球，要是觉得球拍不够顺手，我可以帮您看看，现在的专业球拍有很多针对不同打法设计的，选对了打起来更有感觉。’",
+          "source": "",
           "tags": [
-            "运维",
-            "安全"
+            "运动装备",
+            "乒乓球技术"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "健康养生",
+      "icon": "🥗",
+      "items": [
+        {
+          "title": "抗氧化饮食法",
+          "summary": "通过食物延缓衰老",
+          "detail": "强调摄入富含花青素、维生素C等抗氧化成分的食物，如蓝莓、深色蔬菜等，对于增强免疫力和皮肤健康具有积极作用。",
+          "usage": "跟家人叮嘱：‘最近咱们多买点蓝莓和西蓝花，这些蔬菜水果抗氧化效果好，对身体特别有好处，咱们吃得科学点，身体才更有活力。’",
+          "source": "",
+          "tags": [
+            "饮食营养",
+            "健康生活"
+          ]
+        },
+        {
+          "title": "碎片化运动建议",
+          "summary": "拒绝久坐伤身",
+          "detail": "针对程序员等职业常见的久坐问题，推荐在工作间隙进行简单的拉伸或原地踏步，以缓解腰椎和颈椎的压力。",
+          "usage": "跟孩子和家人分享：‘咱们每天坐久了对脊椎不好，每天咱们一起做几组简单的拉伸动作，像小猫伸懒腰那样，身体会舒服很多。’",
+          "source": "",
+          "tags": [
+            "运动健身",
+            "健康贴士"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-12T04:04:22.248Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-11-12T17:42:04.541Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
-    "model": "deepseek/deepseek-chat",
-    "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 2033,
-    "completion_tokens": 1596,
-    "total_tokens": 3629,
-    "cost_usd": 0.002071,
-    "free": false,
-    "sources": {
-      "per_source": {
-        "hackernews": 15,
-        "reddit": 0,
-        "askhn": 8,
-        "lobsters": 10,
-        "devto": 10,
-        "v2ex": 10,
-        "juejin": 10,
-        "github": 10,
-        "qbitai": 8,
-        "infoq": 8
-      },
-      "total": 20
-    }
+    "model": "google/gemma-4-26b-a4b-it:free",
+    "actual_model": "google/gemma-4-26b-a4b-it:free",
+    "prompt_tokens": 854,
+    "completion_tokens": 2039,
+    "total_tokens": 2893,
+    "cost_usd": 0,
+    "free": true
   }
 }
