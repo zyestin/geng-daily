@@ -5,30 +5,28 @@
       "icon": "💥",
       "items": [
         {
-          "title": "马斯克 Grok 泄密",
-          "summary": "Grok 泄露 SpaceX 和特斯拉工资绩效",
-          "detail": "马斯克的 xAI 刚放出的 Grok 大模型又炸雷了——把 SpaceX 和特斯拉的工资绩效全曝光。这下 HR 们得连夜改系统权限了，毕竟马斯克家的 AI 比狗仔队还猛。",
-          "usage": "💡 聊 AI 安全时甩出\n💬 马斯克家的 AI 连老板的底裤都敢扒\n🔥 Grok 泄密 马斯克 SpaceX",
-          "src_id": 10,
+          "title": "黄仁勋辞职",
+          "summary": "NVIDIA CEO因丑闻辞职",
+          "detail": "NVIDIA CEO黄仁勋因被曝与疑似中国间谍有染而辞职，这可能会影响NVIDIA在AI芯片市场的领导地位。黄仁勋的辞职不仅让NVIDIA股价暴跌，还引发了对其开源AI承诺的质疑。",
+          "usage": "💡 聊AI芯片市场动荡\n💬 NVIDIA这下要变天了，黄仁勋的丑闻比RTX 5090发布还劲爆\n🔥 NVIDIA 黄仁勋 辞职",
+          "source": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
           "tags": [
-            "Grok",
-            "马斯克",
-            "AI安全"
-          ],
-          "source": "https://www.qbitai.com/2026/11/509355.html"
+            "NVIDIA",
+            "CEO辞职",
+            "丑闻"
+          ]
         },
         {
-          "title": "黄仁勋被罢免",
-          "summary": "Nvidia CEO 突然下课",
-          "detail": "显卡教父黄仁勋突然被 Nvidia 董事会罢免，疑似与桃色绯闻有关。这位带领 Nvidia 登顶 AI 算力王座的传奇人物，居然栽在了传统艺能上。",
-          "usage": "💡 聊 AI 芯片时抛梗\n💬 老黄这次真的 '核显' 了\n🔥 黄仁勋 Nvidia CEO罢免",
-          "src_id": 12,
+          "title": "Grok泄密",
+          "summary": "马斯克Grok泄露SpaceX薪资",
+          "detail": "马斯克的Grok AI意外泄露了SpaceX和特斯拉的薪资和绩效数据，这让内部员工和外界都大吃一惊。Grok在让人破防这件事上，从来不会让人失望。",
+          "usage": "💡 聊AI安全风险\n💬 Grok这次直接把马斯克的老底都掀了，打工人可以看看自己是不是被压榨了\n🔥 Grok 泄密 SpaceX 薪资",
+          "source": "https://www.qbitai.com/2026/11/509355.html",
           "tags": [
-            "黄仁勋",
-            "Nvidia",
-            "人事变动"
-          ],
-          "source": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/"
+            "Grok",
+            "泄密",
+            "马斯克"
+          ]
         }
       ]
     },
@@ -37,30 +35,28 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "MiniMax 开源生图",
-          "summary": "开源 SOTA 生图模型 4K 两毛",
-          "detail": "MiniMax 开源了新一代生图模型，原生支持 4K 分辨率，单张成本只要两毛钱。对比 Midjourney 动辄几块的费用，这波属于是直接把显卡烧烤店干成煎饼摊。",
-          "usage": "💡 聊 AIGC 成本时甩数据\n💬 现在连 AI 画图都开始拼多多化\n🔥 MiniMax 开源生图 4K",
-          "src_id": 1,
+          "title": "MiniMax开源",
+          "summary": "MiniMax开源4K生图模型",
+          "detail": "MiniMax开源了SOTA生图模型，支持原生4K分辨率，每张图成本仅两毛钱。这直接把商业生图市场的价格打到了地板价。",
+          "usage": "💡 聊开源模型\n💬 这下MidJourney要慌了，MiniMax开源的4K生图只要两毛一张\n🔥 MiniMax 开源 生图",
+          "source": "https://www.qbitai.com/2026/11/509440.html",
           "tags": [
             "MiniMax",
-            "AIGC",
-            "开源"
-          ],
-          "source": "https://www.qbitai.com/2026/11/509440.html"
+            "开源",
+            "生图"
+          ]
         },
         {
-          "title": "Phota AI 修图",
-          "summary": "AI 把废片变专业照",
-          "detail": "Phota Labs 放出黑科技：用 AI 把手机废片修成专业级照片。测试发现，它能把雾霾天拍的游客照修出《国家地理》质感，以后朋友圈摄影大赛要卷出新高度。",
-          "usage": "💡 聊手机摄影时抛梗\n💬 这下连滤镜博主都要失业了\n🔥 PhotaLabs AI修图",
-          "src_id": 9,
+          "title": "Gemini升级",
+          "summary": "Gemini 4 Hydrogen发布",
+          "detail": "Google发布了Gemini 4 Hydrogen，能更好地理解复杂查询。这次升级让Google搜索的AI模式在回答复杂问题时更精准。",
+          "usage": "💡 聊搜索AI\n💬 Google的Gemini 4 Hydrogen终于能听懂人话了，不用再被智障回答气死\n🔥 Gemini 4 Hydrogen Google",
+          "source": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
           "tags": [
-            "PhotaLabs",
-            "AI摄影",
-            "图像处理"
-          ],
-          "source": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/"
+            "Gemini",
+            "Google",
+            "搜索"
+          ]
         }
       ]
     },
@@ -69,30 +65,28 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "达里奥独挺 Anthropic",
-          "summary": "全球踩刹车他踩油门",
-          "detail": "当 Anthropic IPO 估值缩水 6000 亿美元时，达里奥逆势加注。这位桥水大佬放话：'别人恐惧时我贪婪'——就是不知道这次是神预测还是接飞刀。",
-          "usage": "💡 聊 AI 投资时引用\n💬 达里奥：你们撤，我来扛\n🔥 达里奥 Anthropic 投资",
-          "src_id": 7,
+          "title": "马斯克招聘",
+          "summary": "马斯克想聘黄仁勋",
+          "detail": "在黄仁勋辞职后，马斯克已准备好聘请他。这可能是想加强xAI的硬件能力，毕竟黄仁勋在AI芯片领域无人能敌。",
+          "usage": "💡 聊大佬动向\n💬 马斯克这是要组复仇者联盟吗？连黄仁勋都不放过\n🔥 马斯克 黄仁勋 招聘",
+          "source": "https://www.qbitai.com/2026/11/509334.html",
           "tags": [
-            "达里奥",
-            "Anthropic",
-            "IPO"
-          ],
-          "source": "https://www.qbitai.com/2026/11/509381.html"
+            "马斯克",
+            "黄仁勋",
+            "招聘"
+          ]
         },
         {
-          "title": "特朗普推 Tim Cook",
-          "summary": "建议苹果掌门接替老黄",
-          "detail": "特朗普在 Truth Social 发帖，推荐苹果董事长 Tim Cook 接替黄仁勋执掌 Nvidia。科技圈震惊三连：先不说专业对不对口，库克连 iPhone 发布会都懒得开发布会的人会接这烫手山芋？",
-          "usage": "💡 聊 Nvidia 未来时玩梗\n💬 川普：我选库克！库克：我选...退休\n🔥 特朗普 TimCook Nvidia",
-          "src_id": 18,
+          "title": "邓澍军演讲",
+          "summary": "AI如何进入课堂",
+          "detail": "银河智学首席科学家邓澍军博士发表演讲，探讨AI如何真正进入课堂。他认为从通用大模型到学习过程智能是关键。",
+          "usage": "💡 聊教育AI\n💬 邓澍军说AI进课堂不是装个ChatGPT就行，得真正懂学习过程\n🔥 邓澍军 AI教育 银河智学",
+          "source": "https://www.qbitai.com/2026/11/509404.html",
           "tags": [
-            "特朗普",
-            "TimCook",
-            "Nvidia"
-          ],
-          "source": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/"
+            "邓澍军",
+            "AI教育",
+            "银河智学"
+          ]
         }
       ]
     },
@@ -101,30 +95,28 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "OpenAI 企业版",
-          "summary": "ChatGPT 新增商业管理",
-          "detail": "OpenAI 推出 Businesses in ChatGPT，企业可以管理信息、获取洞察。想象一下：以后电商客服和老板用同一个 AI，只不过老板的版本多几个'优化成本'的隐藏指令。",
-          "usage": "💡 聊企业AI时举例\n💬 打工人：AI请给我调薪方案 AI：根据公司政策...\n🔥 OpenAI 企业版 ChatGPT",
-          "src_id": 20,
-          "tags": [
-            "OpenAI",
-            "ChatGPT",
-            "企业服务"
-          ],
-          "source": "https://openai.com/index/introducing-businesses-chatgpt"
-        },
-        {
-          "title": "Anthropic 漏洞门",
-          "summary": "4万漏洞只修217条",
-          "detail": "Anthropic 的 '玻璃翼计划' 安全审计曝光：系统存在近4万个候补漏洞，结果半年只修了217条。安全工程师看到这个修复比例，手里的咖啡杯都吓掉了。",
-          "usage": "💡 聊AI安全时甩数据\n💬 程序员：这bug量...是AI写的代码吧？\n🔥 Anthropic 漏洞 安全",
-          "src_id": 19,
+          "title": "Anthropic IPO",
+          "summary": "Anthropic启动IPO路演",
+          "detail": "Anthropic启动IPO路演，但估值已缩水6000亿美元。全世界都在踩刹车，只有达里奥一个人踩油门。",
+          "usage": "💡 聊AI公司估值\n💬 Anthropic这IPO路演，估值缩水比比特币跌得还狠\n🔥 Anthropic IPO 估值",
+          "source": "https://www.qbitai.com/2026/11/509381.html",
           "tags": [
             "Anthropic",
-            "AI安全",
-            "漏洞"
-          ],
-          "source": "https://www.qbitai.com/2026/11/509291.html"
+            "IPO",
+            "估值"
+          ]
+        },
+        {
+          "title": "OpenAI资助",
+          "summary": "OpenAI资助儿童安全研究",
+          "detail": "OpenAI承诺投入200万美元用于AI和儿童安全研究。这笔资金将支持开发共享工具，确保AI对儿童更安全。",
+          "usage": "💡 聊AI伦理\n💬 OpenAI终于想起来AI还得管管孩子，砸了200万研究安全\n🔥 OpenAI 儿童安全 资助",
+          "source": "https://openai.com/index/children-first-declaration",
+          "tags": [
+            "OpenAI",
+            "儿童安全",
+            "资助"
+          ]
         }
       ]
     },
@@ -133,30 +125,28 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "ChatGPT 拥军套餐",
-          "summary": "军人免费一年Plus",
-          "detail": "OpenAI 给退伍和现役军人送福利：免费一年 ChatGPT Plus。这波操作让网友吐槽：'AI 都知道要抱住最硬核的用户群体'。",
-          "usage": "💡 聊AI普及时举例\n💬 以后战术手册是不是该加个 /prompt 参数\n🔥 ChatGPT 军人福利",
-          "src_id": 11,
+          "title": "Muse打电话",
+          "summary": "Muse可拨打商业电话",
+          "detail": "Muse的AI现在可以拨打美国商业电话，但这项服务不是免费的。这可能是AI电话营销的新起点。",
+          "usage": "💡 聊AI应用\n💬 Muse的AI现在能打电话了，推销员要失业了？\n🔥 Muse AI电话 商业",
+          "source": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
           "tags": [
-            "ChatGPT",
-            "OpenAI",
-            "福利"
-          ],
-          "source": "https://openai.com/index/chatgpt-plus-for-veterans"
+            "Muse",
+            "AI电话",
+            "商业"
+          ]
         },
         {
-          "title": "Holiday Extras 用 Codex",
-          "summary": "AI 提升订房转化率",
-          "detail": "旅游平台 Holiday Extras 用 OpenAI 的 Codex 把客户评价变成推荐引擎，预订转化率直线上升。看来以后酒店差评都会变成 '特色亮点' —— '有人说隔音差' AI 解读成 '适合夜猫子'。",
-          "usage": "💡 聊AI商业化时举例\n💬 AI：差评？那叫个性化标签！\n🔥 Codex 旅游 商业化",
-          "src_id": 2,
+          "title": "Nectar AI",
+          "summary": "Nectar发布AI营销代理",
+          "detail": "Nectar推出AI代理，自动化创作者发现和品牌 outreach。这能让 influencer marketing 更高效。",
+          "usage": "💡 聊营销AI\n💬 Nectar的AI代理连网红都能找，品牌方这下省事了\n🔥 Nectar AI营销 网红",
+          "source": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
           "tags": [
-            "Codex",
-            "OpenAI",
-            "旅游科技"
-          ],
-          "source": "https://openai.com/business/customer-stories/holidays-extras-codex"
+            "Nectar",
+            "AI营销",
+            "网红"
+          ]
         }
       ]
     },
@@ -165,30 +155,28 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "Hugging Face 不退缩",
-          "summary": "CEO 誓言继续开源",
-          "detail": "在黄仁勋离开开源阵营后，Hugging Face CEO 发声明要坚持开源路线。网友戏称：'这下 Hugging Face 真成 AI 圈罗永浩了' —— 理想主义者的人设算是立住了。",
-          "usage": "💡 聊开源争议时引用\n💬 HF：就算只剩我们，也要把开源进行到底\n🔥 HuggingFace 开源 AI",
-          "src_id": 3,
+          "title": "NVIDIA开源危机",
+          "summary": "NVIDIA开源承诺受质疑",
+          "detail": "黄仁勋的辞职引发了对NVIDIA开源AI承诺的质疑，包括其CUDA生态的未来。",
+          "usage": "💡 聊开源未来\n💬 黄仁勋一走，NVIDIA的开源承诺还作数吗？CUDA生态要变天？\n🔥 NVIDIA 开源 CUDA",
+          "source": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
           "tags": [
-            "HuggingFace",
+            "NVIDIA",
             "开源",
-            "CEO"
-          ],
-          "source": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
+            "CUDA"
+          ]
         },
         {
-          "title": "Norwest 40亿押注AI",
-          "summary": "创投机构新基金",
-          "detail": "Norwest Venture Partners 推出40亿美元新基金专注AI领域，这规模相当于给每个硅谷AI初创公司发了个'来骗钱'的请柬。",
-          "usage": "💡 聊AI投资时抛数据\n💬 投资人：AI寒冬？我们带的是喷火器\n🔥 Norwest 风投 AI基金",
-          "src_id": 24,
+          "title": "MiniMax开源",
+          "summary": "MiniMax开源生图模型",
+          "detail": "MiniMax开源了SOTA生图模型，支持原生4K分辨率，每张图成本仅两毛钱。这直接把商业生图市场的价格打到了地板价。",
+          "usage": "💡 聊开源模型\n💬 这下MidJourney要慌了，MiniMax开源的4K生图只要两毛一张\n🔥 MiniMax 开源 生图",
+          "source": "https://www.qbitai.com/2026/11/509440.html",
           "tags": [
-            "Norwest",
-            "风投",
-            "AI基金"
-          ],
-          "source": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/"
+            "MiniMax",
+            "开源",
+            "生图"
+          ]
         }
       ]
     },
@@ -197,30 +185,28 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "OpenAI 教育研究",
-          "summary": "200万刀研究儿童安全",
-          "detail": "OpenAI 豪掷200万美元研究AI与儿童安全问题。家长们的期待很朴素：不求AI教奥数，只求别把孩子问'人生的意义'时回答'42'。",
-          "usage": "💡 聊AI伦理时举例\n💬 以后AI给小孩讲睡前故事会不会突然插播广告\n🔥 OpenAI 儿童安全 研究",
-          "src_id": 5,
+          "title": "Anthropic漏洞",
+          "summary": "Anthropic漏洞修复缓慢",
+          "detail": "Anthropic的玻璃翼计划被质疑，近4万个候补漏洞只修了217条。这安全速度比Windows更新还慢。",
+          "usage": "💡 聊AI安全\n💬 Anthropic这漏洞修复速度，黑客都要笑醒了\n🔥 Anthropic 漏洞 安全",
+          "source": "https://www.qbitai.com/2026/11/509291.html",
           "tags": [
-            "OpenAI",
-            "AI安全",
-            "儿童"
-          ],
-          "source": "https://openai.com/index/children-first-declaration"
+            "Anthropic",
+            "漏洞",
+            "安全"
+          ]
         },
         {
-          "title": "银河智学课堂AI",
-          "summary": "邓澍军谈教育AI",
-          "detail": "银河智学首席科学家邓澍军提出'学习过程智能'概念，要让AI真正理解教学场景。理想很丰满：AI因材施教；现实可能：学霸被疯狂投喂题库，学渣收到一堆'你已经很棒了'的表情包。",
-          "usage": "💡 聊教育科技时引用\n💬 AI老师：这道题不会？那我们再看20遍\n🔥 银河智学 教育AI",
-          "src_id": 4,
+          "title": "企业AI难题",
+          "summary": "企业AI不只是模型强",
+          "detail": "璇玑科技探讨如何让AI真正懂业务，成为企业AI的语义基础设施。企业AI的难题，不只是模型够不够强。",
+          "usage": "💡 聊企业AI\n💬 璇玑说企业AI不是堆模型就行，得先懂业务语义\n🔥 璇玑 企业AI 语义",
+          "source": "https://www.qbitai.com/2026/11/509349.html",
           "tags": [
-            "银河智学",
-            "教育AI",
-            "邓澍军"
-          ],
-          "source": "https://www.qbitai.com/2026/11/509404.html"
+            "璇玑",
+            "企业AI",
+            "语义"
+          ]
         }
       ]
     },
@@ -229,44 +215,42 @@
       "icon": "📈",
       "items": [
         {
-          "title": "SoftBank 亏30亿",
-          "summary": "天然气赌局惨败",
-          "detail": "SoftBank 提前订购天然气发电设备给AI数据中心用，结果亏了30亿美元。这波操作堪称科技界的'冬天买冰棍' —— 赌AI能耗暴涨，结果能效提升比预期快。",
-          "usage": "💡 聊AI基建时抛梗\n💬 孙正义：我预判了你的预判...的失误\n🔥 SoftBank 天然气 AI耗能",
-          "src_id": 6,
+          "title": "NVIDIA调查",
+          "summary": "民主党调查NVIDIA",
+          "detail": "民主党启动对NVIDIA的调查，就黄仁勋与特朗普的“scheme”发表严厉信函。这是国会第二次调查NVIDIA的中国销售。",
+          "usage": "💡 聊政策风险\n💬 民主党这是要趁黄仁勋病，要他命啊，连特朗普都扯进来了\n🔥 NVIDIA 调查 民主党",
+          "source": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
           "tags": [
-            "SoftBank",
-            "AI基建",
-            "投资失误"
-          ],
-          "source": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"
+            "NVIDIA",
+            "调查",
+            "民主党"
+          ]
         },
         {
-          "title": "百曜入选全球50强",
-          "summary": "The Information 榜单",
-          "detail": "中国AI公司百曜科技入选'2026全球最具潜力50家初创公司'。网友锐评：'能在资本寒冬里上榜的，要么真牛逼，要么PPT真牛逼'。",
-          "usage": "💡 聊中国AI时举例\n💬 百曜：我们靠技术...投资人：不，你们靠入选榜单\n🔥 百曜科技 全球50强",
-          "src_id": 22,
+          "title": "Nebius豪掷",
+          "summary": "Nebius计划400亿投资",
+          "detail": "Nebius计划通过客户预付款和贷款资助其400亿美元的AI基础设施扩张。这可能是AI云服务的新玩家入场。",
+          "usage": "💡 聊AI基建\n💬 Nebius这是要砸400亿和AWS抢饭碗？AI云服务又要洗牌了\n🔥 Nebius 400亿 AI基建",
+          "source": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
           "tags": [
-            "百曜科技",
-            "榜单",
-            "中国AI"
-          ],
-          "source": "https://www.qbitai.com/2026/11/509285.html"
+            "Nebius",
+            "AI基建",
+            "400亿"
+          ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-12T17:57:07.156Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-13T03:40:31.411Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3514,
-    "completion_tokens": 2592,
-    "total_tokens": 6106,
-    "cost_usd": 0.0034313599999999996,
+    "prompt_tokens": 3513,
+    "completion_tokens": 2678,
+    "total_tokens": 6191,
+    "cost_usd": 0.0035075799999999997,
     "free": false,
     "sources": {
       "per_source": {

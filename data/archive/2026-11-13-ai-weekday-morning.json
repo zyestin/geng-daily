@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "黄仁勋辞职",
+          "summary": "NVIDIA CEO因丑闻辞职",
+          "detail": "NVIDIA CEO黄仁勋因被曝与疑似中国间谍有染而辞职，这可能会影响NVIDIA在AI芯片市场的领导地位。黄仁勋的辞职不仅让NVIDIA股价暴跌，还引发了对其开源AI承诺的质疑。",
+          "usage": "💡 聊AI芯片市场动荡\n💬 NVIDIA这下要变天了，黄仁勋的丑闻比RTX 5090发布还劲爆\n🔥 NVIDIA 黄仁勋 辞职",
+          "source": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "tags": [
+            "NVIDIA",
+            "CEO辞职",
+            "丑闻"
+          ]
+        },
+        {
+          "title": "Grok泄密",
+          "summary": "马斯克Grok泄露SpaceX薪资",
+          "detail": "马斯克的Grok AI意外泄露了SpaceX和特斯拉的薪资和绩效数据，这让内部员工和外界都大吃一惊。Grok在让人破防这件事上，从来不会让人失望。",
+          "usage": "💡 聊AI安全风险\n💬 Grok这次直接把马斯克的老底都掀了，打工人可以看看自己是不是被压榨了\n🔥 Grok 泄密 SpaceX 薪资",
+          "source": "https://www.qbitai.com/2026/11/509355.html",
+          "tags": [
+            "Grok",
+            "泄密",
+            "马斯克"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "MiniMax开源",
+          "summary": "MiniMax开源4K生图模型",
+          "detail": "MiniMax开源了SOTA生图模型，支持原生4K分辨率，每张图成本仅两毛钱。这直接把商业生图市场的价格打到了地板价。",
+          "usage": "💡 聊开源模型\n💬 这下MidJourney要慌了，MiniMax开源的4K生图只要两毛一张\n🔥 MiniMax 开源 生图",
+          "source": "https://www.qbitai.com/2026/11/509440.html",
+          "tags": [
+            "MiniMax",
+            "开源",
+            "生图"
+          ]
+        },
+        {
+          "title": "Gemini升级",
+          "summary": "Gemini 4 Hydrogen发布",
+          "detail": "Google发布了Gemini 4 Hydrogen，能更好地理解复杂查询。这次升级让Google搜索的AI模式在回答复杂问题时更精准。",
+          "usage": "💡 聊搜索AI\n💬 Google的Gemini 4 Hydrogen终于能听懂人话了，不用再被智障回答气死\n🔥 Gemini 4 Hydrogen Google",
+          "source": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+          "tags": [
+            "Gemini",
+            "Google",
+            "搜索"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "马斯克招聘",
+          "summary": "马斯克想聘黄仁勋",
+          "detail": "在黄仁勋辞职后，马斯克已准备好聘请他。这可能是想加强xAI的硬件能力，毕竟黄仁勋在AI芯片领域无人能敌。",
+          "usage": "💡 聊大佬动向\n💬 马斯克这是要组复仇者联盟吗？连黄仁勋都不放过\n🔥 马斯克 黄仁勋 招聘",
+          "source": "https://www.qbitai.com/2026/11/509334.html",
+          "tags": [
+            "马斯克",
+            "黄仁勋",
+            "招聘"
+          ]
+        },
+        {
+          "title": "邓澍军演讲",
+          "summary": "AI如何进入课堂",
+          "detail": "银河智学首席科学家邓澍军博士发表演讲，探讨AI如何真正进入课堂。他认为从通用大模型到学习过程智能是关键。",
+          "usage": "💡 聊教育AI\n💬 邓澍军说AI进课堂不是装个ChatGPT就行，得真正懂学习过程\n🔥 邓澍军 AI教育 银河智学",
+          "source": "https://www.qbitai.com/2026/11/509404.html",
+          "tags": [
+            "邓澍军",
+            "AI教育",
+            "银河智学"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "Anthropic IPO",
+          "summary": "Anthropic启动IPO路演",
+          "detail": "Anthropic启动IPO路演，但估值已缩水6000亿美元。全世界都在踩刹车，只有达里奥一个人踩油门。",
+          "usage": "💡 聊AI公司估值\n💬 Anthropic这IPO路演，估值缩水比比特币跌得还狠\n🔥 Anthropic IPO 估值",
+          "source": "https://www.qbitai.com/2026/11/509381.html",
+          "tags": [
+            "Anthropic",
+            "IPO",
+            "估值"
+          ]
+        },
+        {
+          "title": "OpenAI资助",
+          "summary": "OpenAI资助儿童安全研究",
+          "detail": "OpenAI承诺投入200万美元用于AI和儿童安全研究。这笔资金将支持开发共享工具，确保AI对儿童更安全。",
+          "usage": "💡 聊AI伦理\n💬 OpenAI终于想起来AI还得管管孩子，砸了200万研究安全\n🔥 OpenAI 儿童安全 资助",
+          "source": "https://openai.com/index/children-first-declaration",
+          "tags": [
+            "OpenAI",
+            "儿童安全",
+            "资助"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "Muse打电话",
+          "summary": "Muse可拨打商业电话",
+          "detail": "Muse的AI现在可以拨打美国商业电话，但这项服务不是免费的。这可能是AI电话营销的新起点。",
+          "usage": "💡 聊AI应用\n💬 Muse的AI现在能打电话了，推销员要失业了？\n🔥 Muse AI电话 商业",
+          "source": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+          "tags": [
+            "Muse",
+            "AI电话",
+            "商业"
+          ]
+        },
+        {
+          "title": "Nectar AI",
+          "summary": "Nectar发布AI营销代理",
+          "detail": "Nectar推出AI代理，自动化创作者发现和品牌 outreach。这能让 influencer marketing 更高效。",
+          "usage": "💡 聊营销AI\n💬 Nectar的AI代理连网红都能找，品牌方这下省事了\n🔥 Nectar AI营销 网红",
+          "source": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+          "tags": [
+            "Nectar",
+            "AI营销",
+            "网红"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "NVIDIA开源危机",
+          "summary": "NVIDIA开源承诺受质疑",
+          "detail": "黄仁勋的辞职引发了对NVIDIA开源AI承诺的质疑，包括其CUDA生态的未来。",
+          "usage": "💡 聊开源未来\n💬 黄仁勋一走，NVIDIA的开源承诺还作数吗？CUDA生态要变天？\n🔥 NVIDIA 开源 CUDA",
+          "source": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+          "tags": [
+            "NVIDIA",
+            "开源",
+            "CUDA"
+          ]
+        },
+        {
+          "title": "MiniMax开源",
+          "summary": "MiniMax开源生图模型",
+          "detail": "MiniMax开源了SOTA生图模型，支持原生4K分辨率，每张图成本仅两毛钱。这直接把商业生图市场的价格打到了地板价。",
+          "usage": "💡 聊开源模型\n💬 这下MidJourney要慌了，MiniMax开源的4K生图只要两毛一张\n🔥 MiniMax 开源 生图",
+          "source": "https://www.qbitai.com/2026/11/509440.html",
+          "tags": [
+            "MiniMax",
+            "开源",
+            "生图"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "Anthropic漏洞",
+          "summary": "Anthropic漏洞修复缓慢",
+          "detail": "Anthropic的玻璃翼计划被质疑，近4万个候补漏洞只修了217条。这安全速度比Windows更新还慢。",
+          "usage": "💡 聊AI安全\n💬 Anthropic这漏洞修复速度，黑客都要笑醒了\n🔥 Anthropic 漏洞 安全",
+          "source": "https://www.qbitai.com/2026/11/509291.html",
+          "tags": [
+            "Anthropic",
+            "漏洞",
+            "安全"
+          ]
+        },
+        {
+          "title": "企业AI难题",
+          "summary": "企业AI不只是模型强",
+          "detail": "璇玑科技探讨如何让AI真正懂业务，成为企业AI的语义基础设施。企业AI的难题，不只是模型够不够强。",
+          "usage": "💡 聊企业AI\n💬 璇玑说企业AI不是堆模型就行，得先懂业务语义\n🔥 璇玑 企业AI 语义",
+          "source": "https://www.qbitai.com/2026/11/509349.html",
+          "tags": [
+            "璇玑",
+            "企业AI",
+            "语义"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "NVIDIA调查",
+          "summary": "民主党调查NVIDIA",
+          "detail": "民主党启动对NVIDIA的调查，就黄仁勋与特朗普的“scheme”发表严厉信函。这是国会第二次调查NVIDIA的中国销售。",
+          "usage": "💡 聊政策风险\n💬 民主党这是要趁黄仁勋病，要他命啊，连特朗普都扯进来了\n🔥 NVIDIA 调查 民主党",
+          "source": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+          "tags": [
+            "NVIDIA",
+            "调查",
+            "民主党"
+          ]
+        },
+        {
+          "title": "Nebius豪掷",
+          "summary": "Nebius计划400亿投资",
+          "detail": "Nebius计划通过客户预付款和贷款资助其400亿美元的AI基础设施扩张。这可能是AI云服务的新玩家入场。",
+          "usage": "💡 聊AI基建\n💬 Nebius这是要砸400亿和AWS抢饭碗？AI云服务又要洗牌了\n🔥 Nebius 400亿 AI基建",
+          "source": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+          "tags": [
+            "Nebius",
+            "AI基建",
+            "400亿"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-13T03:40:31.411Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3513,
+    "completion_tokens": 2678,
+    "total_tokens": 6191,
+    "cost_usd": 0.0035075799999999997,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

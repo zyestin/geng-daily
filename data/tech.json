@@ -1,265 +1,156 @@
 {
   "categories": [
     {
-      "name": "今日头条",
+      "name": "📰 今日头条",
       "icon": "📰",
       "items": [
         {
-          "title": "老黄急流勇退",
-          "summary": "黄仁勋突然辞任英伟达CEO",
-          "detail": "11月12日，掌舵33年的英伟达创始人黄仁勋突然宣布辞去CEO职务，连董事会席位都不要了。就在大家都以为老黄要带着AI芯片称霸世界时，这位皮衣战神选择急流勇退。国产GPU厂商连夜开会，讨论这是千年等一回的窗口期还是老黄布的局。",
-          "usage": "💡 早会聊巨头人事地震\n💬 家人们谁懂啊，老黄突然不玩了！\n🔥 英伟达 黄仁勋 辞职",
-          "src_id": 4,
+          "title": "黄仁勋辞职，英伟达震荡",
+          "summary": "AI巨头英伟达CEO黄仁勋辞职引发市场动荡。",
+          "detail": "美国时间11月12日，英伟达宣布黄仁勋辞去总裁和CEO职务，消息一出股价立马下跌4.34%。看起来，这位AI界的大佬终于离开了他的王座，留下的是六个待解的问题。家人们，AI的未来还会怎样？",
+          "usage": "💡 讨论英伟达未来走向时 \n💬 \"黄仁勋辞职，AI界要变天吗？\" \n🔥 黄仁勋 英伟达",
+          "source": "https://www.huxiu.com/article/4905269.html?f=rss",
           "tags": [
-            "芯片",
-            "人事变动"
-          ],
-          "source": "https://www.huxiu.com/article/4905192.html?f=rss"
+            "黄仁勋",
+            "英伟达",
+            "AI"
+          ]
         },
         {
-          "title": "华尔街黄金大逃杀",
-          "summary": "机构疯狂抛售黄金引发震荡",
-          "detail": "最近华尔街突然集体抛售黄金储备，创下近十年最大单日抛售量。分析师发现这些机构都在偷偷囤积英伟达显卡——现在算力才是新黄金，H100比金条保值多了。建议把《货币战争》改名《芯片战争》。",
-          "usage": "💡 茶水间聊投资风向\n💬 显卡当金条使的时代来了\n🔥 黄金抛售 英伟达 算力",
-          "src_id": 10,
+          "title": "京东云事业群重组",
+          "summary": "京东云与金融科技分开，重组后的未来何去何从？",
+          "detail": "11月10日，京东科技宣布将云计算与金融科技分开成两个独立事业群，徐丰将负责云科技。看起来，京东决心在云计算这条路上独立奋战，毕竟要成为第二个阿里云可不是一件简单的事。程序员们准备好迎接新竞争了吗？",
+          "usage": "💡 聊云服务市场时 \n💬 \"京东云分家，阿里会紧张吗？\" \n🔥 京东云 重组",
+          "source": "https://www.huxiu.com/article/4905284.html?f=rss",
           "tags": [
-            "金融",
-            "芯片"
-          ],
-          "source": "https://www.toutiao.com/trending/7707281242000985663/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707281242000985663%22%2C%22hot_board_impr_id%22%3A%2220261113015518AB457D1E74BD889F7411%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E5%B0%94%E8%A1%97%E7%96%AF%E7%8B%82%E6%8A%9B%E5%94%AE%E9%BB%84%E9%87%91%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%22%7D&rank=&style_id=40132&topic_id=7707281242000985663"
+            "京东",
+            "云计算",
+            "重组"
+          ]
         }
       ]
     },
     {
-      "name": "大佬动态",
+      "name": "🎤 大佬动态",
       "icon": "🎤",
       "items": [
         {
-          "title": "拜登的职场哲学",
-          "summary": "拜登谈患癌与辞职",
-          "detail": "近日拜登接受采访时语出惊人：'如果早知道会得癌症，我当初就辞职了。'马斯克火速推特补刀：'所以我现在每天工作23小时预防癌症。'建议各大厂HR把这条加入《奋斗者协议》免责条款。",
-          "usage": "💡 午休聊职场梗\n💬 原来按时下班能防癌？\n🔥 拜登 马斯克 职场文化",
-          "src_id": 14,
+          "title": "黄仁勋背后的AI故事",
+          "summary": "黄仁勋辞职，AI圈子怎么看？",
+          "detail": "黄仁勋辞职的消息一出来，整个AI产业都在震动。有人说他是AI的带头大哥，但现在带头大哥走了，谁来维稳？不少业内人士也担心，AI的生态是否会因此变天。",
+          "usage": "💡 聊AI行业动态时 \n💬 \"黄仁勋走后，AI行业的未来谁来把控？\" \n🔥 黄仁勋 AI",
+          "source": "https://www.huxiu.com/article/4905259.html?f=rss",
           "tags": [
-            "马斯克",
-            "职场"
-          ],
-          "source": "https://www.toutiao.com/trending/7706910852729766410/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227706910852729766410%22%2C%22hot_board_impr_id%22%3A%2220261113015518AB457D1E74BD889F7411%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%8B%9C%E7%99%BB%EF%BC%9A%E8%8B%A5%E6%97%A9%E7%9F%A5%E6%82%A3%E7%99%8C%E6%88%91%E4%BC%9A%E8%BE%9E%E8%81%8C%22%7D&rank=&style_id=40132&topic_id=7706910852729766410"
-        },
-        {
-          "title": "AI吹牛要上税",
-          "summary": "Anthropic CEO称十年内治愈癌症",
-          "detail": "Anthropic CEO在IPO路演现场放卫星，说AI十年内能治愈癌症。网友翻出五年前马斯克说2023年实现全自动驾驶的PPT——科技大佬的'十年'约等于数学里的'无限大'。建议下次改说'在可预见的未来'更稳妥。",
-          "usage": "💡 产品评审会前吐槽\n💬 他们管这叫技术预测？明明是科幻创作\n🔥 AI 癌症 画大饼",
-          "src_id": 2,
-          "tags": [
+            "黄仁勋",
             "AI",
-            "创业"
-          ],
-          "source": "https://www.huxiu.com/article/4905193.html?f=rss"
+            "产业动态"
+          ]
         }
       ]
     },
     {
-      "name": "巨头动向",
-      "icon": "🏢",
-      "items": [
-        {
-          "title": "纳斯达克大洗牌",
-          "summary": "沃尔玛挤走阿斯利康",
-          "detail": "2026年纳斯达克成分股调整上演超市逆袭：沃尔玛踢掉医药巨头阿斯利康。现在买牙膏和买药片一个估值体系，建议把药店开在超市收银台旁边，取名'医保结合部'。",
-          "usage": "💡 聊美股投资时\n💬 以后炒股要带购物小票了\n🔥 纳斯达克 沃尔玛 成分股",
-          "src_id": 1,
-          "tags": [
-            "股市",
-            "零售"
-          ],
-          "source": "https://www.huxiu.com/article/4905195.html?f=rss"
-        },
-        {
-          "title": "天然气抢AI生意",
-          "summary": "能源公司争夺算力客户",
-          "detail": "美国天然气巨头Venture Global居然和电力公司抢起了AI客户，现在的数据中心要同时采购芯片和液化气。建议下次发布会主题就叫'你的算力，我的气力'。",
-          "usage": "💡 聊新基建时\n💬 以后机房要配燃气灶了？\n🔥 能源 AI 算力",
-          "src_id": 3,
-          "tags": [
-            "能源",
-            "AI"
-          ],
-          "source": "https://www.huxiu.com/article/4905187.html?f=rss"
-        }
-      ]
-    },
-    {
-      "name": "组织变动",
+      "name": "🔀 组织变动",
       "icon": "🔀",
       "items": [
         {
-          "title": "老黄裸辞震惊业界",
-          "summary": "黄仁勋卸任所有职务",
-          "detail": "英伟达公告显示黄仁勋不仅辞去CEO，连董事会席位都不要了，堪称科技圈最彻底裸辞。网友猜测是要全职当网红，毕竟皮衣带货比芯片来钱快。",
-          "usage": "💡 聊职业规划时\n💬 辞职就要学老黄，工牌都不还\n🔥 英伟达 黄仁勋 裸辞",
-          "src_id": 6,
+          "title": "英伟达高层变动",
+          "summary": "英伟达CEO黄仁勋辞职，管理层大震荡。",
+          "detail": "11月12日，英伟达董事会宣布黄仁勋辞职，随即引发了市场的剧烈反应。分析师认为，这可能会导致公司战略的重大调整。公司内部氛围也变得紧张，不知接下来会如何应对这次变动。",
+          "usage": "💡 聊英伟达未来时 \n💬 \"英伟达高层大震荡，未来会如何走？\" \n🔥 英伟达 辞职",
+          "source": "https://www.huxiu.com/article/4905269.html?f=rss",
           "tags": [
-            "人事变动",
-            "芯片"
-          ],
-          "source": "https://www.huxiu.com/article/4905190.html?f=rss"
+            "英伟达",
+            "高管变动",
+            "黄仁勋"
+          ]
         },
         {
-          "title": "耐克中国战略转向",
-          "summary": "停止价格战专注高端",
-          "detail": "耐克中国宣布退出价格战，改走高端路线。看来是被安踏李宁打怕了，准备学习苹果'贵不是我的缺点是你的'战略。建议新品发布会设在陆家嘴，改名'东方耐克金融尊享版'。",
-          "usage": "💡 聊消费降级时\n💬 以后买鞋要出示资产证明了\n🔥 耐克 价格战 高端化",
-          "src_id": 15,
+          "title": "京东科技人事调整",
+          "summary": "京东科技云与金融科技分开，徐丰接任云事业群负责人。",
+          "detail": "京东科技于11月10日进行了重组，云科技与金融科技被划分为两个事业群，徐丰担任云事业群负责人。这次调整意味着京东要在云市场上更具针对性地竞争，期待他们的表现！",
+          "usage": "💡 聊京东未来时 \n💬 \"京东科技云与金融分开，打算做什么呢？\" \n🔥 京东 人事调整",
+          "source": "https://www.huxiu.com/article/4905284.html?f=rss",
           "tags": [
-            "消费",
-            "战略调整"
-          ],
-          "source": "https://m.baidu.com/s?word=%E8%80%90%E5%85%8B%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%89%93%E2%80%9C%E4%BB%B7%E6%A0%BC%E6%88%98%E2%80%9D%E4%BA%86&sa=fyb_news"
+            "京东",
+            "人事调整",
+            "云科技"
+          ]
         }
       ]
     },
     {
-      "name": "前沿探索",
-      "icon": "🚀",
-      "items": [
-        {
-          "title": "AI看病不如算命",
-          "summary": "AI医疗承诺遭质疑",
-          "detail": "当Anthropic CEO说AI十年内能治癌症时，美国FDA连夜更新《AI医疗设备审批指南》，新增'吹牛税'条款。建议下次路演改说'AI辅助算命'，反正都是预测未来。",
-          "usage": "💡 聊AI泡沫时\n💬 建议AI先治治老板的PPT病\n🔥 AI医疗 监管 画饼",
-          "src_id": 2,
-          "tags": [
-            "AI",
-            "医疗"
-          ],
-          "source": "https://www.huxiu.com/article/4905193.html?f=rss"
-        },
-        {
-          "title": "芯片成新战略物资",
-          "summary": "全球算力争夺白热化",
-          "detail": "华尔街抛黄金囤显卡的操作证明，现在H100比黄金还硬通货。建议各国央行增设'算力储备司'，美联储下次加息改叫'加算力'。",
-          "usage": "💡 聊技术自主可控\n💬 显卡比金条保值实锤了\n🔥 芯片 算力 金融",
-          "src_id": 10,
-          "tags": [
-            "芯片",
-            "金融"
-          ],
-          "source": "https://www.toutiao.com/trending/7707281242000985663/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707281242000985663%22%2C%22hot_board_impr_id%22%3A%2220261113015518AB457D1E74BD889F7411%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E5%B0%94%E8%A1%97%E7%96%AF%E7%8B%82%E6%8A%9B%E5%94%AE%E9%BB%84%E9%87%91%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%22%7D&rank=&style_id=40132&topic_id=7707281242000985663"
-        }
-      ]
-    },
-    {
-      "name": "新品发布",
+      "name": "📱 新品发布",
       "icon": "📱",
       "items": [
         {
-          "title": "零元面馆暴雷",
-          "summary": "免费模式坑惨周边商户",
-          "detail": "号称'零元吃面'的创业项目暴雷，周边商户哭诉房贷都还不起了。建议下次商业计划书改名《论如何用一碗面摧毁一条街的GDP》，绝对能拿'年度创新破坏奖'。",
-          "usage": "💡 聊创业泡沫时\n💬 互联网思维：先饿死同行再饿死自己\n🔥 创业 免费模式 暴雷",
-          "src_id": 11,
+          "title": "vivo X500新机对比",
+          "summary": "vivo X500小屏旗舰与荣耀Magic9的激烈对比。",
+          "detail": "在一场实测对比中，vivo X500被拿来与荣耀Magic9对比，虽然荣耀的配置更强，但vivo凭借小巧设计获得不少青睐。程序员们想问，功能和体验哪个更重要？",
+          "usage": "💡 聊手机对比时 \n💬 \"荣耀Magic9和vivo X500哪个更值得入手？\" \n🔥 vivo X500 荣耀Magic9",
+          "source": "https://www.huxiu.com/article/4904760.html?f=rss",
           "tags": [
-            "创业",
-            "新消费"
-          ],
-          "source": "https://m.baidu.com/s?word=%E9%9B%B6%E5%85%83%E9%9D%A2%E9%A6%86%E5%91%A8%E8%BE%B9%E5%95%86%E6%88%B7%EF%BC%9A%E6%88%91%E4%BB%AC%E6%88%BF%E8%B4%B7%E9%83%BD%E8%BF%98%E4%B8%8D%E8%B5%B7&sa=fyb_news"
-        },
-        {
-          "title": "双11静悄悄",
-          "summary": "电商节遇史上最冷",
-          "detail": "今年双11安静得像周末的图书馆，各大平台连战报都不发了。建议改名'双11忏悔节'，消费者集体反思：之前熬夜抢券的样子好像大傻子。",
-          "usage": "💡 聊消费趋势时\n💬 今年双11最大赢家是睡眠\n🔥 双11 消费 战报",
-          "src_id": 18,
-          "tags": [
-            "电商",
-            "消费"
-          ],
-          "source": "https://www.toutiao.com/trending/7707190638768570406/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707190638768570406%22%2C%22hot_board_impr_id%22%3A%2220261113015518AB457D1E74BD889F7411%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%8C11%E4%B8%BA%E4%BD%95%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%AE%89%E9%9D%99%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7707190638768570406"
+            "vivo",
+            "X500",
+            "手机对比"
+          ]
         }
       ]
     },
     {
-      "name": "创业大戏",
+      "name": "🎬 创业大戏",
       "icon": "🎬",
       "items": [
         {
-          "title": "司机倒贴两万",
-          "summary": "新型招聘骗局曝光",
-          "detail": "男子应聘司机干了6小时倒贴2万元，堪称职场版《孤注一掷》。建议BOSS直聘新增'防诈骗模式'，检测到'高薪'、'轻松'等关键词自动触发警报。",
-          "usage": "💡 聊求职陷阱时\n💬 这哪是找工作，是当投资人啊\n🔥 招聘 诈骗 职场",
-          "src_id": 17,
+          "title": "药企反转收购",
+          "summary": "药企以1元反向收购市值30亿公司。",
+          "detail": "一家市值30亿的药企在经历了管理层动荡后，以1元的价格被另一家公司反向收购。这场反转戏码让不少人震惊，程序员们不禁感慨，商业世界真是比电视剧还要精彩，谁能想到这一切都发生在这里！",
+          "usage": "💡 聊商业收购时 \n💬 \"药企反向收购，1块钱也能撬动30亿！\" \n🔥 药企 收购",
+          "source": "https://www.huxiu.com/article/4905263.html?f=rss",
           "tags": [
-            "招聘",
-            "诈骗"
-          ],
-          "source": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%BA%94%E8%81%98%E5%8F%B8%E6%9C%BA%E5%B9%B2%E4%BA%866%E5%B0%8F%E6%97%B6%E5%80%92%E8%B4%B42%E4%B8%87&sa=fyb_news"
+            "药企",
+            "收购",
+            "商业"
+          ]
         },
         {
-          "title": "SOP走火入魔",
-          "summary": "打工人把生活写成手册",
-          "detail": "有网友把出差物品清单写成SOP手册，连'带充电器'都要分安卓版和苹果版。建议下次更新《呼吸操作指南》，吸气步骤分解到毫秒级。",
-          "usage": "💡 聊职场内卷时\n💬 建议AI先学会给人类写SOP\n🔥 职场 SOP 内卷",
-          "src_id": 5,
+          "title": "AI3A大作翻车",
+          "summary": "国产3A大作《几猫》遭遇严重bug。",
+          "detail": "最近，一款国产3A游戏《几猫》刚上线就遭遇了严重bug，玩家们纷纷在社交平台吐槽。游戏开发者表示感到无奈，程序员们你们一定懂，这可是一场“开发者的噩梦”。",
+          "usage": "💡 聊游戏开发时 \n💬 \"国产3A大作刚上线就翻车，真是让人心痛！\" \n🔥 游戏 翻车",
+          "source": "https://www.huxiu.com/article/4905282.html?f=rss",
           "tags": [
-            "职场",
-            "效率"
-          ],
-          "source": "https://www.huxiu.com/article/4905191.html?f=rss"
-        }
-      ]
-    },
-    {
-      "name": "币圈风云",
-      "icon": "🪙",
-      "items": [
-        {
-          "title": "算力币化",
-          "summary": "显卡成新虚拟货币",
-          "detail": "当华尔街开始囤积显卡，币圈大佬惊呼'这才是真正的数字黄金'。建议发行'H100币'，白皮书就写'基于实体算力的价值存储'，绝对比空气币靠谱。",
-          "usage": "💡 聊加密货币时\n💬 以后矿场要改叫数字金库了\n🔥 算力 加密货币 显卡",
-          "src_id": 10,
-          "tags": [
-            "加密货币",
-            "算力"
-          ],
-          "source": "https://www.toutiao.com/trending/7707281242000985663/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707281242000985663%22%2C%22hot_board_impr_id%22%3A%2220261113015518AB457D1E74BD889F7411%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E5%B0%94%E8%A1%97%E7%96%AF%E7%8B%82%E6%8A%9B%E5%94%AE%E9%BB%84%E9%87%91%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%22%7D&rank=&style_id=40132&topic_id=7707281242000985663"
-        },
-        {
-          "title": "稳定币不稳定",
-          "summary": "黄金抛售冲击加密市场",
-          "detail": "华尔街疯狂抛售黄金导致加密货币市场震荡，证明所谓'稳定币'还不如老黄妈的显卡保值。建议孙宇晨下次拍卖会改卖二手矿机。",
-          "usage": "💡 聊币圈暴跌时\n💬 比特币不如3080\n🔥 加密货币 黄金 算力",
-          "src_id": 10,
-          "tags": [
-            "加密货币",
-            "金融"
-          ],
-          "source": "https://www.toutiao.com/trending/7707281242000985663/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707281242000985663%22%2C%22hot_board_impr_id%22%3A%2220261113015518AB457D1E74BD889F7411%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%8E%E5%B0%94%E8%A1%97%E7%96%AF%E7%8B%82%E6%8A%9B%E5%94%AE%E9%BB%84%E9%87%91%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%22%7D&rank=&style_id=40132&topic_id=7707281242000985663"
+            "游戏",
+            "翻车",
+            "开发"
+          ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-12T17:56:15.118Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-13T03:39:48.490Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
-    "model": "deepseek/deepseek-chat",
-    "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 5496,
-    "completion_tokens": 2427,
-    "total_tokens": 7923,
-    "cost_usd": 0.00391875,
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 6361,
+    "completion_tokens": 3116,
+    "total_tokens": 9477,
+    "cost_usd": 0.00282375,
     "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 8,
+      "published": 8
+    },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 8,
+        "huxiu": 12,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 18
+      "total": 23
     }
   }
 }
