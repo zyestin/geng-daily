@@ -1,256 +1,240 @@
 {
   "categories": [
     {
-      "name": "💥 炸裂新闻",
+      "name": "炸裂新闻",
       "icon": "💥",
       "items": [
         {
-          "title": "黄仁勋辞职",
-          "summary": "NVIDIA CEO因丑闻辞职",
-          "detail": "NVIDIA CEO黄仁勋因被曝与疑似中国间谍有染而辞职，这可能会影响NVIDIA在AI芯片市场的领导地位。黄仁勋的辞职不仅让NVIDIA股价暴跌，还引发了对其开源AI承诺的质疑。",
-          "usage": "💡 聊AI芯片市场动荡\n💬 NVIDIA这下要变天了，黄仁勋的丑闻比RTX 5090发布还劲爆\n🔥 NVIDIA 黄仁勋 辞职",
-          "source": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "title": "老黄辞职",
+          "summary": "英伟达33年首次换帅",
+          "detail": "黄仁勋因绯闻事件辞职，英伟达市值蒸发3万亿。这一消息直接导致全球AI芯片产业链震动，以色列VC已经开始寻找Nvidia的替代者。从'核弹工厂'到'核爆现场'，老黄这次玩脱了。",
+          "usage": "💡 聊AI硬件时带出\n💬 家人们谁懂啊，老黄居然因为私生活问题把万亿帝国搞崩了\n🔥 英伟达 黄仁勋 辞职",
+          "source": "https://www.qbitai.com/2026/11/509995.html",
           "tags": [
-            "NVIDIA",
-            "CEO辞职",
-            "丑闻"
+            "英伟达",
+            "CEO变动"
           ]
         },
         {
-          "title": "Grok泄密",
-          "summary": "马斯克Grok泄露SpaceX薪资",
-          "detail": "马斯克的Grok AI意外泄露了SpaceX和特斯拉的薪资和绩效数据，这让内部员工和外界都大吃一惊。Grok在让人破防这件事上，从来不会让人失望。",
-          "usage": "💡 聊AI安全风险\n💬 Grok这次直接把马斯克的老底都掀了，打工人可以看看自己是不是被压榨了\n🔥 Grok 泄密 SpaceX 薪资",
-          "source": "https://www.qbitai.com/2026/11/509355.html",
+          "title": "川普卷入",
+          "summary": "Nvidia遭国会调查",
+          "detail": "民主党启动对Nvidia的调查，指控黄仁勋与特朗普存在'秘密交易'。听说调查组已经拿到内部邮件，上面写着'让中国再次伟大'...这剧情比《纸牌屋》还刺激。",
+          "usage": "💡 聊AI政策时cue\n💬 本以为AI圈够乱了，没想到还掺和政坛大戏\n🔥 Nvidia 政治丑闻 调查",
+          "source": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
           "tags": [
-            "Grok",
-            "泄密",
-            "马斯克"
+            "政治",
+            "监管"
           ]
         }
       ]
     },
     {
-      "name": "🚀 新模型发布",
+      "name": "新模型发布",
       "icon": "🚀",
       "items": [
         {
-          "title": "MiniMax开源",
-          "summary": "MiniMax开源4K生图模型",
-          "detail": "MiniMax开源了SOTA生图模型，支持原生4K分辨率，每张图成本仅两毛钱。这直接把商业生图市场的价格打到了地板价。",
-          "usage": "💡 聊开源模型\n💬 这下MidJourney要慌了，MiniMax开源的4K生图只要两毛一张\n🔥 MiniMax 开源 生图",
-          "source": "https://www.qbitai.com/2026/11/509440.html",
+          "title": "ChatGPT钱包",
+          "summary": "AI替你花钱",
+          "detail": "OpenAI推出ChatGPT Wallet，让你的AI助手能直接代购下单。测试版已经能自动比价、砍价、申请退款——以后双十一AI能帮你熬夜抢购，人类终于可以睡美容觉了。",
+          "usage": "💡 聊AI应用时提\n💬 AI都学会剁手了，看来人类最后的防线是支付密码\n🔥 ChatGPT 电商 AI代理",
+          "source": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
           "tags": [
-            "MiniMax",
-            "开源",
-            "生图"
+            "OpenAI",
+            "电商"
           ]
         },
         {
-          "title": "Gemini升级",
-          "summary": "Gemini 4 Hydrogen发布",
-          "detail": "Google发布了Gemini 4 Hydrogen，能更好地理解复杂查询。这次升级让Google搜索的AI模式在回答复杂问题时更精准。",
-          "usage": "💡 聊搜索AI\n💬 Google的Gemini 4 Hydrogen终于能听懂人话了，不用再被智障回答气死\n🔥 Gemini 4 Hydrogen Google",
-          "source": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+          "title": "Fx-Bio",
+          "summary": "开源超越GPT-6",
+          "detail": "无界前沿开源Fx-Bio-1031，在生物科学领域盲测击败GPT-6和Astra。这波属于是专业赛道超车，以后研究生不用熬夜看文献，让AI直接给你开科研外挂。",
+          "usage": "💡 聊开源模型时用\n💬 专业领域大模型卷起来连OpenAI都挡不住\n🔥 开源模型 生物医学 GPT-6",
+          "source": "https://www.qbitai.com/2026/11/509663.html",
           "tags": [
-            "Gemini",
-            "Google",
-            "搜索"
+            "开源",
+            "专业模型"
           ]
         }
       ]
     },
     {
-      "name": "🗣️ AI 大佬言论",
+      "name": "AI大佬言论",
       "icon": "🗣️",
       "items": [
         {
-          "title": "马斯克招聘",
-          "summary": "马斯克想聘黄仁勋",
-          "detail": "在黄仁勋辞职后，马斯克已准备好聘请他。这可能是想加强xAI的硬件能力，毕竟黄仁勋在AI芯片领域无人能敌。",
-          "usage": "💡 聊大佬动向\n💬 马斯克这是要组复仇者联盟吗？连黄仁勋都不放过\n🔥 马斯克 黄仁勋 招聘",
-          "source": "https://www.qbitai.com/2026/11/509334.html",
+          "title": "老黄黑继任",
+          "summary": "说新CEO像车灯前的鹿",
+          "detail": "据爆料，黄仁勋曾私下吐槽继任者Kress'像车灯前不知所措的鹿'。现在好了，这只鹿要接手万亿市值的烂摊子——英伟达董事会此刻应该很想开发'CEO压力测试'模型。",
+          "usage": "💡 聊公司治理时玩梗\n💬 事实证明老黄看人眼光和选女友一样差\n🔥 黄仁勋 继任者 吐槽",
+          "source": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
           "tags": [
-            "马斯克",
-            "黄仁勋",
-            "招聘"
+            "CEO",
+            "权力交接"
           ]
         },
         {
-          "title": "邓澍军演讲",
-          "summary": "AI如何进入课堂",
-          "detail": "银河智学首席科学家邓澍军博士发表演讲，探讨AI如何真正进入课堂。他认为从通用大模型到学习过程智能是关键。",
-          "usage": "💡 聊教育AI\n💬 邓澍军说AI进课堂不是装个ChatGPT就行，得真正懂学习过程\n🔥 邓澍军 AI教育 银河智学",
-          "source": "https://www.qbitai.com/2026/11/509404.html",
+          "title": "OpenAI撒钱",
+          "summary": "2000万保护儿童安全",
+          "detail": "OpenAI宣布投入2000万美元研究AI与儿童安全问题。要我说这钱花得值——毕竟现在10岁小孩调教AI的水平可能比某些博士生还强。",
+          "usage": "💡 聊AI伦理时引用\n💬 建议顺便研究下如何防止儿童教坏AI\n🔥 OpenAI 儿童安全 伦理",
+          "source": "https://openai.com/index/children-first-declaration",
           "tags": [
-            "邓澍军",
-            "AI教育",
-            "银河智学"
+            "AI伦理",
+            "社会责任"
           ]
         }
       ]
     },
     {
-      "name": "🏢 巨头动态",
+      "name": "巨头动态",
       "icon": "🏢",
       "items": [
         {
-          "title": "Anthropic IPO",
-          "summary": "Anthropic启动IPO路演",
-          "detail": "Anthropic启动IPO路演，但估值已缩水6000亿美元。全世界都在踩刹车，只有达里奥一个人踩油门。",
-          "usage": "💡 聊AI公司估值\n💬 Anthropic这IPO路演，估值缩水比比特币跌得还狠\n🔥 Anthropic IPO 估值",
-          "source": "https://www.qbitai.com/2026/11/509381.html",
+          "title": "Nebius烧钱",
+          "summary": "400亿美金豪赌AI基建",
+          "detail": "Nebius宣布400亿美元AI基础设施计划，要靠客户预付款和贷款玩转新云服务。这操作相当于把AWS的服务器先卖了再建，贾跃亭看了都直呼内行。",
+          "usage": "💡 聊云计算竞争时提\n💬 现在搞AI基建都学会众筹了？\n🔥 Nebius 云计算 基础建设",
+          "source": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
           "tags": [
-            "Anthropic",
-            "IPO",
-            "估值"
+            "云计算",
+            "基础设施"
           ]
         },
         {
-          "title": "OpenAI资助",
-          "summary": "OpenAI资助儿童安全研究",
-          "detail": "OpenAI承诺投入200万美元用于AI和儿童安全研究。这笔资金将支持开发共享工具，确保AI对儿童更安全。",
-          "usage": "💡 聊AI伦理\n💬 OpenAI终于想起来AI还得管管孩子，砸了200万研究安全\n🔥 OpenAI 儿童安全 资助",
-          "source": "https://openai.com/index/children-first-declaration",
+          "title": "比亚迪AI",
+          "summary": "1900万辆新能源车下线",
+          "detail": "比亚迪第1900万辆新能源车下线，同步推出'方程豹钛9'搭载新一代车载AI。以后堵车时你的车不仅能自动驾驶，还能帮你写代码——堵车两小时，代码提交十次。",
+          "usage": "💡 聊车企智能化时说\n💬 现在买车送程序员了？\n🔥 比亚迪 新能源 车载AI",
+          "source": "https://www.qbitai.com/2026/11/509730.html",
           "tags": [
-            "OpenAI",
-            "儿童安全",
-            "资助"
+            "智能驾驶",
+            "新能源汽车"
           ]
         }
       ]
     },
     {
-      "name": "🛠️ 产品落地",
+      "name": "产品落地",
       "icon": "🛠️",
       "items": [
         {
-          "title": "Muse打电话",
-          "summary": "Muse可拨打商业电话",
-          "detail": "Muse的AI现在可以拨打美国商业电话，但这项服务不是免费的。这可能是AI电话营销的新起点。",
-          "usage": "💡 聊AI应用\n💬 Muse的AI现在能打电话了，推销员要失业了？\n🔥 Muse AI电话 商业",
-          "source": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+          "title": "AI律师",
+          "summary": "律所重构法律业务",
+          "detail": "Gilbert + Tobin律所利用Codex重构法律服务，首席CEO承认'AI写的合同比初级律师更严谨'。法学院新生现在转码还来得及吗？",
+          "usage": "💡 聊AI职业影响时用\n💬 以后打官司先问：请问您用的是GPT几？\n🔥 法律AI 自动化 律师",
+          "source": "https://openai.com/index/gilbert-tobin-sam-nickless",
           "tags": [
-            "Muse",
-            "AI电话",
-            "商业"
+            "法律科技",
+            "自动化"
           ]
         },
         {
-          "title": "Nectar AI",
-          "summary": "Nectar发布AI营销代理",
-          "detail": "Nectar推出AI代理，自动化创作者发现和品牌 outreach。这能让 influencer marketing 更高效。",
-          "usage": "💡 聊营销AI\n💬 Nectar的AI代理连网红都能找，品牌方这下省事了\n🔥 Nectar AI营销 网红",
-          "source": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+          "title": "ElevenAI",
+          "summary": "会议记录+听写神器",
+          "detail": "ElevenLabs推出会议笔记神器ElevenAI，能实时转写+提炼重点+分配任务。老板再也不用担心员工开会走神了——因为AI会比所有人都认真听讲。",
+          "usage": "💡 聊办公效率工具时推\n💬 建议增加'检测领导说废话'功能\n🔥 会议记录 语音转写 AI办公",
+          "source": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
           "tags": [
-            "Nectar",
-            "AI营销",
-            "网红"
+            "语音识别",
+            "SaaS"
           ]
         }
       ]
     },
     {
-      "name": "🔓 开源江湖",
+      "name": "开源江湖",
       "icon": "🔓",
       "items": [
         {
-          "title": "NVIDIA开源危机",
-          "summary": "NVIDIA开源承诺受质疑",
-          "detail": "黄仁勋的辞职引发了对NVIDIA开源AI承诺的质疑，包括其CUDA生态的未来。",
-          "usage": "💡 聊开源未来\n💬 黄仁勋一走，NVIDIA的开源承诺还作数吗？CUDA生态要变天？\n🔥 NVIDIA 开源 CUDA",
-          "source": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+          "title": "AgentOS",
+          "summary": "让Agent自己写功能",
+          "detail": "openJiuwen发布RSI原生AgentOS，号称'想要什么功能让Agent自己开发'。这下好了，程序员教会AI编程，AI转身就把程序员优化了。",
+          "usage": "💡 聊AI自动化开发时说\n💬 建议改名叫《程序员失业模拟器》\n🔥 Agent开发 自动化 开源",
+          "source": "https://www.qbitai.com/2026/11/509653.html",
           "tags": [
-            "NVIDIA",
-            "开源",
-            "CUDA"
+            "自主Agent",
+            "开发工具"
           ]
         },
         {
-          "title": "MiniMax开源",
-          "summary": "MiniMax开源生图模型",
-          "detail": "MiniMax开源了SOTA生图模型，支持原生4K分辨率，每张图成本仅两毛钱。这直接把商业生图市场的价格打到了地板价。",
-          "usage": "💡 聊开源模型\n💬 这下MidJourney要慌了，MiniMax开源的4K生图只要两毛一张\n🔥 MiniMax 开源 生图",
-          "source": "https://www.qbitai.com/2026/11/509440.html",
+          "title": "Codex案例",
+          "summary": "工程师效率×5倍",
+          "detail": "Gondola公司公布数据：使用Codex后工程师效率提升5倍。建议各大厂立即采购，这样就能用1/5的人力完成同样的裁员指标。",
+          "usage": "💡 聊编程效率工具时抖\n💬 上午优化代码下午优化同事\n🔥 Codex 效率提升 裁员",
+          "source": "https://openai.com/business/customer-stories/gondola",
           "tags": [
-            "MiniMax",
-            "开源",
-            "生图"
+            "编程辅助",
+            "效率工具"
           ]
         }
       ]
     },
     {
-      "name": "🔬 研究突破",
+      "name": "研究突破",
       "icon": "🔬",
       "items": [
         {
-          "title": "Anthropic漏洞",
-          "summary": "Anthropic漏洞修复缓慢",
-          "detail": "Anthropic的玻璃翼计划被质疑，近4万个候补漏洞只修了217条。这安全速度比Windows更新还慢。",
-          "usage": "💡 聊AI安全\n💬 Anthropic这漏洞修复速度，黑客都要笑醒了\n🔥 Anthropic 漏洞 安全",
-          "source": "https://www.qbitai.com/2026/11/509291.html",
+          "title": "AI4S",
+          "summary": "MEET2027嘉宾阵容",
+          "detail": "MEET2027大会公布第二批嘉宾，AI4S(科学AI)、量子计算等前沿领域大咖云集。建议各位科研狗提前准备好问题，毕竟这种场合AI问得都比人类专业。",
+          "usage": "💡 聊学术会议时推荐\n💬 建议增设'AI替研究生提问'专线\n🔥 AI科研 量子计算 学术会议",
+          "source": "https://www.qbitai.com/2026/11/509827.html",
           "tags": [
-            "Anthropic",
-            "漏洞",
-            "安全"
+            "学术会议",
+            "前沿科技"
           ]
         },
         {
-          "title": "企业AI难题",
-          "summary": "企业AI不只是模型强",
-          "detail": "璇玑科技探讨如何让AI真正懂业务，成为企业AI的语义基础设施。企业AI的难题，不只是模型够不够强。",
-          "usage": "💡 聊企业AI\n💬 璇玑说企业AI不是堆模型就行，得先懂业务语义\n🔥 璇玑 企业AI 语义",
-          "source": "https://www.qbitai.com/2026/11/509349.html",
+          "title": "肺癌诊断",
+          "summary": "中国AI医疗突破",
+          "detail": "中国AI团队在复杂肺癌诊断上取得突破，250名三甲医生评测显示明显优于传统方法。现在去医院最怕听到：'专家号挂不上？试试AI特需号吧'。",
+          "usage": "💡 聊AI医疗进展时讲\n💬 建议AI诊断完顺便把医保报销也办了\n🔥 AI医疗 肺癌诊断 三甲医院",
+          "source": "https://www.qbitai.com/2026/11/509796.html",
           "tags": [
-            "璇玑",
-            "企业AI",
-            "语义"
+            "医疗AI",
+            "诊断技术"
           ]
         }
       ]
     },
     {
-      "name": "📈 行业风向",
+      "name": "行业风向",
       "icon": "📈",
       "items": [
         {
-          "title": "NVIDIA调查",
-          "summary": "民主党调查NVIDIA",
-          "detail": "民主党启动对NVIDIA的调查，就黄仁勋与特朗普的“scheme”发表严厉信函。这是国会第二次调查NVIDIA的中国销售。",
-          "usage": "💡 聊政策风险\n💬 民主党这是要趁黄仁勋病，要他命啊，连特朗普都扯进来了\n🔥 NVIDIA 调查 民主党",
-          "source": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+          "title": "以色列机会",
+          "summary": "VC寻找Nvidia替代",
+          "detail": "英伟达动荡让以色列VC看到机会，开始疯狂寻找替代方案。建议他们直接联系老黄前女友，说不定能拿到'核弹工厂'设计图纸。",
+          "usage": "💡 聊芯片产业时调侃\n💬 芯片界的权力真空比宫斗剧还刺激\n🔥 英伟达 以色列 VC",
+          "source": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
           "tags": [
-            "NVIDIA",
-            "调查",
-            "民主党"
+            "芯片",
+            "创投"
           ]
         },
         {
-          "title": "Nebius豪掷",
-          "summary": "Nebius计划400亿投资",
-          "detail": "Nebius计划通过客户预付款和贷款资助其400亿美元的AI基础设施扩张。这可能是AI云服务的新玩家入场。",
-          "usage": "💡 聊AI基建\n💬 Nebius这是要砸400亿和AWS抢饭碗？AI云服务又要洗牌了\n🔥 Nebius 400亿 AI基建",
-          "source": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+          "title": "Muse涨价",
+          "summary": "AI外呼要收费了",
+          "detail": "Muse的AI外呼功能结束免费，打美国企业电话要开始收费。建议推出'骂骚扰电话AI'功能，让两个AI互相伤害消耗算力。",
+          "usage": "💡 聊AI商业化时吐槽\n💬 以后AI吵架都要按分钟计费了\n🔥 AI语音 商业化 收费",
+          "source": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
           "tags": [
-            "Nebius",
-            "AI基建",
-            "400亿"
+            "语音AI",
+            "商业化"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-13T03:40:31.411Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-11-13T17:31:15.033Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3513,
-    "completion_tokens": 2678,
-    "total_tokens": 6191,
-    "cost_usd": 0.0035075799999999997,
+    "prompt_tokens": 3596,
+    "completion_tokens": 2688,
+    "total_tokens": 6284,
+    "cost_usd": 0.00354304,
     "free": false,
     "sources": {
       "per_source": {

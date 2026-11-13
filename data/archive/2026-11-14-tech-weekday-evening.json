@@ -1,0 +1,78 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "芯片短缺再度来袭",
+          "summary": "汽车芯片缺货，这次源于产能不足。",
+          "detail": "就在11月10日，德国慕尼黑电子展上，安世半导体的临时CEO Stefan Tilger无奈透露，订单需求已经远远超过他们的产能，导致汽车芯片再次告急！看来这次不光是车厂在苦苦挣扎，连芯片制造商也跟着头疼。家人们，看来以后买车要等更久了！",
+          "usage": "💡 聊聊汽车行业的现状 \n💬 \"汽车芯片缺货，这次源于产能不足！\" \n🔥 芯片短缺 汽车危机",
+          "source": "https://www.huxiu.com/article/4905532.html?f=rss",
+          "tags": [
+            "芯片",
+            "汽车",
+            "行业动态"
+          ]
+        },
+        {
+          "title": "印度电商双十一哑火",
+          "summary": "印度今年的双十一销售额让人失望。",
+          "detail": "11月12日，印度市场研究机构Datum Intelligence公布了2026年节庆电商销售成绩，34天累计销售额仅为1.408万亿卢比，远低于预期！看来印度电商的热闹只是外表，真正的成交量似乎还没跟上。程序员们，快来看看这个市场的死角！",
+          "usage": "💡 讨论印度电商的未来 \n💬 \"印度今年的双十一销售额让人失望！\" \n🔥 印度 电商 失利",
+          "source": "https://www.huxiu.com/article/4905529.html?f=rss",
+          "tags": [
+            "电商",
+            "印度",
+            "市场动态"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "黄仁勋坦白婚外情",
+          "summary": "黄仁勋发信认错，英伟达真情流露。",
+          "detail": "11月8日，黄仁勋罕见地给全公司发信，坦诚承认对妻子的不忠，并表示领导英伟达是他一生的追求。看来即便是科技大神，背后也有不为人知的苦恼，真是让人唏嘘不已。家人们，爱情和事业难道真的不能兼得吗？",
+          "usage": "💡 聊聊大佬的感情生活 \n💬 \"领导英伟达是我一生的追求。\" \n🔥 黄仁勋 感情 事业",
+          "source": "https://www.huxiu.com/article/4905530.html?f=rss",
+          "tags": [
+            "黄仁勋",
+            "英伟达",
+            "情感"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-13T17:30:19.826Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 5066,
+    "completion_tokens": 3106,
+    "total_tokens": 8172,
+    "cost_usd": 0.0026235,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 13,
+      "published": 3
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 3,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 15
+    }
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "categories": [
+    {
+      "name": "炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "老黄辞职",
+          "summary": "英伟达33年首次换帅",
+          "detail": "黄仁勋因绯闻事件辞职，英伟达市值蒸发3万亿。这一消息直接导致全球AI芯片产业链震动，以色列VC已经开始寻找Nvidia的替代者。从'核弹工厂'到'核爆现场'，老黄这次玩脱了。",
+          "usage": "💡 聊AI硬件时带出\n💬 家人们谁懂啊，老黄居然因为私生活问题把万亿帝国搞崩了\n🔥 英伟达 黄仁勋 辞职",
+          "source": "https://www.qbitai.com/2026/11/509995.html",
+          "tags": [
+            "英伟达",
+            "CEO变动"
+          ]
+        },
+        {
+          "title": "川普卷入",
+          "summary": "Nvidia遭国会调查",
+          "detail": "民主党启动对Nvidia的调查，指控黄仁勋与特朗普存在'秘密交易'。听说调查组已经拿到内部邮件，上面写着'让中国再次伟大'...这剧情比《纸牌屋》还刺激。",
+          "usage": "💡 聊AI政策时cue\n💬 本以为AI圈够乱了，没想到还掺和政坛大戏\n🔥 Nvidia 政治丑闻 调查",
+          "source": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+          "tags": [
+            "政治",
+            "监管"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "ChatGPT钱包",
+          "summary": "AI替你花钱",
+          "detail": "OpenAI推出ChatGPT Wallet，让你的AI助手能直接代购下单。测试版已经能自动比价、砍价、申请退款——以后双十一AI能帮你熬夜抢购，人类终于可以睡美容觉了。",
+          "usage": "💡 聊AI应用时提\n💬 AI都学会剁手了，看来人类最后的防线是支付密码\n🔥 ChatGPT 电商 AI代理",
+          "source": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+          "tags": [
+            "OpenAI",
+            "电商"
+          ]
+        },
+        {
+          "title": "Fx-Bio",
+          "summary": "开源超越GPT-6",
+          "detail": "无界前沿开源Fx-Bio-1031，在生物科学领域盲测击败GPT-6和Astra。这波属于是专业赛道超车，以后研究生不用熬夜看文献，让AI直接给你开科研外挂。",
+          "usage": "💡 聊开源模型时用\n💬 专业领域大模型卷起来连OpenAI都挡不住\n🔥 开源模型 生物医学 GPT-6",
+          "source": "https://www.qbitai.com/2026/11/509663.html",
+          "tags": [
+            "开源",
+            "专业模型"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "老黄黑继任",
+          "summary": "说新CEO像车灯前的鹿",
+          "detail": "据爆料，黄仁勋曾私下吐槽继任者Kress'像车灯前不知所措的鹿'。现在好了，这只鹿要接手万亿市值的烂摊子——英伟达董事会此刻应该很想开发'CEO压力测试'模型。",
+          "usage": "💡 聊公司治理时玩梗\n💬 事实证明老黄看人眼光和选女友一样差\n🔥 黄仁勋 继任者 吐槽",
+          "source": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+          "tags": [
+            "CEO",
+            "权力交接"
+          ]
+        },
+        {
+          "title": "OpenAI撒钱",
+          "summary": "2000万保护儿童安全",
+          "detail": "OpenAI宣布投入2000万美元研究AI与儿童安全问题。要我说这钱花得值——毕竟现在10岁小孩调教AI的水平可能比某些博士生还强。",
+          "usage": "💡 聊AI伦理时引用\n💬 建议顺便研究下如何防止儿童教坏AI\n🔥 OpenAI 儿童安全 伦理",
+          "source": "https://openai.com/index/children-first-declaration",
+          "tags": [
+            "AI伦理",
+            "社会责任"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "Nebius烧钱",
+          "summary": "400亿美金豪赌AI基建",
+          "detail": "Nebius宣布400亿美元AI基础设施计划，要靠客户预付款和贷款玩转新云服务。这操作相当于把AWS的服务器先卖了再建，贾跃亭看了都直呼内行。",
+          "usage": "💡 聊云计算竞争时提\n💬 现在搞AI基建都学会众筹了？\n🔥 Nebius 云计算 基础建设",
+          "source": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+          "tags": [
+            "云计算",
+            "基础设施"
+          ]
+        },
+        {
+          "title": "比亚迪AI",
+          "summary": "1900万辆新能源车下线",
+          "detail": "比亚迪第1900万辆新能源车下线，同步推出'方程豹钛9'搭载新一代车载AI。以后堵车时你的车不仅能自动驾驶，还能帮你写代码——堵车两小时，代码提交十次。",
+          "usage": "💡 聊车企智能化时说\n💬 现在买车送程序员了？\n🔥 比亚迪 新能源 车载AI",
+          "source": "https://www.qbitai.com/2026/11/509730.html",
+          "tags": [
+            "智能驾驶",
+            "新能源汽车"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "AI律师",
+          "summary": "律所重构法律业务",
+          "detail": "Gilbert + Tobin律所利用Codex重构法律服务，首席CEO承认'AI写的合同比初级律师更严谨'。法学院新生现在转码还来得及吗？",
+          "usage": "💡 聊AI职业影响时用\n💬 以后打官司先问：请问您用的是GPT几？\n🔥 法律AI 自动化 律师",
+          "source": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "tags": [
+            "法律科技",
+            "自动化"
+          ]
+        },
+        {
+          "title": "ElevenAI",
+          "summary": "会议记录+听写神器",
+          "detail": "ElevenLabs推出会议笔记神器ElevenAI，能实时转写+提炼重点+分配任务。老板再也不用担心员工开会走神了——因为AI会比所有人都认真听讲。",
+          "usage": "💡 聊办公效率工具时推\n💬 建议增加'检测领导说废话'功能\n🔥 会议记录 语音转写 AI办公",
+          "source": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+          "tags": [
+            "语音识别",
+            "SaaS"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "AgentOS",
+          "summary": "让Agent自己写功能",
+          "detail": "openJiuwen发布RSI原生AgentOS，号称'想要什么功能让Agent自己开发'。这下好了，程序员教会AI编程，AI转身就把程序员优化了。",
+          "usage": "💡 聊AI自动化开发时说\n💬 建议改名叫《程序员失业模拟器》\n🔥 Agent开发 自动化 开源",
+          "source": "https://www.qbitai.com/2026/11/509653.html",
+          "tags": [
+            "自主Agent",
+            "开发工具"
+          ]
+        },
+        {
+          "title": "Codex案例",
+          "summary": "工程师效率×5倍",
+          "detail": "Gondola公司公布数据：使用Codex后工程师效率提升5倍。建议各大厂立即采购，这样就能用1/5的人力完成同样的裁员指标。",
+          "usage": "💡 聊编程效率工具时抖\n💬 上午优化代码下午优化同事\n🔥 Codex 效率提升 裁员",
+          "source": "https://openai.com/business/customer-stories/gondola",
+          "tags": [
+            "编程辅助",
+            "效率工具"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "AI4S",
+          "summary": "MEET2027嘉宾阵容",
+          "detail": "MEET2027大会公布第二批嘉宾，AI4S(科学AI)、量子计算等前沿领域大咖云集。建议各位科研狗提前准备好问题，毕竟这种场合AI问得都比人类专业。",
+          "usage": "💡 聊学术会议时推荐\n💬 建议增设'AI替研究生提问'专线\n🔥 AI科研 量子计算 学术会议",
+          "source": "https://www.qbitai.com/2026/11/509827.html",
+          "tags": [
+            "学术会议",
+            "前沿科技"
+          ]
+        },
+        {
+          "title": "肺癌诊断",
+          "summary": "中国AI医疗突破",
+          "detail": "中国AI团队在复杂肺癌诊断上取得突破，250名三甲医生评测显示明显优于传统方法。现在去医院最怕听到：'专家号挂不上？试试AI特需号吧'。",
+          "usage": "💡 聊AI医疗进展时讲\n💬 建议AI诊断完顺便把医保报销也办了\n🔥 AI医疗 肺癌诊断 三甲医院",
+          "source": "https://www.qbitai.com/2026/11/509796.html",
+          "tags": [
+            "医疗AI",
+            "诊断技术"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "以色列机会",
+          "summary": "VC寻找Nvidia替代",
+          "detail": "英伟达动荡让以色列VC看到机会，开始疯狂寻找替代方案。建议他们直接联系老黄前女友，说不定能拿到'核弹工厂'设计图纸。",
+          "usage": "💡 聊芯片产业时调侃\n💬 芯片界的权力真空比宫斗剧还刺激\n🔥 英伟达 以色列 VC",
+          "source": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+          "tags": [
+            "芯片",
+            "创投"
+          ]
+        },
+        {
+          "title": "Muse涨价",
+          "summary": "AI外呼要收费了",
+          "detail": "Muse的AI外呼功能结束免费，打美国企业电话要开始收费。建议推出'骂骚扰电话AI'功能，让两个AI互相伤害消耗算力。",
+          "usage": "💡 聊AI商业化时吐槽\n💬 以后AI吵架都要按分钟计费了\n🔥 AI语音 商业化 收费",
+          "source": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+          "tags": [
+            "语音AI",
+            "商业化"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-13T17:31:15.033Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3596,
+    "completion_tokens": 2688,
+    "total_tokens": 6284,
+    "cost_usd": 0.00354304,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}
