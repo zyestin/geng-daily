@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "全美航班大停飞",
+          "summary": "中国乘客误以为遭空袭",
+          "detail": "近日，美国航空公司因网络故障导致全美多架航班停飞，一名中国乘客在飞行中误以为飞机遇袭，紧急联系机组人员。此事件引发了社交媒体的热烈讨论，许多人都在猜测这究竟是个什么操作，难道是“空中飞人”转行做黑客了吗？",
+          "usage": "💡 听说全美航班停飞了，你怎么看？\n💬 好像有人在空中也能玩出新高度！\n🔥 飞机 停飞 空袭",
+          "source": "https://www.toutiao.com/trending/7707795997758193691/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707795997758193691%22%2C%22hot_board_impr_id%22%3A%2220261115002726A6723F4A8A1902A7617F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E4%B9%98%E5%AE%A2%E4%BA%B2%E5%8E%86%E5%85%A8%E7%BE%8E%E5%81%9C%E9%A3%9E%E4%BB%A5%E4%B8%BA%E8%A2%AB%E7%A9%BA%E8%A2%AD%22%7D&rank=&style_id=40132&topic_id=7707795997758193691",
+          "tags": [
+            "航空",
+            "网络故障",
+            "社会新闻"
+          ]
+        },
+        {
+          "title": "车企年底一波狂欢",
+          "summary": "两天17款新车扎堆发布",
+          "detail": "这两天，车企们似乎都敞开了怀抱，纷纷推出新车，短短两天就有17款新车发布，简直像是开启了年底的拼车大赛。各大品牌为了抢占市场份额，真的是拼得不可开交，难道这就是传说中的“车轮上的春运”？",
+          "usage": "💡 你听说车企年底扎堆发布新车了吗？\n💬 车企真是拼了，年底大冲刺。\n🔥 新车 发布 车企",
+          "source": "https://m.baidu.com/s?word=%E4%B8%A4%E5%A4%A917%E6%AC%BE%E6%96%B0%E8%BD%A6+%E8%BD%A6%E4%BC%81%E5%B9%B4%E5%BA%95%E6%89%8E%E5%A0%86%E5%86%B2%E9%87%8F&sa=fyb_news",
+          "tags": [
+            "汽车",
+            "新车",
+            "市场"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-14T16:30:55.466Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 4961,
+    "completion_tokens": 3588,
+    "total_tokens": 8549,
+    "cost_usd": 0.0028969499999999997,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 14,
+      "published": 2
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 2,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 14
+    }
+  }
+}

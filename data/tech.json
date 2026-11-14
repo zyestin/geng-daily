@@ -5,277 +5,56 @@
       "icon": "📰",
       "items": [
         {
-          "title": "黄仁勋辞职风波",
-          "summary": "英伟达CEO黄仁勋辞职引发内部震动",
-          "detail": "英伟达CEO黄仁勋突然宣布辞职的消息还没满24小时，公司内部论坛就炸了锅。一篇要求董事会听取员工意见的帖子收到超过1600条评论，多数员工表示支持黄仁勋。这位显卡教父的离职，让AI芯片行业瞬间进入'后老黄时代'。",
-          "usage": "💡 聊AI芯片行业变局\n💬 老黄一走，显卡圈要变天啊\n🔥 黄仁勋 英伟达 辞职",
-          "src_id": 3,
+          "title": "全美航班大停飞",
+          "summary": "中国乘客误以为遭空袭",
+          "detail": "近日，美国航空公司因网络故障导致全美多架航班停飞，一名中国乘客在飞行中误以为飞机遇袭，紧急联系机组人员。此事件引发了社交媒体的热烈讨论，许多人都在猜测这究竟是个什么操作，难道是“空中飞人”转行做黑客了吗？",
+          "usage": "💡 听说全美航班停飞了，你怎么看？\n💬 好像有人在空中也能玩出新高度！\n🔥 飞机 停飞 空袭",
+          "source": "https://www.toutiao.com/trending/7707795997758193691/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707795997758193691%22%2C%22hot_board_impr_id%22%3A%2220261115002726A6723F4A8A1902A7617F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E4%B9%98%E5%AE%A2%E4%BA%B2%E5%8E%86%E5%85%A8%E7%BE%8E%E5%81%9C%E9%A3%9E%E4%BB%A5%E4%B8%BA%E8%A2%AB%E7%A9%BA%E8%A2%AD%22%7D&rank=&style_id=40132&topic_id=7707795997758193691",
           "tags": [
-            "英伟达",
-            "高管变动",
-            "AI芯片"
-          ],
-          "source": "https://www.huxiu.com/article/4905596.html?f=rss"
+            "航空",
+            "网络故障",
+            "社会新闻"
+          ]
         },
         {
-          "title": "天价药进医保",
-          "summary": "129万/支的天价药纳入医保",
-          "detail": "新版国家医保药品目录公布，原价129万/支的'天价药'成功入围。这是医保目录史上单价最高的药品之一，让不少罕见病患者看到了希望。不过商保也没闲着，同步新增12种创新药，医保商保开始上演'抢药大战'。",
-          "usage": "💡 聊医疗科技进展\n💬 一支药顶一套房，现在医保给报了\n🔥 天价药 医保 创新药",
-          "src_id": 13,
+          "title": "车企年底一波狂欢",
+          "summary": "两天17款新车扎堆发布",
+          "detail": "这两天，车企们似乎都敞开了怀抱，纷纷推出新车，短短两天就有17款新车发布，简直像是开启了年底的拼车大赛。各大品牌为了抢占市场份额，真的是拼得不可开交，难道这就是传说中的“车轮上的春运”？",
+          "usage": "💡 你听说车企年底扎堆发布新车了吗？\n💬 车企真是拼了，年底大冲刺。\n🔥 新车 发布 车企",
+          "source": "https://m.baidu.com/s?word=%E4%B8%A4%E5%A4%A917%E6%AC%BE%E6%96%B0%E8%BD%A6+%E8%BD%A6%E4%BC%81%E5%B9%B4%E5%BA%95%E6%89%8E%E5%A0%86%E5%86%B2%E9%87%8F&sa=fyb_news",
           "tags": [
-            "医疗科技",
-            "医保",
-            "创新药"
-          ],
-          "source": "https://www.toutiao.com/trending/7707855337277161526/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707855337277161526%22%2C%22hot_board_impr_id%22%3A%222026111415212079A661182686DAE9607B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8E%9F%E4%BB%B7129%E4%B8%87%2F%E6%94%AF%E7%9A%84%E5%A4%A9%E4%BB%B7%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7707855337277161526"
-        }
-      ]
-    },
-    {
-      "name": "大佬动态",
-      "icon": "🎤",
-      "items": [
-        {
-          "title": "老黄再创业猜想",
-          "summary": "科技圈热议黄仁勋下一站",
-          "detail": "黄仁勋刚宣布从英伟达辞职，科技媒体就开始帮老黄规划'再就业'了。《如果黄仁勋再创业》的脑洞文刷屏，有人猜他要做AI机器人，有人赌他搞量子计算，最离谱的说是要开连锁烧烤店——毕竟'老黄'和'烧烤'莫名很配。",
-          "usage": "💡 聊科技大佬职业选择\n💬 建议老黄开烧烤店，店名就叫'显卡烤场'\n🔥 黄仁勋 创业 英伟达",
-          "src_id": 3,
-          "tags": [
-            "黄仁勋",
-            "创业",
-            "职业变动"
-          ],
-          "source": "https://www.huxiu.com/article/4905596.html?f=rss"
-        },
-        {
-          "title": "梁文锋的二次元营销",
-          "summary": "DeepSeek创始人搞起虚拟偶像",
-          "detail": "DeepSeek创始人梁文锋最近迷上二次元营销，推出'DeepSeek鲸鱼娘'虚拟偶像。这个蓝发鲸鱼耳萌妹成了公司新门面，网友吐槽：'现在搞AI不配个二次元老婆，都不好意思开发布会'。",
-          "usage": "💡 聊科技公司营销新招\n💬 建议各大厂卷起来，搞个程序员娘天团\n🔥 DeepSeek 虚拟偶像 二次元",
-          "src_id": 9,
-          "tags": [
-            "DeepSeek",
-            "虚拟偶像",
-            "营销"
-          ],
-          "source": "https://www.huxiu.com/article/4905405.html?f=rss"
-        }
-      ]
-    },
-    {
-      "name": "巨头动向",
-      "icon": "🏢",
-      "items": [
-        {
-          "title": "A股赴港上市潮",
-          "summary": "40家A股公司赴港募资2700亿",
-          "detail": "A股公司掀起赴港上市新高潮，普冉股份等40家企业计划在香港募资超2700亿港元，还有110多家在排队。这波操作被戏称为'二次上市大迁徙'，看来港股要成A股公司的'备胎交易所'了。",
-          "usage": "💡 聊资本市场动向\n💬 中概股回不了家，都跑香港扎堆了\n🔥 A股 港股 上市",
-          "src_id": 2,
-          "tags": [
-            "A股",
-            "港股",
-            "上市"
-          ],
-          "source": "https://www.huxiu.com/article/4905598.html?f=rss"
-        },
-        {
-          "title": "瑞幸转型记",
-          "summary": "瑞幸越来越不像咖啡公司",
-          "detail": "瑞幸最新财报显示，其非咖啡业务营收占比已超40%，被吐槽'越来越不像咖啡公司'。从生椰拿铁到茅台酱香，现在又卖起周边和轻食，这波操作被网友称为'咖啡界的名创优品'。",
-          "usage": "💡 聊新消费转型\n💬 瑞幸：不想当杂货铺的奶茶店不是好咖啡\n🔥 瑞幸 转型 新消费",
-          "src_id": 14,
-          "tags": [
-            "瑞幸",
-            "转型",
-            "新消费"
-          ],
-          "source": "https://m.baidu.com/s?word=%E7%91%9E%E5%B9%B8%E8%B6%8A%E6%9D%A5%E8%B6%8A%E4%B8%8D%E5%83%8F%E4%B8%80%E5%AE%B6%E5%92%96%E5%95%A1%E5%85%AC%E5%8F%B8%E4%BA%86&sa=fyb_news"
-        }
-      ]
-    },
-    {
-      "name": "组织变动",
-      "icon": "🔀",
-      "items": [
-        {
-          "title": "英伟达人事地震",
-          "summary": "黄仁勋辞职引发英伟达震荡",
-          "detail": "黄仁勋突然宣布辞去英伟达CEO职务，引发公司内部强烈反响。员工在内部论坛发起请愿，1600多条评论多数表达对老黄的不舍。这位执掌英伟达30年的掌门人离开，让显卡圈迎来最大人事地震。",
-          "usage": "💡 聊科技公司管理层变动\n💬 没有老黄的英伟达，就像没有酱的炸酱面\n🔥 英伟达 黄仁勋 辞职",
-          "src_id": 3,
-          "tags": [
-            "英伟达",
-            "黄仁勋",
-            "人事变动"
-          ],
-          "source": "https://www.huxiu.com/article/4905596.html?f=rss"
-        },
-        {
-          "title": "普冉股份赴港",
-          "summary": "又一家A股公司筹划赴港上市",
-          "detail": "存储芯片厂商普冉股份公告正在筹划发行H股赴港上市，成为最新加入'A转H'大军的科技公司。这波操作被业内人士称为'鸡蛋不放一个篮子里'策略，毕竟现在中美科技战背景下，多一个融资渠道总是好的。",
-          "usage": "💡 聊半导体企业资本运作\n💬 芯片公司也学会'狡兔三窟'了\n🔥 普冉股份 港股 上市",
-          "src_id": 2,
-          "tags": [
-            "普冉股份",
-            "港股",
-            "半导体"
-          ],
-          "source": "https://www.huxiu.com/article/4905598.html?f=rss"
-        }
-      ]
-    },
-    {
-      "name": "前沿探索",
-      "icon": "🚀",
-      "items": [
-        {
-          "title": "GPT-6 Ast热潮",
-          "summary": "机器人圈热议GPT-6 Ast",
-          "detail": "具身智能圈这两个月都在狂聊GPT-6 Ast，这个号称要颠覆机器人行业的新模型。业内人士表示这可能是首个能真正理解物理世界的AI，但也有吐槽说'每次GPT出新版本，机器人就要被革命一次'。",
-          "usage": "💡 聊AI与机器人结合\n💬 机器人：求求你们别革我命了\n🔥 GPT-6 Ast 机器人 具身智能",
-          "src_id": 1,
-          "tags": [
-            "GPT-6",
-            "机器人",
-            "AI"
-          ],
-          "source": "https://www.huxiu.com/article/4905567.html?f=rss"
-        },
-        {
-          "title": "AI公司官僚病",
-          "summary": "报告称AI公司越来越官僚",
-          "detail": "最新研究报告指出，AI时代公司组织反而越来越官僚。连锁餐厅店长吐槽：'刚要进厨房帮忙，手机就收到总部发来的经营异常清单'。这波'数字化官僚主义'让打工人直呼：'AI没取代我，PPT先把我累死了'。",
-          "usage": "💡 聊科技公司管理痛点\n💬 建议AI先解决怎么少写点周报\n🔥 AI 官僚主义 管理",
-          "src_id": 8,
-          "tags": [
-            "AI",
-            "管理",
-            "数字化"
-          ],
-          "source": "https://www.huxiu.com/article/4905587.html?f=rss"
-        }
-      ]
-    },
-    {
-      "name": "新品发布",
-      "icon": "📱",
-      "items": [
-        {
-          "title": "鲸鱼娘出道",
-          "summary": "DeepSeek推出虚拟偶像",
-          "detail": "AI公司DeepSeek不务正业推出虚拟偶像'鲸鱼娘'，蓝色长发配鲸鱼耳朵的二次元形象引发热议。创始人梁文锋亲自下场运营，被网友调侃'这是要抢B站饭碗'。目前鲸鱼娘周边已卖断货，证明技术宅的钱真好赚。",
-          "usage": "💡 聊科技公司跨界营销\n💬 建议下次发布会直接让鲸鱼娘主持\n🔥 DeepSeek 虚拟偶像 二次元",
-          "src_id": 9,
-          "tags": [
-            "DeepSeek",
-            "虚拟偶像",
-            "营销"
-          ],
-          "source": "https://www.huxiu.com/article/4905405.html?f=rss"
-        },
-        {
-          "title": "山姆羽绒服爆单",
-          "summary": "山姆羽绒服被抢购一空",
-          "detail": "山姆会员店新推的羽绒服因超高性价比引发抢购，业内人士透露'几乎就是成本价在卖'。这波操作被解读为零售巨头用爆品引流的经典案例，网友吐槽：'以前是买菜顺带买件衣服，现在是买衣服顺带买菜'。",
-          "usage": "💡 聊零售业爆品策略\n💬 山姆：没想到吧，我其实是服装公司\n🔥 山姆 羽绒服 零售",
-          "src_id": 19,
-          "tags": [
-            "山姆",
-            "羽绒服",
-            "零售"
-          ],
-          "source": "https://m.baidu.com/s?word=%E5%B1%B1%E5%A7%86%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%88%86%E7%81%AB+%E4%B8%9A%E5%86%85%EF%BC%9A%E5%87%A0%E4%B9%8E%E5%B0%B1%E6%98%AF%E6%88%90%E6%9C%AC%E4%BB%B7&sa=fyb_news"
-        }
-      ]
-    },
-    {
-      "name": "创业大戏",
-      "icon": "🎬",
-      "items": [
-        {
-          "title": "匹克球越南奇遇",
-          "summary": "中国创业者越南推广匹克球",
-          "detail": "北大医院匹克球协会会长在越南意外发现这项运动火爆异常，中国创业者张琨立即跟进组织比赛。从密云打到越南，这波跨境体育创业被戏称为'小球转动大地球'，就是不知道越南人能不能分清乒乓球和匹克球。",
-          "usage": "💡 聊跨境创业机会\n💬 建议下次创业直接带广场舞出海\n🔥 匹克球 越南 创业",
-          "src_id": 7,
-          "tags": [
-            "匹克球",
-            "越南",
-            "创业"
-          ],
-          "source": "https://www.huxiu.com/article/4905588.html?f=rss"
-        },
-        {
-          "title": "内罗毕电动摩托困局",
-          "summary": "非洲电动摩托推广遇阻",
-          "detail": "中国电动车企在肯尼亚内罗毕推广电动摩托遭遇滑铁卢，当地摩的小哥死活不肯换车。原因很真实：'在换电站干等的时候，别人都在路上赚钱'。这给所有想用新能源改变非洲的创业者上了一课：商业模式得接地气。",
-          "usage": "💡 聊出海创业痛点\n💬 建议先解决'换电五分钟，少赚两小时'的问题\n🔥 电动摩托 非洲 创业",
-          "src_id": 6,
-          "tags": [
-            "电动摩托",
-            "非洲",
-            "创业"
-          ],
-          "source": "https://www.huxiu.com/article/4905589.html?f=rss"
-        }
-      ]
-    },
-    {
-      "name": "币圈风云",
-      "icon": "🪙",
-      "items": [
-        {
-          "title": "APEC币圈密会",
-          "summary": "中美俄领导人APEC期间或会晤",
-          "detail": "白宫透露APEC期间可能安排中美俄领导人会晤，币圈立即开始脑补'加密货币成为国际谈判议题'。虽然大概率是想多了，但不妨碍孙宇晨们已经开始准备'APEC特别纪念币'，这蹭热点速度堪称币圈奥运会。",
-          "usage": "💡 聊国际会议与币圈联想\n💬 建议发行'普特会纪念NFT'\n🔥 APEC 加密货币 国际会议",
-          "src_id": 11,
-          "tags": [
-            "APEC",
-            "加密货币",
-            "国际关系"
-          ],
-          "source": "https://www.toutiao.com/trending/7707473359264546870/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707473359264546870%22%2C%22hot_board_impr_id%22%3A%222026111415212079A661182686DAE9607B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%99%BD%E5%AE%AB%EF%BC%9A%E4%B8%AD%E7%BE%8E%E4%BF%84%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%AE%A1%E5%88%92APEC%E6%9C%9F%E9%97%B4%E4%BC%9A%E6%99%A4%22%7D&rank=&style_id=40132&topic_id=7707473359264546870"
-        },
-        {
-          "title": "全美停飞惊魂",
-          "summary": "中国乘客亲历全美航班停飞",
-          "detail": "美国突发全国性航班停飞，有中国乘客回忆'以为遭遇空袭'。币圈人士却从中发现商机，立即推出'航空安全概念币'，完美诠释什么叫'别人恐惧我贪婪'。不过这种'灾难财'操作连老韭菜都直呼内行。",
-          "usage": "💡 聊突发事件与币圈反应\n💬 币圈：只要地球不爆炸，我们就有新概念\n🔥 航班停飞 加密货币 突发事件",
-          "src_id": 18,
-          "tags": [
-            "航班停飞",
-            "加密货币",
-            "突发事件"
-          ],
-          "source": "https://www.toutiao.com/trending/7707795997758193691/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707795997758193691%22%2C%22hot_board_impr_id%22%3A%222026111415212079A661182686DAE9607B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E4%B9%98%E5%AE%A2%E4%BA%B2%E5%8E%86%E5%85%A8%E7%BE%8E%E5%81%9C%E9%A3%9E%E4%BB%A5%E4%B8%BA%E8%A2%AB%E7%A9%BA%E8%A2%AD%22%7D&rank=&style_id=40132&topic_id=7707795997758193691"
+            "汽车",
+            "新车",
+            "市场"
+          ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-14T07:22:04.929Z",
-  "slot": "weekend-morning",
-  "slot_label": "周末早晨 · 家庭时光",
+  "generated_at": "2026-11-14T16:30:55.466Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
   "meta": {
-    "model": "deepseek/deepseek-chat",
-    "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 5136,
-    "completion_tokens": 2791,
-    "total_tokens": 7927,
-    "cost_usd": 0.0041931081,
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 4961,
+    "completion_tokens": 3588,
+    "total_tokens": 8549,
+    "cost_usd": 0.0028969499999999997,
     "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 14,
+      "published": 2
+    },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 12,
+        "huxiu": 2,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 20
+      "total": 14
     }
   }
 }

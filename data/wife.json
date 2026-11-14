@@ -5,53 +5,27 @@
       "icon": "🎬",
       "items": [
         {
-          "title": "青梅竹马剧",
-          "summary": "现实比剧更甜",
-          "detail": "今天热搜有对青梅竹马结婚，双方妈妈还是30年闺蜜。老婆，你说咱俩是不是也该拍个剧叫《代码与口红的邂逅》？绝对比他们火！",
-          "usage": "💡 饭后闲聊 \n💬 老婆，咱俩也拍个剧吧，《代码与口红的邂逅》😄 \n🔥 青梅竹马 恋爱剧",
-          "source": "https://m.baidu.com/s?word=%E9%9D%92%E6%A2%85%E7%AB%B9%E9%A9%AC%E7%BB%93%E5%A9%9A+%E5%8F%8C%E6%96%B9%E5%A6%88%E5%A6%88%E6%98%AF30%E5%B9%B4%E9%97%BA%E8%9C%9C&sa=fyb_news",
+          "title": "紫薇瘦身记",
+          "summary": "海陆瘦20斤再演紫薇，这波是还珠卡路里版",
+          "detail": "热搜说海陆瘦了20斤重新演紫薇，我算了下相当于每天少吃一个尔康。这剧要是重拍，小燕子飞起来都能多绕地球两圈。要不要一起围观新版'还珠格格之燃烧我的卡路里'？",
+          "usage": "💡 她刷到海陆热搜时\n💬 老婆你看这个紫薇瘦的，我怀疑她把皇阿玛的御膳房给戒了\n🔥 还珠格格 减肥 海陆",
+          "source": "https://m.baidu.com/s?word=%E6%B5%B7%E9%99%86%E7%98%A620%E6%96%A4%E5%86%8D%E6%89%BE%E7%B4%AB%E8%96%87&sa=fyb_news",
           "tags": [
-            "青梅竹马",
-            "恋爱"
+            "还珠格格",
+            "减肥",
+            "怀旧"
           ]
         },
         {
-          "title": "断崖式降温",
-          "summary": "冷得像偶像剧失恋",
-          "detail": "听说要大降温了，老婆，要不要一起重温《冬季恋歌》？保证比断崖式降温还让你心冷，哈哈！",
-          "usage": "💡 睡前闲聊 \n💬 老婆，降温了，一起看《冬季恋歌》吧，比天气还冷 ❄️ \n🔥 降温 冬季恋歌",
-          "source": "https://m.baidu.com/s?word=%E5%A4%A7%E6%9A%B4%E9%9B%AA%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%AA+%E6%96%AD%E5%B4%96%E5%BC%8F%E9%99%8D%E6%B8%A9%E6%9D%A5%E4%BA%86&sa=fyb_news",
+          "title": "KPL版甄嬛传",
+          "summary": "电竞选手夺冠比宫斗还精彩，建议改名《王者荣耀之钮祜禄·暖阳》",
+          "detail": "北京WB战队夺冠上热搜了，我看他们队内语音比甄嬛传还刺激。那个FMVP选手梓墨，简直就是电竞界的华妃——'本宫不死，尔等终究是妃'。要不要一起看回放？我负责解说宫斗部分。",
+          "usage": "💡 她刷游戏新闻时\n💬 爱妃快看，这个电竞选手夺冠的姿势，像不像你上次五杀时的风采？\n🔥 王者荣耀 宫斗 电竞",
+          "source": "https://m.baidu.com/s?word=%E5%8C%97%E4%BA%ACWB%E6%96%A9%E8%8E%B7KPL%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%A0%E5%86%9B&sa=fyb_news",
           "tags": [
-            "降温",
-            "冬季恋歌"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "吃喝情报",
-      "icon": "🍜",
-      "items": [
-        {
-          "title": "山姆羽绒服",
-          "summary": "暖胃更暖心",
-          "detail": "听说山姆羽绒服卖疯了，老婆，要不要去吃山姆的火锅？保证比羽绒服还让你暖心，而且成本价！",
-          "usage": "💡 晚餐提议 \n💬 老婆，去吃山姆火锅吧，比羽绒服还暖心 🍲 \n🔥 山姆 火锅",
-          "source": "https://m.baidu.com/s?word=%E5%B1%B1%E5%A7%86%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%88%86%E7%81%AB+%E4%B8%9A%E5%86%85%EF%BC%9A%E5%87%A0%E4%B9%8E%E5%B0%B1%E6%98%AF%E6%88%90%E6%9C%AC%E4%BB%B7&sa=fyb_news",
-          "tags": [
-            "山姆",
-            "火锅"
-          ]
-        },
-        {
-          "title": "面汤风波",
-          "summary": "一碗面的故事",
-          "detail": "看到有人尝了口面就扔了，老婆，咱们去吃那家老字号面馆吧，保证你连汤都不剩！",
-          "usage": "💡 午餐提议 \n💬 老婆，去吃老字号面馆吧，保证你连汤都不剩 🍜 \n🔥 面馆 老字号",
-          "source": "https://m.baidu.com/s?word=%E9%A1%BE%E5%AE%A2%E5%B0%9D%E4%BA%86%E5%8F%A3%E9%9D%A2%E6%95%B4%E7%A2%97%E6%89%94%E5%9E%83%E5%9C%BE%E6%A1%B6%E4%BB%98%E9%92%B1%E8%B5%B0%E4%BA%BA&sa=fyb_news",
-          "tags": [
-            "面馆",
-            "老字号"
+            "王者荣耀",
+            "电竞",
+            "甄嬛传"
           ]
         }
       ]
@@ -61,45 +35,47 @@
       "icon": "😘",
       "items": [
         {
-          "title": "江映蓉红不红",
-          "summary": "你在我心里最红",
-          "detail": "老婆，江映蓉红不红我不知道，但你在我心里永远是当红炸子鸡！",
-          "usage": "💡 刷热搜时 \n💬 老婆，你在我心里永远是当红炸子鸡 ❤️ \n🔥 江映蓉 当红",
-          "source": "https://m.baidu.com/s?word=%E6%B1%9F%E6%98%A0%E8%93%89%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%BA%A2&sa=fyb_news",
+          "title": "冷空气情话",
+          "summary": "结合冷空气热搜，把天气预报说成情书",
+          "detail": "看热搜说冷空气要来了，我立刻想到你——因为你一来，我全身的鸡皮疙瘩都出来列队欢迎。但你和冷空气不一样，你越靠近我心跳越快，它越靠近我电费越贵。",
+          "usage": "💡 天气变冷时\n💬 气象台说今天降温，但在我这儿永远恒温37.2℃——这是见到你时心脏的默认设置\n🔥 冷空气 心跳 幽默",
+          "source": "https://m.baidu.com/s?word=%E5%86%B7%E7%A9%BA%E6%B0%94%E2%80%9C%E6%8E%92%E7%8F%AD%E8%A1%A8%E2%80%9D%E6%9D%A5%E4%BA%86&sa=fyb_news",
           "tags": [
-            "江映蓉",
-            "当红"
+            "天气",
+            "情话",
+            "冷空气"
           ]
         },
         {
-          "title": "娜然怀孕了",
-          "summary": "你是我唯一的牵挂",
-          "detail": "老婆，娜然怀孕了，但我只关心你，因为你是我唯一的牵挂！",
-          "usage": "💡 刷热搜时 \n💬 老婆，你是我唯一的牵挂 ❤️ \n🔥 娜然 怀孕",
-          "source": "https://m.baidu.com/s?word=%E6%9B%9D%E5%A8%9C%E7%84%B6%E6%80%80%E5%AD%95%E4%BA%86&sa=fyb_news",
+          "title": "洗发水告白",
+          "summary": "用假洋牌洗发水热搜，创造头皮发麻情话",
+          "detail": "看到洗发水假洋牌的热搜，突然想对你说：你和洗发水广告一样，第一眼以为是进口的完美无瑕，深入了解才发现是国产的骄傲——等等，这好像不是情话是爱国宣言？重来：你就是我的独家配方，什么巴黎伦敦都比不上你家楼下小卖部。",
+          "usage": "💡 她洗头时\n💬 专家说洗发水要常换，但我的心意不用换——毕竟从第一眼就卡死在你这瓶'假洋牌'上了\n🔥 洗发水 情话 幽默",
+          "source": "https://m.baidu.com/s?word=%E6%B4%97%E5%8F%91%E6%B0%B4%E9%99%B7%E5%81%87%E6%B4%8B%E7%89%8C%E4%BA%89%E8%AE%AE+%E4%BA%8E%E4%B8%9C%E6%9D%A5%E6%AD%A3%E9%9D%A2%E5%9B%9E%E5%BA%94&sa=fyb_news",
           "tags": [
-            "娜然",
-            "怀孕"
+            "洗发水",
+            "幽默",
+            "国货"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-14T07:21:20.089Z",
-  "slot": "weekend-morning",
-  "slot_label": "周末早晨 · 家庭时光",
+  "generated_at": "2026-11-14T16:27:25.914Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 2985,
-    "completion_tokens": 2597,
-    "total_tokens": 5582,
-    "cost_usd": 0.0034398729,
+    "prompt_tokens": 2790,
+    "completion_tokens": 3245,
+    "total_tokens": 6035,
+    "cost_usd": 0.0040562775,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 10,
-      "published": 6
+      "dropped_orphans": 12,
+      "published": 4
     },
     "sources": {
       "per_source": {
