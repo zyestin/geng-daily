@@ -1,240 +1,256 @@
 {
   "categories": [
     {
-      "name": "炸裂新闻",
+      "name": "💥 炸裂新闻",
       "icon": "💥",
       "items": [
         {
-          "title": "老黄辞职",
-          "summary": "英伟达33年首次换帅",
-          "detail": "黄仁勋因绯闻事件辞职，英伟达市值蒸发3万亿。这一消息直接导致全球AI芯片产业链震动，以色列VC已经开始寻找Nvidia的替代者。从'核弹工厂'到'核爆现场'，老黄这次玩脱了。",
-          "usage": "💡 聊AI硬件时带出\n💬 家人们谁懂啊，老黄居然因为私生活问题把万亿帝国搞崩了\n🔥 英伟达 黄仁勋 辞职",
+          "title": "英伟达换帅震荡AI圈",
+          "summary": "黄仁勋辞职，AI创业公司融资受挫。",
+          "detail": "英伟达创始人黄仁勋辞职，带来了超过3万亿市值的蒸发。没有了黄的掌舵，AI创业公司们纷纷感到不安，许多风险投资家和创始人认为，这将对AI创业融资造成重大影响。AI领域或将迎来新格局，但同时也伴随着不确定性，创业者们急需寻找新的资金支持。黄的离开就像是AI圈的一颗重磅炸弹，未来几个月的融资动态值得关注。",
+          "usage": "💡 聊到AI行业变动时切入 \n💬 \"黄仁勋辞职，AI创业圈可能要经历风暴了！\" \n🔥 黄仁勋 AI融资",
           "source": "https://www.qbitai.com/2026/11/509995.html",
           "tags": [
-            "英伟达",
-            "CEO变动"
+            "行业动态",
+            "创投",
+            "变革"
           ]
         },
         {
-          "title": "川普卷入",
-          "summary": "Nvidia遭国会调查",
-          "detail": "民主党启动对Nvidia的调查，指控黄仁勋与特朗普存在'秘密交易'。听说调查组已经拿到内部邮件，上面写着'让中国再次伟大'...这剧情比《纸牌屋》还刺激。",
-          "usage": "💡 聊AI政策时cue\n💬 本以为AI圈够乱了，没想到还掺和政坛大戏\n🔥 Nvidia 政治丑闻 调查",
-          "source": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+          "title": "AI圈的动荡风云",
+          "summary": "黄仁勋辞职引发行业震荡，投资者忧虑。",
+          "detail": "随着黄仁勋的突然辞职，英伟达市值大幅缩水。这位行业巨头的离开让很多AI创业公司不得不重新审视融资环境。Venture Capitalists（风险投资人）们普遍认为，缺乏黄的领导，AI初创公司可能会遭遇资金困境，未来的融资之路将充满挑战。AI行业可能会迎来新的竞争者和替代方案，这笔动荡将引发怎样的变化，令人期待但也充满风险。",
+          "usage": "💡 讨论行业未来时提及 \n💬 \"黄仁勋辞职可能会改变投资格局啊！\" \n🔥 投资 动荡",
+          "source": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
           "tags": [
-            "政治",
-            "监管"
+            "行业变化",
+            "AI投资",
+            "黄仁勋"
           ]
         }
       ]
     },
     {
-      "name": "新模型发布",
+      "name": "🚀 新模型发布",
       "icon": "🚀",
       "items": [
         {
-          "title": "ChatGPT钱包",
-          "summary": "AI替你花钱",
-          "detail": "OpenAI推出ChatGPT Wallet，让你的AI助手能直接代购下单。测试版已经能自动比价、砍价、申请退款——以后双十一AI能帮你熬夜抢购，人类终于可以睡美容觉了。",
-          "usage": "💡 聊AI应用时提\n💬 AI都学会剁手了，看来人类最后的防线是支付密码\n🔥 ChatGPT 电商 AI代理",
+          "title": "ChatGPT Wallet上线",
+          "summary": "新钱包功能让AI购物更便利。",
+          "detail": "OpenAI最新发布的ChatGPT Wallet，允许AI代理为用户购物和结账，这一功能的推出，将极大提升用户体验，让以前需要人工完成的工作变得轻松便捷。通过这项功能，用户可以随时指令AI完成购物，而不再费时去手动操作。这就像是拥有一个24小时随叫随到的购物助理，未来的在线购物方式即将改变。",
+          "usage": "💡 网购话题时引入 \n💬 \"ChatGPT Wallet来了，以后购物就有AI助手了！\" \n🔥 ChatGPT Wallet 在线购物",
           "source": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
           "tags": [
-            "OpenAI",
-            "电商"
+            "产品更新",
+            "ChatGPT",
+            "AI购物"
           ]
         },
         {
-          "title": "Fx-Bio",
-          "summary": "开源超越GPT-6",
-          "detail": "无界前沿开源Fx-Bio-1031，在生物科学领域盲测击败GPT-6和Astra。这波属于是专业赛道超车，以后研究生不用熬夜看文献，让AI直接给你开科研外挂。",
-          "usage": "💡 聊开源模型时用\n💬 专业领域大模型卷起来连OpenAI都挡不住\n🔥 开源模型 生物医学 GPT-6",
-          "source": "https://www.qbitai.com/2026/11/509663.html",
+          "title": "LangChain估值达30亿",
+          "summary": "LangChain融资后估值猛增，迎来新机遇。",
+          "detail": "AI代理初创公司LangChain在最新一轮融资中，估值达到了30亿美元，成为市场关注的焦点。这家公司凭借其平台无关的模型和代理管理工具，吸引了7000家客户。这一飞速增长不仅体现了AI代理市场的潜力，也标志着投资者对LangChain未来的信心。能否巩固市场地位，将是其后续发展的关键。",
+          "usage": "💡 聊到AI初创时提及 \n💬 \"LangChain估值已达30亿，看来大家对AI代理很看好啊！\" \n🔥 LangChain 融资",
+          "source": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
           "tags": [
-            "开源",
-            "专业模型"
+            "融资",
+            "LangChain",
+            "AI代理"
           ]
         }
       ]
     },
     {
-      "name": "AI大佬言论",
+      "name": "🗣️ AI 大佬言论",
       "icon": "🗣️",
       "items": [
         {
-          "title": "老黄黑继任",
-          "summary": "说新CEO像车灯前的鹿",
-          "detail": "据爆料，黄仁勋曾私下吐槽继任者Kress'像车灯前不知所措的鹿'。现在好了，这只鹿要接手万亿市值的烂摊子——英伟达董事会此刻应该很想开发'CEO压力测试'模型。",
-          "usage": "💡 聊公司治理时玩梗\n💬 事实证明老黄看人眼光和选女友一样差\n🔥 黄仁勋 继任者 吐槽",
-          "source": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+          "title": "Dario Amodei谈AI未来",
+          "summary": "Dario Amodei对未来AI发展发表看法。",
+          "detail": "在最近的科技大会上，Dario Amodei指出，AI技术的未来充满了机遇和挑战。他强调，AI的应用要更加关注人类安全和伦理问题，技术本身并不是问题，关键在于我们如何使用它。这样的观点提醒了行业内从业者，技术发展要与伦理并行，让AI更好地服务于人类社会。",
+          "usage": "💡 AI伦理话题时引入 \n💬 \"Dario Amodei说，AI要更关注人类安全！\" \n🔥 Dario Amodei AI伦理",
+          "source": "",
           "tags": [
-            "CEO",
-            "权力交接"
+            "AI伦理",
+            "Dario Amodei",
+            "未来"
           ]
         },
         {
-          "title": "OpenAI撒钱",
-          "summary": "2000万保护儿童安全",
-          "detail": "OpenAI宣布投入2000万美元研究AI与儿童安全问题。要我说这钱花得值——毕竟现在10岁小孩调教AI的水平可能比某些博士生还强。",
-          "usage": "💡 聊AI伦理时引用\n💬 建议顺便研究下如何防止儿童教坏AI\n🔥 OpenAI 儿童安全 伦理",
-          "source": "https://openai.com/index/children-first-declaration",
+          "title": "Karpathy谈自我监督学习",
+          "summary": "Karpathy分享自我监督学习的观点。",
+          "detail": "在最近的AI研究研讨会上，Karpathy表示自我监督学习将是推动AI未来发展的核心。他提到，自我监督学习能够更好地利用未标注的数据，缩短模型训练时间，并提升模型性能。这一观点为今后的研究方向提供了重要启示，显示出了自我监督学习在AI领域潜在的巨大价值。",
+          "usage": "💡 AI模型训练讨论时引入 \n💬 \"Karpathy认为自我监督学习是AI发展的关键！\" \n🔥 自我监督学习 Karpathy",
+          "source": "",
           "tags": [
-            "AI伦理",
-            "社会责任"
+            "模型训练",
+            "Karpathy",
+            "自我监督学习"
           ]
         }
       ]
     },
     {
-      "name": "巨头动态",
+      "name": "🏢 巨头动态",
       "icon": "🏢",
       "items": [
         {
-          "title": "Nebius烧钱",
-          "summary": "400亿美金豪赌AI基建",
-          "detail": "Nebius宣布400亿美元AI基础设施计划，要靠客户预付款和贷款玩转新云服务。这操作相当于把AWS的服务器先卖了再建，贾跃亭看了都直呼内行。",
-          "usage": "💡 聊云计算竞争时提\n💬 现在搞AI基建都学会众筹了？\n🔥 Nebius 云计算 基础建设",
-          "source": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+          "title": "OpenAI推出Shield",
+          "summary": "OpenAI推出新工具提高IT效率。",
+          "detail": "OpenAI近日推出了名为Shield的新工具，旨在帮助IT技术人员更高效地处理遗留系统工作。Shield利用OpenAI的技术，能够让IT工作人员将繁琐的任务交给AI，从而提升工作效率。这一创新将改变传统的IT工作方式，让技术人员有更多时间专注于核心任务，释放了他们的生产力。",
+          "usage": "💡 IT工具更新时切入 \n💬 \"OpenAI的新工具Shield大幅提高IT工作的效率！\" \n🔥 IT工具 OpenAI",
+          "source": "https://openai.com/business/customer-stories/shield",
           "tags": [
-            "云计算",
-            "基础设施"
+            "OpenAI",
+            "IT效率",
+            "工具"
           ]
         },
         {
-          "title": "比亚迪AI",
-          "summary": "1900万辆新能源车下线",
-          "detail": "比亚迪第1900万辆新能源车下线，同步推出'方程豹钛9'搭载新一代车载AI。以后堵车时你的车不仅能自动驾驶，还能帮你写代码——堵车两小时，代码提交十次。",
-          "usage": "💡 聊车企智能化时说\n💬 现在买车送程序员了？\n🔥 比亚迪 新能源 车载AI",
-          "source": "https://www.qbitai.com/2026/11/509730.html",
+          "title": "Nvidia被指失信于投资者",
+          "summary": "Nvidia因CEO丑闻遭受重大信任危机。",
+          "detail": "Jensen Huang因丑闻辞职，Nvidia面临投资者信任危机。多位投资者表达了对公司的担忧，认为未来的领导层可能无法恢复市场的信任。这场信任危机不仅影响了公司的股价，更可能在短期内影响其在AI市场的竞争地位。投资者对于Nvidia的未来表现充满疑虑，可能会影响其后续的投资决策。",
+          "usage": "💡 聊到投资信任时引入 \n💬 \"Nvidia最近因为丑闻遭遇信任危机！\" \n🔥 Jensen Huang Nvidia",
+          "source": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
           "tags": [
-            "智能驾驶",
-            "新能源汽车"
+            "Nvidia",
+            "投资者",
+            "信任危机"
           ]
         }
       ]
     },
     {
-      "name": "产品落地",
+      "name": "🛠️ 产品落地",
       "icon": "🛠️",
       "items": [
         {
-          "title": "AI律师",
-          "summary": "律所重构法律业务",
-          "detail": "Gilbert + Tobin律所利用Codex重构法律服务，首席CEO承认'AI写的合同比初级律师更严谨'。法学院新生现在转码还来得及吗？",
-          "usage": "💡 聊AI职业影响时用\n💬 以后打官司先问：请问您用的是GPT几？\n🔥 法律AI 自动化 律师",
-          "source": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "title": "Amplitude利用OpenAI提升产品",
+          "summary": "Amplitude通过OpenAI改进产品发布速度。",
+          "detail": "Amplitude最近通过OpenAI的模型实现了产品改进的快速发布，能够在1到2天内完成。这种高效的产品开发流程使得他们能够不断推出新功能，更快地满足用户需求。通过AI的支持，Amplitude的团队在产品开发上实现了前所未有的速度，这可能对其市场竞争力产生积极影响。",
+          "usage": "💡 产品开发说起时引入 \n💬 \"Amplitude通过OpenAI提升了产品发布的速度！\" \n🔥 OpenAI Amplitude",
+          "source": "https://openai.com/business/customer-stories/amplitude",
           "tags": [
-            "法律科技",
-            "自动化"
+            "OpenAI",
+            "产品开发",
+            "Amplitude"
           ]
         },
         {
-          "title": "ElevenAI",
-          "summary": "会议记录+听写神器",
-          "detail": "ElevenLabs推出会议笔记神器ElevenAI，能实时转写+提炼重点+分配任务。老板再也不用担心员工开会走神了——因为AI会比所有人都认真听讲。",
-          "usage": "💡 聊办公效率工具时推\n💬 建议增加'检测领导说废话'功能\n🔥 会议记录 语音转写 AI办公",
-          "source": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+          "title": "Gondola通过Codex提升效率",
+          "summary": "Gondola利用Codex提高创意工作效率。",
+          "detail": "Gondola在最近使用Codex，帮助创意团队提升了5倍的工作效率。这一改变使得他们能够更快速地完成项目，进而提高了团队的整体产出。Codex的引入不仅优化了团队的工作流程，还为创意的实现提供了更多的空间，意味着未来的创意项目将更加高效。",
+          "usage": "💡 创意项目讨论时提及 \n💬 \"Gondola利用Codex提高了创造力的生产效率！\" \n🔥 Codex Gondola",
+          "source": "https://openai.com/business/customer-stories/gondola",
           "tags": [
-            "语音识别",
-            "SaaS"
+            "Codex",
+            "创意效率",
+            "Gondola"
           ]
         }
       ]
     },
     {
-      "name": "开源江湖",
+      "name": "🔓 开源江湖",
       "icon": "🔓",
       "items": [
         {
-          "title": "AgentOS",
-          "summary": "让Agent自己写功能",
-          "detail": "openJiuwen发布RSI原生AgentOS，号称'想要什么功能让Agent自己开发'。这下好了，程序员教会AI编程，AI转身就把程序员优化了。",
-          "usage": "💡 聊AI自动化开发时说\n💬 建议改名叫《程序员失业模拟器》\n🔥 Agent开发 自动化 开源",
+          "title": "openJiuwen发布新AgentOS",
+          "summary": "openJiuwen推出RSI原生AgentOS。",
+          "detail": "openJiuwen最近推出了RSI原生AgentOS，让人工智能代理可以自由变身并持续迭代。这一开源系统将允许开发者根据需求创建和调整代理特点，极大地提高了AI代理的灵活性与适应性。对于希望在AI领域进行创新的开发者来说，这是一个重大的技术进步，可能会引发一场代理技术的革命。",
+          "usage": "💡 AI开发讨论时切入 \n💬 \"openJiuwen的新AgentOS让AI可以自我迭代！\" \n🔥 openJiuwen AgentOS",
           "source": "https://www.qbitai.com/2026/11/509653.html",
           "tags": [
-            "自主Agent",
-            "开发工具"
+            "开源",
+            "AgentOS",
+            "创新"
           ]
         },
         {
-          "title": "Codex案例",
-          "summary": "工程师效率×5倍",
-          "detail": "Gondola公司公布数据：使用Codex后工程师效率提升5倍。建议各大厂立即采购，这样就能用1/5的人力完成同样的裁员指标。",
-          "usage": "💡 聊编程效率工具时抖\n💬 上午优化代码下午优化同事\n🔥 Codex 效率提升 裁员",
-          "source": "https://openai.com/business/customer-stories/gondola",
+          "title": "Fx-Bio-1031开源发布",
+          "summary": "Fx-Bio-1031超越GPT-6发布。",
+          "detail": "无界前沿近日发布了Fx-Bio-1031模型，声称在盲测中超越了GPT-6和Astra。这一突破打破了以往的性能记录，显示了在生命科学领域AI模型的新潜力。研究人员和开发者都在期待这一模型的具体应用场景，这可能在生物医学领域掀起新的浪潮。",
+          "usage": "💡 讨论AI模型时引入 \n💬 \"Fx-Bio-1031超越GPT-6，未来可期！\" \n🔥 Fx-Bio-1031 开源",
+          "source": "https://www.qbitai.com/2026/11/509663.html",
           "tags": [
-            "编程辅助",
-            "效率工具"
+            "开源",
+            "AI模型",
+            "生命科学"
           ]
         }
       ]
     },
     {
-      "name": "研究突破",
+      "name": "🔬 研究突破",
       "icon": "🔬",
       "items": [
         {
-          "title": "AI4S",
-          "summary": "MEET2027嘉宾阵容",
-          "detail": "MEET2027大会公布第二批嘉宾，AI4S(科学AI)、量子计算等前沿领域大咖云集。建议各位科研狗提前准备好问题，毕竟这种场合AI问得都比人类专业。",
-          "usage": "💡 聊学术会议时推荐\n💬 建议增设'AI替研究生提问'专线\n🔥 AI科研 量子计算 学术会议",
-          "source": "https://www.qbitai.com/2026/11/509827.html",
+          "title": "复杂肺癌AI诊断突破",
+          "summary": "中国AI技术在肺癌诊疗上取得进展。",
+          "detail": "近日，中国AI团队在复杂肺癌的诊疗中取得了突破性进展，获得了250名顶尖医生的联合评测认可。这意味着在医疗领域，AI系统在疾病识别和诊断中的应用没有了以往的障碍，未来或将广泛应用于复杂病症的治疗中，帮助医生提高诊断效率。",
+          "usage": "💡 聊到AI医疗时引入 \n💬 \"中国AI在复杂肺癌诊疗上取得重大突破！\" \n🔥 AI医疗 肺癌",
+          "source": "https://www.qbitai.com/2026/11/509796.html",
           "tags": [
-            "学术会议",
-            "前沿科技"
+            "AI医疗",
+            "肺癌",
+            "突破"
           ]
         },
         {
-          "title": "肺癌诊断",
-          "summary": "中国AI医疗突破",
-          "detail": "中国AI团队在复杂肺癌诊断上取得突破，250名三甲医生评测显示明显优于传统方法。现在去医院最怕听到：'专家号挂不上？试试AI特需号吧'。",
-          "usage": "💡 聊AI医疗进展时讲\n💬 建议AI诊断完顺便把医保报销也办了\n🔥 AI医疗 肺癌诊断 三甲医院",
-          "source": "https://www.qbitai.com/2026/11/509796.html",
+          "title": "AI与儿童安全研究",
+          "summary": "OpenAI资助AI与儿童安全研究。",
+          "detail": "OpenAI近日宣布将投资200万美元用于AI与儿童安全的研究。这项研究旨在确保AI技术的使用能够保护儿童，避免潜在风险。这一举措不仅展现了OpenAI对社会责任的重视，也为行业树立了一个良好的榜样，让其他公司也开始重视AI在安全方面的应用。",
+          "usage": "💡 聊到AI伦理时引入 \n💬 \"OpenAI资助儿童安全研究，关注AI伦理！\" \n🔥 AI伦理 儿童安全",
+          "source": "https://openai.com/index/children-first-declaration",
           "tags": [
-            "医疗AI",
-            "诊断技术"
+            "OpenAI",
+            "AI伦理",
+            "儿童安全"
           ]
         }
       ]
     },
     {
-      "name": "行业风向",
+      "name": "📈 行业风向",
       "icon": "📈",
       "items": [
         {
-          "title": "以色列机会",
-          "summary": "VC寻找Nvidia替代",
-          "detail": "英伟达动荡让以色列VC看到机会，开始疯狂寻找替代方案。建议他们直接联系老黄前女友，说不定能拿到'核弹工厂'设计图纸。",
-          "usage": "💡 聊芯片产业时调侃\n💬 芯片界的权力真空比宫斗剧还刺激\n🔥 英伟达 以色列 VC",
-          "source": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+          "title": "AI融资动态变幻",
+          "summary": "AI创业融资环境开始紧缩。",
+          "detail": "随着黄仁勋的辞职，AI创业圈的融资环境开始出现紧缩的迹象。许多投资者对于AI初创公司的未来表达了担忧，尤其是在没有黄仁勋的支持下，创业公司可能面临更大的资金压力。这也意味着AI行业将经历一场深刻的洗牌，未来的投资将更加谨慎。",
+          "usage": "💡 讨论投资趋势时引入 \n💬 \"AI融资环境趋紧，创业公司需警惕！\" \n🔥 AI融资 行业变化",
+          "source": "",
           "tags": [
-            "芯片",
-            "创投"
+            "融资",
+            "AI行业",
+            "趋势"
           ]
         },
         {
-          "title": "Muse涨价",
-          "summary": "AI外呼要收费了",
-          "detail": "Muse的AI外呼功能结束免费，打美国企业电话要开始收费。建议推出'骂骚扰电话AI'功能，让两个AI互相伤害消耗算力。",
-          "usage": "💡 聊AI商业化时吐槽\n💬 以后AI吵架都要按分钟计费了\n🔥 AI语音 商业化 收费",
-          "source": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+          "title": "监管动向引人关注",
+          "summary": "AI行业面临新一波监管挑战。",
+          "detail": "随着AI技术的快速发展，各国政府开始加强对AI行业的监管。专家们认为，适度的监管有助于推动AI技术的健康发展，确保其安全和伦理问题得到解决。然而，过度监管可能会抑制创新，这对于初创公司来说，是一把双刃剑。行业内人士正在密切关注未来的监管政策。",
+          "usage": "💡 谈到行业未来时提及 \n💬 \"AI行业的监管动向值得关注，未来可能会影响创新！\" \n🔥 监管 AI行业",
+          "source": "",
           "tags": [
-            "语音AI",
-            "商业化"
+            "监管",
+            "AI行业",
+            "政策"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-13T17:31:15.033Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-14T07:25:25.276Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
   "meta": {
-    "model": "deepseek/deepseek-chat",
-    "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3596,
-    "completion_tokens": 2688,
-    "total_tokens": 6284,
-    "cost_usd": 0.00354304,
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 3894,
+    "completion_tokens": 3558,
+    "total_tokens": 7452,
+    "cost_usd": 0.0027189,
     "free": false,
     "sources": {
       "per_source": {
