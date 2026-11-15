@@ -1,0 +1,281 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "7671亿芯片并购",
+          "summary": "科技史上最大并购案诞生",
+          "detail": "美国芯片公司Marvell以7671亿天价收购案震惊科技圈，但二级市场并不买账，股价应声下跌。这波操作堪称'钞能力者的寂寞'——钱能买来规模，买不来投资者的心。",
+          "usage": "💡 聊科技巨头扩张野心\n💬 家人们谁懂啊，7671亿买了个寂寞\n🔥 芯片并购 Marvell 天价交易",
+          "src_id": 2,
+          "tags": [
+            "芯片",
+            "并购",
+            "华尔街"
+          ],
+          "source": "https://www.huxiu.com/article/4905703.html?f=rss"
+        },
+        {
+          "title": "筷子夹飞船",
+          "summary": "SpaceX实现空中回收星舰",
+          "detail": "马斯克的SpaceX玩出新高度——发射塔机械臂像筷子夹菜一样凌空接住返回的星舰飞船，完成全球首次轨道级'太空夹娃娃'。分析师说这是支撑万亿估值的关键一步，建议改名叫'太空筷子手'。",
+          "usage": "💡 聊航天技术突破\n💬 马斯克把火箭玩成了夹娃娃机\n🔥 SpaceX 星舰 机械臂回收",
+          "src_id": 7,
+          "tags": [
+            "SpaceX",
+            "航天",
+            "马斯克"
+          ],
+          "source": "https://www.huxiu.com/article/4905693.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "老黄谢幕疑云",
+          "summary": "黄仁勋被传退出Neo Cloud",
+          "detail": "显卡教父黄仁勋突然被曝退出Neo Cloud项目，留下'算力央行'的烂摊子。当初画的大饼还没烙熟，厨子先溜了，这波操作堪称'PPT造梦师の跑路'。",
+          "usage": "💡 聊大佬战略调整\n💬 老黄：饼画好了，你们接着烙\n🔥 黄仁勋 NeoCloud 离职",
+          "src_id": 11,
+          "tags": [
+            "黄仁勋",
+            "GPU",
+            "云计算"
+          ],
+          "source": "https://www.huxiu.com/article/4905689.html?f=rss"
+        },
+        {
+          "title": "马斯克打断CFO",
+          "summary": "黄仁勋当众羞辱财务总监",
+          "detail": "老黄在内部会议上演'职场霸总'戏码，直接打断CFO汇报并嘲讽其是'被车灯照住的鹿'。建议NVIDIA下次发布会增加'老板の愤怒'真人秀环节，收视率绝对爆表。",
+          "usage": "💡 聊科技公司内幕\n💬 建议老黄改行当综艺导师\n🔥 黄仁勋 职场PUA CFO",
+          "src_id": 12,
+          "tags": [
+            "黄仁勋",
+            "NVIDIA",
+            "职场文化"
+          ],
+          "source": "https://www.huxiu.com/article/4905686.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "日本广告业地震",
+          "summary": "博报堂自我拆解应对AI",
+          "detail": "日本百年广告巨头博报堂挥刀自宫，为AI革命砍掉传统业务线。这波操作堪称'昭和男儿の数码切腹'，建议直接改名叫'博报堂2.0 Beta版'。",
+          "usage": "💡 聊传统行业转型\n💬 论狠还是日本人狠，自己革自己的命\n🔥 博报堂 广告业 AI革命",
+          "src_id": 3,
+          "tags": [
+            "广告",
+            "AI",
+            "日本企业"
+          ],
+          "source": "https://www.huxiu.com/article/4905701.html?f=rss"
+        },
+        {
+          "title": "腾讯老兵离职",
+          "summary": "34岁入职40岁离开的感悟",
+          "detail": "一位在腾讯征战6年的老兵发离职长文，自曝两个月心理斗争。建议鹅厂在OA系统离职按钮旁增加'再想想'弹窗，毕竟这年头能忍住不点'立即离职'的都是真英雄。",
+          "usage": "💡 聊大厂职场现状\n💬 鹅厂工牌摘下来比结婚证还难撕\n🔥 腾讯 离职 中年危机",
+          "src_id": 1,
+          "tags": [
+            "腾讯",
+            "离职",
+            "职场"
+          ],
+          "source": "https://www.huxiu.com/article/4905698.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "OpenAI弃养机器人",
+          "summary": "成立166天团队遭解散",
+          "detail": "OpenAI的机器人团队喜提'科技公司最快领盒饭奖'——从Sam Altman高调官宣成立到团队解散仅166天，比马斯克收购推特的蜜月期还短。建议下次直接搞'AI团队快闪店'。",
+          "usage": "💡 聊AI公司战略摇摆\n💬 奥特曼的机器人梦碎得比我的年终奖还快\n🔥 OpenAI 机器人 裁员",
+          "src_id": 6,
+          "tags": [
+            "OpenAI",
+            "机器人",
+            "裁员"
+          ],
+          "source": "https://www.huxiu.com/article/4905697.html?f=rss"
+        },
+        {
+          "title": "金锣易主",
+          "summary": "国民火腿肠133亿卖身",
+          "detail": "陪伴90后长大的金锣火腿肠即将易主，德弘资本掏出133亿接盘。建议新东家保留经典口味，毕竟这年头能坚持30年不涨价的东西，除了工资就是火腿肠了。",
+          "usage": "💡 聊消费品牌变迁\n💬 我的童年被资本论斤卖了\n🔥 金锣 并购 德弘资本",
+          "src_id": 10,
+          "tags": [
+            "金锣",
+            "并购",
+            "消费"
+          ],
+          "source": "https://www.huxiu.com/article/4905690.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "星舰空中杂技",
+          "summary": "SpaceX完成机械臂接飞船",
+          "detail": "马斯克把火箭回收玩成了马戏团表演——用发射塔机械臂精准夹住从天而降的星舰飞船，这场'太空筷子夹菜'秀直接刷新人类航天史。建议下次增加BGM《筷子颂》助兴。",
+          "usage": "💡 聊航天黑科技\n💬 建议SpaceX申请杂技团营业执照\n🔥 SpaceX 星舰 机械臂",
+          "src_id": 7,
+          "tags": [
+            "SpaceX",
+            "航天",
+            "可回收火箭"
+          ],
+          "source": "https://www.huxiu.com/article/4905693.html?f=rss"
+        },
+        {
+          "title": "广告业AI革命",
+          "summary": "日本巨头拆解传统业务",
+          "detail": "博报堂和电通两大日本广告巨头挥刀自宫，把百年老店拆成AI时代的乐高积木。这波操作堪称'昭和企业の数码切腹'，建议直接推出'AI武士刀'限定皮肤。",
+          "usage": "💡 聊传统行业转型\n💬 日本人的狠劲：自己砍自己最利索\n🔥 广告业 AI 日本企业",
+          "src_id": 3,
+          "tags": [
+            "广告",
+            "AI",
+            "日本企业"
+          ],
+          "source": "https://www.huxiu.com/article/4905701.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "片仔癀跌下神坛",
+          "summary": "一年贬值100多元",
+          "detail": "曾经比茅台还硬的片仔癀突然不香了，回收价一年暴跌100多。建议改走'轻奢保健品'路线，包装印上'前任送的'可能更保值。",
+          "usage": "💡 聊奢侈品泡沫\n💬 这届中产连装逼都开始精打细算了\n🔥 片仔癀 贬值 保健品",
+          "src_id": 9,
+          "tags": [
+            "片仔癀",
+            "奢侈品",
+            "投资"
+          ],
+          "source": "https://www.huxiu.com/article/4905691.html?f=rss"
+        },
+        {
+          "title": "火腿肠卖身",
+          "summary": "133亿卖掉国民记忆",
+          "detail": "金锣火腿肠被德弘资本133亿打包带走，建议新东家推出'资本的味道'限定版，配料表第一项写'90后童年回忆'。",
+          "usage": "💡 聊消费品牌变迁\n💬 连火腿肠都逃不过被收购的命运\n🔥 金锣 并购 德弘资本",
+          "src_id": 10,
+          "tags": [
+            "金锣",
+            "消费",
+            "并购"
+          ],
+          "source": "https://www.huxiu.com/article/4905690.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "算力央行烂尾",
+          "summary": "黄仁勋退出Neo Cloud",
+          "detail": "老黄潇洒离场的背影后，是'算力央行'Neo Cloud的一地鸡毛。建议互联网档案馆永久保存该项目PPT，标题就叫《论画饼的108种姿势》。",
+          "usage": "💡 聊创业泡沫\n💬 老黄用实力证明：大佬跑得比显卡还快\n🔥 黄仁勋 NeoCloud 烂尾",
+          "src_id": 11,
+          "tags": [
+            "创业",
+            "GPU",
+            "云计算"
+          ],
+          "source": "https://www.huxiu.com/article/4905689.html?f=rss"
+        },
+        {
+          "title": "OpenAI机器人梦碎",
+          "summary": "166天团队原地解散",
+          "detail": "Sam Altman的机器人野心存活时间比网红餐厅还短，从高调招聘到团队解散仅166天。建议科技公司设立'PPT项目最短存活时间'吉尼斯纪录。",
+          "usage": "💡 聊AI创业泡沫\n💬 奥特曼的机器人团队活得还没螃蟹久\n🔥 OpenAI 机器人 裁员",
+          "src_id": 6,
+          "tags": [
+            "OpenAI",
+            "机器人",
+            "创业"
+          ],
+          "source": "https://www.huxiu.com/article/4905697.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "币圈风云",
+      "icon": "🪙",
+      "items": [
+        {
+          "title": "无真实币圈新闻",
+          "summary": "今日无合适素材",
+          "detail": "今日抓取的新闻中无具体币圈动态，宁缺毋滥不编造内容。建议币圈大佬们多整点阳间操作，别老在阴间行情里扑腾。",
+          "usage": "💡 聊币圈现状\n💬 今天孙宇晨居然没上热搜？不科学\n🔥 币圈 孙宇晨 加密货币",
+          "src_id": "",
+          "tags": [
+            "币圈",
+            "孙宇晨",
+            "加密货币"
+          ],
+          "source": ""
+        },
+        {
+          "title": "无合适素材补充",
+          "summary": "保持空白不编造",
+          "detail": "严格遵守'不编假瓜'原则，该分类无真实素材时不强行凑数。建议币圈下次搞事选在工作日，别耽误我们吃瓜。",
+          "usage": "💡 聊内容真实性\n💬 主编今天居然没编段子？感动中国\n🔥 真实性 币圈 新闻伦理",
+          "src_id": "",
+          "tags": [
+            "新闻伦理",
+            "真实性",
+            "币圈"
+          ],
+          "source": ""
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-15T07:33:32.095Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 5085,
+    "completion_tokens": 2472,
+    "total_tokens": 7557,
+    "cost_usd": 0.0038518254,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 12,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 22
+    }
+  }
+}

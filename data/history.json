@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "key": "2026-11-15-weekend-morning",
+      "date": "2026-11-15",
+      "slot": "weekend-morning",
+      "slot_label": "周末早晨 · 家庭时光",
+      "generated_at": "2026-11-15T07:23:20.386Z",
+      "weekday": "星期日",
+      "file": "archive/2026-11-15-weekend-morning.json",
+      "topic_count": 12,
+      "category_names": [
+        "时事热点",
+        "儿童教育",
+        "亲子时光",
+        "乒乓球",
+        "热门影视",
+        "健康养生"
+      ]
+    },
+    {
       "key": "2026-11-15-weekend-evening",
       "date": "2026-11-15",
       "slot": "weekend-evening",
@@ -2863,5 +2881,5 @@
       ]
     }
   ],
-  "updated_at": "2026-11-14T16:18:09.628Z"
+  "updated_at": "2026-11-15T07:23:20.402Z"
 }

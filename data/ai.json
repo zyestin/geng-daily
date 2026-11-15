@@ -5,27 +5,25 @@
       "icon": "💥",
       "items": [
         {
-          "title": "黄仁勋辞职震动行业",
-          "summary": "Nvidia 换帅引发投资者恐慌。",
-          "detail": "在经历了33年的辉煌后，黄仁勋辞去Nvidia首席执行官职务，导致公司市值蒸发超过3万亿。投资者对未来领导力的稳定性表示担忧，尤其是在AI竞争日益加剧的背景下，黄的离开可能会影响Nvidia的创新步伐和市场信心。各大投资者纷纷重新审视与Nvidia的合作，未来将会有怎样的风暴即将来临？",
-          "usage": "💡 投资相关的讨论时可以提起 \n💬 \"黄仁勋辞职，Nvidia市值蒸发超3万亿，谁能接棒？\" \n🔥 Nvidia 创新 投资",
+          "title": "老黄下课",
+          "summary": "黄仁勋辞职，英伟达33年首换帅",
+          "detail": "英伟达创始人兼CEO黄仁勋宣布辞职，结束了其在公司33年的领导生涯。这一消息导致英伟达市值蒸发超过3万亿人民币，成为AI圈的头号地震。员工集体请愿要求黄仁勋回归，连马斯克等科技大佬也签名支持。",
+          "usage": "💡 英伟达股价暴跌\n💬 老黄下课，英伟达33年首次换帅，市值蒸发3万亿！\n🔥 黄仁勋 英伟达",
           "source": "https://www.qbitai.com/2026/11/509995.html",
           "tags": [
-            "Nvidia",
-            "黄仁勋",
-            "行业动态"
+            "英伟达",
+            "黄仁勋"
           ]
         },
         {
-          "title": "英伟达的“奥特曼”危机",
-          "summary": "员工请愿让老黄回家。",
-          "detail": "Nvidia员工发起集体请愿，希望黄仁勋能回归舵手位置，显示出对黄的极高信任和依赖。这场离职风波，不仅让投资者胆战心惊，更让内部员工感到不安。在AI技术竞争日益激烈的今天，企业的领导力显得尤为重要。黄的回归将可能为Nvidia重拾信心，而这场风波也让我们看到了企业文化对员工归属感的深远影响。",
-          "usage": "💡 聊到企业文化时顺势提及 \n💬 \"Nvidia员工集体请愿，希望老黄回家，文化影响真大。\" \n🔥 企业文化 员工动态",
-          "source": "https://www.qbitai.com/2026/11/510297.html",
+          "title": "ChatGPT钱包",
+          "summary": "ChatGPT推出AI钱包功能",
+          "detail": "OpenAI发布ChatGPT Wallet，允许AI代理在用户授权下进行购物和结算。这一功能标志着AI助手在日常生活场景中的应用更进一步。初期将限量推出，未来可能成为AI代理标配功能。",
+          "usage": "💡 AI购物新功能\n💬 ChatGPT Wallet来了，以后AI帮你逛街买单！\n🔥 ChatGPT Wallet AI购物",
+          "source": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
           "tags": [
-            "Nvidia",
-            "企业文化",
-            "员工动态"
+            "ChatGPT",
+            "AI钱包"
           ]
         }
       ]
@@ -35,27 +33,25 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "ChatGPT Wallet 登场",
-          "summary": "AI 代理可以购物结账。",
-          "detail": "OpenAI 发布了 ChatGPT Wallet，这一新功能允许AI代理代表用户进行在线购物和结账。相较于传统的购物方式，用户只需发出指令，就能让AI完成整个交易过程，简化了购物流程。此外，AI在处理金融交易时的安全性和效率也大幅提升，未来或将改变我们购物的方式。",
-          "usage": "💡 讨论AI代理时可以提到 \n💬 \"ChatGPT Wallet让AI代理帮你购物，未来购物方式将被颠覆。\" \n🔥 AI代理 购物",
-          "source": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-          "tags": [
-            "OpenAI",
-            "ChatGPT",
-            "新功能"
-          ]
-        },
-        {
-          "title": "LangChain 估值突破",
-          "summary": "AI代理管理工具站稳市场。",
-          "detail": "LangChain宣布其估值达到30亿美元，成为AI代理管理领域的佼佼者。与上一轮融资相比，LangChain在客户数量上暴涨至7000个，展现出强劲的市场需求和增长潜力。在众多竞争者环伺的市场中，LangChain的快速崛起预示着AI工具的应用场景正在无限扩展，未来将继续引领行业变革。",
-          "usage": "💡 讨论AI管理工具时提及 \n💬 \"LangChain最新估值30亿，客户急剧增长，市场前景广阔。\" \n🔥 LangChain 估值",
+          "title": "LangChain估值狂飙",
+          "summary": "AI代理管理平台LangChain估值达30亿美元",
+          "detail": "AI代理初创公司LangChain宣布其估值突破30亿美元，客户数量达到7000家。这一飞速增长凸显了AI代理管理平台的巨大市场潜力，也预示着AI生态系统的进一步成熟。",
+          "usage": "💡 AI代理管理平台\n💬 LangChain估值30亿美元，AI代理市场爆发！\n🔥 LangChain AI代理",
           "source": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
           "tags": [
             "LangChain",
-            "AI工具",
-            "市场动态"
+            "AI代理"
+          ]
+        },
+        {
+          "title": "联想绿电Token",
+          "summary": "联想绿电Token成本降70%",
+          "detail": "联想推出新一代Token工厂，利用绿电技术将Token生产成本降低了70%。年产2000万亿Token的规模，预示着AI训练成本的大幅下降，可能引发新一轮AI应用浪潮。",
+          "usage": "💡 AI训练成本下降\n💬 联想绿电Token成本狂降70%，年产2000万亿Token！\n🔥 联想 Token",
+          "source": "https://www.qbitai.com/2026/11/510094.html",
+          "tags": [
+            "联想",
+            "Token"
           ]
         }
       ]
@@ -65,27 +61,25 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "黄仁勋离职背后",
-          "summary": "他对接班人信心不足。",
-          "detail": "在Nvidia离职前的企业会议上，黄仁勋形容他的接班人Kress为“像在灯光下的鹿”，暗示他对其领导能力的怀疑。这一言论透露出行业内的紧张气氛和对未来的担忧，显示出在高压环境下，企业领导者之间的信任至关重要。",
-          "usage": "💡 聊到领导力时可以提及 \n💬 \"黄仁勋称接班人像‘鹿在灯光下’，这意味着什么？\" \n🔥 领导力 接班人",
-          "source": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+          "title": "马斯克签名请愿",
+          "summary": "马斯克等大佬签名请愿老黄回归",
+          "detail": "埃隆·马斯克等多位科技大佬联合签署请愿书，要求英伟达重新任命黄仁勋为CEO。这一行动凸显了黄仁勋在AI行业的影响力，也反映了科技界对英伟达未来走向的担忧。",
+          "usage": "💡 英伟达CEO变动\n💬 马斯克等大佬签名请愿，要求老黄回归英伟达！\n🔥 马斯克 黄仁勋",
+          "source": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
           "tags": [
-            "黄仁勋",
-            "领导力",
-            "企业管理"
+            "马斯克",
+            "黄仁勋"
           ]
         },
         {
-          "title": "Jensen Huang 的告别",
-          "summary": "Nvidia未来需要新方向。",
-          "detail": "在黄仁勋辞职后的采访中，他提到Nvidia在未来需要寻找新的方向来适应市场变化，这不仅是对公司未来的期许，也反映了整个AI行业面临的挑战和机遇。行业内对此言论的解读纷纷，大家都在思考Nvidia会如何转型，以及其他公司是否会借此机会追赶上来。",
-          "usage": "💡 办公室闲聊可以提到 \n💬 \"黄仁勋表示Nvidia需要新方向，大家怎么看？\" \n🔥 Nvidia 转型 机遇",
-          "source": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+          "title": "OpenAI承诺儿童安全",
+          "summary": "OpenAI承诺200万美元研究AI儿童安全",
+          "detail": "OpenAI宣布投入200万美元用于研究AI与儿童安全相关技术。这一举措旨在开发共享工具，确保AI技术在儿童使用场景中的安全性，彰显了OpenAI在AI伦理方面的持续努力。",
+          "usage": "💡 AI伦理\n💬 OpenAI承诺200万美元研究AI儿童安全！\n🔥 OpenAI 儿童安全",
+          "source": "https://openai.com/index/children-first-declaration",
           "tags": [
-            "黄仁勋",
-            "Nvidia",
-            "行业观察"
+            "OpenAI",
+            "AI伦理"
           ]
         }
       ]
@@ -95,27 +89,25 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "Nvidia 投资大缩水",
-          "summary": "黄仁勋辞职影响投资信心。",
-          "detail": "在黄仁勋辞职后，很多创业者和风投开始对Nvidia表示担忧，认为公司未来的投资将会大幅缩水。这种对市场的猜测可能会导致更多公司寻求资金支持，同时也给了竞争对手机会。在这样的环境中，如何把握投资时机将成为各大公司关注的焦点。",
-          "usage": "💡 投资讨论时可以引入 \n💬 \"专家认为Nvidia的投资将大幅缩水，这对市场有何影响？\" \n🔥 Nvidia 投资 创业",
-          "source": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+          "title": "亚洲政府反应",
+          "summary": "亚洲政府对老黄离职反应不一",
+          "detail": "英伟达CEO黄仁勋离职后，亚洲各国政府反应各异。一些国家迅速确认芯片供应承诺，另一些则密切关注其对AI产业的影响。这一变化可能重塑全球AI芯片供应链格局。",
+          "usage": "💡 AI芯片供应链\n💬 亚洲政府对老黄离职反应不一，芯片供应格局或生变！\n🔥 亚洲 芯片供应",
+          "source": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
           "tags": [
-            "Nvidia",
-            "投资",
-            "市场动态"
+            "英伟达",
+            "芯片"
           ]
         },
         {
-          "title": "OpenAI 加大保护投资",
-          "summary": "投入200万美元研究AI儿童安全。",
-          "detail": "OpenAI最近承诺投资200万美元，用于研究AI对儿童安全的影响，显示出公司对AI伦理的重视。这项研究将帮助开发更安全的AI工具，为儿童提供更好的保护，这不仅是对公司道德责任的履行，也可能成为未来产品设计的重要方向。",
-          "usage": "💡 聊天时提到AI伦理问题 \n💬 \"OpenAI投入200万美元研究儿童安全，这个举动值得关注。\" \n🔥 OpenAI 伦理 投资",
-          "source": "https://openai.com/index/children-first-declaration",
+          "title": "OpenAI法律AI",
+          "summary": "OpenAI与Gilbert + Tobin合作法律AI",
+          "detail": "OpenAI与澳大利亚著名律所Gilbert + Tobin合作开发法律AI解决方案。这一合作标志着AI在法律领域的深入应用，可能变革传统法律服务模式。",
+          "usage": "💡 AI+法律\n💬 OpenAI与Gilbert + Tobin合作，法律AI要来了！\n🔥 OpenAI 法律AI",
+          "source": "https://openai.com/index/gilbert-tobin-sam-nickless",
           "tags": [
             "OpenAI",
-            "AI伦理",
-            "儿童安全"
+            "法律AI"
           ]
         }
       ]
@@ -125,27 +117,25 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "Gondola 用Codex提效",
-          "summary": "Codex助力创造者提升效率。",
-          "detail": "Gondola借助OpenAI的Codex模型，显著提高了其首席工程师的工作效率，工作产出提升了5倍。这一成功案例展示了AI技术在创意领域的实际应用潜力，意味着未来将会有更多公司探索AI对工作效率的提升方式。",
-          "usage": "💡 办公软件讨论时可提及 \n💬 \"Gondola借助Codex提升效率，工作产出提升5倍，AI真的很强。\" \n🔥 AI技术 效率提升",
-          "source": "https://openai.com/business/customer-stories/gondola",
+          "title": "ChatGPT Plus免费",
+          "summary": "2万退伍军人免费使用ChatGPT Plus",
+          "detail": "OpenAI宣布超过2万名退伍军人和现役军人已获得一年免费ChatGPT Plus资格。这一福利计划旨在帮助军人群体更好地适应AI时代，体现了AI技术的社会责任。",
+          "usage": "💡 AI福利\n💬 2万退伍军人免费使用ChatGPT Plus！\n🔥 ChatGPT Plus 退伍军人",
+          "source": "https://openai.com/index/chatgpt-plus-for-veterans",
           "tags": [
-            "Gondola",
-            "Codex",
-            "效率提升"
+            "ChatGPT",
+            "退伍军人"
           ]
         },
         {
-          "title": "Amplitude 加速产品迭代",
-          "summary": "AI有效缩短产品开发时间。",
-          "detail": "Amplitude运用OpenAI的模型Wave，加快了产品改进流程，从构思到交付仅需1-2天。这样的速度对于企业提高市场竞争力至关重要，意味着在快速变化的市场中，企业能够更快回应客户需求，进一步增强客户满意度。",
-          "usage": "💡 讨论产品开发时可以引用 \n💬 \"Amplitude通过Wave缩短产品迭代时间，AI让速度成为可能。\" \n🔥 Amplitude AI迭代 速度",
-          "source": "https://openai.com/business/customer-stories/amplitude",
+          "title": "Codex应用案例",
+          "summary": "Gondola利用Codex提高工程师产出",
+          "detail": "创意服务平台Gondola利用OpenAI的Codex技术，将其首席工程师产出提升了5倍。这一案例展示了AI代码生成工具在实际业务中的显著效率提升。",
+          "usage": "💡 代码生成\n💬 Gondola用Codex，工程师产出提升5倍！\n🔥 Codex Gondola",
+          "source": "https://openai.com/business/customer-stories/gondola",
           "tags": [
-            "Amplitude",
-            "AI",
-            "产品迭代"
+            "Codex",
+            "工程师"
           ]
         }
       ]
@@ -155,27 +145,25 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "DeepSeek 开放全家桶API",
-          "summary": "可自由组合调用各类功能。",
-          "detail": "DeepSeek宣布开放全家桶API，用户可以根据需求自由组合调用各种功能。这一举措不仅提升了开源模型的灵活性，还让开发者能够更快速地构建出符合自身需求的解决方案，展现了开源生态的强大生命力。",
-          "usage": "💡 开源讨论时可以提及 \n💬 \"DeepSeek开放API，开发者可以自由组合功能，这是个新机会。\" \n🔥 开源 API",
+          "title": "DeepSeek开放API",
+          "summary": "DeepSeek开放全家桶API",
+          "detail": "DeepSeek宣布开放其官方App所有功能的API，允许开发者自由组合调用。这一举措将极大促进AI应用生态的繁荣，预示着OpenAI之外的另一股AI力量崛起。",
+          "usage": "💡 AI生态系统\n💬 DeepSeek开放全家桶API，AI应用生态要爆发了！\n🔥 DeepSeek API",
           "source": "https://www.qbitai.com/2026/11/510003.html",
           "tags": [
             "DeepSeek",
-            "API",
-            "开源"
+            "API"
           ]
         },
         {
-          "title": "Llama 模型新动态",
-          "summary": "新版本发布引发广泛关注。",
-          "detail": "Llama新版本发布引起了开源社区的热烈讨论，新的功能和优化使得模型在多个任务上的表现更加出色。这一创新不仅提升了用户体验，更让开发者们对未来的应用场景充满期待，展示了开源模型的持续进步。",
-          "usage": "💡 开源动态讨论时可以提到 \n💬 \"Llama新版本发布，社区反响热烈，期待更多应用。\" \n🔥 Llama 开源模型",
-          "source": "",
+          "title": "ChatGPT钱包开源",
+          "summary": "ChatGPT Wallet开源计划曝光",
+          "detail": "ChatGPT Wallet的开源计划被曝光，未来可能允许开发者自定义AI购物代理的行为。这一消息引发业界热议，预示着AI钱包市场的潜在竞争局面。",
+          "usage": "💡 AI钱包\n💬 ChatGPT Wallet要开源，AI购物代理大战打响！\n🔥 ChatGPT Wallet 开源",
+          "source": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
           "tags": [
-            "Llama",
-            "开源",
-            "动态"
+            "ChatGPT",
+            "开源"
           ]
         }
       ]
@@ -185,27 +173,25 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "湿实验基准发布",
-          "summary": "十余家顶尖团队联合发布。",
-          "detail": "由斯坦福、哈佛、康奈尔等十余家顶尖团队联合发布的湿实验预测基准，引发了广泛关注。该基准的推出，意味着在AI研究中对实验可重复性的重视程度日益提高，同时也为整合先进技术提供了标准，推动了研究成果的透明化。",
-          "usage": "💡 讨论学术研究时可以提及 \n💬 \"新发布的湿实验基准将推动AI实验的标准化进程。\" \n🔥 AI实验 标准化",
+          "title": "湿实验预测基准",
+          "summary": "史上最严湿实验预测基准发布",
+          "detail": "斯坦福、哈佛、康奈尔等顶尖团队联合发布史上最严湿实验预测基准。该基准要求推理能力拉满，算力翻5倍也难以达标，标志着AI在生物实验预测领域的挑战升级。",
+          "usage": "💡 AI+生物\n💬 史上最严湿实验预测基准发布，AI挑战升级！\n🔥 湿实验 AI",
           "source": "https://www.qbitai.com/2026/11/510232.html",
           "tags": [
             "湿实验",
-            "研究",
-            "基准"
+            "AI预测"
           ]
         },
         {
-          "title": "AI在儿童安全研究中",
-          "summary": "OpenAI投资AI与儿童安全研究。",
-          "detail": "OpenAI投资200万美元用于研究AI对儿童的安全性，这项研究不仅有助于提升AI系统的安全性，也将形成多方位保障儿童安全的策略。随着AI技术的广泛应用，保护儿童免受潜在风险的研究愈发重要，展现了科技对人类未来的责任感。",
-          "usage": "💡 聊到AI伦理时可以提及 \n💬 \"AI儿童安全研究是未来发展的关键，OpenAI在行动。\" \n🔥 AI伦理 儿童安全",
-          "source": "https://openai.com/index/children-first-declaration",
+          "title": "中国AI芯片乌龙",
+          "summary": "中国最强AI模型用禁运芯片",
+          "detail": "最新研究显示，中国最先进的AI模型竟是使用禁运的Nvidia芯片训练的。这一发现引发了关于AI芯片供应链安全的热议，也暴露了中国AI产业的尴尬处境。",
+          "usage": "💡 AI芯片\n💬 中国最强AI模型用禁运Nvidia芯片训练！\n🔥 AI芯片 Nvidia",
+          "source": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
           "tags": [
-            "AI伦理",
-            "儿童安全",
-            "OpenAI"
+            "中国",
+            "AI芯片"
           ]
         }
       ]
@@ -215,42 +201,40 @@
       "icon": "📈",
       "items": [
         {
-          "title": "Nvidia投融资前景不明",
-          "summary": "黄仁勋辞职后行业信心受挫。",
-          "detail": "随着黄仁勋辞职，Nvidia在未来的投融资情况引发业内广泛讨论。风投公司和创业者们对Nvidia的未来感到不安，可能导致更多资金流向其他竞争对手，这将改变AI行业的竞争格局，未来谁会成为新的领头羊值得关注。",
-          "usage": "💡 投资动向讨论时可以提及 \n💬 \"黄仁勋的辞职可能改变Nvidia的投融资格局，未来看谁能崛起。\" \n🔥 Nvidia 投融资 竞争格局",
-          "source": "",
+          "title": "AI初创投资危机",
+          "summary": "老黄离职引发AI初创投资危机",
+          "detail": "黄仁勋离职后，AI初创公司面临投资危机。Nvidia曾在黄领导下向AI初创投入数十亿美元，如今这一资金来源可能中断，AI创业生态或将面临重新洗牌。",
+          "usage": "💡 AI投资\n💬 老黄离职，AI初创投资危机来了！\n🔥 AI初创 投资",
+          "source": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
           "tags": [
-            "投资",
-            "Nvidia",
-            "风向"
+            "AI初创",
+            "投资"
           ]
         },
         {
-          "title": "AI监管政策或趋严格",
-          "summary": "行业面临更严格的政策审查。",
-          "detail": "随着AI技术的快速发展，各国政府开始考虑对AI行业实施更严格的监管政策。这可能会影响初创企业的融资和运营模式，同时也促使行业内企业重视合规性。未来，如何在创新与监管之间找到平衡，将成为行业关注的焦点。",
-          "usage": "💡 讨论行业政策时可以提及 \n💬 \"外部监管压力迫使AI行业重新审视合规，这将影响未来发展。\" \n🔥 监管政策 AI行业",
-          "source": "",
+          "title": "MEET2027嘉宾",
+          "summary": "MEET2027第二批嘉宾出炉",
+          "detail": "MEET2027峰会公布第二批嘉宾名单，涵盖AI4S、量子计算、AI基建等前沿领域。这一盛会将于12月9日在北京举行，预示着AI行业未来发展的新动向。",
+          "usage": "💡 AI峰会\n💬 MEET2027第二批嘉宾来了，AI前沿大咖齐集北京！\n🔥 MEET2027 AI",
+          "source": "https://www.qbitai.com/2026/11/509827.html",
           "tags": [
-            "监管",
-            "AI行业",
-            "政策"
+            "MEET2027",
+            "AI峰会"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-14T16:35:42.141Z",
-  "slot": "weekend-evening",
-  "slot_label": "周末傍晚 · 家庭闲聊",
+  "generated_at": "2026-11-15T07:35:04.235Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
   "meta": {
-    "model": "openai/gpt-4o-mini",
-    "actual_model": "openai/gpt-4o-mini",
-    "prompt_tokens": 3823,
-    "completion_tokens": 3445,
-    "total_tokens": 7268,
-    "cost_usd": 0.00264045,
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3522,
+    "completion_tokens": 2715,
+    "total_tokens": 6237,
+    "cost_usd": 0.0036994833,
     "free": false,
     "sources": {
       "per_source": {

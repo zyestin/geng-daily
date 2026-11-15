@@ -1,0 +1,248 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "老黄下课",
+          "summary": "黄仁勋辞职，英伟达33年首换帅",
+          "detail": "英伟达创始人兼CEO黄仁勋宣布辞职，结束了其在公司33年的领导生涯。这一消息导致英伟达市值蒸发超过3万亿人民币，成为AI圈的头号地震。员工集体请愿要求黄仁勋回归，连马斯克等科技大佬也签名支持。",
+          "usage": "💡 英伟达股价暴跌\n💬 老黄下课，英伟达33年首次换帅，市值蒸发3万亿！\n🔥 黄仁勋 英伟达",
+          "source": "https://www.qbitai.com/2026/11/509995.html",
+          "tags": [
+            "英伟达",
+            "黄仁勋"
+          ]
+        },
+        {
+          "title": "ChatGPT钱包",
+          "summary": "ChatGPT推出AI钱包功能",
+          "detail": "OpenAI发布ChatGPT Wallet，允许AI代理在用户授权下进行购物和结算。这一功能标志着AI助手在日常生活场景中的应用更进一步。初期将限量推出，未来可能成为AI代理标配功能。",
+          "usage": "💡 AI购物新功能\n💬 ChatGPT Wallet来了，以后AI帮你逛街买单！\n🔥 ChatGPT Wallet AI购物",
+          "source": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+          "tags": [
+            "ChatGPT",
+            "AI钱包"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "LangChain估值狂飙",
+          "summary": "AI代理管理平台LangChain估值达30亿美元",
+          "detail": "AI代理初创公司LangChain宣布其估值突破30亿美元，客户数量达到7000家。这一飞速增长凸显了AI代理管理平台的巨大市场潜力，也预示着AI生态系统的进一步成熟。",
+          "usage": "💡 AI代理管理平台\n💬 LangChain估值30亿美元，AI代理市场爆发！\n🔥 LangChain AI代理",
+          "source": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+          "tags": [
+            "LangChain",
+            "AI代理"
+          ]
+        },
+        {
+          "title": "联想绿电Token",
+          "summary": "联想绿电Token成本降70%",
+          "detail": "联想推出新一代Token工厂，利用绿电技术将Token生产成本降低了70%。年产2000万亿Token的规模，预示着AI训练成本的大幅下降，可能引发新一轮AI应用浪潮。",
+          "usage": "💡 AI训练成本下降\n💬 联想绿电Token成本狂降70%，年产2000万亿Token！\n🔥 联想 Token",
+          "source": "https://www.qbitai.com/2026/11/510094.html",
+          "tags": [
+            "联想",
+            "Token"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "马斯克签名请愿",
+          "summary": "马斯克等大佬签名请愿老黄回归",
+          "detail": "埃隆·马斯克等多位科技大佬联合签署请愿书，要求英伟达重新任命黄仁勋为CEO。这一行动凸显了黄仁勋在AI行业的影响力，也反映了科技界对英伟达未来走向的担忧。",
+          "usage": "💡 英伟达CEO变动\n💬 马斯克等大佬签名请愿，要求老黄回归英伟达！\n🔥 马斯克 黄仁勋",
+          "source": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+          "tags": [
+            "马斯克",
+            "黄仁勋"
+          ]
+        },
+        {
+          "title": "OpenAI承诺儿童安全",
+          "summary": "OpenAI承诺200万美元研究AI儿童安全",
+          "detail": "OpenAI宣布投入200万美元用于研究AI与儿童安全相关技术。这一举措旨在开发共享工具，确保AI技术在儿童使用场景中的安全性，彰显了OpenAI在AI伦理方面的持续努力。",
+          "usage": "💡 AI伦理\n💬 OpenAI承诺200万美元研究AI儿童安全！\n🔥 OpenAI 儿童安全",
+          "source": "https://openai.com/index/children-first-declaration",
+          "tags": [
+            "OpenAI",
+            "AI伦理"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "亚洲政府反应",
+          "summary": "亚洲政府对老黄离职反应不一",
+          "detail": "英伟达CEO黄仁勋离职后，亚洲各国政府反应各异。一些国家迅速确认芯片供应承诺，另一些则密切关注其对AI产业的影响。这一变化可能重塑全球AI芯片供应链格局。",
+          "usage": "💡 AI芯片供应链\n💬 亚洲政府对老黄离职反应不一，芯片供应格局或生变！\n🔥 亚洲 芯片供应",
+          "source": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+          "tags": [
+            "英伟达",
+            "芯片"
+          ]
+        },
+        {
+          "title": "OpenAI法律AI",
+          "summary": "OpenAI与Gilbert + Tobin合作法律AI",
+          "detail": "OpenAI与澳大利亚著名律所Gilbert + Tobin合作开发法律AI解决方案。这一合作标志着AI在法律领域的深入应用，可能变革传统法律服务模式。",
+          "usage": "💡 AI+法律\n💬 OpenAI与Gilbert + Tobin合作，法律AI要来了！\n🔥 OpenAI 法律AI",
+          "source": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "tags": [
+            "OpenAI",
+            "法律AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "ChatGPT Plus免费",
+          "summary": "2万退伍军人免费使用ChatGPT Plus",
+          "detail": "OpenAI宣布超过2万名退伍军人和现役军人已获得一年免费ChatGPT Plus资格。这一福利计划旨在帮助军人群体更好地适应AI时代，体现了AI技术的社会责任。",
+          "usage": "💡 AI福利\n💬 2万退伍军人免费使用ChatGPT Plus！\n🔥 ChatGPT Plus 退伍军人",
+          "source": "https://openai.com/index/chatgpt-plus-for-veterans",
+          "tags": [
+            "ChatGPT",
+            "退伍军人"
+          ]
+        },
+        {
+          "title": "Codex应用案例",
+          "summary": "Gondola利用Codex提高工程师产出",
+          "detail": "创意服务平台Gondola利用OpenAI的Codex技术，将其首席工程师产出提升了5倍。这一案例展示了AI代码生成工具在实际业务中的显著效率提升。",
+          "usage": "💡 代码生成\n💬 Gondola用Codex，工程师产出提升5倍！\n🔥 Codex Gondola",
+          "source": "https://openai.com/business/customer-stories/gondola",
+          "tags": [
+            "Codex",
+            "工程师"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "DeepSeek开放API",
+          "summary": "DeepSeek开放全家桶API",
+          "detail": "DeepSeek宣布开放其官方App所有功能的API，允许开发者自由组合调用。这一举措将极大促进AI应用生态的繁荣，预示着OpenAI之外的另一股AI力量崛起。",
+          "usage": "💡 AI生态系统\n💬 DeepSeek开放全家桶API，AI应用生态要爆发了！\n🔥 DeepSeek API",
+          "source": "https://www.qbitai.com/2026/11/510003.html",
+          "tags": [
+            "DeepSeek",
+            "API"
+          ]
+        },
+        {
+          "title": "ChatGPT钱包开源",
+          "summary": "ChatGPT Wallet开源计划曝光",
+          "detail": "ChatGPT Wallet的开源计划被曝光，未来可能允许开发者自定义AI购物代理的行为。这一消息引发业界热议，预示着AI钱包市场的潜在竞争局面。",
+          "usage": "💡 AI钱包\n💬 ChatGPT Wallet要开源，AI购物代理大战打响！\n🔥 ChatGPT Wallet 开源",
+          "source": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+          "tags": [
+            "ChatGPT",
+            "开源"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "湿实验预测基准",
+          "summary": "史上最严湿实验预测基准发布",
+          "detail": "斯坦福、哈佛、康奈尔等顶尖团队联合发布史上最严湿实验预测基准。该基准要求推理能力拉满，算力翻5倍也难以达标，标志着AI在生物实验预测领域的挑战升级。",
+          "usage": "💡 AI+生物\n💬 史上最严湿实验预测基准发布，AI挑战升级！\n🔥 湿实验 AI",
+          "source": "https://www.qbitai.com/2026/11/510232.html",
+          "tags": [
+            "湿实验",
+            "AI预测"
+          ]
+        },
+        {
+          "title": "中国AI芯片乌龙",
+          "summary": "中国最强AI模型用禁运芯片",
+          "detail": "最新研究显示，中国最先进的AI模型竟是使用禁运的Nvidia芯片训练的。这一发现引发了关于AI芯片供应链安全的热议，也暴露了中国AI产业的尴尬处境。",
+          "usage": "💡 AI芯片\n💬 中国最强AI模型用禁运Nvidia芯片训练！\n🔥 AI芯片 Nvidia",
+          "source": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+          "tags": [
+            "中国",
+            "AI芯片"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "AI初创投资危机",
+          "summary": "老黄离职引发AI初创投资危机",
+          "detail": "黄仁勋离职后，AI初创公司面临投资危机。Nvidia曾在黄领导下向AI初创投入数十亿美元，如今这一资金来源可能中断，AI创业生态或将面临重新洗牌。",
+          "usage": "💡 AI投资\n💬 老黄离职，AI初创投资危机来了！\n🔥 AI初创 投资",
+          "source": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+          "tags": [
+            "AI初创",
+            "投资"
+          ]
+        },
+        {
+          "title": "MEET2027嘉宾",
+          "summary": "MEET2027第二批嘉宾出炉",
+          "detail": "MEET2027峰会公布第二批嘉宾名单，涵盖AI4S、量子计算、AI基建等前沿领域。这一盛会将于12月9日在北京举行，预示着AI行业未来发展的新动向。",
+          "usage": "💡 AI峰会\n💬 MEET2027第二批嘉宾来了，AI前沿大咖齐集北京！\n🔥 MEET2027 AI",
+          "source": "https://www.qbitai.com/2026/11/509827.html",
+          "tags": [
+            "MEET2027",
+            "AI峰会"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-15T07:35:04.235Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3522,
+    "completion_tokens": 2715,
+    "total_tokens": 6237,
+    "cost_usd": 0.0036994833,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}
