@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "key": "2026-11-16-tech-weekend-evening",
+      "date": "2026-11-16",
+      "slot": "tech-weekend-evening",
+      "slot_label": "周末傍晚 · 家庭闲聊",
+      "generated_at": "2026-11-15T16:54:20.020Z",
+      "weekday": "星期日",
+      "file": "archive/2026-11-16-tech-weekend-evening.json",
+      "topic_count": 8,
+      "category_names": [
+        "今日头条",
+        "大佬动态",
+        "巨头动向",
+        "组织变动",
+        "前沿探索",
+        "新品发布",
+        "创业大戏",
+        "币圈风云"
+      ]
+    },
+    {
       "key": "2026-11-15-tech-weekend-morning",
       "date": "2026-11-15",
       "slot": "tech-weekend-morning",
@@ -2313,5 +2333,5 @@
       ]
     }
   ],
-  "updated_at": "2026-11-15T07:33:32.106Z"
+  "updated_at": "2026-11-15T16:54:20.032Z"
 }

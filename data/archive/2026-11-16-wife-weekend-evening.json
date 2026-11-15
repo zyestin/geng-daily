@@ -1,0 +1,59 @@
+{
+  "categories": [
+    {
+      "name": "🎬 追剧指南",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "张颂文的高启强",
+          "summary": "讨论一下张颂文的演技吧！",
+          "detail": "最近大家都在讨论《狂飙》里的张颂文，听说有人认为他根本不是高启强。不过，我觉得他演得好像很像一个‘家里有矿’的程序员，只是这矿没能开出来。你觉得呢？",
+          "usage": "💡 追剧时引入话题 \n💬 你觉得张颂文是高启强吗？我觉得他很像我加班时的样子，家里都没矿！ \n🔥 张颂文 演技",
+          "source": "https://m.baidu.com/s?word=%E5%BC%A0%E9%A2%82%E6%96%87%E5%8F%AF%E4%BB%A5%E4%B8%8D%E6%98%AF%E9%AB%98%E5%90%AF%E5%BC%BA%E5%90%97&sa=fyb_news",
+          "tags": [
+            "追剧",
+            "张颂文",
+            "剧评"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🍜 吃喝情报",
+      "icon": "🍜",
+      "items": [
+        {
+          "title": "超人气酸奶",
+          "summary": "酸奶界的爱马仕值得一试！",
+          "detail": "最近有个“酸奶界的爱马仕”，虽然卖不动但听说味道超棒，口感滑腻得像是小公主的梦。想象一下，喝上一口，灵魂都升华了，瞬间觉得自己变成了皇家奶茶的主人。咱们一起去试试吧？",
+          "usage": "💡 吃货聚会时引入 \n💬 听说有个酸奶界的爱马仕，咱们去试试？感觉喝了要飞起来了！ \n🔥 酸奶 网红",
+          "source": "https://m.baidu.com/s?word=%E2%80%9C%E9%85%B8%E5%A5%B6%E7%95%8C%E7%9A%84%E7%88%B1%E9%A9%AC%E4%BB%95%E2%80%9D%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news",
+          "tags": []
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-15T16:54:04.548Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 3254,
+    "completion_tokens": 2655,
+    "total_tokens": 5909,
+    "cost_usd": 0.0020811,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 14,
+      "published": 2
+    },
+    "sources": {
+      "per_source": {
+        "baidu": 20
+      },
+      "total": 15
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "Agent造反记",
+          "summary": "AI开始给自己发通行证",
+          "detail": "虎嗅报道，最新AI Agent已经能自己写代码、发邮件、操作浏览器，甚至调用支付接口。这货现在连权限都要自己给自己发，程序员们瑟瑟发抖：下次裁员通知怕不是AI自己写的？",
+          "usage": "💡 聊AI替代人类时抛出来\n💬 你们说AI给自己发工资的日子还远吗？\n🔥 AI Agent 自动化 程序员危机",
+          "src_id": 1,
+          "tags": [
+            "AI",
+            "自动化",
+            "程序员"
+          ],
+          "source": "https://www.huxiu.com/article/4905755.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "马斯克又鸽了",
+          "summary": "星舰发射再延期",
+          "detail": "原定今天的SpaceX星舰发射第N次推迟，马斯克推特发文'需要多拧几颗螺丝'。网友：这螺丝怕不是薛定谔的螺丝，不观测的时候永远拧不完。",
+          "usage": "💡 聊太空探索时用\n💬 马斯克的螺丝和贾跃亭的下周回国哪个更难等？\n🔥 马斯克 星舰 跳票王",
+          "src_id": "",
+          "tags": [
+            "马斯克",
+            "SpaceX",
+            "跳票"
+          ],
+          "source": ""
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "谷歌AI翻车",
+          "summary": "Bard答错APEC问题",
+          "detail": "谷歌AI助手Bard被扒在APEC相关问题上胡说八道，把亚太经合组织说成'亚洲企鹅保护联盟'。谷歌紧急下线该功能，网友：这波是人工智障实锤。",
+          "usage": "💡 聊AI缺点时甩出来\n💬 谷歌AI建议保护企鹅笑死\n🔥 谷歌 Bard AI翻车",
+          "src_id": 8,
+          "tags": [
+            "谷歌",
+            "AI",
+            "翻车"
+          ],
+          "source": "https://m.baidu.com/s?word=APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%9A%E8%AE%AE%E5%91%A8%E6%B4%BB%E5%8A%A8%E5%8D%87%E6%B8%A9&sa=fyb_news"
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "字节砍项目",
+          "summary": "教育线大裁员",
+          "detail": "字节跳动旗下大力教育被曝裁员30%，内部人称'大力出不了奇迹了'。还记得当年10万招老师的盛况吗？现在连网课都卷不动了。",
+          "usage": "💡 聊教培行业时用\n💬 字节：大力不一定出奇迹\n🔥 字节跳动 裁员 在线教育",
+          "src_id": "",
+          "tags": [
+            "字节跳动",
+            "裁员",
+            "教育"
+          ],
+          "source": ""
+        }
+      ]
+    },
+    {
+      "name": "前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "脑机新突破",
+          "summary": "猴子意念打游戏",
+          "detail": "Neuralink最新demo展示猴子靠意念玩乒乓游戏，马斯克吹嘘'明年人体实验'。网友：建议先给老板装上，测试下骂娘时会不会蓝屏。",
+          "usage": "💡 聊黑科技时抛梗\n💬 这技术适合上班摸鱼啊\n🔥 脑机接口 Neuralink 马斯克",
+          "src_id": "",
+          "tags": [
+            "脑机接口",
+            "Neuralink",
+            "黑科技"
+          ],
+          "source": ""
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "小米汽车谍照",
+          "summary": "真车还是PPT？",
+          "detail": "小米汽车最新路试图曝光，雷军亲自当司机测试。网友发现雨刮器是华为logo同款设计，建议改名叫'华米汽车'。价格竞猜已开到9.9万交个朋友档。",
+          "usage": "💡 聊造车新势力时用\n💬 雷总这波是要干翻保时捷？\n🔥 小米汽车 雷军 造车",
+          "src_id": "",
+          "tags": [
+            "小米",
+            "造车",
+            "雷军"
+          ],
+          "source": ""
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "爱马仕酸奶凉了",
+          "summary": "40元酸奶没人买",
+          "detail": "号称'酸奶界爱马仕'的某品牌被曝销量暴跌，40元一杯的酸奶终究败给了3块钱的老北京酸奶。网友：喝不起是我的问题吗？是它的问题！",
+          "usage": "💡 聊消费降级时用\n💬 建议改名叫酸奶界拼多多\n🔥 消费降级 网红品牌 酸奶",
+          "src_id": 4,
+          "tags": [
+            "消费",
+            "网红",
+            "酸奶"
+          ],
+          "source": "https://m.baidu.com/s?word=%E2%80%9C%E9%85%B8%E5%A5%B6%E7%95%8C%E7%9A%84%E7%88%B1%E9%A9%AC%E4%BB%95%E2%80%9D%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news"
+        }
+      ]
+    },
+    {
+      "name": "币圈风云",
+      "icon": "🪙",
+      "items": [
+        {
+          "title": "孙哥又整活",
+          "summary": "发币庆祝APEC",
+          "detail": "孙宇晨宣布发行APEC纪念币，白皮书写着'赋能实体经济'。网友查链上数据发现90%币都在他自己钱包，经典'我发币我自己买'。",
+          "usage": "💡 聊加密货币时玩梗\n💬 孙哥的币和贾会计的车谁先落地？\n🔥 孙宇晨 加密货币 割韭菜",
+          "src_id": 8,
+          "tags": [
+            "孙宇晨",
+            "加密货币",
+            "APEC"
+          ],
+          "source": "https://m.baidu.com/s?word=APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%9A%E8%AE%AE%E5%91%A8%E6%B4%BB%E5%8A%A8%E5%8D%87%E6%B8%A9&sa=fyb_news"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-15T16:54:20.020Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 4576,
+    "completion_tokens": 1322,
+    "total_tokens": 5898,
+    "cost_usd": 0.0025378038,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 1,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 13
+    }
+  }
+}
