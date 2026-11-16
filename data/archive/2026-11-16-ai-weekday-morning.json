@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "老黄被逼宫",
+          "summary": "英伟达员工逼宫黄仁勋",
+          "detail": "英伟达上演宫斗剧2.0，员工集体请愿要求黄仁勋回归。这位GPU教父辞职后，公司市值蒸发3万亿，连马斯克都带头联名请愿。现在显卡市场就像没了乔布斯的苹果——A100用户开始囤货，H100期货价格直接翻倍。",
+          "usage": "💡 同事聊显卡涨价时\n💬 黄仁勋一走，程序员们的显卡理财计划可以启动了\n🔥 英伟达 黄仁勋 显卡涨价",
+          "source": "https://www.qbitai.com/2026/11/510297.html",
+          "tags": [
+            "英伟达",
+            "管理层变动",
+            "GPU"
+          ]
+        },
+        {
+          "title": "DeepSeek全家桶",
+          "summary": "DeepSeek开放全系列API",
+          "detail": "DeepSeek突然开放全家桶API，所有官方App功能都能自由调用。这波操作直接把AI工具变成乐高积木——开发者现在可以像搭MOD一样组合代码补全、文档生成等功能。隔壁OpenAI的插件商店突然就不香了。",
+          "usage": "💡 讨论AI开发工具时\n💬 DeepSeek这API开放得，让程序员省了半年逆向工程\n🔥 DeepSeek API 开源",
+          "source": "https://www.qbitai.com/2026/11/510003.html",
+          "tags": [
+            "DeepSeek",
+            "API",
+            "开发者工具"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "标准模型突破",
+          "summary": "GPT-6参与物理研究",
+          "detail": "OpenAI放了个大卫星：GPT-6 Astra开始参与量子场论研究，尝试定义标准模型。现在物理学家要跟AI解释'你这个推导步骤不够优雅'——科学研究正式进入人类提需求，AI写论文的新纪元。",
+          "usage": "💡 聊AI科研应用时\n💬 诺奖得主们以后得先过代码review这关\n🔥 GPT-6 量子物理 OpenAI",
+          "source": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "tags": [
+            "GPT-6",
+            "量子物理",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "联想造Token",
+          "summary": "联想Token工厂投产",
+          "detail": "联想搞出个词元工厂，年产2000万亿Token不说，成本还暴降70%。这规模相当于让每个中国人都分到140万Token——以后大模型训练就像在义乌小商品市场批发算力。",
+          "usage": "💡 聊AI成本下降时\n💬 联想这是要把Token做成白菜价啊\n🔥 联想 Token工厂 成本优化",
+          "source": "https://www.qbitai.com/2026/11/510094.html",
+          "tags": [
+            "联想",
+            "Token",
+            "算力"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "马斯克联名",
+          "summary": "马斯克力挺黄仁勋",
+          "detail": "马斯克带头签署请愿书，要求英伟达董事会请回黄仁勋，目前已获11.5万个签名。评论区最损的梗：'这波是特斯拉车主帮老黄打call，毕竟显卡涨价直接影响自动驾驶研发'。",
+          "usage": "💡 聊科技大佬关系时\n💬 马斯克这次站队，堪比当年力挺比特币\n🔥 马斯克 黄仁勋 请愿",
+          "source": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+          "tags": [
+            "马斯克",
+            "黄仁勋",
+            "英伟达"
+          ]
+        },
+        {
+          "title": "SNL吐槽大会",
+          "summary": "科技大佬集体被玩梗",
+          "detail": "周六夜现场最新集把科技巨头们拉来上恋爱课，硅谷大佬们的尴尬名场面被做成表情包疯狂传播。最绝的是模仿黄仁勋用显卡跑分数据来证明自己'持久力'的段子。",
+          "usage": "💡 聊科技圈娱乐化时\n💬 建议英伟达下次发布会直接找SNL编剧\n🔥 SNL 科技大佬 玩梗",
+          "source": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+          "tags": [
+            "SNL",
+            "黄仁勋",
+            "科技娱乐"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "苹果医疗AI",
+          "summary": "苹果推出医疗研究app",
+          "detail": "苹果悄悄上线医疗AI研究app，要收集普通人怎么用AI解决健康问题。这操作相当于在Apple Watch里塞了个AI家庭医生——以后熬夜写代码时会先收到健康警告，再推送咖啡店优惠券。",
+          "usage": "💡 聊可穿戴设备时\n💬 果子的健康闭环生态，现在连AI问诊都要管\n🔥 苹果 医疗AI 健康监测",
+          "source": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+          "tags": [
+            "苹果",
+            "医疗AI",
+            "健康数据"
+          ]
+        },
+        {
+          "title": "Shield接盘侠",
+          "summary": "AI接手老旧系统维护",
+          "detail": "Shield公司用OpenAI搞了个遗产系统接盘侠，AI能自动操作那些连说明书都找不到的老旧ERP系统。IT运维小哥们终于不用再为二十年前的VB代码掉头发了。",
+          "usage": "💡 吐槽遗留系统时\n💬 这下真·数字考古了，AI都得学Win98操作\n🔥 遗产系统 AI运维 OpenAI",
+          "source": "https://openai.com/business/customer-stories/shield",
+          "tags": [
+            "遗留系统",
+            "IT运维",
+            "OpenAI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "ChatGPT钱包",
+          "summary": "OpenAI推出数字钱包",
+          "detail": "OpenAI给ChatGPT装上了数字钱包，AI助手现在能自主完成购物、付费咨询等操作。最骚的是支持'先干活后付款'模式——你的AI助理可能比你先负债。",
+          "usage": "💡 聊AI商业化时\n💬 建议给AI设个花呗额度，防止它自己买服务器\n🔥 ChatGPT 数字钱包 自主消费",
+          "source": "https://openai.com/index/introducing-chatgpt-wallet",
+          "tags": [
+            "ChatGPT",
+            "数字钱包",
+            "AI支付"
+          ]
+        },
+        {
+          "title": "Amplitude神速",
+          "summary": "AI两天迭代一个功能",
+          "detail": "Amplitude爆料他们用OpenAI做到1-2天上线一个新功能，产品经理们连夜修改简历——现在连'敏捷开发'都显得太慢了，得改叫'AI速通开发'。",
+          "usage": "💡 吐槽开发周期时\n💬 以后周报怎么写？'本周AI自动提交了35个PR'\n🔥 敏捷开发 OpenAI 快速迭代",
+          "source": "https://openai.com/business/customer-stories/amplitude",
+          "tags": [
+            "敏捷开发",
+            "产品迭代",
+            "OpenAI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "印度芯势力",
+          "summary": "Bharat Semi获融资",
+          "detail": "印度芯片初创Bharat Semi拿下2400万美元种子轮，专攻AI传感器芯片。评论区印度网友已经开始畅想'我们造的芯片终于不用先运到中国组装了'。",
+          "usage": "💡 聊芯片国产化时\n💬 莫迪老仙的芯片梦，这次好像真有戏？\n🔥 印度芯片 半导体 AI传感器",
+          "source": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "tags": [
+            "印度芯片",
+            "半导体",
+            "初创企业"
+          ]
+        },
+        {
+          "title": "AI坟场清单",
+          "summary": "TechCrunch整理AI失败项目",
+          "detail": "TechCrunch搞了个AI坟场专题，收录了从苹果难产的Siri到OpenAI翻车的超级应用等失败案例。最惨的是某个AI婚恋项目，因为总推荐用户'和Siri结婚'被下架。",
+          "usage": "💡 聊AI泡沫时\n💬 建议AI产品经理必修课：考古这些墓碑\n🔥 AI失败案例 产品教训 泡沫",
+          "source": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "tags": [
+            "失败案例",
+            "AI泡沫",
+            "产品设计"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "湿实验基准",
+          "summary": "全球首个生物实验AI基准发布",
+          "detail": "斯坦福领衔发布首个湿实验预测基准，结果连算力翻5倍的AI都栽了。现在搞生物信息学就像教AI玩化学版《羊了个羊》——明明看着就两步，AI死活通不了关。",
+          "usage": "💡 聊AI局限性时\n💬 建议AI先学会洗试管再谈改造人类\n🔥 生物实验 AI基准 斯坦福",
+          "source": "https://www.qbitai.com/2026/11/510232.html",
+          "tags": [
+            "生物实验",
+            "AI基准",
+            "斯坦福"
+          ]
+        },
+        {
+          "title": "儿童AI安全",
+          "summary": "OpenAI砸200万研究儿童安全",
+          "detail": "OpenAI豪掷200万美元研究儿童AI安全，重点防范'帮我写作业'这类需求。家长们纷纷表示：先把'查重系统识别不了AI作文'这个bug修了吧。",
+          "usage": "💡 聊AI伦理时\n💬 建议同步研发AI家长，专门对付AI作业代写\n🔥 儿童安全 AI伦理 OpenAI",
+          "source": "https://openai.com/index/children-first-declaration",
+          "tags": [
+            "AI伦理",
+            "儿童安全",
+            "OpenAI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "亚洲芯震荡",
+          "summary": "多国紧急评估老黄离职影响",
+          "detail": "黄仁勋刚走，亚洲多国就开始核查芯片供应协议。韩国最逗，一边说着'影响可控'，一边偷偷派人去台湾省看台积电脸色。",
+          "usage": "💡 聊供应链安全时\n💬 这波是硅基生物们的地缘政治学\n🔥 芯片供应链 英伟达 亚洲市场",
+          "source": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+          "tags": [
+            "芯片",
+            "供应链",
+            "地缘政治"
+          ]
+        },
+        {
+          "title": "折纸飞机大赛",
+          "summary": "程序员沉迷纸飞机优化",
+          "detail": "最新程序员迷惑行为：全球码农集体研究纸飞机空气动力学，当前纪录31.2秒。GitHub最新趋势榜已被'如何用TensorFlow优化折纸角度'屠版。",
+          "usage": "💡 聊程序员副业时\n💬 建议下次面试题：现场折个能悬停30秒的纸飞机\n🔥 纸飞机 程序员 空气动力学",
+          "source": "https://www.qbitai.com/2026/11/510150.html",
+          "tags": [
+            "程序员",
+            "纸飞机",
+            "优化算法"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-16T03:06:13.054Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3495,
+    "completion_tokens": 2896,
+    "total_tokens": 6391,
+    "cost_usd": 0.0038787282,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

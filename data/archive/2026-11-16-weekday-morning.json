@@ -1,0 +1,199 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "React 19 特性",
+          "summary": "React 19 新特性预览",
+          "detail": "React 19 即将发布，新特性包括对异步组件支持、更好数据缓存机制和新的渲染器优化。",
+          "usage": "React 19 快发布了，听说会支持异步组件，到时候性能应该会提升不少。",
+          "source": "",
+          "tags": [
+            "React",
+            "前端"
+          ]
+        },
+        {
+          "title": "SvelteKit 1.0",
+          "summary": "SvelteKit 正式版发布",
+          "detail": "SvelteKit 1.0 正式发布，带来更好的开发者体验和性能优化，支持 SSR 和 SSG。",
+          "usage": "SvelteKit 1.0 终于发布了，SSR 和 SSG 支持得挺好，感觉可以试试。",
+          "source": "",
+          "tags": [
+            "Svelte",
+            "前端"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN 新架构",
+          "summary": "React Native 新架构优化",
+          "detail": "React Native 新架构 Fabric 和 TurboModules 带来更好的性能和开发体验。",
+          "usage": "RN 的新架构 Fabric 听说性能提升很大，特别是启动速度。",
+          "source": "",
+          "tags": [
+            "React Native",
+            "跨端"
+          ]
+        },
+        {
+          "title": "RN 热更新",
+          "summary": "React Native 热更新方案",
+          "detail": "最近有团队实现了 React Native 的热更新方案，无需重新打包即可更新应用。",
+          "usage": "RN 热更新现在有了新方案，不用重新打包，感觉挺方便的。",
+          "source": "",
+          "tags": [
+            "React Native",
+            "优化"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "AI 生成 UI",
+          "summary": "AI 自动生成 UI 设计",
+          "detail": "AI 现在可以自动生成 UI 设计，开发者只需提供简单的描述或草图即可生成完整界面。",
+          "usage": "现在 AI 生成 UI 设计越来越智能了，简单描述就能出完整界面。",
+          "source": "",
+          "tags": [
+            "AI",
+            "UI"
+          ]
+        },
+        {
+          "title": "AI 辅助测试",
+          "summary": "AI 自动生成测试用例",
+          "detail": "AI 辅助测试工具可以自动生成测试用例，提升测试效率和覆盖率。",
+          "usage": "AI 辅助测试工具现在可以自动生成测试用例，覆盖率还挺高的。",
+          "source": "",
+          "tags": [
+            "AI",
+            "测试"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "TS 5.3 新特性",
+          "summary": "TypeScript 5.3 新特性预览",
+          "detail": "TypeScript 5.3 即将发布，带来更好的类型推断和模块解析支持。",
+          "usage": "TS 5.3 快发布了，类型推断和模块解析支持得更好，期待一下。",
+          "source": "",
+          "tags": [
+            "TypeScript",
+            "前端"
+          ]
+        },
+        {
+          "title": "Bun 1.1",
+          "summary": "Bun 1.1 发布",
+          "detail": "Bun 1.1 发布，带来更好的性能和兼容性，支持更多的 Node.js API。",
+          "usage": "Bun 1.1 发布了，性能和兼容性都有提升，特别是对 Node.js API 的支持。",
+          "source": "",
+          "tags": [
+            "Bun",
+            "前端"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "Univer Office",
+          "summary": "Univer Office SDK 开源",
+          "detail": "Univer Office SDK 开源，开发者可以构建自己的 AI 办公应用，支持编辑、计算和协作。",
+          "usage": "Univer Office SDK 开源了，可以自己构建 AI 办公应用，功能还挺全的。",
+          "source": "https://github.com/dream-num/univer",
+          "tags": [
+            "开源",
+            "AI"
+          ]
+        },
+        {
+          "title": "LoopForge",
+          "summary": "LoopForge 开源",
+          "detail": "腾讯开源的 LoopForge，支持自托管工作流，可用于 AI 代码交付。",
+          "usage": "LoopForge 开源了，支持自托管工作流，AI 代码交付挺方便的。",
+          "source": "https://github.com/Tencent/LoopForge",
+          "tags": [
+            "开源",
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "程序员折纸飞机",
+          "summary": "程序员集体沉迷折纸飞机",
+          "detail": "程序员们最近沉迷于折纸飞机，最长滞空记录达到 31.2 秒。",
+          "usage": "程序员们最近都在折纸飞机，最长滞空记录 31.2 秒，童年乐趣又回来了。",
+          "source": "https://www.qbitai.com/2026/11/510150.html",
+          "tags": [
+            "程序员",
+            "趣味"
+          ]
+        },
+        {
+          "title": "MacBook OLED PWM 问题",
+          "summary": "MacBook Pro OLED PWM 问题",
+          "detail": "MacBook Pro OLED 屏幕的 PWM 调光问题导致部分用户眼睛不适，引发争议。",
+          "usage": "MacBook Pro OLED 屏幕的 PWM 调光问题最近挺火的，有些人眼睛不舒服。",
+          "source": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+          "tags": [
+            "MacBook",
+            "硬件"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-16T02:59:28.331Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2102,
+    "completion_tokens": 1401,
+    "total_tokens": 3503,
+    "cost_usd": 0.0019822635000000003,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}

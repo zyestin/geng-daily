@@ -1,184 +1,199 @@
 {
   "categories": [
     {
-      "name": "时事热点",
-      "icon": "📰",
+      "name": "前端框架",
+      "icon": "🚀",
       "items": [
         {
-          "title": "全球气候峰会",
-          "summary": "2026年全球气候峰会在巴黎召开",
-          "detail": "2026年全球气候峰会在巴黎召开，各国领导人齐聚一堂，商讨应对气候变化的策略。中国承诺在2030年前实现碳达峰，2060年前实现碳中和。",
-          "usage": "你知道今年的全球气候峰会吗？中国承诺2060年前实现碳中和，这对我们的生活会有很大影响。",
-          "source": "https://www.un.org/climatechange",
+          "title": "React 19 特性",
+          "summary": "React 19 新特性预览",
+          "detail": "React 19 即将发布，新特性包括对异步组件支持、更好数据缓存机制和新的渲染器优化。",
+          "usage": "React 19 快发布了，听说会支持异步组件，到时候性能应该会提升不少。",
+          "source": "",
           "tags": [
-            "气候峰会",
-            "碳中和"
+            "React",
+            "前端"
           ]
         },
         {
-          "title": "AI新政策",
-          "summary": "政府发布AI发展新政策",
-          "detail": "政府发布了关于人工智能发展的新政策，鼓励企业加大研发投入，同时加强对AI伦理的监管。",
-          "usage": "最近政府发布了AI发展的新政策，你觉得这对我们这行会有啥影响？",
-          "source": "https://www.gov.cn",
+          "title": "SvelteKit 1.0",
+          "summary": "SvelteKit 正式版发布",
+          "detail": "SvelteKit 1.0 正式发布，带来更好的开发者体验和性能优化，支持 SSR 和 SSG。",
+          "usage": "SvelteKit 1.0 终于发布了，SSR 和 SSG 支持得挺好，感觉可以试试。",
+          "source": "",
           "tags": [
-            "AI政策",
-            "科技"
+            "Svelte",
+            "前端"
           ]
         }
       ]
     },
     {
-      "name": "儿童教育",
-      "icon": "📚",
+      "name": "React Native",
+      "icon": "📱",
       "items": [
         {
-          "title": "双减新进展",
-          "summary": "双减政策实施一年半",
-          "detail": "双减政策实施一年半，学校作业量减少，课外培训机构大幅缩减，家长和学生的压力有所缓解。",
-          "usage": "双减政策实施一年半了，你觉得孩子压力真的减轻了吗？",
-          "source": "https://www.moe.gov.cn",
+          "title": "RN 新架构",
+          "summary": "React Native 新架构优化",
+          "detail": "React Native 新架构 Fabric 和 TurboModules 带来更好的性能和开发体验。",
+          "usage": "RN 的新架构 Fabric 听说性能提升很大，特别是启动速度。",
+          "source": "",
           "tags": [
-            "双减",
-            "教育"
+            "React Native",
+            "跨端"
           ]
         },
         {
-          "title": "STEM教育",
-          "summary": "STEM教育成为主流",
-          "detail": "STEM教育（科学、技术、工程、数学）逐渐成为小学教育的主流，许多学校开设相关课程，培养孩子的创新思维。",
-          "usage": "现在STEM教育越来越火，你觉得这对孩子未来发展有帮助吗？",
-          "source": "https://www.education.gov",
+          "title": "RN 热更新",
+          "summary": "React Native 热更新方案",
+          "detail": "最近有团队实现了 React Native 的热更新方案，无需重新打包即可更新应用。",
+          "usage": "RN 热更新现在有了新方案，不用重新打包，感觉挺方便的。",
+          "source": "",
           "tags": [
-            "STEM",
-            "教育"
+            "React Native",
+            "优化"
           ]
         }
       ]
     },
     {
-      "name": "生活妙招",
-      "icon": "💡",
+      "name": "AI编程",
+      "icon": "🤖",
       "items": [
         {
-          "title": "冰箱除味",
-          "summary": "小苏打除冰箱异味",
-          "detail": "小苏打是天然的除味剂，将小苏打放入冰箱可以有效去除异味，保持冰箱清新。",
-          "usage": "你知道吗？小苏打可以除冰箱异味，我试了效果还不错。",
+          "title": "AI 生成 UI",
+          "summary": "AI 自动生成 UI 设计",
+          "detail": "AI 现在可以自动生成 UI 设计，开发者只需提供简单的描述或草图即可生成完整界面。",
+          "usage": "现在 AI 生成 UI 设计越来越智能了，简单描述就能出完整界面。",
           "source": "",
           "tags": [
-            "冰箱",
-            "除味"
+            "AI",
+            "UI"
           ]
         },
         {
-          "title": "快速解冻",
-          "summary": "盐水快速解冻法",
-          "detail": "将冷冻食品放入盐水中，可以加快解冻速度，节省时间。",
-          "usage": "我最近学到用盐水快速解冻的方法，真是省了不少时间。",
+          "title": "AI 辅助测试",
+          "summary": "AI 自动生成测试用例",
+          "detail": "AI 辅助测试工具可以自动生成测试用例，提升测试效率和覆盖率。",
+          "usage": "AI 辅助测试工具现在可以自动生成测试用例，覆盖率还挺高的。",
           "source": "",
           "tags": [
-            "解冻",
-            "烹饪"
+            "AI",
+            "测试"
           ]
         }
       ]
     },
     {
-      "name": "乒乓球",
-      "icon": "🏓",
+      "name": "TS & JS",
+      "icon": "📘",
       "items": [
         {
-          "title": "WTT总决赛",
-          "summary": "WTT总决赛即将开赛",
-          "detail": "2026年WTT总决赛即将在中国举行，国乒队员正在积极备战，力争夺冠。",
-          "usage": "WTT总决赛快开始了，你觉得这次国乒能拿几个冠军？",
-          "source": "https://www.wtt.tv",
+          "title": "TS 5.3 新特性",
+          "summary": "TypeScript 5.3 新特性预览",
+          "detail": "TypeScript 5.3 即将发布，带来更好的类型推断和模块解析支持。",
+          "usage": "TS 5.3 快发布了，类型推断和模块解析支持得更好，期待一下。",
+          "source": "",
           "tags": [
-            "WTT",
-            "乒乓球"
+            "TypeScript",
+            "前端"
           ]
         },
         {
-          "title": "新球拍发布",
-          "summary": "某品牌发布新款乒乓球拍",
-          "detail": "某知名品牌发布了新款乒乓球拍，采用新材料，提升了球拍的弹性和控制性。",
-          "usage": "听说某品牌出了新款乒乓球拍，你有兴趣试试吗？",
+          "title": "Bun 1.1",
+          "summary": "Bun 1.1 发布",
+          "detail": "Bun 1.1 发布，带来更好的性能和兼容性，支持更多的 Node.js API。",
+          "usage": "Bun 1.1 发布了，性能和兼容性都有提升，特别是对 Node.js API 的支持。",
           "source": "",
           "tags": [
-            "球拍",
-            "乒乓球"
+            "Bun",
+            "前端"
           ]
         }
       ]
     },
     {
-      "name": "热门影视",
-      "icon": "🎬",
+      "name": "开源热门",
+      "icon": "🌟",
       "items": [
         {
-          "title": "《星际穿越2》",
-          "summary": "《星际穿越2》即将上映",
-          "detail": "备受期待的《星际穿越2》即将在全球上映，延续了第一部的科幻剧情，观众期待值爆棚。",
-          "usage": "《星际穿越2》快上映了，要不要一起去看？",
-          "source": "https://www.imdb.com",
+          "title": "Univer Office",
+          "summary": "Univer Office SDK 开源",
+          "detail": "Univer Office SDK 开源，开发者可以构建自己的 AI 办公应用，支持编辑、计算和协作。",
+          "usage": "Univer Office SDK 开源了，可以自己构建 AI 办公应用，功能还挺全的。",
+          "source": "https://github.com/dream-num/univer",
           "tags": [
-            "星际穿越",
-            "电影"
+            "开源",
+            "AI"
           ]
         },
         {
-          "title": "《熊出没8》",
-          "summary": "《熊出没8》火热上映",
-          "detail": "《熊出没8》在全国各大影院火热上映，吸引了大量家庭观众，票房表现不俗。",
-          "usage": "周末带孩子去看《熊出没8》吧，听说很好看。",
-          "source": "https://www.douban.com",
+          "title": "LoopForge",
+          "summary": "LoopForge 开源",
+          "detail": "腾讯开源的 LoopForge，支持自托管工作流，可用于 AI 代码交付。",
+          "usage": "LoopForge 开源了，支持自托管工作流，AI 代码交付挺方便的。",
+          "source": "https://github.com/Tencent/LoopForge",
           "tags": [
-            "熊出没",
-            "动画"
+            "开源",
+            "AI"
           ]
         }
       ]
     },
     {
-      "name": "健康养生",
-      "icon": "🥗",
+      "name": "开发者梗",
+      "icon": "😄",
       "items": [
         {
-          "title": "冬季养生",
-          "summary": "冬季养生小贴士",
-          "detail": "冬季养生要注意保暖，多吃温热食物，如姜茶、红枣等，增强抵抗力。",
-          "usage": "冬季到了，你平时都吃些什么来养生？我听说姜茶效果不错。",
-          "source": "",
+          "title": "程序员折纸飞机",
+          "summary": "程序员集体沉迷折纸飞机",
+          "detail": "程序员们最近沉迷于折纸飞机，最长滞空记录达到 31.2 秒。",
+          "usage": "程序员们最近都在折纸飞机，最长滞空记录 31.2 秒，童年乐趣又回来了。",
+          "source": "https://www.qbitai.com/2026/11/510150.html",
           "tags": [
-            "冬季",
-            "养生"
+            "程序员",
+            "趣味"
           ]
         },
         {
-          "title": "家庭健身",
-          "summary": "家庭健身新潮流",
-          "detail": "越来越多的人选择在家进行健身，使用智能健身设备，方便又高效。",
-          "usage": "最近在家健身很流行，你有尝试过吗？我觉得挺方便的。",
-          "source": "",
+          "title": "MacBook OLED PWM 问题",
+          "summary": "MacBook Pro OLED PWM 问题",
+          "detail": "MacBook Pro OLED 屏幕的 PWM 调光问题导致部分用户眼睛不适，引发争议。",
+          "usage": "MacBook Pro OLED 屏幕的 PWM 调光问题最近挺火的，有些人眼睛不舒服。",
+          "source": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
           "tags": [
-            "健身",
-            "家庭"
+            "MacBook",
+            "硬件"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-15T16:46:22.956Z",
-  "slot": "weekend-evening",
-  "slot_label": "周末傍晚 · 家庭闲聊",
+  "generated_at": "2026-11-16T02:59:28.331Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 773,
-    "completion_tokens": 1313,
-    "total_tokens": 2086,
-    "cost_usd": 0.0015496533,
-    "free": false
+    "prompt_tokens": 2102,
+    "completion_tokens": 1401,
+    "total_tokens": 3503,
+    "cost_usd": 0.0019822635000000003,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
   }
 }
