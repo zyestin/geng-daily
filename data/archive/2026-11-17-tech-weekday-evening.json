@@ -1,0 +1,100 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "中美AI限制令",
+          "summary": "美国商务部突然收紧AI出口管制",
+          "detail": "在中美峰会前夕，美国商务部突然推出针对中国AI行业的限制措施，禁止部分高端AI芯片出口，试图遏制中国AI发展。各大科技公司连夜开会讨论对策，国内厂商已经开始紧急寻找替代方案。这波操作堪称'科技冷战'的最新续集。",
+          "usage": "💡 中美科技摩擦新动向\n💬 美国商务部突然对华AI芯片限售，这是要打科技战的节奏？\n🔥 AI芯片 出口管制 科技冷战",
+          "src_id": 1,
+          "tags": [
+            "AI",
+            "中美贸易",
+            "芯片"
+          ],
+          "source": "https://www.huxiu.com/article/4906095.html?f=rss"
+        },
+        {
+          "title": "元首会晤暗流",
+          "summary": "中俄美元首历史首次三方会面",
+          "detail": "APEC峰会期间，中俄美元首将进行历史性的首次三方面对面会晤。科技圈人士关注的是：在全球科技脱钩的大背景下，这次会晤能否带来科技合作的新转机？外媒称美国可能会就AI监管等议题施压。",
+          "usage": "💡 国际关系影响科技政策\n💬 这三国元首首次坐在一起，科技圈的分裂会因此改变吗？\n🔥 元首峰会 科技博弈 地缘政治",
+          "src_id": 7,
+          "tags": [
+            "国际关系",
+            "APEC",
+            "科技政策"
+          ],
+          "source": "https://www.toutiao.com/trending/7707529746686709289/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707529746686709289%22%2C%22hot_board_impr_id%22%3A%22202611170354251E2EDAA1F033F5154DCC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%B0%86%E9%A6%96%E6%AC%A1%E9%9D%A2%E5%AF%B9%E9%9D%A2%E4%BC%9A%E6%99%A4%22%7D&rank=&style_id=40132&topic_id=7707529746686709289"
+        }
+      ]
+    },
+    {
+      "name": "前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "机器人新浪潮",
+          "summary": "深圳机器人密度超发达国家",
+          "detail": "据俄罗斯记者实地探访，深圳街头遇见机器人的概率比遇见同乡还高。从快递机器人到巡逻机器人，深圳已实现每万人机器人保有量超过美日等发达国家。",
+          "usage": "💡 中国机器人发展迅猛\n💬 在深圳遇到机器人的概率比遇到老乡还高，这很赛博朋克\n🔥 深圳 机器人 智能化",
+          "src_id": 14,
+          "tags": [
+            "机器人",
+            "深圳",
+            "智能化"
+          ],
+          "source": "https://m.baidu.com/s?word=%E4%BF%84%E5%A5%B3%E8%AE%B0%E8%80%85%EF%BC%9A%E6%B7%B1%E5%9C%B3%E8%A7%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A6%82%E7%8E%87%E6%AF%94%E8%80%81%E4%B9%A1%E9%AB%98&sa=fyb_news"
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "AI初创翻车",
+          "summary": "明星AI公司陷入财务危机",
+          "detail": "曾估值10亿美元的AI初创公司Revolut陷入财务危机，2000名工程师团队面临裁员。业内人士吐槽：'烧钱搞大模型，却找不到落地场景，迟早要完'。",
+          "usage": "💡 AI泡沫开始破裂\n💬 又一AI独角兽要凉？烧钱容易赚钱难\n🔥 AI初创 融资危机 大模型",
+          "src_id": 4,
+          "tags": [
+            "AI",
+            "初创公司",
+            "融资"
+          ],
+          "source": "https://www.huxiu.com/article/4906090.html?f=rss"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-16T19:58:44.397Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 5008,
+    "completion_tokens": 2484,
+    "total_tokens": 7492,
+    "cost_usd": 0.00384435,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 12,
+      "published": 4
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 5,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 17
+    }
+  }
+}

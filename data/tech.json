@@ -5,117 +5,30 @@
       "icon": "📰",
       "items": [
         {
-          "title": "Anthropic IPO",
-          "summary": "Anthropic超级IPO本周启动",
-          "detail": "Anthropic的超级IPO即将登陆市场，这次IPO被视为AI投资主题的重要风向标。虽然英伟达首席执行官黄仁勋上周突然辞职，但美股AI板块仍展现出惊人韧性。Anthropic此次IPO能否再次掀起AI投资热潮，市场拭目以待。\n\n💡 股市热门话题切入\n💬 Anthropic的IPO来了，AI板块又要热了！\n🔥 Anthropic IPO AI投资",
-          "usage": "💡 股市热门话题切入\n💬 Anthropic的IPO来了，AI板块又要热了！\n🔥 Anthropic IPO AI投资",
-          "source": "https://www.huxiu.com/article/4905808.html?f=rss",
+          "title": "中美AI限制令",
+          "summary": "美国商务部突然收紧AI出口管制",
+          "detail": "在中美峰会前夕，美国商务部突然推出针对中国AI行业的限制措施，禁止部分高端AI芯片出口，试图遏制中国AI发展。各大科技公司连夜开会讨论对策，国内厂商已经开始紧急寻找替代方案。这波操作堪称'科技冷战'的最新续集。",
+          "usage": "💡 中美科技摩擦新动向\n💬 美国商务部突然对华AI芯片限售，这是要打科技战的节奏？\n🔥 AI芯片 出口管制 科技冷战",
+          "src_id": 1,
           "tags": [
-            "Anthropic",
-            "IPO",
-            "AI"
-          ]
+            "AI",
+            "中美贸易",
+            "芯片"
+          ],
+          "source": "https://www.huxiu.com/article/4906095.html?f=rss"
         },
         {
-          "title": "APEC深圳会晤",
-          "summary": "习近平将同普京特朗普在深圳会晤",
-          "detail": "11月18日至19日，习近平将同普京、特朗普在深圳举行三方会晤，这一会晤将如何影响国际秩序，成为全球关注的焦点。亚太经合组织（APEC）第三十三次会议前夕，各国智库纷纷研判此次会晤的可能结果。\n\n💡 国际政治热点切入\n💬 习普特深圳会晤，全球瞩目！\n🔥 APEC 深圳会晤 国际秩序",
-          "usage": "💡 国际政治热点切入\n💬 习普特深圳会晤，全球瞩目！\n🔥 APEC 深圳会晤 国际秩序",
-          "source": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%BC%9A%E6%99%A4&sa=fyb_news",
+          "title": "元首会晤暗流",
+          "summary": "中俄美元首历史首次三方会面",
+          "detail": "APEC峰会期间，中俄美元首将进行历史性的首次三方面对面会晤。科技圈人士关注的是：在全球科技脱钩的大背景下，这次会晤能否带来科技合作的新转机？外媒称美国可能会就AI监管等议题施压。",
+          "usage": "💡 国际关系影响科技政策\n💬 这三国元首首次坐在一起，科技圈的分裂会因此改变吗？\n🔥 元首峰会 科技博弈 地缘政治",
+          "src_id": 7,
           "tags": [
+            "国际关系",
             "APEC",
-            "深圳会晤",
-            "国际秩序"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "大佬动态",
-      "icon": "🎤",
-      "items": [
-        {
-          "title": "黄仁勋辞职",
-          "summary": "黄仁勋突然辞职",
-          "detail": "英伟达首席执行官黄仁勋上周突然辞职，这一消息震惊了整个科技圈。黄仁勋作为AI芯片领域的领军人物，他的离职无疑对英伟达乃至整个AI板块产生了重大影响。市场普遍关注继任者能否延续黄仁勋的辉煌业绩。\n\n💡 人事变动热点切入\n💬 黄仁勋辞职，AI芯片板块震荡！\n🔥 黄仁勋 辞职 英伟达",
-          "usage": "💡 人事变动热点切入\n💬 黄仁勋辞职，AI芯片板块震荡！\n🔥 黄仁勋 辞职 英伟达",
-          "source": "https://www.huxiu.com/article/4905808.html?f=rss",
-          "tags": [
-            "黄仁勋",
-            "辞职",
-            "英伟达"
-          ]
-        },
-        {
-          "title": "黄仁勋美国梦",
-          "summary": "黄仁勋的移民故事",
-          "detail": "黄仁勋5岁前的时光在中国台湾度过，之后随家人移民美国，开启了他的“美国梦”。黄仁勋的父亲黄兴泰毕业于成功大学化学工程系，是美国开利空调公司的工程师。黄仁勋的成功故事激励了无数移民少年。\n\n💡 励志故事切入\n💬 黄仁勋的移民故事，激励无数人！\n🔥 黄仁勋 移民 美国梦",
-          "usage": "💡 励志故事切入\n💬 黄仁勋的移民故事，激励无数人！\n🔥 黄仁勋 移民 美国梦",
-          "source": "https://www.huxiu.com/article/4905814.html?f=rss",
-          "tags": [
-            "黄仁勋",
-            "移民",
-            "美国梦"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "巨头动向",
-      "icon": "🏢",
-      "items": [
-        {
-          "title": "Anthropic IPO",
-          "summary": "Anthropic超级IPO本周启动",
-          "detail": "Anthropic的超级IPO即将登陆市场，这次IPO被视为AI投资主题的重要风向标。虽然英伟达首席执行官黄仁勋上周突然辞职，但美股AI板块仍展现出惊人韧性。Anthropic此次IPO能否再次掀起AI投资热潮，市场拭目以待。\n\n💡 股市热门话题切入\n💬 Anthropic的IPO来了，AI板块又要热了！\n🔥 Anthropic IPO AI投资",
-          "usage": "💡 股市热门话题切入\n💬 Anthropic的IPO来了，AI板块又要热了！\n🔥 Anthropic IPO AI投资",
-          "source": "https://www.huxiu.com/article/4905808.html?f=rss",
-          "tags": [
-            "Anthropic",
-            "IPO",
-            "AI"
-          ]
-        },
-        {
-          "title": "光伏装机",
-          "summary": "光伏新增装机下滑",
-          "detail": "2026年前三季度，全国光伏新增装机110.83GW，同比下滑53.9%。但Q3单季装机38.76GW，同比增长38%，9月装机量有所回升。光伏行业的“结构性修复”成为市场关注焦点。\n\n💡 新能源热点切入\n💬 光伏装机下滑，但Q3有所回升！\n🔥 光伏装机 结构性修复",
-          "usage": "💡 新能源热点切入\n💬 光伏装机下滑，但Q3有所回升！\n🔥 光伏装机 结构性修复",
-          "source": "https://www.huxiu.com/article/4905826.html?f=rss",
-          "tags": [
-            "光伏装机",
-            "结构性修复"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "组织变动",
-      "icon": "🔀",
-      "items": [
-        {
-          "title": "黄仁勋辞职",
-          "summary": "黄仁勋突然辞职",
-          "detail": "英伟达首席执行官黄仁勋上周突然辞职，这一消息震惊了整个科技圈。黄仁勋作为AI芯片领域的领军人物，他的离职无疑对英伟达乃至整个AI板块产生了重大影响。市场普遍关注继任者能否延续黄仁勋的辉煌业绩。\n\n💡 人事变动热点切入\n💬 黄仁勋辞职，AI芯片板块震荡！\n🔥 黄仁勋 辞职 英伟达",
-          "usage": "💡 人事变动热点切入\n💬 黄仁勋辞职，AI芯片板块震荡！\n🔥 黄仁勋 辞职 英伟达",
-          "source": "https://www.huxiu.com/article/4905808.html?f=rss",
-          "tags": [
-            "黄仁勋",
-            "辞职",
-            "英伟达"
-          ]
-        },
-        {
-          "title": "医保创新药",
-          "summary": "医保局给创新药算总账",
-          "detail": "国家医保局医药服务管理司司长黄心宇透露，今年有些药企承诺开展真实世界研究并完成备案，因此在医保谈判中获得了一定的优惠。医保局开始给创新药算总账，市场关注这一政策能否推动创新药的发展。\n\n💡 医药政策热点切入\n💬 医保局给创新药算总账，药企压力山大！\n🔥 医保局 创新药 真实世界研究",
-          "usage": "💡 医药政策热点切入\n💬 医保局给创新药算总账，药企压力山大！\n🔥 医保局 创新药 真实世界研究",
-          "source": "https://www.huxiu.com/article/4905824.html?f=rss",
-          "tags": [
-            "医保局",
-            "创新药",
-            "真实世界研究"
-          ]
+            "科技政策"
+          ],
+          "source": "https://www.toutiao.com/trending/7707529746686709289/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707529746686709289%22%2C%22hot_board_impr_id%22%3A%22202611170354251E2EDAA1F033F5154DCC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%B0%86%E9%A6%96%E6%AC%A1%E9%9D%A2%E5%AF%B9%E9%9D%A2%E4%BC%9A%E6%99%A4%22%7D&rank=&style_id=40132&topic_id=7707529746686709289"
         }
       ]
     },
@@ -124,58 +37,17 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "AI下棋",
-          "summary": "AI陪大爷下棋",
-          "detail": "AI最近有点忙，不仅陪大爷下棋，还得哄奶奶开心。在北京工作的小何难得和陪爸爸旅游，俩人意犹未尽，桌案上摆着一副象棋，老父亲和小何对弈几局后，AI介入，成为新的棋友。\n\n💡 科技生活热点切入\n💬 AI陪大爷下棋，科技改变生活！\n🔥 AI 下棋 科技生活",
-          "usage": "💡 科技生活热点切入\n💬 AI陪大爷下棋，科技改变生活！\n🔥 AI 下棋 科技生活",
-          "source": "https://www.huxiu.com/article/4905818.html?f=rss",
+          "title": "机器人新浪潮",
+          "summary": "深圳机器人密度超发达国家",
+          "detail": "据俄罗斯记者实地探访，深圳街头遇见机器人的概率比遇见同乡还高。从快递机器人到巡逻机器人，深圳已实现每万人机器人保有量超过美日等发达国家。",
+          "usage": "💡 中国机器人发展迅猛\n💬 在深圳遇到机器人的概率比遇到老乡还高，这很赛博朋克\n🔥 深圳 机器人 智能化",
+          "src_id": 14,
           "tags": [
-            "AI",
-            "下棋",
-            "科技生活"
-          ]
-        },
-        {
-          "title": "AI主流化",
-          "summary": "斯坦福AI100报告解读",
-          "detail": "斯坦福大学AI100年度报告《AI走向主流》指出，AI已经进入规模化时代，生成式AI的崛起标志着AI技术的广泛应用。报告解读了AI在各个行业的应用前景和挑战。\n\n💡 科技报告热点切入\n💬 斯坦福AI100报告：AI走向主流！\n🔥 AI 主流化 生成式AI",
-          "usage": "💡 科技报告热点切入\n💬 斯坦福AI100报告：AI走向主流！\n🔥 AI 主流化 生成式AI",
-          "source": "https://www.huxiu.com/article/4905774.html?f=rss",
-          "tags": [
-            "AI",
-            "主流化",
-            "生成式AI"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "新品发布",
-      "icon": "📱",
-      "items": [
-        {
-          "title": "北大羽绒服",
-          "summary": "北大399元羽绒服火出圈",
-          "detail": "北大推出的399元羽绒服近日火出圈，成为校园时尚新宠。这款羽绒服以其高性价比和独特设计吸引了大量学生和校外消费者的关注。\n\n💡 校园时尚热点切入\n💬 北大399元羽绒服火了，性价比超高！\n🔥 北大 羽绒服 校园时尚",
-          "usage": "💡 校园时尚热点切入\n💬 北大399元羽绒服火了，性价比超高！\n🔥 北大 羽绒服 校园时尚",
-          "source": "https://www.toutiao.com/trending/7708356537781944870/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227708356537781944870%22%2C%22hot_board_impr_id%22%3A%2220261116105928F863B8E7CA83A9FE996A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8C%97%E5%A4%A7399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%81%AB%E5%87%BA%E5%9C%88%22%7D&rank=&style_id=40132&topic_id=7708356537781944870",
-          "tags": [
-            "北大",
-            "羽绒服",
-            "校园时尚"
-          ]
-        },
-        {
-          "title": "外卖盒长凳",
-          "summary": "废弃外卖盒做长凳",
-          "detail": "APEC新闻中心亮相了一款由废弃外卖盒制成的长凳，这一环保创意引发了广泛关注。这款长凳不仅实用，还传递了环保理念，成为APEC会场的一大亮点。\n\n💡 环保创意热点切入\n💬 废弃外卖盒做长凳，APEC环保新宠！\n🔥 外卖盒 长凳 环保",
-          "usage": "💡 环保创意热点切入\n💬 废弃外卖盒做长凳，APEC环保新宠！\n🔥 外卖盒 长凳 环保",
-          "source": "https://www.toutiao.com/trending/7707652300042781210/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707652300042781210%22%2C%22hot_board_impr_id%22%3A%2220261116105928F863B8E7CA83A9FE996A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%BA%9F%E5%BC%83%E5%A4%96%E5%8D%96%E7%9B%92%E5%81%9A%E7%9A%84%E9%95%BF%E5%87%B3%E4%BA%AE%E7%9B%B8APEC%E6%96%B0%E9%97%BB%E4%B8%AD%E5%BF%83%22%7D&rank=&style_id=40132&topic_id=7707652300042781210",
-          "tags": [
-            "外卖盒",
-            "长凳",
-            "环保"
-          ]
+            "机器人",
+            "深圳",
+            "智能化"
+          ],
+          "source": "https://m.baidu.com/s?word=%E4%BF%84%E5%A5%B3%E8%AE%B0%E8%80%85%EF%BC%9A%E6%B7%B1%E5%9C%B3%E8%A7%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A6%82%E7%8E%87%E6%AF%94%E8%80%81%E4%B9%A1%E9%AB%98&sa=fyb_news"
         }
       ]
     },
@@ -184,55 +56,45 @@
       "icon": "🎬",
       "items": [
         {
-          "title": "Anthropic IPO",
-          "summary": "Anthropic超级IPO本周启动",
-          "detail": "Anthropic的超级IPO即将登陆市场，这次IPO被视为AI投资主题的重要风向标。虽然英伟达首席执行官黄仁勋上周突然辞职，但美股AI板块仍展现出惊人韧性。Anthropic此次IPO能否再次掀起AI投资热潮，市场拭目以待。\n\n💡 股市热门话题切入\n💬 Anthropic的IPO来了，AI板块又要热了！\n🔥 Anthropic IPO AI投资",
-          "usage": "💡 股市热门话题切入\n💬 Anthropic的IPO来了，AI板块又要热了！\n🔥 Anthropic IPO AI投资",
-          "source": "https://www.huxiu.com/article/4905808.html?f=rss",
+          "title": "AI初创翻车",
+          "summary": "明星AI公司陷入财务危机",
+          "detail": "曾估值10亿美元的AI初创公司Revolut陷入财务危机，2000名工程师团队面临裁员。业内人士吐槽：'烧钱搞大模型，却找不到落地场景，迟早要完'。",
+          "usage": "💡 AI泡沫开始破裂\n💬 又一AI独角兽要凉？烧钱容易赚钱难\n🔥 AI初创 融资危机 大模型",
+          "src_id": 4,
           "tags": [
-            "Anthropic",
-            "IPO",
-            "AI"
-          ]
-        },
-        {
-          "title": "光伏修复",
-          "summary": "光伏行业结构性修复",
-          "detail": "2026年前三季度，全国光伏新增装机110.83GW，同比下滑53.9%。但Q3单季装机38.76GW，同比增长38%，9月装机量有所回升。光伏行业的“结构性修复”成为市场关注焦点。\n\n💡 新能源热点切入\n💬 光伏装机下滑，但Q3有所回升！\n🔥 光伏装机 结构性修复",
-          "usage": "💡 新能源热点切入\n💬 光伏装机下滑，但Q3有所回升！\n🔥 光伏装机 结构性修复",
-          "source": "https://www.huxiu.com/article/4905826.html?f=rss",
-          "tags": [
-            "光伏装机",
-            "结构性修复"
-          ]
+            "AI",
+            "初创公司",
+            "融资"
+          ],
+          "source": "https://www.huxiu.com/article/4906090.html?f=rss"
         }
       ]
     }
   ],
-  "generated_at": "2026-11-16T03:04:58.957Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-11-16T19:58:44.397Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 5608,
-    "completion_tokens": 4297,
-    "total_tokens": 9905,
-    "cost_usd": 0.0058638231,
+    "prompt_tokens": 5008,
+    "completion_tokens": 2484,
+    "total_tokens": 7492,
+    "cost_usd": 0.00384435,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 2,
-      "published": 14
+      "dropped_orphans": 12,
+      "published": 4
     },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 12,
+        "huxiu": 5,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 23
+      "total": 17
     }
   }
 }
