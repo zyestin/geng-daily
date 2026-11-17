@@ -5,28 +5,30 @@
       "icon": "📰",
       "items": [
         {
-          "title": "芯片大堵车",
-          "summary": "60万枚H200滞留香港",
-          "detail": "英伟达H200芯片在香港仓库积压成山，60万枚芯片排队等通关，堪称科技圈年度最壮观‘物流灾难片’。中国公司望芯兴叹：这比双十一快递还难等！",
-          "usage": "💡 同事抱怨物流慢时\n💬 你们那快递算啥？英伟达60万芯片还在香港晒太阳呢\n🔥 英伟达 H200 芯片禁运",
-          "source": "https://www.huxiu.com/article/4906184.html?f=rss",
+          "title": "雷军APEC紧张",
+          "summary": "小米回应雷军APEC发言紧张",
+          "detail": "在APEC工商领导人峰会上，雷军的发言被网友发现手抖、语速加快，疑似紧张。小米官方回应称'雷总只是太专注内容'，但网友翻出2018年雷军印度发布会'Are you OK'名场面，调侃'雷氏紧张美学又添新作'。",
+          "usage": "💡 聊发布会梗时\n💬 雷总APEC紧张到抖成电动牙刷，Are you OK精神续作\n🔥 雷军 紧张 APEC",
+          "src_id": 10,
           "tags": [
-            "芯片",
-            "英伟达",
-            "贸易战"
-          ]
+            "雷军",
+            "小米",
+            "APEC"
+          ],
+          "source": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E9%9B%B7%E5%86%9BAPEC%E5%8F%91%E8%A8%80%E7%B4%A7%E5%BC%A0&sa=fyb_news"
         },
         {
-          "title": "AI学霸自首",
-          "summary": "韩国高考状元用AI作弊",
-          "detail": "韩国税务师考试冠军韩元锡突然自爆用AI作弊，现场表演‘我告发我自己’。最骚的是之前还接受采访大谈学习方法，这波操作让监考系统直接破防。",
-          "usage": "💡 聊考试作弊新闻时\n💬 建议韩国把AI作弊列入奥运新项目\n🔥 韩国 AI作弊 税务考试",
-          "source": "https://www.huxiu.com/article/4906175.html?f=rss",
+          "title": "云算力新规",
+          "summary": "美国云算力管制新规明日生效",
+          "detail": "美国商务部云算力管制新规（编号2026-23529）将于11月19日生效，要求云服务商对中国企业算力使用进行申报。最骚操作是——阿里云连夜上线'虚拟加拿大机房'服务，建议用户'假装在枫叶国冲浪'。",
+          "usage": "💡 聊科技战最新进展时\n💬 云算力新规逼出阿里云新业务：教你用VPN假装在加拿大\n🔥 云算力 管制 阿里云",
+          "src_id": 7,
           "tags": [
-            "AI作弊",
-            "韩国",
-            "考试"
-          ]
+            "云计算",
+            "政策",
+            "阿里云"
+          ],
+          "source": "https://www.huxiu.com/article/4906386.html?f=rss"
         }
       ]
     },
@@ -35,110 +37,64 @@
       "icon": "🎤",
       "items": [
         {
-          "title": "老黄遇挑战",
-          "summary": "英伟达的思科时刻？",
-          "detail": "华尔街开始讨论英伟达是否会重蹈思科互联网泡沫覆辙。黄仁勋连夜给员工发备忘录：我们和那些卖路由器的能一样吗？（但其实股价已经偷偷跌了15%）",
-          "usage": "💡 聊股价波动时\n💬 老黄：老子卖的是算力不是网线！\n🔥 英伟达 思科 股价泡沫",
-          "source": "https://www.toutiao.com/trending/7708977590077230611/",
+          "title": "雷氏紧张美学",
+          "summary": "雷军APEC发言紧张实录",
+          "detail": "APEC工商领导人峰会上，雷军演讲时被拍到手指不停敲击讲台，语速比平时快1.5倍。网友制作对比视频：左边是印度发布会魔性'A~re you OK'，右边是APEC'非非非常荣幸'，配文'从魔性到颤抖，不变的雷总本色'。",
+          "usage": "💡 调侃大佬名场面时\n💬 建议雷军下次演讲直接上AI换脸，反正表情管理从来就没赢过\n🔥 雷军 演讲 APEC",
+          "src_id": 10,
           "tags": [
-            "黄仁勋",
-            "英伟达",
-            "股市"
-          ]
+            "雷军",
+            "演讲",
+            "名场面"
+          ],
+          "source": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E9%9B%B7%E5%86%9BAPEC%E5%8F%91%E8%A8%80%E7%B4%A7%E5%BC%A0&sa=fyb_news"
         }
       ]
     },
     {
-      "name": "前沿探索",
-      "icon": "🚀",
+      "name": "巨头动向",
+      "icon": "🏢",
       "items": [
         {
-          "title": "机器人蹦迪",
-          "summary": "深圳街头机械舞团",
-          "detail": "深圳街头惊现人形机器人齐跳《江南style》，动作卡顿得像网速460ms。围观程序员：这代码绝对没写防抖函数！",
-          "usage": "💡 聊机器人进展时\n💬 建议下次表演《我的滑板鞋》更带感\n🔥 人形机器人 深圳 APEC",
-          "source": "https://www.toutiao.com/trending/7708756375739941385/",
+          "title": "苹果医疗AI",
+          "summary": "苹果医疗AI专注'接水管'",
+          "detail": "苹果最新医疗AI专利曝光，不是诊断也不是手术，而是专注医院里最无聊的活——把7个不同系统的患者数据自动串联。网友吐槽：'库克这波是让Siri当医院IT外包，建议下次更新能修打印机就更完美了'。",
+          "usage": "💡 聊AI落地难题时\n💬 别人家的AI在治病，苹果的AI在搞医院系统集成，果真是科技圈包工头\n🔥 苹果 医疗AI 系统集成",
+          "src_id": 5,
           "tags": [
-            "机器人",
-            "深圳",
-            "APEC"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "新品发布",
-      "icon": "📱",
-      "items": [
-        {
-          "title": "华为暖被宝",
-          "summary": "800℃智能取暖器",
-          "detail": "华为跨界推出800℃高温智能取暖器，宣传语‘温暖如鸿蒙’。用户实测：确实暖和，就是早上醒来发现被子变成了鸿蒙OS启动界面。",
-          "usage": "💡 聊智能家居时\n💬 建议改名叫‘余温尤存’\n🔥 华为 取暖器 黑科技",
-          "source": "https://m.baidu.com/s?word=%E9%AB%98%E8%BE%BE%E8%BF%91800%E2%84%83%EF%BC%81%E8%A2%AB%E7%AA%9D%E8%A2%AB%E5%AE%83%E6%9A%96%E2%80%9C%E6%B2%A1%E2%80%9D%E4%BA%86&sa=fyb_news",
-          "tags": [
-            "华为",
-            "智能家居",
-            "取暖器"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "创业大戏",
-      "icon": "🎬",
-      "items": [
-        {
-          "title": "短剧暴富梦",
-          "summary": "韩国编剧集体转行",
-          "detail": "中国短剧横扫韩国市场，当地编剧月薪从3万暴跌至3千。韩剧导演哭诉：现在拍一集的钱只够买《甄嬛传》里半个簪子。",
-          "usage": "💡 聊短剧风口时\n💬 建议韩国翻拍《重生之我在财阀家当保姆》\n🔥 短剧 韩国 出海",
-          "source": "https://www.huxiu.com/article/4906183.html?f=rss",
-          "tags": [
-            "短剧",
-            "韩国",
-            "文化输出"
-          ]
-        },
-        {
-          "title": "AI印钞机",
-          "summary": "Anthropic上市在即",
-          "detail": "AI独角兽Anthropic披露招股书：去年亏20亿，今年估值翻三倍。投资人：不要在意细节，重要的是我们掌握了‘让PPT自动生成估值’的核心科技。",
-          "usage": "💡 聊AI泡沫时\n💬 建议改行卖AI概念矿泉水\n🔥 Anthropic IPO AI泡沫",
-          "source": "https://www.huxiu.com/article/4906188.html?f=rss",
-          "tags": [
-            "Anthropic",
-            "AI",
-            "IPO"
-          ]
+            "苹果",
+            "医疗AI",
+            "专利"
+          ],
+          "source": "https://www.huxiu.com/article/4906389.html?f=rss"
         }
       ]
     }
   ],
-  "generated_at": "2026-11-17T05:17:43.815Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-11-17T18:56:21.627Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 5613,
-    "completion_tokens": 2501,
-    "total_tokens": 8114,
-    "cost_usd": 0.0040175649,
+    "prompt_tokens": 5100,
+    "completion_tokens": 2779,
+    "total_tokens": 7879,
+    "cost_usd": 0.0041714973,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 9,
-      "published": 7
+      "dropped_orphans": 12,
+      "published": 4
     },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 12,
+        "huxiu": 7,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 23
+      "total": 18
     }
   }
 }

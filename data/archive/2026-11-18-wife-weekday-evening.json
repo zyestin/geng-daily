@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "name": "😘 土味情话",
+      "icon": "😘",
+      "items": [
+        {
+          "title": "追星心情",
+          "summary": "结合热门话题的情话！",
+          "detail": "‘最近小米回应雷军发言紧张，真让人心疼。就像我心中对你的爱一样，紧张得手心冒汗，想说爱你却说不出口！’",
+          "usage": "💡 看到她追星时 \n💬 ‘你知道小米的事情吗？我对你的爱也是如此紧张啊！’ \n🔥 爱情 追星",
+          "source": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E9%9B%B7%E5%86%9BAPEC%E5%8F%91%E8%A8%80%E7%B4%A7%E5%BC%A0&sa=fyb_news",
+          "tags": []
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-17T18:52:36.032Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 3108,
+    "completion_tokens": 2619,
+    "total_tokens": 5727,
+    "cost_usd": 0.0020376,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 15,
+      "published": 1
+    },
+    "sources": {
+      "per_source": {
+        "baidu": 20
+      },
+      "total": 15
+    }
+  }
+}

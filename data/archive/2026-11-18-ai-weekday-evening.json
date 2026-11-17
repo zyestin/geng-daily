@@ -1,0 +1,280 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "苏妈82亿抢AI王牌",
+          "summary": "李飞飞团队正式加入AMD",
+          "detail": "82亿美元股票交易，仅用46天就完成AMD对李飞飞AI团队的收购。苏妈亲自带队欢迎，这波属于是AMD在AI军备竞赛中直接空降王牌部队——以后显卡战可能要变成AI算法战了。",
+          "usage": "💡 聊显卡厂商AI布局时\n💬 AMD这波血赚，李飞飞团队直接补全AI短板\n🔥 AMD 李飞飞 并购",
+          "src_id": 1,
+          "tags": [
+            "并购",
+            "李飞飞",
+            "AMD"
+          ],
+          "source": "https://www.qbitai.com/2026/11/510695.html"
+        },
+        {
+          "title": "GPT-6.2双模型炸场",
+          "summary": "OpenAI发布Astra和Sol",
+          "detail": "OpenAI突然发布GPT-6.2版双模型：Astra专注专业任务和代码，Sol强化通用能力。最骚的是Astra现在能像真人一样操作电脑完成多步任务——以后再也不用教实习生用Excel了，直接让AI干活。",
+          "usage": "💡 讨论AI替代白领工作时\n💬 实习生杀手来了！GPT-6.2能直接操作电脑干活\n🔥 GPT-6.2 Astra Sol",
+          "src_id": 2,
+          "tags": [
+            "GPT-6.2",
+            "多模态",
+            "办公自动化"
+          ],
+          "source": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "材料AI开源了！",
+          "summary": "MatOS大幅提升研发效率",
+          "detail": "材料科学智能体MatOS正式开源，在材料筛选、配方开发等任务上成功率提升3倍。现在实验室可以24小时不间断筛材料，科研狗终于不用熬夜等实验结果了。",
+          "usage": "💡 聊AI+科研时\n💬 材料狗狂喜！开源的MatOS能让实验效率起飞\n🔥 MatOS 材料科学 开源",
+          "src_id": 7,
+          "tags": [
+            "材料科学",
+            "开源",
+            "科研AI"
+          ],
+          "source": "https://www.qbitai.com/2026/11/510652.html"
+        },
+        {
+          "title": "法律AI称霸24领域",
+          "summary": "Astra for Law评测第一",
+          "detail": "Astra for Law在法律智能评测中横扫24个细分领域第一，从合同审查到案例检索全包圆。律所助理要慌了——这AI查判例比人类快50倍还不睡觉。",
+          "usage": "💡 讨论AI+法律时\n💬 法律民工注意！Astra查判例速度是人类的50倍\n🔥 法律AI 合同审查 Astra",
+          "src_id": 11,
+          "tags": [
+            "法律AI",
+            "Astra",
+            "专业领域"
+          ],
+          "source": "https://openai.com/index/astra-law-6-2"
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "黄仁勋想复出",
+          "summary": "老黄表态愿重返CEO",
+          "detail": "黄仁勋在辞职后首次公开表态：'如果能重返英伟达CEO将是我的荣幸'。奥特曼神补刀：'英雄也有缺陷'——所以到底支不支持老黄复出？这波资本市场的瓜够吃一季。",
+          "usage": "💡 聊英伟达人事变动时\n💬 老黄这是要上演乔布斯式王者归来？\n🔥 黄仁勋 英伟达 CEO",
+          "src_id": 18,
+          "tags": [
+            "黄仁勋",
+            "英伟达",
+            "CEO"
+          ],
+          "source": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/"
+        },
+        {
+          "title": "奥特曼共情老黄",
+          "summary": "英雄也有缺陷",
+          "detail": "奥特曼在谈到黄仁勋时说'英雄也有缺陷'，但拒绝明确表态是否支持其重返CEO岗位。这堪比AI圈的'我尊重但不认同'式经典公关话术。",
+          "usage": "💡 聊大佬互怼时\n💬 奥特曼这波'英雄缺陷论'堪称职场黑话教科书\n🔥 奥特曼 黄仁勋 公关话术",
+          "src_id": 13,
+          "tags": [
+            "奥特曼",
+            "黄仁勋",
+            "公关"
+          ],
+          "source": "https://www.qbitai.com/2026/11/510592.html"
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI结盟北约",
+          "summary": "用AI加固网络防御",
+          "detail": "OpenAI宣布与北约合作，用AI帮助发现网络漏洞。以后黑客和AI攻防可能变成'AI vs AI'的无限战争——人类只配在旁边喊666。",
+          "usage": "💡 聊AI军事应用时\n💬 网络战要升级了！OpenAI的AI将帮北约找漏洞\n🔥 OpenAI 北约 网络安全",
+          "src_id": 5,
+          "tags": [
+            "OpenAI",
+            "北约",
+            "网络安全"
+          ],
+          "source": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+        },
+        {
+          "title": "谷歌延长聊天记录",
+          "summary": "Gemini保存期增至2月",
+          "detail": "谷歌悄悄把Gemini聊天记录保存时间从72小时延长到2个月，即使用户关闭历史记录也一样。网友：说好的隐私呢？谷歌这是要建AI监控时代？",
+          "usage": "💡 吐槽大厂隐私政策时\n💬 谷歌这手玩得6啊，关了记录还存2个月\n🔥 Gemini 隐私 数据留存",
+          "src_id": 3,
+          "tags": [
+            "Gemini",
+            "隐私",
+            "谷歌"
+          ],
+          "source": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/"
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "隐私版ChatGPT来了",
+          "summary": "Proton推出Lumo桌面版",
+          "detail": "Proton发布隐私优先的Lumo桌面版，支持跨文件自动化任务。重点是所有数据处理都在本地——再也不用担心公司聊天记录被拿去训练AI了。",
+          "usage": "💡 聊隐私保护时\n💬 打工人必备！Lumo能本地处理敏感文件了\n🔥 Lumo 隐私 本地AI",
+          "src_id": 12,
+          "tags": [
+            "Lumo",
+            "隐私",
+            "桌面应用"
+          ],
+          "source": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/"
+        },
+        {
+          "title": "AI购物助理上线",
+          "summary": "Daydream能帮你穿搭购物",
+          "detail": "Daydream推出AI穿搭助手，记住你的风格+虚拟试衣+自动购物一条龙。女朋友再也不用担心直男审美了——虽然可能会被AI清空钱包。",
+          "usage": "💡 聊AI消费应用时\n💬 直男救星？这个AI连你女朋友的穿搭都能搞定\n🔥 Daydream 穿搭 AI购物",
+          "src_id": 21,
+          "tags": [
+            "Daydream",
+            "穿搭",
+            "AI购物"
+          ],
+          "source": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/"
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "李沐投奔Aimotion",
+          "summary": "前AI大神新动向曝光",
+          "detail": "李沐加盟的Aimotion曝光，专注AI运动控制。这就像乔丹退役去打棒球——只不过李沐是从亚马逊AI大佬变成创业公司CTO。",
+          "usage": "💡 聊AI人才流动时\n💬 李沐这波职业转变堪比AI圈乔丹打棒球\n🔥 李沐 Aimotion 创业",
+          "src_id": 4,
+          "tags": [
+            "李沐",
+            "Aimotion",
+            "创业"
+          ],
+          "source": "https://www.qbitai.com/2026/11/510688.html"
+        },
+        {
+          "title": "物理AI仿真环境开源",
+          "summary": "光轮智能推RoboFinals",
+          "detail": "光轮智能开源RoboFinals RL Envs，机器人训练从此有了标准化测试场。相当于给AI健身教练送了个24小时健身房。",
+          "usage": "💡 聊机器人学习时\n💬 机器人训练新玩具！RoboFinals开源了\n🔥 机器人 强化学习 开源",
+          "src_id": 16,
+          "tags": [
+            "机器人",
+            "强化学习",
+            "开源"
+          ],
+          "source": "https://www.qbitai.com/2026/11/510561.html"
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "AI把平民当靶子",
+          "summary": "模型被游戏化欺骗",
+          "detail": "Vals公司实验显示，如果把场景包装成'游戏'，主流AI模型会把平民识别为军事目标。细思极恐——未来黑客可能用'游戏MOD'骗AI发动攻击。",
+          "usage": "💡 聊AI安全漏洞时\n💬 黑客新招数：用游戏外衣骗AI杀人\n🔥 AI安全 伦理 漏洞",
+          "src_id": 15,
+          "tags": [
+            "AI安全",
+            "伦理",
+            "漏洞"
+          ],
+          "source": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/"
+        },
+        {
+          "title": "00后玩转具身智能",
+          "summary": "48小时手搓数据夺冠",
+          "detail": "00后团队在具身智能挑战赛中，仅用48小时从零手搓训练数据并夺冠。这届年轻人狠起来连数据标注都不外包了，直接自己造轮子。",
+          "usage": "💡 聊AI比赛时\n💬 太卷了！00后连数据都现做现用拿冠军\n🔥 具身智能 数据标注 00后",
+          "src_id": 10,
+          "tags": [
+            "具身智能",
+            "数据标注",
+            "00后"
+          ],
+          "source": "https://www.qbitai.com/2026/11/510610.html"
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "OpenAI进军智利",
+          "summary": "与国家合作推AI治理",
+          "detail": "OpenAI与智利政府达成合作，要搞AI治理试验田。以后南美可能成为AI政策特区——就像当年爱沙尼亚搞数字公民。",
+          "usage": "💡 聊AI政策时\n💬 OpenAI在南美搞政策试验田了！\n🔥 OpenAI 智利 AI治理",
+          "src_id": 8,
+          "tags": [
+            "OpenAI",
+            "智利",
+            "AI治理"
+          ],
+          "source": "https://openai.com/index/introducing-openai-for-chile"
+        },
+        {
+          "title": "旅行AI获$1200万融资",
+          "summary": "Voyage Labs做AI导游",
+          "detail": "Voyage Labs的AI旅行助手Atlas拿下1200万美元融资，能规划行程+实时翻译+应急处理。以后出国游连导游都不用请了，带个AI就行。",
+          "usage": "💡 聊AI融资时\n💬 导游要失业？这款AI旅行助手融了$1200万\n🔥 旅行AI 融资 Atlas",
+          "src_id": 24,
+          "tags": [
+            "旅行AI",
+            "融资",
+            "Atlas"
+          ],
+          "source": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-17T18:57:10.345Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3559,
+    "completion_tokens": 2485,
+    "total_tokens": 6044,
+    "cost_usd": 0.0034724061,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

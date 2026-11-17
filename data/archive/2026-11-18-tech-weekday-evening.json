@@ -1,0 +1,100 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "雷军APEC紧张",
+          "summary": "小米回应雷军APEC发言紧张",
+          "detail": "在APEC工商领导人峰会上，雷军的发言被网友发现手抖、语速加快，疑似紧张。小米官方回应称'雷总只是太专注内容'，但网友翻出2018年雷军印度发布会'Are you OK'名场面，调侃'雷氏紧张美学又添新作'。",
+          "usage": "💡 聊发布会梗时\n💬 雷总APEC紧张到抖成电动牙刷，Are you OK精神续作\n🔥 雷军 紧张 APEC",
+          "src_id": 10,
+          "tags": [
+            "雷军",
+            "小米",
+            "APEC"
+          ],
+          "source": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E9%9B%B7%E5%86%9BAPEC%E5%8F%91%E8%A8%80%E7%B4%A7%E5%BC%A0&sa=fyb_news"
+        },
+        {
+          "title": "云算力新规",
+          "summary": "美国云算力管制新规明日生效",
+          "detail": "美国商务部云算力管制新规（编号2026-23529）将于11月19日生效，要求云服务商对中国企业算力使用进行申报。最骚操作是——阿里云连夜上线'虚拟加拿大机房'服务，建议用户'假装在枫叶国冲浪'。",
+          "usage": "💡 聊科技战最新进展时\n💬 云算力新规逼出阿里云新业务：教你用VPN假装在加拿大\n🔥 云算力 管制 阿里云",
+          "src_id": 7,
+          "tags": [
+            "云计算",
+            "政策",
+            "阿里云"
+          ],
+          "source": "https://www.huxiu.com/article/4906386.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "雷氏紧张美学",
+          "summary": "雷军APEC发言紧张实录",
+          "detail": "APEC工商领导人峰会上，雷军演讲时被拍到手指不停敲击讲台，语速比平时快1.5倍。网友制作对比视频：左边是印度发布会魔性'A~re you OK'，右边是APEC'非非非常荣幸'，配文'从魔性到颤抖，不变的雷总本色'。",
+          "usage": "💡 调侃大佬名场面时\n💬 建议雷军下次演讲直接上AI换脸，反正表情管理从来就没赢过\n🔥 雷军 演讲 APEC",
+          "src_id": 10,
+          "tags": [
+            "雷军",
+            "演讲",
+            "名场面"
+          ],
+          "source": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E9%9B%B7%E5%86%9BAPEC%E5%8F%91%E8%A8%80%E7%B4%A7%E5%BC%A0&sa=fyb_news"
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "苹果医疗AI",
+          "summary": "苹果医疗AI专注'接水管'",
+          "detail": "苹果最新医疗AI专利曝光，不是诊断也不是手术，而是专注医院里最无聊的活——把7个不同系统的患者数据自动串联。网友吐槽：'库克这波是让Siri当医院IT外包，建议下次更新能修打印机就更完美了'。",
+          "usage": "💡 聊AI落地难题时\n💬 别人家的AI在治病，苹果的AI在搞医院系统集成，果真是科技圈包工头\n🔥 苹果 医疗AI 系统集成",
+          "src_id": 5,
+          "tags": [
+            "苹果",
+            "医疗AI",
+            "专利"
+          ],
+          "source": "https://www.huxiu.com/article/4906389.html?f=rss"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-17T18:56:21.627Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 5100,
+    "completion_tokens": 2779,
+    "total_tokens": 7879,
+    "cost_usd": 0.0041714973,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 12,
+      "published": 4
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 7,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 18
+    }
+  }
+}
