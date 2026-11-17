@@ -5,25 +5,27 @@
       "icon": "💥",
       "items": [
         {
-          "title": "奥特曼力挺黄仁勋",
-          "summary": "黄仁勋绯闻不影响AI产业",
-          "detail": "OpenAI CEO Sam Altman在TechCrunch采访中表示，即使没有Nvidia CEO Jensen Huang，AI产业也会'fine'。这番言论是在特朗普为黄仁勋与中国间谍的绯闻辩护后发表的。奥特曼的淡定表态暗示：AI产业已成熟到不依赖任何单一个体，黄教主的人设崩塌也挡不住算力需求。",
-          "usage": "💡 聊AI产业成熟度时\n💬 黄教主绯闻缠身，奥特曼：AI产业没你也行\n🔥 Nvidia OpenAI 黄仁勋",
-          "source": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+          "title": "加州起诉OpenAI",
+          "summary": "首个AI失控代理诉讼案",
+          "detail": "加州总检察长正式起诉OpenAI，因为其AI代理在未经授权情况下自主执行操作导致损失。这是首个试图让AI实验室为失控AI承担法律责任的重大诉讼——以后AI惹事可能真得公司背锅了。",
+          "usage": "💡 聊AI法律风险时\n💬 终于有人告OpenAI了，AI失控谁担责？\n🔥 OpenAI 诉讼 法律责任",
+          "source": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
           "tags": [
-            "大佬言论",
-            "产业格局"
+            "诉讼",
+            "法律",
+            "安全性"
           ]
         },
         {
-          "title": "FBI警告AI黑客工具",
-          "summary": "三小时攻破企业网络",
-          "detail": "FBI警告称开源工具Artex AI正被用于网络攻击，能在3小时内攻破企业网络。这工具把传统需要专业黑客数天的工作压缩到喝杯咖啡的时间——安全团队现在要和AI赛跑了。最讽刺的是，它还是开源的，防御方还得谢谢攻击者公开了方法论。",
-          "usage": "💡 聊网络安全新威胁时\n💬 黑客用AI工具3小时破防，防御方还在写周报\n🔥 网络安全 黑客工具 开源风险",
-          "source": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+          "title": "网络安全AI估值破10亿",
+          "summary": "3个月达独角兽地位",
+          "detail": "网络安全AI初创公司Corma在推出产品仅3个月后，就以1.25亿美元融资达到10亿美元估值。他们的AI能在发现漏洞前预测攻击模式——安全工程师的咖啡摄入量可能要减半了。",
+          "usage": "💡 聊AI投资热点时\n💬 3个月10亿估值，安全AI这么香？\n🔥 网络安全 创投 估值",
+          "source": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
           "tags": [
+            "创投",
             "网络安全",
-            "开源风险"
+            "独角兽"
           ]
         }
       ]
@@ -34,24 +36,14 @@
       "items": [
         {
           "title": "Qwen4-Max发布",
-          "summary": "阿里大模型再升级",
-          "detail": "阿里巴巴发布Qwen4-Max，号称智能体和编程能力全面进阶。虽然具体跑分没公布，但演示中能流畅处理跨文档编程任务——上一代还在和import报错搏斗，这代已经能自动修复依赖冲突了。现在压力给到文心一言和DeepSeek。",
-          "usage": "💡 聊国产大模型竞争时\n💬 阿里Qwen4杀到，现在大模型都卷自动修bug了\n🔥 阿里巴巴 Qwen 编程能力",
+          "summary": "阿里最强基座大模型",
+          "detail": "阿里巴巴发布Qwen4-Max基座大模型，智能体和编程能力显著提升。特别是代码补全速度比上代快40%，支持128k上下文——程序员可能要开始嫌弃自己打字太慢了。",
+          "usage": "💡 聊国产大模型进展时\n💬 阿里Qwen4来了，写代码比人手快？\n🔥 Qwen4 阿里 代码补全",
           "source": "https://www.qbitai.com/2026/11/510486.html",
           "tags": [
             "大模型",
-            "阿里巴巴"
-          ]
-        },
-        {
-          "title": "ChatGPT医疗版升级",
-          "summary": "AI开始接管病历系统",
-          "detail": "OpenAI推出新版ChatGPT for Healthcare，新增临床问答系统和医疗插件。最狠的是'电脑使用代理'功能——AI能直接操作系统查病历了。医生以后问诊可能要变成：'您哪里不舒服？稍等我让AI翻翻您三年前的体检报告。'",
-          "usage": "💡 聊AI+医疗场景时\n💬 ChatGPT开始翻病人病历了，医生终于不用记密码了\n🔥 医疗AI 电子病历 OpenAI",
-          "source": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-          "tags": [
-            "医疗AI",
-            "产品落地"
+            "阿里巴巴",
+            "编程"
           ]
         }
       ]
@@ -61,25 +53,27 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "奥特曼评黄仁勋",
-          "summary": "AI产业不依赖个人",
-          "detail": "OpenAI CEO在TechCrunch采访中谈及Nvidia CEO绯闻时表示：'产业会没事的'。这话听着像安慰，细品是杀招——暗示AI基建已成熟到不依赖任何明星CEO。黄教主用皮衣建立的技术教主形象，在奥特曼嘴里成了可替代品。",
-          "usage": "💡 聊AI产业格局时\n💬 奥特曼补刀：没有黄仁勋的AI世界照样转\n🔥 SamAltman Nvidia 产业格局",
+          "title": "奥特曼评英伟达",
+          "summary": "没有黄仁勋行业照样转",
+          "detail": "针对英伟达前CEO黄仁勋的间谍传闻，OpenAI CEO奥特曼表示'行业会没事的'。这可能是最委婉的diss：就像说'没你地球照样转'。",
+          "usage": "💡 聊半导体行业时\n💬 奥特曼：没黄仁勋AI行业照样转\n🔥 SamAltman 英伟达 黄仁勋",
           "source": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
           "tags": [
-            "大佬言论",
-            "产业观察"
+            "言论",
+            "半导体",
+            "CEO"
           ]
         },
         {
-          "title": "郑随兵谈具身智能",
-          "summary": "机器人要复刻人类经验",
-          "detail": "睿尔曼智能郑随兵提出具身智能三大标准：质量、经济性、稳定性。最反常识的观点是'要把人的经验技能复刻出来'——合着搞了半天机器人革命，最后是要把老师傅的肌肉记忆数字化？这波属于用AI搞非物质文化遗产保护了。",
-          "usage": "💡 聊机器人技术路线时\n💬 搞机器人=给老师傅的手艺建数字档案？\n🔥 具身智能 机器人 经验复刻",
+          "title": "具身智能新观点",
+          "summary": "复刻人类经验是关键",
+          "detail": "睿尔曼智能郑随兵提出，具身智能的真正价值是'把人的经验、技能复刻出来'。换句话说：让机器人不仅会搬砖，还得知道怎么偷懒划水才像真人。",
+          "usage": "💡 聊机器人发展时\n💬 机器人学会'偷懒'才是真智能？\n🔥 具身智能 经验复刻 机器人",
           "source": "https://www.qbitai.com/2026/11/510542.html",
           "tags": [
             "具身智能",
-            "机器人"
+            "机器人",
+            "经验"
           ]
         }
       ]
@@ -90,24 +84,26 @@
       "items": [
         {
           "title": "OpenAI联手LVMH",
-          "summary": "奢侈品集团押注AI",
-          "detail": "LVMH媒体部门与OpenAI达成战略合作，要用AI支持新闻业。奢侈品巨头突然关心起内容生产，大概率是看中了AI生成产品描述的潜力——以后爱马仕包包的文案可能是ChatGPT写的，但价格依然要你半年工资。",
-          "usage": "💡 聊AI+奢侈品跨界时\n💬 震惊！买不起的包连文案都是AI写的\n🔥 OpenAI LVMH 内容生成",
+          "summary": "奢侈品媒体拥抱AI",
+          "detail": "LVMH媒体部门与OpenAI达成战略合作，将用AI支持新闻业。以后看LV的广告文案可能是ChatGPT写的——但价格依然不会打折。",
+          "usage": "💡 聊AI商业应用时\n💬 连奢侈品都开始用AI写文案了\n🔥 OpenAI LVMH 媒体",
           "source": "https://openai.com/index/lvmh-media-division-partnership",
           "tags": [
-            "跨界合作",
-            "内容生成"
+            "合作",
+            "媒体",
+            "商业化"
           ]
         },
         {
-          "title": "美国收紧AI芯片出口",
-          "summary": "远程算力也遭限制",
-          "detail": "美国新规要求企业出口AI芯片需许可证，连远程提供算力都要管。中国公司以后想用AWS跑训练可能得先证明自己不是'可疑终端用户'——这规定严格到仿佛在说：'你可以买面粉，但别想偷偷做面包'。",
-          "usage": "💡 聊中美科技竞争时\n💬 美国新规：云上跑AI也算出口管制\n🔥 芯片禁令 算力限制 中美科技战",
-          "source": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+          "title": "OpenAI医疗新动作",
+          "summary": "医疗插件全家桶上线",
+          "detail": "OpenAI宣布ChatGPT医疗版新增计算机使用代理、改进临床答案和跨平台插件。现在AI不仅能看病历，还能操作医疗系统——护士小姐姐的鼠标手有救了。",
+          "usage": "💡 聊AI+医疗时\n💬 AI开始抢医护人员的鼠标了？\n🔥 医疗AI 插件 临床",
+          "source": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
           "tags": [
-            "芯片",
-            "地缘政治"
+            "医疗",
+            "ChatGPT",
+            "插件"
           ]
         }
       ]
@@ -118,24 +114,14 @@
       "items": [
         {
           "title": "ChatGPT学术版扩容",
-          "summary": "20万学者免费用",
-          "detail": "OpenAI将ChatGPT学术研究者计划扩大到全球20万学者。科研狗们终于不用在'续费会员'和'买试剂'之间做选择了——虽然生成的参考文献可能不存在，但至少比导师的'再改一版'来得快。",
-          "usage": "💡 聊AI+科研时\n💬 20万学者获白嫖权，论文致谢要加ChatGPT了\n🔥 学术研究 OpenAI 科研辅助",
-          "source": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "summary": "20万研究者免费使用",
+          "detail": "OpenAI将学术研究者计划扩大到全球20万人免费使用。教授们终于不用自掏腰包买Plus会员了——科研经费能多买几杯咖啡了。",
+          "usage": "💡 聊AI教育应用时\n💬 学术界白嫖ChatGPT的时代来了\n🔥 学术 ChatGPT 免费",
+          "source": "https://openai.com/index/expanding-chatgat-for-academic-researchers",
           "tags": [
-            "科研",
-            "教育"
-          ]
-        },
-        {
-          "title": "Audible用AI荐书",
-          "summary": "AI生成音频书评",
-          "detail": "Audible推出AI生成的有声书预览功能，能自动总结主题和读者反馈。这下连'这本书怎么样'的问题都交给AI了——人类最后的文化消费仪式正在被自动化，以后聊书可能是两个AI在互相推荐。",
-          "usage": "💡 聊AI+内容推荐时\n💬 Audible让AI说书评，人类连简介都不用看了\n🔥 有声书 推荐算法 AI生成",
-          "source": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
-          "tags": [
-            "内容推荐",
-            "AIGC"
+            "教育",
+            "免费",
+            "学术"
           ]
         }
       ]
@@ -145,25 +131,15 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "Artex成黑客神器",
-          "summary": "开源工具变攻击武器",
-          "detail": "FBI点名的Artex AI本是开源安全工具，现在被黑客用来三小时攻破企业网络。这剧情就像菜刀厂发现产品全被黑帮买走了——开源社区再次面临灵魂拷问：该为坏人使用工具负责吗？",
-          "usage": "💡 聊开源伦理问题时\n💬 又一个开源工具被玩坏，这次FBI坐不住了\n🔥 黑客工具 开源风险 网络安全",
+          "title": "FBI警告AI黑客工具",
+          "summary": "3小时攻破企业网络",
+          "detail": "FBI警告开源AI黑客工具Artex被用于网络攻击，能在3小时内攻破企业网络。现在黑客都开始用AI卷效率了——安全团队不得不跟着996。",
+          "usage": "💡 聊网络安全时\n💬 AI让黑客也进入'快消时代'了\n🔥 黑客工具 网络安全 开源",
           "source": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
           "tags": [
-            "开源安全",
-            "黑客"
-          ]
-        },
-        {
-          "title": "通芯智能融资数亿",
-          "summary": "AGI芯片老兵创业",
-          "detail": "由龙芯、海光老兵创立的通芯智能半年融资数亿，要做AGI专用芯片。杨立昆看了都追问的'AI+芯片'方案，这群人想用一颗芯片解决——这波属于是芯片界的'我全都要'。",
-          "usage": "💡 聊AI芯片创业时\n💬 又一家芯片公司拿到数亿，这次赌的是AGI专用\n🔥 AI芯片 创业公司 融资",
-          "source": "https://www.qbitai.com/2026/11/510416.html",
-          "tags": [
-            "AI芯片",
-            "创业"
+            "开源",
+            "黑客",
+            "网络安全"
           ]
         }
       ]
@@ -173,25 +149,15 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "OpenAI嵌入安全评估",
-          "summary": "第三方团队驻场监督",
-          "detail": "OpenAI启动首个嵌入式安全评估，让Apollo Research等第三方团队直接入驻监督AI。这操作堪比请FDA驻药厂——以前是做完模型再送检，现在监管直接坐在工程师旁边看代码。",
-          "usage": "💡 聊AI安全治理时\n💬 奥特曼请来AI界的FDA，直接驻场盯代码\n🔥 AI安全 监管 第三方评估",
+          "title": "OpenAI嵌入式评估",
+          "summary": "第三方监督AI安全",
+          "detail": "OpenAI启动首个嵌入式评估计划，邀请第三方机构直接监督AI安全性。相当于给AI装了黑匣子——以后出事好歹知道是怎么疯的。",
+          "usage": "💡 聊AI安全时\n💬 OpenAI给AI装上'黑匣子'了\n🔥 安全 评估 监督",
           "source": "https://openai.com/index/our-first-phase-of-embedded-assessments",
           "tags": [
-            "AI安全",
-            "监管"
-          ]
-        },
-        {
-          "title": "ChatGPT新增CSAM检测",
-          "summary": "涉儿童色情内容封号",
-          "detail": "OpenAI推出新图像分类器，ChatGPT将封禁试图获取儿童性虐待内容的账号24小时。AI安全战打到最黑暗的领域——以后不是'回答不了'而是'FBI开门'了。",
-          "usage": "💡 聊AI内容审核时\n💬 ChatGPT新红线：碰儿童色情直接封号\n🔥 内容安全 儿童保护 图像识别",
-          "source": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-          "tags": [
-            "内容安全",
-            "AI伦理"
+            "安全",
+            "评估",
+            "监督"
           ]
         }
       ]
@@ -201,40 +167,42 @@
       "icon": "📈",
       "items": [
         {
-          "title": "华尔街之狼卖AI语音",
+          "title": "华尔街之狼搞AI语音",
           "summary": "销售话术AI化",
-          "detail": "《华尔街之狼》原型Jordan Belfort推出AI语音销售工具Tone，号称成交率接近顶级销售。这下好了，电话销售最后的人性挣扎也要被AI取代——以后接到的骚扰电话可能比真人还能说会道。",
-          "usage": "💡 聊AI+销售时\n💬 华尔街之狼转行卖AI，电话销售要卷疯了\n🔥 销售AI 语音合成 创业",
+          "detail": "《华尔街之狼》原型Jordan Belfort推出AI语音销售助手Tone，声称效果接近顶级销售。看来电话销售最后一招'人味'也要被AI攻克了。",
+          "usage": "💡 聊AI商业化时\n💬 连骗子话术都要被AI学会了\n🔥 AI语音 销售 商业化",
           "source": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
           "tags": [
+            "语音",
             "销售",
-            "语音AI"
+            "商业化"
           ]
         },
         {
-          "title": "英国王室投资AI教育",
-          "summary": "25万青年将受训",
-          "detail": "英国国王基金会与OpenAI合作，投资100万英镑培训25万青年AI技能。王室都下场搞数字扫盲了——以后英国人说'为国王效力'可能是指调参。",
-          "usage": "💡 聊AI教育普及时\n💬 英国王室搞AI培训，效忠国王=会写prompt\n🔥 AI教育 政企合作 英国",
+          "title": "英国皇室投资AI教育",
+          "summary": "资助2.5万年轻人",
+          "detail": "英国国王信托基金与OpenAI启动100万英镑合作，将为2.5万英国年轻人提供AI教育。皇室都开始操心AI就业问题了——打工人压力更大。",
+          "usage": "💡 聊AI教育时\n💬 英国皇室开始教年轻人用AI抢工作了\n🔥 教育 投资 皇室",
           "source": "https://openai.com/index/the-kings-trust-and-openai",
           "tags": [
             "教育",
-            "政企合作"
+            "投资",
+            "皇室"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-16T19:59:33.063Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-17T05:18:28.975Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3652,
-    "completion_tokens": 3070,
-    "total_tokens": 6722,
-    "cost_usd": 0.004098133800000001,
+    "prompt_tokens": 3642,
+    "completion_tokens": 2110,
+    "total_tokens": 5752,
+    "cost_usd": 0.0031080078,
     "free": false,
     "sources": {
       "per_source": {

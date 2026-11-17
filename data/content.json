@@ -1,185 +1,166 @@
 {
   "categories": [
     {
-      "name": "时事热点",
-      "icon": "📰",
+      "name": "前端框架",
+      "icon": "🚀",
       "items": [
         {
-          "title": "AI城市治理",
-          "summary": "AI技术在城市管理中的应用",
-          "detail": "近期，多个城市开始试点AI技术在城市治理中的应用，包括交通管理、环境监测等领域，引发广泛关注和讨论。",
-          "usage": "你知道吗？现在AI技术已经开始在城市管理中发挥作用了，比如交通管理和环境监测，感觉未来城市生活会越来越智能。",
-          "source": "",
+          "title": "AG-UI协议",
+          "summary": "前端应用接入Agent的新协议",
+          "detail": "AG-UI协议定义了前端应用如何与AI Agent交互的标准化方式，评论区热议这是否会像GraphQL一样成为新范式，还是昙花一现的解决方案。",
+          "usage": "你们团队有考虑过接入AI Agent吗？这个AG-UI协议据说能标准化交互流程，不过我觉得可能需要先观望下生态支持度。",
+          "source": "https://github.com/ag-ui-protocol/ag-ui",
           "tags": [
             "AI",
-            "城市治理"
+            "前端协议"
           ]
         },
         {
-          "title": "航天新突破",
-          "summary": "中国航天最新动态",
-          "detail": "中国航天局近期宣布成功发射一颗新型卫星，标志着中国在航天领域又迈出了重要一步。",
-          "usage": "最近中国航天局又发射了一颗新卫星，感觉咱们国家的航天技术越来越厉害了，你看新闻了吗？",
-          "source": "",
+          "title": "Vitest 5发布",
+          "summary": "测试工具性能大升级",
+          "detail": "Vitest 5通过共享Vite服务器和更严格的测试默认设置，测试速度提升显著。开发者吐槽配置迁移成本，但承认性能提升确实香。",
+          "usage": "听说你们项目在用Vitest？新版据说性能炸裂，不过默认配置更严格了，我们迁移时踩了不少坑...",
+          "source": "https://www.infoq.cn/article/wy7Osc1cHY1U9gQR3pwH",
           "tags": [
-            "航天",
-            "中国"
+            "测试",
+            "性能优化"
           ]
         }
       ]
     },
     {
-      "name": "亲子时光",
-      "icon": "👨‍👧",
+      "name": "React Native",
+      "icon": "📱",
       "items": [
         {
-          "title": "手工制作",
-          "summary： ": "和孩子一起做手工艺品， ",
-          "detail": "周末可以和孩子一起做简单的手工艺品，比如纸飞机、折纸动物等，既能增进亲子关系，又能培养孩子的动手能力。",
-          "usage": "周末咱们和孩子一起做点手工艺品吧，比如纸飞机或者折纸动物，感觉挺有意思的，你觉得呢？",
-          "source": "",
+          "title": "RN数据收集争议",
+          "summary": "Windows11监控开发工具使用情况",
+          "detail": "微软被曝收集Windows11上RN等开发工具的使用数据，开发者群体炸锅。有评论调侃'原来微软才是最大的产品经理'。",
+          "usage": "看到新闻说Win11在偷偷收集RN工具使用数据吗？难怪我最近调试时总感觉卡卡的（笑）。",
+          "source": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
           "tags": [
-            "手工",
-            "亲子"
-          ],
-          "summary": "周末可以和孩子一起做简单的手工艺品，比如"
-        },
-        {
-          "title": "户外探险",
-          "summary": "带孩子去公园探险",
-          "detail": "周末可以带孩子去附近的公园进行户外探险，观察自然景观和动植物，既能锻炼身体，又能增长知识。",
-          "usage": "这周末咱们带孩子去公园探险吧，让她接触一下大自然，顺便锻炼一下身体，你觉得怎么样？",
-          "source": "",
-          "tags": [
-            "户外",
-            "亲子"
+            "隐私",
+            "性能"
           ]
         }
       ]
     },
     {
-      "name": "热门影视",
-      "icon": "🎬",
+      "name": "AI编程",
+      "icon": "🤖",
       "items": [
         {
-          "title": "动画新作",
-          "summary": "最新动画电影上映",
-          "detail": "最近一部备受期待的动画电影上映，讲述了一个关于友情和冒险的故事，适合全家观看。",
-          "usage": "最近有一部新的动画电影上映了，听说挺适合全家一起看的，咱们找个时间去看看？",
-          "source": "",
+          "title": "Qwen4发布",
+          "summary": "阿里大模型编程能力升级",
+          "detail": "阿里Qwen4-Max显著提升智能体与编程能力，演示中可自动修复复杂代码错误。开发者关心是否会影响初级程序员就业。",
+          "usage": "阿里这个Qwen4据说能自动修复杂bug了，你们觉得AI写代码什么时候会让我们失业啊？（笑）",
+          "source": "https://www.qbitai.com/2026/11/510486.html",
           "tags": [
-            "动画",
-            "电影"
+            "大模型",
+            "代码生成"
           ]
         },
         {
-          "title": "热播剧集",
-          "summary": "最新热播剧推荐",
-          "detail": "最近一部讲述家庭生活的电视剧正在热播，剧情温馨感人，引发观众热议。",
-          "usage": "最近有一部讲述家庭生活的电视剧挺火的，听说剧情很温馨感人，要不要一起看看？",
-          "source": "",
+          "title": "AI办公室SDK",
+          "summary": "Univer让AI融入办公场景",
+          "detail": "Univer SDK允许将AI能力集成到办公软件中，GitHub趋势榜首。有开发者已经用它做出能自动排版的PPT生成器。",
+          "usage": "看到那个Univer没？用AI做PPT自动排版太香了，终于不用调格式调到崩溃了！",
+          "source": "https://github.com/dream-num/univer",
           "tags": [
-            "电视剧",
-            "家庭"
+            "AI办公",
+            "效率工具"
           ]
         }
       ]
     },
     {
-      "name": "生活妙招",
-      "icon": "💡",
+      "name": "TS & JS",
+      "icon": "📘",
       "items": [
         {
-          "title": "收纳技巧",
-          "summary": "家居收纳小窍门",
-          "detail": "分享一些实用的家居收纳技巧，帮助整理空间，提高生活效率。",
-          "usage": "最近我发现了一些家居收纳小窍门，感觉挺实用的，要不要一起试试？",
+          "title": "Bun 2.0",
+          "summary": "运行时速度再提升",
+          "detail": "Bun 2.0发布，号称比Node快3倍。实际测试中TS编译确实快，但部分NPM包兼容性仍有问题。",
+          "usage": "试过Bun 2.0没？我们项目迁移后编译快得像坐火箭，就是有些冷门库还得打补丁...",
           "source": "",
           "tags": [
-            "收纳",
-            "家居"
-          ]
-        },
-        {
-          "title": "省钱妙招",
-          "summary": "日常生活省钱技巧",
-          "detail": "分享一些日常生活中省钱的技巧，比如购物时如何选择性价比高的商品，如何合理规划家庭开支。",
-          "usage": "最近我发现了一些日常生活中省钱的小技巧，感觉挺实用的，要不要一起分享一下？",
-          "source": "",
-          "tags": [
-            "省钱",
-            "生活"
+            "运行时",
+            "性能"
           ]
         }
       ]
     },
     {
-      "name": "乒乓球",
-      "icon": "🏓",
+      "name": "开源热门",
+      "icon": "🌟",
       "items": [
         {
-          "title": "国乒动态",
-          "summary": "国家队最新赛事",
-          "detail": "中国乒乓球队在国际赛事中再创佳绩，引发广泛关注和讨论。",
-          "usage": "最近中国乒乓球队在国际赛事中又取得了好成绩，你关注了吗？感觉他们真的很厉害。",
-          "source": "",
+          "title": "CMU免费CS课",
+          "summary": "卡耐基梅隆开放全部CS课程",
+          "detail": "CMU将所有计算机科学课程视频免费放YouTube，从基础算法到前沿AI全覆盖。评论区感叹'这才是真正的开源'。",
+          "usage": "看到CMU把CS课全免费放网上了吗？准备让我家闺女从小开始看（虽然她可能更想看汪汪队）",
+          "source": "https://www.cs.cmu.edu/learn/",
           "tags": [
-            "乒乓球",
-            "国乒"
-          ]
-        },
-        {
-          "title": "装备推荐",
-          "summary": "乒乓球装备选购指南",
-          "detail": "分享一些选购乒乓球装备的建议，包括球拍、球鞋等，帮助爱好者选择适合自己的装备。",
-          "usage": "最近我在研究乒乓球装备，发现了一些选购的小技巧，要不要一起讨论一下？",
-          "source": "",
-          "tags": [
-            "乒乓球",
-            "装备"
+            "教育",
+            "计算机"
           ]
         }
       ]
     },
     {
-      "name": "健康养生",
-      "icon": "🥗",
+      "name": "开发者梗",
+      "icon": "😄",
       "items": [
         {
-          "title": "健康饮食",
-          "summary": "家庭健康饮食建议",
-          "detail": "分享一些家庭健康饮食的建议，包括如何搭配营养均衡的餐食，如何选择健康的食材。",
-          "usage": "最近我在研究家庭健康饮食，发现了一些搭配餐食的小技巧，要不要一起分享一下？",
-          "source": "",
+          "title": "BugMeNot关闭",
+          "summary": "BugMeNot关闭引发回忆杀",
+          "detail": "知名共享测试账号网站BugMeNot宣布关闭，评论区全是开发者分享当年用假账号测试各种网站的黑历史。",
+          "usage": "BugMeNot关了！还记得以前用它搞测试账号的日子吗？现在要老老实实注册了...",
+          "source": "https://www.bugmenot.com/",
           "tags": [
-            "健康",
-            "饮食"
+            "测试",
+            "怀旧"
           ]
         },
         {
-          "title": "运动健身",
-          "summary": "家庭运动健身计划",
-          "detail": "分享一些家庭运动健身的计划，包括如何安排每周的运动时间，如何选择合适的运动项目。",
-          "usage": "最近我在制定家庭运动健身计划，感觉挺有意思的，要不要一起参与？",
+          "title": "Stack Overflow梗图",
+          "summary": "新程序员迷惑行为大赏",
+          "detail": "最新热帖收集程序员在Stack Overflow的奇葩提问，包括'如何用CSS让div变成圆形'（其实用border-radius就行）等经典案例。",
+          "usage": "看到那个Stack Overflow迷惑行为合集没？有人问怎么用JS实现1+1=2，下面回复'建议先学小学数学'笑死",
           "source": "",
           "tags": [
-            "运动",
-            "健身"
+            "程序员",
+            "搞笑"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-16T19:47:34.854Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-17T05:13:36.405Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 776,
-    "completion_tokens": 1276,
-    "total_tokens": 2052,
-    "cost_usd": 0.0015123636,
-    "free": false
+    "prompt_tokens": 2115,
+    "completion_tokens": 1305,
+    "total_tokens": 3420,
+    "cost_usd": 0.0018868545,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
   }
 }

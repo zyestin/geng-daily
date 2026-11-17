@@ -5,30 +5,46 @@
       "icon": "📰",
       "items": [
         {
-          "title": "中美AI限制令",
-          "summary": "美国商务部突然收紧AI出口管制",
-          "detail": "在中美峰会前夕，美国商务部突然推出针对中国AI行业的限制措施，禁止部分高端AI芯片出口，试图遏制中国AI发展。各大科技公司连夜开会讨论对策，国内厂商已经开始紧急寻找替代方案。这波操作堪称'科技冷战'的最新续集。",
-          "usage": "💡 中美科技摩擦新动向\n💬 美国商务部突然对华AI芯片限售，这是要打科技战的节奏？\n🔥 AI芯片 出口管制 科技冷战",
-          "src_id": 1,
+          "title": "芯片大堵车",
+          "summary": "60万枚H200滞留香港",
+          "detail": "英伟达H200芯片在香港仓库积压成山，60万枚芯片排队等通关，堪称科技圈年度最壮观‘物流灾难片’。中国公司望芯兴叹：这比双十一快递还难等！",
+          "usage": "💡 同事抱怨物流慢时\n💬 你们那快递算啥？英伟达60万芯片还在香港晒太阳呢\n🔥 英伟达 H200 芯片禁运",
+          "source": "https://www.huxiu.com/article/4906184.html?f=rss",
           "tags": [
-            "AI",
-            "中美贸易",
-            "芯片"
-          ],
-          "source": "https://www.huxiu.com/article/4906095.html?f=rss"
+            "芯片",
+            "英伟达",
+            "贸易战"
+          ]
         },
         {
-          "title": "元首会晤暗流",
-          "summary": "中俄美元首历史首次三方会面",
-          "detail": "APEC峰会期间，中俄美元首将进行历史性的首次三方面对面会晤。科技圈人士关注的是：在全球科技脱钩的大背景下，这次会晤能否带来科技合作的新转机？外媒称美国可能会就AI监管等议题施压。",
-          "usage": "💡 国际关系影响科技政策\n💬 这三国元首首次坐在一起，科技圈的分裂会因此改变吗？\n🔥 元首峰会 科技博弈 地缘政治",
-          "src_id": 7,
+          "title": "AI学霸自首",
+          "summary": "韩国高考状元用AI作弊",
+          "detail": "韩国税务师考试冠军韩元锡突然自爆用AI作弊，现场表演‘我告发我自己’。最骚的是之前还接受采访大谈学习方法，这波操作让监考系统直接破防。",
+          "usage": "💡 聊考试作弊新闻时\n💬 建议韩国把AI作弊列入奥运新项目\n🔥 韩国 AI作弊 税务考试",
+          "source": "https://www.huxiu.com/article/4906175.html?f=rss",
           "tags": [
-            "国际关系",
-            "APEC",
-            "科技政策"
-          ],
-          "source": "https://www.toutiao.com/trending/7707529746686709289/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707529746686709289%22%2C%22hot_board_impr_id%22%3A%22202611170354251E2EDAA1F033F5154DCC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%B0%86%E9%A6%96%E6%AC%A1%E9%9D%A2%E5%AF%B9%E9%9D%A2%E4%BC%9A%E6%99%A4%22%7D&rank=&style_id=40132&topic_id=7707529746686709289"
+            "AI作弊",
+            "韩国",
+            "考试"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "老黄遇挑战",
+          "summary": "英伟达的思科时刻？",
+          "detail": "华尔街开始讨论英伟达是否会重蹈思科互联网泡沫覆辙。黄仁勋连夜给员工发备忘录：我们和那些卖路由器的能一样吗？（但其实股价已经偷偷跌了15%）",
+          "usage": "💡 聊股价波动时\n💬 老黄：老子卖的是算力不是网线！\n🔥 英伟达 思科 股价泡沫",
+          "source": "https://www.toutiao.com/trending/7708977590077230611/",
+          "tags": [
+            "黄仁勋",
+            "英伟达",
+            "股市"
+          ]
         }
       ]
     },
@@ -37,17 +53,34 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "机器人新浪潮",
-          "summary": "深圳机器人密度超发达国家",
-          "detail": "据俄罗斯记者实地探访，深圳街头遇见机器人的概率比遇见同乡还高。从快递机器人到巡逻机器人，深圳已实现每万人机器人保有量超过美日等发达国家。",
-          "usage": "💡 中国机器人发展迅猛\n💬 在深圳遇到机器人的概率比遇到老乡还高，这很赛博朋克\n🔥 深圳 机器人 智能化",
-          "src_id": 14,
+          "title": "机器人蹦迪",
+          "summary": "深圳街头机械舞团",
+          "detail": "深圳街头惊现人形机器人齐跳《江南style》，动作卡顿得像网速460ms。围观程序员：这代码绝对没写防抖函数！",
+          "usage": "💡 聊机器人进展时\n💬 建议下次表演《我的滑板鞋》更带感\n🔥 人形机器人 深圳 APEC",
+          "source": "https://www.toutiao.com/trending/7708756375739941385/",
           "tags": [
             "机器人",
             "深圳",
-            "智能化"
-          ],
-          "source": "https://m.baidu.com/s?word=%E4%BF%84%E5%A5%B3%E8%AE%B0%E8%80%85%EF%BC%9A%E6%B7%B1%E5%9C%B3%E8%A7%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A6%82%E7%8E%87%E6%AF%94%E8%80%81%E4%B9%A1%E9%AB%98&sa=fyb_news"
+            "APEC"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "华为暖被宝",
+          "summary": "800℃智能取暖器",
+          "detail": "华为跨界推出800℃高温智能取暖器，宣传语‘温暖如鸿蒙’。用户实测：确实暖和，就是早上醒来发现被子变成了鸿蒙OS启动界面。",
+          "usage": "💡 聊智能家居时\n💬 建议改名叫‘余温尤存’\n🔥 华为 取暖器 黑科技",
+          "source": "https://m.baidu.com/s?word=%E9%AB%98%E8%BE%BE%E8%BF%91800%E2%84%83%EF%BC%81%E8%A2%AB%E7%AA%9D%E8%A2%AB%E5%AE%83%E6%9A%96%E2%80%9C%E6%B2%A1%E2%80%9D%E4%BA%86&sa=fyb_news",
+          "tags": [
+            "华为",
+            "智能家居",
+            "取暖器"
+          ]
         }
       ]
     },
@@ -56,45 +89,56 @@
       "icon": "🎬",
       "items": [
         {
-          "title": "AI初创翻车",
-          "summary": "明星AI公司陷入财务危机",
-          "detail": "曾估值10亿美元的AI初创公司Revolut陷入财务危机，2000名工程师团队面临裁员。业内人士吐槽：'烧钱搞大模型，却找不到落地场景，迟早要完'。",
-          "usage": "💡 AI泡沫开始破裂\n💬 又一AI独角兽要凉？烧钱容易赚钱难\n🔥 AI初创 融资危机 大模型",
-          "src_id": 4,
+          "title": "短剧暴富梦",
+          "summary": "韩国编剧集体转行",
+          "detail": "中国短剧横扫韩国市场，当地编剧月薪从3万暴跌至3千。韩剧导演哭诉：现在拍一集的钱只够买《甄嬛传》里半个簪子。",
+          "usage": "💡 聊短剧风口时\n💬 建议韩国翻拍《重生之我在财阀家当保姆》\n🔥 短剧 韩国 出海",
+          "source": "https://www.huxiu.com/article/4906183.html?f=rss",
           "tags": [
+            "短剧",
+            "韩国",
+            "文化输出"
+          ]
+        },
+        {
+          "title": "AI印钞机",
+          "summary": "Anthropic上市在即",
+          "detail": "AI独角兽Anthropic披露招股书：去年亏20亿，今年估值翻三倍。投资人：不要在意细节，重要的是我们掌握了‘让PPT自动生成估值’的核心科技。",
+          "usage": "💡 聊AI泡沫时\n💬 建议改行卖AI概念矿泉水\n🔥 Anthropic IPO AI泡沫",
+          "source": "https://www.huxiu.com/article/4906188.html?f=rss",
+          "tags": [
+            "Anthropic",
             "AI",
-            "初创公司",
-            "融资"
-          ],
-          "source": "https://www.huxiu.com/article/4906090.html?f=rss"
+            "IPO"
+          ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-16T19:58:44.397Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-17T05:17:43.815Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 5008,
-    "completion_tokens": 2484,
-    "total_tokens": 7492,
-    "cost_usd": 0.00384435,
+    "prompt_tokens": 5613,
+    "completion_tokens": 2501,
+    "total_tokens": 8114,
+    "cost_usd": 0.0040175649,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 12,
-      "published": 4
+      "dropped_orphans": 9,
+      "published": 7
     },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 5,
+        "huxiu": 12,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 17
+      "total": 23
     }
   }
 }
