@@ -1,0 +1,199 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Svelte 4.0",
+          "summary": "Svelte 4.0 发布，性能大幅提升",
+          "detail": "Svelte 4.0 引入了全新的编译器优化，使得生成的代码更小、运行更快，特别是在大型应用中表现尤为突出。",
+          "usage": "你试过 Svelte 4.0 了吗？听说性能提升了不少，特别是编译后的代码小了30%！",
+          "source": "",
+          "tags": [
+            "Svelte",
+            "前端"
+          ]
+        },
+        {
+          "title": "Next.js 13.5",
+          "summary": "Next.js 13.5 发布，支持 React Server Components",
+          "detail": "Next.js 13.5 正式支持 React Server Components，开发者可以更轻松地构建高性能的 SSR 应用。",
+          "usage": "Next.js 13.5 发布了，支持 React Server Components 了，你觉得这对 SSR 应用有多大帮助？",
+          "source": "",
+          "tags": [
+            "Next.js",
+            "React"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN 新架构",
+          "summary": "React Native 新架构 Fabric 发布",
+          "detail": "React Native 的新架构 Fabric 已经发布，显著提升了性能和稳定性，特别是在复杂应用中的表现。",
+          "usage": "React Native 的新架构 Fabric 发布了，听说性能提升了不少，你打算升级吗？",
+          "source": "",
+          "tags": [
+            "React Native",
+            "Fabric"
+          ]
+        },
+        {
+          "title": "跨端方案",
+          "summary": "React Native 跨端方案新进展",
+          "detail": "最新的 React Native 跨端方案支持更多平台，开发者可以更轻松地构建跨平台应用。",
+          "usage": "React Native 的跨端方案又有新进展了，你觉得跨平台开发的未来会怎么样？",
+          "source": "",
+          "tags": [
+            "React Native",
+            "跨平台"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "GPT-6.2",
+          "summary": "GPT-6.2 Astra 和 Sol 发布",
+          "detail": "OpenAI 发布了 GPT-6.2 Astra 和 Sol，这两个新模型在自然语言处理和代码生成方面有显著提升。",
+          "usage": "GPT-6.2 Astra 和 Sol 发布了，你试过了吗？听说代码生成能力又提升了！",
+          "source": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+          "tags": [
+            "AI",
+            "GPT"
+          ]
+        },
+        {
+          "title": "AI 生成UI",
+          "summary": "AI 生成 UI 工具发布",
+          "detail": "最新发布的 AI 生成 UI 工具可以根据设计草图自动生成前端代码，大幅提高开发效率。",
+          "usage": "最近那个 AI 生成 UI 的工具你试了吗？听说可以根据草图直接生成代码，效率提升了不少！",
+          "source": "",
+          "tags": [
+            "AI",
+            "UI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "TypeScript 5.3",
+          "summary": "TypeScript 5.3 发布，新特性介绍",
+          "detail": "TypeScript 5.3 引入了新的类型推断优化和更严格的类型检查，提升了开发体验。",
+          "usage": "TypeScript 5.3 发布了，新特性你试了吗？听说类型推断优化了不少！",
+          "source": "",
+          "tags": [
+            "TypeScript",
+            "JS"
+          ]
+        },
+        {
+          "title": "Node.js 20",
+          "summary": "Node.js 20 发布，性能提升",
+          "detail": "Node.js 20 发布了，新版本在性能和稳定性上有显著提升，特别是在高并发场景下表现优异。",
+          "usage": "Node.js 20 发布了，性能提升了挺多，你觉得在高并发场景下表现怎么样？",
+          "source": "",
+          "tags": [
+            "Node.js",
+            "JS"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "superpowers",
+          "summary": "superpowers 框架发布",
+          "detail": "superpowers 是一个全新的技能框架和软件开发方法论，旨在提高开发效率和质量。",
+          "usage": "superpowers 框架发布了，你觉得这种新的开发方法论能带来多大的效率提升？",
+          "source": "https://github.com/obra/superpowers",
+          "tags": [
+            "开源",
+            "框架"
+          ]
+        },
+        {
+          "title": "univer",
+          "summary": "univer 项目发布",
+          "detail": "univer 是一个 AI 办公 SDK，集成了编辑、计算、协作和文件处理等功能，方便开发者快速构建 AI 办公应用。",
+          "usage": "univer 项目发布了，你觉得 AI 办公 SDK 能带来多大的便利？",
+          "source": "https://github.com/dream-num/univer",
+          "tags": [
+            "开源",
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "Java4Shell",
+          "summary": "Java4Shell 漏洞引发热议",
+          "detail": "Java4Shell 是一个 OpenJDK 中的 RCE 漏洞，引发了开发者社区的广泛讨论和关注。",
+          "usage": "Java4Shell 漏洞你听说了吗？你觉得这种漏洞对 Java 生态会有什么影响？",
+          "source": "https://calif.io/java4shell/",
+          "tags": [
+            "开发者",
+            "漏洞"
+          ]
+        },
+        {
+          "title": "Phrack 73",
+          "summary": "Phrack 73 发布",
+          "detail": "Phrack 73 发布了，开发者社区对其中关于黑客技术和安全的文章充满兴趣。",
+          "usage": "Phrack 73 发布了，你看了吗？里面那些黑客技术文章还挺有意思的！",
+          "source": "https://phrack.org/issues/73/introduction_md",
+          "tags": [
+            "开发者",
+            "黑客"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-18T04:41:31.311Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2018,
+    "completion_tokens": 1449,
+    "total_tokens": 3467,
+    "cost_usd": 0.0020100194999999998,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}

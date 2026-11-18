@@ -5,30 +5,28 @@
       "icon": "📰",
       "items": [
         {
-          "title": "雷军APEC紧张",
-          "summary": "小米回应雷军APEC发言紧张",
-          "detail": "在APEC工商领导人峰会上，雷军的发言被网友发现手抖、语速加快，疑似紧张。小米官方回应称'雷总只是太专注内容'，但网友翻出2018年雷军印度发布会'Are you OK'名场面，调侃'雷氏紧张美学又添新作'。",
-          "usage": "💡 聊发布会梗时\n💬 雷总APEC紧张到抖成电动牙刷，Are you OK精神续作\n🔥 雷军 紧张 APEC",
-          "src_id": 10,
+          "title": "英伟达单季破千亿",
+          "summary": "英伟达单季营收破千亿美元",
+          "detail": "英伟达发布黄仁勋离职后的首份财报，单季营收突破千亿美元大关，远超市场预期。但分析师普遍认为，没了老黄的英伟达虽然数字漂亮，但已经少了灵魂。家人们谁懂啊，这就像iPhone没了乔布斯，性能再强也总觉得少了点啥。",
+          "usage": "💡 同事聊财报时\n💬 英伟达单季破千亿！但网友说没了老黄就像火锅没了辣\n🔥 英伟达 财报 黄仁勋",
+          "source": "https://www.huxiu.com/article/4906488.html?f=rss",
           "tags": [
-            "雷军",
-            "小米",
-            "APEC"
-          ],
-          "source": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E9%9B%B7%E5%86%9BAPEC%E5%8F%91%E8%A8%80%E7%B4%A7%E5%BC%A0&sa=fyb_news"
+            "英伟达",
+            "财报",
+            "黄仁勋"
+          ]
         },
         {
-          "title": "云算力新规",
-          "summary": "美国云算力管制新规明日生效",
-          "detail": "美国商务部云算力管制新规（编号2026-23529）将于11月19日生效，要求云服务商对中国企业算力使用进行申报。最骚操作是——阿里云连夜上线'虚拟加拿大机房'服务，建议用户'假装在枫叶国冲浪'。",
-          "usage": "💡 聊科技战最新进展时\n💬 云算力新规逼出阿里云新业务：教你用VPN假装在加拿大\n🔥 云算力 管制 阿里云",
-          "src_id": 7,
+          "title": "AI制药最大融资",
+          "summary": "AI制药公司获50亿美元融资",
+          "detail": "Isomorphic Labs完成50亿美元C轮融资，估值达到500亿美元，创下AI制药领域最大融资纪录。红杉资本和a16z抢着送钱，这烧钱速度让隔壁互联网公司直呼内行。现在问题来了：AI连药都能造了，啥时候给我造个对象？",
+          "usage": "💡 聊AI应用时\n💬 AI制药公司融了50亿刀！所以啥时候能给我AI个对象？\n🔥 AI制药 融资 Isomorphic",
+          "source": "https://www.huxiu.com/article/4906497.html?f=rss",
           "tags": [
-            "云计算",
-            "政策",
-            "阿里云"
-          ],
-          "source": "https://www.huxiu.com/article/4906386.html?f=rss"
+            "AI制药",
+            "融资",
+            "Isomorphic"
+          ]
         }
       ]
     },
@@ -37,17 +35,28 @@
       "icon": "🎤",
       "items": [
         {
-          "title": "雷氏紧张美学",
-          "summary": "雷军APEC发言紧张实录",
-          "detail": "APEC工商领导人峰会上，雷军演讲时被拍到手指不停敲击讲台，语速比平时快1.5倍。网友制作对比视频：左边是印度发布会魔性'A~re you OK'，右边是APEC'非非非常荣幸'，配文'从魔性到颤抖，不变的雷总本色'。",
-          "usage": "💡 调侃大佬名场面时\n💬 建议雷军下次演讲直接上AI换脸，反正表情管理从来就没赢过\n🔥 雷军 演讲 APEC",
-          "src_id": 10,
+          "title": "老黄想回归被拒",
+          "summary": "黄仁勋回归英伟达遭董事会拒绝",
+          "detail": "黄仁勋前脚刚发文表达回归英伟达的意愿，后脚就被董事会当场打脸。站出来说'不'的哈维・琼斯，正是当年把老黄请回来救火的那位。这剧情比《甄嬛传》还刺激，建议改名叫《芯片宫的诱惑》。",
+          "usage": "💡 聊职场八卦时\n💬 黄仁勋想回英伟达被拒！现实版《回家的诱惑》上演\n🔥 黄仁勋 英伟达 宫斗",
+          "source": "https://www.huxiu.com/article/4906505.html?f=rss",
           "tags": [
-            "雷军",
-            "演讲",
-            "名场面"
-          ],
-          "source": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E9%9B%B7%E5%86%9BAPEC%E5%8F%91%E8%A8%80%E7%B4%A7%E5%BC%A0&sa=fyb_news"
+            "黄仁勋",
+            "英伟达",
+            "宫斗"
+          ]
+        },
+        {
+          "title": "清华父子押注AI",
+          "summary": "清华教授父子押注英伟达下一代技术",
+          "detail": "清华一对教授父子用特殊玻璃材料技术，押中了英伟达下一代芯片的万亿赌局。果然学霸家的孩子都在改变世界，而我家的孩子还在改变我的发际线。",
+          "usage": "💡 聊技术创新时\n💬 清华父子押中英伟达下一代技术！别人家的孩子从不让我失望\n🔥 清华 英伟达 玻璃材料",
+          "source": "https://www.huxiu.com/article/4906499.html?f=rss",
+          "tags": [
+            "清华",
+            "英伟达",
+            "材料"
+          ]
         }
       ]
     },
@@ -56,45 +65,201 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "苹果医疗AI",
-          "summary": "苹果医疗AI专注'接水管'",
-          "detail": "苹果最新医疗AI专利曝光，不是诊断也不是手术，而是专注医院里最无聊的活——把7个不同系统的患者数据自动串联。网友吐槽：'库克这波是让Siri当医院IT外包，建议下次更新能修打印机就更完美了'。",
-          "usage": "💡 聊AI落地难题时\n💬 别人家的AI在治病，苹果的AI在搞医院系统集成，果真是科技圈包工头\n🔥 苹果 医疗AI 系统集成",
-          "src_id": 5,
+          "title": "英伟达AI烧钱",
+          "summary": "科技巨头AI投资能否回本引热议",
+          "detail": "英伟达等科技巨头在AI领域疯狂烧钱，单季研发投入堪比小国GDP。分析师开始担心：这万亿投资最后会不会变成一场昂贵的烟花秀？建议改个slogan：'AI改变世界，财报改变脸色'。",
+          "usage": "💡 聊AI泡沫时\n💬 英伟达AI烧钱比双十一还狠！所以最后是烟花还是印钞机？\n🔥 英伟达 AI 烧钱",
+          "source": "https://www.huxiu.com/article/4906491.html?f=rss",
           "tags": [
-            "苹果",
-            "医疗AI",
-            "专利"
-          ],
-          "source": "https://www.huxiu.com/article/4906389.html?f=rss"
+            "英伟达",
+            "AI",
+            "投资"
+          ]
+        },
+        {
+          "title": "手术机器人IPO潮",
+          "summary": "手术机器人企业扎堆上市",
+          "detail": "2026年手术机器人企业迎来IPO热潮，但术锐一年只卖出11台就敢上市。这让我想起了某些餐厅：门口排队两小时，进去发现就三桌在吃。建议改名叫'期货机器人'更贴切。",
+          "usage": "💡 聊医疗科技时\n💬 手术机器人公司一年卖11台就上市！这比网红餐厅还会排队\n🔥 手术机器人 IPO 术锐",
+          "source": "https://www.huxiu.com/article/4906494.html?f=rss",
+          "tags": [
+            "手术机器人",
+            "IPO",
+            "术锐"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "华住酒店两套价",
+          "summary": "华住同店出现两个房价系统",
+          "detail": "华住集团最新财报显示，中国区出现诡异现象：同一批酒店房间，综合房价涨1.8%，但开业满18个月的店均价却跌1.3%。建议改名叫'薛定谔的房价'——你不订的时候永远不知道到底多少钱。",
+          "usage": "💡 聊消费降级时\n💬 华住酒店玩起双标价！所以现在订房也要看黄历了？\n🔥 华住 酒店 房价",
+          "source": "https://www.huxiu.com/article/4906507.html?f=rss",
+          "tags": [
+            "华住",
+            "酒店",
+            "财报"
+          ]
+        },
+        {
+          "title": "同仁堂药品不合格",
+          "summary": "同仁堂一捻金抽检不合格",
+          "detail": "同仁堂旗下1批次'一捻金'被国家药监局点名不合格，官方解释是'储存问题'。三百年的老字号也开始玩'临时工'套路了？建议下次直接说'是AI抓的药，不关我们事'。",
+          "usage": "💡 聊质量问题时\n💬 同仁堂药品不合格甩锅储存！所以现在买药还得自备冰箱？\n🔥 同仁堂 药品 不合格",
+          "source": "https://www.huxiu.com/article/4906487.html?f=rss",
+          "tags": [
+            "同仁堂",
+            "药品",
+            "质量"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "减肥神药致失明",
+          "summary": "司美格鲁肽或致永久性失明",
+          "detail": "FDA最新警示：风靡全球的减肥神药司美格鲁肽可能导致永久性失明。现在问题来了：是要做灵活的胖子，还是做苗条的瞎子？这届消费者太难了。",
+          "usage": "💡 聊健康话题时\n💬 减肥神药可能致盲！所以现在瘦和瞎只能二选一？\n🔥 司美格鲁肽 减肥 副作用",
+          "source": "https://www.huxiu.com/article/4906502.html?f=rss",
+          "tags": [
+            "司美格鲁肽",
+            "减肥",
+            "FDA"
+          ]
+        },
+        {
+          "title": "Anthropic将上市",
+          "summary": "AI公司Anthropic拟纳斯达克上市",
+          "detail": "AI明星公司Anthropic计划11月19日在纳斯达克挂牌，估值或超1.5万亿美元。投行已经在讨论抬高发行价，这热度让比特币看了都直呼内行。建议改名叫'AI界的孙宇晨'。",
+          "usage": "💡 聊AI公司时\n💬 Anthropic要上市了！估值1.5万亿刀让比特币都自愧不如\n🔥 Anthropic IPO AI",
+          "source": "https://www.huxiu.com/article/4906495.html?f=rss",
+          "tags": [
+            "Anthropic",
+            "IPO",
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "红旗车接APEC",
+          "summary": "近700辆红旗车服务APEC",
+          "detail": "APEC会议期间，近700辆红旗车完成全流程接待任务。网友：这排面比国庆阅兵还壮观，建议下次程序员年会也按这个标准安排。",
+          "usage": "💡 聊国产车时\n💬 700辆红旗接APEC！所以啥时候接我们程序员年会？\n🔥 红旗 APEC 接待",
+          "source": "https://m.baidu.com/s?word=APEC%E4%BC%9A%E8%AE%AE%E8%BF%91700%E8%BE%86%E7%BA%A2%E6%97%97%E8%BD%A6%E5%85%A8%E6%B5%81%E7%A8%8B%E6%8E%A5%E5%BE%85&sa=fyb_news",
+          "tags": [
+            "红旗",
+            "APEC",
+            "接待"
+          ]
+        },
+        {
+          "title": "于东来买310辆坦克",
+          "summary": "于东来复购310辆坦克700",
+          "detail": "胖东来创始人于东来一次性复购310辆坦克700，长城汽车魏建军亲自回应。建议车企都学学：这才是真正的'老客户营销'，比双十一满减实在多了。",
+          "usage": "💡 聊汽车销售时\n💬 于东来买310辆坦克！4S店销售：这样的客户给我来一打\n🔥 坦克700 于东来 复购",
+          "source": "https://www.toutiao.com/trending/7708354538696146986/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227708354538696146986%22%2C%22hot_board_impr_id%22%3A%22202611181241322A2FA91FDC32A36155B4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AD%8F%E5%BB%BA%E5%86%9B%E5%9B%9E%E5%BA%94%E4%BA%8E%E4%B8%9C%E6%9D%A5%E5%A4%8D%E8%B4%AD310%E8%BE%86%E5%9D%A6%E5%85%8B700%22%7D&rank=&style_id=40132&topic_id=7708354538696146986",
+          "tags": [
+            "坦克700",
+            "于东来",
+            "长城"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "手术机器人只卖11台",
+          "summary": "术锐一年仅售11台就冲刺IPO",
+          "detail": "手术机器人公司术锐一年只卖出11台设备就敢冲刺科创板，这操作比微商还野。建议改个slogan：'我们卖的不是机器人，是梦想'。",
+          "usage": "💡 聊创业泡沫时\n💬 一年卖11台就上市！术锐重新定义'医疗器械销售'\n🔥 术锐 IPO 手术机器人",
+          "source": "https://www.huxiu.com/article/4906494.html?f=rss",
+          "tags": [
+            "术锐",
+            "IPO",
+            "手术机器人"
+          ]
+        },
+        {
+          "title": "AI制药估值500亿",
+          "summary": "Isomorphic Labs估值达500亿美元",
+          "detail": "AI制药公司Isomorphic Labs估值飙升至500亿美元，红杉和a16z抢着送钱。这让我想起了2015年的O2O泡沫——只不过当年烧钱送外卖，现在烧钱'送'药。",
+          "usage": "💡 聊AI投资时\n💬 AI制药公司值500亿！所以现在连吃药都要讲互联网思维了？\n🔥 Isomorphic AI制药 估值",
+          "source": "https://www.huxiu.com/article/4906497.html?f=rss",
+          "tags": [
+            "Isomorphic",
+            "AI制药",
+            "融资"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "币圈风云",
+      "icon": "🪙",
+      "items": [
+        {
+          "title": "Anthropic估值1.5万亿",
+          "summary": "AI公司Anthropic估值超比特币",
+          "detail": "即将上市的AI公司Anthropic完全摊薄估值可能达到1.5万亿美元，让比特币市值都相形见绌。孙宇晨看了都直呼内行：原来真正的韭菜在AI圈。",
+          "usage": "💡 聊加密货币时\n💬 Anthropic估值1.5万亿！比特币：原来我才是保守的那个\n🔥 Anthropic 估值 比特币",
+          "source": "https://www.huxiu.com/article/4906495.html?f=rss",
+          "tags": [
+            "Anthropic",
+            "估值",
+            "比特币"
+          ]
+        },
+        {
+          "title": "AI烧钱超币圈",
+          "summary": "科技巨头AI投资超加密货币泡沫",
+          "detail": "科技巨头在AI领域的烧钱速度已经超过当年加密货币最疯狂时期。建议改个名：'AI币'，反正都是靠信仰支撑的价值。",
+          "usage": "💡 聊投资泡沫时\n💬 AI烧钱比币圈还猛！建议直接发行AI币算了\n🔥 AI 投资 加密货币",
+          "source": "https://www.huxiu.com/article/4906491.html?f=rss",
+          "tags": [
+            "AI",
+            "投资",
+            "加密货币"
+          ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-17T18:56:21.627Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-18T04:42:21.743Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 5100,
-    "completion_tokens": 2779,
-    "total_tokens": 7879,
-    "cost_usd": 0.0041714973,
+    "prompt_tokens": 5633,
+    "completion_tokens": 3400,
+    "total_tokens": 9033,
+    "cost_usd": 0.0049475142,
     "free": false,
-    "quality": {
-      "degraded": true,
-      "dropped_orphans": 12,
-      "published": 4
-    },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 7,
+        "huxiu": 12,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 18
+      "total": 23
     }
   }
 }
