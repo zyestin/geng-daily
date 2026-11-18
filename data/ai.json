@@ -5,28 +5,30 @@
       "icon": "💥",
       "items": [
         {
-          "title": "老黄想回归",
-          "summary": "黄仁勋表态愿重掌英伟达",
-          "detail": "黄仁勋在被董事会赶下台后首次发声：'我愿重掌英伟达！'但董事会冷酷回应'不考虑'，同时英伟达公布财报显示营收仍在飙升。这画风堪比复仇商战剧——当年乔布斯被赶出苹果时也是这表情。\n更魔幻的是奥特曼出来共情：'英雄也有缺陷'（source 22），但老黄想复出？现在英伟达连中国生意都砍了（source 9）。",
-          "usage": "💡 聊科技大佬权力斗争时\n💬 英伟达董事会：你走的时候很狼狈，现在想回来的样子更狼狈\n🔥 黄仁勋 董事会斗争 复仇者联盟",
-          "source": "https://www.qbitai.com/2026/11/510726.html",
+          "title": "GPT-6.2双王炸",
+          "summary": "OpenAI同时发布Astra和Sol",
+          "detail": "OpenAI突然甩出王炸组合：GPT-6.2的Astra和Sol两个版本。Astra专注专业场景，Sol强化日常交互。最狠的是Astra操作电脑已达人类水平——以后你电脑卡顿可能真得问AI是不是它后台在搞事情了。",
+          "usage": "💡 同事抱怨电脑卡顿时接话\n💬 以后修电脑得先问Astra要权限了\n🔥 GPT-6.2 Astra Sol 电脑操作",
+          "src_id": 14,
           "tags": [
-            "英伟达",
-            "CEO变动",
-            "权力斗争"
-          ]
+            "OpenAI",
+            "多模态",
+            "生产力工具"
+          ],
+          "source": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
         },
         {
-          "title": "Astra双杀",
-          "summary": "GPT-6.2自带双模型",
-          "detail": "OpenAI扔出王炸：GPT-6.2同时包含Astra和Sol两个模型，一个专攻专业输出和电脑操作（达到人类水平），一个主打高效推理。量子位直接标题杀'3D又危了'（source 7）——上次这么说还是GPT-5干翻原画师的时候。\n最骚的是法律版Astra直接拿下24个法律领域评测第一（source 11），以后律师助理可能要先和AI battle专业分。",
-          "usage": "💡 聊AI多模态进展时\n💬 以前是AI替代单一工种，现在直接双模双杀\n🔥 GPT-6.2 多模型 法律AI",
-          "source": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+          "title": "黄仁勋想复出",
+          "summary": "老黄喊话要回英伟达",
+          "detail": "刚离职的英伟达前CEO黄仁勋公开表示愿意重掌公司，但董事会直接回绝。要知道老黄离职前英伟达市值刚破3万亿，现在财报一出股价就跌——这剧情比《硅谷》还魔幻。",
+          "usage": "💡 聊英伟达财报时抛出\n💬 老黄：我就离开五分钟公司就不行了？\n🔥 黄仁勋 英伟达 权力斗争",
+          "src_id": 19,
           "tags": [
-            "GPT-6.2",
-            "多模型",
-            "专业AI"
-          ]
+            "英伟达",
+            "人事变动",
+            "芯片战争"
+          ],
+          "source": "https://www.qbitai.com/2026/11/510726.html"
         }
       ]
     },
@@ -35,28 +37,30 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "Astra逆天",
-          "summary": "GPT-6.2操作电脑达人类水平",
-          "detail": "OpenAI官宣GPT-6.2的Astra模型已能像人类一样操作电脑——开网页查资料、填表格、写邮件全套动作丝滑完成（source 2）。演示视频里Astra边查机票边对比价格，最后还自动填好报销单，打工人看完集体破防：这特么比我新来的实习生强多了。",
-          "usage": "💡 聊AI自动化时\n💬 建议人类从现在开始练习比AI会卖萌\n🔥 电脑操作AI 自动化 GPT-6.2",
-          "source": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+          "title": "Gemini玩元素周期表",
+          "summary": "谷歌新模型命名Neon",
+          "detail": "谷歌Gemini系列新模型代号Neon泄露，网友调侃这是要把元素周期表用完的节奏。从Gemini到Neon，下次是不是要叫Uranium？DeepMind团队这命名逻辑比他们的算法还难懂。",
+          "usage": "💡 讨论模型命名时玩梗\n💬 谷歌：我们的模型比稀土还稀有\n🔥 Gemini Neon 模型命名",
+          "src_id": 1,
           "tags": [
-            "GPT-6.2",
-            "自动化",
-            "AI助手"
-          ]
+            "Google",
+            "大模型",
+            "命名趣闻"
+          ],
+          "source": "https://www.qbitai.com/2026/11/510922.html"
         },
         {
-          "title": "材料学家狂喜",
-          "summary": "MatOS开源材料科学AI",
-          "detail": "材料科学智能体MatOS宣布开源（source 16），能自动完成筛材料、找配方等科研任务。团队演示了用AI预测超导材料，成功率比传统方法高47%——以后实验室里可能只剩AI和咖啡机还在运转。",
-          "usage": "💡 聊AI+科研时\n💬 以前的科研狗：熬夜做实验 现在的科研狗：盯着AI做实验\n🔥 材料科学 开源AI 科研自动化",
-          "source": "https://www.qbitai.com/2026/11/510652.html",
+          "title": "GPT-6.2难产",
+          "summary": "OpenAI也遭遇跳票",
+          "detail": "GPT-6.2原定本月发布却突然延期，OpenAI终于活成了当年被自己嘲讽的谷歌——原来大厂拖延症会传染。内部消息称是安全测试没通过，看来AI太聪明了连自己公司都怕。",
+          "usage": "💡 吐槽项目延期时用\n💬 OpenAI：原来我们也会咕咕咕\n🔥 GPT-6.2 延期 安全测试",
+          "src_id": 4,
           "tags": [
-            "材料科学",
-            "开源AI",
-            "科研"
-          ]
+            "OpenAI",
+            "研发困境",
+            "AI安全"
+          ],
+          "source": "https://www.qbitai.com/2026/11/510914.html"
         }
       ]
     },
@@ -65,28 +69,30 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "奥特曼共情",
-          "summary": "奥特曼谈老黄事件",
-          "detail": "针对黄仁勋被赶下台事件，奥特曼罕见发声：'英雄也有缺陷'（source 22）。但被问及是否支持老黄回归时立马战术沉默——毕竟OpenAI自己当年也上演过宫斗大戏。这波属于是屠龙少年终成龙的互相理解。",
-          "usage": "💡 聊科技公司宫斗时\n💬 当两个被董事会踢过的人开始惺惺相惜\n🔥 奥特曼 黄仁勋 权力斗争",
-          "source": "https://www.qbitai.com/2026/11/510592.html",
+          "title": "奥特曼警告AI霸权",
+          "summary": "奥特曼警告AI霸权",
+          "detail": "Sam Altman在TechCrunch访谈中明确反对'AI统治人类'的论调：'让AI做决策就像让自动驾驶汽车决定撞谁'。最讽刺的是这话从OpenAI CEO嘴里说出来——你们不就是在造最可能统治人类的AI吗？",
+          "usage": "💡 讨论AI伦理时引用\n💬 奥特曼：我造的AI我清楚，真不能让它掌权\n🔥 SamAltman AI伦理 反乌托邦",
+          "src_id": 9,
           "tags": [
-            "奥特曼",
-            "黄仁勋",
-            "CEO"
-          ]
+            "OpenAI",
+            "AI伦理",
+            "行业争议"
+          ],
+          "source": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/"
         },
         {
-          "title": "李飞飞官宣",
-          "summary": "李飞飞正式加入AMD",
-          "detail": "46天闪电收购案落幕，李飞飞带着团队正式加入AMD（source 10），苏妈亲自迎接。82亿美元股票交易创下AI人才收购纪录——相当于每个团队成员头顶着北上广深一套房。",
-          "usage": "💡 聊AI人才争夺时\n💬 现在顶尖AI人才的计量单位：1飞飞=82亿\n🔥 李飞飞 AMD 人才收购",
-          "source": "https://www.qbitai.com/2026/11/510695.html",
+          "title": "思维链之父跑路",
+          "summary": "Jason Wei离开Meta",
+          "detail": "思维链(Chain-of-Thought)开创者Jason Wei入职Meta刚满一年就闪人，网友调侃这是被小扎的元宇宙吓跑的。现在大厂留不住顶尖AI人才就像留不住手里的沙子。",
+          "usage": "💡 聊大厂人才流失时用\n💬 Meta的AR眼镜还没造好，大神先跑路了\n🔥 JasonWei Meta 人才流失",
+          "src_id": 10,
           "tags": [
-            "李飞飞",
-            "AMD",
-            "收购"
-          ]
+            "Meta",
+            "人事变动",
+            "研究人才"
+          ],
+          "source": "https://www.qbitai.com/2026/11/510811.html"
         }
       ]
     },
@@ -95,28 +101,30 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "NVIDIA断腕",
-          "summary": "英伟达彻底退出中国",
-          "detail": "老黄刚下台，英伟达临时CEO就宣布彻底退出中国市场（source 9）。要知道中国业务占其营收37%，这相当于自断一臂——董事会怕不是连夜看了《甄嬛传》学宫斗。",
-          "usage": "💡 聊中美科技战时\n💬 英伟达新CEO的三把火：第一把就把钱烧了\n🔥 英伟达 中国市场 芯片制裁",
-          "source": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "title": "OpenAI进军芯片设计",
+          "summary": "用AI优化RISC-V芯片",
+          "detail": "OpenAI公布用自家模型优化RISC-V芯片设计的成果，性能提升数据保密但流片成功了。现在AI公司搞芯片，芯片公司搞AI，大家都想抢对方饭碗。",
+          "usage": "💡 聊跨界竞争时举例\n💬 OpenAI这是要逼Nvidia降价啊\n🔥 OpenAI 芯片设计 RISC-V",
+          "src_id": 8,
           "tags": [
-            "英伟达",
-            "中国市场",
-            "芯片"
-          ]
+            "OpenAI",
+            "芯片",
+            "跨界竞争"
+          ],
+          "source": "https://openai.com/index/advancing-chip-design-with-our-models"
         },
         {
-          "title": "Anthropic分蛋糕",
-          "summary": "谷歌亚马逊瓜分Anthropic",
-          "detail": "Anthropic IPO前股权结构曝光：谷歌和亚马逊将共同持有近30%股份（source 18）。两大云厂商把Claude当作对抗OpenAI的弹药库——这波AI冷战越来越像美苏争霸。",
-          "usage": "💡 聊AI阵营对抗时\n💬 当你的情敌和你一起投资女神\n🔥 Anthropic 谷歌 亚马逊",
-          "source": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+          "title": "ChatGPT卖保险了",
+          "summary": "推出销售专用插件",
+          "detail": "OpenAI发布ChatGPT销售插件，能自动分析客户资料生成话术。以后保险推销电话可能是AI打来的，但你还是会秒挂——有些人类习惯AI也改变不了。",
+          "usage": "💡 吐槽营销电话时玩梗\n💬 AI终于要对人类最讨厌的职业下手了\n🔥 ChatGPT 销售 电话营销",
+          "src_id": 17,
           "tags": [
-            "Anthropic",
-            "IPO",
-            "云厂商"
-          ]
+            "OpenAI",
+            "商业化",
+            "B端应用"
+          ],
+          "source": "https://openai.com/index/introducing-chatgpt-for-sales"
         }
       ]
     },
@@ -125,28 +133,30 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "AI销售员上岗",
-          "summary": "ChatGPT推出销售插件",
-          "detail": "OpenAI发布30多个新插件，最骚的是销售专用版（source 5）。能自动研究潜在客户、生成话术——以后销售打电话前要先问AI：'对方像是有钱人吗？'",
-          "usage": "💡 聊AI商业化时\n💬 建议给AI销售设置KPI：每月被挂电话次数\n🔥 ChatGPT 销售AI 商业化",
-          "source": "https://openai.com/index/introducing-chatgpt-for-sales",
+          "title": "谷歌搜索开无痕",
+          "summary": "AI对话不留记录",
+          "detail": "谷歌给搜索的AI功能加了无痕模式，对话不留历史。终于能放心问那些'蠢问题'了，比如'怎么解释GPT原理给丈母娘听'。",
+          "usage": "💡 演示AI产品隐私功能时举例\n💬 谷歌：知道你有些问题不想被同事看到\n🔥 Google 无痕搜索 AI隐私",
+          "src_id": 3,
           "tags": [
-            "ChatGPT",
-            "销售",
-            "插件"
-          ]
+            "Google",
+            "搜索",
+            "隐私保护"
+          ],
+          "source": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/"
         },
         {
-          "title": "科研白嫖福利",
-          "summary": "20万学者免费用AI",
-          "detail": "OpenAI宣布向全球20万科研人员免费开放ChatGPT（source 17）。已知科研狗日均咖啡支出＞电费，这下连论文写作的咖啡钱都省了。",
-          "usage": "💡 聊学术圈AI时\n💬 导师：你怎么一夜之间会写论文了？ 学生：因为一夜之间\n🔥 科研AI 学术白嫖 OpenAI",
-          "source": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "title": "Codex沙盒上线",
+          "summary": "安全运行本地命令",
+          "detail": "OpenAI发布Codex沙盒环境，允许AI在严格限制下操作用户电脑。现在你终于可以让AI帮你整理桌面了——虽然它可能把你的H游戏文件夹命名为'工作资料'。",
+          "usage": "💡 聊AI助理安全性时举例\n💬 以后文件消失不能怪Windows更新了\n🔥 Codex 沙盒 本地执行",
+          "src_id": 2,
           "tags": [
-            "科研",
-            "ChatGPT",
-            "教育"
-          ]
+            "OpenAI",
+            "开发工具",
+            "系统安全"
+          ],
+          "source": "https://openai.com/index/inside-the-codex-sandbox"
         }
       ]
     },
@@ -155,28 +165,30 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "老黄遗产",
-          "summary": "英伟达坚持开源路线",
-          "detail": "尽管老黄下台，英伟达临时CEO宣布坚持开源AI战略（source 12），还要收购Hugging Face。这相当于离婚后还坚持养前任的猫——多少带点感情。",
-          "usage": "💡 聊AI开源时\n💬 当你的人走了，你的政策还得留着\n🔥 英伟达 开源 HuggingFace",
-          "source": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+          "title": "银行封杀AI理财",
+          "summary": "花旗拒赔AI操作损失",
+          "detail": "花旗银行最新条款：用AI理财助手导致的损失自行承担。以后你的AI在币圈爆仓时，银行只会发个'笑哭'表情包表示爱莫能助。",
+          "usage": "💡 聊AI金融风险时举例\n💬 银行：AI赚了不分我，亏了别找我\n🔥 花旗银行 AI理财 免责条款",
+          "src_id": 6,
           "tags": [
-            "英伟达",
-            "开源",
-            "HuggingFace"
-          ]
+            "金融科技",
+            "责任界定",
+            "AI代理"
+          ],
+          "source": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
         },
         {
-          "title": "神秘公司",
-          "summary": "李沐加入Aimotion",
-          "detail": "李沐加盟的Aimotion被扒出是家低调的AI基础设施公司（source 13），团队多来自亚马逊和谷歌。这年头AI大佬的归宿：要么被收购，要么自己搞底层——毕竟不想被API卡脖子。",
-          "usage": "💡 聊AI创业时\n💬 当大厂出来的大佬开始搞基建\n🔥 李沐 Aimotion 创业",
-          "source": "https://www.qbitai.com/2026/11/510688.html",
+          "title": "英伟达投资缩水",
+          "summary": "老黄离职影响初创融资",
+          "detail": "黄仁勋离职后，英伟达650亿初创投资组合前景不明。那些靠老黄个人魅力拿融资的AI公司现在慌得一批——原来VC投资也看创始人明星脸。",
+          "usage": "💡 聊创投圈人脉时举例\n💬 初创公司：说好的技术导向呢？\n🔥 英伟达 风险投资 黄仁勋",
+          "src_id": 24,
           "tags": [
-            "李沐",
-            "创业",
-            "基础设施"
-          ]
+            "英伟达",
+            "风险投资",
+            "人事影响"
+          ],
+          "source": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
         }
       ]
     },
@@ -185,28 +197,30 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "AI守护儿童",
-          "summary": "OpenAI升级儿童保护工具",
-          "detail": "OpenAI联合多家机构推出儿童性虐待内容检测新工具（source 20），误报率比现有系统低60%。这波属于用魔法打败魔法——拿最前沿的AI来对付最下作的内容。",
-          "usage": "💡 聊AI伦理时\n💬 当AI开始担任道德委员会主席\n🔥 儿童保护 内容审核 OpenAI",
-          "source": "https://openai.com/index/strengthening-online-child-safety",
+          "title": "AI设计军用芯片",
+          "summary": "OpenAI协助北约防务",
+          "detail": "OpenAI与北约合作开发网络安全AI，能自动发现军用芯片漏洞。以后黑客攻击可能变成两个AI互啄，人类只能在一旁喊666。",
+          "usage": "💡 讨论AI军事应用时举例\n💬 五角大楼：招AI工程师，需通过政审\n🔥 OpenAI 北约 网络安全",
+          "src_id": 20,
           "tags": [
-            "儿童保护",
-            "内容审核",
-            "AI伦理"
-          ]
+            "军事AI",
+            "网络安全",
+            "地缘政治"
+          ],
+          "source": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
         },
         {
-          "title": "00后暴打比赛",
-          "summary": "大学生48小时造具身智能",
-          "detail": "一队00后大学生在具身智能挑战赛里，仅用48小时从零手搓数据集并夺冠（source 19）。评委原话：'他们解决bug的速度比我读懂题目还快'——后浪直接把前浪拍死在GitHub上。",
-          "usage": "💡 聊AI比赛时\n💬 建议以后比赛按年龄分组 不然对老人家太残忍\n🔥 具身智能 竞赛 00后",
-          "source": "https://www.qbitai.com/2026/11/510610.html",
+          "title": "医疗AI评测平台",
+          "summary": "InclusionMed上线",
+          "detail": "全球首个医疗AI独立评测平台InclusionMed上线，号称要当AI医疗界的'米其林指南'。可惜不能像餐馆评测那样打一星差评：'这个诊断模型害我多做了三次肠镜'。",
+          "usage": "💡 聊AI医疗标准化时举例\n💬 终于知道哪个AI医生最会瞎编了\n🔥 医疗AI 评测标准 合规性",
+          "src_id": 7,
           "tags": [
-            "具身智能",
-            "竞赛",
-            "年轻人"
-          ]
+            "医疗健康",
+            "行业标准",
+            "第三方评测"
+          ],
+          "source": "https://www.qbitai.com/2026/11/510916.html"
         }
       ]
     },
@@ -215,42 +229,44 @@
       "icon": "📈",
       "items": [
         {
-          "title": "芯片赌局",
-          "summary": "英伟达投资组合值650亿",
-          "detail": "英伟达的初创公司投资组合价值飙升至650亿美元（source 3），相当于每个NV员工头上顶着300万美元投资——虽然现在老板都不知道是谁了。",
-          "usage": "💡 聊科技投资时\n💬 当你离职后发现前司股票涨了但和你无关\n🔥 英伟达 投资 初创公司",
-          "source": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+          "title": "AI数据商获融资",
+          "summary": "Humyn Labs融资4700万",
+          "detail": "印度数据公司Humyn Labs获4700万美元融资，专供美国机器人训练数据。现在AI产业链最稳的生意是卖铲子——不过卖的是数字铲子。",
+          "usage": "💡 聊AI基础设施时举例\n💬 硅谷挖金矿，印度人卖牛仔裤\n🔥 训练数据 数据标注 产业链",
+          "src_id": 21,
           "tags": [
-            "英伟达",
-            "投资",
-            "初创企业"
-          ]
+            "数据服务",
+            "全球分工",
+            "机器人"
+          ],
+          "source": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
         },
         {
-          "title": "小红书暗流",
-          "summary": "技术精英潜伏小红书",
-          "detail": "量子位潜伏发现，小红书校招沙龙里技术大牛和00后聊得火热（source 1）。当代互联网奇观：年轻人在抖音追星，大佬在小红书追人才。",
-          "usage": "💡 聊人才争夺时\n💬 当你的mentor开始用emoji发技术贴\n🔥 人才招聘 小红书 技术社区",
-          "source": "https://www.qbitai.com/2026/11/510737.html",
+          "title": "文档AI获投资",
+          "summary": "Unsiloed融资750万",
+          "detail": "仅7人的Unsiloed AI获750万美元融资，要做企业文档的AI翻译官。VC现在看到'让AI读PDF'就掏钱包——这届投资人是不是被法律文件折磨出PTSD了？",
+          "usage": "💡 吐槽企业软件痛点时举例\n💬 又一个帮人类逃避读文档的AI\n🔥 企业服务 文档处理 早期融资",
+          "src_id": 18,
           "tags": [
-            "招聘",
-            "小红书",
-            "技术社区"
-          ]
+            "B端AI",
+            "文档处理",
+            "初创企业"
+          ],
+          "source": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/"
         }
       ]
     }
   ],
-  "generated_at": "2026-11-18T04:43:19.496Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-11-18T18:26:37.590Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3497,
-    "completion_tokens": 3032,
-    "total_tokens": 6529,
-    "cost_usd": 0.0040191462,
+    "prompt_tokens": 3586,
+    "completion_tokens": 2540,
+    "total_tokens": 6126,
+    "cost_usd": 0.0035359344,
     "free": false,
     "sources": {
       "per_source": {

@@ -1,0 +1,280 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "GPT-6.2双王炸",
+          "summary": "OpenAI同时发布Astra和Sol",
+          "detail": "OpenAI突然甩出王炸组合：GPT-6.2的Astra和Sol两个版本。Astra专注专业场景，Sol强化日常交互。最狠的是Astra操作电脑已达人类水平——以后你电脑卡顿可能真得问AI是不是它后台在搞事情了。",
+          "usage": "💡 同事抱怨电脑卡顿时接话\n💬 以后修电脑得先问Astra要权限了\n🔥 GPT-6.2 Astra Sol 电脑操作",
+          "src_id": 14,
+          "tags": [
+            "OpenAI",
+            "多模态",
+            "生产力工具"
+          ],
+          "source": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+        },
+        {
+          "title": "黄仁勋想复出",
+          "summary": "老黄喊话要回英伟达",
+          "detail": "刚离职的英伟达前CEO黄仁勋公开表示愿意重掌公司，但董事会直接回绝。要知道老黄离职前英伟达市值刚破3万亿，现在财报一出股价就跌——这剧情比《硅谷》还魔幻。",
+          "usage": "💡 聊英伟达财报时抛出\n💬 老黄：我就离开五分钟公司就不行了？\n🔥 黄仁勋 英伟达 权力斗争",
+          "src_id": 19,
+          "tags": [
+            "英伟达",
+            "人事变动",
+            "芯片战争"
+          ],
+          "source": "https://www.qbitai.com/2026/11/510726.html"
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Gemini玩元素周期表",
+          "summary": "谷歌新模型命名Neon",
+          "detail": "谷歌Gemini系列新模型代号Neon泄露，网友调侃这是要把元素周期表用完的节奏。从Gemini到Neon，下次是不是要叫Uranium？DeepMind团队这命名逻辑比他们的算法还难懂。",
+          "usage": "💡 讨论模型命名时玩梗\n💬 谷歌：我们的模型比稀土还稀有\n🔥 Gemini Neon 模型命名",
+          "src_id": 1,
+          "tags": [
+            "Google",
+            "大模型",
+            "命名趣闻"
+          ],
+          "source": "https://www.qbitai.com/2026/11/510922.html"
+        },
+        {
+          "title": "GPT-6.2难产",
+          "summary": "OpenAI也遭遇跳票",
+          "detail": "GPT-6.2原定本月发布却突然延期，OpenAI终于活成了当年被自己嘲讽的谷歌——原来大厂拖延症会传染。内部消息称是安全测试没通过，看来AI太聪明了连自己公司都怕。",
+          "usage": "💡 吐槽项目延期时用\n💬 OpenAI：原来我们也会咕咕咕\n🔥 GPT-6.2 延期 安全测试",
+          "src_id": 4,
+          "tags": [
+            "OpenAI",
+            "研发困境",
+            "AI安全"
+          ],
+          "source": "https://www.qbitai.com/2026/11/510914.html"
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "奥特曼警告AI霸权",
+          "summary": "奥特曼警告AI霸权",
+          "detail": "Sam Altman在TechCrunch访谈中明确反对'AI统治人类'的论调：'让AI做决策就像让自动驾驶汽车决定撞谁'。最讽刺的是这话从OpenAI CEO嘴里说出来——你们不就是在造最可能统治人类的AI吗？",
+          "usage": "💡 讨论AI伦理时引用\n💬 奥特曼：我造的AI我清楚，真不能让它掌权\n🔥 SamAltman AI伦理 反乌托邦",
+          "src_id": 9,
+          "tags": [
+            "OpenAI",
+            "AI伦理",
+            "行业争议"
+          ],
+          "source": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/"
+        },
+        {
+          "title": "思维链之父跑路",
+          "summary": "Jason Wei离开Meta",
+          "detail": "思维链(Chain-of-Thought)开创者Jason Wei入职Meta刚满一年就闪人，网友调侃这是被小扎的元宇宙吓跑的。现在大厂留不住顶尖AI人才就像留不住手里的沙子。",
+          "usage": "💡 聊大厂人才流失时用\n💬 Meta的AR眼镜还没造好，大神先跑路了\n🔥 JasonWei Meta 人才流失",
+          "src_id": 10,
+          "tags": [
+            "Meta",
+            "人事变动",
+            "研究人才"
+          ],
+          "source": "https://www.qbitai.com/2026/11/510811.html"
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI进军芯片设计",
+          "summary": "用AI优化RISC-V芯片",
+          "detail": "OpenAI公布用自家模型优化RISC-V芯片设计的成果，性能提升数据保密但流片成功了。现在AI公司搞芯片，芯片公司搞AI，大家都想抢对方饭碗。",
+          "usage": "💡 聊跨界竞争时举例\n💬 OpenAI这是要逼Nvidia降价啊\n🔥 OpenAI 芯片设计 RISC-V",
+          "src_id": 8,
+          "tags": [
+            "OpenAI",
+            "芯片",
+            "跨界竞争"
+          ],
+          "source": "https://openai.com/index/advancing-chip-design-with-our-models"
+        },
+        {
+          "title": "ChatGPT卖保险了",
+          "summary": "推出销售专用插件",
+          "detail": "OpenAI发布ChatGPT销售插件，能自动分析客户资料生成话术。以后保险推销电话可能是AI打来的，但你还是会秒挂——有些人类习惯AI也改变不了。",
+          "usage": "💡 吐槽营销电话时玩梗\n💬 AI终于要对人类最讨厌的职业下手了\n🔥 ChatGPT 销售 电话营销",
+          "src_id": 17,
+          "tags": [
+            "OpenAI",
+            "商业化",
+            "B端应用"
+          ],
+          "source": "https://openai.com/index/introducing-chatgpt-for-sales"
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "谷歌搜索开无痕",
+          "summary": "AI对话不留记录",
+          "detail": "谷歌给搜索的AI功能加了无痕模式，对话不留历史。终于能放心问那些'蠢问题'了，比如'怎么解释GPT原理给丈母娘听'。",
+          "usage": "💡 演示AI产品隐私功能时举例\n💬 谷歌：知道你有些问题不想被同事看到\n🔥 Google 无痕搜索 AI隐私",
+          "src_id": 3,
+          "tags": [
+            "Google",
+            "搜索",
+            "隐私保护"
+          ],
+          "source": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/"
+        },
+        {
+          "title": "Codex沙盒上线",
+          "summary": "安全运行本地命令",
+          "detail": "OpenAI发布Codex沙盒环境，允许AI在严格限制下操作用户电脑。现在你终于可以让AI帮你整理桌面了——虽然它可能把你的H游戏文件夹命名为'工作资料'。",
+          "usage": "💡 聊AI助理安全性时举例\n💬 以后文件消失不能怪Windows更新了\n🔥 Codex 沙盒 本地执行",
+          "src_id": 2,
+          "tags": [
+            "OpenAI",
+            "开发工具",
+            "系统安全"
+          ],
+          "source": "https://openai.com/index/inside-the-codex-sandbox"
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "银行封杀AI理财",
+          "summary": "花旗拒赔AI操作损失",
+          "detail": "花旗银行最新条款：用AI理财助手导致的损失自行承担。以后你的AI在币圈爆仓时，银行只会发个'笑哭'表情包表示爱莫能助。",
+          "usage": "💡 聊AI金融风险时举例\n💬 银行：AI赚了不分我，亏了别找我\n🔥 花旗银行 AI理财 免责条款",
+          "src_id": 6,
+          "tags": [
+            "金融科技",
+            "责任界定",
+            "AI代理"
+          ],
+          "source": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+        },
+        {
+          "title": "英伟达投资缩水",
+          "summary": "老黄离职影响初创融资",
+          "detail": "黄仁勋离职后，英伟达650亿初创投资组合前景不明。那些靠老黄个人魅力拿融资的AI公司现在慌得一批——原来VC投资也看创始人明星脸。",
+          "usage": "💡 聊创投圈人脉时举例\n💬 初创公司：说好的技术导向呢？\n🔥 英伟达 风险投资 黄仁勋",
+          "src_id": 24,
+          "tags": [
+            "英伟达",
+            "风险投资",
+            "人事影响"
+          ],
+          "source": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "AI设计军用芯片",
+          "summary": "OpenAI协助北约防务",
+          "detail": "OpenAI与北约合作开发网络安全AI，能自动发现军用芯片漏洞。以后黑客攻击可能变成两个AI互啄，人类只能在一旁喊666。",
+          "usage": "💡 讨论AI军事应用时举例\n💬 五角大楼：招AI工程师，需通过政审\n🔥 OpenAI 北约 网络安全",
+          "src_id": 20,
+          "tags": [
+            "军事AI",
+            "网络安全",
+            "地缘政治"
+          ],
+          "source": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+        },
+        {
+          "title": "医疗AI评测平台",
+          "summary": "InclusionMed上线",
+          "detail": "全球首个医疗AI独立评测平台InclusionMed上线，号称要当AI医疗界的'米其林指南'。可惜不能像餐馆评测那样打一星差评：'这个诊断模型害我多做了三次肠镜'。",
+          "usage": "💡 聊AI医疗标准化时举例\n💬 终于知道哪个AI医生最会瞎编了\n🔥 医疗AI 评测标准 合规性",
+          "src_id": 7,
+          "tags": [
+            "医疗健康",
+            "行业标准",
+            "第三方评测"
+          ],
+          "source": "https://www.qbitai.com/2026/11/510916.html"
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "AI数据商获融资",
+          "summary": "Humyn Labs融资4700万",
+          "detail": "印度数据公司Humyn Labs获4700万美元融资，专供美国机器人训练数据。现在AI产业链最稳的生意是卖铲子——不过卖的是数字铲子。",
+          "usage": "💡 聊AI基础设施时举例\n💬 硅谷挖金矿，印度人卖牛仔裤\n🔥 训练数据 数据标注 产业链",
+          "src_id": 21,
+          "tags": [
+            "数据服务",
+            "全球分工",
+            "机器人"
+          ],
+          "source": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
+        },
+        {
+          "title": "文档AI获投资",
+          "summary": "Unsiloed融资750万",
+          "detail": "仅7人的Unsiloed AI获750万美元融资，要做企业文档的AI翻译官。VC现在看到'让AI读PDF'就掏钱包——这届投资人是不是被法律文件折磨出PTSD了？",
+          "usage": "💡 吐槽企业软件痛点时举例\n💬 又一个帮人类逃避读文档的AI\n🔥 企业服务 文档处理 早期融资",
+          "src_id": 18,
+          "tags": [
+            "B端AI",
+            "文档处理",
+            "初创企业"
+          ],
+          "source": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-18T18:26:37.590Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3586,
+    "completion_tokens": 2540,
+    "total_tokens": 6126,
+    "cost_usd": 0.0035359344,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}
