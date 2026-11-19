@@ -5,27 +5,27 @@
       "icon": "💥",
       "items": [
         {
-          "title": "GPT-6.2双生",
-          "summary": "OpenAI发布Astra和Sol双模型",
-          "detail": "OpenAI突然发布GPT-6.2双模型：Astra专注专业输出和计算机操作，Sol主打高效推理。最炸的是Astra已经能像人类一样操作电脑完成复杂任务——以后AI不仅能写代码，还能自己把代码部署上线。这下程序员真要失业了？",
-          "usage": "💡 同事讨论AI取代人类时\n💬 OpenAI这波直接让AI学会用电脑了，以后我们写代码它部署，我们开会它做PPT，人类就负责...负责啥？\n🔥 GPT-6.2 Astra Sol 自动化",
-          "source": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+          "title": "Anthropic上市首日暴涨",
+          "summary": "Anthropic IPO首日股价飙升33%",
+          "detail": "Anthropic以83美元IPO价登陆纳斯达克，首日收盘价达111美元，市值突破800亿美元。这波直接让早期投资人赚麻了——要知道去年这个时候大家还在讨论AI寒冬。现在问题来了：OpenAI什么时候跟进？",
+          "usage": "💡 同事聊AI公司估值时\n💬 Anthropic这波上市直接起飞，OpenAI压力山大啊\n🔥 Anthropic IPO 估值暴涨 AI公司",
+          "source": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
           "tags": [
-            "OpenAI",
-            "AGI",
-            "自动化"
+            "IPO",
+            "估值",
+            "Anthropic"
           ]
         },
         {
-          "title": "烘焙师变导演",
-          "summary": "初中毕业烘焙师用AI做千万播放剧",
-          "detail": "一个初中毕业的烘焙师用国产AI工具单枪匹马做出单集千万播放的科幻剧。现在AI已经能让一个人就是一个剧组：Midjourney做场景，GPT写剧本，Suno配乐，HeyGen生成演员。影视行业要地震了，以后Netflix可能都是个人工作室。",
-          "usage": "💡 聊AI创作门槛降低时\n💬 现在当导演不需要电影学院毕业，只需要会Prompt Engineering...和一台3090\n🔥 AI影视 个人创作 内容生产",
-          "source": "https://www.qbitai.com/2026/11/510947.html",
+          "title": "Gemini接管Mac",
+          "summary": "谷歌让Gemini直接操作你电脑",
+          "detail": "谷歌给Gemini更新了个狠活：现在它能直接操控你的Mac了，整理文件、填表格全自动。想象一下：你正摸鱼刷剧，Gemini默默把你周报都写完了——这到底是福是祸？",
+          "usage": "💡 聊AI自动化时\n💬 以后摸鱼要小心了，Gemini可能比你先完成KPI\n🔥 Gemini Mac自动化 谷歌",
+          "source": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
           "tags": [
-            "AIGC",
-            "影视",
-            "个人创作"
+            "Gemini",
+            "自动化",
+            "谷歌"
           ]
         }
       ]
@@ -35,27 +35,27 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "范式双模",
-          "summary": "国产3090可跑语言模型",
-          "detail": "范式发布双模型基座，语言模型单张3090就能跑起来，价格直接打到大厂1/10。现在搞AI创业不用等A100了，网吧显卡都能炼丹。网友实测：跑7B模型比Llama3快23%，显存占用少40%。",
-          "usage": "💡 聊AI硬件门槛时\n💬 大厂还在卷H100，国产模型已经能在网吧显卡上起飞了\n🔥 范式 3090 轻量化",
-          "source": "https://www.qbitai.com/2026/11/511071.html",
+          "title": "Kling 4.0炸场",
+          "summary": "国产AI画出8K超清大图",
+          "detail": "Kling Image 4.0发布，支持生成8K分辨率图片，放大到墙那么大都不糊。对比上一代，细节处理强了不是一星半点——现在连毛孔和发丝都能数清楚了。",
+          "usage": "💡 聊AI绘画进展时\n💬 这细节，摄影师要连夜改行当prompt工程师了\n🔥 Kling 8K AI绘画 超清",
+          "source": "https://www.qbitai.com/2026/11/511092.html",
           "tags": [
-            "国产模型",
-            "轻量化",
-            "推理优化"
+            "Kling",
+            "AI绘画",
+            "8K"
           ]
         },
         {
-          "title": "Gemini新元素",
-          "summary": "谷歌Neon模型引猜想",
-          "detail": "谷歌Gemini新模型Neon即将发布，名字引发网友疯狂猜想：这是要把元素周期表全遍历一遍？从Gemini(双子)到Neon(氖)，下次是不是该出个Uranium(铀)模型了？",
-          "usage": "💡 吐槽大模型命名时\n💬 谷歌这是要集齐元素周期表召唤神龙？下一个模型怕不是叫Unobtainium( unobtainium)\n🔥 Gemini Neon 命名",
-          "source": "https://www.qbitai.com/2026/11/510922.html",
+          "title": "SenseNova登顶",
+          "summary": "商汤图片生成全球第六",
+          "detail": "商汤SenseNova U1 Pro在Design Arena双榜拿下中国第一、全球第六。特别在图片编辑赛道，现在能实现'把西装P成唐装'这种精准修改，不用再找淘宝修图师了。",
+          "usage": "💡 比较国内外AI能力时\n💬 商汤这波属实给国产AI长脸了\n🔥 SenseNova 商汤 AI修图",
+          "source": "https://www.qbitai.com/2026/11/511179.html",
           "tags": [
-            "Gemini",
-            "谷歌",
-            "模型命名"
+            "SenseNova",
+            "商汤",
+            "AI修图"
           ]
         }
       ]
@@ -65,27 +65,27 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "老黄是乔丹",
-          "summary": "马斯克力挺黄仁勋",
-          "detail": "马斯克公开为黄仁勋站台：'把老黄赶出英伟达就像把乔丹踢出你的篮球队'。此前有传言称美国政府施压要求换掉华裔CEO。马斯克补刀：'我不认为他对美国不忠诚'——这瓜吃得，科技圈秒变宫斗剧。",
-          "usage": "💡 聊地缘政治影响科技时\n💬 马斯克这波站队绝了：老黄是AI界的乔丹，那马斯克自己是什么？AI界的...特朗普？\n🔥 马斯克 黄仁勋 英伟达",
-          "source": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+          "title": "Dario重申AI安全",
+          "summary": "Anthropic CEO上市日谈克制",
+          "detail": "Anthropic上市当天，CEO Dario Amodei在敲钟时不忘强调'会继续控制AI发展节奏'。网友锐评：'一边融资80亿刀一边说慢慢来，这很赛博朋克'。",
+          "usage": "💡 讨论AI安全与发展平衡时\n💬 上市首日不忘立牌坊，这很Anthropic\n🔥 Dario Anthropic AI安全 IPO",
+          "source": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
           "tags": [
-            "马斯克",
-            "黄仁勋",
-            "地缘政治"
+            "Dario",
+            "Anthropic",
+            "AI安全"
           ]
         },
         {
-          "title": "纳德拉预警",
-          "summary": "AI将重构互联网经济",
-          "detail": "微软CEO纳德拉最新预言：AI智能体将重塑互联网经济，广告商业模式可能崩盘。'当AI能直接满足需求，谁还看广告？'——谷歌股价应声跌2%。现在压力给到靠推荐算法吃饭的巨头们了。",
-          "usage": "💡 讨论AI商业影响时\n💬 纳德拉：AI来了，广告死了。谷歌：你礼貌吗？\n🔥 纳德拉 AI经济 广告",
-          "source": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+          "title": "纳德拉解释裁员",
+          "summary": "微软CEO谈6万人离职",
+          "detail": "微软CEO纳德拉首次解释为何让6万员工离职：'AI让每个人效率提升10倍，我们不需要那么多人做重复工作'。打工人听完瑟瑟发抖：下次裁员理由找到了。",
+          "usage": "💡 聊AI对就业影响时\n💬 纳德拉这波属于把裁员说得清新脱俗\n🔥 纳德拉 微软 裁员 AI替代",
+          "source": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
           "tags": [
             "纳德拉",
-            "商业模式",
-            "AI经济"
+            "微软",
+            "裁员"
           ]
         }
       ]
@@ -95,27 +95,27 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "OpenAI联姻",
-          "summary": "与法国媒体巨头合作",
-          "detail": "OpenAI拿下法国最大报业集团Le Figaro，获得其全部新闻内容训练权。法媒集体炸锅：'这是文化自杀！'OpenAI回应：'我们只做摘要'——但谁知道摘要完会不会顺手训练个法语Sora呢？",
-          "usage": "💡 聊AI版权争议时\n💬 法国人连英语都不想说，现在要把母语喂给AI...法式愤怒蓄力中\n🔥 OpenAI LeFigaro 版权",
+          "title": "OpenAI结盟费加罗",
+          "summary": "ChatGPT接入法国顶级媒体",
+          "detail": "OpenAI与法国费加罗报业集团达成合作，ChatGPT将提供其新闻摘要。网友调侃：'以后法国人吵架引经据典时，可能都是在引用AI总结版'。",
+          "usage": "💡 讨论AI与媒体关系时\n💬 连费加罗都投诚了，传统媒体最后的倔强呢\n🔥 OpenAI 费加罗 新闻摘要",
           "source": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
           "tags": [
             "OpenAI",
-            "媒体合作",
-            "版权"
+            "费加罗",
+            "媒体合作"
           ]
         },
         {
-          "title": "微软大裁员",
-          "summary": "6万人领大礼包",
-          "detail": "纳德拉解释为何让6万员工离职：'AI让重复工作消失'。最惨的是Office产品线——现在连PPT都是AI自动生成，要那么多产品经理干嘛？微软股票反而涨了5%，资本市场用脚投票。",
-          "usage": "💡 聊AI取代岗位时\n💬 微软：我们用AI取代了6万人 资本市场：涨！\n🔥 微软 裁员 AI替代",
-          "source": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+          "title": "Meta AI又翻车",
+          "summary": "Muse泄露员工私密聊天",
+          "detail": "Meta的AI助手Muse被曝混淆对话内容，把员工 childcare请假申请都曝光了。扎克伯格此刻表情：说好的元宇宙没搞成，AI还天天给我惹事。",
+          "usage": "💡 聊AI隐私问题时\n💬 建议改名叫Muse-克星，专克打工人\n🔥 Meta Muse 隐私泄露",
+          "source": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
           "tags": [
-            "微软",
-            "裁员",
-            "岗位替代"
+            "Meta",
+            "Muse",
+            "隐私"
           ]
         }
       ]
@@ -125,27 +125,27 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "Codex沙盒",
-          "summary": "本地执行代码更安全",
-          "detail": "OpenAI发布Codex沙盒环境，AI生成的代码能在严格隔离中本地执行。再也不用担心'帮我写个爬虫'结果把自己数据库删了。网友实测：像给AI代码上了儿童安全锁，但...这锁是AI自己设计的。",
-          "usage": "💡 吐槽AI代码安全时\n💬 现在让AI写代码就像让哈士奇看家——至少给个笼子先\n🔥 Codex 沙盒 代码安全",
-          "source": "https://openai.com/index/inside-the-codex-sandbox",
+          "title": "Superhuman全面Go化",
+          "summary": "Go助手入驻所有办公场景",
+          "detail": "Superhuman把Go助手塞进了Docs和Mail，现在写邮件能自动调取过往沟通记录。打工人狂喜：终于不用'如邮件所述'来回踢皮球了。",
+          "usage": "💡 聊办公效率工具时\n💬 建议改名叫Super懒人，太懂打工人了\n🔥 Superhuman Go 办公助手",
+          "source": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
           "tags": [
-            "Codex",
-            "开发工具",
-            "安全"
+            "Superhuman",
+            "Go",
+            "办公自动化"
           ]
         },
         {
-          "title": "保险业AI化",
-          "summary": "寿险公司全面接入ChatGPT",
-          "detail": "日本Sumitomo人寿全面接入ChatGPT企业版，从核保到理赔全流程AI化。最骚操作：用AI分析客户社交媒体判断健康风险——你昨晚的啤酒烧烤照片，可能正在抬高你的保费。",
-          "usage": "💡 聊AI行业应用时\n💬 以后骗保难度飙升：AI连你五年前发的'熬夜加班'朋友圈都能挖出来\n🔥 ChatGPT 保险 风控",
-          "source": "https://openai.com/business/customer-stories/sumitomo-life",
+          "title": "ChatGPT性能工厂",
+          "summary": "OpenAI揭秘加速黑科技",
+          "detail": "OpenAI公开'性能工厂'系统，用Codex自动优化ChatGPT响应速度。现在你每句回复快0.3秒背后，是AI在训练AI的套娃操作。",
+          "usage": "💡 讨论AI工程优化时\n💬 建议改名叫Open卷王，AI都要压榨AI\n🔥 ChatGPT 性能优化 Codex",
+          "source": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
           "tags": [
             "ChatGPT",
-            "保险",
-            "企业应用"
+            "性能优化",
+            "Codex"
           ]
         }
       ]
@@ -155,27 +155,27 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "芯片设计突破",
-          "summary": "AI设计RISC-V性能提升",
-          "detail": "OpenAI用模型优化RISC-V芯片设计，性能直接提升15%。现在AI不仅能写代码，还能设计跑代码的芯片了——硬件工程师看着自己画的电路图，突然觉得像在刻楔形文字。",
-          "usage": "💡 聊AI+芯片时\n💬 从写软件到设计硬件，AI这是要完成计算机界的生命大和谐？\n🔥 RISC-V 芯片设计 OpenAI",
-          "source": "https://openai.com/index/advancing-chip-design-with-our-models",
+          "title": "国产算力全链路",
+          "summary": "单卡3090就能跑大模型",
+          "detail": "新开源模型宣称单张3090显卡即可运行，还放出全链路训练方案。网友实测后表示：'虽然效果比不过GPT-4，但跑起来那一刻感觉自己在OpenAI上班'。",
+          "usage": "💡 聊开源模型轻量化时\n💬 这下真·人均AI炼丹师了\n🔥 开源模型 3090 轻量化",
+          "source": "https://www.qbitai.com/2026/11/511071.html",
           "tags": [
-            "芯片设计",
-            "RISC-V",
-            "OpenAI"
+            "开源模型",
+            "3090",
+            "轻量化"
           ]
         },
         {
-          "title": "英伟达AMD合体",
-          "summary": "联手投资AI芯片创企",
-          "detail": "死对头英伟达和AMD破天荒联手投资AI芯片创企Genesis，估值230亿。网友：'这就像可口可乐和百事一起开奶茶店'。更魔幻的是Genesis创始人——前英特尔工程师。",
-          "usage": "💡 聊芯片行业变局时\n💬 当NVIDIA和AMD开始联手，英特尔：首先我没惹你们任何人\n🔥 英伟达 AMD AI芯片",
-          "source": "https://www.qbitai.com/2026/11/510821.html",
+          "title": "安谋发AIoT平台",
+          "summary": "星辰100e专攻嵌入式AI",
+          "detail": "安谋科技发布'星辰100e'AIoT平台，搭载最新Cortex-M42核心，要把AI塞进你家电饭煲。以后煮饭可能都会弹窗：'检测到您最近碳水摄入过量...'",
+          "usage": "💡 聊边缘计算时\n💬 建议电饭煲增加'别管闲事'模式\n🔥 安谋 AIoT 嵌入式",
+          "source": "https://www.qbitai.com/2026/11/511079.html",
           "tags": [
-            "英伟达",
-            "AMD",
-            "AI芯片"
+            "安谋",
+            "AIoT",
+            "嵌入式"
           ]
         }
       ]
@@ -185,27 +185,27 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "研究加速器",
-          "summary": "AI编码代理提升科研效率",
-          "detail": "OpenAI论文揭示：用AI编码代理能让科研效率提升3-8倍，但存在'锯齿前沿'——有些任务AI一骑绝尘，有些却死活学不会。就像给研究员配了个天才智障助理。",
-          "usage": "💡 讨论AI科研辅助时\n💬 AI搞科研：能一夜写完论文，但可能把参考文献编成《哈利波特》\n🔥 科研加速 编码代理 OpenAI",
-          "source": "https://openai.com/index/research-acceleration-jagged-frontier",
+          "title": "OpenAI造芯片",
+          "summary": "用AI设计RISC-V核心",
+          "detail": "OpenAI用自家模型优化RISC-V芯片设计，性能提升肉眼可见。现在AI不仅抢程序员饭碗，连芯片工程师都不放过——下一步是不是要自己造自己了？",
+          "usage": "💡 聊AI+芯片设计时\n💬 建议改名叫Self-madeAI，自己生自己\n🔥 OpenAI 芯片设计 RISC-V",
+          "source": "https://openai.com/index/advancing-chip-design-with-our-models",
           "tags": [
-            "科研",
-            "编码代理",
-            "效率"
+            "OpenAI",
+            "芯片设计",
+            "RISC-V"
           ]
         },
         {
-          "title": "医疗评测平台",
-          "summary": "全球首个医疗AI评测上线",
-          "detail": "全球首个医疗AI独立评测平台InclusionMed上线，专治各种'准确率99%'的吹牛。首批测试就抓包某明星AI诊断系统——看X光片准，看病理切片菜得像医学生。",
-          "usage": "💡 吐槽AI医疗泡沫时\n💬 现在AI医疗产品吹牛要小心了，真有裁判下场打假了\n🔥 医疗AI 评测 可信度",
-          "source": "https://www.qbitai.com/2026/11/510916.html",
+          "title": "编码加速研究",
+          "summary": "OpenAI发现'锯齿前沿'",
+          "detail": "OpenAI研究显示AI编码助手在不同任务上表现差异巨大：写Python如德芙般丝滑，调C++就卡成PPT。这'锯齿状能力边界'让程序员又爱又恨。",
+          "usage": "💡 讨论AI编码局限时\n💬 建议改名叫SelectiveCoder，看菜下饭\n🔥 编码助手 能力边界 OpenAI",
+          "source": "https://openai.com/index/research-acceleration-jagged-frontier",
           "tags": [
-            "医疗AI",
-            "评测",
-            "可信AI"
+            "编码助手",
+            "能力边界",
+            "OpenAI"
           ]
         }
       ]
@@ -215,42 +215,42 @@
       "icon": "📈",
       "items": [
         {
-          "title": "Anthropic天价",
-          "summary": "IPO估值1.5万亿美元",
-          "detail": "Anthropic IPO定价83美元/股，估值冲到1.5万亿美元——超过苹果巅峰期。网友算账：这相当于每个美国公民要花5000美元买它的股票才撑得起这个价。",
-          "usage": "💡 聊AI估值泡沫时\n💬 1.5万亿是什么概念？相当于把整个俄罗斯的GDP买下来还找零\n🔥 Anthropic IPO 估值",
-          "source": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+          "title": "联想财报创新高",
+          "summary": "AI基建带动最佳财季",
+          "detail": "联想公布史上最强季度财报，AI服务器业务暴涨。网友神评：'这波属于AI时代的卖铲人，管你淘不淘到金，我先赚一波机房钱'。",
+          "usage": "💡 聊AI基础设施商机时\n💬 建议改名叫Len(ov)黄金矿工\n🔥 联想 财报 AI服务器",
+          "source": "https://www.qbitai.com/2026/11/511088.html",
           "tags": [
-            "Anthropic",
-            "IPO",
-            "估值"
+            "联想",
+            "财报",
+            "AI基建"
           ]
         },
         {
-          "title": "网安警钟",
-          "summary": "AI攻击已超防御速度",
-          "detail": "Palmer Luckey警告：AI网络攻击速度已超防御能力，'现在不是走，是跑的时候了'。最恐怖的是关键基础设施很多系统'无法打补丁'——就像给木门配了把AI智能锁。",
-          "usage": "💡 讨论AI安全威胁时\n💬 以前黑客要学编程，现在只要会Prompt：'写个能瘫痪电网的病毒，但要有爱心'\n🔥 网络安全 AI攻击 关键基础设施",
-          "source": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+          "title": "Everful融资",
+          "summary": "前阿里高管搞AI供应链",
+          "detail": "前阿里高管创立的Everful完成4850万美元融资，用AI连接零售商与中国工厂。这下连'义乌小商品'都要搞数字化升级了。",
+          "usage": "💡 聊AI+供应链时\n💬 建议1688连夜上线AI砍价功能\n🔥 Everful 供应链 融资",
+          "source": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
           "tags": [
-            "网络安全",
-            "AI攻击",
-            "关键基础设施"
+            "Everful",
+            "供应链",
+            "融资"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-19T04:32:19.778Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-11-19T18:39:35.106Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3587,
-    "completion_tokens": 3120,
-    "total_tokens": 6707,
-    "cost_usd": 0.0041328378,
+    "prompt_tokens": 3590,
+    "completion_tokens": 2877,
+    "total_tokens": 6467,
+    "cost_usd": 0.0038836358999999997,
     "free": false,
     "sources": {
       "per_source": {

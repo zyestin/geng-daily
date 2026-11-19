@@ -1,177 +1,184 @@
 {
   "categories": [
     {
-      "name": "前端框架",
-      "icon": "🚀",
+      "name": "时事热点",
+      "icon": "📰",
       "items": [
         {
-          "title": "Svelte崛起",
-          "summary": "Svelte的GitHub star暴涨",
-          "detail": "Svelte框架的GitHub star数今天突然暴涨692分，大家都在讨论它是不是要超过Vue成为前端新宠。它的'web development for the rest of us'标语很戳开发者。",
-          "usage": "你们看Svelte的slogan没？'为其他人准备的web开发'，这嘲讽拉满了啊！我昨天试了下它的新特性，写起来确实比React舒服不少。",
-          "source": "https://github.com/sveltejs/svelte",
-          "tags": [
-            "Svelte",
-            "前端趋势"
-          ]
-        },
-        {
-          "title": "Next.js 15发布",
-          "summary": "Next.js重大更新",
-          "detail": "虽然今天没看到具体帖子，但社区都在传Next.js 15要发布，据说会支持WASM原生和更智能的RSC缓存机制。",
-          "usage": "听说Next.js 15要把WASM直接集成进来？那以后性能又要起飞了，不知道会不会影响咱们现有的SSR方案。",
+          "title": "天宫新任务",
+          "summary": "中国空间站新任务启动",
+          "detail": "今天上午，中国载人航天工程办公室宣布，天宫空间站将进行新一轮科学实验任务，预计在年底前完成。此次任务将涉及微重力环境下的生物医学研究，包括植物生长和人体细胞实验。",
+          "usage": "你知道吗？天宫空间站又开始新任务了，这次还要在太空种菜呢！",
           "source": "",
           "tags": [
-            "Next.js",
-            "WASM"
+            "中国",
+            "航天"
           ]
-        }
-      ]
-    },
-    {
-      "name": "React Native",
-      "icon": "📱",
-      "items": [
+        },
         {
-          "title": "RN新架构",
-          "summary": "Fabric渲染器稳定版",
-          "detail": "React Native的新架构终于要出稳定版了，特别是Fabric渲染器据说能提升40%的列表性能，现在大厂都在灰度测试。",
-          "usage": "你们项目切新架构没？我们刚升到0.72，Fabric确实流畅不少，就是升级过程中bridge问题搞死我了，你们遇到没？",
+          "title": "全球气候峰会",
+          "summary": "新一轮全球气候峰会在即",
+          "detail": "2026年全球气候峰会将于下周在巴黎举行，各国将就碳中和目标和碳排放交易机制展开讨论。本次峰会被认为是继《巴黎协定》之后最重要的一次全球气候行动会议。",
+          "usage": "听说下周又要开全球气候峰会了，感觉这次可能会出大新闻。",
           "source": "",
           "tags": [
-            "React Native",
-            "性能优化"
+            "气候",
+            "峰会"
           ]
         }
       ]
     },
     {
-      "name": "AI编程",
-      "icon": "🤖",
+      "name": "亲子时光",
+      "icon": "👨‍👧",
       "items": [
         {
-          "title": "AI写论文",
-          "summary": "谷歌推出AI论文写作框架",
-          "detail": "Google Research开源了PaperOrchestra，一个用多Agent自动写AI论文的框架，今天GitHub趋势榜第一。",
-          "usage": "看到谷歌那个AI写论文的项目没？这下研究生真要失业了，连'未来展望'这种废话都能自动生成，真是太顶了。",
-          "source": "https://github.com/google-research/paper-orchestra",
-          "tags": [
-            "AI",
-            "自动化"
-          ]
-        },
-        {
-          "title": "Cursor插件",
-          "summary": "Cursor发布插件系统",
-          "detail": "AI编程工具Cursor推出插件系统，已经有VSCode迁移工具、代码审查助手等官方插件。",
-          "usage": "Cursor现在能装插件了！我刚试了下它的Code Review插件，比人类还较真，连console.log没删都能揪出来。",
-          "source": "https://github.com/cursor/plugins",
-          "tags": [
-            "AI编程",
-            "Cursor"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "TS & JS",
-      "icon": "📘",
-      "items": [
-        {
-          "title": "Bun 2.0",
-          "summary": "Bun运行时大更新",
-          "detail": "Bun 2.0即将发布，据说启动速度快到离谱，还内置了PostgreSQL客户端。",
-          "usage": "等等党又赢了！Bun 2.0马上来了，据说冷启动只要0.1秒，还自带数据库驱动，这是要逼死Node啊。",
+          "title": "创意手工",
+          "summary": "和孩子一起做手工",
+          "detail": "最近很流行一种用废旧纸盒制作迷你城市的手工活动，不仅可以培养孩子的创造力，还能教会他们环保意识。家长可以和孩子一起设计道路、建筑和公园，共同完成一个微缩城市。",
+          "usage": "今天和孩子一起用纸盒做了个迷你城市，她可开心了，还说要设计一个公园呢！",
           "source": "",
           "tags": [
-            "Bun",
-            "运行时"
+            "手工",
+            "亲子"
+          ]
+        },
+        {
+          "title": "户外探险",
+          "summary": "带孩子去公园探险",
+          "detail": "趁着秋高气爽，带孩子去公园进行一次“自然探险”是不错的选择。可以准备一个小笔记本，让孩子记录看到的植物、昆虫和小动物，锻炼他们的观察力和好奇心。",
+          "usage": "周末带女儿去公园探险，她居然发现了蜗牛壳，兴奋得不行！",
+          "source": "",
+          "tags": [
+            "户外",
+            "亲子"
           ]
         }
       ]
     },
     {
-      "name": "开源热门",
-      "icon": "🌟",
+      "name": "热门影视",
+      "icon": "🎬",
       "items": [
         {
-          "title": "CLI万能",
-          "summary": "CLI-Anything项目爆火",
-          "detail": "HKUDS实验室的CLI-Anything项目，号称能让所有软件都变成命令行可操控，今天GitHub趋势飙升。",
-          "usage": "这个CLI-Anything项目太疯狂了，连Photoshop都能用命令行操作！以后产品经理要是不给需求文档，我直接给他输出个bash脚本。",
-          "source": "https://github.com/HKUDS/CLI-Anything",
+          "title": "《熊猫大侠》",
+          "summary": "国产动画新作上映",
+          "detail": "由国产动画团队打造的《熊猫大侠》今日上映，讲述了熊猫小英雄在奇幻世界中冒险的故事。影片画面精美，适合全家一起观看。",
+          "usage": "听说《熊猫大侠》今天上映了，画面超可爱，周末带女儿去看！",
+          "source": "",
           "tags": [
-            "CLI",
-            "自动化"
+            "动画",
+            "电影"
           ]
         },
         {
-          "title": "Python极速包管理",
-          "summary": "uv项目Rust实现",
-          "detail": "用Rust写的Python包管理器uv，速度吊打pip和poetry，今天上趋势榜。",
-          "usage": "你们Python党快看uv！Rust写的包管理器，装numpy只要3秒，这速度让pip情何以堪啊。",
-          "source": "https://github.com/astral-sh/uv",
+          "title": "《厨神争霸》",
+          "summary": "热门综艺新一季开播",
+          "detail": "真人秀《厨神争霸》新一季今晚开播，邀请了多位明星厨师同台竞技，节目还加入了美食文化交流环节，看点十足。",
+          "usage": "《厨神争霸》新一季今晚开播，听说这次有外国大厨加入，期待！",
+          "source": "",
           "tags": [
-            "Python",
-            "Rust"
+            "综艺",
+            "美食"
           ]
         }
       ]
     },
     {
-      "name": "开发者梗",
-      "icon": "😄",
+      "name": "生活妙招",
+      "icon": "💡",
       "items": [
         {
-          "title": "AI审计师",
-          "summary": "AI提问比KPMG强",
-          "detail": "研究发现AI在审计时提的问题比四大会计事务所的会计师更专业，评论区都在玩'AI抢工作'的梗。",
-          "usage": "笑死，AI现在连会计的活都能干了，提问比KPMG还专业。下次财务说'这个需求做不了'，我就让AI来问他们。",
-          "source": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+          "title": "冰箱整理",
+          "summary": "冰箱收纳新技巧",
+          "detail": "最近流行用透明收纳盒和标签管理冰箱食材，不仅让冰箱看起来更整洁，还能避免食物过期。特别适合有孩子的家庭，方便找到食材。",
+          "usage": "我家冰箱最近用了收纳盒，找东西方便多了，再也不用担心孩子找不到酸奶了。",
+          "source": "",
           "tags": [
-            "AI",
-            "职场梗"
+            "收纳",
+            "生活"
           ]
         },
         {
-          "title": "Nginx漏洞",
-          "summary": "HTTP2高危漏洞",
-          "detail": "Nginx爆出HTTP2协议远程代码执行漏洞，评论区全是运维哭晕在厕所的段子。",
-          "usage": "今天看到Nginx那个RCE漏洞没？我们运维小哥一边骂娘一边打补丁的样子，像极了我们改祖传代码的样子。",
-          "source": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+          "title": "环保买菜",
+          "summary": "买菜自带环保袋",
+          "detail": "越来越多超市开始鼓励顾客自带环保袋购物，部分超市还提供积分奖励。这样既省钱又环保，还能减少塑料袋的使用。",
+          "usage": "现在买菜都自带环保袋了，超市还给积分，感觉赚到了！",
+          "source": "",
           "tags": [
-            "Nginx",
-            "安全"
+            "环保",
+            "省钱"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "乒乓球",
+      "icon": "🏓",
+      "items": [
+        {
+          "title": "WTT总决赛",
+          "summary": "WTT总决赛即将开始",
+          "detail": "2026年WTT总决赛将在下个月举行，国乒主力选手悉数参赛。本次比赛看点十足，尤其是年轻选手的表现备受期待。",
+          "usage": "WTT总决赛下个月就要开打了，感觉这次年轻选手可能会爆冷啊！",
+          "source": "",
+          "tags": [
+            "乒乓球",
+            "赛事"
+          ]
+        },
+        {
+          "title": "新拍推荐",
+          "summary": "新款乒乓球拍评测",
+          "detail": "最近一款新型碳纤维乒乓球拍上市，据说手感轻盈，控制力和旋转效果都很出色，适合业余球友使用。",
+          "usage": "听说新出的碳纤维球拍特别好用，想买一个试试，你用过吗？",
+          "source": "",
+          "tags": [
+            "乒乓球",
+            "装备"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "健康养生",
+      "icon": "🥗",
+      "items": [
+        {
+          "title": "秋季养生",
+          "summary": "秋季养生小贴士",
+          "detail": "秋天是养生的好时节，专家建议多吃滋阴润燥的食物，如梨、百合和银耳。同时，注意保暖，尤其是关节部位，避免受寒。",
+          "usage": "最近天气凉了，记得多吃梨和百合，对身体特别好。",
+          "source": "",
+          "tags": [
+            "养生",
+            "秋季"
+          ]
+        },
+        {
+          "title": "家庭运动",
+          "summary": "全家一起做运动",
+          "detail": "专家建议家庭成员可以一起进行简单的运动，比如瑜伽或跳绳，既能增进亲子关系，又能保持健康。",
+          "usage": "周末和孩子一起跳绳，感觉不仅锻炼了身体，还增进了感情。",
+          "source": "",
+          "tags": [
+            "运动",
+            "健康"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-19T04:26:18.482Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-11-19T18:29:20.292Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 1979,
-    "completion_tokens": 1418,
-    "total_tokens": 3397,
-    "cost_usd": 0.0019680912,
-    "free": false,
-    "sources": {
-      "per_source": {
-        "hackernews": 15,
-        "reddit": 0,
-        "askhn": 8,
-        "lobsters": 10,
-        "devto": 10,
-        "v2ex": 10,
-        "juejin": 10,
-        "github": 10,
-        "qbitai": 8,
-        "infoq": 8
-      },
-      "total": 20
-    }
+    "prompt_tokens": 776,
+    "completion_tokens": 1420,
+    "total_tokens": 2196,
+    "cost_usd": 0.0016604964000000002,
+    "free": false
   }
 }
