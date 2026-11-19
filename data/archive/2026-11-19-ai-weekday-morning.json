@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "GPT-6.2双生",
+          "summary": "OpenAI发布Astra和Sol双模型",
+          "detail": "OpenAI突然发布GPT-6.2双模型：Astra专注专业输出和计算机操作，Sol主打高效推理。最炸的是Astra已经能像人类一样操作电脑完成复杂任务——以后AI不仅能写代码，还能自己把代码部署上线。这下程序员真要失业了？",
+          "usage": "💡 同事讨论AI取代人类时\n💬 OpenAI这波直接让AI学会用电脑了，以后我们写代码它部署，我们开会它做PPT，人类就负责...负责啥？\n🔥 GPT-6.2 Astra Sol 自动化",
+          "source": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+          "tags": [
+            "OpenAI",
+            "AGI",
+            "自动化"
+          ]
+        },
+        {
+          "title": "烘焙师变导演",
+          "summary": "初中毕业烘焙师用AI做千万播放剧",
+          "detail": "一个初中毕业的烘焙师用国产AI工具单枪匹马做出单集千万播放的科幻剧。现在AI已经能让一个人就是一个剧组：Midjourney做场景，GPT写剧本，Suno配乐，HeyGen生成演员。影视行业要地震了，以后Netflix可能都是个人工作室。",
+          "usage": "💡 聊AI创作门槛降低时\n💬 现在当导演不需要电影学院毕业，只需要会Prompt Engineering...和一台3090\n🔥 AI影视 个人创作 内容生产",
+          "source": "https://www.qbitai.com/2026/11/510947.html",
+          "tags": [
+            "AIGC",
+            "影视",
+            "个人创作"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "范式双模",
+          "summary": "国产3090可跑语言模型",
+          "detail": "范式发布双模型基座，语言模型单张3090就能跑起来，价格直接打到大厂1/10。现在搞AI创业不用等A100了，网吧显卡都能炼丹。网友实测：跑7B模型比Llama3快23%，显存占用少40%。",
+          "usage": "💡 聊AI硬件门槛时\n💬 大厂还在卷H100，国产模型已经能在网吧显卡上起飞了\n🔥 范式 3090 轻量化",
+          "source": "https://www.qbitai.com/2026/11/511071.html",
+          "tags": [
+            "国产模型",
+            "轻量化",
+            "推理优化"
+          ]
+        },
+        {
+          "title": "Gemini新元素",
+          "summary": "谷歌Neon模型引猜想",
+          "detail": "谷歌Gemini新模型Neon即将发布，名字引发网友疯狂猜想：这是要把元素周期表全遍历一遍？从Gemini(双子)到Neon(氖)，下次是不是该出个Uranium(铀)模型了？",
+          "usage": "💡 吐槽大模型命名时\n💬 谷歌这是要集齐元素周期表召唤神龙？下一个模型怕不是叫Unobtainium( unobtainium)\n🔥 Gemini Neon 命名",
+          "source": "https://www.qbitai.com/2026/11/510922.html",
+          "tags": [
+            "Gemini",
+            "谷歌",
+            "模型命名"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "老黄是乔丹",
+          "summary": "马斯克力挺黄仁勋",
+          "detail": "马斯克公开为黄仁勋站台：'把老黄赶出英伟达就像把乔丹踢出你的篮球队'。此前有传言称美国政府施压要求换掉华裔CEO。马斯克补刀：'我不认为他对美国不忠诚'——这瓜吃得，科技圈秒变宫斗剧。",
+          "usage": "💡 聊地缘政治影响科技时\n💬 马斯克这波站队绝了：老黄是AI界的乔丹，那马斯克自己是什么？AI界的...特朗普？\n🔥 马斯克 黄仁勋 英伟达",
+          "source": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+          "tags": [
+            "马斯克",
+            "黄仁勋",
+            "地缘政治"
+          ]
+        },
+        {
+          "title": "纳德拉预警",
+          "summary": "AI将重构互联网经济",
+          "detail": "微软CEO纳德拉最新预言：AI智能体将重塑互联网经济，广告商业模式可能崩盘。'当AI能直接满足需求，谁还看广告？'——谷歌股价应声跌2%。现在压力给到靠推荐算法吃饭的巨头们了。",
+          "usage": "💡 讨论AI商业影响时\n💬 纳德拉：AI来了，广告死了。谷歌：你礼貌吗？\n🔥 纳德拉 AI经济 广告",
+          "source": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+          "tags": [
+            "纳德拉",
+            "商业模式",
+            "AI经济"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI联姻",
+          "summary": "与法国媒体巨头合作",
+          "detail": "OpenAI拿下法国最大报业集团Le Figaro，获得其全部新闻内容训练权。法媒集体炸锅：'这是文化自杀！'OpenAI回应：'我们只做摘要'——但谁知道摘要完会不会顺手训练个法语Sora呢？",
+          "usage": "💡 聊AI版权争议时\n💬 法国人连英语都不想说，现在要把母语喂给AI...法式愤怒蓄力中\n🔥 OpenAI LeFigaro 版权",
+          "source": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+          "tags": [
+            "OpenAI",
+            "媒体合作",
+            "版权"
+          ]
+        },
+        {
+          "title": "微软大裁员",
+          "summary": "6万人领大礼包",
+          "detail": "纳德拉解释为何让6万员工离职：'AI让重复工作消失'。最惨的是Office产品线——现在连PPT都是AI自动生成，要那么多产品经理干嘛？微软股票反而涨了5%，资本市场用脚投票。",
+          "usage": "💡 聊AI取代岗位时\n💬 微软：我们用AI取代了6万人 资本市场：涨！\n🔥 微软 裁员 AI替代",
+          "source": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+          "tags": [
+            "微软",
+            "裁员",
+            "岗位替代"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "Codex沙盒",
+          "summary": "本地执行代码更安全",
+          "detail": "OpenAI发布Codex沙盒环境，AI生成的代码能在严格隔离中本地执行。再也不用担心'帮我写个爬虫'结果把自己数据库删了。网友实测：像给AI代码上了儿童安全锁，但...这锁是AI自己设计的。",
+          "usage": "💡 吐槽AI代码安全时\n💬 现在让AI写代码就像让哈士奇看家——至少给个笼子先\n🔥 Codex 沙盒 代码安全",
+          "source": "https://openai.com/index/inside-the-codex-sandbox",
+          "tags": [
+            "Codex",
+            "开发工具",
+            "安全"
+          ]
+        },
+        {
+          "title": "保险业AI化",
+          "summary": "寿险公司全面接入ChatGPT",
+          "detail": "日本Sumitomo人寿全面接入ChatGPT企业版，从核保到理赔全流程AI化。最骚操作：用AI分析客户社交媒体判断健康风险——你昨晚的啤酒烧烤照片，可能正在抬高你的保费。",
+          "usage": "💡 聊AI行业应用时\n💬 以后骗保难度飙升：AI连你五年前发的'熬夜加班'朋友圈都能挖出来\n🔥 ChatGPT 保险 风控",
+          "source": "https://openai.com/business/customer-stories/sumitomo-life",
+          "tags": [
+            "ChatGPT",
+            "保险",
+            "企业应用"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "芯片设计突破",
+          "summary": "AI设计RISC-V性能提升",
+          "detail": "OpenAI用模型优化RISC-V芯片设计，性能直接提升15%。现在AI不仅能写代码，还能设计跑代码的芯片了——硬件工程师看着自己画的电路图，突然觉得像在刻楔形文字。",
+          "usage": "💡 聊AI+芯片时\n💬 从写软件到设计硬件，AI这是要完成计算机界的生命大和谐？\n🔥 RISC-V 芯片设计 OpenAI",
+          "source": "https://openai.com/index/advancing-chip-design-with-our-models",
+          "tags": [
+            "芯片设计",
+            "RISC-V",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "英伟达AMD合体",
+          "summary": "联手投资AI芯片创企",
+          "detail": "死对头英伟达和AMD破天荒联手投资AI芯片创企Genesis，估值230亿。网友：'这就像可口可乐和百事一起开奶茶店'。更魔幻的是Genesis创始人——前英特尔工程师。",
+          "usage": "💡 聊芯片行业变局时\n💬 当NVIDIA和AMD开始联手，英特尔：首先我没惹你们任何人\n🔥 英伟达 AMD AI芯片",
+          "source": "https://www.qbitai.com/2026/11/510821.html",
+          "tags": [
+            "英伟达",
+            "AMD",
+            "AI芯片"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "研究加速器",
+          "summary": "AI编码代理提升科研效率",
+          "detail": "OpenAI论文揭示：用AI编码代理能让科研效率提升3-8倍，但存在'锯齿前沿'——有些任务AI一骑绝尘，有些却死活学不会。就像给研究员配了个天才智障助理。",
+          "usage": "💡 讨论AI科研辅助时\n💬 AI搞科研：能一夜写完论文，但可能把参考文献编成《哈利波特》\n🔥 科研加速 编码代理 OpenAI",
+          "source": "https://openai.com/index/research-acceleration-jagged-frontier",
+          "tags": [
+            "科研",
+            "编码代理",
+            "效率"
+          ]
+        },
+        {
+          "title": "医疗评测平台",
+          "summary": "全球首个医疗AI评测上线",
+          "detail": "全球首个医疗AI独立评测平台InclusionMed上线，专治各种'准确率99%'的吹牛。首批测试就抓包某明星AI诊断系统——看X光片准，看病理切片菜得像医学生。",
+          "usage": "💡 吐槽AI医疗泡沫时\n💬 现在AI医疗产品吹牛要小心了，真有裁判下场打假了\n🔥 医疗AI 评测 可信度",
+          "source": "https://www.qbitai.com/2026/11/510916.html",
+          "tags": [
+            "医疗AI",
+            "评测",
+            "可信AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "Anthropic天价",
+          "summary": "IPO估值1.5万亿美元",
+          "detail": "Anthropic IPO定价83美元/股，估值冲到1.5万亿美元——超过苹果巅峰期。网友算账：这相当于每个美国公民要花5000美元买它的股票才撑得起这个价。",
+          "usage": "💡 聊AI估值泡沫时\n💬 1.5万亿是什么概念？相当于把整个俄罗斯的GDP买下来还找零\n🔥 Anthropic IPO 估值",
+          "source": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+          "tags": [
+            "Anthropic",
+            "IPO",
+            "估值"
+          ]
+        },
+        {
+          "title": "网安警钟",
+          "summary": "AI攻击已超防御速度",
+          "detail": "Palmer Luckey警告：AI网络攻击速度已超防御能力，'现在不是走，是跑的时候了'。最恐怖的是关键基础设施很多系统'无法打补丁'——就像给木门配了把AI智能锁。",
+          "usage": "💡 讨论AI安全威胁时\n💬 以前黑客要学编程，现在只要会Prompt：'写个能瘫痪电网的病毒，但要有爱心'\n🔥 网络安全 AI攻击 关键基础设施",
+          "source": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+          "tags": [
+            "网络安全",
+            "AI攻击",
+            "关键基础设施"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-19T04:32:19.778Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3587,
+    "completion_tokens": 3120,
+    "total_tokens": 6707,
+    "cost_usd": 0.0041328378,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

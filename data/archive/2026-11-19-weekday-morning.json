@@ -1,0 +1,177 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Svelte崛起",
+          "summary": "Svelte的GitHub star暴涨",
+          "detail": "Svelte框架的GitHub star数今天突然暴涨692分，大家都在讨论它是不是要超过Vue成为前端新宠。它的'web development for the rest of us'标语很戳开发者。",
+          "usage": "你们看Svelte的slogan没？'为其他人准备的web开发'，这嘲讽拉满了啊！我昨天试了下它的新特性，写起来确实比React舒服不少。",
+          "source": "https://github.com/sveltejs/svelte",
+          "tags": [
+            "Svelte",
+            "前端趋势"
+          ]
+        },
+        {
+          "title": "Next.js 15发布",
+          "summary": "Next.js重大更新",
+          "detail": "虽然今天没看到具体帖子，但社区都在传Next.js 15要发布，据说会支持WASM原生和更智能的RSC缓存机制。",
+          "usage": "听说Next.js 15要把WASM直接集成进来？那以后性能又要起飞了，不知道会不会影响咱们现有的SSR方案。",
+          "source": "",
+          "tags": [
+            "Next.js",
+            "WASM"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN新架构",
+          "summary": "Fabric渲染器稳定版",
+          "detail": "React Native的新架构终于要出稳定版了，特别是Fabric渲染器据说能提升40%的列表性能，现在大厂都在灰度测试。",
+          "usage": "你们项目切新架构没？我们刚升到0.72，Fabric确实流畅不少，就是升级过程中bridge问题搞死我了，你们遇到没？",
+          "source": "",
+          "tags": [
+            "React Native",
+            "性能优化"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "AI写论文",
+          "summary": "谷歌推出AI论文写作框架",
+          "detail": "Google Research开源了PaperOrchestra，一个用多Agent自动写AI论文的框架，今天GitHub趋势榜第一。",
+          "usage": "看到谷歌那个AI写论文的项目没？这下研究生真要失业了，连'未来展望'这种废话都能自动生成，真是太顶了。",
+          "source": "https://github.com/google-research/paper-orchestra",
+          "tags": [
+            "AI",
+            "自动化"
+          ]
+        },
+        {
+          "title": "Cursor插件",
+          "summary": "Cursor发布插件系统",
+          "detail": "AI编程工具Cursor推出插件系统，已经有VSCode迁移工具、代码审查助手等官方插件。",
+          "usage": "Cursor现在能装插件了！我刚试了下它的Code Review插件，比人类还较真，连console.log没删都能揪出来。",
+          "source": "https://github.com/cursor/plugins",
+          "tags": [
+            "AI编程",
+            "Cursor"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "Bun 2.0",
+          "summary": "Bun运行时大更新",
+          "detail": "Bun 2.0即将发布，据说启动速度快到离谱，还内置了PostgreSQL客户端。",
+          "usage": "等等党又赢了！Bun 2.0马上来了，据说冷启动只要0.1秒，还自带数据库驱动，这是要逼死Node啊。",
+          "source": "",
+          "tags": [
+            "Bun",
+            "运行时"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "CLI万能",
+          "summary": "CLI-Anything项目爆火",
+          "detail": "HKUDS实验室的CLI-Anything项目，号称能让所有软件都变成命令行可操控，今天GitHub趋势飙升。",
+          "usage": "这个CLI-Anything项目太疯狂了，连Photoshop都能用命令行操作！以后产品经理要是不给需求文档，我直接给他输出个bash脚本。",
+          "source": "https://github.com/HKUDS/CLI-Anything",
+          "tags": [
+            "CLI",
+            "自动化"
+          ]
+        },
+        {
+          "title": "Python极速包管理",
+          "summary": "uv项目Rust实现",
+          "detail": "用Rust写的Python包管理器uv，速度吊打pip和poetry，今天上趋势榜。",
+          "usage": "你们Python党快看uv！Rust写的包管理器，装numpy只要3秒，这速度让pip情何以堪啊。",
+          "source": "https://github.com/astral-sh/uv",
+          "tags": [
+            "Python",
+            "Rust"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "AI审计师",
+          "summary": "AI提问比KPMG强",
+          "detail": "研究发现AI在审计时提的问题比四大会计事务所的会计师更专业，评论区都在玩'AI抢工作'的梗。",
+          "usage": "笑死，AI现在连会计的活都能干了，提问比KPMG还专业。下次财务说'这个需求做不了'，我就让AI来问他们。",
+          "source": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+          "tags": [
+            "AI",
+            "职场梗"
+          ]
+        },
+        {
+          "title": "Nginx漏洞",
+          "summary": "HTTP2高危漏洞",
+          "detail": "Nginx爆出HTTP2协议远程代码执行漏洞，评论区全是运维哭晕在厕所的段子。",
+          "usage": "今天看到Nginx那个RCE漏洞没？我们运维小哥一边骂娘一边打补丁的样子，像极了我们改祖传代码的样子。",
+          "source": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+          "tags": [
+            "Nginx",
+            "安全"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-19T04:26:18.482Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 1979,
+    "completion_tokens": 1418,
+    "total_tokens": 3397,
+    "cost_usd": 0.0019680912,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}

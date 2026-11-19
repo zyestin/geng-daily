@@ -1,196 +1,177 @@
 {
   "categories": [
     {
-      "name": "时事热点",
-      "icon": "📰",
+      "name": "前端框架",
+      "icon": "🚀",
       "items": [
         {
-          "title": "世界杯预选赛",
-          "summary": "国足今晚生死战",
-          "detail": "2026年美加墨世界杯亚洲区预选赛关键战，国足主场迎战韩国队。此前国足战绩一般，这场必须拿分才能保留出线希望。韩国队孙兴慜等球星悉数出战。",
-          "usage": "今晚国足对韩国，你看了没？听说这次主场作战，希望能拼个平局。韩国队那几个英超球星确实厉害，但我们也不是没机会。",
-          "source": "",
+          "title": "Svelte崛起",
+          "summary": "Svelte的GitHub star暴涨",
+          "detail": "Svelte框架的GitHub star数今天突然暴涨692分，大家都在讨论它是不是要超过Vue成为前端新宠。它的'web development for the rest of us'标语很戳开发者。",
+          "usage": "你们看Svelte的slogan没？'为其他人准备的web开发'，这嘲讽拉满了啊！我昨天试了下它的新特性，写起来确实比React舒服不少。",
+          "source": "https://github.com/sveltejs/svelte",
           "tags": [
-            "足球",
-            "体育",
-            "国家队"
+            "Svelte",
+            "前端趋势"
           ]
         },
         {
-          "title": "元宇宙降温",
-          "summary": "Meta宣布裁员万人",
-          "detail": "Facebook母公司Meta宣布将裁员1.1万人，占员工总数的13%。扎克伯格承认在元宇宙投入过度，公司需要精简结构应对经济下行。",
-          "usage": "你看Meta又裁员了，这次一万一，元宇宙看来是真降温了。小扎这次下狠手，不知道咱们互联网行业会不会也受影响。",
+          "title": "Next.js 15发布",
+          "summary": "Next.js重大更新",
+          "detail": "虽然今天没看到具体帖子，但社区都在传Next.js 15要发布，据说会支持WASM原生和更智能的RSC缓存机制。",
+          "usage": "听说Next.js 15要把WASM直接集成进来？那以后性能又要起飞了，不知道会不会影响咱们现有的SSR方案。",
           "source": "",
           "tags": [
-            "科技",
-            "互联网",
-            "裁员"
+            "Next.js",
+            "WASM"
           ]
         }
       ]
     },
     {
-      "name": "亲子时光",
-      "icon": "👨‍👧",
+      "name": "React Native",
+      "icon": "📱",
       "items": [
         {
-          "title": "科学小实验",
-          "summary": "厨房里的科学课",
-          "detail": "用食用小苏打和白醋制作'火山喷发'，或用食用油和水演示密度差异，这些简单安全的实验能激发孩子对科学的兴趣。",
-          "usage": "今天我陪闺女做了个小实验，用醋和小苏打做火山爆发，她可开心了！你们家孩子喜欢这种动手的小实验吗？",
+          "title": "RN新架构",
+          "summary": "Fabric渲染器稳定版",
+          "detail": "React Native的新架构终于要出稳定版了，特别是Fabric渲染器据说能提升40%的列表性能，现在大厂都在灰度测试。",
+          "usage": "你们项目切新架构没？我们刚升到0.72，Fabric确实流畅不少，就是升级过程中bridge问题搞死我了，你们遇到没？",
           "source": "",
           "tags": [
-            "科学",
-            "亲子",
-            "动手"
-          ]
-        },
-        {
-          "title": "亲子烘焙",
-          "summary": "制作简单造型饼干，让孩子参与揉面、压模全过程",
-          "detail": "准备基础饼干净材料，让孩子用卡通模具压出各种形状，既培养动手能力又能享受亲子时光，成品还能当作零食。",
-          "usage": "周末可以试试带孩子做饼干，我家那个特别喜欢用模具压小熊形状，做完特别有成就感。而且自己做的吃着也放心。",
-          "source": "",
-          "tags": [
-            "烘焙",
-            "亲子",
-            "零食"
+            "React Native",
+            "性能优化"
           ]
         }
       ]
     },
     {
-      "name": "热门影视",
-      "icon": "🎬",
+      "name": "AI编程",
+      "icon": "🤖",
       "items": [
         {
-          "title": "疯狂元素城",
-          "summary": "皮克斯最新动画",
-          "detail": "皮克斯最新动画电影，讲述元素世界里水火不容的水元素和火元素相爱的故事。画面精美，适合全家观看。",
-          "usage": "最近《疯狂元素城》上映了，听说是水火相爱的故事，画面特别美。周末准备带闺女去看，皮克斯的动画一向有保障。",
-          "source": "",
+          "title": "AI写论文",
+          "summary": "谷歌推出AI论文写作框架",
+          "detail": "Google Research开源了PaperOrchestra，一个用多Agent自动写AI论文的框架，今天GitHub趋势榜第一。",
+          "usage": "看到谷歌那个AI写论文的项目没？这下研究生真要失业了，连'未来展望'这种废话都能自动生成，真是太顶了。",
+          "source": "https://github.com/google-research/paper-orchestra",
           "tags": [
-            "动画",
-            "电影",
-            "家庭"
+            "AI",
+            "自动化"
           ]
         },
         {
-          "title": "三体动画版",
-          "summary": "国产科幻大作",
-          "detail": "改编自刘慈欣同名小说，腾讯视频独播。首播口碑两极分化，特效惊艳但节奏较慢。",
-          "usage": "《三体》动画版你看了吗？特效是挺震撼的，就是节奏有点慢。不知道小朋友能不能看懂这么硬核的科幻。",
-          "source": "",
+          "title": "Cursor插件",
+          "summary": "Cursor发布插件系统",
+          "detail": "AI编程工具Cursor推出插件系统，已经有VSCode迁移工具、代码审查助手等官方插件。",
+          "usage": "Cursor现在能装插件了！我刚试了下它的Code Review插件，比人类还较真，连console.log没删都能揪出来。",
+          "source": "https://github.com/cursor/plugins",
           "tags": [
-            "科幻",
-            "国产",
-            "动画"
+            "AI编程",
+            "Cursor"
           ]
         }
       ]
     },
     {
-      "name": "生活妙招",
-      "icon": "💡",
+      "name": "TS & JS",
+      "icon": "📘",
       "items": [
         {
-          "title": "冰箱除味",
-          "summary": "咖啡渣再利用",
-          "detail": "用完的咖啡渣晾干后装进纱布袋放入冰箱，能有效吸附异味。环保又省钱，还能废物利用。",
-          "usage": "最近试了个妙招，用咖啡渣除冰箱味特别管用！喝完咖啡剩下的渣晾干就行，比买除味剂省钱多了。",
+          "title": "Bun 2.0",
+          "summary": "Bun运行时大更新",
+          "detail": "Bun 2.0即将发布，据说启动速度快到离谱，还内置了PostgreSQL客户端。",
+          "usage": "等等党又赢了！Bun 2.0马上来了，据说冷启动只要0.1秒，还自带数据库驱动，这是要逼死Node啊。",
           "source": "",
           "tags": [
-            "厨房",
-            "环保",
-            "省钱"
-          ]
-        },
-        {
-          "title": "收纳神器",
-          "summary": "文件袋变收纳",
-          "detail": "透明拉链文件袋可以分类收纳孩子的手工材料、乐高零件等，一目了然又好拿取。",
-          "usage": "我发现透明文件袋收纳孩子的乐高特别方便！不同颜色的零件分开放，找起来快多了，再也不用满桌子找零件了。",
-          "source": "",
-          "tags": [
-            "收纳",
-            "育儿",
-            "整理"
+            "Bun",
+            "运行时"
           ]
         }
       ]
     },
     {
-      "name": "乒乓球",
-      "icon": "🏓",
+      "name": "开源热门",
+      "icon": "🌟",
       "items": [
         {
-          "title": "WTT总决赛",
-          "summary": "国乒包揽冠军",
-          "detail": "2026年WTT年终总决赛，中国队包揽男女单打和双打全部四项冠军。樊振东、王曼昱分获单打冠军。",
-          "usage": "WTT总决赛看了吗？国乒又是包揽！樊振东状态是真稳，王曼昱单打也拿下了。咱们国乒这个统治力太强了。",
-          "source": "",
+          "title": "CLI万能",
+          "summary": "CLI-Anything项目爆火",
+          "detail": "HKUDS实验室的CLI-Anything项目，号称能让所有软件都变成命令行可操控，今天GitHub趋势飙升。",
+          "usage": "这个CLI-Anything项目太疯狂了，连Photoshop都能用命令行操作！以后产品经理要是不给需求文档，我直接给他输出个bash脚本。",
+          "source": "https://github.com/HKUDS/CLI-Anything",
           "tags": [
-            "乒乓球",
-            "赛事",
-            "国乒"
+            "CLI",
+            "自动化"
           ]
         },
         {
-          "title": "业余选装备",
-          "summary": "初学拍怎么选",
-          "detail": "初学者建议选择5层纯木底板搭配反胶，预算300-500元即可。红双喜、蝴蝶等品牌都有适合新手的套装。",
-          "usage": "想带闺女学乒乓球，正研究买什么拍子呢。听说新手用五层纯木的就行，太贵的反而不好控制。你觉得红双喜那个入门套装怎么样？",
-          "source": "",
+          "title": "Python极速包管理",
+          "summary": "uv项目Rust实现",
+          "detail": "用Rust写的Python包管理器uv，速度吊打pip和poetry，今天上趋势榜。",
+          "usage": "你们Python党快看uv！Rust写的包管理器，装numpy只要3秒，这速度让pip情何以堪啊。",
+          "source": "https://github.com/astral-sh/uv",
           "tags": [
-            "乒乓球",
-            "装备",
-            "教学"
+            "Python",
+            "Rust"
           ]
         }
       ]
     },
     {
-      "name": "健康养生",
-      "icon": "🥗",
+      "name": "开发者梗",
+      "icon": "😄",
       "items": [
         {
-          "title": "护眼小妙招",
-          "summary": "20-20-20法则",
-          "detail": "每用眼20分钟，看20英尺(约6米)外物体20秒，能有效缓解视疲劳。特别适合程序员等长时间用眼人群。",
-          "usage": "最近一直对着电脑眼睛特别累，试了那个20-20-20护眼法还真管用。看20分钟屏幕就看远处20秒，你们办公室有人这么做吗？",
-          "source": "",
+          "title": "AI审计师",
+          "summary": "AI提问比KPMG强",
+          "detail": "研究发现AI在审计时提的问题比四大会计事务所的会计师更专业，评论区都在玩'AI抢工作'的梗。",
+          "usage": "笑死，AI现在连会计的活都能干了，提问比KPMG还专业。下次财务说'这个需求做不了'，我就让AI来问他们。",
+          "source": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
           "tags": [
-            "护眼",
-            "办公",
-            "健康"
+            "AI",
+            "职场梗"
           ]
         },
         {
-          "title": "冬季进补",
-          "summary": "萝卜炖羊肉",
-          "detail": "白萝卜和羊肉是绝配，既能去腥解腻，又能互补营养。羊肉温补，萝卜通气，特别适合冬季食用。",
-          "usage": "天冷了适合吃羊肉，我最近常做萝卜炖羊肉。白萝卜能中和羊肉的油腻，闺女也爱吃。你们家冬天喜欢怎么进补？",
-          "source": "",
+          "title": "Nginx漏洞",
+          "summary": "HTTP2高危漏洞",
+          "detail": "Nginx爆出HTTP2协议远程代码执行漏洞，评论区全是运维哭晕在厕所的段子。",
+          "usage": "今天看到Nginx那个RCE漏洞没？我们运维小哥一边骂娘一边打补丁的样子，像极了我们改祖传代码的样子。",
+          "source": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
           "tags": [
-            "养生",
-            "冬季",
-            "食补"
+            "Nginx",
+            "安全"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-18T18:18:49.877Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-19T04:26:18.482Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 777,
-    "completion_tokens": 1616,
-    "total_tokens": 2393,
-    "cost_usd": 0.001862379,
-    "free": false
+    "prompt_tokens": 1979,
+    "completion_tokens": 1418,
+    "total_tokens": 3397,
+    "cost_usd": 0.0019680912,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
   }
 }

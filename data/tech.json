@@ -5,80 +5,56 @@
       "icon": "📰",
       "items": [
         {
-          "title": "比亚迪在印推出新车",
-          "summary": "比亚迪在印度推出两款高价电动车，售价超百万元。",
-          "detail": "11月13日，比亚迪在印度孟买发布了两款新车：D9豪华MPV售价900万卢比，Z9 GT高性能电动车售价1570万卢比，折合人民币均在百万以上。虽然在中国市场电动车已经打得不可开交，但印度市场的电动车之战才刚刚开始。家人们谁懂啊，印度的富人们准备好买单了吗？",
-          "usage": "💡 和同事聊电动车市场时\n💬 比亚迪在印度发布新车，售价上百万！\n🔥 比亚迪 电动车 印度",
-          "source": "https://www.huxiu.com/article/4906688.html?f=rss",
+          "title": "腾讯音乐财报尴尬",
+          "summary": "腾讯音乐Q3营收再创低点。",
+          "detail": "11月17日，腾讯音乐公布了2026年第三季度财报，营收89.4亿元，远低于市场预期。网友们纷纷调侃“这年头赚钱比唱歌难”，看来在线音乐平台的日子越来越不好过了，找不到下一个能持续创造商业价值的音乐明星，腾讯音乐也只能继续扭动“收听”这个大葱了。",
+          "usage": "💡 聊聊在线音乐平台的未来 \n💬 “这年头赚钱比唱歌难” \n🔥 腾讯音乐 财报",
+          "source": "https://www.huxiu.com/article/4906785.html?f=rss",
           "tags": [
-            "比亚迪",
-            "电动车",
-            "印度"
+            "腾讯音乐",
+            "财报",
+            "在线音乐"
           ]
-        }
-      ]
-    },
-    {
-      "name": "大佬动态",
-      "icon": "🎤",
-      "items": [
+        },
         {
-          "title": "孙宇晨的“确实型人格”",
-          "summary": "孙宇晨被指频频使用“确实”一词，引发网友热议。",
-          "detail": "在最近的一期访谈中，有细心的网友发现孙宇晨说话时频繁使用“确实”这个词，仿佛每一次都要证明自己的观点。网友们调侃道，这可能是孙宇晨的新型人格特质，强烈建议大家也来养成“确实型人格”，这样说话更有底气哦！大家有没有想试试的？",
-          "usage": "💡 聊天时提到有趣的播客\n💬 孙宇晨的访谈中频繁说“确实”，值得学习！\n🔥 孙宇晨 确实型人格 播客",
-          "source": "https://www.huxiu.com/article/4906685.html?f=rss",
+          "title": "国产芯片投资大增长",
+          "summary": "中国半导体前三季度投资超3311亿元。",
+          "detail": "近日，投中嘉川CVSource统计数据显示，2026年前三季度，国内半导体产业投资已经超过了3311亿元，投资事件高达1475起，显示出国产芯片产业的火热。不过，稍微一想，这巨资背后不免让人心疼，毕竟对于程序员来说，芯片能不能按时出货才是最关键的！",
+          "usage": "💡 聊聊芯片投资和市场前景 \n💬 “芯片能不能按时出货才是关键！” \n🔥 国产芯片 投资",
+          "source": "https://www.huxiu.com/article/4906777.html?f=rss",
           "tags": [
-            "孙宇晨",
-            "播客",
-            "确实型人格"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "巨头动向",
-      "icon": "🏢",
-      "items": [
-        {
-          "title": "Meta收购Conductor",
-          "summary": "Meta以执行权之争为名收购AI公司Conductor。",
-          "detail": "在11月4日，Meta宣布收购AI初创公司Conductor，旨在加强其在云Agent领域的竞争力。这一收购被外界解读为Meta希望在日益激烈的AI战争中抢占先机。可怜的开发者们，以后又要面对更多的选择了，家人们，准备好被算法支配了吗？",
-          "usage": "💡 讨论AI趋势时\n💬 Meta收购Conductor，想在AI领域更有话语权！\n🔥 Meta AI 收购",
-          "source": "https://www.huxiu.com/article/4906684.html?f=rss",
-          "tags": [
-            "Meta",
-            "收购",
-            "AI"
+            "芯片",
+            "投资",
+            "半导体"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-18T18:25:59.311Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-19T04:31:39.936Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "openai/gpt-4o-mini",
     "actual_model": "openai/gpt-4o-mini",
-    "prompt_tokens": 5045,
-    "completion_tokens": 1815,
-    "total_tokens": 6860,
-    "cost_usd": 0.0018457499999999997,
+    "prompt_tokens": 5240,
+    "completion_tokens": 3231,
+    "total_tokens": 8471,
+    "cost_usd": 0.0027245999999999998,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 5,
-      "published": 3
+      "dropped_orphans": 14,
+      "published": 2
     },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 4,
+        "huxiu": 12,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 15
+      "total": 21
     }
   }
 }
