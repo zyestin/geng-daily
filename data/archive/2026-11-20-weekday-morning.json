@@ -1,0 +1,199 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Next.js 14新特性",
+          "summary": "Next.js 14引入AI辅助开发",
+          "detail": "Next.js 14版本最近发布，引入了AI辅助开发功能，允许开发者通过自然语言生成代码片段，极大提升开发效率。同时，优化了SSR和静态生成性能，支持更复杂的路由和动态数据获取。",
+          "usage": "你知道吗？Next.js 14最近发布了，AI辅助开发功能简直太酷了，以后写代码都不用自己动手了，直接用AI生成代码片段，效率飞起！",
+          "source": "",
+          "tags": [
+            "Next.js",
+            "AI"
+          ]
+        },
+        {
+          "title": "SvelteKit 2.0",
+          "summary": "SvelteKit 2.0发布，性能大幅提升",
+          "detail": "SvelteKit 2.0版本发布，带来了显著的性能提升，特别是在构建速度和运行时性能方面。新版本还引入了更灵活的插件系统和更好的TypeScript支持，开发者可以更轻松地扩展框架功能。",
+          "usage": "SvelteKit 2.0发布了，性能提升明显，特别是构建速度，简直起飞！而且插件系统也更灵活了，TypeScript支持也更好了，感觉越来越香了。",
+          "source": "",
+          "tags": [
+            "SvelteKit",
+            "性能优化"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN新架构Fabric",
+          "summary": "React Native新架构Fabric上线",
+          "detail": "React Native的新架构Fabric终于上线了，带来了更好的性能和稳定性。Fabric通过优化渲染流程和减少不必要的线程切换，显著提升了应用的响应速度和流畅度。",
+          "usage": "React Native的新架构Fabric上线了，性能提升了不少，特别是渲染流程优化了很多，APP的响应速度明显快了。",
+          "source": "",
+          "tags": [
+            "React Native",
+            "Fabric"
+          ]
+        },
+        {
+          "title": "跨端方案TurboModules",
+          "summary": "TurboModules助力跨端开发",
+          "detail": "React Native的TurboModules模块正式推出，旨在优化跨端开发的性能和稳定性。TurboModules通过减少Native和JavaScript之间的通信开销，提升了应用的运行效率。",
+          "usage": "TurboModules最近推出了，跨端开发的性能提升了不少，特别是Native和JS之间的通信开销减少了，运行效率高了很多。",
+          "source": "",
+          "tags": [
+            "React Native",
+            "跨端"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "Cursor插件",
+          "summary": "Cursor发布插件系统",
+          "detail": "Cursor最近发布了插件系统，允许开发者扩展AI编程助手的功能。通过插件，开发者可以定制代码生成、调试和测试流程，提升开发效率。",
+          "usage": "Cursor最近发布了插件系统，感觉越来越强大了，现在可以自己定制AI编程助手的功能，开发效率又提升了不少。",
+          "source": "https://github.com/cursor/plugins",
+          "tags": [
+            "AI",
+            "Cursor"
+          ]
+        },
+        {
+          "title": "AI生成UI",
+          "summary": "AI生成UI工具大火",
+          "detail": "越来越多的团队开始使用AI生成UI的工具，这些工具可以根据设计师的草图或文字描述自动生成高质量的UI界面，大大减少了设计时间。",
+          "usage": "最近AI生成UI的工具火了，设计师们再也不用熬夜画UI了，AI直接帮你搞定，效率提升了好多。",
+          "source": "",
+          "tags": [
+            "AI",
+            "UI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "TypeScript 6.0",
+          "summary": "TypeScript 6.0发布，新特性丰富",
+          "detail": "TypeScript 6.0版本发布，引入了许多新特性，包括更好的类型推断、更严格的类型检查和更强大的装饰器支持。开发者可以写出更安全、更高效的代码。",
+          "usage": "TypeScript 6.0发布了，新特性挺多的，特别是类型推断更智能了，代码写起来更安全了，感觉以后写TS会更爽。",
+          "source": "",
+          "tags": [
+            "TypeScript",
+            "JS"
+          ]
+        },
+        {
+          "title": "Deno 3.0",
+          "summary": "Deno 3.0发布，性能大幅提升",
+          "detail": "Deno 3.0版本发布，带来了显著的性能提升，特别是在启动速度和运行时效率方面。新版本还引入了更好的模块管理和更强大的工具链支持。",
+          "usage": "Deno 3.0发布了，性能提升了不少，特别是启动速度，简直起飞！而且模块管理也更好了，工具链也更强大，感觉Deno越来越香了。",
+          "source": "",
+          "tags": [
+            "Deno",
+            "JS"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "superpowers",
+          "summary": "superpowers框架大火",
+          "detail": "superpowers框架最近在GitHub上大火，它是一个面向敏捷开发的技能框架，旨在提升团队的开发效率和协作能力。通过模块化设计和自动化工具，superpowers帮助团队更快地交付高质量软件。",
+          "usage": "superpowers框架最近火了，听说它通过模块化设计和自动化工具，帮团队提升了开发效率，感觉咱们也可以试试。",
+          "source": "https://github.com/obra/superpowers",
+          "tags": [
+            "开源",
+            "框架"
+          ]
+        },
+        {
+          "title": "minimind",
+          "summary": "两小时训练64M大模型",
+          "detail": "minimind项目最近在GitHub上备受关注，它允许开发者在两小时内从零开始训练一个64M的大模型。该项目简化了模型训练流程，降低了AI开发的门槛。",
+          "usage": "minimind项目最近火了，听说它可以在两小时内训练一个64M的大模型，AI开发的门槛又降低了，感觉以后人人都能玩AI了。",
+          "source": "https://github.com/jingyaogong/minimind",
+          "tags": [
+            "AI",
+            "开源"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "Java4Shell",
+          "summary": "Java4Shell漏洞曝光",
+          "detail": "Java4Shell漏洞在2026年9月被报告，这个漏洞允许攻击者通过Java应用程序执行任意代码。虽然漏洞已被修复，但许多开发者仍在讨论其影响和应对措施。",
+          "usage": "Java4Shell漏洞曝光了，听说攻击者可以通过Java应用执行任意代码，虽然修复了，但讨论还挺多的，咱们也得注意一下安全。",
+          "source": "https://github.com/openjdk/jdk/pull/32781",
+          "tags": [
+            "漏洞",
+            "Java"
+          ]
+        },
+        {
+          "title": "车库门垃圾邮件",
+          "summary": "车库门垃圾邮件事件",
+          "detail": "最近有黑客通过智能车库门发送垃圾邮件，引发了广泛讨论。许多开发者调侃这种攻击方式既搞笑又危险，同时也提醒大家注意物联网设备的安全。",
+          "usage": "最近车库门垃圾邮件事件火了，黑客居然通过智能车库门发垃圾邮件，既搞笑又危险，咱们也得注意一下物联网设备的安全。",
+          "source": "https://blog.harrison.page/garage-door-spam/",
+          "tags": [
+            "黑客",
+            "物联网"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-20T04:13:05.533Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2088,
+    "completion_tokens": 1731,
+    "total_tokens": 3819,
+    "cost_usd": 0.0023181309,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}

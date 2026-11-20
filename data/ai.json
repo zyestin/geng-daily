@@ -5,27 +5,27 @@
       "icon": "💥",
       "items": [
         {
-          "title": "Anthropic上市首日暴涨",
-          "summary": "Anthropic IPO首日股价飙升33%",
-          "detail": "Anthropic以83美元IPO价登陆纳斯达克，首日收盘价达111美元，市值突破800亿美元。这波直接让早期投资人赚麻了——要知道去年这个时候大家还在讨论AI寒冬。现在问题来了：OpenAI什么时候跟进？",
-          "usage": "💡 同事聊AI公司估值时\n💬 Anthropic这波上市直接起飞，OpenAI压力山大啊\n🔥 Anthropic IPO 估值暴涨 AI公司",
-          "source": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+          "title": "Anthropic IPO创纪录",
+          "summary": "7位创始人套现20亿美元",
+          "detail": "Anthropic以每股83美元上市，7位创始人每人套现2.8亿美元，总金额近20亿。这家AI实验室还有望为慈善机构带来1560亿美元的潜在捐赠，堪称史上最壕IPO。以后别说AI不赚钱，关键看你怎么套现。",
+          "usage": "💡 午餐时聊融资八卦\n💬 Anthropic这波IPO直接给创始人发了20亿美金年终奖，酸了\n🔥 Anthropic IPO 创始人套现",
+          "source": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
           "tags": [
             "IPO",
-            "估值",
+            "套现",
             "Anthropic"
           ]
         },
         {
-          "title": "Gemini接管Mac",
-          "summary": "谷歌让Gemini直接操作你电脑",
-          "detail": "谷歌给Gemini更新了个狠活：现在它能直接操控你的Mac了，整理文件、填表格全自动。想象一下：你正摸鱼刷剧，Gemini默默把你周报都写完了——这到底是福是祸？",
-          "usage": "💡 聊AI自动化时\n💬 以后摸鱼要小心了，Gemini可能比你先完成KPI\n🔥 Gemini Mac自动化 谷歌",
-          "source": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+          "title": "老黄爆丑闻离职",
+          "summary": "NVIDIA CEO因绯闻辞职",
+          "detail": "NVIDIA CEO黄仁勋突然辞职，据传因与中国女间谍的绯闻曝光。这位AI芯片教父的离场可能影响全球AI供应链，毕竟现在每台大模型服务器都得靠他家的GPU。从显卡到八卦，老黄这次真是'显'卡了。",
+          "usage": "💡 茶水间聊大佬八卦\n💬 没想到老黄最后栽在'显'卡上\n🔥 黄仁勋 辞职 绯闻",
+          "source": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
           "tags": [
-            "Gemini",
-            "自动化",
-            "谷歌"
+            "NVIDIA",
+            "黄仁勋",
+            "丑闻"
           ]
         }
       ]
@@ -35,27 +35,27 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "Kling 4.0炸场",
-          "summary": "国产AI画出8K超清大图",
-          "detail": "Kling Image 4.0发布，支持生成8K分辨率图片，放大到墙那么大都不糊。对比上一代，细节处理强了不是一星半点——现在连毛孔和发丝都能数清楚了。",
-          "usage": "💡 聊AI绘画进展时\n💬 这细节，摄影师要连夜改行当prompt工程师了\n🔥 Kling 8K AI绘画 超清",
-          "source": "https://www.qbitai.com/2026/11/511092.html",
+          "title": "商汤登顶双榜",
+          "summary": "SenseNova图片生成中国第一",
+          "detail": "商汤SenseNova U1 Pro在Design Arena榜单中，图片生成与编辑双项登顶中国第一、全球第六。这下AI画图领域不再是Midjourney一家独大，国产模型开始在国际赛场秀肌肉了。",
+          "usage": "💡 聊AI绘画时秀知识\n💬 商汤这波在图片生成榜干到中国第一了\n🔥 商汤 SenseNova 图片生成",
+          "source": "https://www.qbitai.com/2026/11/511179.html",
           "tags": [
-            "Kling",
-            "AI绘画",
-            "8K"
+            "商汤",
+            "图片生成",
+            "榜单"
           ]
         },
         {
-          "title": "SenseNova登顶",
-          "summary": "商汤图片生成全球第六",
-          "detail": "商汤SenseNova U1 Pro在Design Arena双榜拿下中国第一、全球第六。特别在图片编辑赛道，现在能实现'把西装P成唐装'这种精准修改，不用再找淘宝修图师了。",
-          "usage": "💡 比较国内外AI能力时\n💬 商汤这波属实给国产AI长脸了\n🔥 SenseNova 商汤 AI修图",
-          "source": "https://www.qbitai.com/2026/11/511179.html",
+          "title": "Kling 4.0发布",
+          "summary": "8K图放大也不糊",
+          "detail": "Kling Image 4.0发布，号称能生成放大N倍都不糊的8K图像。现在AI画图终于不用靠'别细看'糊弄用户了，数毛党的福音来了。",
+          "usage": "💡 讨论图像质量时抛出\n💬 Kling 4.0这8K图放大看毛孔都不虚\n🔥 Kling 8K 图像生成",
+          "source": "https://www.qbitai.com/2026/11/511092.html",
           "tags": [
-            "SenseNova",
-            "商汤",
-            "AI修图"
+            "Kling",
+            "8K",
+            "图像生成"
           ]
         }
       ]
@@ -65,27 +65,27 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "Dario重申AI安全",
-          "summary": "Anthropic CEO上市日谈克制",
-          "detail": "Anthropic上市当天，CEO Dario Amodei在敲钟时不忘强调'会继续控制AI发展节奏'。网友锐评：'一边融资80亿刀一边说慢慢来，这很赛博朋克'。",
-          "usage": "💡 讨论AI安全与发展平衡时\n💬 上市首日不忘立牌坊，这很Anthropic\n🔥 Dario Anthropic AI安全 IPO",
-          "source": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+          "title": "OpenAI谈社会共识",
+          "summary": "Dean Ball展望AI社会影响",
+          "detail": "OpenAI战略未来负责人Dean Ball发表《沉默共识》报告，探讨AI能力提升将如何重塑社会。报告预测未来可能出现'算法中立委员会'来调解AI引发的价值观冲突。以后吵架不用找居委会了，直接@AI仲裁。",
+          "usage": "💡 讨论AI伦理时引用\n💬 OpenAI说以后社会矛盾要靠AI仲裁了\n🔥 OpenAI 社会影响 共识",
+          "source": "https://openai.com/index/the-silent-consensus",
           "tags": [
-            "Dario",
-            "Anthropic",
-            "AI安全"
+            "OpenAI",
+            "社会影响",
+            "伦理"
           ]
         },
         {
-          "title": "纳德拉解释裁员",
-          "summary": "微软CEO谈6万人离职",
-          "detail": "微软CEO纳德拉首次解释为何让6万员工离职：'AI让每个人效率提升10倍，我们不需要那么多人做重复工作'。打工人听完瑟瑟发抖：下次裁员理由找到了。",
-          "usage": "💡 聊AI对就业影响时\n💬 纳德拉这波属于把裁员说得清新脱俗\n🔥 纳德拉 微软 裁员 AI替代",
-          "source": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+          "title": "华为云谈机器人共享",
+          "summary": "CloudRobo倡导算力共享",
+          "detail": "华为云CloudRobo提出机器人算力共享模式：'一套设备服务多家公司，一次适配全体受益'。终于不用每家公司都重买一遍GPU了，这波属于是机器人界的拼单行为。",
+          "usage": "💡 聊机器人成本时提起\n💬 华为这招妙啊，机器人算力都能拼团了\n🔥 华为云 机器人 共享",
+          "source": "https://www.qbitai.com/2026/11/511426.html",
           "tags": [
-            "纳德拉",
-            "微软",
-            "裁员"
+            "华为",
+            "机器人",
+            "共享经济"
           ]
         }
       ]
@@ -95,27 +95,27 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "OpenAI结盟费加罗",
-          "summary": "ChatGPT接入法国顶级媒体",
-          "detail": "OpenAI与法国费加罗报业集团达成合作，ChatGPT将提供其新闻摘要。网友调侃：'以后法国人吵架引经据典时，可能都是在引用AI总结版'。",
-          "usage": "💡 讨论AI与媒体关系时\n💬 连费加罗都投诚了，传统媒体最后的倔强呢\n🔥 OpenAI 费加罗 新闻摘要",
-          "source": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+          "title": "苹果密研AI助手",
+          "summary": "要跟Muse/Instinct抢饭碗",
+          "detail": "TechCrunch爆料苹果正在开发能接管Mac的AI助手，直接对标Meta的Muse和Instinct。看来库克也要加入AI管家大战了，以后你的Mac可能比你还懂怎么用Mac。",
+          "usage": "💡 聊AI助手时抛出\n💬 听说苹果要做AI管家了，Siri终于要下岗？\n🔥 苹果 AI助手 Mac",
+          "source": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
           "tags": [
-            "OpenAI",
-            "费加罗",
-            "媒体合作"
+            "苹果",
+            "AI助手",
+            "Mac"
           ]
         },
         {
-          "title": "Meta AI又翻车",
-          "summary": "Muse泄露员工私密聊天",
-          "detail": "Meta的AI助手Muse被曝混淆对话内容，把员工 childcare请假申请都曝光了。扎克伯格此刻表情：说好的元宇宙没搞成，AI还天天给我惹事。",
-          "usage": "💡 聊AI隐私问题时\n💬 建议改名叫Muse-克星，专克打工人\n🔥 Meta Muse 隐私泄露",
+          "title": "Meta助手泄露隐私",
+          "summary": "Muse混淆私人对话",
+          "detail": "Meta的AI助手Muse被曝会混淆对话内容，甚至泄露员工私人信息如育儿请求。这下扎克伯格的'元宇宙社交'真要变成'元宇宙社死'了。",
+          "usage": "💡 吐槽AI隐私问题时用\n💬 马斯克：早就说AI会泄露隐私吧\n🔥 Meta Muse 隐私泄露",
           "source": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
           "tags": [
             "Meta",
-            "Muse",
-            "隐私"
+            "隐私",
+            "AI助手"
           ]
         }
       ]
@@ -125,27 +125,27 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "Superhuman全面Go化",
-          "summary": "Go助手入驻所有办公场景",
-          "detail": "Superhuman把Go助手塞进了Docs和Mail，现在写邮件能自动调取过往沟通记录。打工人狂喜：终于不用'如邮件所述'来回踢皮球了。",
-          "usage": "💡 聊办公效率工具时\n💬 建议改名叫Super懒人，太懂打工人了\n🔥 Superhuman Go 办公助手",
-          "source": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+          "title": "Gemini接管Mac",
+          "summary": "能自动整理文件填表格",
+          "detail": "谷歌为Gemini更新了Mac版AI助手功能，现在它能自动整理文件、填写表格，甚至帮你回复邮件。打工人要小心了，你的Mac可能比你更适合当前台。",
+          "usage": "💡 演示AI办公时秀\n💬 Gemini现在连填表格都会了，行政小妹瑟瑟发抖\n🔥 Gemini Mac 自动化",
+          "source": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
           "tags": [
-            "Superhuman",
-            "Go",
+            "Google",
+            "Gemini",
             "办公自动化"
           ]
         },
         {
-          "title": "ChatGPT性能工厂",
-          "summary": "OpenAI揭秘加速黑科技",
-          "detail": "OpenAI公开'性能工厂'系统，用Codex自动优化ChatGPT响应速度。现在你每句回复快0.3秒背后，是AI在训练AI的套娃操作。",
-          "usage": "💡 讨论AI工程优化时\n💬 建议改名叫Open卷王，AI都要压榨AI\n🔥 ChatGPT 性能优化 Codex",
-          "source": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+          "title": "ChatGPT企业版案例",
+          "summary": "保险公司用它写代码",
+          "detail": "Sumitomo人寿用ChatGPT企业版研究保险商、准备提案甚至编写内部代码。现在连精算师都要会调API了，保险行业转型速度堪比比特币行情。",
+          "usage": "💡 聊AI编程时举例\n💬 保险公司都用ChatGPT写代码了，你还不用？\n🔥 ChatGPT 企业版 保险",
+          "source": "https://openai.com/business/customer-stories/sumitomo-life",
           "tags": [
             "ChatGPT",
-            "性能优化",
-            "Codex"
+            "企业应用",
+            "编程"
           ]
         }
       ]
@@ -155,27 +155,27 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "国产算力全链路",
-          "summary": "单卡3090就能跑大模型",
-          "detail": "新开源模型宣称单张3090显卡即可运行，还放出全链路训练方案。网友实测后表示：'虽然效果比不过GPT-4，但跑起来那一刻感觉自己在OpenAI上班'。",
-          "usage": "💡 聊开源模型轻量化时\n💬 这下真·人均AI炼丹师了\n🔥 开源模型 3090 轻量化",
+          "title": "国产大模型单卡运行",
+          "summary": "3090就能跑语言模型",
+          "detail": "新发布的国产开源语言模型声称单张RTX3090显卡即可运行，彻底告别动辄需要8卡A100的训练门槛。从此大模型不再是巨头的专利，个人开发者也能在家炼丹了。",
+          "usage": "💡 聊模型部署成本时讲\n💬 现在3090都能跑大模型了，还要啥自行车\n🔥 开源模型 3090 国产",
           "source": "https://www.qbitai.com/2026/11/511071.html",
           "tags": [
-            "开源模型",
-            "3090",
-            "轻量化"
+            "开源",
+            "大模型",
+            "国产"
           ]
         },
         {
-          "title": "安谋发AIoT平台",
-          "summary": "星辰100e专攻嵌入式AI",
-          "detail": "安谋科技发布'星辰100e'AIoT平台，搭载最新Cortex-M42核心，要把AI塞进你家电饭煲。以后煮饭可能都会弹窗：'检测到您最近碳水摄入过量...'",
-          "usage": "💡 聊边缘计算时\n💬 建议电饭煲增加'别管闲事'模式\n🔥 安谋 AIoT 嵌入式",
+          "title": "安谋发布IoT平台",
+          "summary": "星辰100e助力嵌入式AI",
+          "detail": "安谋科技发布'星辰100e'AIoT原型平台，基于Arm Cortex-M42架构打造，让嵌入式设备也能跑AI。这下连你家的智能灯都能跟你玩脑筋急转弯了。",
+          "usage": "💡 讨论边缘计算时用\n💬 现在连灯泡都要有AI了\n🔥 安谋 IoT 嵌入式AI",
           "source": "https://www.qbitai.com/2026/11/511079.html",
           "tags": [
             "安谋",
-            "AIoT",
-            "嵌入式"
+            "嵌入式",
+            "AIoT"
           ]
         }
       ]
@@ -185,27 +185,27 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "OpenAI造芯片",
-          "summary": "用AI设计RISC-V核心",
-          "detail": "OpenAI用自家模型优化RISC-V芯片设计，性能提升肉眼可见。现在AI不仅抢程序员饭碗，连芯片工程师都不放过——下一步是不是要自己造自己了？",
-          "usage": "💡 聊AI+芯片设计时\n💬 建议改名叫Self-madeAI，自己生自己\n🔥 OpenAI 芯片设计 RISC-V",
-          "source": "https://openai.com/index/advancing-chip-design-with-our-models",
+          "title": "OpenAI研究加速",
+          "summary": "Codex推动科研效率革命",
+          "detail": "OpenAI发布《研究加速：锯齿前沿》报告，量化评估Codex等AI编码助手如何加速科研。结果显示在某些领域效率提升300%，但瓶颈期也很明显—AI写代码和人一样会卡壳。",
+          "usage": "💡 聊科研效率时引用\n💬 OpenAI说AI能让科研快3倍，但该debug还是得debug\n🔥 OpenAI 研究加速 Codex",
+          "source": "https://openai.com/index/research-acceleration-jagged-frontier",
           "tags": [
             "OpenAI",
-            "芯片设计",
-            "RISC-V"
+            "科研",
+            "Codex"
           ]
         },
         {
-          "title": "编码加速研究",
-          "summary": "OpenAI发现'锯齿前沿'",
-          "detail": "OpenAI研究显示AI编码助手在不同任务上表现差异巨大：写Python如德芙般丝滑，调C++就卡成PPT。这'锯齿状能力边界'让程序员又爱又恨。",
-          "usage": "💡 讨论AI编码局限时\n💬 建议改名叫SelectiveCoder，看菜下饭\n🔥 编码助手 能力边界 OpenAI",
-          "source": "https://openai.com/index/research-acceleration-jagged-frontier",
+          "title": "华为云机器人共享",
+          "summary": "算力池化避免重复建设",
+          "detail": "华为云CloudRobo提出机器人算力共享方案，让不同公司能共用同一批硬件设备。这套路就像健身房年卡，早买早享受，拼团更划算。",
+          "usage": "💡 讨论机器人成本时用\n💬 华为云这招妙啊，机器人算力都能拼团了\n🔥 华为云 机器人 共享",
+          "source": "https://www.qbitai.com/2026/11/511426.html",
           "tags": [
-            "编码助手",
-            "能力边界",
-            "OpenAI"
+            "华为",
+            "机器人",
+            "共享经济"
           ]
         }
       ]
@@ -217,8 +217,8 @@
         {
           "title": "联想财报创新高",
           "summary": "AI基建带动最佳财季",
-          "detail": "联想公布史上最强季度财报，AI服务器业务暴涨。网友神评：'这波属于AI时代的卖铲人，管你淘不淘到金，我先赚一波机房钱'。",
-          "usage": "💡 聊AI基础设施商机时\n💬 建议改名叫Len(ov)黄金矿工\n🔥 联想 财报 AI服务器",
+          "detail": "联想集团公布2026/27财年Q2业绩，受全球AI基础设施建设热潮推动，创下史上最佳财季。现在卖服务器比卖电脑赚钱多了，联想终于找对风口了。",
+          "usage": "💡 聊硬件行情时引用\n💬 联想这波靠AI服务器赚麻了\n🔥 联想 财报 AI服务器",
           "source": "https://www.qbitai.com/2026/11/511088.html",
           "tags": [
             "联想",
@@ -227,30 +227,30 @@
           ]
         },
         {
-          "title": "Everful融资",
-          "summary": "前阿里高管搞AI供应链",
-          "detail": "前阿里高管创立的Everful完成4850万美元融资，用AI连接零售商与中国工厂。这下连'义乌小商品'都要搞数字化升级了。",
-          "usage": "💡 聊AI+供应链时\n💬 建议1688连夜上线AI砍价功能\n🔥 Everful 供应链 融资",
-          "source": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+          "title": "AI系统故障频发",
+          "summary": "科技圈迎来新千年虫",
+          "detail": "TechCrunch称近期航空订票、银行系统频繁宕机，疑似AI代理引发的新千年虫危机。20年前担心电脑算错日期，现在担心AI自作主张—人类在背锅这件事上从不进步。",
+          "usage": "💡 系统宕机时吐槽\n💬 新的千年虫来了，这次是AI自己作妖\n🔥 AI故障 系统宕机 千年虫",
+          "source": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
           "tags": [
-            "Everful",
-            "供应链",
-            "融资"
+            "AI故障",
+            "系统宕机",
+            "千年虫"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-19T18:39:35.106Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-20T04:14:49.984Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3590,
-    "completion_tokens": 2877,
-    "total_tokens": 6467,
-    "cost_usd": 0.0038836358999999997,
+    "prompt_tokens": 3555,
+    "completion_tokens": 2845,
+    "total_tokens": 6400,
+    "cost_usd": 0.0038417085,
     "free": false,
     "sources": {
       "per_source": {
