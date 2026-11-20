@@ -5,27 +5,15 @@
       "icon": "📰",
       "items": [
         {
-          "title": "腾讯AI跌停",
-          "summary": "腾讯AI突破反跌2800亿",
-          "detail": "腾讯控股11月19日开盘持续走弱，收跌6.55%，单日市值蒸发约2800亿港元。市场分析认为，虽然腾讯AI有技术突破，但投资者更担心其商业化前景不明朗，导致恐慌性抛售。这波操作堪称'技术越强，股价越慌'的典型范例。",
-          "usage": "💡 午休聊股市\n💬 腾讯AI越突破股价越跌，这波是技术性股灾？\n🔥 腾讯 AI 股价暴跌",
-          "source": "https://www.huxiu.com/article/4907097.html?f=rss",
+          "title": "AI加速制药",
+          "summary": "AI将新药研发时间大幅缩短",
+          "detail": "全球多家大型制药公司的高级科研人员表示，今年以来，人工智能显著加快了药物研发早期阶段的工作进程，将新分子研发及推进至临床试验所需的时间最多缩短了一半。这一突破不仅提高了研发效率，还大幅降低了成本，让制药巨头们笑开了花。",
+          "usage": "💡 同事聊AI应用\n💬 AI现在连制药都快了，咱们是不是也要转行？\n🔥 AI 制药 研发",
+          "source": "https://www.huxiu.com/article/4907327.html?f=rss",
           "tags": [
-            "腾讯",
             "AI",
-            "股市"
-          ]
-        },
-        {
-          "title": "Anthropic上市",
-          "summary": "AI大模型公司上市首日大起大落",
-          "detail": "美东时间11月19日，AI大模型公司Anthropic正式登陆纳斯达克，股价经历大涨后大幅回撤。这家成立近六年的公司被戏称为'百度最狠前员工'创业项目，上市首日就上演了'AI过山车'行情，让投资者体验了一把什么叫'人工'智能。",
-          "usage": "💡 下午茶聊AI\n💬 Anthropic上市首日就玩心跳，AI股也开始割韭菜了？\n🔥 Anthropic 上市 AI股",
-          "source": "https://www.huxiu.com/article/4907098.html?f=rss",
-          "tags": [
-            "Anthropic",
-            "AI",
-            "上市"
+            "制药",
+            "研发"
           ]
         }
       ]
@@ -35,27 +23,15 @@
       "icon": "🎤",
       "items": [
         {
-          "title": "百度前员工创业",
-          "summary": "百度前员工创办AI公司上市",
-          "detail": "Anthropic创始人被媒体称为'百度最狠前员工'，这位神秘人物从百度离职后创办的AI公司一夜之间登陆纳斯达克，上演了现实版'前东家哭晕在厕所'的戏码。不知道李彦宏现在是不是在考虑加个'竞业协议加强版'。",
-          "usage": "💡 聊职场八卦\n💬 百度前员工创业上市了，这波是前东家最痛的一课？\n🔥 百度 前员工 Anthropic",
-          "source": "https://www.huxiu.com/article/4907090.html?f=rss",
-          "tags": [
-            "百度",
-            "创业",
-            "AI"
-          ]
-        },
-        {
-          "title": "特朗普评中俄美会晤",
-          "summary": "特朗普给中俄美元首会晤打12分",
-          "detail": "特朗普在最新采访中对中俄美元首会晤打出12分（满分10分），并表示'这比我当年搞的场面大多了'。川普式评分再现江湖，让人不禁想问：这位前总统是不是偷偷开了个'国际关系评分副业'？",
-          "usage": "💡 国际新闻时间\n💬 特朗普给中俄美会晤打12分，他的评分标准是看场面大小吗？\n🔥 特朗普 中俄美 会晤",
-          "source": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%99%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E6%89%9312%E5%88%86&sa=fyb_news",
+          "title": "特朗普发帖",
+          "summary": "特朗普从中国返美途中发帖",
+          "detail": "特朗普从中国返美途中发帖，内容一如既往地充满争议和话题性。这位前总统在社交媒体上的活跃程度丝毫不减，继续用他的独特风格吸引全球目光。",
+          "usage": "💡 同事聊国际新闻\n💬 特朗普又开始发帖了，这次又是啥事？\n🔥 特朗普 发帖 中国",
+          "source": "https://www.toutiao.com/trending/7709481684689240107/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709481684689240107%22%2C%22hot_board_impr_id%22%3A%2220261121020744AD7BFB040878CF49F5F2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%8E%E4%B8%AD%E5%9B%BD%E8%BF%94%E7%BE%8E%E9%80%94%E4%B8%AD%E5%8F%91%E5%B8%96%22%7D&rank=&style_id=40132&topic_id=7709481684689240107",
           "tags": [
             "特朗普",
-            "国际关系",
-            "会晤"
+            "发帖",
+            "中国"
           ]
         }
       ]
@@ -65,27 +41,15 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "腾讯市值蒸发",
-          "summary": "腾讯单日跌掉2800亿",
-          "detail": "11月19日，腾讯控股开盘持续走弱，收跌6.55%，单日市值蒸发约2800亿港元。市场分析认为，虽然腾讯AI有技术突破，但投资者更担心其商业化前景不明朗。这波操作堪称'技术越强，股价越慌'的典型范例，马化腾今晚可能要失眠了。",
-          "usage": "💡 聊股市波动\n💬 腾讯一天跌掉一个美团，AI突破反而成了利空？\n🔥 腾讯 股价 暴跌",
-          "source": "https://www.huxiu.com/article/4907097.html?f=rss",
+          "title": "阿里巴巴财报",
+          "summary": "阿里巴巴国际电商业务收入下降",
+          "detail": "阿里巴巴发布三季度财报，国际电商业务收入为257.23亿元，同比下降8%。阿里将收入下降主要归因于欧盟海关改革对速卖通业务的影响。这一变化让阿里不得不重新审视其国际战略。",
+          "usage": "💡 同事聊财报\n💬 阿里国际业务也扛不住了，欧盟海关改革影响不小啊！\n🔥 阿里巴巴 财报 国际业务",
+          "source": "https://www.huxiu.com/article/4907325.html?f=rss",
           "tags": [
-            "腾讯",
-            "股市",
-            "AI"
-          ]
-        },
-        {
-          "title": "AI限流开始",
-          "summary": "DeepSeek开始限制免费使用",
-          "detail": "AI公司DeepSeek开始'限流'，免费AI的'随手用'时代正在悄悄收口。算力不足的锅最终还是让普通用户来背，这波操作被网友吐槽为'先用免费把你养肥，再开始收割'的标准互联网套路。",
-          "usage": "💡 聊AI现状\n💬 DeepSeek也开始限流了，免费AI的羊毛越来越难薅了？\n🔥 DeepSeek 限流 AI",
-          "source": "https://www.huxiu.com/article/4906733.html?f=rss",
-          "tags": [
-            "DeepSeek",
-            "AI",
-            "限流"
+            "阿里巴巴",
+            "财报",
+            "国际业务"
           ]
         }
       ]
@@ -95,27 +59,15 @@
       "icon": "🔀",
       "items": [
         {
-          "title": "卤味巨头关店",
-          "summary": "卤味一哥两年关店7000家",
-          "detail": "曾经靠扩店跑出来的卤味一哥，两年关了近7000家门店，交出十年来最差三季报，经营现金流转负。网友调侃：'鸭还是那个鸭，但消费者的钱包不是那个钱包了'。这波关店潮堪称'舌尖上的经济晴雨表'。",
-          "usage": "💡 聊消费降级\n💬 卤味巨头两年关7000店，鸭货也扛不住经济寒冬了？\n🔥 卤味 关店 消费",
-          "source": "https://www.huxiu.com/article/4904999.html?f=rss",
+          "title": "7 Road International",
+          "summary": "新加坡AI公司7 Road International倒闭",
+          "detail": "2015年在新加坡注册的7 Road International公司，经过十年的发展，最终倒闭。这家公司曾经是英伟达的AI合作伙伴，但未能适应市场的快速变化，最终走向了终结。",
+          "usage": "💡 同事聊公司倒闭\n💬 7 Road International也倒了，AI生意不好做啊！\n🔥 7 Road International AI 倒闭",
+          "source": "https://www.huxiu.com/article/4907326.html?f=rss",
           "tags": [
-            "卤味",
-            "关店",
-            "消费"
-          ]
-        },
-        {
-          "title": "VC消失之谜",
-          "summary": "中国互联网黄金时代VC去哪了",
-          "detail": "曾经遍地撒钱的互联网VC们似乎集体消失了，那些'某某创业公司完成数千万美元融资'的新闻越来越少见。业内人士感叹：'不是VC不见了，是能讲的好故事越来越少了'。这波VC退潮，堪称创投圈的'冰河时代'。",
-          "usage": "💡 聊创投环境\n💬 互联网黄金时代的VC们都去哪了？是没钱了还是没好项目了？\n🔥 VC 创投 互联网",
-          "source": "https://www.huxiu.com/article/4907126.html?f=rss",
-          "tags": [
-            "VC",
-            "创投",
-            "互联网"
+            "7 Road International",
+            "AI",
+            "倒闭"
           ]
         }
       ]
@@ -125,27 +77,15 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "AI进军制造业",
-          "summary": "AI从实验室杀入工厂车间",
-          "detail": "继AI4S（科学）之后，AI开始大举进军制造业。从实验室到工厂车间，AI正在上演'降维打击'。不过制造业老师傅们表示：'先让AI来拧两天螺丝试试'，这场跨界融合注定不会太顺利。",
-          "usage": "💡 聊技术跨界\n💬 AI都要去拧螺丝了，制造业老师傅们慌不慌？\n🔥 AI 制造业 转型",
-          "source": "https://www.huxiu.com/article/4907129.html?f=rss",
+          "title": "AI制药突破",
+          "summary": "AI加速药物研发",
+          "detail": "全球多家大型制药公司的高级科研人员表示，今年以来，人工智能显著加快了药物研发早期阶段的工作进程，将新分子研发及推进至临床试验所需的时间最多缩短了一半。这一突破不仅提高了研发效率，还大幅降低了成本，让制药巨头们笑开了花。",
+          "usage": "💡 同事聊AI应用\n💬 AI现在连制药都快了，咱们是不是也要转行？\n🔥 AI 制药 研发",
+          "source": "https://www.huxiu.com/article/4907327.html?f=rss",
           "tags": [
             "AI",
-            "制造业",
-            "转型"
-          ]
-        },
-        {
-          "title": "6G不止于快",
-          "summary": "6G将重新定义通信网络",
-          "detail": "专家指出，6G不应只是比5G更快的网络，而是要重新定义通信。网友调侃：'5G还没用明白，6G又要来了，这速度比我换手机还快'。这场通信技术迭代，堪称'用户永远追不上的科技马拉松'。",
-          "usage": "💡 聊通信技术\n💬 5G还没玩明白，6G又要来了，这速度是要飞起吗？\n🔥 6G 通信 技术",
-          "source": "https://www.huxiu.com/article/4907112.html?f=rss",
-          "tags": [
-            "6G",
-            "通信",
-            "技术"
+            "制药",
+            "研发"
           ]
         }
       ]
@@ -155,27 +95,15 @@
       "icon": "📱",
       "items": [
         {
-          "title": "AI客户成功学",
-          "summary": "企业AI必须解决客户成功",
-          "detail": "专家指出，没有客户成功，企业AI这门生意根本做不成。这就像开健身房只卖卡不教健身，最终只会收获一堆'最贵晾衣架'。AI公司们是时候从'技术炫技'转向'真解决问题'了。",
-          "usage": "💡 聊AI商业化\n💬 AI公司开始讲客户成功了，终于想起来技术要为人服务了？\n🔥 AI 商业化 客户成功",
-          "source": "https://www.huxiu.com/article/4907114.html?f=rss",
+          "title": "科技新国货",
+          "summary": "深圳特产科技新国货",
+          "detail": "科技新国货成为深圳的特产，越来越多的高科技产品从这里走向全国乃至全球。深圳作为中国科技创新的前沿阵地，再次证明了其在国内外的领先地位。",
+          "usage": "💡 同事聊新国货\n💬 深圳特产现在都是科技新国货了，咱们要不要去考察一下？\n🔥 深圳 科技新国货 特产",
+          "source": "https://m.baidu.com/s?word=%E7%A7%91%E6%8A%80%E6%96%B0%E5%9B%BD%E8%B4%A7%E6%88%90%E2%80%9C%E6%B7%B1%E5%9C%B3%E7%89%B9%E4%BA%A7%E2%80%9D&sa=fyb_news",
           "tags": [
-            "AI",
-            "商业化",
-            "客户成功"
-          ]
-        },
-        {
-          "title": "高铁建设加速",
-          "summary": "长三角三条高铁开通在即",
-          "detail": "安徽高铁建设加速推进，巢马高铁试运行引发热议。网友感叹：'以后从合肥到马鞍山终于不用从南京绕了'，这波操作堪称'地理课代表都要更新笔记'的基建速度。",
-          "usage": "💡 聊基建进展\n💬 长三角高铁都要成蜘蛛网了，以后出门是不是可以随时来场说走就走的旅行？\n🔥 高铁 长三角 基建",
-          "source": "https://www.huxiu.com/article/4907125.html?f=rss",
-          "tags": [
-            "高铁",
-            "长三角",
-            "基建"
+            "深圳",
+            "科技新国货",
+            "特产"
           ]
         }
       ]
@@ -185,81 +113,44 @@
       "icon": "🎬",
       "items": [
         {
-          "title": "泰国房产骨折价",
-          "summary": "中国投资者骨折价卖泰国房产",
-          "detail": "一位中国投资者准备以330万泰铢购入，现以250万泰铢出售清迈公寓，堪称'跨国房产投资大型翻车现场'。这波操作让'置业泰国'变成了'折戟泰国'，提醒各位：海外买房有风险，抄底可能抄在半山腰。",
-          "usage": "💡 聊海外投资\n💬 泰国买房也翻车了，这届投资者是不是该改名叫'接盘侠'？\n🔥 泰国 房产 投资",
-          "source": "https://www.huxiu.com/article/4906803.html?f=rss",
+          "title": "7 Road International",
+          "summary": "新加坡AI公司7 Road International倒闭",
+          "detail": "2015年在新加坡注册的7 Road International公司，经过十年的发展，最终倒闭。这家公司曾经是英伟达的AI合作伙伴，但未能适应市场的快速变化，最终走向了终结。",
+          "usage": "💡 同事聊公司倒闭\n💬 7 Road International也倒了，AI生意不好做啊！\n🔥 7 Road International AI 倒闭",
+          "source": "https://www.huxiu.com/article/4907326.html?f=rss",
           "tags": [
-            "泰国",
-            "房产",
-            "投资"
-          ]
-        },
-        {
-          "title": "卤味店倒闭潮",
-          "summary": "万店卤味品牌两年关7000店",
-          "detail": "曾经靠扩店跑出来的卤味一哥，两年关了近7000家门店，交出十年来最差三季报。网友神评论：'鸭货还是那个鸭货，但消费者的钱包不是那个钱包了'，这波关店潮堪称'舌尖上的经济晴雨表'。",
-          "usage": "💡 聊消费趋势\n💬 卤味店都开始关门了，吃货们终于也捂紧钱包了？\n🔥 卤味 关店 消费",
-          "source": "https://www.huxiu.com/article/4904999.html?f=rss",
-          "tags": [
-            "卤味",
-            "关店",
-            "消费"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "币圈风云",
-      "icon": "🪙",
-      "items": [
-        {
-          "title": "华强北买疯了",
-          "summary": "外国人在华强北疯狂扫货",
-          "detail": "华强北再次成为外国人购物天堂，各种电子配件被疯狂扫货。网友调侃：'这波是反向海淘，外国友人也体会到了中国制造的快乐'。华强北用实际行动证明：'只要价格够香，地球人都一样'。",
-          "usage": "💡 聊电子产品\n💬 外国人在华强北买疯了，这是要回去开淘宝店吗？\n🔥 华强北 电子产品 购物",
-          "source": "https://www.toutiao.com/trending/7709125566045897225/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709125566045897225%22%2C%22hot_board_impr_id%22%3A%2220261120121305E62A0D5429C14A9FC1FB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%8D%8E%E5%BC%BA%E5%8C%97%E4%B9%B0%E7%96%AF%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7709125566045897225",
-          "tags": [
-            "华强北",
-            "电子产品",
-            "购物"
-          ]
-        },
-        {
-          "title": "深圳砂锅粥出圈",
-          "summary": "泰国总理夜游深圳吃砂锅粥",
-          "detail": "泰国总理和夫人夜游深圳，专程打卡潮汕砂锅粥，用实际行动证明：'美食外交'才是国际关系的终极奥义。网友调侃：'这下砂锅粥要成深圳新特产了，建议改名叫国际关系粥'。",
-          "usage": "💡 聊国际趣闻\n💬 泰国总理都来吃砂锅粥了，深圳美食这是要出圈啊？\n🔥 泰国总理 深圳 砂锅粥",
-          "source": "https://m.baidu.com/s?word=%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E5%92%8C%E5%A4%AB%E4%BA%BA%E5%A4%9C%E6%B8%B8%E6%B7%B1%E5%9C%B3%E5%90%83%E6%BD%AE%E6%B1%95%E7%A0%82%E9%94%85%E7%B2%A5&sa=fyb_news",
-          "tags": [
-            "泰国总理",
-            "深圳",
-            "美食"
+            "7 Road International",
+            "AI",
+            "倒闭"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-20T04:13:52.438Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-11-20T18:11:46.932Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 5639,
-    "completion_tokens": 3607,
-    "total_tokens": 9246,
-    "cost_usd": 0.0051619995,
+    "prompt_tokens": 4863,
+    "completion_tokens": 1866,
+    "total_tokens": 6729,
+    "cost_usd": 0.0031712904000000004,
     "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 1,
+      "published": 7
+    },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 12,
+        "huxiu": 4,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 24
+      "total": 15
     }
   }
 }

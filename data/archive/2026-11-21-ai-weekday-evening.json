@@ -1,0 +1,263 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "Nvidia CEO 丑闻",
+          "summary": "Nvidia CEO Jensen Huang 因丑闻辞职",
+          "detail": "Nvidia CEO Jensen Huang 因与一名疑似中国间谍的丑闻辞职，这可能会对国家安全产生重大影响。这一事件不仅影响了 Nvidia 的股价，还可能改变半导体行业的竞争格局。",
+          "usage": "💡 聊半导体行业动态时\n💬 Nvidia CEO Jensen Huang 因丑闻辞职，这下半导体行业要变天了\n🔥 Nvidia JensenHuang 丑闻",
+          "source": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "tags": [
+            "Nvidia",
+            "CEO",
+            "丑闻"
+          ]
+        },
+        {
+          "title": "Anthropic IPO",
+          "summary": "Anthropic IPO，创始人套现近20亿",
+          "detail": "Anthropic 在创纪录的 IPO 中以每股 83 美元的价格上市，七位创始人每人套现 2.8 亿美元，总计近 20 亿美元。这一事件标志着 AI 创业公司的巨大成功，但也引发了关于创始人套现的争议。",
+          "usage": "💡 聊 AI 创业公司时\n💬 Anthropic IPO，创始人套现近20亿，这下AI创业公司要起飞了\n🔥 Anthropic IPO 套现",
+          "source": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+          "tags": [
+            "Anthropic",
+            "IPO",
+            "套现"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "昇腾算力",
+          "summary": "华为云昇腾算力开放具身世界模型",
+          "detail": "华为云昇腾算力开放了具身世界模型，国产算力的成熟使得具身竞争的维度从芯片性能转向训练效率、数据规模、部署成本和场景落地速度的多维战场。这一举措将大幅提升 AI 模型的训练和应用效率。",
+          "usage": "💡 聊 AI 模型训练时\n💬 华为云昇腾算力开放具身世界模型，这下训练效率要起飞了\n🔥 华为云 昇腾算力 具身世界模型",
+          "source": "https://www.qbitai.com/2026/11/511610.html",
+          "tags": [
+            "华为云",
+            "昇腾算力",
+            "具身世界模型"
+          ]
+        },
+        {
+          "title": "Agnes Harness",
+          "summary": "Agnes Harness 提速14倍，成本骤降1/27",
+          "detail": "Agnes Harness 通过双系统决策和双层自进化，将 Agent 效率最高提速14倍，成本骤降至1/27。这一开源工具的发布将大幅降低 AI 应用的开发成本。",
+          "usage": "💡 聊 AI 工具开发时\n💬 Agnes Harness 提速14倍，成本骤降1/27，这下开发成本要降了\n🔥 AgnesHarness 提速 降成本",
+          "source": "https://www.qbitai.com/2026/11/511582.html",
+          "tags": [
+            "AgnesHarness",
+            "提速",
+            "降成本"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "Dean Ball 演讲",
+          "summary": "Dean Ball 谈 AI 如何重塑社会",
+          "detail": "OpenAI 战略未来负责人 Dean Ball 在演讲中探讨了更有能力的 AI 如何重塑社会。他指出，AI 技术将在未来几年内对社会结构产生深远影响，尤其是在工作方式和决策过程方面。",
+          "usage": "💡 聊 AI 社会影响时\n💬 Dean Ball 谈 AI 如何重塑社会，这下未来要变了\n🔥 DeanBall OpenAI 社会影响",
+          "source": "https://openai.com/index/the-silent-consensus",
+          "tags": [
+            "DeanBall",
+            "OpenAI",
+            "社会影响"
+          ]
+        },
+        {
+          "title": "Sumitomo Life",
+          "summary": "Sumitomo Life 使用 ChatGPT Enterprise",
+          "detail": "Sumitomo Life 使用 ChatGPT Enterprise 进行保险公司研究、提案准备和代码编写。这一案例展示了 AI 在企业中的广泛应用，特别是在提高工作效率和决策质量方面。",
+          "usage": "💡 聊 AI 在企业中的应用时\n💬 Sumitomo Life 使用 ChatGPT Enterprise，这下工作效率要提高了\n🔥 SumitomoLife ChatGPTEnterprise",
+          "source": "https://openai.com/business/customer-stories/sumitomo-life",
+          "tags": [
+            "SumitomoLife",
+            "ChatGPTEnterprise",
+            "企业应用"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "Apple AI",
+          "summary": "Apple 开发 AI agent 运行 Mac",
+          "detail": "Apple 正在开发自己的 AI agent，可以在 Mac 上运行，与 Meta Muse 和 Instinct 等竞争。这一举措表明 Apple 正在加速 AI 技术的研发和商业化。",
+          "usage": "💡 聊 Apple 产品时\n💬 Apple 开发 AI agent 运行 Mac，这下 Mac 要起飞了\n🔥 Apple AIagent Mac",
+          "source": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+          "tags": [
+            "Apple",
+            "AIagent",
+            "Mac"
+          ]
+        },
+        {
+          "title": "Meta Muse",
+          "summary": "Meta Muse Charm 设备售价 300 美元",
+          "detail": "Meta 的新 Muse Charm 设备可能售价 300 美元，虽然 Meta 尚未确认，但这一价格定位表明其在 AI 硬件市场的野心。",
+          "usage": "💡 聊 AI 硬件时\n💬 Meta Muse Charm 设备售价 300 美元，这下 AI 硬件市场要热闹了\n🔥 Meta MuseCharm AI硬件",
+          "source": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+          "tags": [
+            "Meta",
+            "MuseCharm",
+            "AI硬件"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "Codex Security",
+          "summary": "OpenAI Codex Security Plugin 演示",
+          "detail": "OpenAI 发布了 Codex Security Plugin 的演示视频，展示了从入门到审查扫描结果的工作流程。这一插件将大幅提升代码安全审查的效率。",
+          "usage": "💡 聊代码安全审查时\n💬 OpenAI Codex Security Plugin 演示，这下代码安全审查要提速了\n🔥 OpenAI CodexSecurity 插件",
+          "source": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "tags": [
+            "OpenAI",
+            "CodexSecurity",
+            "插件"
+          ]
+        },
+        {
+          "title": "PR Scans",
+          "summary": "OpenAI PR Scans 演示",
+          "detail": "OpenAI 发布了 PR Scans 的演示视频，展示了如何在拉取请求工作流中审查扫描结果。这一工具将帮助开发者更高效地进行代码审查。",
+          "usage": "💡 聊代码审查时\n💬 OpenAI PR Scans 演示，这下代码审查要高效了\n🔥 OpenAI PRScans 代码审查",
+          "source": "https://openai.com/business/learn/pr-scans-demo",
+          "tags": [
+            "OpenAI",
+            "PRScans",
+            "代码审查"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "Agnes Harness",
+          "summary": "Agnes Harness 开源",
+          "detail": "Agnes Harness 通过双系统决策和双层自进化，将 Agent 效率最高提速14倍，成本骤降至1/27。这一开源工具的发布将大幅降低 AI 应用的开发成本。",
+          "usage": "💡 聊 AI 工具开发时\n💬 Agnes Harness 开源，这下开发成本要降了\n🔥 AgnesHarness 开源 降成本",
+          "source": "https://www.qbitai.com/2026/11/511582.html",
+          "tags": [
+            "AgnesHarness",
+            "开源",
+            "降成本"
+          ]
+        },
+        {
+          "title": "SenseNova U1 Pro",
+          "summary": "SenseNova U1 Pro 登顶双榜",
+          "detail": "商汤科技 SenseNova U1 Pro 在图片生成与图片编辑两大榜单中均登顶中国第一，全球第六。这一成就展示了中国 AI 技术在图像处理领域的领先地位。",
+          "usage": "💡 聊 AI 图像处理时\n💬 SenseNova U1 Pro 登顶双榜，这下中国 AI 技术要起飞了\n🔥 SenseNovaU1Pro 图像处理",
+          "source": "https://www.qbitai.com/2026/11/511179.html",
+          "tags": [
+            "SenseNovaU1Pro",
+            "图像处理",
+            "中国AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "Kling Image 4.0",
+          "summary": "Kling Image 4.0 画出 8K 图",
+          "detail": "国产 AI 工具 Kling Image 4.0 可以生成 8K 分辨率的图像，即使放大到极大尺寸也不失真。这一技术突破将大幅提升图像处理和生成的质量。",
+          "usage": "💡 聊 AI 图像生成时\n💬 Kling Image 4.0 画出 8K 图，这下图像生成要起飞了\n🔥 KlingImage4.0 8K图",
+          "source": "https://www.qbitai.com/2026/11/511092.html",
+          "tags": [
+            "KlingImage4.0",
+            "8K图",
+            "图像生成"
+          ]
+        },
+        {
+          "title": "Daybreak Red",
+          "summary": "OpenAI Daybreak Red 安全架构",
+          "detail": "OpenAI 发布了 Daybreak Red 参考架构，用于监督安全调查。这一架构将帮助企业和研究机构更高效地进行安全研究和应用。",
+          "usage": "💡 聊 AI 安全研究时\n💬 OpenAI Daybreak Red 安全架构，这下安全研究要高效了\n🔥 OpenAI DaybreakRed 安全架构",
+          "source": "https://openai.com/business/learn/deploying-daybreak-red",
+          "tags": [
+            "OpenAI",
+            "DaybreakRed",
+            "安全架构"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "SpaceX 芯片融资",
+          "summary": "SpaceX 芯片融资面临挑战",
+          "detail": "SpaceX 的芯片融资面临挑战，因为贷款人不希望他们的抵押品被射入太空。这一事件揭示了太空数据中心的融资难题。",
+          "usage": "💡 聊太空技术融资时\n💬 SpaceX 芯片融资面临挑战，这下太空数据中心要难了\n🔥 SpaceX 芯片融资 太空数据中心",
+          "source": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+          "tags": [
+            "SpaceX",
+            "芯片融资",
+            "太空数据中心"
+          ]
+        },
+        {
+          "title": "Y2K AI",
+          "summary": "AI 技术故障重现 Y2K",
+          "detail": "最近的航空公司预订系统、银行平台和生产力平台的技术故障让人联想到 Y2K 问题。这些故障揭示了 AI 技术在大规模应用中的潜在风险。",
+          "usage": "💡 聊 AI 技术风险时\n💬 AI 技术故障重现 Y2K，这下大规模应用要谨慎了\n🔥 AI技术故障 Y2K",
+          "source": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+          "tags": [
+            "AI技术故障",
+            "Y2K"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-20T18:13:07.995Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3558,
+    "completion_tokens": 2861,
+    "total_tokens": 6419,
+    "cost_usd": 0.0038589399,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

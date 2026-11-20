@@ -1,0 +1,156 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "AI加速制药",
+          "summary": "AI将新药研发时间大幅缩短",
+          "detail": "全球多家大型制药公司的高级科研人员表示，今年以来，人工智能显著加快了药物研发早期阶段的工作进程，将新分子研发及推进至临床试验所需的时间最多缩短了一半。这一突破不仅提高了研发效率，还大幅降低了成本，让制药巨头们笑开了花。",
+          "usage": "💡 同事聊AI应用\n💬 AI现在连制药都快了，咱们是不是也要转行？\n🔥 AI 制药 研发",
+          "source": "https://www.huxiu.com/article/4907327.html?f=rss",
+          "tags": [
+            "AI",
+            "制药",
+            "研发"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "特朗普发帖",
+          "summary": "特朗普从中国返美途中发帖",
+          "detail": "特朗普从中国返美途中发帖，内容一如既往地充满争议和话题性。这位前总统在社交媒体上的活跃程度丝毫不减，继续用他的独特风格吸引全球目光。",
+          "usage": "💡 同事聊国际新闻\n💬 特朗普又开始发帖了，这次又是啥事？\n🔥 特朗普 发帖 中国",
+          "source": "https://www.toutiao.com/trending/7709481684689240107/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709481684689240107%22%2C%22hot_board_impr_id%22%3A%2220261121020744AD7BFB040878CF49F5F2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%8E%E4%B8%AD%E5%9B%BD%E8%BF%94%E7%BE%8E%E9%80%94%E4%B8%AD%E5%8F%91%E5%B8%96%22%7D&rank=&style_id=40132&topic_id=7709481684689240107",
+          "tags": [
+            "特朗普",
+            "发帖",
+            "中国"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "阿里巴巴财报",
+          "summary": "阿里巴巴国际电商业务收入下降",
+          "detail": "阿里巴巴发布三季度财报，国际电商业务收入为257.23亿元，同比下降8%。阿里将收入下降主要归因于欧盟海关改革对速卖通业务的影响。这一变化让阿里不得不重新审视其国际战略。",
+          "usage": "💡 同事聊财报\n💬 阿里国际业务也扛不住了，欧盟海关改革影响不小啊！\n🔥 阿里巴巴 财报 国际业务",
+          "source": "https://www.huxiu.com/article/4907325.html?f=rss",
+          "tags": [
+            "阿里巴巴",
+            "财报",
+            "国际业务"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "7 Road International",
+          "summary": "新加坡AI公司7 Road International倒闭",
+          "detail": "2015年在新加坡注册的7 Road International公司，经过十年的发展，最终倒闭。这家公司曾经是英伟达的AI合作伙伴，但未能适应市场的快速变化，最终走向了终结。",
+          "usage": "💡 同事聊公司倒闭\n💬 7 Road International也倒了，AI生意不好做啊！\n🔥 7 Road International AI 倒闭",
+          "source": "https://www.huxiu.com/article/4907326.html?f=rss",
+          "tags": [
+            "7 Road International",
+            "AI",
+            "倒闭"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "AI制药突破",
+          "summary": "AI加速药物研发",
+          "detail": "全球多家大型制药公司的高级科研人员表示，今年以来，人工智能显著加快了药物研发早期阶段的工作进程，将新分子研发及推进至临床试验所需的时间最多缩短了一半。这一突破不仅提高了研发效率，还大幅降低了成本，让制药巨头们笑开了花。",
+          "usage": "💡 同事聊AI应用\n💬 AI现在连制药都快了，咱们是不是也要转行？\n🔥 AI 制药 研发",
+          "source": "https://www.huxiu.com/article/4907327.html?f=rss",
+          "tags": [
+            "AI",
+            "制药",
+            "研发"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "科技新国货",
+          "summary": "深圳特产科技新国货",
+          "detail": "科技新国货成为深圳的特产，越来越多的高科技产品从这里走向全国乃至全球。深圳作为中国科技创新的前沿阵地，再次证明了其在国内外的领先地位。",
+          "usage": "💡 同事聊新国货\n💬 深圳特产现在都是科技新国货了，咱们要不要去考察一下？\n🔥 深圳 科技新国货 特产",
+          "source": "https://m.baidu.com/s?word=%E7%A7%91%E6%8A%80%E6%96%B0%E5%9B%BD%E8%B4%A7%E6%88%90%E2%80%9C%E6%B7%B1%E5%9C%B3%E7%89%B9%E4%BA%A7%E2%80%9D&sa=fyb_news",
+          "tags": [
+            "深圳",
+            "科技新国货",
+            "特产"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "7 Road International",
+          "summary": "新加坡AI公司7 Road International倒闭",
+          "detail": "2015年在新加坡注册的7 Road International公司，经过十年的发展，最终倒闭。这家公司曾经是英伟达的AI合作伙伴，但未能适应市场的快速变化，最终走向了终结。",
+          "usage": "💡 同事聊公司倒闭\n💬 7 Road International也倒了，AI生意不好做啊！\n🔥 7 Road International AI 倒闭",
+          "source": "https://www.huxiu.com/article/4907326.html?f=rss",
+          "tags": [
+            "7 Road International",
+            "AI",
+            "倒闭"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-20T18:11:46.932Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 4863,
+    "completion_tokens": 1866,
+    "total_tokens": 6729,
+    "cost_usd": 0.0031712904000000004,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 1,
+      "published": 7
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 4,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 15
+    }
+  }
+}
