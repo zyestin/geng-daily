@@ -1,0 +1,78 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "美股AI崩盘",
+          "summary": "美股AI板块遭遇猛烈抛售",
+          "detail": "今天凌晨，美股遭遇猛烈抛售，科技股集体重挫，尤其是AI板块。曾经支撑美股上涨的AI概念股，如今成了重灾区。市场担心AI泡沫即将破裂，投资者纷纷逃离。李大霄指出，这波崩盘可能只是开始，AI股的寒冬即将来临。",
+          "usage": "💡 同事聊美股时\n💬 美股AI崩了，泡沫要破了？\n🔥 美股 AI 崩盘",
+          "source": "https://www.huxiu.com/article/4907388.html?f=rss",
+          "tags": [
+            "美股",
+            "AI",
+            "崩盘"
+          ]
+        },
+        {
+          "title": "黎曼猜想AI证明",
+          "summary": "AI助力破解167年数学难题",
+          "detail": "Anthropic数学家Levent Alpöge宣布，他与AI Claude合作，找到了悬置167年的黎曼猜想证明。虽然98%正确，但这已经是AI在数学领域的重大突破。数学家们纷纷表示，AI可能成为未来破解复杂数学问题的关键工具。",
+          "usage": "💡 同事聊AI时\n💬 AI破解了黎曼猜想，98%正确！\n🔥 AI 黎曼猜想 数学",
+          "source": "https://www.huxiu.com/article/4907375.html?f=rss",
+          "tags": [
+            "AI",
+            "黎曼猜想",
+            "数学"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "SpaceX星舰",
+          "summary": "SpaceX星舰试飞成功",
+          "detail": "SpaceX的星舰试飞成功，标志着商业航天又迈出重要一步。马斯克表示，星舰将用于未来的火星任务。网友调侃，马斯克这是在为火星移民铺路。",
+          "usage": "💡 同事聊航天时\n💬 SpaceX星舰试飞成功，火星移民更进一步！\n🔥 SpaceX 星舰 火星",
+          "source": "https://www.huxiu.com/article/4907369.html?f=rss",
+          "tags": [
+            "SpaceX",
+            "星舰",
+            "火星"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-21T08:04:47.282Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 5883,
+    "completion_tokens": 2366,
+    "total_tokens": 8249,
+    "cost_usd": 0.0039481884,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 13,
+      "published": 3
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 12,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 21
+    }
+  }
+}

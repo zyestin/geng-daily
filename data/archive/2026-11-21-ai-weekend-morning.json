@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "昇腾算力引发新竞争",
+          "summary": "华为云计划开放双榜SOTA模型训练底座。",
+          "detail": "华为云最近宣布将开放其最新研制的双榜SOTA具身世界模型训练底座，这在国产算力领域引发广泛关注。此次发布不仅意味着国产AI技术的成熟，还将竞争维度从单纯的芯片性能提升到训练效率、数据规模等多维度角逐，开启了一场新的算力战役。未来的AI应用场景将更加丰富，企业可能需要重新评估其技术路线。\n未来算力竞争将不仅限于硬件，训练效率和成本也将成为关键因素！",
+          "usage": "💡 讨论AI技术竞争时引入。\n💬 \"华为云计划开放其双榜SOTA模型训练底座，算力竞争将全面升级！\"\n🔥 华为云 SOTA 竞争",
+          "source": "https://www.qbitai.com/2026/11/511610.html",
+          "tags": [
+            "华为云",
+            "算力",
+            "具身模型"
+          ]
+        },
+        {
+          "title": "Riemann猜想被解？",
+          "summary": "AI声称找到了167年Riemann猜想的解决方案。",
+          "detail": "最近，AI领域再次引发轰动，因一项声称解决了167年历史的Riemann猜想的成果。这项突破不仅让许多数学家瞠目结舌，更是重新定义了AI在基础科学研究中的潜力。虽然仍有争议，但如果最终落实，这将标志着数学界与AI的深度融合，开启对未知世界的新探索。\n数学研究可能迎来AI的深度介入，未来看起来光明？",
+          "usage": "💡 聊到AI在科研中的应用时提起。\n💬 \"AI最近声称解决了Riemann猜想，数学界将如何反应呢？\"\n🔥 Riemann猜想 AI 研究",
+          "source": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+          "tags": [
+            "AI",
+            "Riemann猜想",
+            "数学"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "GPT-6 Astra发布",
+          "summary": "Hebbia用GPT-6 Astra提升金融研究效率。",
+          "detail": "Hebbia近日测试了最新发布的GPT-6 Astra，在金融研究中取得了显著进展。评估显示，GPT-6 Astra在信息获取速度和准确性上均有25%的提升，帮助研究人员更高效地处理海量数据。这一进步意味着金融行业将能更快地响应市场变化，可能引发整个领域的技术升级。\n金融研究的效率提升意味着决策的速度更快，未来AI可能彻底改变金融行业。",
+          "usage": "💡 提到金融科技时先聊这个。\n💬 \"Hebbia最近用GPT-6 Astra提升了金融研究效率，速度快了25%！\"\n🔥 GPT-6 Astra 金融研究",
+          "source": "https://openai.com/business/customer-stories/hebbia",
+          "tags": [
+            "GPT-6",
+            "金融科技",
+            "研究"
+          ]
+        },
+        {
+          "title": "Agnes开源新决策系统",
+          "summary": "Agnes大幅提升Agent效率至14倍！",
+          "detail": "Agnes最近发布了双系统决策+双层自进化的模型，效率提升高达14倍，且成本降至过去的1/27。这一技术的开源意味着更多团队能够享受高效的AI决策支持，解决以往模型在反应速度和成本上的限制，极大降低了企业的使用门槛，推动了AI应用的广泛落地。\n效率提升如此之高，未来AI将更普及，企业能更快做出数据驱动决策。",
+          "usage": "💡 讨论AI优化工具时提到。\n💬 \"Agnes的开源决策系统让Agent效率提速14倍，成本降至1/27！\"\n🔥 Agnes 开源 效率提升",
+          "source": "https://www.qbitai.com/2026/11/511582.html",
+          "tags": [
+            "Agnes",
+            "高效决策",
+            "开源"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "梁文锋谈AI未来",
+          "summary": "梁文锋在探讨会上强调AI可持续性。",
+          "detail": "在近日举办的‘2026探索大会’上，DeepSeek创始人梁文锋指出，未来AI技术的发展必须注重可持续性，强调在追求效率的同时，不能忽视对社会和环境的影响。他认为，AI的真正进步在于能与人类和谐共存，而非仅仅是追求性能的竞争。这样的观点为目前的技术发展方向带来了深思。\nAI不仅要强大，更要对社会负责，这是未来发展的必然趋势！",
+          "usage": "💡 聊到AI伦理话题时提及。\n💬 \"梁文锋在探索大会上强调，AI未来要注重可持续性与社会责任。\"\n🔥 AI伦理 可持续性",
+          "source": "https://www.qbitai.com/2026/11/511603.html",
+          "tags": [
+            "梁文锋",
+            "AI伦理",
+            "可持续性"
+          ]
+        },
+        {
+          "title": "OpenAI对AI安全的承诺",
+          "summary": "OpenAI高管谈安全机制对抗风险。",
+          "detail": "近日，OpenAI在发布的《Combatting adversarial distillation》中，强调了在竞争激烈的AI领域中，如何通过层次化的模型训练和检测机制来应对潜在的安全威胁。OpenAI的高管表示，安全问题是AI发展的重要环节，企业在追求技术突破时必须将安全放在首位。这一立场为AI的发展提供了新的思考维度。\nAI的安全性将成为未来竞争的核心，谁能掌握安全，谁就能赢得信任！",
+          "usage": "💡 讨论AI安全时可引用。\n💬 \"OpenAI在安全性上投入巨大，强调必须优先解决安全问题。\"\n🔥 AI安全 OpenAI",
+          "source": "https://openai.com/index/combatting-adversarial-distillation",
+          "tags": [
+            "OpenAI",
+            "安全机制",
+            "AI发展"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "Anthropic创始人IPO成功",
+          "summary": "Anthropic创始人通过IPO获利近20亿。",
+          "detail": "Anthropic在本月的IPO中表现出色，创始人们各自获得了近2.8亿美元的巨额回报。此次以每股83美元的价格上市，标志着AI行业在资本市场的热度持续上升。随着AI技术的不断发展和应用场景的扩展，更多投资者开始关注AI公司的成长潜力，推动整个行业的资本流动加速。未来或许能看到更多AI公司走向资本市场！\nAI行业的资本热潮正在升温，未来可能会迎来一波IPO潮。",
+          "usage": "💡 提到AI行业投资时引入。\n💬 \"Anthropic创始人的IPO成功，再次证明了AI行业的投资价值！\"\n🔥 Anthropic IPO 投资",
+          "source": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+          "tags": [
+            "Anthropic",
+            "IPO",
+            "资本市场"
+          ]
+        },
+        {
+          "title": "苹果AI新助手在路上",
+          "summary": "苹果正在开发AI助手对抗Meta Muse。",
+          "detail": "苹果公司近期被曝正在研发一种新型AI助手，计划以此与Meta的Muse等竞争。这一消息引发了业界的高度关注，标志着苹果再次加码AI领域，力图在智能助手市场中占据一席之地。随着AI技术的发展，行业竞争将日益激烈，苹果此举不仅是对现有市场的挑战，还是对自身技术路线的重新审视。\n智能助手的竞争将更加白热化，苹果的加入可能改变游戏规则！",
+          "usage": "💡 聊到智能助手时提到。\n💬 \"苹果正在研发AI助手，计划与Meta Muse竞争，未来市场将更激烈！\"\n🔥 苹果 AI助手 竞争",
+          "source": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+          "tags": [
+            "苹果",
+            "AI助手",
+            "竞争"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "Codex安全插件发布",
+          "summary": "OpenAI推Codex安全插件，提升开发者安全性。",
+          "detail": "OpenAI近日发布Codex Security Plugin，这一新工具旨在帮助开发者在进行项目开发时，提高代码的安全性。通过集成的工作流，开发者能更快速地识别和修复潜在的安全漏洞。这一插件的推出，无疑将为开发者们提供更强大的安全保障，提升整个开发生态的安全性。\n安全在开发中愈发重要，Codex插件将是开发者的新利器！",
+          "usage": "💡 开发者讨论工具时可以提到。\n💬 \"OpenAI的Codex安全插件来了，能提升安全性，开发者必备！\"\n🔥 Codex 插件 安全",
+          "source": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "tags": [
+            "OpenAI",
+            "Codex",
+            "安全插件"
+          ]
+        },
+        {
+          "title": "日出蓝的上线体验",
+          "summary": "OpenAI发布Daybreak Blue，升级用户体验。",
+          "detail": "OpenAI最近推出了Daybreak Blue，提供了一套全新的用户体验。在上线体验中，用户能更便捷地进行设置和使用，优化了整体的交互流程。该产品着重于用户友好性，旨在帮助用户更高效地利用AI技术。这一新产品的发布，预计将吸引更多用户参与，推动AI技术的应用普及。\n用户体验在AI产品中越来越重要，Daybreak Blue可能成为新的标杆！",
+          "usage": "💡 聊到用户体验时引入。\n💬 \"OpenAI的Daybreak Blue提升了用户体验，让使用更加便捷！\"\n🔥 Daybreak Blue 用户体验",
+          "source": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+          "tags": [
+            "OpenAI",
+            "用户体验",
+            "Daybreak Blue"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "SenseNova U1 Pro获奖",
+          "summary": "商汤科技的SenseNova U1 Pro在奖项中表现出色。",
+          "detail": "SenseNova U1 Pro在中国的设计竞技场中获得了双榜第一，成为全球第六名，展现出其在图像生成与编辑方面的强大实力。这一成就不仅体现了商汤科技在技术上的领先地位，也为开源社区提供了一个可供参考的标杆，推动整个领域的技术进步。未来，更多的开源项目可能借鉴其成功经验，进一步提升AI技术的应用广度和深度。\n开源与商业相结合将是未来的趋势，SenseNova的成功激励更多团队！",
+          "usage": "💡 讨论开源技术时提到。\n💬 \"SenseNova U1 Pro在设计竞技中获奖，推动AI开源发展！\"\n🔥 SenseNova 开源 图像生成",
+          "source": "https://www.qbitai.com/2026/11/511179.html",
+          "tags": [
+            "SenseNova",
+            "开源",
+            "AI技术"
+          ]
+        },
+        {
+          "title": "Agnes开源决策系统",
+          "summary": "Agnes Harness开源，助力AI决策。",
+          "detail": "Agnes近期宣布开源其最新的决策系统，这一系统结合了双系统决策和双层自进化，能够显著提升AI应用的决策效率。开源后的Agnes将为更多开发者提供强大的工具，更有利于推动AI技术在各行业的落地应用，解决以往技术门槛的问题。这一趋势预示着开源将是AI发展的重要方向。\n开源决策系统将为各行业带来变革，提升整体效率！",
+          "usage": "💡 聊到AI工具时可以提到。\n💬 \"Agnes的决策系统已经开源，提升了AI技术的应用效率！\"\n🔥 Agnes 开源 决策系统",
+          "source": "https://www.qbitai.com/2026/11/511582.html",
+          "tags": [
+            "Agnes",
+            "开源",
+            "AI决策"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "MedChemBench助力药物研究",
+          "summary": "OpenAI推出MedChemBench，提升药物候选体识别。",
+          "detail": "OpenAI最近推出的MedChemBench工具，旨在评估AI模型在分子结构解析及实验数据推理方面的有效性。这一工具能够帮助科学家更快地识别有潜力的药物候选体，推动药物研发的进程。该工具的推出标志着AI在生物医药领域的应用越来越成熟，未来药物研发流程有望更加高效和精准。\nAI在医药研究中的应用正在加速，未来有望显著缩短研发周期！",
+          "usage": "💡 聊到医药科技时提到。\n💬 \"OpenAI推出的MedChemBench工具，助力药物研究进程！\"\n🔥 MedChemBench 药物研究",
+          "source": "https://openai.com/index/introducing-medchembench",
+          "tags": [
+            "OpenAI",
+            "药物研发",
+            "AI应用"
+          ]
+        },
+        {
+          "title": "AI助力金融研究",
+          "summary": "新技术提升金融研究精准度。",
+          "detail": "Hebbia最近在金融研究中应用了新的AI模型，显著提升了数据处理的准确性和效率。这项技术的引入使得金融分析师能够更快地获取关键信息，从而帮助他们在市场变化中做出更准确的决策。这一研究表明AI在金融决策中的重要性和潜力，未来将在数据驱动的金融环境中发挥更大作用。\n金融研究的转型正在加速，AI将是重要的助力者！",
+          "usage": "💡 讨论金融科技时提起。\n💬 \"新AI技术正在金融研究中提升数据处理的效率和准确性！\"\n🔥 金融研究 AI应用",
+          "source": "https://openai.com/business/customer-stories/hebbia",
+          "tags": [
+            "金融科技",
+            "AI应用",
+            "研究突破"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "AI行业资本热潮",
+          "summary": "AI行业估值不断攀升，市场热度上升。",
+          "detail": "近期，Anthropic成功IPO后，AI行业的资本热潮引发了投资者的广泛关注，各大投资机构纷纷加码AI领域的创新项目。这一趋势表明，AI技术的应用场景正在不断扩展，随之而来的市场需求也在激增，未来可能会涌现出更多具有颠覆性的AI项目。\n市场对AI的信心提升，未来投资将更加集中于AI领域，值得密切关注！",
+          "usage": "💡 聊到行业投资时提到。\n💬 \"AI行业资本热潮引发关注，未来可能会迎来更多创新项目！\"\n🔥 AI投资 资本市场",
+          "source": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+          "tags": [
+            "AI行业",
+            "投资",
+            "资本热潮"
+          ]
+        },
+        {
+          "title": "AI监管新动向",
+          "summary": "AI行业法规与监管逐渐走向成熟。",
+          "detail": "随着AI技术的快速发展，各国的监管机构正在加紧制定针对AI的法律法规。这个过程虽然面临诸多挑战，但也显示出监管层面对AI行业态度的转变，标志着AI技术将逐步走向规范化和安全化管理。这一趋势意味着，行业将需要在创新与合规之间找到平衡，以确保技术的健康发展。\nAI行业的监管正在逐步完善，未来将形成更好的发展生态！",
+          "usage": "💡 聊到行业合规时提到。\n💬 \"各国对AI行业的监管逐渐走向成熟，未来的合规挑战也值得关注！\"\n🔥 AI监管 合规",
+          "source": "",
+          "tags": [
+            "AI行业",
+            "监管",
+            "法律法规"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-21T08:09:04.685Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 3913,
+    "completion_tokens": 4057,
+    "total_tokens": 7970,
+    "cost_usd": 0.0030211500000000002,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}
