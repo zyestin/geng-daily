@@ -5,74 +5,44 @@
       "icon": "📰",
       "items": [
         {
-          "title": "美股AI崩盘",
-          "summary": "美股AI板块遭遇猛烈抛售",
-          "detail": "今天凌晨，美股遭遇猛烈抛售，科技股集体重挫，尤其是AI板块。曾经支撑美股上涨的AI概念股，如今成了重灾区。市场担心AI泡沫即将破裂，投资者纷纷逃离。李大霄指出，这波崩盘可能只是开始，AI股的寒冬即将来临。",
-          "usage": "💡 同事聊美股时\n💬 美股AI崩了，泡沫要破了？\n🔥 美股 AI 崩盘",
-          "source": "https://www.huxiu.com/article/4907388.html?f=rss",
-          "tags": [
-            "美股",
-            "AI",
-            "崩盘"
-          ]
-        },
-        {
-          "title": "黎曼猜想AI证明",
-          "summary": "AI助力破解167年数学难题",
-          "detail": "Anthropic数学家Levent Alpöge宣布，他与AI Claude合作，找到了悬置167年的黎曼猜想证明。虽然98%正确，但这已经是AI在数学领域的重大突破。数学家们纷纷表示，AI可能成为未来破解复杂数学问题的关键工具。",
-          "usage": "💡 同事聊AI时\n💬 AI破解了黎曼猜想，98%正确！\n🔥 AI 黎曼猜想 数学",
-          "source": "https://www.huxiu.com/article/4907375.html?f=rss",
+          "title": "AI反对潮",
+          "summary": "美国人为何开始反对AI",
+          "detail": "最近美国掀起了一股反对AI的浪潮，原因是不满AI替代人类工作，甚至有人认为AI会威胁人类生存。这股反对潮从科技圈蔓延到普通民众，甚至有人呼吁立法限制AI发展。\n家人们谁懂啊，AI还没统治世界，人类自己先慌了。",
+          "usage": "💡 同事抱怨AI抢饭碗时\n💬 美国人已经开始反对AI了，咱们要不要也跟上？\n🔥 AI 反对潮 美国",
+          "source": "https://www.toutiao.com/trending/7710632433913171494/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227710632433913171494%22%2C%22hot_board_impr_id%22%3A%2220261122011034D54C854CBF159B80825A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%9B%BD%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BC%80%E5%A7%8B%E5%8F%8D%E5%AF%B9AI%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7710632433913171494",
           "tags": [
             "AI",
-            "黎曼猜想",
-            "数学"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "前沿探索",
-      "icon": "🚀",
-      "items": [
-        {
-          "title": "SpaceX星舰",
-          "summary": "SpaceX星舰试飞成功",
-          "detail": "SpaceX的星舰试飞成功，标志着商业航天又迈出重要一步。马斯克表示，星舰将用于未来的火星任务。网友调侃，马斯克这是在为火星移民铺路。",
-          "usage": "💡 同事聊航天时\n💬 SpaceX星舰试飞成功，火星移民更进一步！\n🔥 SpaceX 星舰 火星",
-          "source": "https://www.huxiu.com/article/4907369.html?f=rss",
-          "tags": [
-            "SpaceX",
-            "星舰",
-            "火星"
+            "美国",
+            "反对潮"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-21T08:04:47.282Z",
-  "slot": "weekend-morning",
-  "slot_label": "周末早晨 · 家庭时光",
+  "generated_at": "2026-11-21T17:14:39.604Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 5883,
-    "completion_tokens": 2366,
-    "total_tokens": 8249,
-    "cost_usd": 0.0039481884,
+    "prompt_tokens": 4806,
+    "completion_tokens": 1657,
+    "total_tokens": 6463,
+    "cost_usd": 0.0029416203000000004,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 13,
-      "published": 3
+      "dropped_orphans": 7,
+      "published": 1
     },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 12,
+        "huxiu": 0,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 21
+      "total": 12
     }
   }
 }

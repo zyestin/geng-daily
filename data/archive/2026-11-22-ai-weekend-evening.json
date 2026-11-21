@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "GPT-6.2 Astra 再次暴击",
+          "summary": "具身模型成功率翻倍，操作新领域！",
+          "detail": "GPT-6.2 Astra 刚一推出，就让人瞩目。它在16项任务上成功率竟然比上一代翻倍，尤其是在具身模型的操控方面达到了前所未有的高度。这意味着，AI 在机器人和虚拟现实等多个领域的应用将进入一个全新的时代，开发者们的工作将更加轻松。可以想象，未来的 AI 可能比我们想象的更强大、灵活，这简直就是科技界的“黑科技”！",
+          "usage": "💡 别人谈论 AI 时可以引入 \n💬 “GPT-6.2 Astra 刚发布，即在多项任务上成功率翻倍！” \n🔥 GPT-6.2 Astra 具身模型",
+          "source": "https://www.qbitai.com/2026/11/511779.html",
+          "tags": [
+            "AI",
+            "技术突破",
+            "具身模型"
+          ]
+        },
+        {
+          "title": "黎曼猜想又被证实？",
+          "summary": "34岁数学家发布 Lean 证明！",
+          "detail": "在令人震惊的新闻中，34岁的数学家利用 Claude 性能强大的 AI 工具发布了关于黎曼猜想的 Lean 证明，令整个数学界为之一震。这个历时167年的难题终于有了新的进展，是否真的解决了还有待考证，但无论如何，AI 作为助力工具的潜力再一次被证明。未来或许会见证更多的数学奇迹，真是让人期待！",
+          "usage": "💡 数学讨论时可以引入 \n💬 “AI 这次可能真的帮数学家解决了黎曼猜想！” \n🔥 黎曼猜想 数学 AI",
+          "source": "https://www.qbitai.com/2026/11/511727.html",
+          "tags": [
+            "数学",
+            "AI",
+            "黎曼猜想"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "新的 GPT-6 Astra 强势上线",
+          "summary": "在金融研究中展现出色表现！",
+          "detail": "Hebbia 最近测试了最新的 GPT-6 Astra，结果显示它在金融研究方面的表现比之前的模型有了显著提升。具体数据表明，该模型在信息提取和分析准确率上有了至少30%的提升。这也标志着 AI 在复杂领域的应用正在变得越来越可靠，大家可以期待它在实际业务中的广泛运用。",
+          "usage": "💡 提到金融 AI 时可以分享 \n💬 “最新的 GPT-6 Astra 在金融研究中表现超出预期！” \n🔥 GPT-6 Astra 金融研究",
+          "source": "https://openai.com/business/customer-stories/hebbia",
+          "tags": [
+            "金融",
+            "AI",
+            "GPT-6 Astra"
+          ]
+        },
+        {
+          "title": "米哈游发布 VLA 论文",
+          "summary": "8B 参数模型自我运行再提速！",
+          "detail": "米哈游的 VLA 论文展现了一个8B参数的模型，能够在仅需50小时的自主运行下完成训练，令人惊叹。相较于以往需要数周的训练时间，这个进展可以说是质的飞跃。这将大大提高开发和应用效率，未来游戏、动画等领域会因技术更新而变得更加丰富有趣。",
+          "usage": "💡 听说游戏开发时可以提到 \n💬 “米哈游的新模型 VLA 训练时间大幅减少！” \n🔥 VLA 训练效率 游戏",
+          "source": "https://www.qbitai.com/2026/11/511740.html",
+          "tags": [
+            "游戏",
+            "模型",
+            "训练"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "姚顺雨回应网友提问",
+          "summary": "Hy 小模型已进开发路线图！",
+          "detail": "近日，姚顺雨和混元团队在 Reddit 上回答网友提问时透露，Hy 小模型已经纳入了他们的路线图。这一模型旨在提升小型 AI 系统的性能，能否让小模型走出一条新路，大家拭目以待。这位 AI 领军人物的直言将对未来小模型的发展产生深远影响。",
+          "usage": "💡 讨论小型 AI 时可以提及 \n💬 “姚顺雨透露 Hy 小模型已在开发计划里！” \n🔥 小模型 开发路线",
+          "source": "https://www.qbitai.com/2026/11/511757.html",
+          "tags": [
+            "AI",
+            "小模型",
+            "姚顺雨"
+          ]
+        },
+        {
+          "title": "Daniel Ek 支持新创企",
+          "summary": "AI 研究者推动聚变能源项目！",
+          "detail": "Spotify 创始人 Daniel Ek 最近公开支持一项由 AI 研究者创办的聚变能源初创公司 Europa Fusion。这一项目的目标是利用 AI 进行高效的聚变能源开发，打破传统能源的桎梏，若成功，不仅能推动能源行业的转型，还可能引导出更多基于 AI 的创新，值得关注。",
+          "usage": "💡 谈论能源创新时可以提到 \n💬 “Daniel Ek 这个项目有潜力改变能源行业！” \n🔥 聚变能源 AI 创新",
+          "source": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+          "tags": [
+            "聚变能源",
+            "Daniel Ek",
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "DeepSeek V1 作者新项目曝光",
+          "summary": "开源 Agent 项目正式启动！",
+          "detail": "DeepSeek V1 的作者近日曝光了他的最新创业项目，主要聚焦于开源 Agent 的开发。这一项目的目标是让更多开发者能够轻松构建自己的 AI 代理，以应对不同场景的需求。随着开源社区的不断壮大，传统 AI 开发模式或许会被颠覆，大家得尽快跟上这一潮流！",
+          "usage": "💡 聊到开源时可以提到 \n💬 “DeepSeek V1 作者的新开源 Agent 项目值得期待！” \n🔥 开源 Agent DeepSeek",
+          "source": "https://www.qbitai.com/2026/11/511570.html",
+          "tags": [
+            "开源",
+            "DeepSeek",
+            "AI"
+          ]
+        },
+        {
+          "title": "华为云算力提升",
+          "summary": "训练效率与部署成本比拼！",
+          "detail": "华为云近日发布了一套强大的具身世界模型，强调了训练效率、数据规模、部署成本等多维度的比拼。这对于开发者意味着更低的使用门槛和更高的开发效率，尤其是在复杂应用场景中，这种竞争力将直接影响市场格局，暗示着国产 AI 组件的崛起。",
+          "usage": "💡 讨论国产 AI 发展时可以提及 \n💬 “华为云的具身模型明显提升了训练效率！” \n🔥 华为云 训练效率",
+          "source": "https://www.qbitai.com/2026/11/511610.html",
+          "tags": [
+            "华为云",
+            "国产AI",
+            "具身模型"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "Claude Code 功能更新",
+          "summary": "新插件提升编程效率！",
+          "detail": "Claude Code 最近推出了一款全新的安全插件，旨在提升开发者的编程效率和代码安全性。通过与 Codex 系统的集成，开发者可以实时检测代码中的潜在问题，保证项目的质量。这一创新可以说是开发者最期待的“护航工具”，大幅减少了后期的调试工作。",
+          "usage": "💡 提到编程工具时可以引入 \n💬 “Claude Code 刚更新了一个超实用的安全插件！” \n🔥 Claude Code 编程工具",
+          "source": "",
+          "tags": [
+            "Claude Code",
+            "开发工具",
+            "编程"
+          ]
+        },
+        {
+          "title": "自研 Codex 安全插件演示",
+          "summary": "安全性测试流程更加高效！",
+          "detail": "OpenAI 最近展示了自研的 Codex 安全插件，能够有效提升安全性测试的流程效率。通过这款插件，开发者可以在代码审查中轻松识别风险点，及时修复潜在的安全隐患。这对于保障项目的安全性至关重要，尤其在当前安全形势日益严峻的情况下，开发者必不可少的工具。",
+          "usage": "💡 提到软件安全时可以讨论 \n💬 “OpenAI 的 Codex 安全插件演示太实用了！” \n🔥 Codex 安全性",
+          "source": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "tags": [
+            "OpenAI",
+            "安全插件",
+            "开发工具"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "Llama 开源新动态",
+          "summary": "模型权重更新！",
+          "detail": "Llama 近期宣布对其模型权重进行了更新，旨在提升社区开发者的使用体验。这个开源模型的改进将极大促进社区生态的发展，为更多开发者提供了更强大的工具。随着开源技术的推广和应用，未来将会有更多创新基于这些基础设施展开，值得密切关注。",
+          "usage": "💡 聊到开源社区时可以提到 \n💬 “Llama 更新了模型权重，社区反响热烈！” \n🔥 Llama 开源社区",
+          "source": "",
+          "tags": [
+            "Llama",
+            "开源",
+            "模型权重"
+          ]
+        },
+        {
+          "title": "Qwen 开源动态",
+          "summary": "新版本发布！",
+          "detail": "Qwen 最近发布了其新版本，包含多个改进和新特性，目的是为开发者提供更好的使用体验。通过这些更新，Qwen 将有助于进一步推动开源 AI 生态的发展。开源的力量正在不断壮大，相信未来将会有更多开发者加入这场盛宴。",
+          "usage": "💡 提到开源技术时可以提到 \n💬 “Qwen 新版本发布了，功能更强大！” \n🔥 Qwen 开源",
+          "source": "",
+          "tags": [
+            "Qwen",
+            "开源",
+            "版本发布"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "AI 解决 167 年难题",
+          "summary": "黎曼猜想的进展引发关注！",
+          "detail": "近期，数学领域因为 AI 的攻克而震惊，特别是黎曼猜想的研究。随着 AI 模型的不断迭代，数学家们发现 AI 在处理复杂问题上展现出了惊人的能力。这不仅是 AI 的一个里程碑，也是人类数学研究的重大突破，未来的数学发现可能会更多依赖于 AI 的帮助。",
+          "usage": "💡 讨论数学时可以提及 \n💬 “AI 让我们更加接近黎曼猜想的答案！” \n🔥 黎曼猜想 AI 突破",
+          "source": "",
+          "tags": [
+            "黎曼猜想",
+            "AI",
+            "研究突破"
+          ]
+        },
+        {
+          "title": "AI 帮助药物发现",
+          "summary": "MedChemBench 展示新应用！",
+          "detail": "OpenAI 最近推出了 MedChemBench，旨在帮助科学家更快识别潜在的药物候选物。通过对分子结构的解析，AI 能迅速给出实验结果，这对药物开发的效率提升至关重要。未来，如果能够持续优化，这类工具将极大推动药物研发的进步。",
+          "usage": "💡 聊到药物开发时可以提到 \n💬 “MedChemBench 可以帮助找药物候选物，真厉害！” \n🔥 药物发现 AI",
+          "source": "https://openai.com/index/introducing-medchembench",
+          "tags": [
+            "药物开发",
+            "AI",
+            "MedChemBench"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "Anthropic 创始人 IPO",
+          "summary": "七位创始人总共套现近20亿！",
+          "detail": "Anthropic 的 IPO 创造了新纪录，七位创始人以每股83美元的价格成功套现近20亿。这一事件不仅反映了 AI 行业的资本热度，也可能改写创业者的收入模型。或许未来，更多科技公司可借鉴这一成功模式，值得投资者关注！",
+          "usage": "💡 讨论 AI 投资时可以提到 \n💬 “Anthropic IPO 的成功引发行业热议！” \n🔥 Anthropic IPO 投资",
+          "source": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+          "tags": [
+            "IPO",
+            "投资",
+            "Anthropic"
+          ]
+        },
+        {
+          "title": "AI 音乐巨头新布局",
+          "summary": "进军视频生成市场！",
+          "detail": "美国 AI 音乐平台 Suno 最近宣布进军视频生成领域，底层模型来自中国的 MiniMax。这一策略可能引发音视频行业的竞争格局变化，未来，AI 将在更多内容创作中全面开花，让人对科技和艺术的融合充满期待。",
+          "usage": "💡 聊到创意产业时可以提到 \n💬 “Suno 进军视频生成市场，开创内容新模式！” \n🔥 视频生成 AI 音乐",
+          "source": "https://www.qbitai.com/2026/11/511722.html",
+          "tags": [
+            "视频生成",
+            "AI",
+            "Suno"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-21T17:18:03.248Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 3815,
+    "completion_tokens": 3432,
+    "total_tokens": 7247,
+    "cost_usd": 0.0026314499999999996,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}
