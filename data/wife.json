@@ -1,129 +1,69 @@
 {
   "categories": [
     {
-      "name": "追剧指南",
+      "name": "🎬 追剧指南",
       "icon": "🎬",
       "items": [
         {
-          "title": "成毅演技炸裂",
-          "summary": "两京十五日，成毅演技让人笑中带泪",
-          "detail": "《两京十五日》里成毅的演技简直了，从呆萌到霸气切换自如，比我的代码调试还流畅。特别是他那个'我太难了'的表情，简直是我们程序员的日常写照。建议你看的时候准备点零食，因为你会笑到饿。",
-          "usage": "💡 她追剧时\n💬 老婆，成毅在《两京十五日》里那个表情，简直是我debug时的样子\n🔥 成毅 两京十五日 演技",
-          "source": "https://m.baidu.com/s?word=%E3%80%8A%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E3%80%8B%E6%88%90%E6%AF%85%E6%BC%94%E6%8A%80&sa=fyb_news",
+          "title": "成毅新剧真争议",
+          "summary": "讨论《两京十五日》的造型和剧情。",
+          "detail": "最近成毅的《两京十五日》争议颇多，特别是他的造型，有些网友评价说‘这是谁的时尚灾难’。不过，我觉得他就像程序员在写代码时，难免会有几行bug啊。你觉得呢？",
+          "usage": "💡 选择她追剧的时候 \n💬 ‘最近看成毅的《两京十五日》了吗？他的造型真是一言难尽，你觉得呢？’ \n🔥 成毅 造型 争议",
+          "source": "https://m.baidu.com/s?word=%E6%88%90%E6%AF%85%E3%80%8A%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E3%80%8B%E9%80%A0%E5%9E%8B%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news",
           "tags": [
-            "成毅",
-            "古装剧",
-            "演技"
+            "追剧",
+            "热点",
+            "娱乐"
           ]
         },
         {
-          "title": "王祖蓝老花镜",
-          "summary": "46岁王祖蓝用老花镜，笑中带泪",
-          "detail": "王祖蓝46岁就用上老花镜了，这让我这个天天对着电脑的程序员瑟瑟发抖。建议我们一起看他的新剧，提前适应'老花'生活，顺便比比谁的视力下降得更快。",
-          "usage": "💡 聊明星八卦时\n💬 老婆，王祖蓝都用老花镜了，我们是不是该准备两副？\n🔥 王祖蓝 老花镜 年龄",
-          "source": "https://m.baidu.com/s?word=%E7%8E%8B%E7%A5%96%E8%93%9D46%E5%B2%81%E5%B7%B2%E7%BB%8F%E7%94%A8%E4%B8%8A%E8%80%81%E8%8A%B1%E9%95%9C%E4%BA%86&sa=fyb_news",
+          "title": "你看过吗？",
+          "summary": "聊聊近期热剧的细节。",
+          "detail": "最近刷到《两京十五日》，我发现成毅的造型就像我的代码，时而流畅，时而崩溃。但不管怎样，这剧的剧情紧凑得像小时候的数学题，看来我们又有话可聊了！",
+          "usage": "💡 找到她追剧的时机 \n💬 ‘最近在看《两京十五日》吗？我对成毅的造型有点意见，哈哈！’ \n🔥 热剧 剧情 讨论",
+          "source": "https://m.baidu.com/s?word=%E6%88%90%E6%AF%85%E3%80%8A%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E3%80%8B%E9%80%A0%E5%9E%8B%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news",
           "tags": [
-            "王祖蓝",
-            "老花镜",
-            "年龄"
+            "追剧",
+            "剧情",
+            "娱乐"
           ]
         }
       ]
     },
     {
-      "name": "吃喝情报",
-      "icon": "🍜",
+      "name": "🌟 她的世界",
+      "icon": "🌟",
       "items": [
         {
-          "title": "深圳必吃",
-          "summary": "看五十年中国，吃深圳美食",
-          "detail": "听说'看五十年的中国就来深圳'，我觉得还得加上'吃五十年的美食也来深圳'。最近发现一家老字号肠粉，皮薄如纸，馅料多到爆炸，吃一口就能感受到深圳的速度与激情。",
-          "usage": "💡 聊美食时\n💬 老婆，周末带你去吃深圳速度的肠粉，保证比我的代码运行还快\n🔥 深圳 美食 肠粉",
-          "source": "https://m.baidu.com/s?word=%E7%9C%8B%E4%BA%94%E5%8D%81%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%B0%B1%E6%9D%A5%E6%B7%B1%E5%9C%B3&sa=fyb_news",
+          "title": "明星动态一起聊",
+          "summary": "聊明星动态表现兴趣。",
+          "detail": "‘最近杨迪被偶遇，听说他在漠河舞厅的表现像极了我们的周末聚会，你觉得他是不是也在努力追求开心呢？’ 这种互动能让她愿意分享更多！",
+          "usage": "💡 当她提到明星时 \n💬 ‘杨迪最近被偶遇，你觉得他是不是想学我们的幽默？’ \n🔥 明星 动态 分享",
+          "source": "https://m.baidu.com/s?word=%E6%9D%A8%E8%BF%AA%E7%8E%B0%E8%BA%AB%E6%BC%A0%E6%B2%B3%E8%88%9E%E5%8E%85%E8%A2%AB%E5%81%B6%E9%81%87&sa=fyb_news",
           "tags": [
-            "深圳",
-            "美食",
-            "肠粉"
-          ]
-        },
-        {
-          "title": "暖心汤品",
-          "summary": "小雪节气，来碗暖身汤",
-          "detail": "小雪节气来了，两类人要格外当心，我觉得我们程序员最该喝碗暖身汤。最近学会了一道'代码滋补汤'，放了枸杞、红枣和我的爱心，保证比热重启还管用。",
-          "usage": "💡 天气变冷时\n💬 老婆，我给你煮了碗'代码滋补汤'，喝了bug都少了\n🔥 小雪 滋补汤 程序员",
-          "source": "https://m.baidu.com/s?word=%E5%B0%8F%E9%9B%AA%E8%8A%82%E6%B0%94%E6%9D%A5%E4%B8%B4+%E4%B8%A4%E7%B1%BB%E4%BA%BA%E8%A6%81%E6%A0%BC%E5%A4%96%E5%BD%93%E5%BF%83&sa=fyb_news",
-          "tags": [
-            "小雪",
-            "滋补汤",
-            "节气"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "土味情话",
-      "icon": "😘",
-      "items": [
-        {
-          "title": "羽绒服情话",
-          "summary": "羽绒服变天，我的爱不变",
-          "detail": "听说羽绒服生意变天了，但我的心永远为你保暖。就算全世界都冷，我也是你的恒温37度。",
-          "usage": "💡 聊天气变冷时\n💬 羽绒服可以变天，但我的心永远为你保暖\n🔥 羽绒服 情话 保暖",
-          "source": "https://m.baidu.com/s?word=%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%94%9F%E6%84%8F%E5%8F%98%E5%A4%A9%E4%BA%86&sa=fyb_news",
-          "tags": [
-            "羽绒服",
-            "情话",
-            "保暖"
-          ]
-        },
-        {
-          "title": "双胞胎情话",
-          "summary": "刷到另一个自己？不如我眼里只有你",
-          "detail": "看到热搜说女生刷到'另一个自己'，我试了试，刷了一整天还是只有你。可能我的算法里，'理想型'的参数早就被你锁死了。",
-          "usage": "💡 聊热搜时\n💬 我刷了一整天，还是只有你\n🔥 双胞胎 情话 算法",
-          "source": "https://m.baidu.com/s?word=%E5%A5%B3%E7%94%9F%E5%88%B7%E5%88%B0%E2%80%9C%E5%8F%A6%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E2%80%9D%E9%89%B4%E5%AE%9A%E6%98%AF%E4%BA%B2%E5%A7%90%E5%A6%B9&sa=fyb_news",
-          "tags": [
-            "双胞胎",
-            "情话",
-            "算法"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "约会提案",
-      "icon": "🎁",
-      "items": [
-        {
-          "title": "冬日漫步",
-          "summary": "小雪节气的浪漫",
-          "detail": "小雪节气来了，据说散步最养生。我想和你试试'情侣防寒测试'：理论上是两个人走比一个人暖和，实践出真知，要不我们今晚就开始科研？",
-          "usage": "💡 邀约散步\n💬 来场'情侣防寒测试'实践如何？\n🔥 小雪 散步 幽默",
-          "source": "https://m.baidu.com/s?word=%E5%B0%8F%E9%9B%AA%E8%8A%82%E6%B0%94%E6%9D%A5%E4%B8%B4+%E4%B8%A4%E7%B1%BB%E4%BA%BA%E8%A6%81%E6%A0%BC%E5%A4%96%E5%BD%93%E5%BF%83&sa=fyb_news",
-          "tags": [
-            "小雪",
-            "散步",
-            "幽默"
+            "明星",
+            "分享",
+            "动态"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-21T17:10:32.806Z",
-  "slot": "weekend-evening",
-  "slot_label": "周末傍晚 · 家庭闲聊",
+  "generated_at": "2026-11-22T07:46:11.922Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
   "meta": {
-    "model": "deepseek/deepseek-chat",
-    "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 2998,
-    "completion_tokens": 3064,
-    "total_tokens": 6062,
-    "cost_usd": 0.003923622,
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 3292,
+    "completion_tokens": 3179,
+    "total_tokens": 6471,
+    "cost_usd": 0.0024012,
     "free": false,
     "quality": {
       "degraded": true,
-      "dropped_orphans": 9,
-      "published": 7
+      "dropped_orphans": 13,
+      "published": 3
     },
     "sources": {
       "per_source": {

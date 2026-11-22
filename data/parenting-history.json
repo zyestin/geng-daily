@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "key": "2026-11-22-parenting-weekend-morning",
+      "date": "2026-11-22",
+      "slot": "parenting-weekend-morning",
+      "slot_label": "周末早晨 · 家庭时光",
+      "generated_at": "2026-11-22T07:43:02.620Z",
+      "weekday": "星期日",
+      "file": "archive/2026-11-22-parenting-weekend-morning.json",
+      "topic_count": 11,
+      "category_names": [
+        "科学奇人",
+        "文人风骨",
+        "兴趣深耕",
+        "思维启蒙",
+        "亲子行动",
+        "育儿心法",
+        "健康食育",
+        "运动启蒙"
+      ]
+    },
+    {
       "key": "2026-11-22-parenting-weekend-evening",
       "date": "2026-11-22",
       "slot": "parenting-weekend-evening",
@@ -2041,5 +2061,5 @@
       ]
     }
   ],
-  "updated_at": "2026-11-21T17:06:53.918Z"
+  "updated_at": "2026-11-22T07:43:02.631Z"
 }

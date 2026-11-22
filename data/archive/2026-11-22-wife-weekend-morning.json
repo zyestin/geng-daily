@@ -1,0 +1,75 @@
+{
+  "categories": [
+    {
+      "name": "🎬 追剧指南",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "成毅新剧真争议",
+          "summary": "讨论《两京十五日》的造型和剧情。",
+          "detail": "最近成毅的《两京十五日》争议颇多，特别是他的造型，有些网友评价说‘这是谁的时尚灾难’。不过，我觉得他就像程序员在写代码时，难免会有几行bug啊。你觉得呢？",
+          "usage": "💡 选择她追剧的时候 \n💬 ‘最近看成毅的《两京十五日》了吗？他的造型真是一言难尽，你觉得呢？’ \n🔥 成毅 造型 争议",
+          "source": "https://m.baidu.com/s?word=%E6%88%90%E6%AF%85%E3%80%8A%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E3%80%8B%E9%80%A0%E5%9E%8B%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news",
+          "tags": [
+            "追剧",
+            "热点",
+            "娱乐"
+          ]
+        },
+        {
+          "title": "你看过吗？",
+          "summary": "聊聊近期热剧的细节。",
+          "detail": "最近刷到《两京十五日》，我发现成毅的造型就像我的代码，时而流畅，时而崩溃。但不管怎样，这剧的剧情紧凑得像小时候的数学题，看来我们又有话可聊了！",
+          "usage": "💡 找到她追剧的时机 \n💬 ‘最近在看《两京十五日》吗？我对成毅的造型有点意见，哈哈！’ \n🔥 热剧 剧情 讨论",
+          "source": "https://m.baidu.com/s?word=%E6%88%90%E6%AF%85%E3%80%8A%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E3%80%8B%E9%80%A0%E5%9E%8B%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news",
+          "tags": [
+            "追剧",
+            "剧情",
+            "娱乐"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🌟 她的世界",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "明星动态一起聊",
+          "summary": "聊明星动态表现兴趣。",
+          "detail": "‘最近杨迪被偶遇，听说他在漠河舞厅的表现像极了我们的周末聚会，你觉得他是不是也在努力追求开心呢？’ 这种互动能让她愿意分享更多！",
+          "usage": "💡 当她提到明星时 \n💬 ‘杨迪最近被偶遇，你觉得他是不是想学我们的幽默？’ \n🔥 明星 动态 分享",
+          "source": "https://m.baidu.com/s?word=%E6%9D%A8%E8%BF%AA%E7%8E%B0%E8%BA%AB%E6%BC%A0%E6%B2%B3%E8%88%9E%E5%8E%85%E8%A2%AB%E5%81%B6%E9%81%87&sa=fyb_news",
+          "tags": [
+            "明星",
+            "分享",
+            "动态"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-22T07:46:11.922Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 3292,
+    "completion_tokens": 3179,
+    "total_tokens": 6471,
+    "cost_usd": 0.0024012,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 13,
+      "published": 3
+    },
+    "sources": {
+      "per_source": {
+        "baidu": 20
+      },
+      "total": 15
+    }
+  }
+}

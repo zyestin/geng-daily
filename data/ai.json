@@ -1,256 +1,256 @@
 {
   "categories": [
     {
-      "name": "炸裂新闻",
+      "name": "💥 炸裂新闻",
       "icon": "💥",
       "items": [
         {
-          "title": "GPT-6.2 Astra 再次暴击",
-          "summary": "具身模型成功率翻倍，操作新领域！",
-          "detail": "GPT-6.2 Astra 刚一推出，就让人瞩目。它在16项任务上成功率竟然比上一代翻倍，尤其是在具身模型的操控方面达到了前所未有的高度。这意味着，AI 在机器人和虚拟现实等多个领域的应用将进入一个全新的时代，开发者们的工作将更加轻松。可以想象，未来的 AI 可能比我们想象的更强大、灵活，这简直就是科技界的“黑科技”！",
-          "usage": "💡 别人谈论 AI 时可以引入 \n💬 “GPT-6.2 Astra 刚发布，即在多项任务上成功率翻倍！” \n🔥 GPT-6.2 Astra 具身模型",
+          "title": "GPT-6.2 Astra暴击",
+          "summary": "具身模型16项任务翻倍",
+          "detail": "OpenAI的GPT-6.2 Astra直接把具身智能任务成功率翻倍，还首次实现了可变形物体操控。现在机器人不仅能抓杯子，连捏橡皮泥都能学了——这波属于是让波士顿动力连夜改PPT。",
+          "usage": "💡 聊具身智能进展时\n💬 家人们谁懂啊，Astra现在连橡皮泥都会捏了\n🔥 GPT-6.2 Astra 具身智能 可变形物体",
           "source": "https://www.qbitai.com/2026/11/511779.html",
           "tags": [
-            "AI",
-            "技术突破",
-            "具身模型"
+            "OpenAI",
+            "具身智能",
+            "GPT-6.2"
           ]
         },
         {
-          "title": "黎曼猜想又被证实？",
-          "summary": "34岁数学家发布 Lean 证明！",
-          "detail": "在令人震惊的新闻中，34岁的数学家利用 Claude 性能强大的 AI 工具发布了关于黎曼猜想的 Lean 证明，令整个数学界为之一震。这个历时167年的难题终于有了新的进展，是否真的解决了还有待考证，但无论如何，AI 作为助力工具的潜力再一次被证明。未来或许会见证更多的数学奇迹，真是让人期待！",
-          "usage": "💡 数学讨论时可以引入 \n💬 “AI 这次可能真的帮数学家解决了黎曼猜想！” \n🔥 黎曼猜想 数学 AI",
+          "title": "黎曼猜想被证？",
+          "summary": "Claude加持数学家放证明",
+          "detail": "34岁数学家借助Claude放出黎曼猜想的Lean证明，数学界炸锅。这要是实锤，菲尔兹奖可以直接改名叫AI协作奖了——毕竟人类负责想idea，AI负责写proof。",
+          "usage": "💡 聊AI+数学突破时\n💬 以后数学论文作者栏得加个Co-AI\n🔥 黎曼猜想 Claude 数学证明",
           "source": "https://www.qbitai.com/2026/11/511727.html",
           "tags": [
+            "Claude",
             "数学",
-            "AI",
             "黎曼猜想"
           ]
         }
       ]
     },
     {
-      "name": "新模型发布",
+      "name": "🚀 新模型发布",
       "icon": "🚀",
       "items": [
         {
-          "title": "新的 GPT-6 Astra 强势上线",
-          "summary": "在金融研究中展现出色表现！",
-          "detail": "Hebbia 最近测试了最新的 GPT-6 Astra，结果显示它在金融研究方面的表现比之前的模型有了显著提升。具体数据表明，该模型在信息提取和分析准确率上有了至少30%的提升。这也标志着 AI 在复杂领域的应用正在变得越来越可靠，大家可以期待它在实际业务中的广泛运用。",
-          "usage": "💡 提到金融 AI 时可以分享 \n💬 “最新的 GPT-6 Astra 在金融研究中表现超出预期！” \n🔥 GPT-6 Astra 金融研究",
-          "source": "https://openai.com/business/customer-stories/hebbia",
+          "title": "米哈游VLA模型",
+          "summary": "8B参数50小时自运行",
+          "detail": "米哈游悄咪咪发了个8B参数的VLA模型，能连续自主运行50小时。原神里的NPC以后怕不是真要自己写剧情了——玩家肝游戏，AI肝剧情，双向奔赴了属于是。",
+          "usage": "💡 聊游戏AI时\n💬 米哈游这是要让NPC卷死编剧啊\n🔥 米哈游 VLA 自主运行",
+          "source": "https://www.qbitai.com/2026/11/511740.html",
           "tags": [
-            "金融",
-            "AI",
-            "GPT-6 Astra"
+            "米哈游",
+            "VLA",
+            "游戏AI"
           ]
         },
         {
-          "title": "米哈游发布 VLA 论文",
-          "summary": "8B 参数模型自我运行再提速！",
-          "detail": "米哈游的 VLA 论文展现了一个8B参数的模型，能够在仅需50小时的自主运行下完成训练，令人惊叹。相较于以往需要数周的训练时间，这个进展可以说是质的飞跃。这将大大提高开发和应用效率，未来游戏、动画等领域会因技术更新而变得更加丰富有趣。",
-          "usage": "💡 听说游戏开发时可以提到 \n💬 “米哈游的新模型 VLA 训练时间大幅减少！” \n🔥 VLA 训练效率 游戏",
-          "source": "https://www.qbitai.com/2026/11/511740.html",
+          "title": "昇腾具身模型",
+          "summary": "国产算力双榜SOTA",
+          "detail": "华为云用昇腾算力训出双榜SOTA的具身世界模型，直接把竞争维度从芯片算力拉到训练效率。美国还在比H100谁多的时候，中国开始玩性价比了——这波属于是显卡界的拼多多打法。",
+          "usage": "💡 聊国产芯片时\n💬 华为：不跟你们比卡多，我们比谁更会训\n🔥 昇腾 具身模型 SOTA",
+          "source": "https://www.qbitai.com/2026/11/511610.html",
           "tags": [
-            "游戏",
-            "模型",
-            "训练"
+            "华为",
+            "昇腾",
+            "具身智能"
           ]
         }
       ]
     },
     {
-      "name": "AI 大佬言论",
+      "name": "🗣️ AI 大佬言论",
       "icon": "🗣️",
       "items": [
         {
-          "title": "姚顺雨回应网友提问",
-          "summary": "Hy 小模型已进开发路线图！",
-          "detail": "近日，姚顺雨和混元团队在 Reddit 上回答网友提问时透露，Hy 小模型已经纳入了他们的路线图。这一模型旨在提升小型 AI 系统的性能，能否让小模型走出一条新路，大家拭目以待。这位 AI 领军人物的直言将对未来小模型的发展产生深远影响。",
-          "usage": "💡 讨论小型 AI 时可以提及 \n💬 “姚顺雨透露 Hy 小模型已在开发计划里！” \n🔥 小模型 开发路线",
+          "title": "姚顺雨爆料",
+          "summary": "Hy小模型进路线图",
+          "detail": "混元团队姚顺雨在Reddit爆料Hy小模型已进路线图，还透露训练秘诀。现在大厂都学会画饼了——先放风说要搞小的，等你们快忘了突然发布个大的。",
+          "usage": "💡 聊国内大模型时\n💬 腾讯：我们做小模型...（突然掏出个混元Pro）\n🔥 混元 Hy小模型 姚顺雨",
           "source": "https://www.qbitai.com/2026/11/511757.html",
           "tags": [
-            "AI",
+            "混元",
             "小模型",
-            "姚顺雨"
+            "腾讯"
           ]
         },
         {
-          "title": "Daniel Ek 支持新创企",
-          "summary": "AI 研究者推动聚变能源项目！",
-          "detail": "Spotify 创始人 Daniel Ek 最近公开支持一项由 AI 研究者创办的聚变能源初创公司 Europa Fusion。这一项目的目标是利用 AI 进行高效的聚变能源开发，打破传统能源的桎梏，若成功，不仅能推动能源行业的转型，还可能引导出更多基于 AI 的创新，值得关注。",
-          "usage": "💡 谈论能源创新时可以提到 \n💬 “Daniel Ek 这个项目有潜力改变能源行业！” \n🔥 聚变能源 AI 创新",
+          "title": "Daniel Ek投核聚变",
+          "summary": "Spotify创始人跨界",
+          "detail": "Spotify创始人Daniel Ek投资AI研究员搞的核聚变创业公司。现在硅谷大佬的退休生活：先做个音乐APP，财富自由后要么玩火箭，要么搞核聚变。",
+          "usage": "💡 聊科技大佬投资时\n💬 从让你听歌到给太阳当产品经理\n🔥 Daniel Ek 核聚变 跨界",
           "source": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
           "tags": [
-            "聚变能源",
             "Daniel Ek",
-            "AI"
+            "核聚变",
+            "投资"
           ]
         }
       ]
     },
     {
-      "name": "巨头动态",
+      "name": "🏢 巨头动态",
       "icon": "🏢",
       "items": [
         {
-          "title": "DeepSeek V1 作者新项目曝光",
-          "summary": "开源 Agent 项目正式启动！",
-          "detail": "DeepSeek V1 的作者近日曝光了他的最新创业项目，主要聚焦于开源 Agent 的开发。这一项目的目标是让更多开发者能够轻松构建自己的 AI 代理，以应对不同场景的需求。随着开源社区的不断壮大，传统 AI 开发模式或许会被颠覆，大家得尽快跟上这一潮流！",
-          "usage": "💡 聊到开源时可以提到 \n💬 “DeepSeek V1 作者的新开源 Agent 项目值得期待！” \n🔥 开源 Agent DeepSeek",
-          "source": "https://www.qbitai.com/2026/11/511570.html",
+          "title": "Suno进军视频生成",
+          "summary": "底层模型来自MiniMax",
+          "detail": "美国AI音乐巨头Suno突然进军视频生成，底层用的居然是中国MiniMax的模型。现在中美AI合作就是：中国造引擎，美国做壳子，最后都说自己是自主创新。",
+          "usage": "💡 聊中美AI竞争时\n💬 出口转内销了属于是\n🔥 Suno MiniMax 视频生成",
+          "source": "https://www.qbitai.com/2026/11/511722.html",
           "tags": [
-            "开源",
-            "DeepSeek",
-            "AI"
+            "Suno",
+            "MiniMax",
+            "视频生成"
           ]
         },
         {
-          "title": "华为云算力提升",
-          "summary": "训练效率与部署成本比拼！",
-          "detail": "华为云近日发布了一套强大的具身世界模型，强调了训练效率、数据规模、部署成本等多维度的比拼。这对于开发者意味着更低的使用门槛和更高的开发效率，尤其是在复杂应用场景中，这种竞争力将直接影响市场格局，暗示着国产 AI 组件的崛起。",
-          "usage": "💡 讨论国产 AI 发展时可以提及 \n💬 “华为云的具身模型明显提升了训练效率！” \n🔥 华为云 训练效率",
-          "source": "https://www.qbitai.com/2026/11/511610.html",
+          "title": "Signal禁截图",
+          "summary": "应对AI监控威胁",
+          "detail": "Signal直接禁止APP内截图，说是要防AI监控。现在隐私保护已经发展到：不是加密你的聊天记录，是让你根本记不住聊了啥。",
+          "usage": "💡 聊隐私安全时\n💬 以后八卦都得带速记员了\n🔥 Signal 隐私 AI监控",
+          "source": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
           "tags": [
-            "华为云",
-            "国产AI",
-            "具身模型"
+            "Signal",
+            "隐私",
+            "监控"
           ]
         }
       ]
     },
     {
-      "name": "产品落地",
+      "name": "🛠️ 产品落地",
       "icon": "🛠️",
       "items": [
         {
-          "title": "Claude Code 功能更新",
-          "summary": "新插件提升编程效率！",
-          "detail": "Claude Code 最近推出了一款全新的安全插件，旨在提升开发者的编程效率和代码安全性。通过与 Codex 系统的集成，开发者可以实时检测代码中的潜在问题，保证项目的质量。这一创新可以说是开发者最期待的“护航工具”，大幅减少了后期的调试工作。",
-          "usage": "💡 提到编程工具时可以引入 \n💬 “Claude Code 刚更新了一个超实用的安全插件！” \n🔥 Claude Code 编程工具",
-          "source": "",
+          "title": "GPT-6金融研究",
+          "summary": "Hebbia实测效果提升",
+          "detail": "金融研究平台Hebbia实测GPT-6 Astra，发现信息溯源能力大幅提升。现在分析师要失业了——AI不仅能写研报，还能把引用的财报第几页第几段都标出来。",
+          "usage": "💡 聊AI+金融时\n💬 以后做空报告可能都是AI写的\n🔥 GPT-6 金融 Hebbia",
+          "source": "https://openai.com/business/customer-stories/hebbia",
           "tags": [
-            "Claude Code",
-            "开发工具",
-            "编程"
+            "GPT-6",
+            "金融",
+            "Hebbia"
           ]
         },
         {
-          "title": "自研 Codex 安全插件演示",
-          "summary": "安全性测试流程更加高效！",
-          "detail": "OpenAI 最近展示了自研的 Codex 安全插件，能够有效提升安全性测试的流程效率。通过这款插件，开发者可以在代码审查中轻松识别风险点，及时修复潜在的安全隐患。这对于保障项目的安全性至关重要，尤其在当前安全形势日益严峻的情况下，开发者必不可少的工具。",
-          "usage": "💡 提到软件安全时可以讨论 \n💬 “OpenAI 的 Codex 安全插件演示太实用了！” \n🔥 Codex 安全性",
-          "source": "https://openai.com/business/learn/codex-security-plugin-demo",
-          "tags": [
-            "OpenAI",
-            "安全插件",
-            "开发工具"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "开源江湖",
-      "icon": "🔓",
-      "items": [
-        {
-          "title": "Llama 开源新动态",
-          "summary": "模型权重更新！",
-          "detail": "Llama 近期宣布对其模型权重进行了更新，旨在提升社区开发者的使用体验。这个开源模型的改进将极大促进社区生态的发展，为更多开发者提供了更强大的工具。随着开源技术的推广和应用，未来将会有更多创新基于这些基础设施展开，值得密切关注。",
-          "usage": "💡 聊到开源社区时可以提到 \n💬 “Llama 更新了模型权重，社区反响热烈！” \n🔥 Llama 开源社区",
-          "source": "",
-          "tags": [
-            "Llama",
-            "开源",
-            "模型权重"
-          ]
-        },
-        {
-          "title": "Qwen 开源动态",
-          "summary": "新版本发布！",
-          "detail": "Qwen 最近发布了其新版本，包含多个改进和新特性，目的是为开发者提供更好的使用体验。通过这些更新，Qwen 将有助于进一步推动开源 AI 生态的发展。开源的力量正在不断壮大，相信未来将会有更多开发者加入这场盛宴。",
-          "usage": "💡 提到开源技术时可以提到 \n💬 “Qwen 新版本发布了，功能更强大！” \n🔥 Qwen 开源",
-          "source": "",
-          "tags": [
-            "Qwen",
-            "开源",
-            "版本发布"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "研究突破",
-      "icon": "🔬",
-      "items": [
-        {
-          "title": "AI 解决 167 年难题",
-          "summary": "黎曼猜想的进展引发关注！",
-          "detail": "近期，数学领域因为 AI 的攻克而震惊，特别是黎曼猜想的研究。随着 AI 模型的不断迭代，数学家们发现 AI 在处理复杂问题上展现出了惊人的能力。这不仅是 AI 的一个里程碑，也是人类数学研究的重大突破，未来的数学发现可能会更多依赖于 AI 的帮助。",
-          "usage": "💡 讨论数学时可以提及 \n💬 “AI 让我们更加接近黎曼猜想的答案！” \n🔥 黎曼猜想 AI 突破",
-          "source": "",
-          "tags": [
-            "黎曼猜想",
-            "AI",
-            "研究突破"
-          ]
-        },
-        {
-          "title": "AI 帮助药物发现",
-          "summary": "MedChemBench 展示新应用！",
-          "detail": "OpenAI 最近推出了 MedChemBench，旨在帮助科学家更快识别潜在的药物候选物。通过对分子结构的解析，AI 能迅速给出实验结果，这对药物开发的效率提升至关重要。未来，如果能够持续优化，这类工具将极大推动药物研发的进步。",
-          "usage": "💡 聊到药物开发时可以提到 \n💬 “MedChemBench 可以帮助找药物候选物，真厉害！” \n🔥 药物发现 AI",
+          "title": "OpenAI药物发现",
+          "summary": "MedChemBench新评估",
+          "detail": "OpenAI推出MedChemBench评估AI药物发现能力，分子结构理解直接对标药企专家。以后制药公司招人可能要问：你会用ChatGPT设计分子吗？",
+          "usage": "💡 聊AI+制药时\n💬 博士生：我五年白读了？\n🔥 OpenAI 药物发现 MedChemBench",
           "source": "https://openai.com/index/introducing-medchembench",
           "tags": [
-            "药物开发",
-            "AI",
+            "OpenAI",
+            "药物发现",
             "MedChemBench"
           ]
         }
       ]
     },
     {
-      "name": "行业风向",
-      "icon": "📈",
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
       "items": [
         {
-          "title": "Anthropic 创始人 IPO",
-          "summary": "七位创始人总共套现近20亿！",
-          "detail": "Anthropic 的 IPO 创造了新纪录，七位创始人以每股83美元的价格成功套现近20亿。这一事件不仅反映了 AI 行业的资本热度，也可能改写创业者的收入模型。或许未来，更多科技公司可借鉴这一成功模式，值得投资者关注！",
-          "usage": "💡 讨论 AI 投资时可以提到 \n💬 “Anthropic IPO 的成功引发行业热议！” \n🔥 Anthropic IPO 投资",
-          "source": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+          "title": "DeepSeek作者创业",
+          "summary": "开源Agent项目曝光",
+          "detail": "DeepSeek V1核心作者被曝创业做开源Agent。现在大厂出来的不是搞闭源商业化，就是做更激进的开源——属于是吃够了闭源的苦。",
+          "usage": "💡 聊开源创业时\n💬 打不过就加入开源\n🔥 DeepSeek 开源 Agent",
+          "source": "https://www.qbitai.com/2026/11/511570.html",
           "tags": [
-            "IPO",
-            "投资",
-            "Anthropic"
+            "DeepSeek",
+            "开源",
+            "Agent"
           ]
         },
         {
-          "title": "AI 音乐巨头新布局",
-          "summary": "进军视频生成市场！",
-          "detail": "美国 AI 音乐平台 Suno 最近宣布进军视频生成领域，底层模型来自中国的 MiniMax。这一策略可能引发音视频行业的竞争格局变化，未来，AI 将在更多内容创作中全面开花，让人对科技和艺术的融合充满期待。",
-          "usage": "💡 聊到创意产业时可以提到 \n💬 “Suno 进军视频生成市场，开创内容新模式！” \n🔥 视频生成 AI 音乐",
-          "source": "https://www.qbitai.com/2026/11/511722.html",
+          "title": "清华Token工厂",
+          "summary": "联合华为冲十万卡",
+          "detail": "清华团队要造国产Token工厂，联合华为昇腾五年冲十万卡。现在搞AI基建的都像在玩《流浪地球》——动不动就是万卡起步，行星发动机同款画风。",
+          "usage": "💡 聊算力基建时\n💬 建议改名叫「行星发动机1号」\n🔥 清华 昇腾 Token工厂",
+          "source": "https://www.qbitai.com/2026/11/511679.html",
           "tags": [
-            "视频生成",
-            "AI",
-            "Suno"
+            "清华",
+            "昇腾",
+            "算力"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "OpenAI抗蒸馏",
+          "summary": "多层防御对抗模型窃取",
+          "detail": "OpenAI发论文讲怎么防模型被蒸馏窃取，套了训练-防护-检测三层盾。现在保护AI模型就像防商业间谍——得假设竞争对手连你垃圾桶都翻。",
+          "usage": "💡 聊模型安全时\n💬 建议下次直接上虹膜识别\n🔥 OpenAI 模型蒸馏 安全",
+          "source": "https://openai.com/index/combatting-adversarial-distillation",
+          "tags": [
+            "OpenAI",
+            "模型安全",
+            "蒸馏"
+          ]
+        },
+        {
+          "title": "AI版人脸授权",
+          "summary": "好莱坞新趋势来自中国",
+          "detail": "美国演员开始卖AI版人脸授权给微短剧公司，这玩法在中国早火了。现在当明星得有两副面孔：一副自己用，一副租给AI演戏。",
+          "usage": "💡 聊AI+娱乐时\n💬 数字人：您的外包正在打工\n🔥 AI演员 人脸授权 微短剧",
+          "source": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+          "tags": [
+            "AI演员",
+            "人脸授权",
+            "微短剧"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "英伟达两幅面孔",
+          "summary": "财报亮眼但CEO陷丑闻",
+          "detail": "英伟达财报创新高，但CEO黄仁勋陷丑闻。现在资本市场分裂了：一边数钱数到手软，一边公关跑断腿。",
+          "usage": "💡 聊芯片巨头时\n💬 金钱的味道掩盖不了瓜香\n🔥 英伟达 黄仁勋 财报",
+          "source": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+          "tags": [
+            "英伟达",
+            "财报",
+            "黄仁勋"
+          ]
+        },
+        {
+          "title": "太空芯片融资难",
+          "summary": "银行怕SpaceX射飞抵押物",
+          "detail": "太空计算芯片公司融资遇阻，因为银行担心SpaceX把抵押物射到太空追不回来。现在做太空生意得先解决：怎么在近地轨道装个GPS追踪器。",
+          "usage": "💡 聊太空经济时\n💬 建议抵押物绑根风筝线\n🔥 太空芯片 融资 SpaceX",
+          "source": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+          "tags": [
+            "太空芯片",
+            "融资",
+            "SpaceX"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-21T17:18:03.248Z",
-  "slot": "weekend-evening",
-  "slot_label": "周末傍晚 · 家庭闲聊",
+  "generated_at": "2026-11-22T07:47:41.189Z",
+  "slot": "weekend-morning",
+  "slot_label": "周末早晨 · 家庭时光",
   "meta": {
-    "model": "openai/gpt-4o-mini",
-    "actual_model": "openai/gpt-4o-mini",
-    "prompt_tokens": 3815,
-    "completion_tokens": 3432,
-    "total_tokens": 7247,
-    "cost_usd": 0.0026314499999999996,
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3495,
+    "completion_tokens": 2747,
+    "total_tokens": 6242,
+    "cost_usd": 0.0037254519,
     "free": false,
     "sources": {
       "per_source": {
