@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "AI泡沫的丧钟敲响",
+          "summary": "Anthropic成功上市，AI市场新风向。",
+          "detail": "11月19日，AI公司Anthropic在纽约时刻广场的纳斯达克大屏上亮相，完成了历史上最大规模的IPO，市值高达100亿美元。这一盛事似乎是在告诉我们，AI泡沫还未结束，而是进入了一个新阶段。对此，业内人士纷纷发表看法，认为这是AI行业实力的证明，但同时也有人警惕泡沫即将破裂。家人们，这股AI热潮你怎么看呢？",
+          "usage": "💡 聊聊最新的AI趋势 \n💬 Anthropic在纳斯达克上市，市值100亿美元！ \n🔥 AI IPO 市值",
+          "source": "https://www.huxiu.com/article/4907557.html?f=rss",
+          "tags": [
+            "AI",
+            "IPO",
+            "市场动态"
+          ]
+        },
+        {
+          "title": "消费市场信贷依赖",
+          "summary": "巴西经济研究显示信贷助推消费。",
+          "detail": "根据11月17日的研究，巴西瓦加斯基金会指出，从2023年12月到2026年6月，家庭实际收入每增加100元，信贷消费也随之上升，显示出信贷对巴西消费市场的巨大影响。经济学家表示，虽然这种模式在短期内带动了消费，但长期却可能引发更大的债务危机。巴西的朋友们，信贷生活真是甜蜜与负担共存啊！",
+          "usage": "💡 聊聊信贷和消费的关系 \n💬 巴西的信贷消费依赖已成趋势！ \n🔥 信贷 消费 经济",
+          "source": "https://www.huxiu.com/article/4907558.html?f=rss",
+          "tags": [
+            "巴西经济",
+            "信贷",
+            "消费"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-22T17:39:31.138Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
+  "meta": {
+    "model": "openai/gpt-4o-mini",
+    "actual_model": "openai/gpt-4o-mini",
+    "prompt_tokens": 5491,
+    "completion_tokens": 3217,
+    "total_tokens": 8708,
+    "cost_usd": 0.00275385,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 14,
+      "published": 2
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 5,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 16
+    }
+  }
+}

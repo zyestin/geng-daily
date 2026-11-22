@@ -1,0 +1,280 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "GPT-6.2暴击具身模型",
+          "summary": "可变形物体操控全球首通",
+          "detail": "GPT-6.2 Astra一口气把16项具身任务成功率翻倍，还实现了全球首个可变形物体操控——想象一下让AI帮你把橡皮泥捏成特定形状，这种人类都觉得费劲的活它搞定了。OpenAI悄悄给机器人领域扔了颗核弹，波士顿动力的工程师们今晚可能睡不着了。",
+          "usage": "💡 聊机器人/具身智能时甩出来\n💬 OpenAI这波直接给机器人装了个会变形的手\n🔥 GPT-6.2 具身智能 可变形操控",
+          "src_id": 22,
+          "tags": [
+            "OpenAI",
+            "机器人",
+            "技术突破"
+          ],
+          "source": "https://www.qbitai.com/2026/11/511779.html"
+        },
+        {
+          "title": "AI证明黎曼猜想？",
+          "summary": "人类数学家940页手稿现身",
+          "detail": "Claude配合数学家声称证明了千年难题黎曼猜想，结果逼出了一份写了12年的940页纯人类手稿。现在数学圈分成两派：AI派说'看我用代码推演'，传统派举着砖头厚的证明说'这才叫数学'。最惨的是审稿人，得同时核对两种完全不同的证明路径。",
+          "usage": "💡 聊AI对基础科学影响时\n💬 以后数学论文按字节收费还是按页数收费？\n🔥 黎曼猜想 Claude 数学证明",
+          "src_id": 4,
+          "tags": [
+            "数学",
+            "Claude",
+            "基础科学"
+          ],
+          "source": "https://www.qbitai.com/2026/11/511870.html"
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Karpo开源浏览器Agent",
+          "summary": "反超Gemini再放大招",
+          "detail": "刚在评测中反超Gemini的Karpo团队又开大了——直接把浏览器Agent开源。现在你浏览器里能跑一个会实时分析网页、自动填表、甚至帮你比价的AI助手。最骚的是这玩意儿能在Chrome和Edge里无缝切换，微软和谷歌的产品经理此刻心情复杂。",
+          "usage": "💡 聊开源模型时带出\n💬 建议改名叫GoogleBard终结者\n🔥 Karpo 浏览器Agent 开源",
+          "src_id": 19,
+          "tags": [
+            "开源",
+            "浏览器",
+            "AI助手"
+          ],
+          "source": "https://www.qbitai.com/2026/11/511791.html"
+        },
+        {
+          "title": "GPT-6金融研究实测",
+          "summary": "Hebbia给出商业案例",
+          "detail": "金融科技公司Hebbia实测GPT-6 Astra做投研，发现它能同时分析200+篇财报和研报，准确率比专业分析师高15%。现在华尔街投研报告可能分两种署名：人类写的和'Astra-enhanced'——后者收费可能贵三倍但客户抢着要。",
+          "usage": "💡 聊AI商业化应用时\n💬 以后基金经理简历得加一行'精通哄AI干活'\n🔥 GPT-6 金融分析 Hebbia",
+          "src_id": 5,
+          "tags": [
+            "GPT-6",
+            "金融",
+            "商业化"
+          ],
+          "source": "https://openai.com/business/customer-stories/hebbia"
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "黄仁勋风波持续",
+          "summary": "NVIDIA财报季暴雷",
+          "detail": "NVIDIA财报电话会上，分析师追问黄仁勋卸任CEO后的战略变化。现管理层回应'芯片照造、AI照搞'，但股价还是跌了7%。最惨的是刚买了H100囤货的矿老板，现在卡在手里怕是只能等GPT-7训练救市了。",
+          "usage": "💡 聊芯片/大模型基建时\n💬 建议老黄开直播卖显卡，标题就叫'前CEO清仓'\n🔥 NVIDIA 黄仁勋 财报",
+          "src_id": 24,
+          "tags": [
+            "NVIDIA",
+            "财报",
+            "芯片"
+          ],
+          "source": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
+        },
+        {
+          "title": "Spotify创始人押注核聚变",
+          "summary": "AI研究员跨界搞能源",
+          "detail": "Spotify创始人Daniel Ek投资了一个由AI研究员创办的核聚变创业公司Europa Fusion。这哥们从推荐算法跳到等离子体控制，放话说'AI算力需求暴涨，得先解决能源问题'——建议OpenAI下次发布会直接改在核电站开。",
+          "usage": "💡 聊AI基础设施瓶颈时\n💬 以后AI公司要分两种：用绿电的和用爱发电的\n🔥 DanielEk 核聚变 AI能源",
+          "src_id": 15,
+          "tags": [
+            "核聚变",
+            "AI基建",
+            "创业"
+          ],
+          "source": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "OpenAI安全插件上线",
+          "summary": "代码审查AI化",
+          "detail": "OpenAI推出Codex Security Plugin，能自动检测PR里的安全漏洞，连'把密码硬编码在注释里'这种骚操作都逃不过它的法眼。现在程序员摸鱼新姿势：故意写几个漏洞看AI能不能抓到，结果被抓到加班修bug。",
+          "usage": "💡 聊编程工具更新时\n💬 CodeReviewer要失业了，建议转行写病毒\n🔥 OpenAI 代码安全 插件",
+          "src_id": 14,
+          "tags": [
+            "OpenAI",
+            "编程工具",
+            "安全"
+          ],
+          "source": "https://openai.com/business/learn/codex-security-plugin-demo"
+        },
+        {
+          "title": "Signal封杀截图",
+          "summary": "AI监控引发隐私战争",
+          "detail": "加密通讯应用Signal直接封杀了移动端截图功能，CEO发飙说'AI监控是生存威胁'。现在想保存聊天记录只能手抄——建议下次更新加入'自动把消息刻在石板上'功能，绝对符合隐私要求。",
+          "usage": "💡 聊AI伦理/隐私时\n💬 建议改名SignalOS，适配诺基亚1110\n🔥 Signal 隐私 AI监控",
+          "src_id": 3,
+          "tags": [
+            "隐私",
+            "Signal",
+            "安全"
+          ],
+          "source": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "腾讯元宝搞大事",
+          "summary": "8万条群聊训练Agent记忆",
+          "detail": "腾讯元宝联合KCL搞了个骚操作：用8万条真实群聊消息训练Agent记忆基准。现在AI能记住'张三上周说请客但放鸽子'这种细节——建议下一步开发'自动催债'功能，绝对比人类记性好使。",
+          "usage": "💡 聊对话系统进展时\n💬 建议加入'自动保存聊天截图'功能对抗Signal\n🔥 腾讯元宝 Agent 记忆",
+          "src_id": 13,
+          "tags": [
+            "腾讯",
+            "对话系统",
+            "Agent"
+          ],
+          "source": "https://www.qbitai.com/2026/11/511841.html"
+        },
+        {
+          "title": "AI短信管家爆发",
+          "summary": "TechCrunch盘点短信Agent",
+          "detail": "TechCrunch盘点发现，现在至少有17个AI能常驻你的短信里，从自动回女友消息到识别诈骗短信全包圆。最绝的是有个Agent专门模仿你打字习惯——建议改名叫'分手炮制器'，绝对刚需。",
+          "usage": "💡 聊AI生活化应用时\n💬 以后查岗得问'刚才那条是你发的还是AI发的？'\n🔥 短信Agent 生活AI",
+          "src_id": 9,
+          "tags": [
+            "短信",
+            "Agent",
+            "生活应用"
+          ],
+          "source": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "Grok一姐PR狂魔",
+          "summary": "月提交3000个PR攻略",
+          "detail": "xAI的Grok团队大佬晒出月提交3000个PR的秘籍：自动化工具+AI辅助+咖啡当水喝。开源社区震惊发现其中2800个是'修复拼写错误'——建议下次直接开发'自动挑错别字AI'，绝对能拿普利策奖。",
+          "usage": "💡 聊开发效率时\n💬 建议GitHub出个'咖啡消耗量'排行榜\n🔥 Grok PR 开发效率",
+          "src_id": 16,
+          "tags": [
+            "Grok",
+            "开源",
+            "开发效率"
+          ],
+          "source": "https://www.qbitai.com/2026/11/511830.html"
+        },
+        {
+          "title": "DeepSeek登顶秘籍",
+          "summary": "中国计算新突破",
+          "detail": "DeepSeek团队分享登顶AI算力效率榜首的秘诀：自研芯片+算法优化双管齐下。现在训练大模型成本直降40%，吓得谷歌连夜开会讨论要不要把TPU改名叫'Too Poor Unit'。",
+          "usage": "💡 聊国产AI进展时\n💬 建议下次发布会直接对比电费账单\n🔥 DeepSeek 算力 国产芯片",
+          "src_id": 10,
+          "tags": [
+            "DeepSeek",
+            "算力",
+            "国产AI"
+          ],
+          "source": "https://www.qbitai.com/2026/11/511849.html"
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "AI操控血糖成功",
+          "summary": "糖尿病大鼠恢复正常",
+          "detail": "Nature最新论文显示，AI通过电刺激迷走神经成功让糖尿病大鼠血糖恢复正常。现在医药代表连夜改行卖神经刺激仪——建议下次更新加入'火锅模式'，吃完自助餐自动平衡血糖。",
+          "usage": "💡 聊AI+医疗突破时\n💬 建议糖尿病患者集体给OpenAI写感谢信\n🔥 AI医疗 血糖控制 迷走神经",
+          "src_id": 1,
+          "tags": [
+            "AI医疗",
+            "糖尿病",
+            "Nature"
+          ],
+          "source": "https://www.qbitai.com/2026/11/511904.html"
+        },
+        {
+          "title": "药物发现新基准",
+          "summary": "MedChemBench上线",
+          "detail": "OpenAI推出MedChemBench评估框架，AI现在能预测分子活性准确率超人类化学家15%。制药公司悄悄把'精通Prompt写分子式'写进招聘要求——建议化学系增设'AI炼丹术'专业。",
+          "usage": "💡 聊AI制药进展时\n💬 以后药瓶标签得加一行'本药物由GPT-6辅助设计'\n🔥 药物发现 OpenAI 分子预测",
+          "src_id": 8,
+          "tags": [
+            "AI制药",
+            "OpenAI",
+            "化学"
+          ],
+          "source": "https://openai.com/index/introducing-medchembench"
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "演员卖脸给AI公司",
+          "summary": "好莱坞新商业模式？",
+          "detail": "TechCrunch报道有演员把自己的面部版权卖给AI微短剧公司，每条视频收分成费。现在十八线演员突然发现新财路——建议开发'AI替身经纪'平台，躺着收'脸租'。",
+          "usage": "💡 聊AI内容生成商业化时\n💬 建议奥斯卡增设'最佳数字人脸奖'\n🔥 AI演员 数字版权 微短剧",
+          "src_id": 12,
+          "tags": [
+            "AI生成",
+            "娱乐业",
+            "商业化"
+          ],
+          "source": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+        },
+        {
+          "title": "太空芯片融资难",
+          "summary": "银行怕SpaceX射飞抵押物",
+          "detail": "太空计算芯片公司遭遇融资困境，因为银行担心抵押的芯片被SpaceX射到太空追不回来。现在最安全的抵押物可能是月球土地证——建议马斯克顺便开个'太空当铺'。",
+          "usage": "💡 聊太空/AI基建时\n💬 建议在芯片刻上'捡到请拨1-800-MUSK'\n🔥 太空计算 芯片融资 SpaceX",
+          "src_id": 21,
+          "tags": [
+            "太空",
+            "芯片",
+            "融资"
+          ],
+          "source": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-22T17:40:15.900Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3418,
+    "completion_tokens": 2752,
+    "total_tokens": 6170,
+    "cost_usd": 0.0037107755999999997,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}
