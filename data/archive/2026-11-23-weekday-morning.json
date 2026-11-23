@@ -1,0 +1,211 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Next.js 14.1发布",
+          "summary": "Next.js 14.1带来性能优化和新特性",
+          "detail": "Next.js 14.1在上周末发布，主要优化了构建速度和运行时性能，新增了对React Server Components的更好支持，还改进了开发体验。",
+          "usage": "你升级Next.js 14.1了吗？听说构建速度提升了20%，不过React Server Components的兼容性还是有点问题，你们项目用了吗？",
+          "source": "",
+          "tags": [
+            "Next.js",
+            "React",
+            "性能优化"
+          ]
+        },
+        {
+          "title": "Svelte 5 Beta",
+          "summary": "Svelte 5进入Beta测试阶段",
+          "detail": "Svelte 5的Beta版本发布，带来了全新的编译器架构和运行时，号称性能提升显著，同时保持了Svelte的简洁哲学。",
+          "usage": "Svelte 5 Beta出来了，据说编译后的代码体积小了30%，你们觉得Svelte在中小项目里能打过React吗？",
+          "source": "",
+          "tags": [
+            "Svelte",
+            "前端框架",
+            "编译优化"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN新架构进展",
+          "summary": "React Native新架构Fabric即将稳定",
+          "detail": "React Native的新架构Fabric经过长期测试，即将在下一个稳定版中默认启用，承诺带来更好的性能和更流畅的UI体验。",
+          "usage": "听说RN的新架构终于要稳定了，你们项目准备升级吗？我担心第三方库的兼容性问题，特别是那些很久没更新的。",
+          "source": "",
+          "tags": [
+            "React Native",
+            "Fabric",
+            "性能优化"
+          ]
+        },
+        {
+          "title": "跨端方案对比",
+          "summary": "RN vs Flutter最新性能对比",
+          "detail": "最新的跨端框架性能测试显示，Flutter在动画性能上仍领先，但React Native在内存占用和热重载速度上有优势。",
+          "usage": "看到最新的跨端框架对比了吗？Flutter动画还是强，但RN的热重载真香，你们选哪个做新项目？",
+          "source": "",
+          "tags": [
+            "React Native",
+            "Flutter",
+            "跨端开发"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "Cursor插件生态",
+          "summary": "Cursor发布官方插件规范",
+          "detail": "AI编程助手Cursor发布了插件规范，允许开发者扩展其功能，GitHub上已经出现多个实用插件，如代码审查、测试生成等。",
+          "usage": "Cursor现在支持插件了，装了个代码审查的，AI给的修改建议有时候比我还专业，感觉要失业了哈哈。",
+          "source": "https://github.com/cursor/plugins",
+          "tags": [
+            "AI编程",
+            "Cursor",
+            "插件"
+          ]
+        },
+        {
+          "title": "AI生成UI争议",
+          "summary": "AI生成UI代码质量引热议",
+          "detail": "社区热议AI生成的UI代码虽然能快速产出，但可维护性差，缺乏设计一致性，适合原型但可能不适合生产环境。",
+          "usage": "用AI生成了个页面，看起来不错但代码一坨，改起来比手写还费劲，你们觉得AI写UI靠谱吗？",
+          "source": "",
+          "tags": [
+            "AI",
+            "UI",
+            "代码质量"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "TS 5.3新特性",
+          "summary": "TypeScript 5.3带来类型推导改进",
+          "detail": "TypeScript 5.3发布，优化了对数组和元组的类型推导，改进了编辑器支持，并减少了某些情况下的类型检查开销。",
+          "usage": "TS 5.3的数组类型推导终于聪明点了，以前老要手动加类型，现在能自动推断出map后的类型了。",
+          "source": "",
+          "tags": [
+            "TypeScript",
+            "类型系统",
+            "JavaScript"
+          ]
+        },
+        {
+          "title": "Bun 2.0性能",
+          "summary": "Bun 2.0运行时性能再提升",
+          "detail": "Bun 2.0发布，在HTTP服务器、文件I/O和TypeScript编译等方面都有显著性能提升，继续挑战Node.js的地位。",
+          "usage": "Bun 2.0的启动速度比Node快3倍，但生态还是差不少，你们敢在生产环境用吗？",
+          "source": "",
+          "tags": [
+            "Bun",
+            "JavaScript",
+            "运行时"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "Firecrawl爆火",
+          "summary": "Firecrawl成为数据采集新宠",
+          "detail": "Firecrawl项目周末突然爆火，提供统一API访问550+数据源，简化了爬虫和知识图谱构建，适合AI数据准备。",
+          "usage": "Firecrawl这个周末star涨了近千，号称一个API搞定所有数据源，你们觉得比自己写爬虫靠谱吗？",
+          "source": "https://github.com/firecrawl/firecrawl",
+          "tags": [
+            "爬虫",
+            "数据采集",
+            "开源"
+          ]
+        },
+        {
+          "title": "两小时训模型",
+          "summary": "MiniMind项目引关注",
+          "detail": "MiniMind项目展示如何在2小时内从零训练一个64M参数的LLM，降低了入门门槛，引发社区对小型模型的讨论。",
+          "usage": "看到那个两小时训出64M模型的项目了吗？虽然效果一般但教育意义挺大，适合带小朋友了解AI原理。",
+          "source": "https://github.com/jingyaogong/minimind",
+          "tags": [
+            "AI",
+            "机器学习",
+            "教育"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "月提交3000PR",
+          "summary": "Grok工程师的疯狂提交记录",
+          "detail": "一位Grok工程师分享如何月提交3000个PR的秘诀，引发对代码质量和开发流程的讨论，有人佩服有人质疑。",
+          "usage": "看到那个月提交3000PR的大神了吗？平均每小时4个，这是写代码还是刷存在感啊哈哈。",
+          "source": "https://www.qbitai.com/2026/11/511830.html",
+          "tags": [
+            "程序员",
+            "Git",
+            "幽默"
+          ]
+        },
+        {
+          "title": "Stack Overflow新规",
+          "summary": "SO要求AI生成内容必须标注",
+          "detail": "Stack Overflow新规要求标明AI生成的答案，引发争议，有人认为有助于质量，有人觉得阻碍技术进步。",
+          "usage": "Stack Overflow现在要求标注AI生成的答案了，但怎么判断是不是AI写的？以后回答要先发誓吗？",
+          "source": "",
+          "tags": [
+            "Stack Overflow",
+            "AI",
+            "社区"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-23T03:56:35.230Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2050,
+    "completion_tokens": 1650,
+    "total_tokens": 3700,
+    "cost_usd": 0.0022250250000000003,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 9,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}
