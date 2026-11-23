@@ -1,0 +1,265 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "中方表态",
+          "summary": "中方就以总理等被发逮捕令表态",
+          "detail": "中方就以色列总理等被发逮捕令一事发表官方表态，强调国际法的权威性和公正性，呼吁各方遵守国际规则。此举引发全球关注，尤其是在科技圈，不少大佬也在社交媒体上发表看法。",
+          "usage": "💡 国际新闻热点\n💬 中方表态，国际法要遵守，尤其是科技圈大佬也在关注\n🔥 中方 以色列 国际法",
+          "source": "https://www.toutiao.com/trending/7711108332878151722/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227711108332878151722%22%2C%22hot_board_impr_id%22%3A%22202611240547168A1618B7EDA5163B069C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E6%96%B9%E5%B0%B1%E4%BB%A5%E6%80%BB%E7%90%86%E7%AD%89%E8%A2%AB%E5%8F%91%E9%80%AE%E6%8D%95%E4%BB%A4%E8%A1%A8%E6%80%81%22%7D&rank=&style_id=40132&topic_id=7711108332878151722",
+          "tags": [
+            "中方",
+            "以色列",
+            "国际法"
+          ]
+        },
+        {
+          "title": "亚太合作",
+          "summary": "亚太共赴开放创新合作之约",
+          "detail": "亚太经合组织深圳会议召开，各国共商开放创新合作大计。科技圈大佬纷纷表示看好亚太地区未来发展，尤其是深圳作为创新中心的潜力。",
+          "usage": "💡 区域经济合作\n💬 亚太合作，深圳成创新中心，科技圈看好\n🔥 亚太 深圳 创新",
+          "source": "https://www.toutiao.com/article/7711134868674986536",
+          "tags": [
+            "亚太",
+            "深圳",
+            "创新"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "老黄回归",
+          "summary": "英伟达董事会恢复黄仁勋CEO职务",
+          "detail": "英伟达董事会宣布恢复黄仁勋CEO职务，老黄表示很荣幸回归。科技圈热议此举对英伟达未来的影响，尤其是AI芯片市场。",
+          "usage": "💡 公司高层变动\n💬 老黄回归英伟达，AI芯片市场看好\n🔥 黄仁勋 英伟达 AI芯片",
+          "source": "https://m.baidu.com/s?word=%E8%8B%B9%E4%BC%9F%E8%BE%BE%E8%91%A3%E4%BA%8B%E4%BC%9A%E6%81%A2%E5%A4%8D%E9%BB%84%E4%BB%81%E5%8B%8BCEO%E8%81%8C%E5%8A%A1&sa=fyb_news",
+          "tags": [
+            "黄仁勋",
+            "英伟达",
+            "AI芯片"
+          ]
+        },
+        {
+          "title": "特朗普深圳",
+          "summary": "特朗普手持在深圳照片向众人展示",
+          "detail": "特朗普把抵达深圳的照片打印出来，向众人展示。科技圈调侃此举或为深圳科技实力背书，尤其是在国际形势紧张的背景下。",
+          "usage": "💡 国际政治动态\n💬 特朗普展示深圳照片，科技圈调侃\n🔥 特朗普 深圳 科技",
+          "source": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%8B%E6%8C%81%E5%9C%A8%E6%B7%B1%E5%9C%B3%E7%85%A7%E7%89%87%E5%90%91%E4%BC%97%E4%BA%BA%E5%B1%95%E7%A4%BA&sa=fyb_news",
+          "tags": [
+            "特朗普",
+            "深圳",
+            "科技"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "英伟达规矩",
+          "summary": "英伟达多了几道规矩",
+          "detail": "英伟达在黄仁勋回归后，新增了几道规矩，旨在加强公司管理和技术研发。科技圈热议此举对英伟达未来发展的影响，尤其是在AI芯片市场的竞争力。",
+          "usage": "💡 公司管理变动\n💬 英伟达新增规矩，AI芯片市场看好\n🔥 英伟达 规矩 AI芯片",
+          "source": "https://www.huxiu.com/article/4907863.html?f=rss",
+          "tags": [
+            "英伟达",
+            "规矩",
+            "AI芯片"
+          ]
+        },
+        {
+          "title": "泰国楼市",
+          "summary": "中国买家退出泰国楼市，俄罗斯人接盘",
+          "detail": "泰国房地产信息中心发布三季度数据，中国买家退出泰国楼市，俄罗斯买家接盘。科技圈讨论此举对东南亚房地产市场的影响，尤其是科技公司海外投资策略。",
+          "usage": "💡 海外市场动态\n💬 中国买家退出泰国楼市，俄罗斯人接盘\n🔥 泰国 楼市 俄罗斯",
+          "source": "https://www.huxiu.com/article/4907860.html?f=rss",
+          "tags": [
+            "泰国",
+            "楼市",
+            "俄罗斯"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "车企大考",
+          "summary": "17家车企迎公开大考",
+          "detail": "比亚迪、一汽、上汽等17家重点车企迎来公开大考，承诺向供应商支付货款的账期不超过60天。科技圈热议此举对供应链管理的影响，尤其是新能源汽车行业。",
+          "usage": "💡 车企供应链管理\n💬 17家车企迎大考，供应链管理成焦点\n🔥 车企 供应链 60天",
+          "source": "https://www.huxiu.com/article/4907859.html?f=rss",
+          "tags": [
+            "车企",
+            "供应链",
+            "60天"
+          ]
+        },
+        {
+          "title": "胖东来关店",
+          "summary": "胖东来一店将关闭",
+          "detail": "胖东来宣布关闭一家门店，并公开羽绒服成本价。科技圈讨论此举对零售行业的影响，尤其是在电商冲击下的传统零售模式。",
+          "usage": "💡 零售行业变动\n💬 胖东来关店，传统零售模式受挑战\n🔥 胖东来 关店 羽绒服",
+          "source": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E4%B8%80%E5%BA%97%E5%B0%86%E5%85%B3%E9%97%AD+%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%BA%AE%E6%88%90%E6%9C%AC%E4%BB%B7&sa=fyb_news",
+          "tags": [
+            "胖东来",
+            "关店",
+            "羽绒服"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "高铁内核",
+          "summary": "探秘中国高铁的强大“内核”",
+          "detail": "中国高铁技术再次突破，探秘其强大“内核”，科技圈热议此举对全球高铁市场的影响，尤其是在技术创新方面的竞争力。",
+          "usage": "💡 高铁技术突破\n💬 中国高铁内核强大，技术创新领先\n🔥 高铁 内核 技术创新",
+          "source": "https://m.baidu.com/s?word=%E6%8E%A2%E7%A7%98%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E7%9A%84%E5%BC%BA%E5%A4%A7%E2%80%9C%E5%86%85%E6%A0%B8%E2%80%9D&sa=fyb_news",
+          "tags": [
+            "高铁",
+            "内核",
+            "技术创新"
+          ]
+        },
+        {
+          "title": "学生思维",
+          "summary": "一种很常见，但副作用巨大的学生思维",
+          "detail": "一种常见但副作用巨大的学生思维引发科技圈讨论，尤其是在职场新人中的普遍性和对职业发展的影响。",
+          "usage": "💡 职场思维讨论\n💬 学生思维副作用大，职场新人要注意\n🔥 学生思维 职场 副作用",
+          "source": "https://www.huxiu.com/article/4907858.html?f=rss",
+          "tags": [
+            "学生思维",
+            "职场",
+            "副作用"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "特朗普照片",
+          "summary": "特朗普把抵达深圳照片打印出来了",
+          "detail": "特朗普把抵达深圳的照片打印出来，向众人展示。科技圈调侃此举或为深圳科技实力背书，尤其是在国际形势紧张的背景下。",
+          "usage": "💡 国际政治动态\n💬 特朗普展示深圳照片，科技圈调侃\n🔥 特朗普 深圳 科技",
+          "source": "https://www.toutiao.com/trending/7710791493300129343/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227710791493300129343%22%2C%22hot_board_impr_id%22%3A%22202611240547168A1618B7EDA5163B069C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%8A%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E5%87%BA%E6%9D%A5%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7710791493300129343",
+          "tags": [
+            "特朗普",
+            "深圳",
+            "科技"
+          ]
+        },
+        {
+          "title": "treetree炸鸡",
+          "summary": "数年炸鸡无人识 一句treetree全网知",
+          "detail": "一家默默无闻的炸鸡店因一句treetree走红网络，科技圈讨论社交媒体对品牌传播的影响，尤其是在短视频平台的助力。",
+          "usage": "💡 社交媒体热点\n💬 treetree炸鸡走红，社交媒体助力\n🔥 treetree 炸鸡 社交媒体",
+          "source": "https://www.toutiao.com/trending/7710276814740111401/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227710276814740111401%22%2C%22hot_board_impr_id%22%3A%22202611240547168A1618B7EDA5163B069C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%95%B0%E5%B9%B4%E7%82%B8%E9%B8%A1%E6%97%A0%E4%BA%BA%E8%AF%86+%E4%B8%80%E5%8F%A5treetree%E5%85%A8%E7%BD%91%E7%9F%A5%22%7D&rank=&style_id=40132&topic_id=7710276814740111401",
+          "tags": [
+            "treetree",
+            "炸鸡",
+            "社交媒体"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "蔡磊悼念",
+          "summary": "蔡磊发文悼念廖建文",
+          "detail": "蔡磊发文悼念廖建文，科技圈热议创业者之间的深厚情谊，尤其是在创业路上的相互支持。",
+          "usage": "💡 创业圈情感\n💬 蔡磊悼念廖建文，创业者相互支持\n🔥 蔡磊 廖建文 创业",
+          "source": "https://m.baidu.com/s?word=%E8%94%A1%E7%A3%8A%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E5%BB%96%E5%BB%BA%E6%96%87&sa=fyb_news",
+          "tags": [
+            "蔡磊",
+            "廖建文",
+            "创业"
+          ]
+        },
+        {
+          "title": "大学生失联",
+          "summary": "大学生失联2天后校内发现其遗体",
+          "detail": "一名大学生失联2天后校内发现其遗体，科技圈讨论校园安全和心理健康问题，尤其是在高压环境下的学生群体。",
+          "usage": "💡 校园安全热点\n💬 大学生失联2天后校内发现其遗体\n🔥 大学生 失联 心理健康",
+          "source": "https://www.toutiao.com/trending/7711339154768265754/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227711339154768265754%22%2C%22hot_board_impr_id%22%3A%22202611240547168A1618B7EDA5163B069C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A4%B1%E8%81%942%E5%A4%A9%E5%90%8E%E6%A0%A1%E5%86%85%E5%8F%91%E7%8E%B0%E5%85%B6%E9%81%97%E4%BD%93%22%7D&rank=&style_id=40132&topic_id=7711339154768265754",
+          "tags": [
+            "大学生",
+            "失联",
+            "心理健康"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "币圈风云",
+      "icon": "🪙",
+      "items": [
+        {
+          "title": "OpenAI重返",
+          "summary": "Sam Altman重返OpenAI",
+          "detail": "Sam Altman重返OpenAI，币圈热议此举对加密货币市场的影响，尤其是在AI与区块链结合领域的潜力。",
+          "usage": "💡 币圈热点\n💬 Sam Altman重返OpenAI，AI与区块链结合\n🔥 Sam Altman OpenAI 区块链",
+          "source": "https://www.huxiu.com/article/4907863.html?f=rss",
+          "tags": [
+            "Sam Altman",
+            "OpenAI",
+            "区块链"
+          ]
+        },
+        {
+          "title": "廖建文去世",
+          "summary": "蔡磊发文悼念廖建文",
+          "detail": "蔡磊发文悼念廖建文，币圈讨论创业者之间的深厚情谊，尤其是在创业路上的相互支持。",
+          "usage": "💡 创业圈情感\n💬 蔡磊悼念廖建文，创业者相互支持\n🔥 蔡磊 廖建文 创业",
+          "source": "https://m.baidu.com/s?word=%E8%94%A1%E7%A3%8A%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E5%BB%96%E5%BB%BA%E6%96%87&sa=fyb_news",
+          "tags": [
+            "蔡磊",
+            "廖建文",
+            "创业"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-23T21:49:08.914Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 4974,
+    "completion_tokens": 4471,
+    "total_tokens": 9445,
+    "cost_usd": 0.0058796253,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 4,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 16
+    }
+  }
+}
