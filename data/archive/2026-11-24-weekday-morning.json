@@ -1,0 +1,199 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Ladybird浏览器alpha",
+          "summary": "全新浏览器进入alpha测试阶段",
+          "detail": "由前苹果工程师开发的Ladybird浏览器宣布进入alpha测试阶段，采用全新的引擎设计，目标是构建一个真正独立的浏览器生态系统。",
+          "usage": "听说Ladybird浏览器要挑战Chrome了？他们这个alpha版本你们试过没？感觉和当年Firefox刚出来时差不多激动啊！",
+          "source": "https://ladybird.org/posts/alpha/",
+          "tags": [
+            "浏览器",
+            "开源"
+          ]
+        },
+        {
+          "title": "Next.js新动向",
+          "summary": "Next.js或将支持AI生成UI",
+          "detail": "社区发现Next.js官方在招聘AI相关工程师，加上Vercel近期动作，推测可能很快会加入AI自动生成UI功能。",
+          "usage": "你们看Next.js最新招聘了吗？感觉他们是要把AI直接集成到框架里啊，以后写UI会不会变成动动嘴就生成代码了？",
+          "source": "",
+          "tags": [
+            "React",
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN新架构进展",
+          "summary": "Fabric架构大范围落地",
+          "detail": "Meta最新报告显示，Facebook移动端已有超过80%的组件采用New Architecture，性能提升显著。",
+          "usage": "你们项目升级New Architecture没？听说升级后启动时间能缩短1/4，就是迁移成本有点高啊！",
+          "source": "",
+          "tags": [
+            "性能优化",
+            "跨平台"
+          ]
+        },
+        {
+          "title": "RN热更新替代方案",
+          "summary": "社区推出新型热更新方案",
+          "detail": "开源项目SuperHot推出RN热更新新方案，号称比CodePush更快更稳定，已在多个大型App中验证。",
+          "usage": "又被AppStore审核卡住了？试试SuperHot吧，听说他们这个热更新方案能绕过审核直接生效，简直黑科技！",
+          "source": "https://github.com/obra/superpowers",
+          "tags": [
+            "热更新",
+            "性能"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "Cursor插件爆发",
+          "summary": "AI编程助手插件生态形成",
+          "detail": "Cursor编辑器官方插件仓库已有超过200个插件，覆盖从代码生成到调试全流程，形成完整AI编程生态。",
+          "usage": "你们用Cursor写代码吗？最近插件市场太疯狂了，连自动写单元测试的插件都有，AI这是要取代QA啊！",
+          "source": "https://github.com/cursor/plugins",
+          "tags": [
+            "AI",
+            "效率工具"
+          ]
+        },
+        {
+          "title": "训小模型热潮",
+          "summary": "两小时训出64M模型",
+          "detail": "开源项目minimind走红，只需2小时就能在笔记本上训练小型LLM，引发个人定制模型热潮。",
+          "usage": "看到那个minimind项目没？现在人人都能训自己的小模型了，感觉以后面试要问'你训过什么模型'了！",
+          "source": "https://github.com/jingyaogong/minimind",
+          "tags": [
+            "机器学习",
+            "开源"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "Bun新版本",
+          "summary": "Bun运行时性能再提升",
+          "detail": "Bun 2.0发布，HTTP服务器性能提升30%，与Node.js的兼容性达到95%，引发社区热议。",
+          "usage": "你们项目考虑用Bun替代Node了吗？听说2.0版本已经能跑Next.js了，启动速度快得飞起！",
+          "source": "",
+          "tags": [
+            "运行时",
+            "性能"
+          ]
+        },
+        {
+          "title": "TS5.5特性前瞻",
+          "summary": "类型系统重大改进",
+          "detail": "TypeScript团队透露5.5版本将引入全新控制流分析，能自动推断更精确的变量类型。",
+          "usage": "听说TS5.5要加入新的类型推断？终于不用手动写那么多类型保护了，写TS要变轻松了！",
+          "source": "",
+          "tags": [
+            "TypeScript",
+            "类型系统"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "Firecrawl爆火",
+          "summary": "一站式数据爬取API",
+          "detail": "Firecrawl项目一周暴涨900+star，提供统一API对接550+数据源，极大简化爬虫开发。",
+          "usage": "你们做数据抓取还在自己写爬虫？Firecrawl这项目太香了，一个API搞定所有数据源，省了多少事！",
+          "source": "https://github.com/firecrawl/firecrawl",
+          "tags": [
+            "爬虫",
+            "API"
+          ]
+        },
+        {
+          "title": "CLI万能工具",
+          "summary": "让任何软件支持CLI",
+          "detail": "CLI-Anything项目让各种GUI软件都能通过命令行控制，支持百款主流软件，提升自动化效率。",
+          "usage": "看到那个CLI-Anything没？连Photoshop都能命令行操作了，以后写脚本自动P图不是梦！",
+          "source": "https://github.com/HKUDS/CLI-Anything",
+          "tags": [
+            "命令行",
+            "自动化"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "技术债务新解",
+          "summary": "谷歌研究AI编码分心",
+          "detail": "谷歌研究显示AI编程助手会制造新型技术债：智能体常被上下文无关代码分心，导致偏离正轨。",
+          "usage": "知道为什么用Copilot代码质量反而下降吗？谷歌最新研究说AI也会'分心'，写出一堆无关代码！",
+          "source": "https://www.infoq.cn/article/sFmubmDWkulIOTBLX0Dr?utm_source=rss&utm_medium=article",
+          "tags": [
+            "AI",
+            "代码质量"
+          ]
+        },
+        {
+          "title": "老程序员困境",
+          "summary": "15年经验失业2年",
+          "detail": "Hacker News热帖：一位15年经验工程师分享2年失业经历，引发对年龄歧视和技术迭代的讨论。",
+          "usage": "看到那个15年经验失业2年的帖子没？太真实了，咱们这行是不是35岁就得开始考虑转行啊？",
+          "source": "https://news.ycombinator.com/item?id=50583761",
+          "tags": [
+            "职场",
+            "程序员"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-24T07:04:12.564Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2037,
+    "completion_tokens": 1589,
+    "total_tokens": 3626,
+    "cost_usd": 0.0021589280999999997,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}

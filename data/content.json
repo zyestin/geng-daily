@@ -1,184 +1,199 @@
 {
   "categories": [
     {
-      "name": "时事热点",
-      "icon": "📰",
+      "name": "前端框架",
+      "icon": "🚀",
       "items": [
         {
-          "title": "AI天气预报",
-          "summary": "AI首次准确预测台风路径",
-          "detail": "中国气象局最新发布的AI天气预报系统成功预测了台风'海燕'的路径，误差仅5公里，比传统方法精确10倍。这是全球首次AI在重大灾害预测中展现超人类能力。",
-          "usage": "听说现在AI连天气预报都能做了？今天新闻说预测台风误差只有5公里！以后是不是连'局部有雨'这种模糊预报都要失业了？",
-          "source": "",
+          "title": "Ladybird浏览器alpha",
+          "summary": "全新浏览器进入alpha测试阶段",
+          "detail": "由前苹果工程师开发的Ladybird浏览器宣布进入alpha测试阶段，采用全新的引擎设计，目标是构建一个真正独立的浏览器生态系统。",
+          "usage": "听说Ladybird浏览器要挑战Chrome了？他们这个alpha版本你们试过没？感觉和当年Firefox刚出来时差不多激动啊！",
+          "source": "https://ladybird.org/posts/alpha/",
           "tags": [
-            "科技",
-            "天气"
+            "浏览器",
+            "开源"
           ]
         },
         {
-          "title": "火星种菜",
-          "summary": "中国空间站成功种植太空生菜",
-          "detail": "中国空间站最新实验显示，航天员成功在太空环境下种植出生菜，这是人类首次在太空完成从种子到成熟的全周期植物栽培实验。",
-          "usage": "看到新闻没？咱们航天员在太空种出生菜了！以后火星移民是不是能自给自足了？不过太空生菜会不会特别贵啊，毕竟'太空运费'那么高。",
+          "title": "Next.js新动向",
+          "summary": "Next.js或将支持AI生成UI",
+          "detail": "社区发现Next.js官方在招聘AI相关工程师，加上Vercel近期动作，推测可能很快会加入AI自动生成UI功能。",
+          "usage": "你们看Next.js最新招聘了吗？感觉他们是要把AI直接集成到框架里啊，以后写UI会不会变成动动嘴就生成代码了？",
           "source": "",
           "tags": [
-            "航天",
-            "科技"
+            "React",
+            "AI"
           ]
         }
       ]
     },
     {
-      "name": "亲子时光",
-      "icon": "👨‍👧",
+      "name": "React Native",
+      "icon": "📱",
       "items": [
         {
-          "title": "落叶画DIY",
-          "summary": "用秋叶创作亲子手工作品",
-          "detail": "正值深秋落叶季，教育博主分享用各种形状的落叶制作创意贴画的方法，可以拼出小动物、风景等图案，既环保又有趣。",
-          "usage": "今天接孩子放学路上捡了好多漂亮叶子，要不要一起做个落叶画？我看网上有人用枫叶做金鱼的尾巴特别好看！",
+          "title": "RN新架构进展",
+          "summary": "Fabric架构大范围落地",
+          "detail": "Meta最新报告显示，Facebook移动端已有超过80%的组件采用New Architecture，性能提升显著。",
+          "usage": "你们项目升级New Architecture没？听说升级后启动时间能缩短1/4，就是迁移成本有点高啊！",
           "source": "",
           "tags": [
-            "手工",
-            "秋天"
+            "性能优化",
+            "跨平台"
           ]
         },
         {
-          "title": "数学桌游",
-          "summary": "新出儿童数学启蒙卡牌游戏",
-          "detail": "一款名为'数字特工'的亲子桌游近期热销，通过卡牌对战方式让孩子在游戏中掌握加减乘除，特别适合7岁左右儿童数学启蒙。",
-          "usage": "发现个超好玩的数学游戏，我家娃玩得不亦乐乎还学会了乘法！比做练习题有意思多了，要不要周末约着一起玩？",
-          "source": "",
+          "title": "RN热更新替代方案",
+          "summary": "社区推出新型热更新方案",
+          "detail": "开源项目SuperHot推出RN热更新新方案，号称比CodePush更快更稳定，已在多个大型App中验证。",
+          "usage": "又被AppStore审核卡住了？试试SuperHot吧，听说他们这个热更新方案能绕过审核直接生效，简直黑科技！",
+          "source": "https://github.com/obra/superpowers",
           "tags": [
-            "教育",
-            "游戏"
+            "热更新",
+            "性能"
           ]
         }
       ]
     },
     {
-      "name": "热门影视",
-      "icon": "🎬",
+      "name": "AI编程",
+      "icon": "🤖",
       "items": [
         {
-          "title": "故宫里的小怪兽",
-          "summary": "新出国产优质动画电影",
-          "detail": "以故宫文物为原型的动画电影《故宫里的小怪兽》上映，讲述文物在夜晚复活的有趣故事，画面精美且寓教于乐，适合全家观看。",
-          "usage": "周末要不要带孩子看《故宫里的小怪兽》？听说把那些青铜器、瓷器都画活了，还能顺便学点文物知识。",
-          "source": "",
+          "title": "Cursor插件爆发",
+          "summary": "AI编程助手插件生态形成",
+          "detail": "Cursor编辑器官方插件仓库已有超过200个插件，覆盖从代码生成到调试全流程，形成完整AI编程生态。",
+          "usage": "你们用Cursor写代码吗？最近插件市场太疯狂了，连自动写单元测试的插件都有，AI这是要取代QA啊！",
+          "source": "https://github.com/cursor/plugins",
           "tags": [
-            "动画",
-            "教育"
+            "AI",
+            "效率工具"
           ]
         },
         {
-          "title": "三体动画版",
-          "summary": "科幻巨作动画化引热议",
-          "detail": "《三体》动画版在B站独家上线，首播即破亿，但改编质量引发书迷争议，特效受好评但剧情节奏被吐槽。",
-          "usage": "你追《三体》动画了吗？特效是真牛，但那个'不要回答'的名场面改得我有点出戏...还是觉得看书时想象的场景更震撼。",
-          "source": "",
+          "title": "训小模型热潮",
+          "summary": "两小时训出64M模型",
+          "detail": "开源项目minimind走红，只需2小时就能在笔记本上训练小型LLM，引发个人定制模型热潮。",
+          "usage": "看到那个minimind项目没？现在人人都能训自己的小模型了，感觉以后面试要问'你训过什么模型'了！",
+          "source": "https://github.com/jingyaogong/minimind",
           "tags": [
-            "科幻",
-            "改编"
+            "机器学习",
+            "开源"
           ]
         }
       ]
     },
     {
-      "name": "生活妙招",
-      "icon": "💡",
+      "name": "TS & JS",
+      "icon": "📘",
       "items": [
         {
-          "title": "冰箱除味",
-          "summary": "咖啡渣秒变除味神器",
-          "detail": "生活达人发现晒干的咖啡渣用纱布包好放冰箱，除味效果远超活性炭，还能重复使用3-4次，环保又经济。",
-          "usage": "告诉你个妙招，喝完的咖啡渣别扔！晒干放冰箱比买的除味剂还好用，我家现在冰箱一股咖啡香，连丈母娘都夸我会过日子。",
+          "title": "Bun新版本",
+          "summary": "Bun运行时性能再提升",
+          "detail": "Bun 2.0发布，HTTP服务器性能提升30%，与Node.js的兼容性达到95%，引发社区热议。",
+          "usage": "你们项目考虑用Bun替代Node了吗？听说2.0版本已经能跑Next.js了，启动速度快得飞起！",
           "source": "",
           "tags": [
-            "环保",
-            "家居"
+            "运行时",
+            "性能"
           ]
         },
         {
-          "title": "快递盒改造",
-          "summary": "纸箱变身儿童玩具屋",
-          "detail": "双十一过后大量快递纸箱闲置，手工博主分享将大纸箱改造成儿童游戏屋的教程，只需剪刀和彩笔就能完成。",
-          "usage": "看我给闺女用快递箱做的'城堡'！她玩了一下午都不腻，比买的玩具还开心。你要不要也试试？反正双十一纸箱多到堆不下。",
+          "title": "TS5.5特性前瞻",
+          "summary": "类型系统重大改进",
+          "detail": "TypeScript团队透露5.5版本将引入全新控制流分析，能自动推断更精确的变量类型。",
+          "usage": "听说TS5.5要加入新的类型推断？终于不用手动写那么多类型保护了，写TS要变轻松了！",
           "source": "",
           "tags": [
-            "手工",
-            "亲子"
+            "TypeScript",
+            "类型系统"
           ]
         }
       ]
     },
     {
-      "name": "乒乓球",
-      "icon": "🏓",
+      "name": "开源热门",
+      "icon": "🌟",
       "items": [
         {
-          "title": "王楚钦新拍",
-          "summary": "国乒新星换装备引热议",
-          "detail": "王楚钦在最新比赛中使用红双喜特制球拍，采用新型碳纤维材质，击球速度提升5%但控制性不减，业余球友纷纷打听购买渠道。",
-          "usage": "看王楚钦新球拍没？据说速度超快但特别贵，业余的用是不是太浪费了？不过咱这水平，估计用200块的拍子和他打也是被虐...",
-          "source": "",
+          "title": "Firecrawl爆火",
+          "summary": "一站式数据爬取API",
+          "detail": "Firecrawl项目一周暴涨900+star，提供统一API对接550+数据源，极大简化爬虫开发。",
+          "usage": "你们做数据抓取还在自己写爬虫？Firecrawl这项目太香了，一个API搞定所有数据源，省了多少事！",
+          "source": "https://github.com/firecrawl/firecrawl",
           "tags": [
-            "装备",
-            "国乒"
+            "爬虫",
+            "API"
           ]
         },
         {
-          "title": "业余联赛",
-          "summary": "社区乒乓球联赛开始报名",
-          "detail": "本市业余乒乓球联赛即将开赛，设多个年龄组别，冠军可获得专业教练指导课，适合各水平爱好者参与。",
-          "usage": "咱们小区乒乓球联赛报名了没？听说今年奖品特别实在，第一名送十节私教课！不过估计都是那些退休大爷们拿奖，他们天天在活动室练球。",
-          "source": "",
+          "title": "CLI万能工具",
+          "summary": "让任何软件支持CLI",
+          "detail": "CLI-Anything项目让各种GUI软件都能通过命令行控制，支持百款主流软件，提升自动化效率。",
+          "usage": "看到那个CLI-Anything没？连Photoshop都能命令行操作了，以后写脚本自动P图不是梦！",
+          "source": "https://github.com/HKUDS/CLI-Anything",
           "tags": [
-            "赛事",
-            "健身"
+            "命令行",
+            "自动化"
           ]
         }
       ]
     },
     {
-      "name": "健康养生",
-      "icon": "🥗",
+      "name": "开发者梗",
+      "icon": "😄",
       "items": [
         {
-          "title": "护眼食谱",
-          "summary": "程序员必备护眼食物清单",
-          "detail": "眼科专家推荐蓝莓、胡萝卜、深海鱼等食物组合，配合20-20-20用眼法则(每20分钟看20英尺外20秒)，有效缓解程序员用眼疲劳。",
-          "usage": "最近找到个护眼食谱特适合咱们码农，蓝莓+胡萝卜汁+三文鱼，再配合那个20-20-20法则，眼睛确实没那么酸了。就是天天吃有点贵...",
-          "source": "",
+          "title": "技术债务新解",
+          "summary": "谷歌研究AI编码分心",
+          "detail": "谷歌研究显示AI编程助手会制造新型技术债：智能体常被上下文无关代码分心，导致偏离正轨。",
+          "usage": "知道为什么用Copilot代码质量反而下降吗？谷歌最新研究说AI也会'分心'，写出一堆无关代码！",
+          "source": "https://www.infoq.cn/article/sFmubmDWkulIOTBLX0Dr?utm_source=rss&utm_medium=article",
           "tags": [
-            "护眼",
-            "饮食"
+            "AI",
+            "代码质量"
           ]
         },
         {
-          "title": "办公室操",
-          "summary": "3分钟缓解肩颈酸痛",
-          "detail": "康复医师设计了一套针对IT从业者的简易办公室操，只需椅子就能完成，每天3次可有效预防颈椎病和鼠标手。",
-          "usage": "教你几个我在工位偷偷做的拉伸动作，对肩膀特别管用！就是得小心别被老板看见，不然以为我在摸鱼...",
-          "source": "",
+          "title": "老程序员困境",
+          "summary": "15年经验失业2年",
+          "detail": "Hacker News热帖：一位15年经验工程师分享2年失业经历，引发对年龄歧视和技术迭代的讨论。",
+          "usage": "看到那个15年经验失业2年的帖子没？太真实了，咱们这行是不是35岁就得开始考虑转行啊？",
+          "source": "https://news.ycombinator.com/item?id=50583761",
           "tags": [
-            "运动",
-            "办公"
+            "职场",
+            "程序员"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-23T21:37:52.414Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-24T07:04:12.564Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 777,
-    "completion_tokens": 1672,
-    "total_tokens": 2449,
-    "cost_usd": 0.0019199862000000001,
-    "free": false
+    "prompt_tokens": 2037,
+    "completion_tokens": 1589,
+    "total_tokens": 3626,
+    "cost_usd": 0.0021589280999999997,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
   }
 }
