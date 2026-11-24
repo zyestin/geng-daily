@@ -1,0 +1,78 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "黄仁勋复职风波",
+          "summary": "中方回应黄仁勋复职事件",
+          "detail": "英伟达CEO黄仁勋突然复职引发热议，中方官方回应称\"企业人事变动属正常商业行为\"。网友调侃：这波操作比RTX4090还难抢，建议老黄下次复职直接开个线上发布会。",
+          "usage": "💡 同事聊显卡涨价时切入\n💬 黄仁勋这复职速度比显卡降价还快\n🔥 英伟达 黄仁勋 复职",
+          "source": "https://www.toutiao.com/trending/7711268741400497707/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227711268741400497707%22%2C%22hot_board_impr_id%22%3A%2220261125042450900128B45A5B89BAEE60%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C%22%7D&rank=&style_id=40132&topic_id=7711268741400497707",
+          "tags": [
+            "英伟达",
+            "CEO",
+            "人事变动"
+          ]
+        },
+        {
+          "title": "神舟二十四号",
+          "summary": "中国航天任务看点拉满",
+          "detail": "神舟二十四号任务细节曝光，将首次实现航天员在轨轮换和空间站舱段转位。网友：这波操作堪比太空版《变形金刚》，建议下次直播时可以卖太空育种蔬菜盲盒。",
+          "usage": "💡 聊太空探索时切入\n💬 中国航天现在搞的是太空版滴滴代驾\n🔥 神舟 航天 空间站",
+          "source": "https://www.toutiao.com/trending/7711707226997591603/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227711707226997591603%22%2C%22hot_board_impr_id%22%3A%2220261125042450900128B45A5B89BAEE60%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E4%BB%BB%E5%8A%A1%E7%9C%8B%E7%82%B9%E6%8B%89%E6%BB%A1%22%7D&rank=&style_id=40132&topic_id=7711707226997591603",
+          "tags": [
+            "航天",
+            "神舟",
+            "空间站"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "登月新进展",
+          "summary": "中国载人登月时间表公布",
+          "detail": "中国航天科技集团公布载人登月计划时间表，预计2030年前实现中国人首次登月。网友：建议届时直播带货月球特产，比如嫦娥同款月饼。",
+          "usage": "💡 聊太空探索时切入\n💬 中国航天这是要开启月球房地产了\n🔥 登月 航天 中国",
+          "source": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%99%BB%E6%9C%88%E5%8F%88%E8%BF%91%E4%B8%80%E6%AD%A5&sa=fyb_news",
+          "tags": [
+            "登月",
+            "航天",
+            "中国"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-24T20:28:43.222Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 4503,
+    "completion_tokens": 3175,
+    "total_tokens": 7678,
+    "cost_usd": 0.0044251947,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 13,
+      "published": 3
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 5,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 16
+    }
+  }
+}

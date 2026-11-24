@@ -1,256 +1,256 @@
 {
   "categories": [
     {
-      "name": "💥 炸裂新闻",
+      "name": "炸裂新闻",
       "icon": "💥",
       "items": [
         {
-          "title": "黄仁勋王者归来",
-          "summary": "NVIDIA员工夹道欢迎黄仁勋复职",
-          "detail": "因丑闻暂时离职的Jensen Huang今日高调重返NVIDIA总部，员工列队欢迎如英雄归来。黄老板当场放话'这次回来我要当个更好的CEO'，而马斯克等大佬纷纷发推庆祝。更戏剧性的是，涉事公司Megaspeed即将被美国列入黑名单。",
-          "usage": "💡 茶水间聊AI圈八卦时\n💬 黄教主这波王者归来，比《权力的游戏》还刺激\n🔥 NVIDIA 黄仁勋 复职",
-          "source": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+          "title": "Anthropic股价破发",
+          "summary": "AI独角兽上市即破发",
+          "detail": "Anthropic上市后股价跌破发行价，给AI初创公司估值泼了盆冷水。要知道这哥们儿去年还被预测估值超300亿，现在连IPO价都守不住——投资人开始重新思考：到底什么样的AI公司值得这个价？",
+          "usage": "💡 聊AI泡沫时甩出来\n💬 连Claude亲爹都撑不住估值，其他AI初创更要瑟瑟发抖\n🔥 Anthropic IPO破发 AI估值",
+          "source": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
           "tags": [
-            "NVIDIA",
-            "CEO变动",
-            "八卦"
+            "上市",
+            "估值",
+            "泡沫"
           ]
         },
         {
-          "title": "亚马逊75亿豪赌",
-          "summary": "亚马逊75亿美元收购Decart",
-          "detail": "亚马逊豪掷75亿美元收购Decart的AI优化技术团队，这是其Trainium芯片上市前的关键布局。这笔交易相当于用3个OpenAI首轮融资的钱买一个技术团队，AI军备竞赛已经疯狂到用'亿'做计量单位了。",
-          "usage": "💡 讨论巨头AI布局时\n💬 贝索斯：不就75亿嘛，跟买杯咖啡似的\n🔥 亚马逊 收购 AI芯片",
-          "source": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+          "title": "英国AI网络攻击警告",
+          "summary": "英国称AI暴露安全漏洞",
+          "detail": "英国网络安全部门紧急警告：AI驱动的网络攻击正在暴露多年来积累的安全漏洞。现在黑客用GPT-6写恶意代码的速度，比安全工程师修漏洞的速度快10倍——以后网络安全可能要变成AI对AI的军备竞赛了。",
+          "usage": "💡 聊AI安全时用\n💬 黑客用AI写代码比修漏洞快10倍，安全工程师要哭着学prompt engineering了\n🔥 网络安全 AI攻击 漏洞",
+          "source": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
           "tags": [
-            "亚马逊",
-            "收购",
-            "AI芯片"
+            "安全",
+            "黑客",
+            "漏洞"
           ]
         }
       ]
     },
     {
-      "name": "🚀 新模型发布",
+      "name": "新模型发布",
       "icon": "🚀",
       "items": [
         {
           "title": "文心5.5闪电开源",
-          "summary": "百度文心5.5 Flash预览版开源",
-          "detail": "百度突然开源文心5.5 Flash预览版，采用Apache 2.0协议。相比上代推理速度提升270%，关键是终于不再玩'开源部分权重'的文字游戏了。现在压力给到阿里通义和深度求索这边。",
-          "usage": "💡 聊开源大模型时\n💬 百度这次开源够意思，不像某些厂'开源就像挤牙膏'\n🔥 文心一言 开源 Apache2.0",
+          "summary": "百度闪电级模型免费了",
+          "detail": "百度文心一言5.5 Flash版本突然宣布开源，采用Apache 2.0协议。这波操作直接把70B参数的模型白送，比Llama3-70B推理速度快47%——开源社区今晚要狂欢，但其他开源模型厂商怕是要失眠。",
+          "usage": "💡 吐槽国内大模型时用\n💬 百度这波开源直接把70B模型当白菜送，开源圈今晚集体过年\n🔥 文心一言 开源 Apache2.0",
           "source": "https://www.qbitai.com/2026/11/512354.html",
           "tags": [
-            "文心一言",
             "开源",
+            "文心一言",
             "百度"
           ]
         },
         {
-          "title": "OceanLake来袭",
-          "summary": "蚂蚁开源湖库一体平台",
-          "detail": "蚂蚁集团发布OceanLake湖库一体AI数据平台，核心引擎全球开源。这个八年磨一剑的项目能实现数据'湖仓切换'比程序员切IDE主题还快，直接把传统ETL流程干成了摆设。",
-          "usage": "💡 聊数据基础设施时\n💬 以后ETL工程师要改行教AI怎么ETL了\n🔥 蚂蚁集团 数据平台 开源",
+          "title": "OceanLake开源",
+          "summary": "蚂蚁金服开源数据引擎",
+          "detail": "蚂蚁OceanBase把湖仓一体AI数据平台OceanLake的核心引擎开源了。这套系统处理PB级数据比Snowflake快3倍，现在连最值钱的引擎都敢开源——数据库厂商们该重新思考怎么卖软件了。",
+          "usage": "💡 聊数据库竞争时甩\n💬 蚂蚁把压箱底的数据库引擎都开源了，Snowflake股价怕是要抖三抖\n🔥 OceanBase 开源 数据库",
           "source": "https://www.qbitai.com/2026/11/512330.html",
           "tags": [
-            "蚂蚁集团",
-            "数据平台",
-            "OceanBase"
+            "数据库",
+            "开源",
+            "大数据"
           ]
         }
       ]
     },
     {
-      "name": "🗣️ AI 大佬言论",
+      "name": "AI大佬言论",
       "icon": "🗣️",
       "items": [
         {
-          "title": "马斯克力挺老黄",
-          "summary": "马斯克庆祝黄仁勋复职",
-          "detail": "在Jensen Huang官宣重返NVIDIA后，马斯克第一时间发推'The mistake has been corrected'(错误已被纠正)。这波站队让NVDA股价瞬间涨了3%，比CEO本人的回归宣言还好使。",
-          "usage": "💡 聊AI圈大佬互动时\n💬 马斯克这嘴开过光吧？一句话值300亿市值\n🔥 马斯克 黄仁勋 NVIDIA",
-          "source": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+          "title": "OpenAI谈困惑度",
+          "summary": "OpenAI发文论AI困惑度",
+          "detail": "OpenAI官方发文探讨'困惑度'(perplexity)指标，认为这个衡量语言模型不确定性的指标被严重低估。他们发现当困惑度低于20时，模型生成的代码质量会突然质变——原来AI也有'顿悟时刻'。",
+          "usage": "💡 讨论模型评估时用\n💬 原来AI和人类一样有顿悟时刻！困惑度低于20时代码质量跳变\n🔥 困惑度 模型评估 OpenAI",
+          "source": "https://openai.com/index/perplexity-and-intelligence",
           "tags": [
-            "马斯克",
-            "黄仁勋",
-            "NVIDIA"
+            "困惑度",
+            "评估",
+            "OpenAI"
           ]
         },
         {
-          "title": "老黄下周听证会",
-          "summary": "黄仁勋将出席参议院听证",
-          "detail": "刚复职的Jensen Huang已确定下周出席参议院听证会，就此前涉及其的丑闻事件作证。这场听证会被安排得像《纸牌屋》剧情——科技巨头掌门人在国会山接受质询，就差没配《权力的游戏》BGM了。",
-          "usage": "💡 聊AI监管话题时\n💬 建议听证会直播打赏功能，绝对刷火箭的人比看国会辩论的多\n🔥 黄仁勋 听证会 参议院",
-          "source": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+          "title": "对抗蒸馏新论文",
+          "summary": "OpenAI公布安全新方法",
+          "detail": "OpenAI发布对抗蒸馏(adversarial distillation)新论文，用分层防御防止模型被逆向破解。现在想偷GPT-6的机密？要先突破训练防护、运行时检测、输出过滤三道防线——黑客工具包又要更新了。",
+          "usage": "💡 聊模型安全时甩\n💬 想偷GPT-6？先破解OpenAI的三重门禁系统再说\n🔥 模型安全 对抗蒸馏 OpenAI",
+          "source": "https://openai.com/index/combatting-adversarial-distillation",
           "tags": [
-            "黄仁勋",
-            "听证会",
-            "监管"
+            "安全",
+            "论文",
+            "逆向工程"
           ]
         }
       ]
     },
     {
-      "name": "🏢 巨头动态",
+      "name": "巨头动态",
       "icon": "🏢",
       "items": [
         {
-          "title": "Claude当码农",
-          "summary": "Anthropic推出代码审核AI",
-          "detail": "Anthropic推出Claude Ship，让AI代理审核、修复和批准代码变更。现在你的PR可能被AI连环三问：'这代码谁写的？''测试用例呢？''你知道这行会让服务器挂掉吗？'码农最后的尊严阵地也被攻陷了。",
-          "usage": "💡 吐槽AI编程工具时\n💬 建议给Claude Ship配个'毒舌模式'，专治程序员不服\n🔥 Anthropic Claude 代码审核",
-          "source": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+          "title": "Meta把Muse塞进INS",
+          "summary": "INS聊天可直接唤AI助理",
+          "detail": "Meta把Muse AI助手直接集成到Instagram私信里，不用切应用就能召唤。现在年轻人约饭的画风可能是：'去哪吃？等Muse搜下评价'——TikTok的AI团队今晚要加班了。",
+          "usage": "💡 聊社交APP竞争时用\n💬 INS把AI助理塞进聊天框，00后从此不知搜索框为何物\n🔥 Meta Instagram AI助手",
+          "source": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
           "tags": [
-            "Anthropic",
-            "Claude",
-            "编程"
+            "Meta",
+            "Instagram",
+            "社交"
           ]
         },
         {
-          "title": "谷歌打通数据孤岛",
-          "summary": "谷歌搜索AI可读取Drive文件",
-          "detail": "谷歌搜索的AI模式现在能读取Drive和Wallet数据生成个性化结果。这意味着你搜'我上季度花了多少钱'，AI能直接从账单PDF里扒数据——财务小姐姐要失业了。",
-          "usage": "💡 聊AI个人信息管理时\n💬 建议给这个功能加个'别让我老婆看到'模式\n🔥 谷歌搜索 AI 数据整合",
-          "source": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+          "title": "亚马逊75亿买芯片公司",
+          "summary": "亚马逊豪赌AI芯片",
+          "detail": "亚马逊花75亿美元收购芯片软件公司Decart，想在AI芯片赛道硬刚英伟达。现在AWS的算力成本是谷歌云的1.3倍，这波收购要是成了，云厂商价格战恐怕要升级到芯片指令集层面。",
+          "usage": "💡 聊芯片竞争时甩\n💬 亚马逊75亿买个芯片软件公司，老黄连夜查账户余额\n🔥 亚马逊 芯片收购 英伟达",
+          "source": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
           "tags": [
-            "谷歌",
-            "AI搜索",
-            "个性化"
+            "芯片",
+            "收购",
+            "亚马逊"
           ]
         }
       ]
     },
     {
-      "name": "🛠️ 产品落地",
+      "name": "产品落地",
       "icon": "🛠️",
       "items": [
         {
-          "title": "GPT-6当客服",
-          "summary": "Richpanel用Astra自动化客服",
-          "detail": "客服平台Richpanel用GPT-6 Astra和Sol实现50%客服自动化，30天就能上线。现在AI客服不仅能背话术，还会查操作手册——人类客服只剩下'我帮您转人工'这句话有价值了。",
-          "usage": "💡 聊AI落地案例时\n💬 建议AI客服新增'假装信号不好断线'功能\n🔥 GPT-6 客服 自动化",
-          "source": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+          "title": "Claude能审代码了",
+          "summary": "Anthropic发布Ship功能",
+          "detail": "Anthropic推出Claude Ship功能，AI能自动审查、修复并批准代码变更。现在程序员提交PR后的流程可能是：等AI审→等AI修→等AI合并——人类终于连code review都要失业了？",
+          "usage": "💡 吐槽程序员失业时用\n💬 AI现在连code review都能包圆，程序员只剩写commit message的活儿了\n🔥 Claude 代码审查 AI辅助开发",
+          "source": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
           "tags": [
-            "GPT-6",
-            "客服",
-            "Richpanel"
+            "Claude",
+            "代码审查",
+            "自动化"
           ]
         },
         {
-          "title": "Supertake融资",
-          "summary": "AI股票组合平台获投2000万",
-          "detail": "Supertake获2000万美元融资，其AI代理能把市场预测变成实际股票组合。韭菜们终于可以理直气壮说'是AI让我买的'了，虽然亏钱时照样肉疼。",
-          "usage": "💡 聊AI+金融时\n💬 以后基金净值曲线不好看可以直接甩锅给AI\n🔥 金融科技 AI投资 Supertake",
-          "source": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+          "title": "Pinterest限制青少年AI内容",
+          "summary": "首个AI内容分级系统",
+          "detail": "Pinterest推出家长控制功能，能限制青少年看到的AI生成内容。当其他平台还在纠结AI聊天机器人时，Pinterest先搞起了AI内容分级——以后00后刷到的穿搭图可能都要带'AI生成'水印了。",
+          "usage": "💡 聊AI伦理时用\n💬 Pinterest给AI内容上分级，00后再也看不到完美的AI穿搭模板了\n🔥 Pinterest AI生成 青少年保护",
+          "source": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
           "tags": [
-            "金融科技",
-            "AI投资",
-            "Supertake"
+            "Pinterest",
+            "AI生成",
+            "青少年"
           ]
         }
       ]
     },
     {
-      "name": "🔓 开源江湖",
+      "name": "开源江湖",
       "icon": "🔓",
       "items": [
         {
-          "title": "Shirudo开源",
-          "summary": "OpenAI联手思科推Linux运行时",
-          "detail": "OpenAI和思科推出开源Linux运行时Shirudo，专为保护运行中的AI系统设计。这相当于给AI系统装了'杀毒软件+防火墙'，黑客想搞破坏得先过GPT-6这一关。",
-          "usage": "💡 聊AI安全时\n💬 建议黑客们转行送外卖，攻破这玩意比送100单还难\n🔥 OpenAI 思科 开源安全",
+          "title": "OpenAI开源Shirudo",
+          "summary": "Linux运行时安全工具",
+          "detail": "OpenAI和思科联手推出开源Linux运行时安全工具Shirudo，专防模型逆向工程。现在黑客想偷模型得先过内存加密、系统调用过滤、权重混淆三关——AI安全开始向芯片级防护进化了。",
+          "usage": "💡 聊模型保护时甩\n💬 OpenAI和思科搞了个模型防盗门，黑客得先破解三重密码锁\n🔥 开源 模型安全 Linux",
           "source": "https://openai.com/index/introducing-shirudo",
           "tags": [
-            "OpenAI",
-            "思科",
-            "AI安全"
+            "开源",
+            "安全",
+            "Linux"
           ]
         },
         {
-          "title": "端侧AI组队",
-          "summary": "端侧超节点技术效率暴涨270%",
-          "detail": "辛米尔科技推出'端侧超节点'技术，让终端设备组队跑AI，效率直接飙升270%。现在你的手机、平板、智能手表可以组队打BOSS了，虽然它们可能为'谁当队长'吵起来。",
-          "usage": "💡 聊边缘计算时\n💬 建议给设备加个'战力值'排行榜，逼它们内卷\n🔥 边缘计算 端侧AI 辛米尔",
-          "source": "https://www.qbitai.com/2026/11/512362.html",
+          "title": "Tidal清洗AI音乐",
+          "summary": "流媒体下架百万AI歌曲",
+          "detail": "Tidal宣布下架数百万首纯AI生成的歌曲，但保留AI辅助创作的音乐。现在音乐平台的审核员要练就'一听辨人机'的绝活——判断标准怕是比图灵测试还玄学。",
+          "usage": "💡 聊AI创作伦理时用\n💬 Tidal下架AI音乐的标准：听起来太完美的一定是机器\n🔥 AI音乐 版权 Tidal",
+          "source": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
           "tags": [
-            "边缘计算",
-            "端侧AI",
-            "辛米尔"
+            "AI生成",
+            "音乐",
+            "版权"
           ]
         }
       ]
     },
     {
-      "name": "🔬 研究突破",
+      "name": "研究突破",
       "icon": "🔬",
       "items": [
         {
-          "title": "AI制药新基准",
-          "summary": "OpenAI推出MedChemBench",
-          "detail": "OpenAI发布MedChemBench评估框架，测试AI理解分子结构和药物研发的能力。以后药企招人可能要求'5年GPT-6使用经验'，化学博士得重修Prompt Engineering。",
-          "usage": "💡 聊AI+制药时\n💬 建议药明康德给OpenAI发offer，薪水随便开\n🔥 AI制药 MedChemBench 分子设计",
-          "source": "https://openai.com/index/introducing-medchembench",
+          "title": "端侧AI组队计算",
+          "summary": "手机不换芯性能翻倍",
+          "detail": "行业首提'端侧超节点'技术，让手机等设备组队进行AI计算。旧手机组个队就能让AI效率暴涨270%，相当于白嫖旗舰机性能——手机厂商下次发布会要改卖'算力社交'了。",
+          "usage": "💡 聊边缘计算时甩\n💬 旧手机组队打AI副本，性能直接飙到270%，库克看了想收组队费\n🔥 端侧AI 分布式计算 手机",
+          "source": "https://www.qbitai.com/2026/11/512362.html",
           "tags": [
-            "AI制药",
-            "OpenAI",
-            "MedChemBench"
+            "边缘计算",
+            "手机",
+            "分布式"
           ]
         },
         {
-          "title": "对抗蒸馏防御",
-          "summary": "OpenAI公布模型防护新方法",
-          "detail": "OpenAI公布对抗蒸馏防护方案，通过训练+监测+防护多层防御保护模型安全。现在想偷师GPT-6得像《碟中谍》那样玩全套，汤姆·克鲁斯来了都得喊难。",
-          "usage": "💡 聊模型安全时\n💬 建议黑客直接放弃，这防护比ATM机还难撬\n🔥 模型安全 对抗攻击 OpenAI",
-          "source": "https://openai.com/index/combatting-adversarial-distillation",
+          "title": "AI用太阳能供电",
+          "summary": "投资人押注绿色算力",
+          "detail": "Crusoe能源投资人赌未来AI数据中心要靠太阳能+电池供电。现在训练GPT-7要烧掉一个小国全年用电量，再不搞绿色AI，OpenAI的电费单怕是比模型研发成本还高。",
+          "usage": "💡 聊AI耗能时用\n💬 以后AI公司财报可能要多一栏'碳排放量'，比营收还醒目\n🔥 AI耗能 太阳能 数据中心",
+          "source": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
           "tags": [
-            "模型安全",
-            "OpenAI",
-            "对抗攻击"
+            "能源",
+            "数据中心",
+            "碳中和"
           ]
         }
       ]
     },
     {
-      "name": "📈 行业风向",
+      "name": "行业风向",
       "icon": "📈",
       "items": [
         {
-          "title": "1500人AI盛会",
-          "summary": "产业智能体大会北京召开",
-          "detail": "首届产业智能体大会在北京举行，1500人参会探讨AI落地。现场最受欢迎的环节是'如何让老板明白AI不是万能钥匙'工作坊，座无虚席。",
-          "usage": "💡 聊AI行业会议时\n💬 建议下次增设'如何阻止老板用ChatGPT写年终总结'分会场\n🔥 产业智能体 行业峰会 AI落地",
-          "source": "https://www.qbitai.com/2026/11/512305.html",
+          "title": "Richpanel用GPT省50%客服",
+          "summary": "AI客服一个月见效",
+          "detail": "Richpanel案例显示，用GPT-6 Astra+Sol组合能30天内自动化50%客服工作。以前是'亲在的请稍等'，现在是AI秒回还带情绪检测——人类客服最后的价值可能是背锅？",
+          "usage": "💡 聊AI取代岗位时甩\n💬 AI客服上岗30天就抢走50%工作，人类最后的价值是替AI背锅\n🔥 客服自动化 GPT-6 企业应用",
+          "source": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
           "tags": [
-            "行业峰会",
-            "产业智能体",
-            "AI落地"
+            "企业应用",
+            "客服",
+            "自动化"
           ]
         },
         {
-          "title": "Google Cloud来华",
-          "summary": "Google Cloud出海峰会报名",
-          "detail": "2027 Google Cloud出海峰会1月北京举行，这是谷歌云时隔多年再次高调来华。看点不是技术而是他们怎么用'数据出海'这个新造的词过审。",
-          "usage": "💡 聊跨国云服务时\n💬 建议谷歌把'出海'翻译成'Go Sea'，中式英语永不过时\n🔥 GoogleCloud 中国 出海",
-          "source": "https://www.qbitai.com/2026/11/512370.html",
+          "title": "iFood用AI管1.5万仓库",
+          "summary": "代码助手规模化落地",
+          "detail": "iFood用AI代码助手管理15,000个代码仓库，相当于每个开发者配了10个AI实习生。现在提交PR的速度比人类review快20倍——原来阻碍工程效率的瓶颈是人类自己。",
+          "usage": "💡 聊工程效能时用\n💬 1.5万仓库靠AI管，程序员终于从'仓库管理员'升级成'AI监工'\n🔥 代码助手 规模化 工程效能",
+          "source": "https://openai.com/business/customer-stories/ifood",
           "tags": [
-            "GoogleCloud",
-            "出海",
-            "中国市场"
+            "工程效能",
+            "代码助手",
+            "规模化"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-24T07:09:43.932Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-11-24T20:29:30.526Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3654,
-    "completion_tokens": 3057,
-    "total_tokens": 6711,
-    "cost_usd": 0.0040852755,
+    "prompt_tokens": 3597,
+    "completion_tokens": 3062,
+    "total_tokens": 6659,
+    "cost_usd": 0.0040757472,
     "free": false,
     "sources": {
       "per_source": {

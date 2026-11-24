@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "Anthropic股价破发",
+          "summary": "AI独角兽上市即破发",
+          "detail": "Anthropic上市后股价跌破发行价，给AI初创公司估值泼了盆冷水。要知道这哥们儿去年还被预测估值超300亿，现在连IPO价都守不住——投资人开始重新思考：到底什么样的AI公司值得这个价？",
+          "usage": "💡 聊AI泡沫时甩出来\n💬 连Claude亲爹都撑不住估值，其他AI初创更要瑟瑟发抖\n🔥 Anthropic IPO破发 AI估值",
+          "source": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+          "tags": [
+            "上市",
+            "估值",
+            "泡沫"
+          ]
+        },
+        {
+          "title": "英国AI网络攻击警告",
+          "summary": "英国称AI暴露安全漏洞",
+          "detail": "英国网络安全部门紧急警告：AI驱动的网络攻击正在暴露多年来积累的安全漏洞。现在黑客用GPT-6写恶意代码的速度，比安全工程师修漏洞的速度快10倍——以后网络安全可能要变成AI对AI的军备竞赛了。",
+          "usage": "💡 聊AI安全时用\n💬 黑客用AI写代码比修漏洞快10倍，安全工程师要哭着学prompt engineering了\n🔥 网络安全 AI攻击 漏洞",
+          "source": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+          "tags": [
+            "安全",
+            "黑客",
+            "漏洞"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "文心5.5闪电开源",
+          "summary": "百度闪电级模型免费了",
+          "detail": "百度文心一言5.5 Flash版本突然宣布开源，采用Apache 2.0协议。这波操作直接把70B参数的模型白送，比Llama3-70B推理速度快47%——开源社区今晚要狂欢，但其他开源模型厂商怕是要失眠。",
+          "usage": "💡 吐槽国内大模型时用\n💬 百度这波开源直接把70B模型当白菜送，开源圈今晚集体过年\n🔥 文心一言 开源 Apache2.0",
+          "source": "https://www.qbitai.com/2026/11/512354.html",
+          "tags": [
+            "开源",
+            "文心一言",
+            "百度"
+          ]
+        },
+        {
+          "title": "OceanLake开源",
+          "summary": "蚂蚁金服开源数据引擎",
+          "detail": "蚂蚁OceanBase把湖仓一体AI数据平台OceanLake的核心引擎开源了。这套系统处理PB级数据比Snowflake快3倍，现在连最值钱的引擎都敢开源——数据库厂商们该重新思考怎么卖软件了。",
+          "usage": "💡 聊数据库竞争时甩\n💬 蚂蚁把压箱底的数据库引擎都开源了，Snowflake股价怕是要抖三抖\n🔥 OceanBase 开源 数据库",
+          "source": "https://www.qbitai.com/2026/11/512330.html",
+          "tags": [
+            "数据库",
+            "开源",
+            "大数据"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "OpenAI谈困惑度",
+          "summary": "OpenAI发文论AI困惑度",
+          "detail": "OpenAI官方发文探讨'困惑度'(perplexity)指标，认为这个衡量语言模型不确定性的指标被严重低估。他们发现当困惑度低于20时，模型生成的代码质量会突然质变——原来AI也有'顿悟时刻'。",
+          "usage": "💡 讨论模型评估时用\n💬 原来AI和人类一样有顿悟时刻！困惑度低于20时代码质量跳变\n🔥 困惑度 模型评估 OpenAI",
+          "source": "https://openai.com/index/perplexity-and-intelligence",
+          "tags": [
+            "困惑度",
+            "评估",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "对抗蒸馏新论文",
+          "summary": "OpenAI公布安全新方法",
+          "detail": "OpenAI发布对抗蒸馏(adversarial distillation)新论文，用分层防御防止模型被逆向破解。现在想偷GPT-6的机密？要先突破训练防护、运行时检测、输出过滤三道防线——黑客工具包又要更新了。",
+          "usage": "💡 聊模型安全时甩\n💬 想偷GPT-6？先破解OpenAI的三重门禁系统再说\n🔥 模型安全 对抗蒸馏 OpenAI",
+          "source": "https://openai.com/index/combatting-adversarial-distillation",
+          "tags": [
+            "安全",
+            "论文",
+            "逆向工程"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "Meta把Muse塞进INS",
+          "summary": "INS聊天可直接唤AI助理",
+          "detail": "Meta把Muse AI助手直接集成到Instagram私信里，不用切应用就能召唤。现在年轻人约饭的画风可能是：'去哪吃？等Muse搜下评价'——TikTok的AI团队今晚要加班了。",
+          "usage": "💡 聊社交APP竞争时用\n💬 INS把AI助理塞进聊天框，00后从此不知搜索框为何物\n🔥 Meta Instagram AI助手",
+          "source": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+          "tags": [
+            "Meta",
+            "Instagram",
+            "社交"
+          ]
+        },
+        {
+          "title": "亚马逊75亿买芯片公司",
+          "summary": "亚马逊豪赌AI芯片",
+          "detail": "亚马逊花75亿美元收购芯片软件公司Decart，想在AI芯片赛道硬刚英伟达。现在AWS的算力成本是谷歌云的1.3倍，这波收购要是成了，云厂商价格战恐怕要升级到芯片指令集层面。",
+          "usage": "💡 聊芯片竞争时甩\n💬 亚马逊75亿买个芯片软件公司，老黄连夜查账户余额\n🔥 亚马逊 芯片收购 英伟达",
+          "source": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+          "tags": [
+            "芯片",
+            "收购",
+            "亚马逊"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "Claude能审代码了",
+          "summary": "Anthropic发布Ship功能",
+          "detail": "Anthropic推出Claude Ship功能，AI能自动审查、修复并批准代码变更。现在程序员提交PR后的流程可能是：等AI审→等AI修→等AI合并——人类终于连code review都要失业了？",
+          "usage": "💡 吐槽程序员失业时用\n💬 AI现在连code review都能包圆，程序员只剩写commit message的活儿了\n🔥 Claude 代码审查 AI辅助开发",
+          "source": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+          "tags": [
+            "Claude",
+            "代码审查",
+            "自动化"
+          ]
+        },
+        {
+          "title": "Pinterest限制青少年AI内容",
+          "summary": "首个AI内容分级系统",
+          "detail": "Pinterest推出家长控制功能，能限制青少年看到的AI生成内容。当其他平台还在纠结AI聊天机器人时，Pinterest先搞起了AI内容分级——以后00后刷到的穿搭图可能都要带'AI生成'水印了。",
+          "usage": "💡 聊AI伦理时用\n💬 Pinterest给AI内容上分级，00后再也看不到完美的AI穿搭模板了\n🔥 Pinterest AI生成 青少年保护",
+          "source": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+          "tags": [
+            "Pinterest",
+            "AI生成",
+            "青少年"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "OpenAI开源Shirudo",
+          "summary": "Linux运行时安全工具",
+          "detail": "OpenAI和思科联手推出开源Linux运行时安全工具Shirudo，专防模型逆向工程。现在黑客想偷模型得先过内存加密、系统调用过滤、权重混淆三关——AI安全开始向芯片级防护进化了。",
+          "usage": "💡 聊模型保护时甩\n💬 OpenAI和思科搞了个模型防盗门，黑客得先破解三重密码锁\n🔥 开源 模型安全 Linux",
+          "source": "https://openai.com/index/introducing-shirudo",
+          "tags": [
+            "开源",
+            "安全",
+            "Linux"
+          ]
+        },
+        {
+          "title": "Tidal清洗AI音乐",
+          "summary": "流媒体下架百万AI歌曲",
+          "detail": "Tidal宣布下架数百万首纯AI生成的歌曲，但保留AI辅助创作的音乐。现在音乐平台的审核员要练就'一听辨人机'的绝活——判断标准怕是比图灵测试还玄学。",
+          "usage": "💡 聊AI创作伦理时用\n💬 Tidal下架AI音乐的标准：听起来太完美的一定是机器\n🔥 AI音乐 版权 Tidal",
+          "source": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+          "tags": [
+            "AI生成",
+            "音乐",
+            "版权"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "端侧AI组队计算",
+          "summary": "手机不换芯性能翻倍",
+          "detail": "行业首提'端侧超节点'技术，让手机等设备组队进行AI计算。旧手机组个队就能让AI效率暴涨270%，相当于白嫖旗舰机性能——手机厂商下次发布会要改卖'算力社交'了。",
+          "usage": "💡 聊边缘计算时甩\n💬 旧手机组队打AI副本，性能直接飙到270%，库克看了想收组队费\n🔥 端侧AI 分布式计算 手机",
+          "source": "https://www.qbitai.com/2026/11/512362.html",
+          "tags": [
+            "边缘计算",
+            "手机",
+            "分布式"
+          ]
+        },
+        {
+          "title": "AI用太阳能供电",
+          "summary": "投资人押注绿色算力",
+          "detail": "Crusoe能源投资人赌未来AI数据中心要靠太阳能+电池供电。现在训练GPT-7要烧掉一个小国全年用电量，再不搞绿色AI，OpenAI的电费单怕是比模型研发成本还高。",
+          "usage": "💡 聊AI耗能时用\n💬 以后AI公司财报可能要多一栏'碳排放量'，比营收还醒目\n🔥 AI耗能 太阳能 数据中心",
+          "source": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+          "tags": [
+            "能源",
+            "数据中心",
+            "碳中和"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "Richpanel用GPT省50%客服",
+          "summary": "AI客服一个月见效",
+          "detail": "Richpanel案例显示，用GPT-6 Astra+Sol组合能30天内自动化50%客服工作。以前是'亲在的请稍等'，现在是AI秒回还带情绪检测——人类客服最后的价值可能是背锅？",
+          "usage": "💡 聊AI取代岗位时甩\n💬 AI客服上岗30天就抢走50%工作，人类最后的价值是替AI背锅\n🔥 客服自动化 GPT-6 企业应用",
+          "source": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+          "tags": [
+            "企业应用",
+            "客服",
+            "自动化"
+          ]
+        },
+        {
+          "title": "iFood用AI管1.5万仓库",
+          "summary": "代码助手规模化落地",
+          "detail": "iFood用AI代码助手管理15,000个代码仓库，相当于每个开发者配了10个AI实习生。现在提交PR的速度比人类review快20倍——原来阻碍工程效率的瓶颈是人类自己。",
+          "usage": "💡 聊工程效能时用\n💬 1.5万仓库靠AI管，程序员终于从'仓库管理员'升级成'AI监工'\n🔥 代码助手 规模化 工程效能",
+          "source": "https://openai.com/business/customer-stories/ifood",
+          "tags": [
+            "工程效能",
+            "代码助手",
+            "规模化"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-24T20:29:30.526Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3597,
+    "completion_tokens": 3062,
+    "total_tokens": 6659,
+    "cost_usd": 0.0040757472,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

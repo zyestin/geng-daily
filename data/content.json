@@ -1,199 +1,184 @@
 {
   "categories": [
     {
-      "name": "前端框架",
-      "icon": "🚀",
+      "name": "时事热点",
+      "icon": "📰",
       "items": [
         {
-          "title": "Ladybird浏览器alpha",
-          "summary": "全新浏览器进入alpha测试阶段",
-          "detail": "由前苹果工程师开发的Ladybird浏览器宣布进入alpha测试阶段，采用全新的引擎设计，目标是构建一个真正独立的浏览器生态系统。",
-          "usage": "听说Ladybird浏览器要挑战Chrome了？他们这个alpha版本你们试过没？感觉和当年Firefox刚出来时差不多激动啊！",
-          "source": "https://ladybird.org/posts/alpha/",
-          "tags": [
-            "浏览器",
-            "开源"
-          ]
-        },
-        {
-          "title": "Next.js新动向",
-          "summary": "Next.js或将支持AI生成UI",
-          "detail": "社区发现Next.js官方在招聘AI相关工程师，加上Vercel近期动作，推测可能很快会加入AI自动生成UI功能。",
-          "usage": "你们看Next.js最新招聘了吗？感觉他们是要把AI直接集成到框架里啊，以后写UI会不会变成动动嘴就生成代码了？",
+          "title": "AI写作业神器",
+          "summary": "学生用AI写作业引热议",
+          "detail": "最近一款能自动生成作业答案的AI工具在中小学生中流行，教育局已发通知要求学校加强监管。专家提醒这会影响孩子独立思考能力。",
+          "usage": "现在小孩写作业都用AI了，我们那会儿还得自己动脑子。不过这样下去他们会不会连字都写不利索了？",
           "source": "",
           "tags": [
-            "React",
+            "教育",
             "AI"
           ]
-        }
-      ]
-    },
-    {
-      "name": "React Native",
-      "icon": "📱",
-      "items": [
+        },
         {
-          "title": "RN新架构进展",
-          "summary": "Fabric架构大范围落地",
-          "detail": "Meta最新报告显示，Facebook移动端已有超过80%的组件采用New Architecture，性能提升显著。",
-          "usage": "你们项目升级New Architecture没？听说升级后启动时间能缩短1/4，就是迁移成本有点高啊！",
+          "title": "油价又涨",
+          "summary": "国内油价迎来年内第9涨",
+          "detail": "11月25日24时起，国内汽、柴油价格每吨分别提高200元和190元。这是今年第9次油价上调，92号汽油重回8元时代。",
+          "usage": "今天加油又贵了，看来以后得改骑共享单车上班了。你们单位有班车吗？",
           "source": "",
           "tags": [
-            "性能优化",
-            "跨平台"
-          ]
-        },
-        {
-          "title": "RN热更新替代方案",
-          "summary": "社区推出新型热更新方案",
-          "detail": "开源项目SuperHot推出RN热更新新方案，号称比CodePush更快更稳定，已在多个大型App中验证。",
-          "usage": "又被AppStore审核卡住了？试试SuperHot吧，听说他们这个热更新方案能绕过审核直接生效，简直黑科技！",
-          "source": "https://github.com/obra/superpowers",
-          "tags": [
-            "热更新",
-            "性能"
+            "油价",
+            "生活成本"
           ]
         }
       ]
     },
     {
-      "name": "AI编程",
-      "icon": "🤖",
+      "name": "亲子时光",
+      "icon": "👨‍👧",
       "items": [
         {
-          "title": "Cursor插件爆发",
-          "summary": "AI编程助手插件生态形成",
-          "detail": "Cursor编辑器官方插件仓库已有超过200个插件，覆盖从代码生成到调试全流程，形成完整AI编程生态。",
-          "usage": "你们用Cursor写代码吗？最近插件市场太疯狂了，连自动写单元测试的插件都有，AI这是要取代QA啊！",
-          "source": "https://github.com/cursor/plugins",
-          "tags": [
-            "AI",
-            "效率工具"
-          ]
-        },
-        {
-          "title": "训小模型热潮",
-          "summary": "两小时训出64M模型",
-          "detail": "开源项目minimind走红，只需2小时就能在笔记本上训练小型LLM，引发个人定制模型热潮。",
-          "usage": "看到那个minimind项目没？现在人人都能训自己的小模型了，感觉以后面试要问'你训过什么模型'了！",
-          "source": "https://github.com/jingyaogong/minimind",
-          "tags": [
-            "机器学习",
-            "开源"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "TS & JS",
-      "icon": "📘",
-      "items": [
-        {
-          "title": "Bun新版本",
-          "summary": "Bun运行时性能再提升",
-          "detail": "Bun 2.0发布，HTTP服务器性能提升30%，与Node.js的兼容性达到95%，引发社区热议。",
-          "usage": "你们项目考虑用Bun替代Node了吗？听说2.0版本已经能跑Next.js了，启动速度快得飞起！",
+          "title": "树叶贴画",
+          "summary": "用落叶做创意手工",
+          "detail": "最近正是落叶季，收集不同形状的树叶可以和孩子一起制作创意贴画，既亲近自然又锻炼动手能力。",
+          "usage": "周末带妞妞去公园捡了好多漂亮叶子，回来做了个小鹿贴画，她可开心了。你们家孩子喜欢做手工吗？",
           "source": "",
           "tags": [
-            "运行时",
-            "性能"
+            "手工",
+            "亲子活动"
           ]
         },
         {
-          "title": "TS5.5特性前瞻",
-          "summary": "类型系统重大改进",
-          "detail": "TypeScript团队透露5.5版本将引入全新控制流分析，能自动推断更精确的变量类型。",
-          "usage": "听说TS5.5要加入新的类型推断？终于不用手动写那么多类型保护了，写TS要变轻松了！",
+          "title": "数学桌游",
+          "summary": "最近发现一个叫'数学大冒险'的桌游特别适合一二年级孩子，在游戏中练习加减法，孩子玩得停不下来。",
+          "usage": "给妞妞买了个数学桌游，本来不爱做算术题的她现在天天缠着我玩，效果比刷题强多了。",
           "source": "",
           "tags": [
-            "TypeScript",
-            "类型系统"
+            "教育",
+            "游戏"
+          ],
+          "detail": "最近发现一个叫'数学大冒险'的桌游特别适合一二年级孩子，在游戏中练习加减法，孩子玩得停不下来。"
+        }
+      ]
+    },
+    {
+      "name": "热门影视",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "熊出没新电影",
+          "summary": "《熊出没·逆转时空》定档",
+          "detail": "《熊出没》系列最新大电影宣布将于2027年春节上映，这次加入了时空穿越元素，预告片里光头强变年轻了。",
+          "usage": "妞妞看到熊出没新电影预告可兴奋了，非说要第一个去看。你们家孩子也喜欢熊大熊二吗？",
+          "source": "",
+          "tags": [
+            "动画",
+            "电影"
+          ]
+        },
+        {
+          "title": "央视新综艺",
+          "summary": "《诗词小达人》受追捧",
+          "detail": "央视新推出的少儿诗词竞技节目《诗词小达人》收视火爆，节目用趣味方式让孩子爱上古诗词。",
+          "usage": "最近和妞妞一起看《诗词小达人》，没想到现在背诗还能这么好玩，比我们小时候死记硬背强多了。",
+          "source": "",
+          "tags": [
+            "综艺",
+            "教育"
           ]
         }
       ]
     },
     {
-      "name": "开源热门",
-      "icon": "🌟",
+      "name": "生活妙招",
+      "icon": "💡",
       "items": [
         {
-          "title": "Firecrawl爆火",
-          "summary": "一站式数据爬取API",
-          "detail": "Firecrawl项目一周暴涨900+star，提供统一API对接550+数据源，极大简化爬虫开发。",
-          "usage": "你们做数据抓取还在自己写爬虫？Firecrawl这项目太香了，一个API搞定所有数据源，省了多少事！",
-          "source": "https://github.com/firecrawl/firecrawl",
+          "title": "冰箱除味",
+          "summary": "咖啡渣妙用",
+          "detail": "晒干的咖啡渣用纱布包好放冰箱，能有效吸附异味，比专用除味剂更环保省钱。",
+          "usage": "最近发现咖啡渣放冰箱除味效果特别好，你们家有什么生活小妙招吗？",
+          "source": "",
           "tags": [
-            "爬虫",
-            "API"
+            "家居",
+            "省钱"
           ]
         },
         {
-          "title": "CLI万能工具",
-          "summary": "让任何软件支持CLI",
-          "detail": "CLI-Anything项目让各种GUI软件都能通过命令行控制，支持百款主流软件，提升自动化效率。",
-          "usage": "看到那个CLI-Anything没？连Photoshop都能命令行操作了，以后写脚本自动P图不是梦！",
-          "source": "https://github.com/HKUDS/CLI-Anything",
+          "title": "快速叠衣法",
+          "summary": "3秒叠T恤技巧",
+          "detail": "抖音上流行的3秒叠衣法：把T恤平铺，在肩膀和衣摆处各找一个点，一提一翻就叠好了。",
+          "usage": "学了个抖音上的快速叠衣法，现在收拾衣柜快多了，再也不用为叠衣服发愁了。",
+          "source": "",
           "tags": [
-            "命令行",
-            "自动化"
+            "整理",
+            "技巧"
           ]
         }
       ]
     },
     {
-      "name": "开发者梗",
-      "icon": "😄",
+      "name": "乒乓球",
+      "icon": "🏓",
       "items": [
         {
-          "title": "技术债务新解",
-          "summary": "谷歌研究AI编码分心",
-          "detail": "谷歌研究显示AI编程助手会制造新型技术债：智能体常被上下文无关代码分心，导致偏离正轨。",
-          "usage": "知道为什么用Copilot代码质量反而下降吗？谷歌最新研究说AI也会'分心'，写出一堆无关代码！",
-          "source": "https://www.infoq.cn/article/sFmubmDWkulIOTBLX0Dr?utm_source=rss&utm_medium=article",
+          "title": "王楚钦夺冠",
+          "summary": "WTT总决赛男单冠军",
+          "detail": "在刚结束的WTT法兰克福站，王楚钦4-3险胜樊振东夺冠，世界排名升至第一。",
+          "usage": "昨晚王楚钦和樊振东那场决赛太精彩了，七局大战看得我手心都出汗了。妈您看了吗？",
+          "source": "",
           "tags": [
-            "AI",
-            "代码质量"
+            "赛事",
+            "国乒"
           ]
         },
         {
-          "title": "老程序员困境",
-          "summary": "15年经验失业2年",
-          "detail": "Hacker News热帖：一位15年经验工程师分享2年失业经历，引发对年龄歧视和技术迭代的讨论。",
-          "usage": "看到那个15年经验失业2年的帖子没？太真实了，咱们这行是不是35岁就得开始考虑转行啊？",
-          "source": "https://news.ycombinator.com/item?id=50583761",
+          "title": "新胶皮推荐",
+          "summary": "红双喜狂飚9上市",
+          "detail": "红双喜最新推出的狂飚9套胶旋转更强，适合喜欢拉弧圈球的业余选手，价格比进口胶皮亲民。",
+          "usage": "听说红双喜新出的狂飚9胶皮不错，性价比高，我正考虑换这个。您用的什么胶皮？",
+          "source": "",
           "tags": [
-            "职场",
-            "程序员"
+            "装备",
+            "技术"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "健康养生",
+      "icon": "🥗",
+      "items": [
+        {
+          "title": "护眼食谱",
+          "summary": "防蓝光食物推荐",
+          "detail": "营养师推荐蓝莓、胡萝卜、菠菜等富含叶黄素的食物，能帮助缓解程序员长期面对屏幕的眼部疲劳。",
+          "usage": "最近总看代码眼睛特别累，医生建议多吃蓝莓胡萝卜，你们平时怎么护眼的？",
+          "source": "",
+          "tags": [
+            "护眼",
+            "饮食"
+          ]
+        },
+        {
+          "title": "办公室操",
+          "summary": "5分钟缓解肩颈酸痛",
+          "detail": "抖音上流行的办公室肩颈操，几个简单动作就能缓解程序员常见的肩颈问题，每个动作30秒。",
+          "usage": "发现个超简单的办公室操，每天花5分钟做做，肩膀确实没那么酸了。要不要我发给你？",
+          "source": "",
+          "tags": [
+            "运动",
+            "健康"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-24T07:04:12.564Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-11-24T20:18:03.224Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 2037,
-    "completion_tokens": 1589,
-    "total_tokens": 3626,
-    "cost_usd": 0.0021589280999999997,
-    "free": false,
-    "sources": {
-      "per_source": {
-        "hackernews": 15,
-        "reddit": 0,
-        "askhn": 8,
-        "lobsters": 10,
-        "devto": 10,
-        "v2ex": 10,
-        "juejin": 10,
-        "github": 10,
-        "qbitai": 8,
-        "infoq": 8
-      },
-      "total": 20
-    }
+    "prompt_tokens": 777,
+    "completion_tokens": 1482,
+    "total_tokens": 2259,
+    "cost_usd": 0.0017245332,
+    "free": false
   }
 }
