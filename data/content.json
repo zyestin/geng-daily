@@ -1,184 +1,199 @@
 {
   "categories": [
     {
-      "name": "时事热点",
-      "icon": "📰",
+      "name": "前端框架",
+      "icon": "🚀",
       "items": [
         {
-          "title": "AI写作业神器",
-          "summary": "学生用AI写作业引热议",
-          "detail": "最近一款能自动生成作业答案的AI工具在中小学生中流行，教育局已发通知要求学校加强监管。专家提醒这会影响孩子独立思考能力。",
-          "usage": "现在小孩写作业都用AI了，我们那会儿还得自己动脑子。不过这样下去他们会不会连字都写不利索了？",
+          "title": "Next.js 15",
+          "summary": "Next.js 15 发布，性能提升显著",
+          "detail": "Next.js 15 正式发布，带来了更快的编译速度和更好的开发体验，特别是在大型项目中的表现尤为突出。",
+          "usage": "听说 Next.js 15 发布了，你们项目升级了吗？据说编译速度快了不少，不知道实际体验如何。",
           "source": "",
           "tags": [
-            "教育",
-            "AI"
+            "Next.js",
+            "前端"
           ]
         },
         {
-          "title": "油价又涨",
-          "summary": "国内油价迎来年内第9涨",
-          "detail": "11月25日24时起，国内汽、柴油价格每吨分别提高200元和190元。这是今年第9次油价上调，92号汽油重回8元时代。",
-          "usage": "今天加油又贵了，看来以后得改骑共享单车上班了。你们单位有班车吗？",
+          "title": "Svelte 5",
+          "summary": "Svelte 5 进入 Beta 测试",
+          "detail": "Svelte 5 已经进入 Beta 测试阶段，引入了全新的响应式系统和更简洁的语法，开发者反响热烈。",
+          "usage": "Svelte 5 的 Beta 版出来了，你们试过了吗？新响应式系统看起来挺有意思的，不知道会不会颠覆现有的开发模式。",
           "source": "",
           "tags": [
-            "油价",
-            "生活成本"
+            "Svelte",
+            "前端"
           ]
         }
       ]
     },
     {
-      "name": "亲子时光",
-      "icon": "👨‍👧",
+      "name": "React Native",
+      "icon": "📱",
       "items": [
         {
-          "title": "树叶贴画",
-          "summary": "用落叶做创意手工",
-          "detail": "最近正是落叶季，收集不同形状的树叶可以和孩子一起制作创意贴画，既亲近自然又锻炼动手能力。",
-          "usage": "周末带妞妞去公园捡了好多漂亮叶子，回来做了个小鹿贴画，她可开心了。你们家孩子喜欢做手工吗？",
+          "title": "RN 新架构",
+          "summary": "React Native 新架构 Fabric 全面落地",
+          "detail": "React Native 的新架构 Fabric 已经全面落地，性能提升显著，特别是在列表渲染和动画方面。",
+          "usage": "你们项目升级到 Fabric 架构了吗？听说列表渲染性能提升了不少，不知道实际效果如何。",
           "source": "",
           "tags": [
-            "手工",
-            "亲子活动"
+            "React Native",
+            "跨端"
           ]
         },
         {
-          "title": "数学桌游",
-          "summary": "最近发现一个叫'数学大冒险'的桌游特别适合一二年级孩子，在游戏中练习加减法，孩子玩得停不下来。",
-          "usage": "给妞妞买了个数学桌游，本来不爱做算术题的她现在天天缠着我玩，效果比刷题强多了。",
+          "title": "RN 跨端方案",
+          "summary": "React Native 跨端方案新进展",
+          "detail": "React Native 社区推出了新的跨端方案，支持更多原生模块和更好的性能优化。",
+          "usage": "最近 React Native 的跨端方案又有新进展了，你们有没有尝试过？据说支持更多原生模块了。",
           "source": "",
           "tags": [
-            "教育",
-            "游戏"
-          ],
-          "detail": "最近发现一个叫'数学大冒险'的桌游特别适合一二年级孩子，在游戏中练习加减法，孩子玩得停不下来。"
-        }
-      ]
-    },
-    {
-      "name": "热门影视",
-      "icon": "🎬",
-      "items": [
-        {
-          "title": "熊出没新电影",
-          "summary": "《熊出没·逆转时空》定档",
-          "detail": "《熊出没》系列最新大电影宣布将于2027年春节上映，这次加入了时空穿越元素，预告片里光头强变年轻了。",
-          "usage": "妞妞看到熊出没新电影预告可兴奋了，非说要第一个去看。你们家孩子也喜欢熊大熊二吗？",
-          "source": "",
-          "tags": [
-            "动画",
-            "电影"
-          ]
-        },
-        {
-          "title": "央视新综艺",
-          "summary": "《诗词小达人》受追捧",
-          "detail": "央视新推出的少儿诗词竞技节目《诗词小达人》收视火爆，节目用趣味方式让孩子爱上古诗词。",
-          "usage": "最近和妞妞一起看《诗词小达人》，没想到现在背诗还能这么好玩，比我们小时候死记硬背强多了。",
-          "source": "",
-          "tags": [
-            "综艺",
-            "教育"
+            "React Native",
+            "跨端"
           ]
         }
       ]
     },
     {
-      "name": "生活妙招",
-      "icon": "💡",
+      "name": "AI编程",
+      "icon": "🤖",
       "items": [
         {
-          "title": "冰箱除味",
-          "summary": "咖啡渣妙用",
-          "detail": "晒干的咖啡渣用纱布包好放冰箱，能有效吸附异味，比专用除味剂更环保省钱。",
-          "usage": "最近发现咖啡渣放冰箱除味效果特别好，你们家有什么生活小妙招吗？",
-          "source": "",
+          "title": "Cursor 插件",
+          "summary": "Cursor 发布官方插件规范",
+          "detail": "Cursor 发布了官方插件规范，允许开发者为其 AI 编程助手开发自定义插件，扩展功能。",
+          "usage": "Cursor 出了官方插件规范，你们有没有开发什么有趣的插件？感觉可以玩出不少花样。",
+          "source": "https://github.com/cursor/plugins",
           "tags": [
-            "家居",
-            "省钱"
+            "AI",
+            "编程"
           ]
         },
         {
-          "title": "快速叠衣法",
-          "summary": "3秒叠T恤技巧",
-          "detail": "抖音上流行的3秒叠衣法：把T恤平铺，在肩膀和衣摆处各找一个点，一提一翻就叠好了。",
-          "usage": "学了个抖音上的快速叠衣法，现在收拾衣柜快多了，再也不用为叠衣服发愁了。",
+          "title": "AI 生成UI",
+          "summary": "AI 生成 UI 工具新突破",
+          "detail": "最新的 AI 生成 UI 工具可以根据自然语言描述快速生成前端代码，大大提升了开发效率。",
+          "usage": "最近 AI 生成 UI 的工具越来越厉害了，你们有用过吗？据说能根据描述直接生成代码，不知道效果如何。",
           "source": "",
           "tags": [
-            "整理",
-            "技巧"
+            "AI",
+            "UI"
           ]
         }
       ]
     },
     {
-      "name": "乒乓球",
-      "icon": "🏓",
+      "name": "TS & JS",
+      "icon": "📘",
       "items": [
         {
-          "title": "王楚钦夺冠",
-          "summary": "WTT总决赛男单冠军",
-          "detail": "在刚结束的WTT法兰克福站，王楚钦4-3险胜樊振东夺冠，世界排名升至第一。",
-          "usage": "昨晚王楚钦和樊振东那场决赛太精彩了，七局大战看得我手心都出汗了。妈您看了吗？",
+          "title": "TS 5.5",
+          "summary": "TypeScript 5.5 发布",
+          "detail": "TypeScript 5.5 正式发布，引入了新的类型推断和改进的错误提示，提升了开发体验。",
+          "usage": "TypeScript 5.5 发布了，你们升级了吗？新版本的类型推断好像更智能了。",
           "source": "",
           "tags": [
-            "赛事",
-            "国乒"
+            "TypeScript",
+            "前端"
           ]
         },
         {
-          "title": "新胶皮推荐",
-          "summary": "红双喜狂飚9上市",
-          "detail": "红双喜最新推出的狂飚9套胶旋转更强，适合喜欢拉弧圈球的业余选手，价格比进口胶皮亲民。",
-          "usage": "听说红双喜新出的狂飚9胶皮不错，性价比高，我正考虑换这个。您用的什么胶皮？",
+          "title": "Bun 2.0",
+          "summary": "Bun 2.0 发布，性能再提升",
+          "detail": "Bun 2.0 发布，进一步优化了 JavaScript 运行时的性能，特别是在模块加载和启动时间上。",
+          "usage": "Bun 2.0 出来了，你们试过了吗？据说启动时间又缩短了不少，不知道实际效果如何。",
           "source": "",
           "tags": [
-            "装备",
-            "技术"
+            "Bun",
+            "JavaScript"
           ]
         }
       ]
     },
     {
-      "name": "健康养生",
-      "icon": "🥗",
+      "name": "开源热门",
+      "icon": "🌟",
       "items": [
         {
-          "title": "护眼食谱",
-          "summary": "防蓝光食物推荐",
-          "detail": "营养师推荐蓝莓、胡萝卜、菠菜等富含叶黄素的食物，能帮助缓解程序员长期面对屏幕的眼部疲劳。",
-          "usage": "最近总看代码眼睛特别累，医生建议多吃蓝莓胡萝卜，你们平时怎么护眼的？",
-          "source": "",
+          "title": "CLI-Anything",
+          "summary": "CLI-Anything 让所有软件支持 CLI",
+          "detail": "CLI-Anything 是一个开源项目，旨在让所有软件都能通过命令行接口（CLI）进行操作，提升自动化能力。",
+          "usage": "看到 CLI-Anything 这个项目了吗？感觉挺有意思的，可以让所有软件都支持 CLI，不知道实际用起来怎么样。",
+          "source": "https://github.com/HKUDS/CLI-Anything",
           "tags": [
-            "护眼",
-            "饮食"
+            "CLI",
+            "开源"
           ]
         },
         {
-          "title": "办公室操",
-          "summary": "5分钟缓解肩颈酸痛",
-          "detail": "抖音上流行的办公室肩颈操，几个简单动作就能缓解程序员常见的肩颈问题，每个动作30秒。",
-          "usage": "发现个超简单的办公室操，每天花5分钟做做，肩膀确实没那么酸了。要不要我发给你？",
-          "source": "",
+          "title": "superpowers",
+          "summary": "superpowers 框架发布",
+          "detail": "superpowers 是一个新的技能框架和软件开发方法论，旨在提升开发者的生产力和代码质量。",
+          "usage": "superpowers 这个框架你们听说过吗？据说能提升开发效率，不知道有没有人试过。",
+          "source": "https://github.com/obra/superpowers",
           "tags": [
-            "运动",
-            "健康"
+            "框架",
+            "开源"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "失业两年",
+          "summary": "15 年经验开发者失业两年",
+          "detail": "一位有 15 年经验的开发者在 HN 上发帖，称自己已经失业两年，引发了广泛讨论。",
+          "usage": "看到那个 HN 上的帖子了吗？一个 15 年经验的开发者失业两年了，感觉现在市场真的挺难的。",
+          "source": "https://news.ycombinator.com/item?id=50583761",
+          "tags": [
+            "职场",
+            "开发者"
+          ]
+        },
+        {
+          "title": "AI 蒸馏指控",
+          "summary": "Anthropic 指控公司 AI 蒸馏",
+          "detail": "Anthropic 指控一家公司使用其 AI 模型进行蒸馏，引发了关于 AI 模型使用和版权的讨论。",
+          "usage": "看到 Anthropic 指控那家公司 AI 蒸馏的新闻了吗？感觉 AI 版权问题越来越复杂了。",
+          "source": "https://news.ycombinator.com/item?id=50630809",
+          "tags": [
+            "AI",
+            "版权"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-24T20:18:03.224Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-25T05:38:07.907Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 777,
-    "completion_tokens": 1482,
-    "total_tokens": 2259,
-    "cost_usd": 0.0017245332,
-    "free": false
+    "prompt_tokens": 2099,
+    "completion_tokens": 1487,
+    "total_tokens": 3586,
+    "cost_usd": 0.0020699595000000003,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
   }
 }

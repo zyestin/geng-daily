@@ -1,0 +1,199 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Next.js 15",
+          "summary": "Next.js 15 发布，性能提升显著",
+          "detail": "Next.js 15 正式发布，带来了更快的编译速度和更好的开发体验，特别是在大型项目中的表现尤为突出。",
+          "usage": "听说 Next.js 15 发布了，你们项目升级了吗？据说编译速度快了不少，不知道实际体验如何。",
+          "source": "",
+          "tags": [
+            "Next.js",
+            "前端"
+          ]
+        },
+        {
+          "title": "Svelte 5",
+          "summary": "Svelte 5 进入 Beta 测试",
+          "detail": "Svelte 5 已经进入 Beta 测试阶段，引入了全新的响应式系统和更简洁的语法，开发者反响热烈。",
+          "usage": "Svelte 5 的 Beta 版出来了，你们试过了吗？新响应式系统看起来挺有意思的，不知道会不会颠覆现有的开发模式。",
+          "source": "",
+          "tags": [
+            "Svelte",
+            "前端"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN 新架构",
+          "summary": "React Native 新架构 Fabric 全面落地",
+          "detail": "React Native 的新架构 Fabric 已经全面落地，性能提升显著，特别是在列表渲染和动画方面。",
+          "usage": "你们项目升级到 Fabric 架构了吗？听说列表渲染性能提升了不少，不知道实际效果如何。",
+          "source": "",
+          "tags": [
+            "React Native",
+            "跨端"
+          ]
+        },
+        {
+          "title": "RN 跨端方案",
+          "summary": "React Native 跨端方案新进展",
+          "detail": "React Native 社区推出了新的跨端方案，支持更多原生模块和更好的性能优化。",
+          "usage": "最近 React Native 的跨端方案又有新进展了，你们有没有尝试过？据说支持更多原生模块了。",
+          "source": "",
+          "tags": [
+            "React Native",
+            "跨端"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "Cursor 插件",
+          "summary": "Cursor 发布官方插件规范",
+          "detail": "Cursor 发布了官方插件规范，允许开发者为其 AI 编程助手开发自定义插件，扩展功能。",
+          "usage": "Cursor 出了官方插件规范，你们有没有开发什么有趣的插件？感觉可以玩出不少花样。",
+          "source": "https://github.com/cursor/plugins",
+          "tags": [
+            "AI",
+            "编程"
+          ]
+        },
+        {
+          "title": "AI 生成UI",
+          "summary": "AI 生成 UI 工具新突破",
+          "detail": "最新的 AI 生成 UI 工具可以根据自然语言描述快速生成前端代码，大大提升了开发效率。",
+          "usage": "最近 AI 生成 UI 的工具越来越厉害了，你们有用过吗？据说能根据描述直接生成代码，不知道效果如何。",
+          "source": "",
+          "tags": [
+            "AI",
+            "UI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "TS 5.5",
+          "summary": "TypeScript 5.5 发布",
+          "detail": "TypeScript 5.5 正式发布，引入了新的类型推断和改进的错误提示，提升了开发体验。",
+          "usage": "TypeScript 5.5 发布了，你们升级了吗？新版本的类型推断好像更智能了。",
+          "source": "",
+          "tags": [
+            "TypeScript",
+            "前端"
+          ]
+        },
+        {
+          "title": "Bun 2.0",
+          "summary": "Bun 2.0 发布，性能再提升",
+          "detail": "Bun 2.0 发布，进一步优化了 JavaScript 运行时的性能，特别是在模块加载和启动时间上。",
+          "usage": "Bun 2.0 出来了，你们试过了吗？据说启动时间又缩短了不少，不知道实际效果如何。",
+          "source": "",
+          "tags": [
+            "Bun",
+            "JavaScript"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "CLI-Anything",
+          "summary": "CLI-Anything 让所有软件支持 CLI",
+          "detail": "CLI-Anything 是一个开源项目，旨在让所有软件都能通过命令行接口（CLI）进行操作，提升自动化能力。",
+          "usage": "看到 CLI-Anything 这个项目了吗？感觉挺有意思的，可以让所有软件都支持 CLI，不知道实际用起来怎么样。",
+          "source": "https://github.com/HKUDS/CLI-Anything",
+          "tags": [
+            "CLI",
+            "开源"
+          ]
+        },
+        {
+          "title": "superpowers",
+          "summary": "superpowers 框架发布",
+          "detail": "superpowers 是一个新的技能框架和软件开发方法论，旨在提升开发者的生产力和代码质量。",
+          "usage": "superpowers 这个框架你们听说过吗？据说能提升开发效率，不知道有没有人试过。",
+          "source": "https://github.com/obra/superpowers",
+          "tags": [
+            "框架",
+            "开源"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "失业两年",
+          "summary": "15 年经验开发者失业两年",
+          "detail": "一位有 15 年经验的开发者在 HN 上发帖，称自己已经失业两年，引发了广泛讨论。",
+          "usage": "看到那个 HN 上的帖子了吗？一个 15 年经验的开发者失业两年了，感觉现在市场真的挺难的。",
+          "source": "https://news.ycombinator.com/item?id=50583761",
+          "tags": [
+            "职场",
+            "开发者"
+          ]
+        },
+        {
+          "title": "AI 蒸馏指控",
+          "summary": "Anthropic 指控公司 AI 蒸馏",
+          "detail": "Anthropic 指控一家公司使用其 AI 模型进行蒸馏，引发了关于 AI 模型使用和版权的讨论。",
+          "usage": "看到 Anthropic 指控那家公司 AI 蒸馏的新闻了吗？感觉 AI 版权问题越来越复杂了。",
+          "source": "https://news.ycombinator.com/item?id=50630809",
+          "tags": [
+            "AI",
+            "版权"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-25T05:38:07.907Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2099,
+    "completion_tokens": 1487,
+    "total_tokens": 3586,
+    "cost_usd": 0.0020699595000000003,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}

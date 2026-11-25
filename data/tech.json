@@ -5,27 +5,117 @@
       "icon": "📰",
       "items": [
         {
-          "title": "黄仁勋复职风波",
-          "summary": "中方回应黄仁勋复职事件",
-          "detail": "英伟达CEO黄仁勋突然复职引发热议，中方官方回应称\"企业人事变动属正常商业行为\"。网友调侃：这波操作比RTX4090还难抢，建议老黄下次复职直接开个线上发布会。",
-          "usage": "💡 同事聊显卡涨价时切入\n💬 黄仁勋这复职速度比显卡降价还快\n🔥 英伟达 黄仁勋 复职",
-          "source": "https://www.toutiao.com/trending/7711268741400497707/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227711268741400497707%22%2C%22hot_board_impr_id%22%3A%2220261125042450900128B45A5B89BAEE60%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C%22%7D&rank=&style_id=40132&topic_id=7711268741400497707",
-          "tags": [
-            "英伟达",
-            "CEO",
-            "人事变动"
-          ]
-        },
-        {
-          "title": "神舟二十四号",
-          "summary": "中国航天任务看点拉满",
-          "detail": "神舟二十四号任务细节曝光，将首次实现航天员在轨轮换和空间站舱段转位。网友：这波操作堪比太空版《变形金刚》，建议下次直播时可以卖太空育种蔬菜盲盒。",
-          "usage": "💡 聊太空探索时切入\n💬 中国航天现在搞的是太空版滴滴代驾\n🔥 神舟 航天 空间站",
-          "source": "https://www.toutiao.com/trending/7711707226997591603/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227711707226997591603%22%2C%22hot_board_impr_id%22%3A%2220261125042450900128B45A5B89BAEE60%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E4%BB%BB%E5%8A%A1%E7%9C%8B%E7%82%B9%E6%8B%89%E6%BB%A1%22%7D&rank=&style_id=40132&topic_id=7711707226997591603",
+          "title": "神24画龙",
+          "summary": "神舟二十四号在天上画巨龙",
+          "detail": "神舟二十四号发射成功后，航天员在太空中进行了特殊操作，轨迹显示出一条巨龙图案，巴基斯坦航天界全程围观直播，直呼中国航天太会整活。",
+          "usage": "💡 午休时聊太空趣闻\n💬 中国航天员在太空画龙，巴基斯坦网友：这是东方神秘力量？\n🔥 神舟二十四号 太空画龙 巴基斯坦围观",
+          "source": "https://m.baidu.com/s?word=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%9C%A8%E5%A4%A9%E4%B8%8A%E2%80%9C%E7%94%BB%E4%BA%86%E6%9D%A1%E5%B7%A8%E9%BE%99%E2%80%9D&sa=fyb_news",
           "tags": [
             "航天",
             "神舟",
-            "空间站"
+            "太空艺术"
+          ]
+        },
+        {
+          "title": "白宫买显卡",
+          "summary": "美国考虑入股英伟达",
+          "detail": "白宫被曝正在考虑入股英伟达，说要保障AI算力安全。黄仁勋刚被董事会请回来就遇到这事，网友吐槽：这波是自由市场最后的遮羞布也被扯掉了。",
+          "usage": "💡 摸鱼时聊科技政策\n💬 美国要当英伟达股东？黄仁勋：那我是不是得去华盛顿述职？\n🔥 英伟达 白宫入股 AI算力",
+          "source": "https://www.huxiu.com/article/4908306.html?f=rss",
+          "tags": [
+            "英伟达",
+            "美国政府",
+            "AI芯片"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "老黄二进宫",
+          "summary": "黄仁勋重返英伟达",
+          "detail": "英伟达董事会全票请回黄仁勋，距离上次说'绝不让他回来'才过去6天。网友辣评：这反转速度比RTX4090的显存还快。",
+          "usage": "💡 茶水间聊大佬八卦\n💬 英伟达董事会：我们就是玩个欲擒故纵.jpg\n🔥 黄仁勋 英伟达 董事会闹剧",
+          "source": "https://www.huxiu.com/article/4908306.html?f=rss",
+          "tags": [
+            "黄仁勋",
+            "英伟达",
+            "爽文剧情"
+          ]
+        },
+        {
+          "title": "特朗普想中餐",
+          "summary": "特朗普怀念中国菜",
+          "detail": "特朗普在最新采访中表示对某道中国菜念念不忘，但拒绝透露具体菜名，只说'上面有个漂亮的帽子'。网友连夜排查：到底是狮子头还是佛跳墙？",
+          "usage": "💡 午饭时配餐谈资\n💬 特朗普的美食雷达：漂亮帽子≈青椒盖浇饭？\n🔥 特朗普 中国菜 美食谜题",
+          "source": "https://www.toutiao.com/trending/7711748591529869375/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227711748591529869375%22%2C%22hot_board_impr_id%22%3A%2220261125133808DA97F0B71C7B44AD38EB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%B8%80%E9%81%93%E4%B8%AD%E5%9B%BD%E8%8F%9C%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%22%7D&rank=&style_id=40132&topic_id=7711748591529869375",
+          "tags": [
+            "特朗普",
+            "美食",
+            "文化输出"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "豆包变抖音",
+          "summary": "豆包内置抖音购物",
+          "detail": "字节跳动把抖音商城缝进了豆包App侧边栏，现在打开AI助手就能直接剁手。网友吐槽：以后问'明天天气如何'，AI可能先给你推防晒霜。",
+          "usage": "💡 聊App生态时用\n💬 豆包这波更新：AI助手→带货主播\n🔥 字节跳动 豆包 抖音电商",
+          "source": "https://www.huxiu.com/article/4908303.html?f=rss",
+          "tags": [
+            "字节跳动",
+            "豆包",
+            "流量变现"
+          ]
+        },
+        {
+          "title": "携程画大饼",
+          "summary": "携程澳洲讲出海故事",
+          "detail": "携程在悉尼发布会抛出'五年服务2亿人'的豪言，转头就被发现营销费用季度狂烧38亿。围观群众：这饼画得比悉尼歌剧院还大。",
+          "usage": "💡 聊互联网烧钱时\n💬 携程的澳洲梦：每拉新一个用户要请吃19顿龙虾？\n🔥 携程 出海战略 烧钱营销",
+          "source": "https://www.huxiu.com/article/4908308.html?f=rss",
+          "tags": [
+            "携程",
+            "出海",
+            "财报翻车"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "缝纫机裁人",
+          "summary": "杰克科技转型机器人",
+          "detail": "全球缝纫机巨头杰克科技宣布大规模裁员，创始人直言'年轻人不愿进厂'。没想到评论区都在问：所以你们要改行造变形金刚了？",
+          "usage": "💡 聊制造业困境时\n💬 缝纫机厂也玩机械飞升？下次发布会该叫《变缝记》\n🔥 杰克科技 制造业 机器人转型",
+          "source": "https://www.huxiu.com/article/4906047.html?f=rss",
+          "tags": [
+            "制造业",
+            "裁员",
+            "自动化"
+          ]
+        },
+        {
+          "title": "金锣易主",
+          "summary": "火腿肠大王退场",
+          "detail": "曾靠'比一比尝一尝'洗脑全国的金锣集团即将易主，创始人被曝已在办理交接手续。80后集体破防：我们的童年跟着火腿肠一起过期了。",
+          "usage": "💡 聊快消品变迁时\n💬 金锣退场：再也没人告诉我哪根火腿肠更Q弹了\n🔥 金锣 火腿肠 时代眼泪",
+          "source": "https://www.huxiu.com/article/4908295.html?f=rss",
+          "tags": [
+            "食品行业",
+            "老牌企业",
+            "时代变迁"
           ]
         }
       ]
@@ -35,44 +125,141 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "登月新进展",
-          "summary": "中国载人登月时间表公布",
-          "detail": "中国航天科技集团公布载人登月计划时间表，预计2030年前实现中国人首次登月。网友：建议届时直播带货月球特产，比如嫦娥同款月饼。",
-          "usage": "💡 聊太空探索时切入\n💬 中国航天这是要开启月球房地产了\n🔥 登月 航天 中国",
-          "source": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%99%BB%E6%9C%88%E5%8F%88%E8%BF%91%E4%B8%80%E6%AD%A5&sa=fyb_news",
+          "title": "树坚强看火箭",
+          "summary": "神箭发射现场现奇观",
+          "detail": "神二十四发射时，一棵被戏称'树坚强'的枯树因正好位于观看区C位意外走红。航天爱好者：这棵树比我先实现了太空梦。",
+          "usage": "💡 聊航天花絮时\n💬 建议给这棵树发个'最佳观景位'VIP证书\n🔥 神舟发射 树坚强 航天趣闻",
+          "source": "https://www.toutiao.com/trending/7711945239280009779/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227711945239280009779%22%2C%22hot_board_impr_id%22%3A%2220261125133808DA97F0B71C7B44AD38EB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%A0%91%E5%9D%9A%E5%BC%BA%E5%89%8D%E6%8E%92%E7%9C%8B%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%22%7D&rank=&style_id=40132&topic_id=7711945239280009779",
           "tags": [
-            "登月",
             "航天",
-            "中国"
+            "发射现场",
+            "网红树"
+          ]
+        },
+        {
+          "title": "AI造假鸟",
+          "summary": "AI生成万只假鸟",
+          "detail": "某开源AI模型用10亿Token生成上万种不存在的鸟类，观鸟App惨遭污染。生物学家怒斥：这让达尔文的棺材板都压不住了！",
+          "usage": "💡 聊AI伦理时\n💬 AI创造的新物种：五彩企鹅会是一种饺子馅吗\n🔥 AI生成 伪科学 数据污染",
+          "source": "https://www.huxiu.com/article/4908310.html?f=rss",
+          "tags": [
+            "AI生成",
+            "数据造假",
+            "科学伦理"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "割草机被告",
+          "summary": "中国割草机遭反倾销",
+          "detail": "欧洲割草机厂富世华指控中国企业倾销机器人割草机，理由竟是'你们成本太低'。网友：下次是不是要说中国功夫违反牛顿定律？",
+          "usage": "💡 聊贸易战时\n💬 欧洲厂商最新逻辑：价格低=倾销=违法\n🔥 机器人割草机 反倾销 国际贸易",
+          "source": "https://www.huxiu.com/article/4908314.html?f=rss",
+          "tags": [
+            "机器人",
+            "贸易战",
+            "制造业"
+          ]
+        },
+        {
+          "title": "爸妈爱豆包",
+          "summary": "豆包成国民级应用",
+          "detail": "最新数据显示，豆包已经成功打入中老年市场，成为父母辈最常用的AI应用。年轻人惊呼：原来教会爸妈用智能手机是为今天埋伏笔！",
+          "usage": "💡 聊AI普及时\n💬 当你妈开始用AI查菜谱时，就知道时代真的变了\n🔥 豆包 中老年市场 AI普及",
+          "source": "https://www.huxiu.com/article/4908301.html?f=rss",
+          "tags": [
+            "AI应用",
+            "银发经济",
+            "字节跳动"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "道士杀疯了",
+          "summary": "中国驱魔师攻占欧美",
+          "detail": "中国团队制作的AI短剧中，道士驱魔师横扫欧美市场，梵蒂冈剧情都被碾压。网友：这波文化反向输出比熊猫外交还猛。",
+          "usage": "💡 聊内容出海时\n💬 建议下一部拍《道士下山之暴打撒旦》\n🔥 AI短剧 文化输出 驱魔师",
+          "source": "https://www.huxiu.com/article/4908294.html?f=rss",
+          "tags": [
+            "短剧",
+            "AI创作",
+            "文化输出"
+          ]
+        },
+        {
+          "title": "郎永淳创业",
+          "summary": "前央视主播近况曝光",
+          "detail": "郎永淳离开央视后创业做知识付费，被曝已做到细分领域TOP3。网友：当年播新闻的严肃脸，现在天天在直播间喊'家人们'。",
+          "usage": "💡 聊媒体人转型时\n💬 从《新闻联播》到'双击666'的奇幻漂流\n🔥 郎永淳 创业 知识付费",
+          "source": "https://m.baidu.com/s?word=%E9%83%8E%E6%B0%B8%E6%B7%B3%E7%A6%BB%E5%BC%80%E5%A4%AE%E8%A7%86%E5%88%9B%E4%B8%9A%E5%90%8E%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86&sa=fyb_news",
+          "tags": [
+            "媒体人",
+            "转型",
+            "知识付费"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "币圈风云",
+      "icon": "🪙",
+      "items": [
+        {
+          "title": "NYT区块链梦碎",
+          "summary": "纽约时报被嘲落伍",
+          "detail": "175岁的《纽约时报》最新区块链项目遇冷，被硅谷新锐媒体嘲笑技术落后二十年。网友：建议他们先学会用扫码点餐再谈Web3。",
+          "usage": "💡 聊传统媒体转型时\n💬 纽约时报的区块链，像极了你爸学用智能手机的样子\n🔥 纽约时报 区块链 媒体转型",
+          "source": "https://www.huxiu.com/article/4908313.html?f=rss",
+          "tags": [
+            "区块链",
+            "传统媒体",
+            "代际落差"
+          ]
+        },
+        {
+          "title": "AI越界谁买单",
+          "summary": "AI法律空白引担忧",
+          "detail": "最新AI侵权案例显示，当AI擅自使用名人形象时，平台、开发者、用户竟找不到明确的责任方。律师吐槽：机器人三定律该更新了。",
+          "usage": "💡 聊AI监管时\n💬 建议AI犯罪后先没收它的显卡\n🔥 AI伦理 法律空白 侵权责任",
+          "source": "https://www.huxiu.com/article/4908297.html?f=rss",
+          "tags": [
+            "AI伦理",
+            "法律",
+            "技术风险"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-24T20:28:43.222Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-25T05:39:29.365Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 4503,
-    "completion_tokens": 3175,
-    "total_tokens": 7678,
-    "cost_usd": 0.0044251947,
+    "prompt_tokens": 5902,
+    "completion_tokens": 3658,
+    "total_tokens": 9560,
+    "cost_usd": 0.0052821594,
     "free": false,
-    "quality": {
-      "degraded": true,
-      "dropped_orphans": 13,
-      "published": 3
-    },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 5,
+        "huxiu": 12,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 16
+      "total": 24
     }
   }
 }
