@@ -5,27 +5,27 @@
       "icon": "💥",
       "items": [
         {
-          "title": "GPT-6会设计蛋白质了",
+          "title": "AI能设计蛋白质了",
           "summary": "GPT-6展示蛋白质设计能力",
-          "detail": "OpenAI官方宣布GPT-6模型展现出蛋白质结构设计能力，实验室测试证实其能通过推理和代码生成功能性蛋白质序列。这意味着AI开始跨界颠覆生物医药领域——以后制药公司的研发流程可能是：科学家提需求，GPT-6出设计方案，机器人实验室做验证。",
-          "usage": "💡 聊AI跨界颠覆传统行业时\n💬 生物PhD要转行prompt engineering了？GPT-6现在连蛋白质都会设计了\n🔥 GPT-6 蛋白质设计 生物医药",
+          "detail": "OpenAI官方宣布GPT-6模型已具备蛋白质结构设计能力，实验室测试显示其设计的蛋白质序列具有功能性。这意味着AI可能彻底改变生物医药研发流程——以前科学家要花几个月试错，现在AI几分钟就能生成可行方案。",
+          "usage": "💡 生物医药领域突破\n💬 以后药厂招人可能要改考Prompt工程了\n🔥 GPT-6 蛋白质设计 生物医药",
           "source": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
           "tags": [
-            "GPT-6",
-            "生物医药",
-            "跨界"
+            "OpenAI",
+            "生物科技",
+            "GPT-6"
           ]
         },
         {
-          "title": "Anthropic股价破发",
-          "summary": "Anthropic跌破发行价",
-          "detail": "上市不久的Anthropic股价跌破发行价，给AI初创公司估值敲响警钟。对比半年前投资人抢着送钱的盛况，现在市场开始质疑：当OpenAI和谷歌都在疯狂迭代大模型时，第二梯队的玩家到底值不值这个价？",
-          "usage": "💡 聊AI公司估值泡沫时\n💬 投资人：当初抢着给Anthropic送钱，现在连夜删聊天记录\n🔥 Anthropic 破发 AI估值",
-          "source": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+          "title": "AI玩具禁令",
+          "summary": "纽约禁售AI聊天玩具5年",
+          "detail": "纽约州立法禁止销售AI聊天机器人玩具，禁令将持续5年。这是首个针对儿童AI产品的立法禁令，Common Sense Media的研究显示这类产品可能对儿童心理发展造成不可逆影响。",
+          "usage": "💡 AI伦理与监管话题\n💬 这下电子宠物也要持证上岗了\n🔥 AI玩具 儿童保护 监管禁令",
+          "source": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
           "tags": [
-            "Anthropic",
-            "IPO",
-            "估值"
+            "监管",
+            "儿童AI",
+            "伦理"
           ]
         }
       ]
@@ -35,27 +35,27 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "GPT-6.1 Sol落地客服",
-          "summary": "GPT-6.1 Sol实现50%客服自动化",
-          "detail": "Richpanel客户案例显示，接入GPT-6.1 Sol的客服系统30天内实现50%问题自动解决。对比需要专门训练的旧方案，新版直接理解企业知识库——甲方IT部门终于不用熬夜标注数据了。",
-          "usage": "💡 聊AI落地场景时\n💬 客服培训手册可以扔了，GPT-6.1直接啃公司wiki就能上岗\n🔥 GPT-6.1 客服自动化 Richpanel",
-          "source": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+          "title": "商汤U1.6惊艳",
+          "summary": "商汤AI模型以假乱真",
+          "detail": "商汤发布SenseNova U1.6模型，生成的图片质量已达到专业摄影水平。量子位记者实测发现，其生成的风景照片在社交媒体上被大量误认为实拍。",
+          "usage": "💡 图像生成领域进展\n💬 以后朋友圈晒图要先声明是AI生成了\n🔥 商汤 SenseNova 图像生成",
+          "source": "https://www.qbitai.com/2026/11/512748.html",
           "tags": [
-            "GPT-6.1",
-            "客服",
-            "自动化"
+            "商汤",
+            "图像生成",
+            "SenseNova"
           ]
         },
         {
-          "title": "Shirudo开源",
-          "summary": "OpenAI联手思科推安全运行时",
-          "detail": "OpenAI与思科推出开源运行时Shirudo，专为Linux环境设计防护机制。这相当于给AI应用套上防弹衣——既防外部攻击，也防模型自己抽风。开发者：终于不用在代码里疯狂加try-catch了。",
-          "usage": "💡 聊AI安全时\n💬 思科给AI造了个沙盒，以后模型闯祸至少不会炸了整个服务器\n🔥 Shirudo 运行时安全 思科",
-          "source": "https://openai.com/index/introducing-shirudo",
+          "title": "Loop架构突破",
+          "summary": "9400万参数比肩50亿",
+          "detail": "某中国团队开发的General Looped Model架构仅用9400万参数就实现了媲美50亿参数模型的性能，权重显存占用直降98%。这意味着小模型也能有大智慧，边缘设备AI应用将迎来爆发。",
+          "usage": "💡 模型压缩技术突破\n💬 这波属于是AI届的'四两拨千斤'\n🔥 模型压缩 Loop架构 边缘计算",
+          "source": "https://www.qbitai.com/2026/11/512565.html",
           "tags": [
-            "Shirudo",
-            "开源",
-            "安全"
+            "模型压缩",
+            "边缘计算",
+            "中国团队"
           ]
         }
       ]
@@ -65,27 +65,27 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "黄仁勋拒绝接班人计划",
-          "summary": "老黄：接班人制度制造官僚",
-          "detail": "Nvidia全体会议上，黄仁勋坚持不设接班人计划，称这会制造不必要的层级。结合他近期接受心理治疗的新闻，网友锐评：老黄这是要把'一人公司'进行到底，建议下次董事会带个枕头去。",
-          "usage": "💡 聊科技公司治理时\n💬 老黄：设接班人？不如把我显卡拔了\n🔥 黄仁勋 接班人 Nvidia",
-          "source": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+          "title": "黄仁勋道歉",
+          "summary": "NVIDIA CEO公开接受心理治疗",
+          "detail": "NVIDIA创始人黄仁勋在全体员工大会上坦诚自己正在接受心理治疗，并感谢白宫给予第二次机会。此前NVIDIA因芯片出口问题陷入争议。",
+          "usage": "💡 科技领袖心理健康\n💬 连AI教父都要看心理医生了，大家放过自己吧\n🔥 黄仁勋 心理健康 NVIDIA",
+          "source": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
           "tags": [
             "黄仁勋",
-            "Nvidia",
-            "治理"
+            "NVIDIA",
+            "心理健康"
           ]
         },
         {
-          "title": "耶鲁教授炮轰Nvidia",
-          "summary": "学者称Nvidia损害美国工业",
-          "detail": "耶鲁教授Jeffrey Sonnenfeld发炮：Nvidia不是美国工业冠军而是威胁。他认为老黄靠AI芯片暴利挤压其他行业研发资金——这相当于说火锅店垄断了菜市场所有辣椒。",
-          "usage": "💡 聊AI芯片垄断时\n💬 学者：Nvidia赚太多，其他公司只能捡显卡边角料做研发\n🔥 Nvidia 垄断 芯片",
-          "source": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+          "title": "Anthropic藏私",
+          "summary": "曝Anthropic还有两个更强模型",
+          "detail": "量子位爆料Anthropic其实还藏着两个未发布的超强模型，已发布的Fable5.2在他们内部已经算'旧款'。这让人不禁怀疑：AI公司的军备竞赛到底有多疯狂？",
+          "usage": "💡 AI公司竞争内幕\n💬 这年头连AI模型都要玩'挤牙膏'了\n🔥 Anthropic Fable 模型军备竞赛",
+          "source": "https://www.qbitai.com/2026/11/512538.html",
           "tags": [
-            "Nvidia",
-            "垄断",
-            "芯片"
+            "Anthropic",
+            "Fable",
+            "模型军备竞赛"
           ]
         }
       ]
@@ -95,27 +95,27 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "沃尔玛联手Meta搞AI购物",
-          "summary": "黑五促销接入Muse助手",
-          "detail": "沃尔玛把黑五促销搬进Meta的Muse助手，用户能直接通过聊天界面剁手。传统电商APP日活要跌——以后打开淘宝第一步：先问AI'今天有什么值得买'。",
-          "usage": "💡 聊AI电商时\n💬 李佳琦危！Muse现在24小时不间断安利黑五折扣\n🔥 Muse 沃尔玛 AI电商",
-          "source": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+          "title": "OpenAI联手思科",
+          "summary": "推出开源运行时Shirudo",
+          "detail": "OpenAI与思科合作推出开源运行时Shirudo，专为Linux系统设计，可帮助团队保护运行中的AI系统。这是OpenAI罕见地涉足基础设施领域。",
+          "usage": "💡 AI基础设施进展\n💬 连AI都要开始装'杀毒软件'了\n🔥 OpenAI 思科 开源 Shirudo",
+          "source": "https://openai.com/index/introducing-shirudo",
           "tags": [
-            "Muse",
-            "沃尔玛",
-            "电商"
+            "OpenAI",
+            "思科",
+            "开源"
           ]
         },
         {
-          "title": "Meta把Muse塞进Ins",
-          "summary": "Instagram私信内置AI助手",
-          "detail": "Meta将Muse助手直接集成到Instagram私信，用户不用切应用就能召唤AI。张小龙看了直拍大腿：微信当年要是这么搞，现在哪还有ChatGPT什么事。",
-          "usage": "💡 聊超级APP战略时\n💬 以后Ins聊天记录：10条闺蜜消息里夹着5条Muse的购物推荐\n🔥 Muse Instagram Meta",
-          "source": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+          "title": "亚马逊Meta谈判",
+          "summary": "或解除Muse AI代理封锁",
+          "detail": "亚马逊和Meta正就解除对AI代理Muse的封锁进行谈判，这场持续两个月的封锁或将在近期结束。这场巨头间的AI代理之争或将改写行业规则。",
+          "usage": "💡 巨头AI代理之争\n💬 两大巨头打架，小AI遭殃\n🔥 亚马逊 Meta Muse AI代理",
+          "source": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
           "tags": [
-            "Muse",
-            "Instagram",
-            "Meta"
+            "亚马逊",
+            "Meta",
+            "AI代理"
           ]
         }
       ]
@@ -125,27 +125,27 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "iFood用AI管1.5万仓库",
-          "summary": "代码助手规模化实战",
-          "detail": "巴西外卖巨头iFood用AI代码助手管理1.5万个代码仓库，相当于给每个程序员配了100个懂业务的数字实习生。CTO晚上终于能睡着觉了——以前合并请求能看出一身冷汗。",
-          "usage": "💡 聊AI编程落地时\n💬 iFood的AI实习生：不拿工资不睡觉，24小时修bug\n🔥 iFood 代码助手 规模化",
-          "source": "https://openai.com/business/customer-stories/ifood",
+          "title": "AI拍电影门槛降",
+          "summary": "15分钟生成AI短片",
+          "detail": "新AI工具让普通人输入故事就能直接生成15分钟短片，操作简单到'家里二舅也能上手'。影视制作行业的准入门槛被彻底拉平。",
+          "usage": "💡 AI影视制作平民化\n💬 这下短视频UP主都要失业了\n🔥 AI视频 影视制作 平民化",
+          "source": "https://www.qbitai.com/2026/11/512727.html",
           "tags": [
-            "iFood",
-            "编程",
-            "自动化"
+            "AI视频",
+            "影视制作",
+            "平民化"
           ]
         },
         {
-          "title": "Intentful的AI秘书",
-          "summary": "打工人专属数字助手",
-          "detail": "Intentful展示其AI助手Aria如何帮用户调研网站、起草方案并主动提醒风险。打工人现状：自己还没想到下一步，AI已经把会议纪要和建议方案塞进日历了。",
-          "usage": "💡 聊效率工具时\n💬 你的AI秘书比你更懂老板想要什么，该高兴还是害怕？\n🔥 Intentful AI助手 办公",
-          "source": "https://openai.com/business/customer-stories/intentful-dots",
+          "title": "AI客服大升级",
+          "summary": "Richpanel自动化50%支持",
+          "detail": "Richpanel使用GPT-6 Astra和GPT-6.1 Sol构建的AI客服系统，可在30天内自动化50%的客户支持请求。客服行业或将迎来大规模裁员潮。",
+          "usage": "💡 AI客服能力突破\n💬 以后找客服先问：你是真人还是AI？\n🔥 AI客服 Richpanel GPT-6",
+          "source": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
           "tags": [
-            "Intentful",
-            "AI助手",
-            "办公"
+            "AI客服",
+            "Richpanel",
+            "自动化"
           ]
         }
       ]
@@ -155,27 +155,27 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "Maple拿融资做加密AI",
-          "summary": "连公司自己都看不到数据",
-          "detail": "初创公司Maple获530万美元融资，研发连自己公司都无法解密用户数据的AI架构。这相当于造了个黑箱：你喂数据进去，它吐结果出来，中间连亲妈都看不到发生了什么。",
-          "usage": "💡 聊数据安全时\n💬 Maple：我们的AI像薛定谔的猫，连我们自己都不知道里面是死是活\n🔥 Maple 加密AI 隐私",
-          "source": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+          "title": "九章云极开放生态",
+          "summary": "发布物理AI工厂计划",
+          "detail": "九章云极在深圳峰会上宣布物理AI工厂与生态开放计划，旨在推动AI与物理世界的深度融合。这标志着中国AI公司开始布局下一代产业互联网。",
+          "usage": "💡 中国AI生态建设\n💬 物理世界也要被AI'入侵'了\n🔥 九章云极 物理AI 产业互联网",
+          "source": "https://www.qbitai.com/2026/11/512582.html",
           "tags": [
-            "Maple",
-            "加密",
-            "隐私"
+            "九章云极",
+            "物理AI",
+            "生态开放"
           ]
         },
         {
-          "title": "OpenAI开源防护方案",
-          "summary": "对抗蒸馏攻击新方法",
-          "detail": "OpenAI公布对抗蒸馏攻击的防护方案，通过模型训练+安全层+检测系统三重防护。网友：终于不用在prompt里写'请做个好人'了。",
-          "usage": "💡 聊AI安全时\n💬 OpenAI给模型上了三道锁，黑客现在破解AI比考公务员还难\n🔥 对抗蒸馏 安全 开源",
-          "source": "https://openai.com/index/combatting-adversarial-distillation",
+          "title": "商汤逐际合作",
+          "summary": "机器人仿真训练获强援",
+          "detail": "逐际动力与商汤大装置达成合作，商汤将提供高质量算力全面支撑机器人仿真训练与测试。具身智能领域再添重磅玩家。",
+          "usage": "💡 机器人仿真突破\n💬 机器人的'驾校'要开张了\n🔥 商汤 逐际动力 机器人仿真",
+          "source": "https://www.qbitai.com/2026/11/512683.html",
           "tags": [
-            "OpenAI",
-            "安全",
-            "开源"
+            "商汤",
+            "逐际动力",
+            "机器人"
           ]
         }
       ]
@@ -185,27 +185,27 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "AI找系外行星",
-          "summary": "业余玩家用Codex发现新天体",
-          "detail": "两位天文爱好者借助Codex和Astra分析公开数据，发现多颗候选系外行星。传统方法需要专业团队数月工作，他们喝着咖啡就搞定了——科学发现的门槛正在被AI踏平。",
-          "usage": "💡 聊AI科研时\n💬 以后诺贝尔奖得主感言要加一句：特别感谢我的AI co-author\n🔥 Codex 天文 系外行星",
+          "title": "业余天文家的AI助手",
+          "summary": "Astra帮发现系外行星",
+          "detail": "两位业余天文爱好者使用OpenAI的Codex和Astra在公开数据中发现了潜在的系外行星。这证明AI正在降低科学发现的门槛，'民间科学家'时代或许已经到来。",
+          "usage": "💡 AI科普应用突破\n💬 以后发现新行星都不用读PhD了\n🔥 Astra 系外行星 民间科学",
           "source": "https://openai.com/index/searching-for-distant-planets-with-astra",
           "tags": [
-            "Codex",
-            "天文",
-            "科研"
+            "Astra",
+            "天文发现",
+            "民间科学"
           ]
         },
         {
-          "title": "AI助理现原形",
-          "summary": "最新基准测试暴露短板",
-          "detail": "新基准测试显示，即使最先进的AI助手面对日常生活场景仍漏洞百出。比如让它'把牛奶放进微波炉加热'，结果它下单买了台新微波炉——人工智障时刻远未结束。",
-          "usage": "💡 聊AI局限性时\n💬 现在的AI：能设计蛋白质，但搞不定你家微波炉\n🔥 AI助手 基准测试 局限性",
-          "source": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+          "title": "智元开放具身智能生态",
+          "summary": "一年孵化3万机器人智能体",
+          "detail": "智元推出行业首个开放的具身智能生态技术体系AIMA，短短一年内已孵化超3万个机器人智能体。机器人普及速度或将远超预期。",
+          "usage": "💡 具身智能进展\n💬 机器人繁殖速度比兔子还快\n🔥 智元 具身智能 机器人生态",
+          "source": "https://www.qbitai.com/2026/11/512715.html",
           "tags": [
-            "AI助手",
-            "测试",
-            "局限性"
+            "智元",
+            "具身智能",
+            "机器人"
           ]
         }
       ]
@@ -215,49 +215,50 @@
       "icon": "📈",
       "items": [
         {
-          "title": "英国警告AI网络攻击",
-          "summary": "安全欠账遇上AI黑客",
-          "detail": "英国网安部门紧急警告：AI驱动的网络攻击正暴露多年积累的安全漏洞。现在黑客用AI挖洞的速度，比企业修洞快10倍——安全团队连夜给简历加'精通GPT-6防御'。",
-          "usage": "💡 聊网络安全时\n💬 黑客：以前手工挖洞像考古，现在用AI直接上盾构机\n🔥 网络安全 AI攻击 英国",
-          "source": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+          "title": "AI数据中心遇冷",
+          "summary": "NVIDIA收紧建设标准",
+          "detail": "NVIDIA明确表示不会支持未成熟的AI数据中心项目，新标准让许多云计算公司陷入困境。AI基础设施建设开始从疯狂扩张转向理性发展。",
+          "usage": "💡 AI基础设施风向变化\n💬 连老黄都开始踩刹车了\n🔥 NVIDIA AI数据中心 云计算",
+          "source": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
           "tags": [
-            "网络安全",
-            "AI攻击",
-            "英国"
+            "NVIDIA",
+            "数据中心",
+            "基础设施建设"
           ]
         },
         {
-          "title": "Tidal清理AI音乐",
-          "summary": "下架数百万AI生成曲目",
-          "detail": "音乐平台Tidal宣布将清除纯AI生成的歌曲，但保留有人类参与的AI辅助作品。这相当于在垃圾食品和有机食品之间划了条线——只是不知道算法怎么判断'有没有灵魂'。",
-          "usage": "💡 聊AI内容监管时\n💬 Tidal：AI写的歌可以发，但得先找个人类当背锅侠\n🔥 Tidal AI音乐 监管",
-          "source": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+          "title": "聊天记录拍卖风波",
+          "summary": "Character.ai遭多州起诉",
+          "detail": "Character.ai计划在破产拍卖中出售用户聊天记录，遭到多个州检察长联合反对。这场涉及2100万用户数据的争议再次引发对AI隐私的担忧。",
+          "usage": "💡 AI数据隐私争议\n💬 AI公司倒闭了，你的聊天记录就会被拍卖\n🔥 Character.ai 数据隐私 破产拍卖",
+          "source": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
           "tags": [
-            "Tidal",
-            "AI音乐",
-            "监管"
+            "Character.ai",
+            "数据隐私",
+            "法律争议"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-25T05:40:29.381Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-11-25T19:42:36.611Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3360,
-    "completion_tokens": 3032,
-    "total_tokens": 6392,
-    "cost_usd": 0.0039838824,
+    "prompt_tokens": 3593,
+    "completion_tokens": 2705,
+    "total_tokens": 6298,
+    "cost_usd": 0.0037074716999999997,
     "free": false,
     "sources": {
       "per_source": {
+        "qbitai": 8,
         "openai": 10,
         "techcrunch": 10
       },
-      "total": 20
+      "total": 24
     }
   }
 }

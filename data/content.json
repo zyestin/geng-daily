@@ -1,199 +1,184 @@
 {
   "categories": [
     {
-      "name": "前端框架",
-      "icon": "🚀",
+      "name": "时事热点",
+      "icon": "📰",
       "items": [
         {
-          "title": "Next.js 15",
-          "summary": "Next.js 15 发布，性能提升显著",
-          "detail": "Next.js 15 正式发布，带来了更快的编译速度和更好的开发体验，特别是在大型项目中的表现尤为突出。",
-          "usage": "听说 Next.js 15 发布了，你们项目升级了吗？据说编译速度快了不少，不知道实际体验如何。",
+          "title": "AI写作业神器",
+          "summary": "学生用AI写作业引争议",
+          "detail": "最近一款能自动完成作业的AI工具在中小学生中流行，老师发现后引发教育界大讨论。专家警告这会导致学生丧失思考能力，但不少家长觉得能减轻孩子负担。",
+          "usage": "听说现在小孩都用AI写作业了？我小时候抄作业还要手写，现在直接AI生成，连抄都省了！不过这样下去孩子会不会连字都不会写了？",
           "source": "",
           "tags": [
-            "Next.js",
-            "前端"
+            "教育",
+            "AI"
           ]
         },
         {
-          "title": "Svelte 5",
-          "summary": "Svelte 5 进入 Beta 测试",
-          "detail": "Svelte 5 已经进入 Beta 测试阶段，引入了全新的响应式系统和更简洁的语法，开发者反响热烈。",
-          "usage": "Svelte 5 的 Beta 版出来了，你们试过了吗？新响应式系统看起来挺有意思的，不知道会不会颠覆现有的开发模式。",
+          "title": "快递新规",
+          "summary": "快递必须送货上门新规",
+          "detail": "12月1日起实施的新规要求快递必须按约定地址投递，禁止未经同意放快递柜。快递公司表示成本将上涨，消费者则担心快递费会涨价。",
+          "usage": "以后快递必须送上门了，你说这是好事还是坏事？我家白天都没人，放快递柜反而方便。不过老年人确实需要送货上门。",
           "source": "",
           "tags": [
-            "Svelte",
-            "前端"
+            "生活",
+            "政策"
           ]
         }
       ]
     },
     {
-      "name": "React Native",
-      "icon": "📱",
+      "name": "亲子时光",
+      "icon": "👨‍👧",
       "items": [
         {
-          "title": "RN 新架构",
-          "summary": "React Native 新架构 Fabric 全面落地",
-          "detail": "React Native 的新架构 Fabric 已经全面落地，性能提升显著，特别是在列表渲染和动画方面。",
-          "usage": "你们项目升级到 Fabric 架构了吗？听说列表渲染性能提升了不少，不知道实际效果如何。",
+          "title": "树叶贴画",
+          "summary": "用落叶做创意手工",
+          "detail": "最近流行带孩子用各种形状的落叶创作贴画，既能亲近自然又锻炼动手能力。银杏叶、枫叶都是很好的材料，可以拼出小动物、风景等图案。",
+          "usage": "周末带妞妞去公园捡了好多漂亮叶子，回家用胶水贴在纸上做了一幅孔雀开屏，她可开心了！你们家孩子喜欢做手工吗？",
           "source": "",
           "tags": [
-            "React Native",
-            "跨端"
+            "手工",
+            "自然"
           ]
         },
         {
-          "title": "RN 跨端方案",
-          "summary": "React Native 跨端方案新进展",
-          "detail": "React Native 社区推出了新的跨端方案，支持更多原生模块和更好的性能优化。",
-          "usage": "最近 React Native 的跨端方案又有新进展了，你们有没有尝试过？据说支持更多原生模块了。",
+          "title": "数学桌游",
+          "summary": "好玩又学数学的桌游",
+          "detail": "新出的'数学大冒险'桌游让孩子在游戏中学习加减法，通过掷骰子、买道具等方式潜移默化培养计算能力，比枯燥的练习题有趣多了。",
+          "usage": "给妞妞买了套数学桌游，她现在算10以内加减法比我还快！玩着玩着就会了，根本不用逼着做口算题。",
           "source": "",
           "tags": [
-            "React Native",
-            "跨端"
+            "教育",
+            "游戏"
           ]
         }
       ]
     },
     {
-      "name": "AI编程",
-      "icon": "🤖",
+      "name": "热门影视",
+      "icon": "🎬",
       "items": [
         {
-          "title": "Cursor 插件",
-          "summary": "Cursor 发布官方插件规范",
-          "detail": "Cursor 发布了官方插件规范，允许开发者为其 AI 编程助手开发自定义插件，扩展功能。",
-          "usage": "Cursor 出了官方插件规范，你们有没有开发什么有趣的插件？感觉可以玩出不少花样。",
-          "source": "https://github.com/cursor/plugins",
+          "title": "汪汪队3",
+          "summary": "汪汪队新电影上映",
+          "detail": "《汪汪队立大功大电影3》正在热映，讲述狗狗们拯救太空任务的故事。延续了动画片的正能量和团队精神，特别适合亲子观影。",
+          "usage": "周末带妞妞看了汪汪队新电影，她全程手舞足蹈的。现在天天在家学莱德喊",
           "tags": [
-            "AI",
-            "编程"
-          ]
+            "电影",
+            "动画"
+          ],
+          "source": ""
         },
         {
-          "title": "AI 生成UI",
-          "summary": "AI 生成 UI 工具新突破",
-          "detail": "最新的 AI 生成 UI 工具可以根据自然语言描述快速生成前端代码，大大提升了开发效率。",
-          "usage": "最近 AI 生成 UI 的工具越来越厉害了，你们有用过吗？据说能根据描述直接生成代码，不知道效果如何。",
+          "title": "家有儿女重启",
+          "summary": "经典情景喜剧重启",
+          "detail": "《家有儿女》原班人马时隔多年重启拍摄，讲述刘星、小雪长大后的故事。引发80、90后集体回忆杀，新加入的00后演员也很有看点。",
+          "usage": "看新闻说《家有儿女》要拍续集了！当年看刘星的时候我还在上学，现在都有孩子了。不知道小雪变成什么样了？",
           "source": "",
           "tags": [
-            "AI",
-            "UI"
+            "电视剧",
+            "怀旧"
           ]
         }
       ]
     },
     {
-      "name": "TS & JS",
-      "icon": "📘",
+      "name": "生活妙招",
+      "icon": "💡",
       "items": [
         {
-          "title": "TS 5.5",
-          "summary": "TypeScript 5.5 发布",
-          "detail": "TypeScript 5.5 正式发布，引入了新的类型推断和改进的错误提示，提升了开发体验。",
-          "usage": "TypeScript 5.5 发布了，你们升级了吗？新版本的类型推断好像更智能了。",
+          "title": "冰箱除味",
+          "summary": "咖啡渣除冰箱异味",
+          "detail": "喝完的咖啡渣别急着扔，晒干后用纱布包好放冰箱，能有效吸附异味。比专门的除味剂更环保省钱，效果可以持续2-3周。",
+          "usage": "最近发现个生活小妙招，用过的咖啡渣放冰箱除味特管用！比买那些除味剂便宜多了，还自带咖啡香。",
           "source": "",
           "tags": [
-            "TypeScript",
-            "前端"
+            "家居",
+            "环保"
           ]
         },
         {
-          "title": "Bun 2.0",
-          "summary": "Bun 2.0 发布，性能再提升",
-          "detail": "Bun 2.0 发布，进一步优化了 JavaScript 运行时的性能，特别是在模块加载和启动时间上。",
-          "usage": "Bun 2.0 出来了，你们试过了吗？据说启动时间又缩短了不少，不知道实际效果如何。",
+          "title": "快速叠衣法",
+          "summary": "3秒叠T恤技巧",
+          "detail": "网上流行的'3秒叠衣法'：把T恤平铺，在肩膀和衣摆处各找一个点，一提一翻就叠好了。特别适合整理孩子的衣物，省时省力。",
+          "usage": "学会了个叠衣服神技，3秒一件！再也不用为叠妞妞那些小衣服发愁了。要不要我教你？",
           "source": "",
           "tags": [
-            "Bun",
-            "JavaScript"
+            "整理",
+            "技巧"
           ]
         }
       ]
     },
     {
-      "name": "开源热门",
-      "icon": "🌟",
+      "name": "乒乓球",
+      "icon": "🏓",
       "items": [
         {
-          "title": "CLI-Anything",
-          "summary": "CLI-Anything 让所有软件支持 CLI",
-          "detail": "CLI-Anything 是一个开源项目，旨在让所有软件都能通过命令行接口（CLI）进行操作，提升自动化能力。",
-          "usage": "看到 CLI-Anything 这个项目了吗？感觉挺有意思的，可以让所有软件都支持 CLI，不知道实际用起来怎么样。",
-          "source": "https://github.com/HKUDS/CLI-Anything",
+          "title": "王楚钦夺冠",
+          "summary": "王楚钦WTT夺冠",
+          "detail": "在刚结束的WTT法兰克福站，王楚钦4-3险胜马龙夺冠，世界排名升至第二。他的反手技术被解说称为",
           "tags": [
-            "CLI",
-            "开源"
-          ]
+            "赛事",
+            "国乒"
+          ],
+          "usage": "💡 聊到相关内容时切入\n💬 王楚钦夺冠\n🔥 赛事 国乒",
+          "source": ""
         },
         {
-          "title": "superpowers",
-          "summary": "superpowers 框架发布",
-          "detail": "superpowers 是一个新的技能框架和软件开发方法论，旨在提升开发者的生产力和代码质量。",
-          "usage": "superpowers 这个框架你们听说过吗？据说能提升开发效率，不知道有没有人试过。",
-          "source": "https://github.com/obra/superpowers",
+          "title": "胶皮新规",
+          "summary": "国际乒联胶皮新规",
+          "detail": "国际乒联宣布明年起将检测胶皮挥发性有机物含量，一些常用胶皮可能面临禁用。业余球友担心会影响手感，专业选手已开始适应新胶皮。",
+          "usage": "听说乒乓球胶皮要有新规定了？我那块用了三年的胶皮是不是该换了？你们俱乐部有人开始用新规胶皮了吗？",
+          "source": "",
           "tags": [
-            "框架",
-            "开源"
+            "装备",
+            "规则"
           ]
         }
       ]
     },
     {
-      "name": "开发者梗",
-      "icon": "😄",
+      "name": "健康养生",
+      "icon": "🥗",
       "items": [
         {
-          "title": "失业两年",
-          "summary": "15 年经验开发者失业两年",
-          "detail": "一位有 15 年经验的开发者在 HN 上发帖，称自己已经失业两年，引发了广泛讨论。",
-          "usage": "看到那个 HN 上的帖子了吗？一个 15 年经验的开发者失业两年了，感觉现在市场真的挺难的。",
-          "source": "https://news.ycombinator.com/item?id=50583761",
+          "title": "护眼食谱",
+          "summary": "防近视营养搭配",
+          "detail": "专家推荐护眼食谱：蓝莓+胡萝卜+深海鱼。蓝莓富含花青素，胡萝卜有β-胡萝卜素，三文鱼等富含Omega-3，组合食用对预防儿童近视有帮助。",
+          "usage": "最近给妞妞调整了饮食，蓝莓、胡萝卜、鳕鱼换着吃，希望能保护视力。你们家孩子平时吃什么对眼睛好的？",
+          "source": "",
           "tags": [
-            "职场",
-            "开发者"
+            "护眼",
+            "饮食"
           ]
         },
         {
-          "title": "AI 蒸馏指控",
-          "summary": "Anthropic 指控公司 AI 蒸馏",
-          "detail": "Anthropic 指控一家公司使用其 AI 模型进行蒸馏，引发了关于 AI 模型使用和版权的讨论。",
-          "usage": "看到 Anthropic 指控那家公司 AI 蒸馏的新闻了吗？感觉 AI 版权问题越来越复杂了。",
-          "source": "https://news.ycombinator.com/item?id=50630809",
+          "title": "办公室操",
+          "summary": "程序员专属拉伸",
+          "detail": "针对程序员设计的'代码操'：每写1小时代码，做3分钟颈部环绕、手腕旋转和腰部扭转。能有效预防颈椎病和鼠标手，简单易学。",
+          "usage": "我现在设了个闹钟，每写一小时代码就起来活动下，做几个简单动作，脖子确实没那么僵了。你要不要也试试？",
+          "source": "",
           "tags": [
-            "AI",
-            "版权"
+            "运动",
+            "办公"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-25T05:38:07.907Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-11-25T19:32:02.565Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 2099,
-    "completion_tokens": 1487,
-    "total_tokens": 3586,
-    "cost_usd": 0.0020699595000000003,
-    "free": false,
-    "sources": {
-      "per_source": {
-        "hackernews": 15,
-        "reddit": 0,
-        "askhn": 8,
-        "lobsters": 10,
-        "devto": 10,
-        "v2ex": 10,
-        "juejin": 10,
-        "github": 10,
-        "qbitai": 8,
-        "infoq": 8
-      },
-      "total": 20
-    }
+    "prompt_tokens": 777,
+    "completion_tokens": 1617,
+    "total_tokens": 2394,
+    "cost_usd": 0.0018634077,
+    "free": false
   }
 }

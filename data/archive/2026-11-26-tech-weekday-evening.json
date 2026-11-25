@@ -1,0 +1,286 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "AI抓贪官",
+          "summary": "AI技术协助反腐",
+          "detail": "最新消息显示，AI技术正在被用于反腐工作，通过大数据分析官员的消费记录、社交网络等，帮助识别潜在的贪腐行为。这波操作让网友直呼：'终于看到AI的正确打开方式了！'",
+          "usage": "💡 聊AI应用时\n💬 AI现在都开始抓贪官了，这波属于降维打击啊\n🔥 AI 反腐 大数据",
+          "src_id": 14,
+          "tags": [
+            "AI",
+            "反腐",
+            "大数据"
+          ],
+          "source": "https://www.toutiao.com/trending/7712002196388905023/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712002196388905023%22%2C%22hot_board_impr_id%22%3A%2220261126033831B2A0E370EBB74A2563FB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22AI%E6%AD%A3%E5%9C%A8%E5%B8%AE%E5%BF%99%E6%8A%93%E8%B4%AA%E5%AE%98%22%7D&rank=&style_id=40132&topic_id=7712002196388905023"
+        },
+        {
+          "title": "中外太空会师",
+          "summary": "中外航天员空间站合影",
+          "detail": "中国空间站迎来历史性时刻，中外航天员首次在太空合影。这标志着中国航天国际合作迈出新步伐，网友调侃：'这才是真正的太空朋友圈'。",
+          "usage": "💡 聊航天进展时\n💬 中外航天员在空间站合影，这波属于太空版朋友圈打卡\n🔥 航天 国际合作 空间站",
+          "src_id": 12,
+          "tags": [
+            "航天",
+            "国际合作",
+            "空间站"
+          ],
+          "source": "https://www.toutiao.com/video/7712010953189884479"
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "宗馥莉交棒",
+          "summary": "娃哈哈董事长变动",
+          "detail": "宗馥莉近日正式卸任娃哈哈集团董事长职务，由许思敏接任。这位'饮料公主'的动向引发业内关注，网友调侃：'这是要专心搞副业了吗？'",
+          "usage": "💡 聊企业传承时\n💬 宗馥莉卸任娃哈哈董事长，饮料公主这是要转型啊\n🔥 娃哈哈 宗馥莉 企业传承",
+          "src_id": 3,
+          "tags": [
+            "娃哈哈",
+            "宗馥莉",
+            "企业传承"
+          ],
+          "source": "https://www.huxiu.com/article/4908520.html?f=rss"
+        },
+        {
+          "title": "丁磊担心短剧",
+          "summary": "网易CEO谈短剧冲击",
+          "detail": "网易CEO丁磊在三季度财报会上表示对短剧冲击传统游戏业务的担忧，而腾讯却在短剧领域赚得盆满钵满。这波'有人欢喜有人忧'的场面让网友直呼：'互联网的冰火两重天'。",
+          "usage": "💡 聊互联网竞争时\n💬 丁磊担心短剧冲击，腾讯却在闷声发大财，互联网的悲欢并不相通\n🔥 网易 腾讯 短剧",
+          "src_id": 6,
+          "tags": [
+            "网易",
+            "腾讯",
+            "短剧"
+          ],
+          "source": "https://www.huxiu.com/article/4908516.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "欧宝联姻零跑",
+          "summary": "欧洲车企技术外包上瘾",
+          "detail": "德国欧宝汽车与零跑汽车签署合作协议，将联合开发电动车技术。这标志着欧洲车企对中国新能源技术的依赖加深，网友调侃：'欧洲老牌车企也开始'真香'了'。",
+          "usage": "💡 聊汽车行业时\n💬 欧宝找零跑合作，欧洲老牌车企也开始对中国技术真香了\n🔥 欧宝 零跑 新能源",
+          "src_id": 2,
+          "tags": [
+            "欧宝",
+            "零跑",
+            "新能源"
+          ],
+          "source": "https://www.huxiu.com/article/4908521.html?f=rss"
+        },
+        {
+          "title": "阿联酋豪赌AI",
+          "summary": "中东资本投资AI公司",
+          "detail": "阿联酋通过投资AI公司Anthropic，首日就浮盈1340亿，这波'算力美元'的豪赌让硅谷投资者都直呼内行。网友调侃：'石油佬玩起科技来，比科技公司还狠'。",
+          "usage": "💡 聊AI投资时\n💬 阿联酋投资AI公司一天赚1340亿，这波属于降维打击\n🔥 阿联酋 AI 投资",
+          "src_id": 4,
+          "tags": [
+            "阿联酋",
+            "AI",
+            "投资"
+          ],
+          "source": "https://www.huxiu.com/article/4908519.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "娃哈哈换帅",
+          "summary": "许思敏接任董事长",
+          "detail": "娃哈哈集团董事长许思敏已正式上任，接替宗馥莉。这一人事变动引发业内对娃哈哈未来战略的猜测，网友调侃：'饮料界也要开始'新老交替'了'。",
+          "usage": "💡 聊企业人事时\n💬 娃哈哈换帅了，饮料界的新老交替开始了\n🔥 娃哈哈 人事变动 许思敏",
+          "src_id": 3,
+          "tags": [
+            "娃哈哈",
+            "人事变动",
+            "许思敏"
+          ],
+          "source": "https://www.huxiu.com/article/4908520.html?f=rss"
+        },
+        {
+          "title": "网易游戏下滑",
+          "summary": "游戏收入下降1.7%",
+          "detail": "网易最新财报显示，游戏及相关增值服务收入同比下降1.7%，导致股价大跌11.39%。这波'游戏寒冬'让网友直呼：'丁磊要睡不着觉了'。",
+          "usage": "💡 聊游戏行业时\n💬 网易游戏收入下滑，丁磊这下要睡不着了\n🔥 网易 游戏 财报",
+          "src_id": 6,
+          "tags": [
+            "网易",
+            "游戏",
+            "财报"
+          ],
+          "source": "https://www.huxiu.com/article/4908516.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "太空朋友圈",
+          "summary": "中外航天员空间站合影",
+          "detail": "中国空间站迎来历史性时刻，中外航天员首次在太空合影。这标志着中国航天国际合作迈出新步伐，网友调侃：'这才是真正的太空朋友圈'。",
+          "usage": "💡 聊航天进展时\n💬 中外航天员在空间站合影，这波属于太空版朋友圈打卡\n🔥 航天 国际合作 空间站",
+          "src_id": 12,
+          "tags": [
+            "航天",
+            "国际合作",
+            "空间站"
+          ],
+          "source": "https://www.toutiao.com/video/7712010953189884479"
+        },
+        {
+          "title": "AI反腐利器",
+          "summary": "技术助力反腐工作",
+          "detail": "AI技术正在被用于反腐工作，通过大数据分析官员的消费记录、社交网络等，帮助识别潜在的贪腐行为。这波操作让网友直呼：'终于看到AI的正确打开方式了！'",
+          "usage": "💡 聊AI应用时\n💬 AI现在都开始抓贪官了，这波属于降维打击啊\n🔥 AI 反腐 大数据",
+          "src_id": 14,
+          "tags": [
+            "AI",
+            "反腐",
+            "大数据"
+          ],
+          "source": "https://www.toutiao.com/trending/7712002196388905023/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712002196388905023%22%2C%22hot_board_impr_id%22%3A%2220261126033831B2A0E370EBB74A2563FB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22AI%E6%AD%A3%E5%9C%A8%E5%B8%AE%E5%BF%99%E6%8A%93%E8%B4%AA%E5%AE%98%22%7D&rank=&style_id=40132&topic_id=7712002196388905023"
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "399羽绒服爆卖",
+          "summary": "低价羽绒服冲击市场",
+          "detail": "一款售价仅399元的羽绒服突然爆火，销量碾压高价品牌。这波'价格屠夫'的操作让网友直呼：'高价品牌的智商税收不动了'。",
+          "usage": "💡 聊消费趋势时\n💬 399羽绒服卖疯，高价品牌的脸都被打肿了\n🔥 羽绒服 消费 性价比",
+          "src_id": 11,
+          "tags": [
+            "羽绒服",
+            "消费",
+            "性价比"
+          ],
+          "source": "https://m.baidu.com/s?word=399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%8D%96%E7%96%AF+%E9%AB%98%E4%BB%B7%E5%93%81%E7%89%8C%E8%84%B8%E8%A2%AB%E6%89%93%E8%82%BF&sa=fyb_news"
+        },
+        {
+          "title": "短剧赚钱",
+          "summary": "腾讯短剧业务增长",
+          "detail": "当丁磊担忧短剧冲击传统游戏业务时，腾讯却在短剧领域赚得盆满钵满。这波'有人欢喜有人忧'的场面让网友直呼：'互联网的冰火两重天'。",
+          "usage": "💡 聊互联网业务时\n💬 腾讯靠短剧赚钱，网易却在发愁，互联网的悲欢并不相通\n🔥 腾讯 短剧 互联网",
+          "src_id": 6,
+          "tags": [
+            "腾讯",
+            "短剧",
+            "互联网"
+          ],
+          "source": "https://www.huxiu.com/article/4908516.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "零跑逆袭",
+          "summary": "中国车企技术输出欧洲",
+          "detail": "零跑汽车与德国欧宝达成合作，将联合开发电动车技术。这标志着中国新能源车企首次实现技术反向输出欧洲，网友调侃：'从学生变老师了'。",
+          "usage": "💡 聊汽车行业时\n💬 零跑技术输出欧洲，这波属于学生变老师了\n🔥 零跑 欧宝 新能源",
+          "src_id": 2,
+          "tags": [
+            "零跑",
+            "欧宝",
+            "新能源"
+          ],
+          "source": "https://www.huxiu.com/article/4908521.html?f=rss"
+        },
+        {
+          "title": "阿联酋豪赌",
+          "summary": "中东资本投资AI浮盈千亿",
+          "detail": "阿联酋通过投资AI公司Anthropic，首日就浮盈1340亿，这波'算力美元'的豪赌让硅谷投资者都直呼内行。网友调侃：'石油佬玩起科技来，比科技公司还狠'。",
+          "usage": "💡 聊AI投资时\n💬 阿联酋投资AI一天赚1340亿，这波操作比硅谷还猛\n🔥 阿联酋 AI 投资",
+          "src_id": 4,
+          "tags": [
+            "阿联酋",
+            "AI",
+            "投资"
+          ],
+          "source": "https://www.huxiu.com/article/4908519.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "币圈风云",
+      "icon": "🪙",
+      "items": [
+        {
+          "title": "金价大跌",
+          "summary": "消费者抢购黄金",
+          "detail": "金价突然大跌引发抢购潮，金店被挤爆。这波操作让网友直呼：'中国大妈们的DNA动了'。",
+          "usage": "💡 聊投资趋势时\n💬 金价大跌金店被挤爆，中国大妈们的DNA动了\n🔥 黄金 投资 消费",
+          "src_id": 8,
+          "tags": [
+            "黄金",
+            "投资",
+            "消费"
+          ],
+          "source": "https://www.toutiao.com/trending/7712119512744594985/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712119512744594985%22%2C%22hot_board_impr_id%22%3A%2220261126033831B2A0E370EBB74A2563FB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E9%87%91%E5%BA%97%E6%8C%A4%E7%88%86+%E6%8A%A2%E9%BB%84%E9%87%91%E7%9A%84%E4%BA%BA%E5%9C%A8%E6%8A%A2%E5%95%A5%22%7D&rank=&style_id=40132&topic_id=7712119512744594985"
+        },
+        {
+          "title": "消费新趋势",
+          "summary": "消费者钱袋重新分配",
+          "detail": "最新数据显示，中国消费者的支出正在发生结构性变化，从奢侈品转向性价比更高的商品。这波'消费降级'让网友调侃：'大家的钱包都变聪明了'。",
+          "usage": "💡 聊消费趋势时\n💬 消费者开始精打细算了，高价品牌要睡不着了\n🔥 消费 性价比 趋势",
+          "src_id": 15,
+          "tags": [
+            "消费",
+            "性价比",
+            "趋势"
+          ],
+          "source": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E8%80%85%E7%9A%84%E9%92%B1+%E6%AD%A3%E5%9C%A8%E9%87%8D%E6%96%B0%E5%88%86%E9%85%8D&sa=fyb_news"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-25T19:41:46.483Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 5121,
+    "completion_tokens": 2455,
+    "total_tokens": 7576,
+    "cost_usd": 0.0038436039,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 0,
+      "published": 16
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 6,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 18
+    }
+  }
+}
