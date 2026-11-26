@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "AI直播证P=NP",
+          "summary": "381个AI直播冲刺证明P=NP",
+          "detail": "381个AI同时在GitHub上直播证明P=NP问题，已经跑了超过一万次会话，在Lean4里验证通过了2400多条引理。这波直接把GitHub干崩了——数学家们熬夜几十年没搞定的世纪难题，现在AI组团开黑刷副本。",
+          "usage": "💡 聊数学难题时甩出来\n💬 数学家还在单刷，AI已经组团开黑P=NP副本了\n🔥 P=NP GitHub 数学证明",
+          "source": "https://www.qbitai.com/2026/11/513021.html",
+          "tags": [
+            "数学",
+            "GitHub",
+            "P=NP"
+          ]
+        },
+        {
+          "title": "AI设计蛋白质",
+          "summary": "GPT-6展示蛋白质设计能力",
+          "detail": "OpenAI官宣GPT-6具备蛋白质设计能力，能通过推理和代码生成蛋白质结构和序列。实验室测试已经验证了其设计效果——以后生物医药博士可能要跟AI抢课题了。",
+          "usage": "💡 聊生物医药突破时用\n💬 生物博士：我五年研究一个蛋白，GPT-6一晚上设计全家桶\n🔥 GPT-6 蛋白质设计 生物医药",
+          "source": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "tags": [
+            "GPT-6",
+            "生物医药",
+            "蛋白质设计"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "世界模型3.0",
+          "summary": "蔚来智驾训练提效5倍",
+          "detail": "任少卿带着世界模型3.0来了！蔚来智驾训练效率提升5倍，座舱也用上强化学习。李斌坦言：不做AI变革可能活不下去——现在车企拼的不是发动机，是AI研发速度。",
+          "usage": "💡 聊自动驾驶进展时\n💬 蔚来：以前训练模型像等公交车，现在坐上了AI高铁\n🔥 世界模型3.0 蔚来 自动驾驶",
+          "source": "https://www.qbitai.com/2026/11/512897.html",
+          "tags": [
+            "世界模型",
+            "蔚来",
+            "自动驾驶"
+          ]
+        },
+        {
+          "title": "AI视频白菜价",
+          "summary": "中国开源视频AI全球第一",
+          "detail": "中国开源新势力推出商用级AI视频方案，每秒成本只要5毛！30秒一镜到底，可自动编排镜头，拿下全球第一——这下短视频工作室要卷疯了。",
+          "usage": "💡 聊AIGC成本时\n💬 以前拍条视频够吃顿饭，现在够买包辣条\n🔥 AI视频 开源 成本",
+          "source": "https://www.qbitai.com/2026/11/512916.html",
+          "tags": [
+            "AI视频",
+            "开源",
+            "AIGC"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "Dario回怼质疑",
+          "summary": "Anthropic CEO称AI控制论荒谬",
+          "detail": "Anthropic CEO Dario Amodei公开回应对手指控，称'放弃人类控制权给AI'的说法'荒谬'。这位安全至上的AI大佬罕见开炮——安全派和加速派的嘴仗越来越精彩了。",
+          "usage": "💡 聊AI安全争议时\n💬 Dario：说我要让AI当家？你科幻片看多了吧\n🔥 Anthropic AI安全 控制论",
+          "source": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+          "tags": [
+            "Anthropic",
+            "AI安全",
+            "Dario Amodei"
+          ]
+        },
+        {
+          "title": "沈向洋非共识",
+          "summary": "'灵巧手是人类最后尊严'",
+          "detail": "沈向洋最新演讲爆出多个AI非共识观点，最炸的是'灵巧手是人类最后的尊严'——当AI在脑力劳动上碾压人类时，或许只有我们的手指灵活性还能撑撑场面。",
+          "usage": "💡 聊人机差异时\n💬 以后简历可能得写'精通筷子夹豆腐'当核心技能\n🔥 沈向洋 人机交互 灵巧手",
+          "source": "https://www.qbitai.com/2026/11/512840.html",
+          "tags": [
+            "沈向洋",
+            "人机交互",
+            "机器人"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "黄仁勋踩红线",
+          "summary": "NVIDIA CEO违反员工守则",
+          "detail": "Jensen Huang被曝违反NVIDIA员工行为准则，具体内容未公开但已引发内部震动。当CEO都管不住自己时，公司的价值观文档就成了摆设——这下HR的合规培训更难做了。",
+          "usage": "💡 聊公司治理时\n💬 员工：老板自己都不守规矩，这守则留着擦显卡？\n🔥 NVIDIA 公司治理 Jensen Huang",
+          "source": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+          "tags": [
+            "NVIDIA",
+            "公司治理",
+            "Jensen Huang"
+          ]
+        },
+        {
+          "title": "OpenAI合并产品线",
+          "summary": "Chat和Work版将统一计量",
+          "detail": "OpenAI宣布合并Chat和Work体验，统一使用计量。重度用户可能更快触及限额——以后用GPT得像手机流量一样精打细算了。",
+          "usage": "💡 聊API使用成本时\n💬 建议OpenAI下次更新加个'本月已用99%'的进度条\n🔥 OpenAI 产品合并 使用限制",
+          "source": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+          "tags": [
+            "OpenAI",
+            "产品策略",
+            "API"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "机器人自助换装",
+          "summary": "90秒完成补给无人值守",
+          "detail": "具微科技'潘多拉'系统让工业机器人90秒自动换装补能，实现真正无人化值守。以前工程师半夜被call起来换夹具的日子一去不复返了。",
+          "usage": "💡 聊工业自动化时\n💬 机器人：人类别碰我，我自己能行\n🔥 工业机器人 无人值守 自动化",
+          "source": "https://www.qbitai.com/2026/11/512972.html",
+          "tags": [
+            "工业机器人",
+            "自动化",
+            "具微科技"
+          ]
+        },
+        {
+          "title": "AI客服30天见效",
+          "summary": "Richpanel自动化50%客服",
+          "detail": "Richpanel用GPT-6 Astra和GPT-6.1 Sol打造AI客服，30天就能自动化50%支持请求。现在连'亲在的呢'都可能不是真人了。",
+          "usage": "💡 聊客服自动化时\n💬 以后找客服对暗号：说句'天王盖地虎'看是不是AI\n🔥 AI客服 GPT-6 自动化",
+          "source": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+          "tags": [
+            "AI客服",
+            "GPT-6",
+            "自动化"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "Shirudo开源",
+          "summary": "OpenAI联手思科推安全运行时",
+          "detail": "OpenAI和思科推出开源Linux运行时Shirudo，专为保护运行中的AI系统设计。大厂开始把AI安全工具开源，这波属于是'防弹衣先给你们备好'。",
+          "usage": "💡 聊AI安全时\n💬 开源安全工具就像先发防弹衣再卖枪\n🔥 开源 安全运行时 OpenAI",
+          "source": "https://openai.com/index/introducing-shirudo",
+          "tags": [
+            "开源",
+            "AI安全",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "iFood万库管理",
+          "summary": "15000个仓库用AI代理管理",
+          "detail": "iFood用AI代码代理管理15000个代码仓库，规模堪比某些国家的公务员数量。以后'git blame'可能显示的是AI工号。",
+          "usage": "💡 聊代码管理规模时\n💬 建议AI代理也搞个'最佳背锅侠'季度奖\n🔥 代码管理 AI代理 规模化",
+          "source": "https://openai.com/business/customer-stories/ifood",
+          "tags": [
+            "代码管理",
+            "AI代理",
+            "规模化"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "AI找系外行星",
+          "summary": "业余天文爱好者靠AI立功",
+          "detail": "两位业余天文爱好者用Codex和Astra分析公开数据，成功发现潜在系外行星。现在连发现新星球都不需要PhD了，有台电脑就行。",
+          "usage": "💡 聊公民科学时\n💬 天文系教授：我望远镜还没调好，网友已经发Nature了\n🔥 天文发现 AI 公民科学",
+          "source": "https://openai.com/index/searching-for-distant-planets-with-astra",
+          "tags": [
+            "天文",
+            "AI发现",
+            "公民科学"
+          ]
+        },
+        {
+          "title": "3D打印新突破",
+          "summary": "AI直接生成可打印雕塑",
+          "detail": "AI 3D技术新突破：输入一张图就能直接生成巴洛克风格雕塑，3D打印机开箱即用。艺术家和雕塑厂的中间商要没饭吃了。",
+          "usage": "💡 聊3D打印进展时\n💬 米开朗基罗的转世是.py文件\n🔥 3D生成 AI 数字雕塑",
+          "source": "https://www.qbitai.com/2026/11/512981.html",
+          "tags": [
+            "3D打印",
+            "AIGC",
+            "数字艺术"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "纽约禁AI玩具",
+          "summary": "全州禁售AI聊天玩具5年",
+          "detail": "纽约州通过法案，未来5年禁止销售AI聊天玩具。最新研究显示这些玩具会影响儿童心理——圣诞老人的礼物清单要缩水了。",
+          "usage": "💡 聊AI监管时\n💬 美国小孩：我要告纽约剥夺我被AI忽悠的权利\n🔥 AI监管 儿童产品 禁令",
+          "source": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+          "tags": [
+            "AI监管",
+            "儿童产品",
+            "禁令"
+          ]
+        },
+        {
+          "title": "NVIDIA评级危机",
+          "summary": "标普考虑下调其信用评级",
+          "detail": "标普考虑将NVIDIA信用评级从AA降至AA-，理由是治理和'关键人物'风险。黄教主一个人就能撼动万亿市值公司的评级，这影响力比AI还玄学。",
+          "usage": "💡 聊芯片行业波动时\n💬 建议老黄下次发布会戴个'AAA'腰带稳定军心\n🔥 NVIDIA 信用评级 芯片",
+          "source": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+          "tags": [
+            "NVIDIA",
+            "信用评级",
+            "芯片"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-26T19:25:14.474Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3615,
+    "completion_tokens": 2857,
+    "total_tokens": 6472,
+    "cost_usd": 0.0038694969,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

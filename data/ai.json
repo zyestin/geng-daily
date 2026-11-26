@@ -5,27 +5,27 @@
       "icon": "💥",
       "items": [
         {
-          "title": "GPT-6会设计蛋白质了",
-          "summary": "GPT-6展示蛋白质设计能力",
-          "detail": "OpenAI官宣GPT-6模型展现出蛋白质结构设计能力，实验室测试证实其设计的蛋白质序列具有功能性。这相当于给每个生物实验室配了个AI结构生物学家，以后设计新药可能像写Prompt一样简单。",
-          "usage": "💡 聊AI跨界生物医药时\n💬 以后生物PhD的毕业论文可能是：如何让GPT-6听懂我的实验需求\n🔥 GPT-6 蛋白质设计 生物医药",
-          "source": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "title": "AI直播证P=NP",
+          "summary": "381个AI直播冲刺证明P=NP",
+          "detail": "381个AI同时在GitHub上直播证明P=NP问题，已经跑了超过一万次会话，在Lean4里验证通过了2400多条引理。这波直接把GitHub干崩了——数学家们熬夜几十年没搞定的世纪难题，现在AI组团开黑刷副本。",
+          "usage": "💡 聊数学难题时甩出来\n💬 数学家还在单刷，AI已经组团开黑P=NP副本了\n🔥 P=NP GitHub 数学证明",
+          "source": "https://www.qbitai.com/2026/11/513021.html",
           "tags": [
-            "OpenAI",
-            "生物医药",
-            "GPT-6"
+            "数学",
+            "GitHub",
+            "P=NP"
           ]
         },
         {
-          "title": "蔚来世界模型3.0",
-          "summary": "蔚来智驾训练效率提升5倍",
-          "detail": "任少卿带队推出的世界模型3.0让蔚来智驾训练效率提升5倍，连座舱都用上强化学习。李斌直接放话：不做AI变革可能活不下去。现在电动车赛道已经卷到比谁家AI更会'开车'了。",
-          "usage": "💡 聊自动驾驶进展时\n💬 建议驾校教练开始学Python，以后教AI开车比教人类赚钱\n🔥 蔚来 世界模型 自动驾驶",
-          "source": "https://www.qbitai.com/2026/11/512897.html",
+          "title": "AI设计蛋白质",
+          "summary": "GPT-6展示蛋白质设计能力",
+          "detail": "OpenAI官宣GPT-6具备蛋白质设计能力，能通过推理和代码生成蛋白质结构和序列。实验室测试已经验证了其设计效果——以后生物医药博士可能要跟AI抢课题了。",
+          "usage": "💡 聊生物医药突破时用\n💬 生物博士：我五年研究一个蛋白，GPT-6一晚上设计全家桶\n🔥 GPT-6 蛋白质设计 生物医药",
+          "source": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
           "tags": [
-            "蔚来",
-            "自动驾驶",
-            "世界模型"
+            "GPT-6",
+            "生物医药",
+            "蛋白质设计"
           ]
         }
       ]
@@ -35,27 +35,27 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "商汤AI以假乱真",
-          "summary": "商汤SenseNova U1.6真假难辨",
-          "detail": "商汤最新SenseNova U1.6生成的图片被误认为专业摄影作品，细节处理堪比中画幅相机。现在朋友圈晒图得先自证不是AI生成，否则点赞数要打五折。",
-          "usage": "💡 聊AIGC时\n💬 建议朋友圈新增'AI生成'标签，否则装逼成本太高了\n🔥 商汤 SenseNova AIGC",
-          "source": "https://www.qbitai.com/2026/11/512748.html",
+          "title": "世界模型3.0",
+          "summary": "蔚来智驾训练提效5倍",
+          "detail": "任少卿带着世界模型3.0来了！蔚来智驾训练效率提升5倍，座舱也用上强化学习。李斌坦言：不做AI变革可能活不下去——现在车企拼的不是发动机，是AI研发速度。",
+          "usage": "💡 聊自动驾驶进展时\n💬 蔚来：以前训练模型像等公交车，现在坐上了AI高铁\n🔥 世界模型3.0 蔚来 自动驾驶",
+          "source": "https://www.qbitai.com/2026/11/512897.html",
           "tags": [
-            "商汤",
-            "AIGC",
-            "图像生成"
+            "世界模型",
+            "蔚来",
+            "自动驾驶"
           ]
         },
         {
-          "title": "OpenAI联手思科",
-          "summary": "开源运行时Shirudo发布",
-          "detail": "OpenAI和思科联手推出开源运行时Shirudo，专为Linux系统设计，能实时保护运行中的AI模型。这相当于给AI系统装了黑匣子，被黑的时候至少知道怎么死的。",
-          "usage": "💡 聊AI安全时\n💬 建议改名叫'AI行车记录仪'，专治各种不服\n🔥 OpenAI 思科 开源安全",
-          "source": "https://openai.com/index/introducing-shirudo",
+          "title": "AI视频白菜价",
+          "summary": "中国开源视频AI全球第一",
+          "detail": "中国开源新势力推出商用级AI视频方案，每秒成本只要5毛！30秒一镜到底，可自动编排镜头，拿下全球第一——这下短视频工作室要卷疯了。",
+          "usage": "💡 聊AIGC成本时\n💬 以前拍条视频够吃顿饭，现在够买包辣条\n🔥 AI视频 开源 成本",
+          "source": "https://www.qbitai.com/2026/11/512916.html",
           "tags": [
-            "OpenAI",
-            "思科",
-            "AI安全"
+            "AI视频",
+            "开源",
+            "AIGC"
           ]
         }
       ]
@@ -65,27 +65,27 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "沈向洋谈灵巧手",
-          "summary": "灵巧手是人类最后尊严",
-          "detail": "沈向洋最新演讲爆金句：'灵巧手是人类最后的尊严'。言下之意是AI再强也拧不开老干妈瓶盖，建议程序员们现在开始每天练习转笔。",
-          "usage": "💡 聊具身智能时\n💬 以后程序员面试要加考转笔，这是人类最后的堡垒\n🔥 沈向洋 具身智能 机器人",
-          "source": "https://www.qbitai.com/2026/11/512840.html",
-          "tags": [
-            "沈向洋",
-            "具身智能",
-            "机器人"
-          ]
-        },
-        {
           "title": "Dario回怼质疑",
-          "summary": "Anthropic CEO炮轰对手",
-          "detail": "Anthropic CEO Dario Amodei怒斥对手指控'向AI投降控制权很荒谬'，说这就像指责汽车发明者想让人腿退化。所以...无人驾驶汽车到底让谁的腿退化了？",
-          "usage": "💡 聊AI伦理争议时\n💬 建议驾校教练转行教AI开车，反正人类迟早要'退化'\n🔥 Anthropic AI伦理 Dario",
+          "summary": "Anthropic CEO称AI控制论荒谬",
+          "detail": "Anthropic CEO Dario Amodei公开回应对手指控，称'放弃人类控制权给AI'的说法'荒谬'。这位安全至上的AI大佬罕见开炮——安全派和加速派的嘴仗越来越精彩了。",
+          "usage": "💡 聊AI安全争议时\n💬 Dario：说我要让AI当家？你科幻片看多了吧\n🔥 Anthropic AI安全 控制论",
           "source": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
           "tags": [
             "Anthropic",
-            "AI伦理",
-            "Dario"
+            "AI安全",
+            "Dario Amodei"
+          ]
+        },
+        {
+          "title": "沈向洋非共识",
+          "summary": "'灵巧手是人类最后尊严'",
+          "detail": "沈向洋最新演讲爆出多个AI非共识观点，最炸的是'灵巧手是人类最后的尊严'——当AI在脑力劳动上碾压人类时，或许只有我们的手指灵活性还能撑撑场面。",
+          "usage": "💡 聊人机差异时\n💬 以后简历可能得写'精通筷子夹豆腐'当核心技能\n🔥 沈向洋 人机交互 灵巧手",
+          "source": "https://www.qbitai.com/2026/11/512840.html",
+          "tags": [
+            "沈向洋",
+            "人机交互",
+            "机器人"
           ]
         }
       ]
@@ -95,27 +95,27 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "OpenAI合并Chat和Work",
-          "summary": "ChatGPT用量限制要变",
-          "detail": "OpenAI宣布合并Chat和Work体验，重度用户可能更快触达使用上限。打工人瑟瑟发抖：以后摸鱼用ChatGPT得精打细算，就像月底的流量包。",
-          "usage": "💡 聊AI办公时\n💬 建议行政给每个员工配ChatGPT流量包，省着点用\n🔥 OpenAI ChatGPT 办公",
-          "source": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+          "title": "黄仁勋踩红线",
+          "summary": "NVIDIA CEO违反员工守则",
+          "detail": "Jensen Huang被曝违反NVIDIA员工行为准则，具体内容未公开但已引发内部震动。当CEO都管不住自己时，公司的价值观文档就成了摆设——这下HR的合规培训更难做了。",
+          "usage": "💡 聊公司治理时\n💬 员工：老板自己都不守规矩，这守则留着擦显卡？\n🔥 NVIDIA 公司治理 Jensen Huang",
+          "source": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
           "tags": [
-            "OpenAI",
-            "ChatGPT",
-            "办公"
+            "NVIDIA",
+            "公司治理",
+            "Jensen Huang"
           ]
         },
         {
-          "title": "亚马逊Meta谈和解",
-          "summary": "Muse封锁或结束",
-          "detail": "亚马逊和Meta被曝正在谈判，可能解除对AI助手Muse长达两个月的封锁。商业竞争就像小学生打架，最后总有一方先掏出零食求和。",
-          "usage": "💡 聊大厂竞争时\n💬 建议Muse改名叫'和事佬'，专治大厂幼稚病\n🔥 亚马逊 Meta AI助手",
-          "source": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+          "title": "OpenAI合并产品线",
+          "summary": "Chat和Work版将统一计量",
+          "detail": "OpenAI宣布合并Chat和Work体验，统一使用计量。重度用户可能更快触及限额——以后用GPT得像手机流量一样精打细算了。",
+          "usage": "💡 聊API使用成本时\n💬 建议OpenAI下次更新加个'本月已用99%'的进度条\n🔥 OpenAI 产品合并 使用限制",
+          "source": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
           "tags": [
-            "亚马逊",
-            "Meta",
-            "商业竞争"
+            "OpenAI",
+            "产品策略",
+            "API"
           ]
         }
       ]
@@ -125,27 +125,27 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "iFood用AI管代码",
-          "summary": "15000个仓库AI管",
-          "detail": "iFood用AI代理管理15000个代码仓库，相当于给每个仓库配了个24小时不睡觉的码农管家。建议改名叫'代码居委会'，专治各种不规范提交。",
-          "usage": "💡 聊AI编程时\n💬 以后代码评审要说：'这个建议不是我提的，是我的AI管家说的'\n🔥 iFood AI编程 代码管理",
-          "source": "https://openai.com/business/customer-stories/ifood",
+          "title": "机器人自助换装",
+          "summary": "90秒完成补给无人值守",
+          "detail": "具微科技'潘多拉'系统让工业机器人90秒自动换装补能，实现真正无人化值守。以前工程师半夜被call起来换夹具的日子一去不复返了。",
+          "usage": "💡 聊工业自动化时\n💬 机器人：人类别碰我，我自己能行\n🔥 工业机器人 无人值守 自动化",
+          "source": "https://www.qbitai.com/2026/11/512972.html",
           "tags": [
-            "iFood",
-            "AI编程",
-            "代码管理"
+            "工业机器人",
+            "自动化",
+            "具微科技"
           ]
         },
         {
-          "title": "Richpanel客服AI",
-          "summary": "30天自动化50%客服",
-          "detail": "Richpanel用GPT-6 Astra和Sol打造的AI客服，30天就能接管50%的客服工作。现在压力来到人类客服这边：要么比AI更会哄人，要么比AI更便宜。",
-          "usage": "💡 聊AI客服时\n💬 建议客服培训加课'如何比AI更会撒娇'\n🔥 Richpanel AI客服 GPT-6",
+          "title": "AI客服30天见效",
+          "summary": "Richpanel自动化50%客服",
+          "detail": "Richpanel用GPT-6 Astra和GPT-6.1 Sol打造AI客服，30天就能自动化50%支持请求。现在连'亲在的呢'都可能不是真人了。",
+          "usage": "💡 聊客服自动化时\n💬 以后找客服对暗号：说句'天王盖地虎'看是不是AI\n🔥 AI客服 GPT-6 自动化",
           "source": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
           "tags": [
-            "Richpanel",
             "AI客服",
-            "GPT-6"
+            "GPT-6",
+            "自动化"
           ]
         }
       ]
@@ -155,27 +155,27 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "黎曼猜想代码瘦身",
-          "summary": "暴砍99.5%代码量",
-          "detail": "黎曼猜想证明代码从1520万行暴减到7.6万行，瘦身99.5%。这相当于把《战争与和平》压缩成一条推特，数学家和程序员一起哭晕在厕所。",
-          "usage": "💡 聊AI代码优化时\n💬 建议把这事拍成电影《瘦代码男女》\n🔥 黎曼猜想 代码优化 数学",
-          "source": "https://www.qbitai.com/2026/11/512819.html",
+          "title": "Shirudo开源",
+          "summary": "OpenAI联手思科推安全运行时",
+          "detail": "OpenAI和思科推出开源Linux运行时Shirudo，专为保护运行中的AI系统设计。大厂开始把AI安全工具开源，这波属于是'防弹衣先给你们备好'。",
+          "usage": "💡 聊AI安全时\n💬 开源安全工具就像先发防弹衣再卖枪\n🔥 开源 安全运行时 OpenAI",
+          "source": "https://openai.com/index/introducing-shirudo",
           "tags": [
-            "黎曼猜想",
-            "代码优化",
-            "数学"
+            "开源",
+            "AI安全",
+            "OpenAI"
           ]
         },
         {
-          "title": "智元开放生态",
-          "summary": "一年孵化3万机器人",
-          "detail": "智元推出AIMA具身智能生态，一年孵化超3万个机器人智能体。现在做机器人就像玩乐高，就差在包装盒上写'8-80岁适用'了。",
-          "usage": "💡 聊机器人开发时\n💬 建议机器人比赛改比'谁家说明书更简单'\n🔥 智元 具身智能 机器人",
-          "source": "https://www.qbitai.com/2026/11/512715.html",
+          "title": "iFood万库管理",
+          "summary": "15000个仓库用AI代理管理",
+          "detail": "iFood用AI代码代理管理15000个代码仓库，规模堪比某些国家的公务员数量。以后'git blame'可能显示的是AI工号。",
+          "usage": "💡 聊代码管理规模时\n💬 建议AI代理也搞个'最佳背锅侠'季度奖\n🔥 代码管理 AI代理 规模化",
+          "source": "https://openai.com/business/customer-stories/ifood",
           "tags": [
-            "智元",
-            "具身智能",
-            "机器人"
+            "代码管理",
+            "AI代理",
+            "规模化"
           ]
         }
       ]
@@ -185,27 +185,27 @@
       "icon": "🔬",
       "items": [
         {
-          "title": "Astra找系外行星",
-          "summary": "业余天文学家的逆袭",
-          "detail": "两个业余天文学家用Codex和Astra在公开数据中发现潜在系外行星，现在找外星人就像玩'大家来找茬'，只不过用的AI外挂。",
-          "usage": "💡 聊AI科研时\n💬 建议NASA招聘要求加一条'段位王者优先'\n🔥 Astra 天文学 系外行星",
+          "title": "AI找系外行星",
+          "summary": "业余天文爱好者靠AI立功",
+          "detail": "两位业余天文爱好者用Codex和Astra分析公开数据，成功发现潜在系外行星。现在连发现新星球都不需要PhD了，有台电脑就行。",
+          "usage": "💡 聊公民科学时\n💬 天文系教授：我望远镜还没调好，网友已经发Nature了\n🔥 天文发现 AI 公民科学",
           "source": "https://openai.com/index/searching-for-distant-planets-with-astra",
           "tags": [
-            "Astra",
-            "天文学",
-            "OpenAI"
+            "天文",
+            "AI发现",
+            "公民科学"
           ]
         },
         {
-          "title": "九章云极物理AI",
-          "summary": "算力唤醒真实世界",
-          "detail": "九章云极发布物理AI工厂，要用算力'唤醒'真实世界。这相当于给物理定律装了API接口，以后做实验可能要先import physics。",
-          "usage": "💡 聊AI+物理时\n💬 建议物理课本加一章'如何用Python调用万有引力'\n🔥 九章云极 物理AI 算力",
-          "source": "https://www.qbitai.com/2026/11/512582.html",
+          "title": "3D打印新突破",
+          "summary": "AI直接生成可打印雕塑",
+          "detail": "AI 3D技术新突破：输入一张图就能直接生成巴洛克风格雕塑，3D打印机开箱即用。艺术家和雕塑厂的中间商要没饭吃了。",
+          "usage": "💡 聊3D打印进展时\n💬 米开朗基罗的转世是.py文件\n🔥 3D生成 AI 数字雕塑",
+          "source": "https://www.qbitai.com/2026/11/512981.html",
           "tags": [
-            "九章云极",
-            "物理AI",
-            "算力"
+            "3D打印",
+            "AIGC",
+            "数字艺术"
           ]
         }
       ]
@@ -216,41 +216,41 @@
       "items": [
         {
           "title": "纽约禁AI玩具",
-          "summary": "圣诞礼物清单减一",
-          "detail": "纽约立法禁止AI聊天玩具五年，家长们松口气：终于不用在'会聊天的泰迪熊'和'会顶嘴的真孩子'之间做选择了。",
-          "usage": "💡 聊AI监管时\n💬 建议玩具厂商开发'静音模式'，专治各种话痨AI\n🔥 AI玩具 监管 纽约",
+          "summary": "全州禁售AI聊天玩具5年",
+          "detail": "纽约州通过法案，未来5年禁止销售AI聊天玩具。最新研究显示这些玩具会影响儿童心理——圣诞老人的礼物清单要缩水了。",
+          "usage": "💡 聊AI监管时\n💬 美国小孩：我要告纽约剥夺我被AI忽悠的权利\n🔥 AI监管 儿童产品 禁令",
           "source": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
           "tags": [
-            "AI玩具",
-            "监管",
-            "纽约"
+            "AI监管",
+            "儿童产品",
+            "禁令"
           ]
         },
         {
-          "title": "英伟达评级危机",
-          "summary": "黄仁勋行为惹争议",
-          "detail": "标普考虑下调英伟达评级，因为黄仁勋违反公司行为准则。这就像学霸因为纪律问题被扣分，但问题是...他家的GPU还是考试唯一指定用品。",
-          "usage": "💡 聊芯片行业时\n💬 建议黄老板开发'行为准则合规芯片'，专治各种不服\n🔥 英伟达 评级 黄仁勋",
-          "source": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+          "title": "NVIDIA评级危机",
+          "summary": "标普考虑下调其信用评级",
+          "detail": "标普考虑将NVIDIA信用评级从AA降至AA-，理由是治理和'关键人物'风险。黄教主一个人就能撼动万亿市值公司的评级，这影响力比AI还玄学。",
+          "usage": "💡 聊芯片行业波动时\n💬 建议老黄下次发布会戴个'AAA'腰带稳定军心\n🔥 NVIDIA 信用评级 芯片",
+          "source": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
           "tags": [
-            "英伟达",
-            "评级",
-            "黄仁勋"
+            "NVIDIA",
+            "信用评级",
+            "芯片"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-26T05:23:46.314Z",
-  "slot": "weekday-morning",
-  "slot_label": "工作日早晨 · 同事聊资",
+  "generated_at": "2026-11-26T19:25:14.474Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3586,
-    "completion_tokens": 2887,
-    "total_tokens": 6473,
-    "cost_usd": 0.0038928933000000002,
+    "prompt_tokens": 3615,
+    "completion_tokens": 2857,
+    "total_tokens": 6472,
+    "cost_usd": 0.0038694969,
     "free": false,
     "sources": {
       "per_source": {

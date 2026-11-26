@@ -1,0 +1,240 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "欧洲电商二手热",
+          "summary": "欧洲圣诞季二手商品成热门礼物",
+          "detail": "今年的欧洲圣诞购物季，二手商品正在成为一种热门的礼物选择。11月26日，《Vogue》报道称，欧洲二手电商平台Vinted今年11月与多家知名电商平台合作，推出了二手商品专区，销量大幅增长。",
+          "usage": "💡 同事聊圣诞购物时\n💬 你知道吗？今年欧洲圣诞礼物都流行二手了！\n🔥 欧洲 二手商品 圣诞",
+          "src_id": 1,
+          "tags": [
+            "电商",
+            "二手市场"
+          ],
+          "source": "https://www.huxiu.com/article/4908807.html?f=rss"
+        },
+        {
+          "title": "长城造拖拉机",
+          "summary": "魏建军考虑进入农业装备领域",
+          "detail": "11月26日，魏建军到访珠海格力电器总部。参观临近尾声，董明珠提了一个建议：长城已经掌握了成熟的汽车核心技术，可以考虑进入农业装备领域，比如造拖拉机。",
+          "usage": "💡 同事聊汽车行业时\n💬 听说长城要造拖拉机了，真是跨界高手啊！\n🔥 长城 拖拉机 跨界",
+          "src_id": 2,
+          "tags": [
+            "长城",
+            "拖拉机"
+          ],
+          "source": "https://www.huxiu.com/article/4908806.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "董明珠争议回应",
+          "summary": "董明珠回应不招留学生争议",
+          "detail": "董明珠近日在采访中回应了关于格力不招留学生的争议。她表示，格力更注重员工的实践能力和对中国市场的理解，而不是学历背景。",
+          "usage": "💡 同事聊招聘时\n💬 董明珠说不招留学生，你咋看？\n🔥 董明珠 招聘 留学生",
+          "src_id": 15,
+          "tags": [
+            "董明珠",
+            "招聘"
+          ],
+          "source": "https://www.toutiao.com/trending/7712420530217107510/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712420530217107510%22%2C%22hot_board_impr_id%22%3A%2220261127032020FA02B528A3D957C9341F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%91%A3%E6%98%8E%E7%8F%A0%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%8B%9B%E7%95%99%E5%AD%A6%E7%94%9F%E4%BA%89%E8%AE%AE%22%7D&rank=&style_id=40132&topic_id=7712420530217107510"
+        },
+        {
+          "title": "魏建军跨界建议",
+          "summary": "董明珠建议魏建军造拖拉机",
+          "detail": "魏建军在参观格力电器总部时，董明珠建议长城可以考虑进入农业装备领域，比如造拖拉机，认为长城已经掌握了成熟的汽车核心技术。",
+          "usage": "💡 同事聊跨界时\n💬 董明珠建议魏建军造拖拉机，真是脑洞大开！\n🔥 魏建军 董明珠 拖拉机",
+          "src_id": 2,
+          "tags": [
+            "魏建军",
+            "跨界"
+          ],
+          "source": "https://www.huxiu.com/article/4908806.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "联邦快递收购",
+          "summary": "联邦快递买下波兰物流公司",
+          "detail": "11月20日，联邦快递联手私募基金Advent、A&R和PPF，买下了波兰物流公司InPost。整笔交易估值约78亿欧元。",
+          "usage": "💡 同事聊物流行业时\n💬 联邦快递大动作，78亿欧元买下波兰物流公司！\n🔥 联邦快递 物流 收购",
+          "src_id": 5,
+          "tags": [
+            "联邦快递",
+            "收购"
+          ],
+          "source": "https://www.huxiu.com/article/4908803.html?f=rss"
+        },
+        {
+          "title": "二手电商热潮",
+          "summary": "欧洲二手电商平台Vinted销量大增",
+          "detail": "今年的欧洲圣诞购物季，二手商品正在成为一种热门的礼物选择。11月26日，《Vogue》报道称，欧洲二手电商平台Vinted今年11月与多家知名电商平台合作，推出了二手商品专区，销量大幅增长。",
+          "usage": "💡 同事聊电商时\n💬 欧洲二手电商今年圣诞火了！\n🔥 二手电商 欧洲 圣诞",
+          "src_id": 1,
+          "tags": [
+            "二手电商",
+            "欧洲"
+          ],
+          "source": "https://www.huxiu.com/article/4908807.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "武大女教授免职",
+          "summary": "遭举报的武大女教授已被免职",
+          "detail": "近日，武汉大学某女教授因涉嫌学术不端被举报，校方经过调查后决定免去其职务。",
+          "usage": "💡 同事聊学术新闻时\n💬 武大女教授因学术不端被免职了，真是学术圈大新闻！\n🔥 武大 学术不端 免职",
+          "src_id": 13,
+          "tags": [
+            "武大",
+            "免职"
+          ],
+          "source": "https://www.toutiao.com/trending/7712441565330866226/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712441565330866226%22%2C%22hot_board_impr_id%22%3A%2220261127032020FA02B528A3D957C9341F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%81%AD%E4%B8%BE%E6%8A%A5%E7%9A%84%E6%AD%A6%E5%A4%A7%E5%A5%B3%E6%95%99%E6%8E%88%E5%B7%B2%E8%A2%AB%E5%85%8D%E8%81%8C%22%7D&rank=&style_id=40132&topic_id=7712441565330866226"
+        },
+        {
+          "title": "蔡赴朝被开除党籍",
+          "summary": "75岁正部级蔡赴朝被开除党籍",
+          "detail": "近日，75岁的正部级官员蔡赴朝因严重违纪被开除党籍，引发了广泛关注。",
+          "usage": "💡 同事聊政治新闻时\n💬 正部级官员蔡赴朝被开除党籍了，真是大新闻！\n🔥 蔡赴朝 开除党籍 违纪",
+          "src_id": 17,
+          "tags": [
+            "蔡赴朝",
+            "开除党籍"
+          ],
+          "source": "https://www.toutiao.com/trending/7712417598192844809/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712417598192844809%22%2C%22hot_board_impr_id%22%3A%2220261127032020FA02B528A3D957C9341F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2275%E5%B2%81%E6%AD%A3%E9%83%A8%E7%BA%A7%E8%94%A1%E8%B5%B4%E6%9C%9D%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%22%7D&rank=&style_id=40132&topic_id=7712417598192844809"
+        }
+      ]
+    },
+    {
+      "name": "前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "工业软件全球化",
+          "summary": "中国工业软件走向全球",
+          "detail": "笔者本科和硕士毕业于清华大学电子工程专业，从事工业软件与嵌入式相关研发、全球化业务多年，产品销往多个国家。常年奔波世界各地，和不同国家的本土工程师、产业合作，推动中国工业软件走向全球。",
+          "usage": "💡 同事聊工业软件时\n💬 中国工业软件正在走向全球，厉害了！\n🔥 工业软件 全球化 中国",
+          "src_id": 3,
+          "tags": [
+            "工业软件",
+            "全球化"
+          ],
+          "source": "https://www.huxiu.com/article/4908805.html?f=rss"
+        },
+        {
+          "title": "物流技术创新",
+          "summary": "联邦快递收购波兰物流公司",
+          "detail": "11月20日，联邦快递联手私募基金Advent、A&R和PPF，买下了波兰物流公司InPost。整笔交易估值约78亿欧元，联邦快递计划通过这次收购进一步推动物流技术创新。",
+          "usage": "💡 同事聊物流技术时\n💬 联邦快递78亿欧元收购波兰物流公司，技术创新再出发！\n🔥 联邦快递 物流技术 收购",
+          "src_id": 5,
+          "tags": [
+            "物流技术",
+            "收购"
+          ],
+          "source": "https://www.huxiu.com/article/4908803.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "二手商品专区",
+          "summary": "欧洲电商平台推出二手商品专区",
+          "detail": "今年的欧洲圣诞购物季，二手商品正在成为一种热门的礼物选择。11月26日，《Vogue》报道称，欧洲二手电商平台Vinted今年11月与多家知名电商平台合作，推出了二手商品专区，销量大幅增长。",
+          "usage": "💡 同事聊电商新品时\n💬 欧洲电商平台今年推出二手商品专区，火了！\n🔥 二手商品 电商 欧洲",
+          "src_id": 1,
+          "tags": [
+            "二手商品",
+            "电商"
+          ],
+          "source": "https://www.huxiu.com/article/4908807.html?f=rss"
+        },
+        {
+          "title": "拖拉机新业务",
+          "summary": "长城考虑进入农业装备领域",
+          "detail": "11月26日，魏建军到访珠海格力电器总部。参观临近尾声，董明珠提了一个建议：长城已经掌握了成熟的汽车核心技术，可以考虑进入农业装备领域，比如造拖拉机。",
+          "usage": "💡 同事聊汽车新品时\n💬 长城要造拖拉机了，真是跨界高手啊！\n🔥 长城 拖拉机 跨界",
+          "src_id": 2,
+          "tags": [
+            "长城",
+            "拖拉机"
+          ],
+          "source": "https://www.huxiu.com/article/4908806.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "物流公司收购案",
+          "summary": "联邦快递收购波兰物流公司",
+          "detail": "11月20日，联邦快递联手私募基金Advent、A&R和PPF，买下了波兰物流公司InPost。整笔交易估值约78亿欧元，联邦快递计划通过这次收购进一步推动物流技术创新。",
+          "usage": "💡 同事聊创业故事时\n💬 联邦快递78亿欧元收购波兰物流公司，真是大手笔！\n🔥 联邦快递 物流 收购",
+          "src_id": 5,
+          "tags": [
+            "联邦快递",
+            "收购"
+          ],
+          "source": "https://www.huxiu.com/article/4908803.html?f=rss"
+        },
+        {
+          "title": "二手电商热潮",
+          "summary": "欧洲二手电商平台Vinted销量大增",
+          "detail": "今年的欧洲圣诞购物季，二手商品正在成为一种热门的礼物选择。11月26日，《Vogue》报道称，欧洲二手电商平台Vinted今年11月与多家知名电商平台合作，推出了二手商品专区，销量大幅增长。",
+          "usage": "💡 同事聊创业故事时\n💬 欧洲二手电商今年圣诞火了，真是创业好时机！\n🔥 二手电商 欧洲 圣诞",
+          "src_id": 1,
+          "tags": [
+            "二手电商",
+            "欧洲"
+          ],
+          "source": "https://www.huxiu.com/article/4908807.html?f=rss"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-26T19:24:42.282Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 4895,
+    "completion_tokens": 2346,
+    "total_tokens": 7241,
+    "cost_usd": 0.0036733032000000002,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 2,
+      "published": 14
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 5,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 17
+    }
+  }
+}
