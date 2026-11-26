@@ -1,0 +1,133 @@
+{
+  "categories": [
+    {
+      "name": "🚀 前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "React 19 预览",
+          "summary": "React 19 新特性预览发布",
+          "detail": "React 19 的新特性预览版本已经发布，包括了新的并发渲染优化和组件生命周期改进，开发者可以提前体验并给出反馈。",
+          "usage": "你觉得 React 19 的并发渲染优化怎么样？我感觉这会大大提升应用的流畅度。",
+          "source": "",
+          "tags": [
+            "React",
+            "前端"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📱 React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN 新架构",
+          "summary": "RN 新架构全面上线",
+          "detail": "React Native 的新架构 Fabric 和 New Architecture 已经全面上线，带来了性能的显著提升和更好的跨平台支持。",
+          "usage": "你有没有试过新架构的 React Native？据说性能提升了不少，特别是大型应用。",
+          "source": "",
+          "tags": [
+            "React Native",
+            "移动开发"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🤖 AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "AI 代码助手",
+          "summary": "AI 代码助手新功能",
+          "detail": "最新的 AI 代码助手如 Cursor 和 Copilot 增加了新功能，能够更好地理解开发者的需求，提供更精准的代码建议。",
+          "usage": "最近用 AI 代码助手了吗？新功能确实很智能，写代码效率提升了不少。",
+          "source": "",
+          "tags": [
+            "AI",
+            "编程"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📘 TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "TypeScript 5.3",
+          "summary": "TypeScript 5.3 发布",
+          "detail": "TypeScript 5.3 版本发布，新增了多个语法糖和类型检查优化，提升了开发体验。",
+          "usage": "TypeScript 5.3 的新特性你用了吗？我觉得这个版本的类型检查特别给力。",
+          "source": "",
+          "tags": [
+            "TypeScript",
+            "JavaScript"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🌟 开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "Firecrawl 火爆",
+          "summary": "Firecrawl 开源项目火爆",
+          "detail": "Firecrawl 是一个知识基础设施项目，通过统一的 API 访问 550+ 数据源，近期在 GitHub 上获得了大量关注。",
+          "usage": "你有没有关注 Firecrawl 这个开源项目？它的 API 设计真的很巧妙，访问数据源特别方便。",
+          "source": "https://github.com/firecrawl/firecrawl",
+          "tags": [
+            "开源",
+            "API"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "😄 开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "代码高尔夫",
+          "summary": "GPT-6.2 击败代码高尔夫",
+          "detail": "GPT-6.2 Astra 首次击败了 Google 工程师的代码高尔夫记录，展示了 AI 在编程竞赛中的强大能力。",
+          "usage": "听说 GPT-6.2 在代码高尔夫上击败了 Google 工程师，AI 编程真是越来越强大了。",
+          "source": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+          "tags": [
+            "AI",
+            "编程比赛"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-26T05:21:32.256Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2032,
+    "completion_tokens": 842,
+    "total_tokens": 2874,
+    "cost_usd": 0.0013892022,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 10,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}

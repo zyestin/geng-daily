@@ -1,0 +1,265 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "AI抓贪官",
+          "summary": "AI技术协助反腐新突破",
+          "detail": "近日，AI技术被用于反腐工作，辅助识别贪腐线索，效率惊人。网友调侃：这下贪官们得学编程了，不然连怎么被抓的都不知道。技术团队表示，AI主要是分析大数据，识别异常行为模式，但具体案件仍需人工核查。",
+          "usage": "💡 聊AI应用新场景\n💬 AI现在连抓贪官都会了，程序员地位又上升了\n🔥 AI反腐 大数据",
+          "source": "https://www.toutiao.com/trending/7712002196388905023/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712002196388905023%22%2C%22hot_board_impr_id%22%3A%2220261126132133D26C047479563A568837%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22AI%E6%AD%A3%E5%9C%A8%E5%B8%AE%E5%BF%99%E6%8A%93%E8%B4%AA%E5%AE%98%22%7D&rank=&style_id=40132&topic_id=7712002196388905023",
+          "tags": [
+            "AI",
+            "反腐",
+            "大数据"
+          ]
+        },
+        {
+          "title": "神舟二十四号",
+          "summary": "中国航天新任务看点",
+          "detail": "神舟二十四号任务即将启动，这次将进行多项新技术验证，包括长期驻留和空间站扩建等。网友们已经开始猜测：这次会不会有新的太空网红诞生？航天局表示，任务重点在于科学实验和技术积累，不是拍短视频。",
+          "usage": "💡 聊中国航天新进展\n💬 神舟二十四号要来了，这次能刷多久的太空朋友圈？\n🔥 神舟 航天 空间站",
+          "source": "https://www.toutiao.com/article/7712070359566254628",
+          "tags": [
+            "航天",
+            "神舟",
+            "空间站"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "达里奥开炮",
+          "summary": "桥水创始人炮轰同行",
+          "detail": "昨夜，桥水基金创始人达里奥发长文炮轰金融同行，称他们只顾短期利益，不顾市场健康。业内人士调侃：达里奥这是要当金融圈的纪检委？文章引发热议，但不少同行表示：说得对，但我们改不了。",
+          "usage": "💡 聊金融圈内斗\n💬 达里奥开炮：金融圈都是短期主义者，除了我\n🔥 达里奥 桥水 金融",
+          "source": "https://www.huxiu.com/article/4908630.html?f=rss",
+          "tags": [
+            "达里奥",
+            "金融",
+            "桥水"
+          ]
+        },
+        {
+          "title": "蔡磊近况",
+          "summary": "渐冻症斗士进入终末期",
+          "detail": "渐冻症患者蔡磊病情进入终末期，妻子探视时全程无言。网友纷纷表示心疼：这对夫妻的坚强让人动容。蔡磊此前一直积极推动渐冻症研究，被称为'渐冻症斗士'。",
+          "usage": "💡 聊渐冻症与生命关怀\n💬 蔡磊进入终末期，这对夫妻的故事太催泪了\n🔥 蔡磊 渐冻症 生命",
+          "source": "https://www.toutiao.com/trending/7712275401497759258/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712275401497759258%22%2C%22hot_board_impr_id%22%3A%2220261126132133D26C047479563A568837%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%94%A1%E7%A3%8A%E5%B7%B2%E8%BF%9B%E5%85%A5%E6%B8%90%E5%86%BB%E7%97%87%E7%BB%88%E6%9C%AB%E6%9C%9F%22%7D&rank=&style_id=40132&topic_id=7712275401497759258",
+          "tags": [
+            "蔡磊",
+            "渐冻症",
+            "生命"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "Anthropic收购",
+          "summary": "AI巨头收购一人公司",
+          "detail": "Anthropic收购了一家只有一名员工的生物科技公司，该公司研发了一款有望治疗罕见病的药物。网友吐槽：这是要搞AI+生物跨界？还是单纯买了个专利？Anthropic表示，这是其AI技术在医疗领域应用的一部分。",
+          "usage": "💡 聊AI公司跨界\n💬 Anthropic收购一人公司，AI现在连生物医药都要掺和？\n🔥 Anthropic 收购 生物科技",
+          "source": "https://www.huxiu.com/article/4908629.html?f=rss",
+          "tags": [
+            "Anthropic",
+            "收购",
+            "生物科技"
+          ]
+        },
+        {
+          "title": "华发终止定增",
+          "summary": "110亿永续债引争议",
+          "detail": "华发股份终止定增，转而发行110亿永续债，引发市场关注。业内人士调侃：这是要把债主变成股东？华发表示这是优化资本结构的举措，但投资者担心这会稀释普通股权益。",
+          "usage": "💡 聊企业融资花样\n💬 华发这波操作：把债主变成永远的朋友？\n🔥 华发 永续债 融资",
+          "source": "https://www.huxiu.com/article/4908624.html?f=rss",
+          "tags": [
+            "华发",
+            "永续债",
+            "融资"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "Arc浏览器关停",
+          "summary": "开源浏览器接棒",
+          "detail": "Arc浏览器即将关停，一款开源浏览器被推荐接棒。用户纷纷表示：又一个产品倒在商业化路上？开发者解释，关停是因为无法持续维护，开源替代品功能相似且更稳定。",
+          "usage": "💡 聊产品生命周期\n💬 Arc倒了，又一个好产品死在商业化路上\n🔥 Arc 浏览器 开源",
+          "source": "https://www.huxiu.com/article/4908613.html?f=rss",
+          "tags": [
+            "Arc",
+            "浏览器",
+            "开源"
+          ]
+        },
+        {
+          "title": "Agent进系统",
+          "summary": "企业控制权重建难题",
+          "detail": "AI Agent进入企业核心系统，引发组织如何重建控制权的讨论。技术派认为这是效率革命，管理层则担心失控。有员工吐槽：这下连摸鱼都要跟AI斗智斗勇了。",
+          "usage": "💡 聊AI对企业管理影响\n💬 Agent进系统，以后摸鱼得先过AI这关？\n🔥 Agent 企业管理 AI",
+          "source": "https://www.huxiu.com/article/4908618.html?f=rss",
+          "tags": [
+            "Agent",
+            "企业管理",
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "具身智能争议",
+          "summary": "技术叙事第二波？",
+          "detail": "具身智能领域经历剧烈情绪摆荡，有人断言'真正的技术叙事第二波，要等第一批尸体变成肥料之后'。业内人士分成两派：看好者认为是下一风口，看衰者觉得是资本泡沫。",
+          "usage": "💡 聊技术炒作周期\n💬 具身智能：等第一批尸体变肥料才能见真章？\n🔥 具身智能 技术叙事 投资",
+          "source": "https://www.huxiu.com/article/4908608.html?f=rss",
+          "tags": [
+            "具身智能",
+            "技术",
+            "投资"
+          ]
+        },
+        {
+          "title": "商业航天诉讼",
+          "summary": "新西兰航空被调查",
+          "detail": "新西兰商业委员会准备对新西兰航空提起诉讼，因其涉嫌在航班延误、取消后误导旅客。网友调侃：商业航天还在画饼，传统航司已经在挨打了。",
+          "usage": "💡 聊商业航天与监管\n💬 商业航天还在PPT阶段，传统航司已经被监管盯上了\n🔥 商业航天 监管 航空",
+          "source": "https://www.huxiu.com/article/4908616.html?f=rss",
+          "tags": [
+            "商业航天",
+            "监管",
+            "航空"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "欧舒丹对手",
+          "summary": "一年卖150万瓶",
+          "detail": "欧舒丹的中国对手浴见一年卖出近150万瓶产品，主打本土化创新。业内人士点评：国际大牌压力大了，本土品牌知道中国消费者真正想要什么。",
+          "usage": "💡 聊本土品牌崛起\n💬 欧舒丹的中国对手一年卖150万瓶，国际大牌慌不慌？\n🔥 欧舒丹 本土品牌 浴见",
+          "source": "https://www.huxiu.com/article/4908600.html?f=rss",
+          "tags": [
+            "欧舒丹",
+            "本土品牌",
+            "浴见"
+          ]
+        },
+        {
+          "title": "地铁涨价潮",
+          "summary": "上海地铁涨21.3%",
+          "detail": "上海地铁票价平均上涨21.3%，引发新一轮地铁涨价讨论。通勤族吐槽：工资没涨，交通费先涨了。官方解释是运营成本上升，但优惠措施会跟进。",
+          "usage": "💡 聊公共服务涨价\n💬 地铁涨价潮来了，通勤族的钱包又瘦了\n🔥 地铁 涨价 公共服务",
+          "source": "https://www.huxiu.com/article/4908604.html?f=rss",
+          "tags": [
+            "地铁",
+            "涨价",
+            "公共服务"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "葡萄创业",
+          "summary": "水果界的核动力",
+          "detail": "葡萄被称为水果界的核动力牛马，适应力强、经济价值高，带动了一批农业创业项目。创业者表示：种葡萄比写代码稳定多了。",
+          "usage": "💡 聊农业创业\n💬 葡萄创业：比写代码还稳定的选择？\n🔥 葡萄 创业 农业",
+          "source": "https://www.huxiu.com/article/4907661.html?f=rss",
+          "tags": [
+            "葡萄",
+            "创业",
+            "农业"
+          ]
+        },
+        {
+          "title": "律师劝退",
+          "summary": "光鲜职业的另一面",
+          "detail": "法律行业看似光鲜，实则压力山大，越来越多年轻人被劝退。业内人士直言：电视剧里的律师和现实差距太大，不是每个人都能handle几个亿的并购案和几十万的咨询费。",
+          "usage": "💡 聊职业现实差距\n💬 律师职业劝退指南：先看看自己能不能扛住几个亿的压力\n🔥 律师 职业 压力",
+          "source": "https://www.huxiu.com/article/4908607.html?f=rss",
+          "tags": [
+            "律师",
+            "职业",
+            "压力"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "币圈风云",
+      "icon": "🪙",
+      "items": [
+        {
+          "title": "加密政策转向",
+          "summary": "特朗普时代36项推翻",
+          "detail": "特朗普重返白宫后，美国加密监管出现明显转向，36项政策可能被推翻。币圈人士分成两派：有人欢呼春天来了，有人担心这是最后一波狂欢。",
+          "usage": "💡 聊加密监管变化\n💬 币圈新政：特朗普一回来，加密的春天就来了？\n🔥 加密 监管 特朗普",
+          "source": "https://www.huxiu.com/article/4908615.html?f=rss",
+          "tags": [
+            "加密",
+            "监管",
+            "特朗普"
+          ]
+        },
+        {
+          "title": "民主党加密政策",
+          "summary": "加密行业面临考验",
+          "detail": "民主党执政下的加密政策被认为对行业不利，业内人士感叹：民主党兴，加密要完？但也有分析指出，监管加强长远来看对行业是好事。",
+          "usage": "💡 聊政治与加密\n💬 民主党上台，币圈又要瑟瑟发抖了？\n🔥 加密 民主党 监管",
+          "source": "https://www.huxiu.com/article/4908615.html?f=rss",
+          "tags": [
+            "加密",
+            "民主党",
+            "监管"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-26T05:22:43.369Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 5623,
+    "completion_tokens": 3396,
+    "total_tokens": 9019,
+    "cost_usd": 0.0049408253999999995,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 12,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 24
+    }
+  }
+}

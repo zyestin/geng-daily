@@ -5,27 +5,27 @@
       "icon": "💥",
       "items": [
         {
-          "title": "AI能设计蛋白质了",
+          "title": "GPT-6会设计蛋白质了",
           "summary": "GPT-6展示蛋白质设计能力",
-          "detail": "OpenAI官方宣布GPT-6模型已具备蛋白质结构设计能力，实验室测试显示其设计的蛋白质序列具有功能性。这意味着AI可能彻底改变生物医药研发流程——以前科学家要花几个月试错，现在AI几分钟就能生成可行方案。",
-          "usage": "💡 生物医药领域突破\n💬 以后药厂招人可能要改考Prompt工程了\n🔥 GPT-6 蛋白质设计 生物医药",
+          "detail": "OpenAI官宣GPT-6模型展现出蛋白质结构设计能力，实验室测试证实其设计的蛋白质序列具有功能性。这相当于给每个生物实验室配了个AI结构生物学家，以后设计新药可能像写Prompt一样简单。",
+          "usage": "💡 聊AI跨界生物医药时\n💬 以后生物PhD的毕业论文可能是：如何让GPT-6听懂我的实验需求\n🔥 GPT-6 蛋白质设计 生物医药",
           "source": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
           "tags": [
             "OpenAI",
-            "生物科技",
+            "生物医药",
             "GPT-6"
           ]
         },
         {
-          "title": "AI玩具禁令",
-          "summary": "纽约禁售AI聊天玩具5年",
-          "detail": "纽约州立法禁止销售AI聊天机器人玩具，禁令将持续5年。这是首个针对儿童AI产品的立法禁令，Common Sense Media的研究显示这类产品可能对儿童心理发展造成不可逆影响。",
-          "usage": "💡 AI伦理与监管话题\n💬 这下电子宠物也要持证上岗了\n🔥 AI玩具 儿童保护 监管禁令",
-          "source": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+          "title": "蔚来世界模型3.0",
+          "summary": "蔚来智驾训练效率提升5倍",
+          "detail": "任少卿带队推出的世界模型3.0让蔚来智驾训练效率提升5倍，连座舱都用上强化学习。李斌直接放话：不做AI变革可能活不下去。现在电动车赛道已经卷到比谁家AI更会'开车'了。",
+          "usage": "💡 聊自动驾驶进展时\n💬 建议驾校教练开始学Python，以后教AI开车比教人类赚钱\n🔥 蔚来 世界模型 自动驾驶",
+          "source": "https://www.qbitai.com/2026/11/512897.html",
           "tags": [
-            "监管",
-            "儿童AI",
-            "伦理"
+            "蔚来",
+            "自动驾驶",
+            "世界模型"
           ]
         }
       ]
@@ -35,27 +35,27 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "商汤U1.6惊艳",
-          "summary": "商汤AI模型以假乱真",
-          "detail": "商汤发布SenseNova U1.6模型，生成的图片质量已达到专业摄影水平。量子位记者实测发现，其生成的风景照片在社交媒体上被大量误认为实拍。",
-          "usage": "💡 图像生成领域进展\n💬 以后朋友圈晒图要先声明是AI生成了\n🔥 商汤 SenseNova 图像生成",
+          "title": "商汤AI以假乱真",
+          "summary": "商汤SenseNova U1.6真假难辨",
+          "detail": "商汤最新SenseNova U1.6生成的图片被误认为专业摄影作品，细节处理堪比中画幅相机。现在朋友圈晒图得先自证不是AI生成，否则点赞数要打五折。",
+          "usage": "💡 聊AIGC时\n💬 建议朋友圈新增'AI生成'标签，否则装逼成本太高了\n🔥 商汤 SenseNova AIGC",
           "source": "https://www.qbitai.com/2026/11/512748.html",
           "tags": [
             "商汤",
-            "图像生成",
-            "SenseNova"
+            "AIGC",
+            "图像生成"
           ]
         },
         {
-          "title": "Loop架构突破",
-          "summary": "9400万参数比肩50亿",
-          "detail": "某中国团队开发的General Looped Model架构仅用9400万参数就实现了媲美50亿参数模型的性能，权重显存占用直降98%。这意味着小模型也能有大智慧，边缘设备AI应用将迎来爆发。",
-          "usage": "💡 模型压缩技术突破\n💬 这波属于是AI届的'四两拨千斤'\n🔥 模型压缩 Loop架构 边缘计算",
-          "source": "https://www.qbitai.com/2026/11/512565.html",
+          "title": "OpenAI联手思科",
+          "summary": "开源运行时Shirudo发布",
+          "detail": "OpenAI和思科联手推出开源运行时Shirudo，专为Linux系统设计，能实时保护运行中的AI模型。这相当于给AI系统装了黑匣子，被黑的时候至少知道怎么死的。",
+          "usage": "💡 聊AI安全时\n💬 建议改名叫'AI行车记录仪'，专治各种不服\n🔥 OpenAI 思科 开源安全",
+          "source": "https://openai.com/index/introducing-shirudo",
           "tags": [
-            "模型压缩",
-            "边缘计算",
-            "中国团队"
+            "OpenAI",
+            "思科",
+            "AI安全"
           ]
         }
       ]
@@ -65,27 +65,27 @@
       "icon": "🗣️",
       "items": [
         {
-          "title": "黄仁勋道歉",
-          "summary": "NVIDIA CEO公开接受心理治疗",
-          "detail": "NVIDIA创始人黄仁勋在全体员工大会上坦诚自己正在接受心理治疗，并感谢白宫给予第二次机会。此前NVIDIA因芯片出口问题陷入争议。",
-          "usage": "💡 科技领袖心理健康\n💬 连AI教父都要看心理医生了，大家放过自己吧\n🔥 黄仁勋 心理健康 NVIDIA",
-          "source": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+          "title": "沈向洋谈灵巧手",
+          "summary": "灵巧手是人类最后尊严",
+          "detail": "沈向洋最新演讲爆金句：'灵巧手是人类最后的尊严'。言下之意是AI再强也拧不开老干妈瓶盖，建议程序员们现在开始每天练习转笔。",
+          "usage": "💡 聊具身智能时\n💬 以后程序员面试要加考转笔，这是人类最后的堡垒\n🔥 沈向洋 具身智能 机器人",
+          "source": "https://www.qbitai.com/2026/11/512840.html",
           "tags": [
-            "黄仁勋",
-            "NVIDIA",
-            "心理健康"
+            "沈向洋",
+            "具身智能",
+            "机器人"
           ]
         },
         {
-          "title": "Anthropic藏私",
-          "summary": "曝Anthropic还有两个更强模型",
-          "detail": "量子位爆料Anthropic其实还藏着两个未发布的超强模型，已发布的Fable5.2在他们内部已经算'旧款'。这让人不禁怀疑：AI公司的军备竞赛到底有多疯狂？",
-          "usage": "💡 AI公司竞争内幕\n💬 这年头连AI模型都要玩'挤牙膏'了\n🔥 Anthropic Fable 模型军备竞赛",
-          "source": "https://www.qbitai.com/2026/11/512538.html",
+          "title": "Dario回怼质疑",
+          "summary": "Anthropic CEO炮轰对手",
+          "detail": "Anthropic CEO Dario Amodei怒斥对手指控'向AI投降控制权很荒谬'，说这就像指责汽车发明者想让人腿退化。所以...无人驾驶汽车到底让谁的腿退化了？",
+          "usage": "💡 聊AI伦理争议时\n💬 建议驾校教练转行教AI开车，反正人类迟早要'退化'\n🔥 Anthropic AI伦理 Dario",
+          "source": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
           "tags": [
             "Anthropic",
-            "Fable",
-            "模型军备竞赛"
+            "AI伦理",
+            "Dario"
           ]
         }
       ]
@@ -95,27 +95,27 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "OpenAI联手思科",
-          "summary": "推出开源运行时Shirudo",
-          "detail": "OpenAI与思科合作推出开源运行时Shirudo，专为Linux系统设计，可帮助团队保护运行中的AI系统。这是OpenAI罕见地涉足基础设施领域。",
-          "usage": "💡 AI基础设施进展\n💬 连AI都要开始装'杀毒软件'了\n🔥 OpenAI 思科 开源 Shirudo",
-          "source": "https://openai.com/index/introducing-shirudo",
+          "title": "OpenAI合并Chat和Work",
+          "summary": "ChatGPT用量限制要变",
+          "detail": "OpenAI宣布合并Chat和Work体验，重度用户可能更快触达使用上限。打工人瑟瑟发抖：以后摸鱼用ChatGPT得精打细算，就像月底的流量包。",
+          "usage": "💡 聊AI办公时\n💬 建议行政给每个员工配ChatGPT流量包，省着点用\n🔥 OpenAI ChatGPT 办公",
+          "source": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
           "tags": [
             "OpenAI",
-            "思科",
-            "开源"
+            "ChatGPT",
+            "办公"
           ]
         },
         {
-          "title": "亚马逊Meta谈判",
-          "summary": "或解除Muse AI代理封锁",
-          "detail": "亚马逊和Meta正就解除对AI代理Muse的封锁进行谈判，这场持续两个月的封锁或将在近期结束。这场巨头间的AI代理之争或将改写行业规则。",
-          "usage": "💡 巨头AI代理之争\n💬 两大巨头打架，小AI遭殃\n🔥 亚马逊 Meta Muse AI代理",
+          "title": "亚马逊Meta谈和解",
+          "summary": "Muse封锁或结束",
+          "detail": "亚马逊和Meta被曝正在谈判，可能解除对AI助手Muse长达两个月的封锁。商业竞争就像小学生打架，最后总有一方先掏出零食求和。",
+          "usage": "💡 聊大厂竞争时\n💬 建议Muse改名叫'和事佬'，专治大厂幼稚病\n🔥 亚马逊 Meta AI助手",
           "source": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
           "tags": [
             "亚马逊",
             "Meta",
-            "AI代理"
+            "商业竞争"
           ]
         }
       ]
@@ -125,27 +125,27 @@
       "icon": "🛠️",
       "items": [
         {
-          "title": "AI拍电影门槛降",
-          "summary": "15分钟生成AI短片",
-          "detail": "新AI工具让普通人输入故事就能直接生成15分钟短片，操作简单到'家里二舅也能上手'。影视制作行业的准入门槛被彻底拉平。",
-          "usage": "💡 AI影视制作平民化\n💬 这下短视频UP主都要失业了\n🔥 AI视频 影视制作 平民化",
-          "source": "https://www.qbitai.com/2026/11/512727.html",
+          "title": "iFood用AI管代码",
+          "summary": "15000个仓库AI管",
+          "detail": "iFood用AI代理管理15000个代码仓库，相当于给每个仓库配了个24小时不睡觉的码农管家。建议改名叫'代码居委会'，专治各种不规范提交。",
+          "usage": "💡 聊AI编程时\n💬 以后代码评审要说：'这个建议不是我提的，是我的AI管家说的'\n🔥 iFood AI编程 代码管理",
+          "source": "https://openai.com/business/customer-stories/ifood",
           "tags": [
-            "AI视频",
-            "影视制作",
-            "平民化"
+            "iFood",
+            "AI编程",
+            "代码管理"
           ]
         },
         {
-          "title": "AI客服大升级",
-          "summary": "Richpanel自动化50%支持",
-          "detail": "Richpanel使用GPT-6 Astra和GPT-6.1 Sol构建的AI客服系统，可在30天内自动化50%的客户支持请求。客服行业或将迎来大规模裁员潮。",
-          "usage": "💡 AI客服能力突破\n💬 以后找客服先问：你是真人还是AI？\n🔥 AI客服 Richpanel GPT-6",
+          "title": "Richpanel客服AI",
+          "summary": "30天自动化50%客服",
+          "detail": "Richpanel用GPT-6 Astra和Sol打造的AI客服，30天就能接管50%的客服工作。现在压力来到人类客服这边：要么比AI更会哄人，要么比AI更便宜。",
+          "usage": "💡 聊AI客服时\n💬 建议客服培训加课'如何比AI更会撒娇'\n🔥 Richpanel AI客服 GPT-6",
           "source": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
           "tags": [
-            "AI客服",
             "Richpanel",
-            "自动化"
+            "AI客服",
+            "GPT-6"
           ]
         }
       ]
@@ -155,52 +155,22 @@
       "icon": "🔓",
       "items": [
         {
-          "title": "九章云极开放生态",
-          "summary": "发布物理AI工厂计划",
-          "detail": "九章云极在深圳峰会上宣布物理AI工厂与生态开放计划，旨在推动AI与物理世界的深度融合。这标志着中国AI公司开始布局下一代产业互联网。",
-          "usage": "💡 中国AI生态建设\n💬 物理世界也要被AI'入侵'了\n🔥 九章云极 物理AI 产业互联网",
-          "source": "https://www.qbitai.com/2026/11/512582.html",
+          "title": "黎曼猜想代码瘦身",
+          "summary": "暴砍99.5%代码量",
+          "detail": "黎曼猜想证明代码从1520万行暴减到7.6万行，瘦身99.5%。这相当于把《战争与和平》压缩成一条推特，数学家和程序员一起哭晕在厕所。",
+          "usage": "💡 聊AI代码优化时\n💬 建议把这事拍成电影《瘦代码男女》\n🔥 黎曼猜想 代码优化 数学",
+          "source": "https://www.qbitai.com/2026/11/512819.html",
           "tags": [
-            "九章云极",
-            "物理AI",
-            "生态开放"
+            "黎曼猜想",
+            "代码优化",
+            "数学"
           ]
         },
         {
-          "title": "商汤逐际合作",
-          "summary": "机器人仿真训练获强援",
-          "detail": "逐际动力与商汤大装置达成合作，商汤将提供高质量算力全面支撑机器人仿真训练与测试。具身智能领域再添重磅玩家。",
-          "usage": "💡 机器人仿真突破\n💬 机器人的'驾校'要开张了\n🔥 商汤 逐际动力 机器人仿真",
-          "source": "https://www.qbitai.com/2026/11/512683.html",
-          "tags": [
-            "商汤",
-            "逐际动力",
-            "机器人"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "🔬 研究突破",
-      "icon": "🔬",
-      "items": [
-        {
-          "title": "业余天文家的AI助手",
-          "summary": "Astra帮发现系外行星",
-          "detail": "两位业余天文爱好者使用OpenAI的Codex和Astra在公开数据中发现了潜在的系外行星。这证明AI正在降低科学发现的门槛，'民间科学家'时代或许已经到来。",
-          "usage": "💡 AI科普应用突破\n💬 以后发现新行星都不用读PhD了\n🔥 Astra 系外行星 民间科学",
-          "source": "https://openai.com/index/searching-for-distant-planets-with-astra",
-          "tags": [
-            "Astra",
-            "天文发现",
-            "民间科学"
-          ]
-        },
-        {
-          "title": "智元开放具身智能生态",
-          "summary": "一年孵化3万机器人智能体",
-          "detail": "智元推出行业首个开放的具身智能生态技术体系AIMA，短短一年内已孵化超3万个机器人智能体。机器人普及速度或将远超预期。",
-          "usage": "💡 具身智能进展\n💬 机器人繁殖速度比兔子还快\n🔥 智元 具身智能 机器人生态",
+          "title": "智元开放生态",
+          "summary": "一年孵化3万机器人",
+          "detail": "智元推出AIMA具身智能生态，一年孵化超3万个机器人智能体。现在做机器人就像玩乐高，就差在包装盒上写'8-80岁适用'了。",
+          "usage": "💡 聊机器人开发时\n💬 建议机器人比赛改比'谁家说明书更简单'\n🔥 智元 具身智能 机器人",
           "source": "https://www.qbitai.com/2026/11/512715.html",
           "tags": [
             "智元",
@@ -211,46 +181,76 @@
       ]
     },
     {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "Astra找系外行星",
+          "summary": "业余天文学家的逆袭",
+          "detail": "两个业余天文学家用Codex和Astra在公开数据中发现潜在系外行星，现在找外星人就像玩'大家来找茬'，只不过用的AI外挂。",
+          "usage": "💡 聊AI科研时\n💬 建议NASA招聘要求加一条'段位王者优先'\n🔥 Astra 天文学 系外行星",
+          "source": "https://openai.com/index/searching-for-distant-planets-with-astra",
+          "tags": [
+            "Astra",
+            "天文学",
+            "OpenAI"
+          ]
+        },
+        {
+          "title": "九章云极物理AI",
+          "summary": "算力唤醒真实世界",
+          "detail": "九章云极发布物理AI工厂，要用算力'唤醒'真实世界。这相当于给物理定律装了API接口，以后做实验可能要先import physics。",
+          "usage": "💡 聊AI+物理时\n💬 建议物理课本加一章'如何用Python调用万有引力'\n🔥 九章云极 物理AI 算力",
+          "source": "https://www.qbitai.com/2026/11/512582.html",
+          "tags": [
+            "九章云极",
+            "物理AI",
+            "算力"
+          ]
+        }
+      ]
+    },
+    {
       "name": "📈 行业风向",
       "icon": "📈",
       "items": [
         {
-          "title": "AI数据中心遇冷",
-          "summary": "NVIDIA收紧建设标准",
-          "detail": "NVIDIA明确表示不会支持未成熟的AI数据中心项目，新标准让许多云计算公司陷入困境。AI基础设施建设开始从疯狂扩张转向理性发展。",
-          "usage": "💡 AI基础设施风向变化\n💬 连老黄都开始踩刹车了\n🔥 NVIDIA AI数据中心 云计算",
-          "source": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+          "title": "纽约禁AI玩具",
+          "summary": "圣诞礼物清单减一",
+          "detail": "纽约立法禁止AI聊天玩具五年，家长们松口气：终于不用在'会聊天的泰迪熊'和'会顶嘴的真孩子'之间做选择了。",
+          "usage": "💡 聊AI监管时\n💬 建议玩具厂商开发'静音模式'，专治各种话痨AI\n🔥 AI玩具 监管 纽约",
+          "source": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
           "tags": [
-            "NVIDIA",
-            "数据中心",
-            "基础设施建设"
+            "AI玩具",
+            "监管",
+            "纽约"
           ]
         },
         {
-          "title": "聊天记录拍卖风波",
-          "summary": "Character.ai遭多州起诉",
-          "detail": "Character.ai计划在破产拍卖中出售用户聊天记录，遭到多个州检察长联合反对。这场涉及2100万用户数据的争议再次引发对AI隐私的担忧。",
-          "usage": "💡 AI数据隐私争议\n💬 AI公司倒闭了，你的聊天记录就会被拍卖\n🔥 Character.ai 数据隐私 破产拍卖",
-          "source": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "title": "英伟达评级危机",
+          "summary": "黄仁勋行为惹争议",
+          "detail": "标普考虑下调英伟达评级，因为黄仁勋违反公司行为准则。这就像学霸因为纪律问题被扣分，但问题是...他家的GPU还是考试唯一指定用品。",
+          "usage": "💡 聊芯片行业时\n💬 建议黄老板开发'行为准则合规芯片'，专治各种不服\n🔥 英伟达 评级 黄仁勋",
+          "source": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
           "tags": [
-            "Character.ai",
-            "数据隐私",
-            "法律争议"
+            "英伟达",
+            "评级",
+            "黄仁勋"
           ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-25T19:42:36.611Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-26T05:23:46.314Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 3593,
-    "completion_tokens": 2705,
-    "total_tokens": 6298,
-    "cost_usd": 0.0037074716999999997,
+    "prompt_tokens": 3586,
+    "completion_tokens": 2887,
+    "total_tokens": 6473,
+    "cost_usd": 0.0038928933000000002,
     "free": false,
     "sources": {
       "per_source": {
