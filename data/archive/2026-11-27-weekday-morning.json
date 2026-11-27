@@ -1,0 +1,133 @@
+{
+  "categories": [
+    {
+      "name": "前端框架",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "Next.js新动态",
+          "summary": "Next.js发布最新版本",
+          "detail": "Next.js最近发布了新版本，引入了多项新特性，包括更好的SSR支持和性能优化。开发者们对新版本的反馈非常积极，认为这将极大提升开发效率和用户体验。",
+          "usage": "你看了Next.js最新版本了吗？听说SSR支持更好了，咱们项目要不要试试升级？",
+          "source": "",
+          "tags": [
+            "Next.js",
+            "SSR"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "RN新架构",
+          "summary": "React Native新架构Fabric",
+          "detail": "React Native的新架构Fabric已经发布，带来了显著的性能提升和更好的跨平台支持。开发者们纷纷表示，这一更新将改变RN的生态，值得一试。",
+          "usage": "React Native的新架构Fabric你试了吗？性能提升真的很明显，咱们项目可以考虑迁移了。",
+          "source": "",
+          "tags": [
+            "React Native",
+            "Fabric"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI编程",
+      "icon": "🤖",
+      "items": [
+        {
+          "title": "AI生成UI",
+          "summary": "AI辅助UI设计",
+          "detail": "最近AI在UI设计领域取得了新进展，能够生成复杂的UI布局和设计元素。开发者们可以通过AI工具快速生成原型，极大提升设计效率。",
+          "usage": "你有没有用AI工具生成UI设计？效果真的很不错，可以节省不少时间。",
+          "source": "",
+          "tags": [
+            "AI",
+            "UI设计"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TS & JS",
+      "icon": "📘",
+      "items": [
+        {
+          "title": "TypeScript新特性",
+          "summary": "TypeScript发布新版本",
+          "detail": "TypeScript最新版本引入了多项新特性，包括更好的类型推断和更强大的工具链支持。开发者们对新版本的反馈非常积极，认为这将极大提升开发效率。",
+          "usage": "TypeScript新版本你看了吗？类型推断变得更智能了，咱们项目要不要升级一下？",
+          "source": "",
+          "tags": [
+            "TypeScript",
+            "新特性"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开源热门",
+      "icon": "🌟",
+      "items": [
+        {
+          "title": "GitHub热门项目",
+          "summary": "firecrawl项目star暴涨",
+          "detail": "firecrawl项目最近在GitHub上star暴涨，因其提供了一个统一的API接口，可以访问550多个数据提供商。开发者们纷纷表示，这一项目将极大简化数据获取过程。",
+          "usage": "你看了GitHub上firecrawl项目了吗？star涨得飞快，感觉咱们项目也能用得上。",
+          "source": "https://github.com/firecrawl/firecrawl",
+          "tags": [
+            "GitHub",
+            "firecrawl"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "开发者梗",
+      "icon": "😄",
+      "items": [
+        {
+          "title": "程序员段子",
+          "summary": "开发者文化新梗",
+          "detail": "程序员社区最近流行一个新梗，调侃开发者们在加班时总是忘记吃饭。这个梗迅速走红，成为社区内的热门话题。",
+          "usage": "你听说了吗？最近程序员社区在调侃加班忘了吃饭的梗，笑死我了。",
+          "source": "",
+          "tags": [
+            "程序员",
+            "段子"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-27T05:17:29.598Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 2011,
+    "completion_tokens": 831,
+    "total_tokens": 2842,
+    "cost_usd": 0.0013724811,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "hackernews": 15,
+        "reddit": 0,
+        "askhn": 8,
+        "lobsters": 10,
+        "devto": 10,
+        "v2ex": 9,
+        "juejin": 10,
+        "github": 10,
+        "qbitai": 8,
+        "infoq": 8
+      },
+      "total": 20
+    }
+  }
+}

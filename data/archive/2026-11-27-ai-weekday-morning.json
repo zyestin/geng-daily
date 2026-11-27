@@ -1,0 +1,248 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "GPT-6设计蛋白质",
+          "summary": "GPT-6展示蛋白质设计能力",
+          "detail": "OpenAI宣布GPT-6模型展示了内在的蛋白质设计能力，能够通过推理和代码设计蛋白质结构和序列。实验室测试证实了这一点。这意味着AI不仅能在文本和代码上大显身手，还能直接参与生物医学研究，未来可能在药物设计和生物工程领域掀起革命。",
+          "usage": "💡 同事讨论AI在医疗领域的应用时\n💬 GPT-6现在都能设计蛋白质了，AI真的要颠覆生物医学了\n🔥 GPT-6 蛋白质设计 生物医学",
+          "source": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "tags": [
+            "GPT-6",
+            "生物医学"
+          ]
+        },
+        {
+          "title": "纽约禁AI玩具",
+          "summary": "纽约禁止AI玩具5年",
+          "detail": "纽约州宣布在未来五年内禁止AI聊天机器人玩具销售。这一决定是基于Common Sense Media的新研究，显示这些玩具可能对儿童的心理健康产生负面影响。家长们今年圣诞节不得不寻找其他替代品了。",
+          "usage": "💡 讨论AI对儿童的影响时\n💬 纽约直接禁了AI玩具5年，家长们只能选传统玩具了\n🔥 AI玩具 纽约禁令 儿童安全",
+          "source": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+          "tags": [
+            "AI玩具",
+            "纽约禁令"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "腾讯混元Hy3D 3.6",
+          "summary": "腾讯发布Hy3D 3.6模型",
+          "detail": "腾讯混元发布了Hy3D 3.6模型，重点在于高模表面更整洁、结构更清晰、刻画更细腻。3D生成的竞争重点正从“能看”转向“能用”，显示出腾讯在3D生成技术上的进步。",
+          "usage": "💡 聊3D生成技术进展时\n💬 腾讯的Hy3D 3.6来了，3D生成从“能看”到“能用”\n🔥 腾讯 Hy3D 3D生成",
+          "source": "https://www.qbitai.com/2026/11/513155.html",
+          "tags": [
+            "腾讯混元",
+            "3D生成"
+          ]
+        },
+        {
+          "title": "OpenAI Shirudo",
+          "summary": "OpenAI推出Shirudo",
+          "detail": "OpenAI与Cisco合作推出了Shirudo，一个用于Linux的开源运行时，旨在帮助团队保护运行中的系统免受攻击。这一工具的发布标志着AI在网络安全领域的进一步应用。",
+          "usage": "💡 讨论网络安全时\n💬 OpenAI搞了个Shirudo，Linux系统这下更安全了\n🔥 OpenAI Shirudo 网络安全",
+          "source": "https://openai.com/index/introducing-shirudo",
+          "tags": [
+            "OpenAI",
+            "Shirudo"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "Amodei回应质疑",
+          "summary": "Dario Amodei反驳AI控制论",
+          "detail": "Anthropic CEO Dario Amodei公开反驳了竞争对手关于他倾向于将人类控制权交给AI的指控，称这种说法“荒谬”。他强调了Anthropic在AI安全和伦理方面的努力。",
+          "usage": "💡 讨论AI伦理时\n💬 Amodei说，交出人类控制权给AI？荒谬！\n🔥 Dario Amodei AI伦理",
+          "source": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+          "tags": [
+            "Dario Amodei",
+            "AI伦理"
+          ]
+        },
+        {
+          "title": "黄仁勋违规",
+          "summary": "黄仁勋违反Nvidia行为准则",
+          "detail": "Nvidia CEO黄仁勋最近被爆违反了公司行为准则，这一事件可能对公司的企业文化产生深远影响。员工们对此反应强烈，显示出公司内部的文化冲突。",
+          "usage": "💡 讨论企业文化和领导行为时\n💬 黄仁勋竟然违反了Nvidia的行为准则，这下员工们怎么想？\n🔥 黄仁勋 Nvidia 企业文化",
+          "source": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+          "tags": [
+            "黄仁勋",
+            "企业文化"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "Nvidia暂停芯片发货",
+          "summary": "Nvidia暂停东南亚芯片发货",
+          "detail": "Nvidia通知制造合作伙伴暂停向马来西亚、新加坡、泰国和越南等东南亚国家发货。这一决定可能影响到这些地区的AI和云计算基础设施的建设。",
+          "usage": "💡 讨论全球芯片供应链时\n💬 Nvidia暂停了东南亚的芯片发货，AI发展要受阻？\n🔥 Nvidia 芯片 东南亚",
+          "source": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "tags": [
+            "Nvidia",
+            "芯片"
+          ]
+        },
+        {
+          "title": "OpenAI合并Chat和Work",
+          "summary": "OpenAI合并Chat和Work体验",
+          "detail": "OpenAI宣布将ChatGPT的Chat和Work体验合并，并引入单一使用计量标准。这意味着重度用户可能会更快达到使用限制，显示出OpenAI在商业化上的进一步推进。",
+          "usage": "💡 讨论ChatGPT商业化时\n💬 OpenAI合并Chat和Work体验，重度用户要受限了\n🔥 OpenAI ChatGPT 商业化",
+          "source": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+          "tags": [
+            "OpenAI",
+            "ChatGPT"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "iFood扩展编码代理",
+          "summary": "iFood扩展编码代理到15000个仓库",
+          "detail": "iFood宣布将其编码代理扩展到15000个仓库，这一举措显著提高了代码管理和开发效率，显示出AI在大型企业中的广泛应用。",
+          "usage": "💡 讨论AI在企业管理中的应用时\n💬 iFood把编码代理扩展到15000个仓库，这下效率飞起来了\n🔥 iFood 编码代理 企业应用",
+          "source": "https://openai.com/business/customer-stories/ifood",
+          "tags": [
+            "iFood",
+            "编码代理"
+          ]
+        },
+        {
+          "title": "Clay用AI提升销售",
+          "summary": "Clay用AI提升销售团队",
+          "detail": "Clay通过整合ChatGPT和Codex，帮助销售团队研究交易并将数据转化为市场策略，显著提升了销售效率。",
+          "usage": "💡 讨论AI在销售中的应用时\n💬 Clay整合ChatGPT和Codex，销售团队效率大增\n🔥 Clay ChatGPT 销售",
+          "source": "https://openai.com/business/customer-stories/clay-plugins-openai",
+          "tags": [
+            "Clay",
+            "ChatGPT"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "OpenAI Shirudo开源",
+          "summary": "OpenAI推出Shirudo开源",
+          "detail": "OpenAI与Cisco合作推出了Shirudo，一个用于Linux的开源运行时，旨在帮助团队保护运行中的系统免受攻击。这一工具的发布标志着AI在网络安全领域的进一步应用。",
+          "usage": "💡 讨论开源工具时\n💬 OpenAI搞了个Shirudo，Linux系统这下更安全了\n🔥 OpenAI Shirudo 网络安全",
+          "source": "https://openai.com/index/introducing-shirudo",
+          "tags": [
+            "OpenAI",
+            "Shirudo"
+          ]
+        },
+        {
+          "title": "Character.AI数据拍卖",
+          "summary": "Character.AI计划拍卖用户数据",
+          "detail": "Character.AI提出破产出售计划，其中包括2100万用户的私人聊天数据。这一计划遭到了州检察长的反对，显示出AI公司在数据隐私方面的争议。",
+          "usage": "💡 讨论AI数据隐私时\n💬 Character.AI要拍卖用户数据，这下隐私问题大了\n🔥 Character.AI 数据隐私",
+          "source": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "tags": [
+            "Character.AI",
+            "数据隐私"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "20个AI Agents组队",
+          "summary": "20个AI Agents组队跑实验",
+          "detail": "20个AI Agents组队，4天内完成了350次实验，超越了ClickBench的最佳公开成绩。Quickwit查询总耗时降低了31%，最高降幅达到87%。这一突破展示了AI在大规模实验和数据查询中的潜力。",
+          "usage": "💡 讨论AI在大规模实验中的应用时\n💬 20个AI Agents组队，4天跑了350次实验，效率飞升\n🔥 AI Agents Quickwit 数据处理",
+          "source": "https://www.qbitai.com/2026/11/513163.html",
+          "tags": [
+            "AI Agents",
+            "数据处理"
+          ]
+        },
+        {
+          "title": "陶哲轩验证黎曼猜想",
+          "summary": "陶哲轩用AI验证黎曼猜想",
+          "detail": "著名数学家陶哲轩亲自下场，用AI验证黎曼猜想。他表示，AI批量生成证明就像发电厂排放核废料，显示出他对AI在数学研究中的谨慎态度。",
+          "usage": "💡 讨论AI在数学研究中的应用时\n💬 陶哲轩用AI验证黎曼猜想，AI生成证明就像核废料\n🔥 陶哲轩 黎曼猜想 AI数学",
+          "source": "https://www.qbitai.com/2026/11/513075.html",
+          "tags": [
+            "陶哲轩",
+            "黎曼猜想"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "Nvidia信用评级下调",
+          "summary": "标普考虑下调Nvidia评级",
+          "detail": "标普考虑将Nvidia的信用评级从AA下调至AA-，主要原因是公司治理和“关键人物”风险。这一调整可能会对Nvidia的融资和市场表现产生影响。",
+          "usage": "💡 讨论企业信用评级时\n💬 标普考虑下调Nvidia评级，关键人物风险成焦点\n🔥 Nvidia 信用评级 标普",
+          "source": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+          "tags": [
+            "Nvidia",
+            "信用评级"
+          ]
+        },
+        {
+          "title": "Anthropic上市",
+          "summary": "Anthropic在GTA VI发布日上市",
+          "detail": "Anthropic在《GTA VI》发布的同一天进入公开市场。这一天，一个精心制作的人类游戏成为了头条，显示出AI公司与传统娱乐行业的竞争。",
+          "usage": "💡 讨论AI公司上市时\n💬 Anthropic选择在GTA VI发布日上市，AI与游戏的竞争开始了\n🔥 Anthropic GTA VI 上市",
+          "source": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+          "tags": [
+            "Anthropic",
+            "上市"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-27T05:19:34.721Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3562,
+    "completion_tokens": 2831,
+    "total_tokens": 6393,
+    "cost_usd": 0.0038291085,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

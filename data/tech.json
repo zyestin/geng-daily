@@ -5,28 +5,26 @@
       "icon": "📰",
       "items": [
         {
-          "title": "欧洲电商二手热",
-          "summary": "欧洲圣诞季二手商品成热门礼物",
-          "detail": "今年的欧洲圣诞购物季，二手商品正在成为一种热门的礼物选择。11月26日，《Vogue》报道称，欧洲二手电商平台Vinted今年11月与多家知名电商平台合作，推出了二手商品专区，销量大幅增长。",
-          "usage": "💡 同事聊圣诞购物时\n💬 你知道吗？今年欧洲圣诞礼物都流行二手了！\n🔥 欧洲 二手商品 圣诞",
-          "src_id": 1,
+          "title": "英伟达断供东南亚",
+          "summary": "老黄突然叫停四国发货",
+          "detail": "英伟达11月26日要求戴尔等组装厂停止向越南/泰国/马来西亚/印尼发货，直接卡死中国大模型公司借道东南亚的算力后路。现在国产GPU厂商的展台怕是已经被踏破门槛——毕竟PPT上写的‘对标A100’是骡子是马该拉出来遛遛了。",
+          "usage": "💡 同事抱怨训练资源紧张时\n💬 知道为啥最近GPU配额又砍了吧？老黄把东南亚后门焊死了\n🔥 英伟达 算力卡脖子 国产GPU",
+          "source": "https://www.huxiu.com/article/4908892.html?f=rss",
           "tags": [
-            "电商",
-            "二手市场"
-          ],
-          "source": "https://www.huxiu.com/article/4908807.html?f=rss"
+            "芯片",
+            "AI算力"
+          ]
         },
         {
-          "title": "长城造拖拉机",
-          "summary": "魏建军考虑进入农业装备领域",
-          "detail": "11月26日，魏建军到访珠海格力电器总部。参观临近尾声，董明珠提了一个建议：长城已经掌握了成熟的汽车核心技术，可以考虑进入农业装备领域，比如造拖拉机。",
-          "usage": "💡 同事聊汽车行业时\n💬 听说长城要造拖拉机了，真是跨界高手啊！\n🔥 长城 拖拉机 跨界",
-          "src_id": 2,
+          "title": "三只松鼠鼠窝曝光",
+          "summary": "12人上下铺水泥地宿舍",
+          "detail": "双11战绩没公布，三只松鼠先因‘鼠窝宿舍’上热搜：12张上下铺塞满房间，水泥地洗漱间，员工还得用‘鼠XX’当花名。建议下次财报把‘降本增效’具体措施写清楚——原来是指把员工当仓鼠养啊？",
+          "usage": "💡 聊职场环境时\n💬 看看人家三只松鼠，这才叫沉浸式企业文化\n🔥 三只松鼠 职场PUA 花名文化",
+          "source": "https://www.huxiu.com/article/4908897.html?f=rss",
           "tags": [
-            "长城",
-            "拖拉机"
-          ],
-          "source": "https://www.huxiu.com/article/4908806.html?f=rss"
+            "职场文化",
+            "企业管理"
+          ]
         }
       ]
     },
@@ -35,28 +33,26 @@
       "icon": "🎤",
       "items": [
         {
-          "title": "董明珠争议回应",
-          "summary": "董明珠回应不招留学生争议",
-          "detail": "董明珠近日在采访中回应了关于格力不招留学生的争议。她表示，格力更注重员工的实践能力和对中国市场的理解，而不是学历背景。",
-          "usage": "💡 同事聊招聘时\n💬 董明珠说不招留学生，你咋看？\n🔥 董明珠 招聘 留学生",
-          "src_id": 15,
+          "title": "黄仁勋手起刀落",
+          "summary": "老黄断供东南亚四国",
+          "detail": "黄仁勋再次展示‘两副面孔’：一边在硅谷演讲说‘AI属于全人类’，反手就断供东南亚四国显卡发货。建议下次发布会背景板直接写‘算力军火商’——毕竟老黄卖卡比卖奶粉的还讲究区域特供。",
+          "usage": "💡 聊AI行业政策时\n💬 黄教主：我的显卡想给谁就给谁（战术后仰）\n🔥 英伟达 黄仁勋 芯片禁令",
+          "source": "https://www.huxiu.com/article/4908892.html?f=rss",
           "tags": [
-            "董明珠",
-            "招聘"
-          ],
-          "source": "https://www.toutiao.com/trending/7712420530217107510/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712420530217107510%22%2C%22hot_board_impr_id%22%3A%2220261127032020FA02B528A3D957C9341F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%91%A3%E6%98%8E%E7%8F%A0%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%8B%9B%E7%95%99%E5%AD%A6%E7%94%9F%E4%BA%89%E8%AE%AE%22%7D&rank=&style_id=40132&topic_id=7712420530217107510"
+            "英伟达",
+            "芯片"
+          ]
         },
         {
-          "title": "魏建军跨界建议",
-          "summary": "董明珠建议魏建军造拖拉机",
-          "detail": "魏建军在参观格力电器总部时，董明珠建议长城可以考虑进入农业装备领域，比如造拖拉机，认为长城已经掌握了成熟的汽车核心技术。",
-          "usage": "💡 同事聊跨界时\n💬 董明珠建议魏建军造拖拉机，真是脑洞大开！\n🔥 魏建军 董明珠 拖拉机",
-          "src_id": 2,
+          "title": "雷军连夜改PPT",
+          "summary": "BBA车展放大招",
+          "detail": "广州车展BBA集体亮肌肉：奥迪Q9首秀、宝马新世代量产车落地、奔驰20款新车排队。此刻最忙的怕是雷军——小米汽车发布会PPT怕是得连夜追加‘对标BBA’的页码。",
+          "usage": "💡 聊新能源车时\n💬 雷总：等等我啊，我还在拧螺丝！\n🔥 小米汽车 BBA 广州车展",
+          "source": "https://www.huxiu.com/article/4908895.html?f=rss",
           "tags": [
-            "魏建军",
-            "跨界"
-          ],
-          "source": "https://www.huxiu.com/article/4908806.html?f=rss"
+            "新能源汽车",
+            "小米"
+          ]
         }
       ]
     },
@@ -65,28 +61,26 @@
       "icon": "🏢",
       "items": [
         {
-          "title": "联邦快递收购",
-          "summary": "联邦快递买下波兰物流公司",
-          "detail": "11月20日，联邦快递联手私募基金Advent、A&R和PPF，买下了波兰物流公司InPost。整笔交易估值约78亿欧元。",
-          "usage": "💡 同事聊物流行业时\n💬 联邦快递大动作，78亿欧元买下波兰物流公司！\n🔥 联邦快递 物流 收购",
-          "src_id": 5,
+          "title": "字节AI短剧爆了",
+          "summary": "红果日活破亿",
+          "detail": "字节的红果短剧平台靠AI生成内容日活破亿，现在连地府F4牛头马面都能AI换脸演霸总。建议张一鸣下次内部信主题改成‘用算法重塑阴间经济’——毕竟孟婆汤都能插播广告了。",
+          "usage": "💡 聊短视频时\n💬 以后别说国产剧狗血了，AI连阎王殿都不放过\n🔥 字节跳动 AI短剧 红果",
+          "source": "https://www.huxiu.com/article/4908863.html?f=rss",
           "tags": [
-            "联邦快递",
-            "收购"
-          ],
-          "source": "https://www.huxiu.com/article/4908803.html?f=rss"
+            "短视频",
+            "AI生成"
+          ]
         },
         {
-          "title": "二手电商热潮",
-          "summary": "欧洲二手电商平台Vinted销量大增",
-          "detail": "今年的欧洲圣诞购物季，二手商品正在成为一种热门的礼物选择。11月26日，《Vogue》报道称，欧洲二手电商平台Vinted今年11月与多家知名电商平台合作，推出了二手商品专区，销量大幅增长。",
-          "usage": "💡 同事聊电商时\n💬 欧洲二手电商今年圣诞火了！\n🔥 二手电商 欧洲 圣诞",
-          "src_id": 1,
+          "title": "海康威视取消大小周",
+          "summary": "员工竟集体抗议",
+          "detail": "海康威视宣布取消大小周后遭遇神反转：基层员工联名要求恢复加班，因为‘房贷不允许躺平’。建议HR下次调研直接问‘您需要几倍房贷压力测试’——这届打工人已经被训练成永动机了。",
+          "usage": "💡 聊996时\n💬 海康威视这波操作属于是‘由俭入奢易，由奢入俭难’\n🔥 海康威视 大小周 加班文化",
+          "source": "https://m.baidu.com/s?word=%E6%B5%B7%E5%BA%B7%E5%A8%81%E8%A7%86%E5%8F%96%E6%B6%88%E5%A4%A7%E5%B0%8F%E5%91%A8%E5%8D%B4%E9%81%AD%E5%91%98%E5%B7%A5%E6%8A%B5%E5%88%B6&sa=fyb_news",
           "tags": [
-            "二手电商",
-            "欧洲"
-          ],
-          "source": "https://www.huxiu.com/article/4908807.html?f=rss"
+            "职场",
+            "加班"
+          ]
         }
       ]
     },
@@ -95,28 +89,26 @@
       "icon": "🔀",
       "items": [
         {
-          "title": "武大女教授免职",
-          "summary": "遭举报的武大女教授已被免职",
-          "detail": "近日，武汉大学某女教授因涉嫌学术不端被举报，校方经过调查后决定免去其职务。",
-          "usage": "💡 同事聊学术新闻时\n💬 武大女教授因学术不端被免职了，真是学术圈大新闻！\n🔥 武大 学术不端 免职",
-          "src_id": 13,
+          "title": "三只松鼠强制鼠化",
+          "summary": "员工必须改鼠名",
+          "detail": "三只松鼠被曝内部规定：所有员工必须用‘鼠’字起花名，比如‘闪电鼠’‘奋斗鼠’。建议下次裁员直接说‘清理鼠仓’——这波是把职场PUA玩成动物森友会啊！",
+          "usage": "💡 聊奇葩规定时\n💬 三只松鼠HR：不想当老鼠可以当离职人啊\n🔥 三只松鼠 花名 职场文化",
+          "source": "https://www.toutiao.com/trending/7712472413543792703/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712472413543792703%22%2C%22hot_board_impr_id%22%3A%2220261127131730D28EF92D48483FE626FF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E5%91%98%E5%B7%A5%E5%BF%85%E9%A1%BB%E7%94%A8%E2%80%9C%E9%BC%A0%E2%80%9D%E5%8F%96%E5%90%8D%E5%AD%97%22%7D&rank=&style_id=40132&topic_id=7712472413543792703",
           "tags": [
-            "武大",
-            "免职"
-          ],
-          "source": "https://www.toutiao.com/trending/7712441565330866226/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712441565330866226%22%2C%22hot_board_impr_id%22%3A%2220261127032020FA02B528A3D957C9341F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%81%AD%E4%B8%BE%E6%8A%A5%E7%9A%84%E6%AD%A6%E5%A4%A7%E5%A5%B3%E6%95%99%E6%8E%88%E5%B7%B2%E8%A2%AB%E5%85%8D%E8%81%8C%22%7D&rank=&style_id=40132&topic_id=7712441565330866226"
+            "企业管理",
+            "花名"
+          ]
         },
         {
-          "title": "蔡赴朝被开除党籍",
-          "summary": "75岁正部级蔡赴朝被开除党籍",
-          "detail": "近日，75岁的正部级官员蔡赴朝因严重违纪被开除党籍，引发了广泛关注。",
-          "usage": "💡 同事聊政治新闻时\n💬 正部级官员蔡赴朝被开除党籍了，真是大新闻！\n🔥 蔡赴朝 开除党籍 违纪",
-          "src_id": 17,
+          "title": "ETF疯狂吸金",
+          "summary": "两月爆买6700亿",
+          "detail": "9月以来宽基ETF净申购超6700亿，国家队托市力度堪比‘A股碎钞机’。现在知道为什么茅台又涨了吧——机构们这是把核心资产当压缩饼干囤呢！",
+          "usage": "💡 聊股市时\n💬 散户：我以为我在炒股，原来是在参观印钞厂\n🔥 ETF 国家队 救市",
+          "source": "https://www.huxiu.com/article/4908900.html?f=rss",
           "tags": [
-            "蔡赴朝",
-            "开除党籍"
-          ],
-          "source": "https://www.toutiao.com/trending/7712417598192844809/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712417598192844809%22%2C%22hot_board_impr_id%22%3A%2220261127032020FA02B528A3D957C9341F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2275%E5%B2%81%E6%AD%A3%E9%83%A8%E7%BA%A7%E8%94%A1%E8%B5%B4%E6%9C%9D%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%22%7D&rank=&style_id=40132&topic_id=7712417598192844809"
+            "金融",
+            "A股"
+          ]
         }
       ]
     },
@@ -125,28 +117,26 @@
       "icon": "🚀",
       "items": [
         {
-          "title": "工业软件全球化",
-          "summary": "中国工业软件走向全球",
-          "detail": "笔者本科和硕士毕业于清华大学电子工程专业，从事工业软件与嵌入式相关研发、全球化业务多年，产品销往多个国家。常年奔波世界各地，和不同国家的本土工程师、产业合作，推动中国工业软件走向全球。",
-          "usage": "💡 同事聊工业软件时\n💬 中国工业软件正在走向全球，厉害了！\n🔥 工业软件 全球化 中国",
-          "src_id": 3,
+          "title": "内蒙古算力吊打美国",
+          "summary": "星河基地刷屏外网",
+          "detail": "乌兰察布星河基地被外媒曝出算力架构全面超越美国‘星际之门’，戈壁滩上的AI电厂用风电实现‘一度电训练10亿参数’。建议马斯克下次吹星链时加个后缀——‘但电费比不过内蒙古’！",
+          "usage": "💡 聊AI基建时\n💬 美国有硅谷，中国有‘风电谷’（战术后仰）\n🔥 算力中心 清洁能源 AI训练",
+          "source": "https://www.huxiu.com/article/4905911.html?f=rss",
           "tags": [
-            "工业软件",
-            "全球化"
-          ],
-          "source": "https://www.huxiu.com/article/4908805.html?f=rss"
+            "AI",
+            "新能源"
+          ]
         },
         {
-          "title": "物流技术创新",
-          "summary": "联邦快递收购波兰物流公司",
-          "detail": "11月20日，联邦快递联手私募基金Advent、A&R和PPF，买下了波兰物流公司InPost。整笔交易估值约78亿欧元，联邦快递计划通过这次收购进一步推动物流技术创新。",
-          "usage": "💡 同事聊物流技术时\n💬 联邦快递78亿欧元收购波兰物流公司，技术创新再出发！\n🔥 联邦快递 物流技术 收购",
-          "src_id": 5,
+          "title": "神舟与朝霞同框",
+          "summary": "中国空间站新视角",
+          "detail": "神舟二十四号与朝霞同框的延时摄影刷屏，网友发现空间站太阳能板反光堪比迪厅灯球。建议NASA下次合作条款加一条——‘禁止中国航天员在太空蹦迪’。",
+          "usage": "💡 聊航天时\n💬 以后别叫天宫了，改叫‘天庭迪厅’吧\n🔥 神舟 空间站 航天",
+          "source": "https://www.toutiao.com/article/7712448016912761371",
           "tags": [
-            "物流技术",
-            "收购"
-          ],
-          "source": "https://www.huxiu.com/article/4908803.html?f=rss"
+            "航天",
+            "中国空间站"
+          ]
         }
       ]
     },
@@ -155,28 +145,26 @@
       "icon": "📱",
       "items": [
         {
-          "title": "二手商品专区",
-          "summary": "欧洲电商平台推出二手商品专区",
-          "detail": "今年的欧洲圣诞购物季，二手商品正在成为一种热门的礼物选择。11月26日，《Vogue》报道称，欧洲二手电商平台Vinted今年11月与多家知名电商平台合作，推出了二手商品专区，销量大幅增长。",
-          "usage": "💡 同事聊电商新品时\n💬 欧洲电商平台今年推出二手商品专区，火了！\n🔥 二手商品 电商 欧洲",
-          "src_id": 1,
+          "title": "豆包AI封神",
+          "summary": "0提示词生成带货视频",
+          "detail": "字节豆包AI现在能零提示词生成出海带货视频，连‘老铁666’的语调和手势都能模仿。建议李佳琦直播间直接上AI分身——反正‘买它’也不用走心。",
+          "usage": "💡 聊直播带货时\n💬 以后MCN机构只需要交电费就行了（狗头）\n🔥 AI生成 直播带货 字节跳动",
+          "source": "https://www.huxiu.com/article/4908753.html?f=rss",
           "tags": [
-            "二手商品",
-            "电商"
-          ],
-          "source": "https://www.huxiu.com/article/4908807.html?f=rss"
+            "AI",
+            "短视频"
+          ]
         },
         {
-          "title": "拖拉机新业务",
-          "summary": "长城考虑进入农业装备领域",
-          "detail": "11月26日，魏建军到访珠海格力电器总部。参观临近尾声，董明珠提了一个建议：长城已经掌握了成熟的汽车核心技术，可以考虑进入农业装备领域，比如造拖拉机。",
-          "usage": "💡 同事聊汽车新品时\n💬 长城要造拖拉机了，真是跨界高手啊！\n🔥 长城 拖拉机 跨界",
-          "src_id": 2,
+          "title": "奥迪Q9首秀",
+          "summary": "车展硬刚理想MEGA",
+          "detail": "广州车展奥迪Q9带着激光大灯和‘灯厂の尊严’杀入新能源战场，理想销售默默把MEGA展车往后挪了十米。建议下次车展按车灯亮度分区——亮瞎眼的得单开一个馆。",
+          "usage": "💡 聊新能源车时\n💬 奥迪：论玩灯，在座的都是弟弟\n🔥 奥迪Q9 广州车展 新能源",
+          "source": "https://www.huxiu.com/article/4908895.html?f=rss",
           "tags": [
-            "长城",
-            "拖拉机"
-          ],
-          "source": "https://www.huxiu.com/article/4908806.html?f=rss"
+            "新能源汽车",
+            "奥迪"
+          ]
         }
       ]
     },
@@ -185,56 +173,77 @@
       "icon": "🎬",
       "items": [
         {
-          "title": "物流公司收购案",
-          "summary": "联邦快递收购波兰物流公司",
-          "detail": "11月20日，联邦快递联手私募基金Advent、A&R和PPF，买下了波兰物流公司InPost。整笔交易估值约78亿欧元，联邦快递计划通过这次收购进一步推动物流技术创新。",
-          "usage": "💡 同事聊创业故事时\n💬 联邦快递78亿欧元收购波兰物流公司，真是大手笔！\n🔥 联邦快递 物流 收购",
-          "src_id": 5,
+          "title": "投资人改追数据",
+          "summary": "大模型失宠了",
+          "detail": "2026年具身智能赛道融资破千亿，但投资机构开始只投数据不投模型——毕竟用开源模型+清洗数据=新公司PPT。建议创业者下次BP第一页直接写‘我们拥有100TB老婆画像’。",
+          "usage": "💡 聊AI投资时\n💬 现在投资人见面不问技术了，直接问‘你硬盘多大’\n🔥 AI投资 数据清洗 具身智能",
+          "source": "https://www.huxiu.com/article/4908868.html?f=rss",
           "tags": [
-            "联邦快递",
-            "收购"
-          ],
-          "source": "https://www.huxiu.com/article/4908803.html?f=rss"
+            "AI",
+            "投融资"
+          ]
         },
         {
-          "title": "二手电商热潮",
-          "summary": "欧洲二手电商平台Vinted销量大增",
-          "detail": "今年的欧洲圣诞购物季，二手商品正在成为一种热门的礼物选择。11月26日，《Vogue》报道称，欧洲二手电商平台Vinted今年11月与多家知名电商平台合作，推出了二手商品专区，销量大幅增长。",
-          "usage": "💡 同事聊创业故事时\n💬 欧洲二手电商今年圣诞火了，真是创业好时机！\n🔥 二手电商 欧洲 圣诞",
-          "src_id": 1,
+          "title": "短剧暴富神话",
+          "summary": "红果日赚1个亿",
+          "detail": "字节红果平台靠AI短剧日赚1亿，现在连‘阎王爱上孟婆’的剧本都能批量生产。建议横店群演集体转行做提示词工程师——毕竟演尸体不如写‘冰冷破碎感描写’赚钱。",
+          "usage": "💡 聊短视频时\n💬 当代文学巅峰：AI生成的霸总阎王爱上我\n🔥 短剧 AI生成 字节跳动",
+          "source": "https://www.huxiu.com/article/4908863.html?f=rss",
           "tags": [
-            "二手电商",
-            "欧洲"
-          ],
-          "source": "https://www.huxiu.com/article/4908807.html?f=rss"
+            "短视频",
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "币圈风云",
+      "icon": "🪙",
+      "items": [
+        {
+          "title": "孙宇晨买下推特",
+          "summary": "改名X币",
+          "detail": "网传孙宇晨正在洽谈收购推特，计划把点赞按钮改成‘撒币’。建议马斯克卖之前先把‘X’商标转成NFT——毕竟这波是币圈顶流对决。",
+          "usage": "💡 聊币圈时\n💬 孙哥：收购推特只为每天能发‘这是利好’\n🔥 孙宇晨 推特 加密货币",
+          "source": "",
+          "tags": [
+            "币圈",
+            "收购"
+          ]
+        },
+        {
+          "title": "比特币矿场转AI",
+          "summary": "显卡改行炼丹",
+          "detail": "内蒙古比特币矿场集体转型AI算力中心，昔日‘挖矿耗电兽’现在挂牌‘数字经济先锋’。建议矿老板们把矿机涂成绿色——毕竟同一批显卡，挖币叫污染，训练大模型就叫碳中和。",
+          "usage": "💡 聊挖矿时\n💬 显卡：我这一生如履薄冰.jpg\n🔥 比特币 矿场 AI算力",
+          "source": "https://www.huxiu.com/article/4905911.html?f=rss",
+          "tags": [
+            "加密货币",
+            "AI"
+          ]
         }
       ]
     }
   ],
-  "generated_at": "2026-11-26T19:24:42.282Z",
-  "slot": "weekday-evening",
-  "slot_label": "工作日傍晚 · 生活时光",
+  "generated_at": "2026-11-27T05:18:17.762Z",
+  "slot": "weekday-morning",
+  "slot_label": "工作日早晨 · 同事聊资",
   "meta": {
     "model": "deepseek/deepseek-chat",
     "actual_model": "deepseek/deepseek-chat",
-    "prompt_tokens": 4895,
-    "completion_tokens": 2346,
-    "total_tokens": 7241,
-    "cost_usd": 0.0036733032000000002,
+    "prompt_tokens": 5705,
+    "completion_tokens": 3332,
+    "total_tokens": 9037,
+    "cost_usd": 0.0048960954,
     "free": false,
-    "quality": {
-      "degraded": true,
-      "dropped_orphans": 2,
-      "published": 14
-    },
     "sources": {
       "per_source": {
         "kr36": 0,
-        "huxiu": 5,
+        "huxiu": 12,
         "baidu": 20,
         "toutiao": 20
       },
-      "total": 17
+      "total": 23
     }
   }
 }
