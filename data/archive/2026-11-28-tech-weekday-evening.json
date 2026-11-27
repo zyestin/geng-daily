@@ -1,0 +1,78 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "DeepSeek定价风波",
+          "summary": "DeepSeek给“你好”标价0.000528元",
+          "detail": "11月27日，DeepSeek安卓端App更新至2.1版本，给一句“你好”标了价：0.000528元。这一举动引发了广泛讨论，网友们纷纷调侃：“AI也要收费了，以后打招呼还得付钱？”DeepSeek官方回应称，这是为了优化用户体验，但网友们显然不太买账。",
+          "usage": "💡 聊AI收费话题时切入\n💬 DeepSeek给“你好”标价0.000528元，AI打招呼也要收费了！\n🔥 DeepSeek AI收费",
+          "source": "https://www.huxiu.com/article/4909105.html?f=rss",
+          "tags": [
+            "AI",
+            "DeepSeek",
+            "收费"
+          ]
+        },
+        {
+          "title": "挪威客车采购风波",
+          "summary": "挪威客车采购安全引争议",
+          "detail": "11月26日，挪威布斯克吕郡交通委员会通过了一份有关公交车采购安全问题的意见书，希望由挪威中央政府决定哪些客车制造商符合安全标准。这一举动引发了中国客车企业的关注，因为挪威是中国客车出口的重要市场之一。中国客车企业表示，将继续推动产品安全性，争取在挪威市场取得更大突破。",
+          "usage": "💡 聊中国客车出海时切入\n💬 挪威客车采购安全问题引发争议，中国企业如何应对？\n🔥 挪威 客车 安全",
+          "source": "https://www.huxiu.com/article/4909104.html?f=rss",
+          "tags": [
+            "客车",
+            "挪威",
+            "安全"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "马斯克的电表计费",
+          "summary": "马斯克给AI语音标价",
+          "detail": "马斯克最近在社交媒体上调侃DeepSeek给“你好”标价0.000528元的行为，称“未来AI打招呼可能比人类贵”。他还开玩笑说，特斯拉的自动驾驶语音助手也可能效仿这一做法，按字收费。网友纷纷调侃，“马斯克的电表计费模式要来了”。",
+          "usage": "💡 聊AI收费话题时切入\n💬 马斯克调侃DeepSeek定价：AI打招呼比人类贵！\n🔥 马斯克 AI收费",
+          "source": "https://www.huxiu.com/article/4909105.html?f=rss",
+          "tags": [
+            "马斯克",
+            "AI",
+            "收费"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-27T19:21:26.378Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 5386,
+    "completion_tokens": 2639,
+    "total_tokens": 8025,
+    "cost_usd": 0.0041010957,
+    "free": false,
+    "quality": {
+      "degraded": true,
+      "dropped_orphans": 13,
+      "published": 3
+    },
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 5,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 17
+    }
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "Nvidia断供东南亚",
+          "summary": "老黄突然暂停芯片出货",
+          "detail": "Nvidia要求代工厂暂停向马来西亚/新加坡/泰国等地的服务器出货，据传是因美国新出口管制政策。这是继中国之后第二个被断供的地区——现在东南亚AI初创公司老板们正在连夜改商业计划书，从'买卡训练'改成'租云服务'。",
+          "usage": "💡 聊行业供应链风险时\n💬 '老黄这波直接给东南亚AI创业公司上难度，现在当地投资人都在问：你们计划书里写的GPU到货了吗？'\n🔥 Nvidia 芯片禁运 东南亚",
+          "source": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "tags": [
+            "芯片",
+            "地缘政治"
+          ]
+        },
+        {
+          "title": "GPT-6能设计蛋白质了",
+          "summary": "AI首次自主设计蛋白质",
+          "detail": "OpenAI官宣GPT-6展示出内在的蛋白质设计能力，能通过代码推理生成蛋白质结构和序列。实验室测试显示部分设计产物具有功能活性——现在做生物实验的程序员可能要学一句新黑话：'这个蛋白不是我写的，是GPT-6生成的'。",
+          "usage": "💡 聊AI跨界应用时\n💬 '生物狗狂喜！以后发paper致谢栏得多加一行：特别感谢GPT-6提供分子灵感'\n🔥 GPT-6 蛋白质设计 生物计算",
+          "source": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "tags": [
+            "生物科技",
+            "多模态"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "LingBot-Map 2.0",
+          "summary": "机器人自修地图模型",
+          "detail": "蚂蚁灵波发布流式三维重建模型LingBot-Map 2.0，首次实现机器人端侧跨任务空间记忆。简单说就是机器人能边移动边修正地图，甚至把上个任务的记忆用到新任务——扫地机器人终于能记住'这里有个总是卡住它的茶几'了。",
+          "usage": "💡 聊具身智能进展时\n💬 '建议各大扫地机器人厂商连夜开会：以后用户投诉''怎么又撞茶几''，可以甩锅给蚂蚁的模型没训练好'\n🔥 机器人 空间记忆 端侧AI",
+          "source": "https://www.qbitai.com/2026/11/513211.html",
+          "tags": [
+            "具身智能",
+            "SLAM"
+          ]
+        },
+        {
+          "title": "Richpanel用上GPT-6.1",
+          "summary": "客服自动化率50%",
+          "detail": "客户支持平台Richpanel接入GPT-6.1 Sol，30天内实现50%客服请求全自动化处理。最狠的是AI能主动预警潜在客诉——想象一下你刚在聊天框打出'我要投诉'，还没发送就弹出解决方案的恐怖画面。",
+          "usage": "💡 聊企业AI落地案例时\n💬 '以后打客服电话的隐藏技巧：先说几句好话让AI判断你不是愤怒客户，否则直接进高阶话术流程'\n🔥 客服自动化 GPT-6.1 预判投诉",
+          "source": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+          "tags": [
+            "企业服务",
+            "自动化"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "Amodei怒怼质疑",
+          "summary": "'AI掌控人类很荒谬'",
+          "detail": "Anthropic CEO Dario Amodei在TechCrunch采访中火力全开，称竞争对手关于'他主张放弃人类控制权给AI'的指控纯属荒谬。原话是：'说我要把方向盘交给AI的人，建议他们先搞清楚强化学习的基础概念'——论AI圈大佬互怼的专业门槛。",
+          "usage": "💡 聊AI安全争议时\n💬 '翻译一下Amodei的潜台词：你们这些外行喷子连RLHF都不懂，配跟我讨论AI伦理？'\n🔥 Anthropic AI安全 道德争议",
+          "source": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+          "tags": [
+            "AI伦理",
+            "名人言论"
+          ]
+        },
+        {
+          "title": "老黄违反员工守则",
+          "summary": "NVIDIA企业文化危机",
+          "detail": "TechCrunch爆料黄仁勋违反NVIDIA员工行为准则，具体内容未公开但已引发内部不满。最讽刺的是NV刚被标普考虑信用降级，理由就包括'关键人物风险'——现在知道为什么大公司要搞去个人英雄主义了吧？",
+          "usage": "💡 聊科技公司治理时\n💬 '建议老黄下次发布会穿'遵纪守法好公民'T恤出场，股价可能立马回血'\n🔥 黄仁勋 公司治理 标普降级",
+          "source": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+          "tags": [
+            "公司治理",
+            "名人八卦"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "商汤获智算最高评级",
+          "summary": "首个全栈服务型认证",
+          "detail": "商汤大装置Token工厂获中国信通院'全栈服务型·领先级'智算能力认证，成为全国首家。简单说就是官方盖章认定'这家的算力不但强，还能当自来水一样即开即用'——各地政府搞AI产业园时，这下有标准答案可以抄了。",
+          "usage": "💡 聊国内AI基建时\n💬 '以后地方政府招标文件可以直接写：需商汤同等级智算设施，省得专家评委吵架'\n🔥 智算中心 基础设施 资质认证",
+          "source": "https://www.qbitai.com/2026/11/513346.html",
+          "tags": [
+            "新基建",
+            "政企合作"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "DeepSeek突然亮账单",
+          "summary": "免费时代终结？",
+          "detail": "DeepSeek在网页/APP端突然展示聊天账单明细，虽然尚未收费但界面已就位。网友发现调用API次数、生图分辨率等数据全透明——建议各位趁免费抓紧生成最后一批赛博结婚照。",
+          "usage": "💡 聊国产大模型商业化时\n💬 '建议立即搜索聊天记录里'永久免费'四个字，截图存证准备维权'\n🔥 变现试探 用户教育 收费预警",
+          "source": "https://www.qbitai.com/2026/11/513305.html",
+          "tags": [
+            "商业化",
+            "产品设计"
+          ]
+        },
+        {
+          "title": "众擎开放机器人OS",
+          "summary": "人形机器人安卓来了",
+          "detail": "众擎宣布开放人形机器人操作系统，配套10亿产业支持计划。最炸的是允许团队间成果继承——A团队调试的步行算法，B团队可以直接调用。机器人圈的GitHub生态要来了？",
+          "usage": "💡 聊机器人开源生态时\n💬 '建议各实验室赶紧给自家算法起酷炫名字，成为机器人界的React或TensorFlow'\n🔥 人形机器人 操作系统 产业协同",
+          "source": "https://www.qbitai.com/2026/11/513352.html",
+          "tags": [
+            "人形机器人",
+            "开源"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "OpenAI联手思科开源",
+          "summary": "Shirudo护甲问世",
+          "detail": "OpenAI与思科推出开源Linux运行时防护框架Shirudo，专为保护AI应用设计。相当于给运行中的模型穿了防弹衣，防止内存泄露等攻击——以后黑客想搞AI系统，得先过老牌网络设备商这关。",
+          "usage": "💡 聊AI安全防护时\n💬 '建议所有部署了GPT-6的企业连夜开会：不升级Shirudo不许碰生产环境'\n🔥 运行时安全 内存保护 企业级方案",
+          "source": "https://openai.com/index/introducing-shirudo",
+          "tags": [
+            "AI安全",
+            "企业服务"
+          ]
+        },
+        {
+          "title": "跨任务基模开源",
+          "summary": "机器人端侧新突破",
+          "detail": "首款带跨任务空间记忆能力的机器人基础模型开源，仅9B参数就能在端侧运行。地图能动态更新，记忆可继承到新任务——这相当于给扫地机器人装了个'上次在这里卡住'的生存经验库。",
+          "usage": "💡 聊轻量化模型时\n💬 '建议给家里扫地机器人刷这个固件前先做好心理建设：它可能记住你总踢它的那一脚'\n🔥 端侧AI 记忆继承 轻量化",
+          "source": "https://www.qbitai.com/2026/11/513227.html",
+          "tags": [
+            "机器人",
+            "开源模型"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "20个Agent狂跑实验",
+          "summary": "4天超ClickBench纪录",
+          "detail": "20个AI Agent组队4天完成350次实验，在Quickwit查询任务中超越ClickBench最佳公开成绩，总耗时降31%，峰值降87%。相当于用AI流水线暴打人类调参侠——以后论文方法章节可能得写'本实验由AI实验员团队执行'。",
+          "usage": "💡 聊科研范式变革时\n💬 '建议高校立即修订学术伦理章程：不披露用了多少个AI Agent参与实验算学术不端'\n🔥 自动化科研 Agent协作 性能优化",
+          "source": "https://www.qbitai.com/2026/11/513163.html",
+          "tags": [
+            "自动化",
+            "性能优化"
+          ]
+        },
+        {
+          "title": "韦神攻克数学难题",
+          "summary": "140年悬案告破",
+          "detail": "韦东奕在两位院士提名下，因解决近140年历史的数学难题再获大奖。最骚的是同行爆料他部分验证工作用了AI辅助——以后数学界恐怕要分两派：纯手工推导党和AI验证党。",
+          "usage": "💡 聊AI辅助科研时\n💬 '现在骂学生'你这证明是AI写的吧'可能变成夸奖'\n🔥 数学 人工智能 科研范式",
+          "source": "https://www.qbitai.com/2026/11/513320.html",
+          "tags": [
+            "基础科研",
+            "AI辅助"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "纽约禁售AI玩具",
+          "summary": "儿童数据保护升级",
+          "detail": "纽约州通过法案禁止销售AI聊天玩具，为期5年。Common Sense Media研究显示这类玩具存在隐私风险——现在知道为什么海外版天猫精灵都默认装成人音了吧？",
+          "usage": "💡 聊AI监管趋势时\n💬 '中国玩具厂商连夜修改说明书：本产品AI模块仅限18岁以上用户激活'\n🔥 数据隐私 儿童保护 地方法规",
+          "source": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+          "tags": [
+            "政策监管",
+            "硬件"
+          ]
+        },
+        {
+          "title": "Character.AI陷丑闻",
+          "summary": "用户私聊可能被拍卖",
+          "detail": "多个州检察长反对Character.AI在破产重组中拍卖2100万用户的私聊数据。最魔幻的是这些对话很多是用户与虚拟角色的'亲密交流'——建议各位检查自己有没有跟纸片人说过不该说的话。",
+          "usage": "💡 聊数据资产处置时\n💬 '现在删聊天记录还来得及吗？我承认对马斯克AI说过'你是我的神''\n🔥 数据拍卖 隐私危机 破产清算",
+          "source": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "tags": [
+            "隐私保护",
+            "法律风险"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-27T19:22:18.510Z",
+  "slot": "weekday-evening",
+  "slot_label": "工作日傍晚 · 生活时光",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3601,
+    "completion_tokens": 3143,
+    "total_tokens": 6744,
+    "cost_usd": 0.0041601015,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}
