@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "💥 炸裂新闻",
+      "icon": "💥",
+      "items": [
+        {
+          "title": "200亿博客诞生",
+          "summary": "史上最贵AI自媒体",
+          "detail": "一个个人博客估值200亿美元，堪称史上ROI最高的内容创业。这博主用AI生成技术分析+独家信源，单篇付费阅读收入抵得过传统媒体一年广告——现在连VC都开始抢着给自媒体写TS了。",
+          "usage": "💡 聊内容创业时甩出来\n💬 家人们谁懂啊，现在写公众号比开AI公司还赚钱\n🔥 自媒体 内容创业 估值",
+          "source": "https://www.qbitai.com/2026/11/513577.html",
+          "tags": [
+            "自媒体",
+            "内容创业",
+            "估值"
+          ]
+        },
+        {
+          "title": "OpenAI反诉苹果",
+          "summary": "科技巨头法律战升级",
+          "detail": "OpenAI正式反诉苹果'非法施压供应商'，这场始于夏天的法律战进入新阶段。核心争议是苹果要求供应链企业二选一——用苹果芯片就不能用OpenAI技术，这波直接动了AI公司的硬件根基。",
+          "usage": "💡 聊行业竞争时用\n💬 果链供应商：你们打架别拿我当人质啊\n🔥 法律战 供应链 反垄断",
+          "source": "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/",
+          "tags": [
+            "法律战",
+            "OpenAI",
+            "苹果"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🚀 新模型发布",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "GPT-6设计蛋白质",
+          "summary": "AI跨界生物医药",
+          "detail": "GPT-6展示蛋白质设计能力，实验室验证其设计的蛋白质结构有效。这相当于让语言模型突然掌握了分子生物学PhD技能——以后制药公司招人可能要考prompt engineering了。",
+          "usage": "💡 聊AI跨界应用时用\n💬 生物狗连夜改行学提示词工程\n🔥 蛋白质设计 多模态 生物医药",
+          "source": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "tags": [
+            "GPT-6",
+            "生物医药",
+            "多模态"
+          ]
+        },
+        {
+          "title": "昇腾训出285B模型",
+          "summary": "国产芯片突破纪录",
+          "detail": "用8192张昇腾芯片训练出2850亿参数大模型，权重全开源还附32页训练手册。这相当于把千亿模型的'施工图纸'摊开——华为系AI生态开始玩明牌了。",
+          "usage": "💡 聊国产芯片时甩数据\n💬 华为：不就是炼丹手册嘛，拿去抄\n🔥 昇腾 大模型训练 开源",
+          "source": "https://www.qbitai.com/2026/11/513535.html",
+          "tags": [
+            "昇腾",
+            "大模型训练",
+            "开源"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗣️ AI 大佬言论",
+      "icon": "🗣️",
+      "items": [
+        {
+          "title": "Amodei回击质疑",
+          "summary": "Anthropic CEO硬刚同行",
+          "detail": "Dario Amodei称'放弃人类控制权给AI'的指控很荒谬，暗指某些竞争对手在制造恐慌。这位安全派领袖突然暴躁开麦，可能和Anthropic刚IPO有关——毕竟现在每个股价波动都是真金白银。",
+          "usage": "💡 聊AI安全争议时引用\n💬 安全派大佬：你们这些危言耸听的才最危险\n🔥 Anthropic AI安全 上市",
+          "source": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+          "tags": [
+            "Anthropic",
+            "AI安全",
+            "Dario Amodei"
+          ]
+        },
+        {
+          "title": "黄仁勋违反准则",
+          "summary": "NVIDIA内部动荡",
+          "detail": "老黄被曝违反公司行为准则，员工反应强烈。在S&P考虑下调评级、芯片暂停发货的当口，这位'关键先生'的负面新闻来得实在不是时候——皮衣刀客这次砍到自己了。",
+          "usage": "💡 聊NVIDIA近况时切入\n💬 员工：说好的AI教父呢？怎么自己先破戒\n🔥 黄仁勋 公司治理 芯片",
+          "source": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+          "tags": [
+            "NVIDIA",
+            "黄仁勋",
+            "公司治理"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🏢 巨头动态",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "Sakana押注国产化",
+          "summary": "日本AI自立门户",
+          "detail": "Sakana CEO强调其自研模型不只是为了国家安全，更要提升日本产业竞争力。在美中AI争霸背景下，日本企业开始走'和魂洋才'路线——用西方架构训练本土化模型。",
+          "usage": "💡 聊地缘科技时举例\n💬 日本AI：不跟你们卷了，我自己玩\n🔥 日本AI 本土化 地缘政治",
+          "source": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+          "tags": [
+            "Sakana",
+            "日本AI",
+            "本土化"
+          ]
+        },
+        {
+          "title": "OpenAI合并产品线",
+          "summary": "Chat与Work二合一",
+          "usage": "💡 聊产品策略时用\n💬 重度用户：合着就是变相降配额呗？\n🔥 产品整合 订阅制 用户体验",
+          "detail": "OpenAI宣布合并Chat和Work体验，重度用户可能更快触达使用上限。这波操作相当于把'企业版'功能下放，但配额墙也同步降临——想白嫖GPT-6的时代结束了。",
+          "source": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+          "tags": [
+            "OpenAI",
+            "产品整合",
+            "订阅制"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🛠️ 产品落地",
+      "icon": "🛠️",
+      "items": [
+        {
+          "title": "Gemini 4秘籍",
+          "summary": "谷歌高管亲授技巧",
+          "detail": "谷歌Tibo透露使用Gemini 4 Neon的正确姿势：先删除所有旧规则。这相当于官方承认他们的AI已经进化到需要'格式化重装'使用思维——建议所有prompt工程师立即清空收藏夹。",
+          "usage": "💡 聊使用技巧时引用\n💬 谷歌：你们那些祖传prompt该扔了\n🔥 Gemini 使用技巧 思维转换",
+          "source": "https://www.qbitai.com/2026/11/513555.html",
+          "tags": [
+            "Gemini",
+            "使用技巧",
+            "谷歌"
+          ]
+        },
+        {
+          "title": "Astra找系外行星",
+          "summary": "业余天文学家立功",
+          "detail": "两位爱好者用Codex+Astra在公开数据中发现潜在系外行星。现在天文发现的门槛已经低到'会写prompt就行'——NASA下次招聘可能要加考GPT指令工程。",
+          "usage": "💡 聊AI科研应用时举例\n💬 原来发现新行星只需要API调用\n🔥 天文学 公民科学 AI辅助发现",
+          "source": "https://openai.com/index/searching-for-distant-planets-with-astra",
+          "tags": [
+            "Astra",
+            "天文学",
+            "公民科学"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔓 开源江湖",
+      "icon": "🔓",
+      "items": [
+        {
+          "title": "Shirudo开源",
+          "summary": "OpenAI联手思科",
+          "detail": "OpenAI与思科推出Linux开源运行时Shirudo，专注保护生产环境AI系统。这相当于给狂奔的AI套上'安全带'——以后部署模型终于不用在安全和性能间二选一了。",
+          "usage": "💡 聊AI安全时举例\n💬 思科：没想到我靠OpenAI重返青春\n🔥 运行时安全 开源 生产环境",
+          "source": "https://openai.com/index/introducing-shirudo",
+          "tags": [
+            "开源",
+            "AI安全",
+            "思科"
+          ]
+        },
+        {
+          "title": "人形机器人开源",
+          "summary": "众擎开放大小脑",
+          "detail": "人形机器人开发者平台开放'大小脑'系统，提供10亿生态支持。相当于把波士顿动力的核心技术拆成乐高积木——现在组个机器人比配电脑还简单。",
+          "usage": "💡 聊机器人进展时用\n💬 机械宅：我的赛博老婆可以DIY了？\n🔥 人形机器人 开源 生态",
+          "source": "https://www.qbitai.com/2026/11/513352.html",
+          "tags": [
+            "人形机器人",
+            "开源",
+            "生态"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔬 研究突破",
+      "icon": "🔬",
+      "items": [
+        {
+          "title": "Claude证明黎曼猜想",
+          "summary": "数学家收死亡威胁",
+          "detail": "90后数学家借助Claude完成黎曼猜想证明，却收到匿名威胁。最魔幻的是数学界正在用同款AI验证该证明——所以到底是人威胁AI，还是AI在威胁人？",
+          "usage": "💡 聊AI科研时举例\n💬 同行：你作弊！ 数学家：我prompt也是学术成果\n🔥 数学证明 AI辅助 学术伦理",
+          "source": "https://www.qbitai.com/2026/11/513463.html",
+          "tags": [
+            "Claude",
+            "数学证明",
+            "学术伦理"
+          ]
+        },
+        {
+          "title": "Karpathy造'美国文明'",
+          "summary": "AI游戏全球接力",
+          "detail": "Karpathy用Claude做出文字版《文明》，玩家可接力改变历史。这相当于把大模型变成'集体记忆编辑器'——现在网友已经在游戏里把特斯拉改造成了恐龙帝国。",
+          "usage": "💡 聊AI娱乐应用时举例\n💬 玩家：建议加入'AI突然觉醒'隐藏结局\n🔥 交互叙事 集体创作 游戏",
+          "source": "https://www.qbitai.com/2026/11/513428.html",
+          "tags": [
+            "Karpathy",
+            "交互叙事",
+            "游戏"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📈 行业风向",
+      "icon": "📈",
+      "items": [
+        {
+          "title": "NVIDIA芯片停供",
+          "summary": "东南亚市场震荡",
+          "detail": "NVIDIA要求代工厂暂停向东南亚发货，新马泰越的AI公司集体傻眼。结合可能的信用降级，老黄这次玩的是'悬崖勒马'还是'马失前蹄'？",
+          "usage": "💡 聊芯片供应时用\n💬 新加坡初创：我机房都租好了你跟我说这个？\n🔥 芯片 供应链 东南亚",
+          "source": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "tags": [
+            "NVIDIA",
+            "芯片",
+            "供应链"
+          ]
+        },
+        {
+          "title": "互联网时光机",
+          "summary": "xAI系创业者新作",
+          "detail": "xAI联创张国栋团队90天做出'互联网时光机'，能复原任意时期的网页内容。这工具要是早出20年，周鸿祎的3721黑历史就藏不住了——建议改名叫'互联网照妖镜'。",
+          "usage": "💡 聊创业项目时举例\n💬 网友：求别开发公司内网版本\n🔥 互联网考古 创业 数字记忆",
+          "source": "https://www.qbitai.com/2026/11/513507.html",
+          "tags": [
+            "xAI",
+            "创业",
+            "互联网考古"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-28T18:03:00.966Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 3584,
+    "completion_tokens": 2899,
+    "total_tokens": 6483,
+    "cost_usd": 0.0039047229,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "qbitai": 8,
+        "openai": 10,
+        "techcrunch": 10
+      },
+      "total": 24
+    }
+  }
+}

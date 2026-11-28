@@ -1,0 +1,265 @@
+{
+  "categories": [
+    {
+      "name": "今日头条",
+      "icon": "📰",
+      "items": [
+        {
+          "title": "中国电视凉凉",
+          "summary": "电视开机率跌破30%",
+          "detail": "最新数据显示，中国电视开机率已经跌破30%，创历史新低。这年头电视最大的作用可能是当家里WiFi路由器的架子了，连春晚都救不回来。90后表示：我家电视上次开机还是为了连Switch打健身环。",
+          "usage": "💡 聊智能家居趋势时\n💬 我家电视现在就是个高级显示器\n🔥 电视 开机率 智能家居",
+          "src_id": 9,
+          "tags": [
+            "智能家居",
+            "消费习惯"
+          ],
+          "source": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E7%8E%87%E9%99%8D%E8%87%B330%25&sa=fyb_news"
+        },
+        {
+          "title": "美军45架次绕台",
+          "summary": "我军海空联合行动",
+          "detail": "我军45架次军机舰船在台岛周边展开联合行动，这阵仗比双十一快递还密集。岛内网友调侃：这波操作比淘宝满减还频繁，建议直接包月。",
+          "usage": "💡 聊国际局势时\n💬 这是要搞环岛观光航线吗\n🔥 台海 军事 无人机",
+          "src_id": 8,
+          "tags": [
+            "军事",
+            "国际关系"
+          ],
+          "source": "https://www.toutiao.com/trending/7713080906977886746/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227713080906977886746%22%2C%22hot_board_impr_id%22%3A%222026112902005415C29AB8CC75A4C1A975%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%88%91%E5%86%9B45%E6%9E%B6%E8%89%98%E6%AC%A1%E5%86%9B%E6%9C%BA%E8%88%B0%E8%88%B9%E4%BD%8D%E5%8F%B0%E5%B2%9B%E5%91%A8%E8%BE%B9%E6%B4%BB%E5%8A%A8%22%7D&rank=&style_id=40132&topic_id=7713080906977886746"
+        }
+      ]
+    },
+    {
+      "name": "大佬动态",
+      "icon": "🎤",
+      "items": [
+        {
+          "title": "胡海泉跨界创投",
+          "summary": "从歌手到投资人",
+          "detail": "51岁的胡海泉从《奔跑》歌手转型创投圈，最近又因为碎碎念上热搜。这哥们的跨界程度比他的高音还飘，建议改名叫'胡投胡有理'。",
+          "usage": "💡 聊明星副业时\n💬 现在不会投资的歌手不是好段子手\n🔥 胡海泉 创投 跨界",
+          "src_id": 5,
+          "tags": [
+            "娱乐圈",
+            "投资"
+          ],
+          "source": "https://www.huxiu.com/article/4909238.html?f=rss"
+        },
+        {
+          "title": "于东来接地气",
+          "summary": "大佬酒吧合影引热议",
+          "detail": "有女生晒出和胖东来创始人于东来在酒吧的合影，表示'他很接地气'。网友：这才是真正的'下沉市场'，建议改名叫'胖东来夜店分店'。",
+          "usage": "💡 聊企业家形象时\n💬 老板这是亲自考察夜经济啊\n🔥 于东来 接地气 夜经济",
+          "src_id": 17,
+          "tags": [
+            "企业家",
+            "品牌营销"
+          ],
+          "source": "https://m.baidu.com/s?word=%E8%B7%9F%E4%BA%8E%E4%B8%9C%E6%9D%A5%E5%9C%A8%E9%85%92%E5%90%A7%E5%90%88%E5%BD%B1%E5%A5%B3%E7%94%9F%EF%BC%9A%E4%BB%96%E5%BE%88%E6%8E%A5%E5%9C%B0%E6%B0%94&sa=fyb_news"
+        }
+      ]
+    },
+    {
+      "name": "巨头动向",
+      "icon": "🏢",
+      "items": [
+        {
+          "title": "宝马新X5玄机",
+          "summary": "车身竟不是一整块",
+          "detail": "宝马在EuroCarBody大会上展示新X5车身结构，后底板用两根大型铝梁拼接。网友：连宝马都开始玩积木了，下一个DLC是不是要卖车身皮肤？",
+          "usage": "💡 聊汽车设计时\n💬 宝马这是要教乐高造车吗\n🔥 宝马 X5 车身设计",
+          "src_id": 2,
+          "tags": [
+            "汽车",
+            "工业设计"
+          ],
+          "source": "https://www.huxiu.com/article/4909241.html?f=rss"
+        },
+        {
+          "title": "Netflix押注土耳其",
+          "summary": "豪掷100亿拍剧",
+          "detail": "Netflix宣布未来3年向土耳其影视投入100亿里拉，准备用土耳其剧抢占拉美市场。网友：建议改名叫'网飞全球影视拼多多'，哪里便宜拍哪里。",
+          "usage": "💡 聊流媒体大战时\n💬 网飞这是要找土耳其拍《纸牌屋》特别篇？\n🔥 Netflix 土耳其剧 流媒体",
+          "src_id": 3,
+          "tags": [
+            "流媒体",
+            "文化输出"
+          ],
+          "source": "https://www.huxiu.com/article/4909240.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "组织变动",
+      "icon": "🔀",
+      "items": [
+        {
+          "title": "实验猴身价暴涨",
+          "summary": "26万一只抢不到",
+          "detail": "实验猴价格飙升至26万一只还供不应求，这身价快赶上北京学区房了。生物医药公司HR：现在招人不如直接招猴，性价比更高。",
+          "usage": "💡 聊医药研发成本时\n💬 这猴比我年终奖还值钱\n🔥 实验猴 医药研发 成本",
+          "src_id": 15,
+          "tags": [
+            "医药",
+            "实验动物"
+          ],
+          "source": "https://m.baidu.com/s?word=%E5%AE%9E%E9%AA%8C%E7%8C%B4%E4%BB%B7%E6%A0%BC%E9%A3%99%E6%B6%A8%E8%87%B326%E4%B8%87%E4%B8%80%E5%8F%AA&sa=fyb_news"
+        },
+        {
+          "title": "OpenAI治理难题",
+          "summary": "AI发展速度超监管",
+          "detail": "OpenAI首席科学家Jakub Pachocki谈AI治理困境：技术迭代速度已经超过制度建设。网友：建议AI先学学怎么写八股文，别跑太快。",
+          "usage": "💡 聊AI监管时\n💬 AI发展速度比我的需求变更还快\n🔥 OpenAI AI治理 监管",
+          "src_id": 4,
+          "tags": [
+            "人工智能",
+            "政策"
+          ],
+          "source": "https://www.huxiu.com/article/4909239.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "前沿探索",
+      "icon": "🚀",
+      "items": [
+        {
+          "title": "从深圳到天宫",
+          "summary": "中国航天新突破",
+          "detail": "中国空间站迎来新阶段，'深圳时间'到'天宫时间'的跨越。网友：建议开发'天宫外卖'服务，给航天员送奶茶。",
+          "usage": "💡 聊航天成就时\n💬 啥时候能买天宫一日游门票\n🔥 空间站 航天 商业航天",
+          "src_id": 7,
+          "tags": [
+            "航天",
+            "科技突破"
+          ],
+          "source": "https://m.baidu.com/s?word=%E4%BB%8E%E2%80%9C%E6%B7%B1%E5%9C%B3%E6%97%B6%E9%97%B4%E2%80%9D%E5%88%B0%E2%80%9C%E5%A4%A9%E5%AE%AB%E2%80%9D%E8%BF%8E%E5%AE%A2&sa=fyb_news"
+        },
+        {
+          "title": "美国关税新花样",
+          "summary": "明枪暗箭针对中国",
+          "detail": "美国出台新关税政策，被专家称为'明枪暗箭'。中国制造：你尽管加税，少卖一件算我输。",
+          "usage": "💡 聊国际贸易时\n💬 美国这是要搞科技冷战2.0？\n🔥 关税 贸易战 中国制造",
+          "src_id": 6,
+          "tags": [
+            "贸易",
+            "政策"
+          ],
+          "source": "https://www.huxiu.com/article/4909237.html?f=rss"
+        }
+      ]
+    },
+    {
+      "name": "新品发布",
+      "icon": "📱",
+      "items": [
+        {
+          "title": "冰雪经济新玩法",
+          "summary": "今冬消费新趋势",
+          "detail": "冰雪季来临，各种新玩法层出不穷。滑雪场开始提供'摔倒保险'，网友：建议再开发'自拍杆防冻'增值服务。",
+          "usage": "💡 聊冬季旅游时\n💬 现在滑雪比程序员写代码还卷\n🔥 冰雪经济 冬季旅游 消费",
+          "src_id": 13,
+          "tags": [
+            "旅游",
+            "消费"
+          ],
+          "source": "https://m.baidu.com/s?word=%E5%86%B0%E9%9B%AA%E5%AD%A3%E6%9D%A5%E4%BA%86+%E8%A7%A3%E9%94%81%E4%BB%8A%E5%B9%B4%E6%96%B0%E7%8E%A9%E6%B3%95&sa=fyb_news"
+        },
+        {
+          "title": "日本重新定义老人",
+          "summary": "年龄标准要调整",
+          "detail": "日本拟调整'老人'定义，可能要70岁才算老人。中国90后：建议同步调整'中年危机'年龄标准。",
+          "usage": "💡 聊人口老龄化时\n💬 日本这是要把社畜寿命再延长？\n🔥 老龄化 日本 年龄标准",
+          "src_id": 11,
+          "tags": [
+            "社会",
+            "人口"
+          ],
+          "source": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E6%8B%9F%E8%B0%83%E6%95%B4%E2%80%9C%E8%80%81%E4%BA%BA%E2%80%9D%E5%AE%9A%E4%B9%89&sa=fyb_news"
+        }
+      ]
+    },
+    {
+      "name": "创业大戏",
+      "icon": "🎬",
+      "items": [
+        {
+          "title": "52人摘橘留10元",
+          "summary": "警方提级办理",
+          "detail": "52人组团摘橘子只留10元，被警方提级办理。网友：这年头连农家乐都要防'薅羊毛'了。",
+          "usage": "💡 聊乡村旅游乱象时\n💬 建议开发'摘橘子实名制'系统\n🔥 乡村旅游 消费乱象 法律",
+          "src_id": 10,
+          "tags": [
+            "旅游",
+            "法律"
+          ],
+          "source": "https://www.toutiao.com/trending/7712644569263079478/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227712644569263079478%22%2C%22hot_board_impr_id%22%3A%222026112902005415C29AB8CC75A4C1A975%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2252%E4%BA%BA%E6%91%98%E6%A9%98%E4%BB%85%E7%95%9910%E5%85%83%E8%AD%A6%E6%96%B9%E6%8F%90%E7%BA%A7%E5%8A%9E%E7%90%86%22%7D&rank=&style_id=40132&topic_id=7712644569263079478"
+        },
+        {
+          "title": "水房诈骗案曝光",
+          "summary": "揭开洗钱黑幕",
+          "detail": "警方揭秘'水房'洗钱黑产，诈骗手段堪比剧本杀。网友：建议把这些编剧招安去写反诈宣传片。",
+          "usage": "💡 聊网络安全时\n💬 现在骗子剧本比国产剧还精彩\n🔥 诈骗 洗钱 网络安全",
+          "src_id": 16,
+          "tags": [
+            "犯罪",
+            "金融"
+          ],
+          "source": "https://www.toutiao.com/trending/7713057027656106534/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227713057027656106534%22%2C%22hot_board_impr_id%22%3A%222026112902005415C29AB8CC75A4C1A975%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%8F%AD%E9%9C%B2%E2%80%9C%E6%B0%B4%E6%88%BF%E2%80%9D%E9%87%8C%E7%9A%84%E7%BD%AA%E6%81%B6%E5%8B%BE%E5%BD%93%22%7D&rank=&style_id=40132&topic_id=7713057027656106534"
+        }
+      ]
+    },
+    {
+      "name": "币圈风云",
+      "icon": "🪙",
+      "items": [
+        {
+          "title": "霍启山新恋情",
+          "summary": "与娜然官宣",
+          "detail": "霍启山与娜然宣布恋情，网友开始计算这是霍家第几个上热搜的姻缘。建议霍家直接开个'豪门婚恋'真人秀，收视率绝对爆表。",
+          "usage": "💡 聊豪门八卦时\n💬 霍家这是要把热搜包年啊\n🔥 霍启山 娜然 豪门",
+          "src_id": 18,
+          "tags": [
+            "娱乐圈",
+            "豪门"
+          ],
+          "source": "https://www.toutiao.com/trending/7713196524175983131/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227713196524175983131%22%2C%22hot_board_impr_id%22%3A%222026112902005415C29AB8CC75A4C1A975%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%9C%8D%E5%90%AF%E5%B1%B1%E5%A8%9C%E7%84%B6%E5%AE%A3%E5%B8%83%E6%81%8B%E6%83%85%22%7D&rank=&style_id=40132&topic_id=7713196524175983131"
+        },
+        {
+          "title": "英语教育变革",
+          "summary": "未来何去何从",
+          "detail": "英语科目改革引发热议，培训机构开始转型教'元宇宙英语'。网友：建议开发'AI口语陪练'，专治李雷韩梅梅式对话。",
+          "usage": "💡 聊教育改革时\n💬 现在学英语不如学Python\n🔥 英语教育 改革 培训",
+          "src_id": 14,
+          "tags": [
+            "教育",
+            "语言"
+          ],
+          "source": "https://www.toutiao.com/trending/7713171423593775625/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227713171423593775625%22%2C%22hot_board_impr_id%22%3A%222026112902005415C29AB8CC75A4C1A975%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B1%E8%AF%AD%E7%A7%91%E7%9B%AE%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E%22%7D&rank=&style_id=40132&topic_id=7713171423593775625"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-28T18:02:00.988Z",
+  "slot": "weekend-evening",
+  "slot_label": "周末傍晚 · 家庭闲聊",
+  "meta": {
+    "model": "deepseek/deepseek-chat",
+    "actual_model": "deepseek/deepseek-chat",
+    "prompt_tokens": 5434,
+    "completion_tokens": 2229,
+    "total_tokens": 7663,
+    "cost_usd": 0.0036916839,
+    "free": false,
+    "sources": {
+      "per_source": {
+        "kr36": 0,
+        "huxiu": 6,
+        "baidu": 20,
+        "toutiao": 20
+      },
+      "total": 18
+    }
+  }
+}
